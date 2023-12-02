@@ -52,50 +52,51 @@ def create_inverted_index(feature_names, tfidf_matrix, docs):
         index[term] = sorted_term_scores
     return index
 
-# Initialize three separate vectorizers
-vectorizer_inclusion = TfidfVectorizer(tokenizer=tokenize_and_stem)
-vectorizer_exclusion = TfidfVectorizer(tokenizer=tokenize_and_stem)
-vectorizer_title_desc_mesh = TfidfVectorizer(tokenizer=tokenize_and_stem)
+if __name__ == "__main__":
+    # Initialize three separate vectorizers
+    vectorizer_inclusion = TfidfVectorizer(tokenizer=tokenize_and_stem)
+    vectorizer_exclusion = TfidfVectorizer(tokenizer=tokenize_and_stem)
+    vectorizer_title_desc_mesh = TfidfVectorizer(tokenizer=tokenize_and_stem)
 
-inclusion_criteria = []
-exclusion_criteria = []
-title_desc_mesh = []
-doc_ids = []
+    inclusion_criteria = []
+    exclusion_criteria = []
+    title_desc_mesh = []
+    doc_ids = []
 
-PATH_TO_TRIALS = 'testing_trials'
+    PATH_TO_TRIALS = 'testing_trials'
 
-i = 1
-# Iterate over folders and files
-for folder in os.listdir(PATH_TO_TRIALS):
-    for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-        with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
-            if file.endswith('.xml'):
-                content = f.read()
-                inc, exc, tdm = extract_components(content)
-                if inc !='':
-                    inclusion_criteria.append(inc)
-                if exc != '':
-                    exclusion_criteria.append(exc)
-                if tdm != '':
-                    title_desc_mesh.append(tdm)
-                doc_ids.append(file[:-4])  # Assuming file names are the document IDs
-                print(f"Processed {i} files")  # Print progress
-                i += 1
+    i = 1
+    # Iterate over folders and files
+    for folder in os.listdir(PATH_TO_TRIALS):
+        for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
+            with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
+                if file.endswith('.xml'):
+                    content = f.read()
+                    inc, exc, tdm = extract_components(content)
+                    if inc !='':
+                        inclusion_criteria.append(inc)
+                    if exc != '':
+                        exclusion_criteria.append(exc)
+                    if tdm != '':
+                        title_desc_mesh.append(tdm)
+                    doc_ids.append(file[:-4])  # Assuming file names are the document IDs
+                    print(f"Processed {i} files")  # Print progress
+                    i += 1
 
-# Fit and transform the texts
-tfidf_inclusion = vectorizer_inclusion.fit_transform(inclusion_criteria)
-tfidf_exclusion = vectorizer_exclusion.fit_transform(exclusion_criteria)
-tfidf_title_desc_mesh = vectorizer_title_desc_mesh.fit_transform(title_desc_mesh)
+    # Fit and transform the texts
+    tfidf_inclusion = vectorizer_inclusion.fit_transform(inclusion_criteria)
+    tfidf_exclusion = vectorizer_exclusion.fit_transform(exclusion_criteria)
+    tfidf_title_desc_mesh = vectorizer_title_desc_mesh.fit_transform(title_desc_mesh)
 
-# Create inverted indexes
-inclusion_index = create_inverted_index(vectorizer_inclusion.get_feature_names_out(), tfidf_inclusion, doc_ids)
-exclusion_index = create_inverted_index(vectorizer_exclusion.get_feature_names_out(), tfidf_exclusion, doc_ids)
-title_desc_mesh_index = create_inverted_index(vectorizer_title_desc_mesh.get_feature_names_out(), tfidf_title_desc_mesh, doc_ids)
+    # Create inverted indexes
+    inclusion_index = create_inverted_index(vectorizer_inclusion.get_feature_names_out(), tfidf_inclusion, doc_ids)
+    exclusion_index = create_inverted_index(vectorizer_exclusion.get_feature_names_out(), tfidf_exclusion, doc_ids)
+    title_desc_mesh_index = create_inverted_index(vectorizer_title_desc_mesh.get_feature_names_out(), tfidf_title_desc_mesh, doc_ids)
 
-# Save to JSON files
-with open('inclusion_criteria_index.json', 'w') as f:
-    json.dump(inclusion_index, f)
-with open('exclusion_criteria_index.json', 'w') as f:
-    json.dump(exclusion_index, f)
-with open('title_desc_mesh_index.json', 'w') as f:
-    json.dump(title_desc_mesh_index, f)
+    # Save to JSON files
+    with open('inclusion_criteria_index.json', 'w') as f:
+        json.dump(inclusion_index, f)
+    with open('exclusion_criteria_index.json', 'w') as f:
+        json.dump(exclusion_index, f)
+    with open('title_desc_mesh_index.json', 'w') as f:
+        json.dump(title_desc_mesh_index, f)
