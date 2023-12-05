@@ -1,8 +1,20 @@
 import xml.etree.ElementTree as ET
 import re
-from create_tfidf_inclusion_exclusion import tokenize_and_stem
 from collections import defaultdict
 import json
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.stem.porter import PorterStemmer
+from nltk.corpus import stopwords
+
+# Ensure you have the necessary nltk data
+# nltk.download('punkt')
+# nltk.download('stopwords')
+
+# Initialize stemmer
+stemmer = PorterStemmer()
+
+
 
 def extract_queries(file_path):
     # Parse the XML content from the file
@@ -17,13 +29,12 @@ def extract_queries(file_path):
         # Extract the text content of the topic
         # Use regex to remove unnecessary whitespace
         text = re.sub(r'\s+', ' ', topic.text).strip()
-
         # Append the cleaned text to the queries list
         queries.append(text)
 
     return queries
 
-def retrieve_and_score(query, inverted_index):
+def retrieve_and_score(query_terms, inverted_index): #changed
     # Retrieve the posting lists for each query term
     posting_lists = {term: inverted_index.get(term, {}) for term in query_terms}
     
@@ -66,7 +77,7 @@ if __name__ == "__main__":
     for query in extracted_queries:
         print(f"-------------------------------------------------------------------\nquery: {query}\n")
         # Tokenize and preprocess the query terms
-        query_terms = tokenize_and_stem(query)
+        query_terms = query.lower().split()
         #search against i_index -> score i_score, weight = 33
         i_scores = retrieve_and_score(query_terms, i_index)
         #search against e_index -> score e_score, weight = 44

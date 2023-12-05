@@ -5,21 +5,14 @@ import json
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
 
 # Ensure you have the necessary nltk data
 nltk.download('punkt')
+nltk.download('stopwords')
 
 # Initialize stemmer
 stemmer = PorterStemmer()
-
-def tokenize_and_stem(text):
-    # Tokenize by word
-    tokens = word_tokenize(text)
-    # Filter out any tokens not containing letters
-    filtered_tokens = [word for word in tokens if word.isalpha()]
-    # Stem the filtered tokens
-    stems = [stemmer.stem(t) for t in filtered_tokens]
-    return stems
 
 # Function to extract different components using regex
 def extract_components(content):
@@ -54,16 +47,16 @@ def create_inverted_index(feature_names, tfidf_matrix, docs):
 
 if __name__ == "__main__":
     # Initialize three separate vectorizers
-    vectorizer_inclusion = TfidfVectorizer(tokenizer=tokenize_and_stem)
-    vectorizer_exclusion = TfidfVectorizer(tokenizer=tokenize_and_stem)
-    vectorizer_title_desc_mesh = TfidfVectorizer(tokenizer=tokenize_and_stem)
+    vectorizer_inclusion = TfidfVectorizer()
+    vectorizer_exclusion = TfidfVectorizer()
+    vectorizer_title_desc_mesh = TfidfVectorizer()
 
     inclusion_criteria = []
     exclusion_criteria = []
     title_desc_mesh = []
     doc_ids = []
 
-    PATH_TO_TRIALS = 'testing_trials'
+    PATH_TO_TRIALS = 'trials/ClinicalTrials.2021-04-27.part1'
 
     i = 1
     # Iterate over folders and files
@@ -71,7 +64,10 @@ if __name__ == "__main__":
         for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
             with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
                 if file.endswith('.xml'):
-                    content = f.read()
+                    try:
+                        content = f.read()
+                    except:
+                        continue
                     inc, exc, tdm = extract_components(content)
                     if inc !='':
                         inclusion_criteria.append(inc)
