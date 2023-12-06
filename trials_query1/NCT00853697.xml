@@ -1,0 +1,273 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00853697</url>
+  </required_header>
+  <id_info>
+    <org_study_id>09-008</org_study_id>
+    <nct_id>NCT00853697</nct_id>
+  </id_info>
+  <brief_title>Exogenous Testosterone Plus Dutasteride for the Treatment of Castrate Metastatic Prostate Cancer</brief_title>
+  <official_title>Phase II Trial of Exogenous Testosterone Plus Dutasteride for the Treatment of Castrate Metastatic Prostate Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Usually, the male hormone testosterone makes prostate cancer cells grow. Lowering&#xD;
+      testosterone usually stops the growth of prostate cancer. However, after a period of time&#xD;
+      without testosterone, prostate cancer cells learn to grow again.&#xD;
+&#xD;
+      You are able to join this trial because your prostate cancer is growing even though you have&#xD;
+      very low levels of testosterone. Studies have shown that high doses of testosterone, in this&#xD;
+      situation, can cause prostate cancer cells to stop growing.&#xD;
+&#xD;
+      The investigators did a study several years ago in which the investigators gave high doses of&#xD;
+      testosterone to patients such as yourself. The investigators showed that giving testosterone&#xD;
+      in this situation was safe. The investigators also showed that the investigators could, in&#xD;
+      some cases, make the PSA go down using high-dose testosterone.&#xD;
+&#xD;
+      The investigators believe that they can improve this type of treatment by combining&#xD;
+      testosterone with another drug called dutasteride. Dutasteride is another type of hormone. It&#xD;
+      should make testosterone levels rise. The investigators believe that combination of&#xD;
+      dutasteride and testosterone will be more a more powerful regimen against your cancer than&#xD;
+      testosterone alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2009</start_date>
+  <completion_date type="Actual">November 2012</completion_date>
+  <primary_completion_date type="Actual">November 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>determine anti-tumor effects of the combination of testosterone + dutasteride in pts with castration-resistant prostate ca, as indicated by the proportion of pts remaining alive &amp; progression free</measure>
+    <time_frame>12 weeks from the start of testosterone treatment</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To explore the association between AR expression in CRPC, as determined at baseline separately by AR FISH (performed on CTCs) and by 18F-FDHT uptake on PET scan, and progression free survival to the combination of testosterone plus dutasteride.</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To correlate post-treatment changes in CTCs and FDG and FDHT PET scans with post-treatment alterations in PSA and standard CT (or MRI) and bone scans.</measure>
+    <time_frame>post treatment</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">6</enrollment>
+  <condition>Prostate Cancer</condition>
+  <condition>Castration-resistant, Metastatic</condition>
+  <arm_group>
+    <arm_group_label>testosterone with the 5α-reductase inhibitor dutast</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This trial is a multi-center, open-label, phase II trial of the combination of exogenous testosterone (AndroGel®) with the 5α-reductase inhibitor dutasteride in patients with castration-resistant metastatic prostate cancer.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>testosterone (AndroGel®) with the 5α-reductase inhibitor dutasteride</intervention_name>
+    <description>Patients will be treated with dutasteride 3.5 mg once daily (oral administration). To avoid rapid conversion of testosterone to DHT in case 5α-reductase is not adequately inhibited during the first few days of concurrent treatment with dutasteride and testosterone, daily dutasteride treatment will be initiated 7 days prior to testosterone initiation.&#xD;
+Patients will receive AndroGel® at the dose of 15 g (3 times the standard replacement dose for hypogonadism) once daily (topical administration), starting on Day 8 and continuing for 12 weeks (or until disease progression or withdrawal from the study).</description>
+    <arm_group_label>testosterone with the 5α-reductase inhibitor dutast</arm_group_label>
+    <other_name>Patients will be seen in clinic on day 8 and then on day 15±3, day 22±3, day 36±3 and</other_name>
+    <other_name>during weeks 9 and 13 (±3 days), for a physical examination, safety assessments,</other_name>
+    <other_name>and laboratory studies. Blood will be drawn at baseline, on day 8 and then on</other_name>
+    <other_name>day 22±3, day 36±3 and during weeks 9 and 13 (±3 days), and at the completion</other_name>
+    <other_name>of the study (week 13 or if patient is removed from study earlier) for the</other_name>
+    <other_name>following assessments: CBC, comprehensive metabolic panel, PSA, testosterone,</other_name>
+    <other_name>free testosterone, DHT, SHBG, LDH, lipid panel.</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients should have histologically confirmed castration-resistant metastatic prostate&#xD;
+             cancer with evidence of disease progression. Patients must have been in a castrate&#xD;
+             state either by orchiectomy or by GnRH analogues for a minimum of one year. In detail,&#xD;
+             they should meet all of the following criteria:&#xD;
+&#xD;
+          -  Adult male &gt; or = to 18 years of age&#xD;
+&#xD;
+          -  Histologically confirmed prostate cancer, currently with progressive disease, defined&#xD;
+             as rising PSA (50% or more increase to a level of 2 ng/mL or more, based on at least 3&#xD;
+             PSA determinations obtained at least 1 weeks apart), or 2 new osseous lesions by bone&#xD;
+             scan, soft tissue disease progression by RECIST 1.1 criteria , or the appearance of&#xD;
+             new sites of disease (by MRI/CT).&#xD;
+&#xD;
+          -  Evidence of metastatic disease, documented within 4 weeks prior to dutasteride&#xD;
+             treatment initiation, based on a:&#xD;
+&#xD;
+               -  CT or MRI of the abdomen and pelvis, and/or&#xD;
+&#xD;
+               -  Radionuclide bone scan (in case of findings suspicious for spinal metastasis, MRI&#xD;
+                  of the spine will be performed to rule out epidural disease)&#xD;
+&#xD;
+          -  Serum PSA ≥ 2 ng/mL within 4 weeks prior to dutasteride treatment initiation in order&#xD;
+             to register to the protocol&#xD;
+&#xD;
+          -  Normal organ function with acceptable initial laboratory values documented within 4&#xD;
+             weeks prior to dutasteride treatment initiation:&#xD;
+&#xD;
+               -  WBC &gt; or = to 3000/µL&#xD;
+&#xD;
+               -  Platelets &gt; or = to 100,000/µL&#xD;
+&#xD;
+               -  Creatinine &lt; or = to 2 mg/dL&#xD;
+&#xD;
+               -  Bilirubin &lt; or = to 1.5 X ULN (institutional upper limits of normal)&#xD;
+&#xD;
+               -  AST/ALT &lt; or = to 2 X ULN&#xD;
+&#xD;
+          -  Karnofsky performance status &gt; or = to 70%&#xD;
+&#xD;
+          -  Willingness to undergo serial blood draws for the purpose of measuring CTCs and other&#xD;
+             biomarkers. MSKCC patients will need to agree to participate in MSKCC protocol 90-040&#xD;
+             Molecular studies and clinical correlations in human prostate cancer [PI: Scher].&#xD;
+             Also, MSKCC patients will undergo serial imaging by FDHT and FDG PET scans, under&#xD;
+             protocol 00-095 [18f]-fluoro-2-deoxy-D-glucose and [18f]-dihydro-testosterone PET&#xD;
+             imaging in patients with progressive prostate cancer (PI: Morris), depending on tracer&#xD;
+             and scanner time availability. If the study is opened in other centers outside MSKCC,&#xD;
+             those centers will be exempt from procedures linked to the MSKCC Protocol # 00-095.&#xD;
+&#xD;
+          -  ADT treatment for at least 12 months prior to study entry with serum testosterone &lt; 50&#xD;
+             ng/dL.&#xD;
+&#xD;
+          -  Ability to understand and willingness to sign a written informed consent document&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients meeting any of the following criteria will not be eligible for study entry:&#xD;
+&#xD;
+          -  Evidence of small-cell or neuroendocrine pathologic features&#xD;
+&#xD;
+          -  Uncontrolled urinary obstruction&#xD;
+&#xD;
+          -  Osseous metastatic disease with imminent risk (at the discretion of the treating&#xD;
+             physician) of pathologic fracture or cord compression (in patients with known spinal&#xD;
+             metastasis raising concern for cord compression, MRI of the spine should be performed&#xD;
+             to rule out epidural disease)&#xD;
+&#xD;
+          -  Any situation where, at the discretion of the treating physician, a potential &quot;tumor&#xD;
+             flare&quot; would be life-threatening&#xD;
+&#xD;
+          -  Sleep apnea (unless under good control with current treatment)&#xD;
+&#xD;
+          -  Polycythemia vera&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or&#xD;
+             biological composition to dutasteride&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active&#xD;
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac&#xD;
+             arrhythmia, or psychiatric illness or social situation that would compromise&#xD;
+             compliance with study requirements&#xD;
+&#xD;
+          -  Currently active secondary malignancy (as determined by the treating physician) other&#xD;
+             than non-melanoma skin cancer&#xD;
+&#xD;
+          -  Use of the following medications will be prohibited during the study:&#xD;
+&#xD;
+               -  Current and/or previous use of the following medications:&#xD;
+&#xD;
+               -  Finasteride (Proscar, Propecia) or dutasteride (GI198745, Avodart) exposure&#xD;
+                  within 6 months of study entry.&#xD;
+&#xD;
+               -  Anabolic androgenic steroids, including but not limited to testosterone, 17β&#xD;
+                  testosterone esters, methyltestosterone, stanozolol, and danazol (within 6 months&#xD;
+                  of study entry). Corticosteroids, including hydrocortisone, dexamethasone and&#xD;
+                  prednisone are acceptable.&#xD;
+&#xD;
+               -  Additional hormonal therapy within 4 weeks of study entry:&#xD;
+&#xD;
+               -  Including megestrol, medroxyprogesterone, cyproterone, and DES&#xD;
+&#xD;
+               -  Drugs with antiandrogenic properties (eg, spironolactone if &gt; 50mg/d, flutamide,&#xD;
+                  bicalutamide, nilutamide, ketoconazole,* progestational agents) * Includes&#xD;
+                  topical ketoconazole.&#xD;
+&#xD;
+          -  Evidence of epidural disease by MRI&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Morris, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org</url>
+    <description>Memorial Sloan-Kettering Cancer Center</description>
+  </link>
+  <verification_date>October 2015</verification_date>
+  <study_first_submitted>February 26, 2009</study_first_submitted>
+  <study_first_submitted_qc>February 26, 2009</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 2, 2009</study_first_posted>
+  <last_update_submitted>October 28, 2015</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 30, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Prostate</keyword>
+  <keyword>DUTASTERIDE</keyword>
+  <keyword>TESTOSTERONE</keyword>
+  <keyword>09-008</keyword>
+  <keyword>Consortium Protocol LOI# c09-028</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methyltestosterone</mesh_term>
+    <mesh_term>Testosterone</mesh_term>
+    <mesh_term>Testosterone undecanoate</mesh_term>
+    <mesh_term>Testosterone enanthate</mesh_term>
+    <mesh_term>Testosterone 17 beta-cypionate</mesh_term>
+    <mesh_term>Dutasteride</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

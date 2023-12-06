@@ -1,0 +1,454 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00093353</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000373759</org_study_id>
+    <secondary_id>P01CA081403</secondary_id>
+    <secondary_id>N2003-01</secondary_id>
+    <nct_id>NCT00093353</nct_id>
+  </id_info>
+  <brief_title>N2003-01: Irinotecan, Temozolomide, and Cefixime in Treating Young Patients With Recurrent or Resistant Neuroblastoma</brief_title>
+  <official_title>A Phase I Study Of Oral Irinotecan, Temozolomide, Cefixime In Children With Recurrent/Resistant High-Risk Neuroblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital Los Angeles</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy, such as irinotecan and temozolomide, work in different&#xD;
+      ways to stop tumor cells from dividing so they stop growing or die. Temozolomide may help&#xD;
+      irinotecan kill more tumor cells by making them more sensitive to the drug. Cefixime may be&#xD;
+      effective in preventing diarrhea that is caused by treatment with irinotecan.&#xD;
+&#xD;
+      PURPOSE: This phase I trial is studying the side effects and best dose of irinotecan when&#xD;
+      given together with temozolomide and cefixime in treating young patients with recurrent or&#xD;
+      resistant neuroblastoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+      Primary&#xD;
+&#xD;
+        -  Determine the maximum tolerated dose of oral irinotecan when administered with&#xD;
+           fixed-dose temozolomide and cefixime in pediatric patients with recurrent or resistant&#xD;
+           high-risk neuroblastoma.&#xD;
+&#xD;
+        -  Determine the toxic effects of this regimen in these patients.&#xD;
+&#xD;
+      Secondary&#xD;
+&#xD;
+        -  Determine the response rate in patients treated with this regimen.&#xD;
+&#xD;
+        -  Determine the pharmacokinetics of this regimen in these patients.&#xD;
+&#xD;
+        -  Correlate UGT1A1 genotype with the occurrence of dose-limiting diarrhea in patients&#xD;
+           treated with this regimen.&#xD;
+&#xD;
+        -  Correlate BCRP genotype with pharmacokinetic phenotype in patients treated with this&#xD;
+           regimen.&#xD;
+&#xD;
+        -  Correlate p53 status in tumor cells with response in patients treated with this regimen.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter, dose-escalation study of irinotecan.&#xD;
+&#xD;
+      Patients receive oral cefixime once daily beginning 5 days before the start of fixed-dose&#xD;
+      temozolomide and irinotecan and continuing for the duration of the study. Patients also&#xD;
+      receive oral temozolomide once daily on days 1-5 and oral irinotecan once daily on days 1-5&#xD;
+      and 8-12. Courses repeat every 21 days in the absence of disease progression or unacceptable&#xD;
+      toxicity.&#xD;
+&#xD;
+      Cohorts of 3-6 patients receive escalating doses of irinotecan until the maximum tolerated&#xD;
+      dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2&#xD;
+      of 6 patients experience dose-limiting toxicity. A maximum of 12 patients are treated at the&#xD;
+      MTD.&#xD;
+&#xD;
+      Patients are followed for toxicity, response, and survival.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 15-30 patients will be accrued for this study within 1.25&#xD;
+      years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2004</start_date>
+  <primary_completion_date type="Actual">July 2006</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Diarrhea</condition>
+  <condition>Drug/Agent Toxicity by Tissue/Organ</condition>
+  <condition>Neuroblastoma</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cefixime</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>irinotecan hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed neuroblastoma AND/OR demonstration of tumor cells in the bone&#xD;
+             marrow with increased urinary catecholamines&#xD;
+&#xD;
+               -  High-risk disease meeting 1 of the following criteria:&#xD;
+&#xD;
+                    -  Recurrent or progressive disease&#xD;
+&#xD;
+                    -  Resistant or refractory disease (i.e., never achieved a complete response to&#xD;
+                       therapy AND never had new sites of disease or progression of initial sites)&#xD;
+&#xD;
+          -  Measurable disease meeting at least 1 of the following criteria:&#xD;
+&#xD;
+               -  Unidimensionally measurable tumor ≥ 20 mm by MRI, CT scan, or x-ray OR ≥ 10 mm by&#xD;
+                  spiral CT scan*&#xD;
+&#xD;
+               -  At least 1 site with positive uptake by metaiodobenzylguanidine (MIBG) scan*&#xD;
+&#xD;
+               -  Bone marrow with tumor cells seen on routine morphology (not by NSE staining&#xD;
+                  only) of bilateral aspirate AND/OR biopsy on 1 bone marrow sample NOTE: *Patients&#xD;
+                  who never experienced disease recurrence or progression must demonstrate viable&#xD;
+                  neuroblastoma in a biopsy of either bone marrow or bone and/or soft tissue site&#xD;
+                  (biopsy must be performed ≥ 4 weeks after completion of prior radiotherapy if&#xD;
+                  lesion was irradiated)&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age&#xD;
+&#xD;
+          -  1 to 30 at diagnosis&#xD;
+&#xD;
+        Performance status&#xD;
+&#xD;
+          -  ECOG 0-2&#xD;
+&#xD;
+        Life expectancy&#xD;
+&#xD;
+          -  At least 2 months&#xD;
+&#xD;
+        Hematopoietic&#xD;
+&#xD;
+          -  Absolute neutrophil count ≥ 750/mm^3&#xD;
+&#xD;
+          -  Platelet count ≥ 75,000/mm^3 (without transfusion)&#xD;
+&#xD;
+          -  Hemoglobin ≥ 8.0 g/dL (transfusion allowed)&#xD;
+&#xD;
+        Hepatic&#xD;
+&#xD;
+          -  SGPT and SGOT &lt; 5 times normal&#xD;
+&#xD;
+          -  Bilirubin ≤ 1.5 times normal&#xD;
+&#xD;
+        Renal&#xD;
+&#xD;
+          -  Creatinine ≤ 1.5 times normal for age&#xD;
+&#xD;
+               -  No greater than 0.8 mg/dL (≤ 5 years of age)&#xD;
+&#xD;
+               -  No greater than 1.0 mg/dL (6 to 10 years of age)&#xD;
+&#xD;
+               -  No greater than 1.2 mg/dL (11 to 15 years of age)&#xD;
+&#xD;
+               -  No greater than 1.5 mg/dL (&gt; 15 years of age)&#xD;
+&#xD;
+        Other&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  No allergy to cephalosporins&#xD;
+&#xD;
+          -  No active diarrhea&#xD;
+&#xD;
+          -  No uncontrolled infection&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy&#xD;
+&#xD;
+          -  See Chemotherapy&#xD;
+&#xD;
+          -  Recovered from prior immunotherapy&#xD;
+&#xD;
+          -  More than 3 weeks since prior biologic therapy and recovered&#xD;
+&#xD;
+          -  More than 2 days since prior hematopoietic growth factors&#xD;
+&#xD;
+          -  No concurrent epoetin alfa&#xD;
+&#xD;
+          -  No concurrent prophylactic hematopoietic growth factors during the first treatment&#xD;
+             course&#xD;
+&#xD;
+          -  No concurrent immunomodulating agents except steroids to control intracranial pressure&#xD;
+&#xD;
+        Chemotherapy&#xD;
+&#xD;
+          -  Prior myeloablative therapy and autologous stem cell transplantation allowed&#xD;
+&#xD;
+               -  No prior allogeneic stem cell transplantation&#xD;
+&#xD;
+          -  More than 3 weeks since prior myelosuppressive chemotherapy (4 weeks for nitrosoureas)&#xD;
+             and recovered&#xD;
+&#xD;
+          -  Prior temozolomide, irinotecan, or topotecan allowed&#xD;
+&#xD;
+               -  No prior temozolomide and irinotecan as combination therapy&#xD;
+&#xD;
+          -  No other concurrent chemotherapy&#xD;
+&#xD;
+        Endocrine therapy&#xD;
+&#xD;
+          -  See Biologic therapy&#xD;
+&#xD;
+        Radiotherapy&#xD;
+&#xD;
+          -  At least 6 weeks since prior large field radiotherapy (e.g., total body irradiation,&#xD;
+             craniospinal therapy, whole abdomen, total lung, or &gt; 50% bone marrow space) and&#xD;
+             recovered&#xD;
+&#xD;
+          -  At least 4 weeks since prior radiotherapy to biopsied lesions (for study entry) and&#xD;
+             recovered&#xD;
+&#xD;
+          -  At least 6 weeks since prior MIBG therapy&#xD;
+&#xD;
+          -  Concurrent radiotherapy to painful lesions allowed provided the lesions are not used&#xD;
+             to assess treatment response&#xD;
+&#xD;
+        Surgery&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Other&#xD;
+&#xD;
+          -  No concurrent enzyme-inducing anticonvulsants (e.g., phenobarbital, phenytoin, or&#xD;
+             carbamazepine)&#xD;
+&#xD;
+          -  No other concurrent anticancer agents&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>30 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lars M. Wagner, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Katherine K. Matthay, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's Hospital Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027-0700</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lucile Packard Children's Hospital at Stanford University Medical Center</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Comprehensive Cancer Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AFLAC Cancer Center and Blood Disorders Service of Children's Healthcare of Atlanta - Egleston Campus</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Memorial Hospital - Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University Cancer Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202-5289</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Boston</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber/Harvard Cancer Center at Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Comprehensive Cancer Center</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-0718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229-3039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Cancer Center and Hematology Service at Texas Children's Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-2399</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital and Regional Medical Center - Seattle</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Wagner LM, Villablanca JG, Stewart CF, Crews KR, Groshen S, Reynolds CP, Park JR, Maris JM, Hawkins RA, Daldrup-Link HE, Jackson HA, Matthay KK. Phase I trial of oral irinotecan and temozolomide for children with relapsed high-risk neuroblastoma: a new approach to neuroblastoma therapy consortium study. J Clin Oncol. 2009 Mar 10;27(8):1290-6. doi: 10.1200/JCO.2008.18.5918. Epub 2009 Jan 26.</citation>
+    <PMID>19171709</PMID>
+  </results_reference>
+  <verification_date>May 2009</verification_date>
+  <study_first_submitted>October 6, 2004</study_first_submitted>
+  <study_first_submitted_qc>October 7, 2004</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 8, 2004</study_first_posted>
+  <last_update_submitted>October 14, 2010</last_update_submitted>
+  <last_update_submitted_qc>October 14, 2010</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 15, 2010</last_update_posted>
+  <responsible_party>
+    <name_title>Lars Wagner, M.D.</name_title>
+    <organization>Cincinnati Children's Hospital Medical Center</organization>
+  </responsible_party>
+  <keyword>diarrhea</keyword>
+  <keyword>drug/agent toxicity by tissue/organ</keyword>
+  <keyword>disseminated neuroblastoma</keyword>
+  <keyword>recurrent neuroblastoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neuroblastoma</mesh_term>
+    <mesh_term>Diarrhea</mesh_term>
+    <mesh_term>Drug-Related Side Effects and Adverse Reactions</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cefixime</mesh_term>
+    <mesh_term>Irinotecan</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

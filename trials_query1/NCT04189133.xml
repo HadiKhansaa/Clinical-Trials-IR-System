@@ -1,0 +1,807 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04189133</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RHYTHM_20-11-2019</org_study_id>
+    <nct_id>NCT04189133</nct_id>
+  </id_info>
+  <brief_title>Rec-LH PD and Safety Profile in Hypogonadotropic Hypogonadism Men</brief_title>
+  <acronym>RHYTHM</acronym>
+  <official_title>Pharmacodynamics and Safety of Human Recombinant Luteinising Hormone in Hypogonadotropic Hypogonadal Men</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Azienda Ospedaliero-Universitaria di Modena</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Azienda Ospedaliero-Universitaria di Modena</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Objectives:&#xD;
+&#xD;
+      The overall clinical question is whether LH supplementation to men in indication for FSH&#xD;
+      according to the AIFA note 74, or with HH, will improve spermatogenesis and pregnancy rate&#xD;
+      (spontaneous or after ART) over FSH alone or FSH+hCG. However, since LH has never been used&#xD;
+      in men so far, the first, specific object of this study is the assessment of pharmacodynamics&#xD;
+      and safety profile of LH in HH men. To this end, this study will evaluate the&#xD;
+      pharmacodynamics and safety profile of recombinant LH (Luveris) and compare the response to&#xD;
+      Luveris and urinary hCG (Gonasi HP) in HH men. The pharmacodynamics will be assessed&#xD;
+      primarily for testosterone levels in response to increasing doses of LH and the comparison of&#xD;
+      the response to a fix dose of hCG, and later for more extend steroid profile.&#xD;
+&#xD;
+      Methods:&#xD;
+&#xD;
+      Multicentre longitudinal, interventional, randomized, open-label, phase II, clinical trial,&#xD;
+      assessing pharmacodynamics of LH in acquired HH men. The statistical hypothesis is&#xD;
+      non-inferiority of the highest LH dose employed compared to a fix hCG dose. Primary endpoint:&#xD;
+      serum testosterone levels evaluated by liquid-chromatography, tandem mass spectrometry&#xD;
+      (LC-MS/MS). Secondary endpoints: Safety and tolerability as determined by AE reporting, vital&#xD;
+      signs, and ECG, stereognosis (inhibin B, free testosterone, sex hormone binding globulin&#xD;
+      (SHBG), estradiol, whole steroid profile provided by LC-MS/MS) and testicular volume.&#xD;
+&#xD;
+      Patients: 32 men with acquired HH, including HH after neurosurgery for tumours or HH due to&#xD;
+      pituitary adenoma-related mass effect. Patients will be randomized (1:1) according to a&#xD;
+      permuted- blocks randomization list, to the study group, treated with Luveris (increasing&#xD;
+      doses at two weekly intervals), or to the control group treated with Gonasi HP (2000 IU&#xD;
+      twice/week). In the study group, increasing LH dosages will be administered to obtain a&#xD;
+      testosterone dose-response curve, starting with the minimum expected efficient dose (75 IU/d,&#xD;
+      sc) for two weeks followed by 150, 225 and 300 IU at two-weekly interval, respectively. The&#xD;
+      control group will be treated by the standard approach, i.e. hCG 2000 IU IM twice-weekly for&#xD;
+      8 weeks. Patients will be further followed up for 4 weeks after treatment withdrawal. During&#xD;
+      the study, the patients will be evaluated two times per week during the treatment phase and&#xD;
+      every two weeks in the follow-up phase.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary end point The pharmacodynamics of LH and the comparison of response to LH and hCG&#xD;
+      will be assessed by measuring serum steroid levels by liquid-chromatography, tandem mass&#xD;
+      spectrometry (LC-MS/MS). The primary end point is serum testosterone levels in response to&#xD;
+      increasing doses of LH (pharmacodynamics) and the comparison of the response to a fix dose of&#xD;
+      hCG. The statistical hypothesis is non-inferiority of the highest LH dose compared to the fix&#xD;
+      hCG dose employed.&#xD;
+&#xD;
+      Secondary end points&#xD;
+&#xD;
+        1. Full Safety profile (see below, the appropriate paragraph).&#xD;
+&#xD;
+        2. Identification of the LH dosages needed to restore normal testosterone production in men&#xD;
+           with acquired HH and of the relationship between LH administered and testosterone&#xD;
+           increase, e.g. in terms of % serum testosterone increase per IU of r-hLH. This parameter&#xD;
+           will be useful for future clinical studies based on LH.&#xD;
+&#xD;
+        3. Comparison of steroid profiles, hormone related profiles and serum levels of testicular&#xD;
+           steroids upon stimulation by LH or hCG by immunoassay and by LC-MS/MS technique when&#xD;
+           available as validated method. The LC-MS/MS technique allows simultaneous detection and&#xD;
+           quantification of several steroids. The investigators have previously studied serum&#xD;
+           testicular steroid profiles in men with Klinefelter syndrome after acute hCG stimulation&#xD;
+           and in diabetic men chronically treated by a phosphodiesterase 5 inhibitor (Santi,&#xD;
+           Granata et al. 2017). In in vitro systems, the investigators showed that LH and hCG&#xD;
+           display biased signalling in Leydig cells, where LH is a partial agonist of the LHCGR on&#xD;
+           progesterone production, while hCG is a full agonist. However, both hormones were&#xD;
+           equivalent on testosterone production (Riccetti, Yvinec et al. 2017). This point is&#xD;
+           clinically relevant because progesterone is a pro-inflammatory hormone (Zitzmann, Erren&#xD;
+           et al. 2005). Should similarity of the two gonadotropins on testosterone production come&#xD;
+           together with higher progesterone secretion in the case of hCG, this finding might&#xD;
+           deserve further studies.&#xD;
+&#xD;
+        4. Testicular size&#xD;
+&#xD;
+      Study design This is a multicentre, longitudinal, interventional, randomized, open-label,&#xD;
+      phase I/II, clinical trial. According to the study questions, the study is designed to&#xD;
+      characterise the LH pharmacodynamics in men, compared to the standard approach, represented&#xD;
+      by hCG administration and to evaluate rLH safety profile.&#xD;
+&#xD;
+      The centre at the PI site (Unit 1 - Modena) will coordinate the study and will prepare the&#xD;
+      randomization list by permuted blocks, which will be sent to each enrolling centre. Moreover,&#xD;
+      Unit 1 will perform centralized hormone measurements at the end of the study, will coordinate&#xD;
+      monitoring of centres, will maintain the study database and will analyse the data collected.&#xD;
+      Finally, pharmacy at Unit 1 will receive IMP and will buy the drug comparator, will package&#xD;
+      and distribute drugs needed for the study.&#xD;
+&#xD;
+      Patients will be screened according to inclusion and exclusion criteria at each Centre.&#xD;
+      During the screening visit, the following evaluations will be performed:&#xD;
+&#xD;
+      Evaluations at the participating centre:&#xD;
+&#xD;
+      Total testosterone serum levels; Basal hormonal and biochemical assays needed to fulfil&#xD;
+      inclusion and exclusion criteria;&#xD;
+&#xD;
+      Scrotal ultrasound for the evaluation of:&#xD;
+&#xD;
+      varicocele presence and degree; testicular volume and structure; epididymis. All other&#xD;
+      imaging analyses needed to fulfil inclusion and exclusion criteria, as well as suggested by&#xD;
+      the guidelines for pituitary diseases (Raverot, Burman et al. 2018).&#xD;
+&#xD;
+      Central evaluations at Unit 1:&#xD;
+&#xD;
+      Total testosterone serum levels, using LC-MS/MS; Progesterone,17-hydroxyprogesterone,&#xD;
+      androstenedione, didehydroepiandrosterone (DHEA), DHEA sulphate (DHEAS), corticosterone,&#xD;
+      11-deoxycortisol and cortisol using LC-MS/MS by a validated method (Fanelli, Belluomo et al.&#xD;
+      2011); Other hormonal analyses.&#xD;
+&#xD;
+      Eligible patients will be enrolled in the study after signing the informed consent. Eligible&#xD;
+      patients that are under androgen replacement therapy at the time of screening visit will be&#xD;
+      enrolled after three months of testosterone withdrawal. On the contrary, eligible patients&#xD;
+      who are not treated at the time of screening visit will be immediately enrolled.&#xD;
+&#xD;
+      At Visit 1 (V1), patients will be randomized according to the randomization list centrally&#xD;
+      provided and will be allocated to the two following groups:&#xD;
+&#xD;
+      Study group; Control group.&#xD;
+&#xD;
+      Each group will undergo two consecutive phases:&#xD;
+&#xD;
+        1. Treatment phase;&#xD;
+&#xD;
+        2. Follow-up phase. The first phase will last two months and follow-up two months,&#xD;
+           characterized by treatment withdrawal. Total study duration is three months. Patients&#xD;
+           will be evaluated two times weekly, during the treatment phase and one time every two&#xD;
+           weeks during the follow-up phase. The patient will be monitored for the safety at each&#xD;
+           visit by the medical staff at PI and participating centres. The patient will remain&#xD;
+           under supervision for four hours at each visit.&#xD;
+&#xD;
+      At each visit two blood samples will be collected (Total of 18ml) in the morning after an&#xD;
+      overnight fast. The first serum sample will be stored at -20°C and sent at the end of the&#xD;
+      study to Unit 1 for central measurements. The second blood sample will be used locally to&#xD;
+      monitor the treatment efficacy and safety. Overall, the study protocol includes a screening&#xD;
+      visit followed by 18 visits. During the study protocol, pharmacovigilance will be performed&#xD;
+      according to Italian rules.&#xD;
+&#xD;
+      At each visit the following evaluations will be performed:&#xD;
+&#xD;
+      Evaluations at participating centre:&#xD;
+&#xD;
+      Total testosterone serum levels Safety profile (as elaborated below) Basal hormonal and&#xD;
+      biochemical assays Central evaluations at Unit 1:Total testosterone serum levels, using&#xD;
+      LC-MS/MS Other sex steroids using LC-MS/MS Other hormonal analyses Biochemical evaluations&#xD;
+      performed at each centre will be useful to monitor the treatment efficacy and safety, whereas&#xD;
+      centrally performed analyses will be used for the final statistical analysis. Moreover, at&#xD;
+      the end of treatment phase (V16) and at the end of follow-up phase, scrotal ultrasound will&#xD;
+      be repeated to address possible morphological changes related to endogenous testosterone&#xD;
+      increase. Finally, at each visit, the occurrence of AESI will be properly registered and&#xD;
+      reported. Pharmacovigilance will be carefully considered and evaluated by CRO. During each&#xD;
+      visit, testosterone levels were performed locally and evaluated by clinicians. Whether&#xD;
+      testosterone serum levels will reach levels higher than 12 nmol/L, the drug dosage will be&#xD;
+      not increased in both groups. The hormonal results will be available in about 8 hours.&#xD;
+&#xD;
+      Intervention The IMP is Luveris. The comparator is Gonasi HP. Luveris will be provided by&#xD;
+      Merck. Gonasi HP, will be purchased (packages with vials of 250, 1000 and 2000 IU each) by&#xD;
+      the coordinating centre. The entire amount of the IMP and comparator will be delivered to the&#xD;
+      pharmacy of the coordinating centre (according to existing regulations) and distributed in&#xD;
+      batches to the centres. At the coordinating centre, packages containing the number of&#xD;
+      ampoules sufficient for the patients to be allocated to the study within the next 6 months&#xD;
+      will be prepared and shipped to each centre. The pharmacy of the coordinating centre will be&#xD;
+      responsible for IMP and comparator reception, labelling, packaging and sending to the centres&#xD;
+      according to existing regulations. All medications to be used in this study will have been&#xD;
+      manufactured, tested, and released according to current GMP guidelines.&#xD;
+&#xD;
+      The investigator or authorized staff will have to document the receipt, dispensation, and&#xD;
+      return of all IMPs received during this study. Records on receipt, use, return, loss, or&#xD;
+      other disposition of IMPs will be maintained. This process will be monitored by a CRO&#xD;
+      (Clinical Research Organization) during the study. The IMP shipment will be provided in two&#xD;
+      times during the study duration.&#xD;
+&#xD;
+      All remaining IMPs, used and unused, shall be collected and returned for destruction at the&#xD;
+      end of the study.&#xD;
+&#xD;
+      Luveris will be self-administered once daily by the patient sc in the abdominal skin.&#xD;
+      Patients will be properly trained on how to perform injection and reconstitute the product.&#xD;
+      Since the sc route is generally preferred by patients, this route is selected for this trial&#xD;
+      in order to increase treatment compliance. Luveris will be package in vial of 75IU and it&#xD;
+      will be dissolved in a vial of solvent. When higher dosages of Luveris will be needed for the&#xD;
+      protocol (150, 300 and 600), 2, 4 and 8 vials of Luveris will be respectively dissolved in a&#xD;
+      single vial of solvent. In particular, when 300 IU should be used, 4 Luveris vials will be&#xD;
+      dissolved in 2 vials of solvents. When 600 IU should be used, 8 Luveris vials will be&#xD;
+      dissolved in 3 vials of solvents.&#xD;
+&#xD;
+      Gonasi HP will be injected im.&#xD;
+&#xD;
+      At V1 patients will be randomized into two different groups:&#xD;
+&#xD;
+      Study group Control group&#xD;
+&#xD;
+      The study group will receive the daily administration sc of Luveris with increasing dosages&#xD;
+      every two weeks (Treatment phase) as follows:&#xD;
+&#xD;
+        1. Rec-LH 75 IU daily for 2 weeks;&#xD;
+&#xD;
+        2. Rec-LH 150 IU daily for 2 weeks;&#xD;
+&#xD;
+        3. Rec-LH 300 IU daily for 2 weeks;&#xD;
+&#xD;
+        4. Rec-LH 600 IU daily for 2 weeks. The decision to proceed to the next dose level of LH&#xD;
+           will be made by the Study Team [and the investigator] based on safety, tolerability, and&#xD;
+           preliminary data obtained in at least 5 participants at the prior dose level. If&#xD;
+           moderate or severe AE are consistently observed across participants in a cohort or if&#xD;
+           unacceptable pharmacological effects, reasonably attributable to LH in the opinion of&#xD;
+           the investigator are observed in more than 15% of the participants in a cohort, then&#xD;
+           dose escalation will be temporarily halted and no further participants will be dosed&#xD;
+           until a full safety review of the study has taken place. Relevant reporting and&#xD;
+           discussion with the Medical Monitor, PI, and the IRB/IEC will take place before&#xD;
+           resumption of dosing.&#xD;
+&#xD;
+      The two months of treatment will be followed by one month of treatment wash-out (follow-up&#xD;
+      phase).&#xD;
+&#xD;
+      The control group will receive the administration im of Gonasi HP as follows:&#xD;
+&#xD;
+      hCG 500 IU two times weekly, for 2 weeks; hCG 1000 IU two times weekly, for 2 weeks; hCG 1500&#xD;
+      IU two times weekly, for 2 weeks; hCG 2000 IU two times weekly, for 2 weeks. Hypopituitary&#xD;
+      patients participating to the study will continue to receive their standard substitution&#xD;
+      therapy inasmuch needed (thyroxine, hydrocortisone). During the study duration, androgen&#xD;
+      replacement therapies will be not permitted.&#xD;
+&#xD;
+      Luveris is provided in vials containing 75 IU of lyophilized material + ampoules of solvent.&#xD;
+      Patients in the study group will be instructed to use one vial/d during the first two weeks&#xD;
+      of treatment, then two in the second two weeks, four in the third two weeks and eight in the&#xD;
+      last two weeks of the treatment phase. Up to 3 vials of lyophilized Luveris can be dissolved&#xD;
+      using only one vial of solvent, whereas 4 Luveris vials will be dissolved in 2 solvents.&#xD;
+      Eight Luveris vials will be dissolved in 3 solvents. This will reduce discomfort for the&#xD;
+      patient. Both IMP and comparator can be either self-administered by the patient or by a third&#xD;
+      person, as described in the drug instructions. At each visit empty vials will be collected by&#xD;
+      each centre, to ensure patients' compliance.&#xD;
+&#xD;
+      All patients will be followed up for further 8 weeks after drug withdrawal according to the&#xD;
+      study design.&#xD;
+&#xD;
+      Both LH and hCG are not known to interfere with other medications, so that no specific drug,&#xD;
+      including rescue medications, is not allowed during the trial.&#xD;
+&#xD;
+      Compliance will be monitored by asking the patients to return the empty Luveris and Gonasi HP&#xD;
+      ampoules and packages at the next visit. In addition, LH/hCG and total testosterone serum&#xD;
+      levels will be measured at each visit before the next LH/hCG injection at each participating&#xD;
+      centre.&#xD;
+&#xD;
+      The study has a prospective, interventional design. Thus, consecutive patients attending the&#xD;
+      participating Units will be enrolled according to inclusion and exclusion criteria. The aim&#xD;
+      of the study is the evaluation of LH pharmacodynamics in HH men, in terms of testosterone&#xD;
+      serum levels increase and to evaluate rLH safety profile. Considering the only one case&#xD;
+      available in the literature, in which LH and hCG were compared in a HH man, the hypothesis is&#xD;
+      a non-inferiority between IMP (at least at the highest dose) and comparator. Thus, the study&#xD;
+      design includes the randomization of eligible patients in study and control groups, treated&#xD;
+      with Luveris and Gonasi HP, respectively. Patients' allocation will follow the random&#xD;
+      sequence generated at Unit 1 before the start of the study. The list will be generated using&#xD;
+      permuted blocks, considering at maximum 10 patients for each Unit. The randomization list&#xD;
+      will be sent to each Unit before study start. Moreover, being a pharmacodynamics, phase II&#xD;
+      clinical trial, a placebo-group is not foreseen. The study, however includes a group&#xD;
+      receiving the &quot;standard&quot; comparator, in order to reveal possible qualitative differences&#xD;
+      (e.g. serum steroid profile) in the biological response in the male. Considering the&#xD;
+      different frequency and route of drug administration in the two groups, a double-blind design&#xD;
+      is not possible. Indeed, the study is open-label, since each patient is aware of the LH or&#xD;
+      hCG dosage to be used. Similarly, clinicians involved in the study will be not blinded to&#xD;
+      allocation. The following study personnel will be kept blinded to the treatment:&#xD;
+&#xD;
+      The central lab in which LC-MS/MS assays will be performed; The clinician involved in scrotal&#xD;
+      ultrasound evaluations; The statistician who finally will perform the statistical analysis.&#xD;
+&#xD;
+      There are practical and scientific reason for the choice of the drug and the methodology&#xD;
+      proposed. Concerning r-hLH, Luveris is the only LH approved for human use. The dosage was&#xD;
+      chosen according to the literature evidences of the different actions of LH and hCG at&#xD;
+      molecular level and in vivo in women (Santi, Casarini et al. 2017). The dosage and the&#xD;
+      frequency of administration were chosen according to the only previous experience existing&#xD;
+      and considering the half-life of LH. Daily injections are appropriate because clinical&#xD;
+      practice in women undergoing ART or with HH demonstrates the efficacy of LH daily protocols.&#xD;
+      In The investigators previous experience, LH was administered as single daily bolus, reaching&#xD;
+      a significant testosterone increase. The investigators considered that physiological LH&#xD;
+      secretion is pulsatile. Veldhuis et al., compared constant to pulsatile infusion of r-hLH in&#xD;
+      19 healthy men previously treated with GnRH antagonist. These two LH administration patterns&#xD;
+      reached a similar testosterone increase, suggesting that pulsatile LH administration is not&#xD;
+      necessary to stimulate Leydig cells activity. Moreover, in this clinical trial, a daily LH&#xD;
+      dosage of 112.5 IU resulted in maximum testosterone levels of 485+114 ng/dl, in the&#xD;
+      physiological range. Similarly, in the investigators case report, the HH man was treated with&#xD;
+      75 IU of daily LH, restoring eugonadism. Thus, much lower LH dosages than expected seem to be&#xD;
+      sufficient to increase testosterone serum levels into the normal range. Therefore, the&#xD;
+      investigators will test different LH dosages, starting from the expected minimum efficient&#xD;
+      dosage (75 IU), to the maximum dosage (600 IU) expected to obtain testosterone serum levels&#xD;
+      in the upper half of normal ranges.&#xD;
+&#xD;
+      The comparator (Gonasi HP) type and dosage was chosen according to the literature, the&#xD;
+      rationale provided above, according to the current standard of treatment, and the fact that&#xD;
+      it is the only hCG preparation approved for use in male HH available in Italy at the moment.&#xD;
+&#xD;
+      Data will be gathered with the following modalities.&#xD;
+&#xD;
+        1. At the participating Units:&#xD;
+&#xD;
+             1. patient's clinical information including safety and tolerability as determined by&#xD;
+                AE, SAE reporting, vital signs, ECG, Concomitant medication, laboratory parameters&#xD;
+                should be included in each panel (e.g., for haematology, chemistry, urinalysis) and&#xD;
+                evaluation of anti-Human-LH Antibodies formation in the serum,&#xD;
+&#xD;
+             2. basal hormonal assessment,&#xD;
+&#xD;
+             3. collection and storage of 2 serum samples (18 ml) at -20°,&#xD;
+&#xD;
+             4. packaging and shipment of the samples to the centralized laboratory site. Each Unit&#xD;
+                will receive from the Unit 1 a detailed investigator manual and a study kit&#xD;
+                containing tubes, labels and boxes for sample storage and shipment. All modalities&#xD;
+                of data collection will be explained in an investigator meeting before starting the&#xD;
+                study.&#xD;
+&#xD;
+           Each participating Unit will follow and treat patients during the entire duration of the&#xD;
+           trial according to the study design and patients' allocation. All Units possess an&#xD;
+           institutional accreditation and have a quality management in place.&#xD;
+&#xD;
+        2. At Unit 1 (Coordinating centre):&#xD;
+&#xD;
+             1. patient's clinical information including safety and tolerability as determined by&#xD;
+                AE, SAE reporting, vital signs, ECG, Concomitant medication, laboratory parameters&#xD;
+                should be included in each panel (e.g., for haematology, chemistry, urinalysis) and&#xD;
+                evaluation of anti-Human-LH Antibodies formation in the serum,&#xD;
+&#xD;
+             2. basal hormonal assessment,&#xD;
+&#xD;
+             3. collection and storage of 2 serum samples (18 ml) at -20°,&#xD;
+&#xD;
+             4. At the end of the study the centre will receive all stored serum samples from the&#xD;
+                Units and provide centralized hormone analysis through LC-MS/MS. In addition, all&#xD;
+                other parameters indicated in the section &quot;outcomes&quot; will be measured in the&#xD;
+                hormone laboratory using validated techniques.&#xD;
+&#xD;
+             5. keep the overall database;&#xD;
+&#xD;
+             6. perform data analysis. All clinical and hormonal data will be recorded in&#xD;
+                appropriate electronic case report forms (eCRFs) provided by an experienced CRO.&#xD;
+                These data, together with hormonal parameters assessed centrally and eCRFs data&#xD;
+                will represent the dataset for the final analysis. The quality of the data will be&#xD;
+                checked by monitoring (site visits) by an independent party, the selected CRO.&#xD;
+&#xD;
+      Follow up of the patients will last 2 months after drug withdrawal to check for return of the&#xD;
+      values to baseline. The investigators planned a possible loss-to-follow-up of 10%.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Testosterone</measure>
+    <time_frame>2 weeks after treatment start</time_frame>
+    <description>total testosterone serum levels</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Testosterone</measure>
+    <time_frame>4 weeks after treatment start</time_frame>
+    <description>total testosterone serum levels</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Testosterone</measure>
+    <time_frame>6 weeks after treatment start</time_frame>
+    <description>total testosterone serum levels</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Testosterone</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>total testosterone serum levels</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Inhibin B</measure>
+    <time_frame>2 weeks after treatment start</time_frame>
+    <description>Inhibin B serum levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inhibin B</measure>
+    <time_frame>4 weeks after treatment start</time_frame>
+    <description>Inhibin B serum levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inhibin B</measure>
+    <time_frame>6 weeks after treatment start</time_frame>
+    <description>Inhibin B serum levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inhibin B</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>Inhibin B serum levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Free testosterone</measure>
+    <time_frame>2 weeks after treatment start</time_frame>
+    <description>Free testosterone serum levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Free testosterone</measure>
+    <time_frame>4 weeks after treatment start</time_frame>
+    <description>Free testosterone serum levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Free testosterone</measure>
+    <time_frame>6 weeks after treatment start</time_frame>
+    <description>Free testosterone serum levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Free testosterone</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>Free testosterone serum levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SHBG</measure>
+    <time_frame>2 weeks after treatment start</time_frame>
+    <description>sex hormone binding globulin (SHBG)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SHBG</measure>
+    <time_frame>4 weeks after treatment start</time_frame>
+    <description>sex hormone binding globulin (SHBG)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SHBG</measure>
+    <time_frame>6 weeks after treatment start</time_frame>
+    <description>sex hormone binding globulin (SHBG)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SHBG</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>sex hormone binding globulin (SHBG)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estradiol</measure>
+    <time_frame>2 weeks after treatment start</time_frame>
+    <description>Estradiol serum levels by LC-MS/MS evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estradiol</measure>
+    <time_frame>4 weeks after treatment start</time_frame>
+    <description>Estradiol serum levels by LC-MS/MS evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estradiol</measure>
+    <time_frame>6 weeks after treatment start</time_frame>
+    <description>Estradiol serum levels by LC-MS/MS evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estradiol</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>Estradiol serum levels by LC-MS/MS evaluation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LH</measure>
+    <time_frame>2 weeks after treatment start</time_frame>
+    <description>Serum LH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LH</measure>
+    <time_frame>4 weeks after treatment start</time_frame>
+    <description>Serum LH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LH</measure>
+    <time_frame>6 weeks after treatment start</time_frame>
+    <description>Serum LH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LH</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>Serum LH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FSH</measure>
+    <time_frame>2 weeks after treatment start</time_frame>
+    <description>Serum FSH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FSH</measure>
+    <time_frame>4 weeks after treatment start</time_frame>
+    <description>Serum FSH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FSH</measure>
+    <time_frame>6 weeks after treatment start</time_frame>
+    <description>Serum FSH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FSH</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>Serum FSH</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Steroids</measure>
+    <time_frame>2 weeks after treatment start</time_frame>
+    <description>Other steroids provided by the LC-MS/MS methodology</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Steroids</measure>
+    <time_frame>4 weeks after treatment start</time_frame>
+    <description>Other steroids provided by the LC-MS/MS methodology</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Steroids</measure>
+    <time_frame>6 weeks after treatment start</time_frame>
+    <description>Other steroids provided by the LC-MS/MS methodology</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Steroids</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>Other steroids provided by the LC-MS/MS methodology</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>2 weeks after treatment start</time_frame>
+    <description>This was evaluated considering red blood cell count, marker of liver function, markers of coagulation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>4 weeks after treatment start</time_frame>
+    <description>This was evaluated considering red blood cell count, marker of liver function, markers of coagulation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>6 weeks after treatment start</time_frame>
+    <description>This was evaluated considering red blood cell count, marker of liver function, markers of coagulation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>This was evaluated considering red blood cell count, marker of liver function, markers of coagulation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Testicular volume</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Testicular volume will be assessed locally at each visit by a physician blind to the patient group allocation</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Testicular volume</measure>
+    <time_frame>8 weeks after treatment start</time_frame>
+    <description>Testicular volume will be assessed locally at each visit by a physician blind to the patient group allocation</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Acquired Hypogonadotropic Hypogonadism</condition>
+  <arm_group>
+    <arm_group_label>Study group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study group will receive the daily administration sc of Luveris with increasing dosages two weeks (Treatment phase) as follows: Rec-LH 75 IU daily for 2 weeks; Rec-LH 150 IU daily for 2 weeks; Rec-LH 300 IU daily for 2 weeks; Rec-LH 600 IU daily for 2 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The control group will receive the administration im of Gonasi HP as follows:&#xD;
+hCG 500 IU two times weekly, for 2 weeks; hCG 1000 IU two times weekly, for 2 weeks; hCG 1500 IU two times weekly, for 2 weeks; hCG 2000 IU two times weekly, for 2 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lutropin alfa</intervention_name>
+    <description>daily increasing dosages of lutropin alfa</description>
+    <arm_group_label>Study group</arm_group_label>
+    <other_name>LH</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Human chorionic gonadotropin</intervention_name>
+    <description>human chorionic gonadotropin increasing administration</description>
+    <arm_group_label>Control group</arm_group_label>
+    <other_name>hCG</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male sex&#xD;
+&#xD;
+          -  Age between 18 and 45 years&#xD;
+&#xD;
+          -  Acquired HH forms&#xD;
+&#xD;
+          -  HH after neurosurgery for tumors (i.e. pituitary adenoma, including prolactinoma,&#xD;
+             craniopharyngioma, germinomas, meningiomas, gliomas, and astrocytomas). Infiltrative&#xD;
+             disease (hemochromatosis, granulomatous disease, histiocytosis, and sarcoidosis), OR&#xD;
+&#xD;
+          -  HH due to pituitary adenoma-related mass effect, in case of cured or controlled&#xD;
+             hormone hypersecretion&#xD;
+&#xD;
+          -  Total testosterone serum levels below the normal ranges (lower than 3 ng/mL)&#xD;
+&#xD;
+          -  No androgen replacement therapies in the last three months before enrolment&#xD;
+&#xD;
+          -  No hyper-secretion of other pituitary hormones&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        HH forms, such as:&#xD;
+&#xD;
+          -  Combined pituitary hormone deficiency&#xD;
+&#xD;
+          -  Genetic syndromes (e.g., Prader-Labhart-Willi, CHARGE, Lawrence-Moon- Bardet-Biedl)&#xD;
+&#xD;
+          -  Iatrogenic HH forms, such as traumatic pituitary stalk interruption syndrome,&#xD;
+             irradiation, high dose corticosteroids, and anabolic steroids&#xD;
+&#xD;
+          -  Drug abuse and major systemic diseases&#xD;
+&#xD;
+          -  Chronic severe liver disease&#xD;
+&#xD;
+          -  Concomitant illnesses which could interfere with the study participation&#xD;
+&#xD;
+          -  Active malignancy diseases&#xD;
+&#xD;
+          -  Known or possible androgen-dependent tumors for example male breast carcinoma or&#xD;
+             prostatic carcinoma&#xD;
+&#xD;
+          -  Cardiac failure, hypertension, renal dysfunction, migraines, or epilepsy. (since&#xD;
+             aggravation or recurrence may occasionally be induced as a result of increased&#xD;
+             androgen production)&#xD;
+&#xD;
+          -  Haematocrit &lt;40% or &gt;54%&#xD;
+&#xD;
+          -  Congenital HH are excluded since these genetic forms of HH could be related to other&#xD;
+             systemic or pituitary diseases, which could bias the selection of patients.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Daniele Santi, MD, PhD</last_name>
+    <phone>0593961271</phone>
+    <email>daniele.santi@unimore.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daniele Santi</last_name>
+    <phone>0593961271</phone>
+    <email>daniele.santi@unimore.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Ca ' Grande Ospedale Maggiore Policlinico</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unit of Endocrinology of Modena</name>
+      <address>
+        <city>Modena</city>
+        <zip>41126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Daniele Santi</last_name>
+      <phone>0593961271</phone>
+      <email>daniele.santi@unimore.it</email>
+    </contact>
+    <investigator>
+      <last_name>Daniele Santi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dipartimento di Medicina Clinica e Chirurgia, Sezione di Endocrinologia, Università degli Studi di Napoli &quot;Federico II&quot;</name>
+      <address>
+        <city>Naples</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rosario Pivonello</last_name>
+    </contact>
+    <investigator>
+      <last_name>Rosario Pivonello</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Experimental Medicine, Section of Medical Pathophysiology, Food Science and Endocrinology, Sapienza - University of Rome</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Francesco Lombardo</last_name>
+    </contact>
+    <investigator>
+      <last_name>Francesco Lombardo</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ivision of Endocrinology, Diabetes and Metabolism, Department of Medical Science, University of Turin</name>
+      <address>
+        <city>Turin</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ezio Ghigo</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ezio Ghigo</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Althunian TA, de Boer A, Groenwold RHH, Klungel OH. Defining the noninferiority margin and analysing noninferiority: An overview. Br J Clin Pharmacol. 2017 Aug;83(8):1636-1642. doi: 10.1111/bcp.13280. Epub 2017 Apr 6.</citation>
+    <PMID>28252213</PMID>
+  </reference>
+  <reference>
+    <citation>Casarini L, Lispi M, Longobardi S, Milosa F, La Marca A, Tagliasacchi D, Pignatti E, Simoni M. LH and hCG action on the same receptor results in quantitatively and qualitatively different intracellular signalling. PLoS One. 2012;7(10):e46682. doi: 10.1371/journal.pone.0046682. Epub 2012 Oct 5.</citation>
+    <PMID>23071612</PMID>
+  </reference>
+  <reference>
+    <citation>Casarini L, Riccetti L, De Pascali F, Gilioli L, Marino M, Vecchi E, Morini D, Nicoli A, La Sala GB, Simoni M. Estrogen Modulates Specific Life and Death Signals Induced by LH and hCG in Human Primary Granulosa Cells In Vitro. Int J Mol Sci. 2017 Apr 28;18(5). pii: E926. doi: 10.3390/ijms18050926.</citation>
+    <PMID>28452938</PMID>
+  </reference>
+  <reference>
+    <citation>Nardelli AA, Stafinski T, Motan T, Klein K, Menon D. Assisted reproductive technologies (ARTs): evaluation of evidence to support public policy development. Reprod Health. 2014 Nov 7;11(1):76. doi: 10.1186/1742-4755-11-76. Review.</citation>
+    <PMID>25376649</PMID>
+  </reference>
+  <reference>
+    <citation>Nwabuobi C, Arlier S, Schatz F, Guzeloglu-Kayisli O, Lockwood CJ, Kayisli UA. hCG: Biological Functions and Clinical Applications. Int J Mol Sci. 2017 Sep 22;18(10). pii: E2037. doi: 10.3390/ijms18102037. Review.</citation>
+    <PMID>28937611</PMID>
+  </reference>
+  <reference>
+    <citation>Riccetti L, Yvinec R, Klett D, Gallay N, Combarnous Y, Reiter E, Simoni M, Casarini L, Ayoub MA. Human Luteinizing Hormone and Chorionic Gonadotropin Display Biased Agonism at the LH and LH/CG Receptors. Sci Rep. 2017 Apr 19;7(1):940. doi: 10.1038/s41598-017-01078-8.</citation>
+    <PMID>28424471</PMID>
+  </reference>
+  <reference>
+    <citation>Santi D, Casarini L, Alviggi C, Simoni M. Efficacy of Follicle-Stimulating Hormone (FSH) Alone, FSH + Luteinizing Hormone, Human Menopausal Gonadotropin or FSH + Human Chorionic Gonadotropin on Assisted Reproductive Technology Outcomes in the &quot;Personalized&quot; Medicine Era: A Meta-analysis. Front Endocrinol (Lausanne). 2017 Jun 1;8:114. doi: 10.3389/fendo.2017.00114. eCollection 2017.</citation>
+    <PMID>28620352</PMID>
+  </reference>
+  <reference>
+    <citation>Santi D, Spaggiari G, Casarini L, Fanelli F, Mezzullo M, Pagotto U, Granata ARM, Carani C, Simoni M. Central hypogonadism due to a giant, &quot;silent&quot; FSH-secreting, atypical pituitary adenoma: effects of adenoma dissection and short-term Leydig cell stimulation by luteinizing hormone (LH) and human chorionic gonadotropin (hCG). Aging Male. 2017 Jun;20(2):96-101. doi: 10.1080/13685538.2016.1276161. Epub 2017 Jan 9.</citation>
+    <PMID>28067604</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 29, 2019</study_first_submitted>
+  <study_first_submitted_qc>December 5, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 6, 2019</study_first_posted>
+  <last_update_submitted>January 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Azienda Ospedaliero-Universitaria di Modena</investigator_affiliation>
+    <investigator_full_name>Daniele Santi</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>luteinising hormone</keyword>
+  <keyword>male infertility</keyword>
+  <keyword>hypogonadotropic hypogonadism</keyword>
+  <keyword>human menopausal gonadotropin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypogonadism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Chorionic Gonadotropin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,316 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01190904</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO 06-0648</org_study_id>
+    <secondary_id>R01DK077954</secondary_id>
+    <nct_id>NCT01190904</nct_id>
+  </id_info>
+  <brief_title>Hormones and Sexual Function Predict Outcomes in Revascularized Men With Diabetes</brief_title>
+  <acronym>HEART-MEND</acronym>
+  <official_title>Hormones and Sexual Function Predict Outcomes in Revascularized Men With Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Icahn School of Medicine at Mount Sinai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to find out if androgen deficiency (low levels of testosterone,&#xD;
+      a male hormone produced by the sex glands) and erectile dysfunction (sexual dysfunction) will&#xD;
+      predict over time the development of a heart attack, stroke, or death in men with Diabetes&#xD;
+      Mellitus who have angiographically proven coronary artery disease (CAD) (≥50%) with or&#xD;
+      without percutaneous coronary intervention (PCI). A substudy aims to show the different&#xD;
+      factors and processes that may show a relationship between sexual function and levels of&#xD;
+      androgen in the body to heart disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Diabetes mellitus (DM) and multi-vessel coronary artery disease (CAD) entail significant risk&#xD;
+      for progression of cardiac morbidity and mortality. Compelling recent research points to&#xD;
+      biological pathways that link DM and CAD to androgen status and sexual function. We&#xD;
+      hypothesize that androgen deficiency (AD) and erectile dysfunction (ED) independently serve&#xD;
+      as sentinel indicators, predicting the future development of adverse cardiovascular and&#xD;
+      cerebrovascular events in men with diabetes following coronary revascularization.&#xD;
+&#xD;
+      ED is emerging as a barometer of overall endothelial function. We hypothesize that as a&#xD;
+      consequence of this relationship, erectile dysfunction is predictive of cardiovascular&#xD;
+      outcomes in men with diabetes and CAD. We also propose that AD affects morbidity and&#xD;
+      mortality in men with DM and CAD by influencing presentation and progression of endothelial&#xD;
+      dysfunction as well as inflammation and hemostasis.&#xD;
+&#xD;
+      We propose to investigate four specific aims using 1,143 diabetic men who have&#xD;
+      angiographically proven coronary artery disease (CAD) (≥50%) in at least one major epicardial&#xD;
+      vessel with or without percutaneous coronary intervention (PCI). Specific aims of this study&#xD;
+      are: 1) To determine whether androgen status at baseline independently predicts primary and&#xD;
+      secondary endpoints in men (n=1,143) with DM and CAD. 2) To determine whether erectile&#xD;
+      dysfunction at baseline independently predicts cardiovascular outcomes in men with DM and&#xD;
+      CAD. 3) To determine whether change of androgen status and sexual function over time&#xD;
+      independently predict cardiovascular outcomes in men with DM and CAD. 4) To demonstrate&#xD;
+      specific mediators and pathways that link sexual function and androgen status to&#xD;
+      cardiovascular disease.&#xD;
+&#xD;
+      The primary endpoint is defined as the combined all-cause mortality, non-fatal myocardial&#xD;
+      infarction (MI), and stroke. Secondary endpoints include major adverse cardiovascular and&#xD;
+      cerebrovascular events (MACCE), defined as death, nonfatal MI, stroke or revascularization at&#xD;
+      one year and angina status as evaluated with the Seattle Angina Questionnaire (SAQ) at 6&#xD;
+      months, 12 months, 18 months, 24 months, 30 months and 36 months following catheterization.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2010</start_date>
+  <completion_date type="Actual">July 2016</completion_date>
+  <primary_completion_date type="Actual">July 2016</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite outcome of all-cause mortality</measure>
+    <time_frame>up to 3 Years</time_frame>
+    <description>The primary outcome is time to composite outcome of all-cause mortality, MI or stroke.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine whether androgen status at baseline independently predicts primary and secondary endpoints in men (n=1,143) with DM and CAD.</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Androgen profile consists of total, free, and bio-available testosterone (T) and testosterone:estradiol ratio. Hypothesis: AD at baseline (defined by total T &lt; 300 ng/dl) will be an independent predictor of primary and secondary outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine whether erectile dysfunction at baseline independently predicts cardiovascular outcomes in men with DM and CAD.</measure>
+    <time_frame>Baseline</time_frame>
+    <description>ED severity will be determined using the International Index of Erectile Function (IIEF), a standard instrument that is available in multiple translations and has excellent cross-cultural validity.&#xD;
+Hypothesis: Severe ED at baseline (IIEF &lt; 11), while controlling for demographic and clinical covariates, will be an independent predictor of primary and secondary cardiac outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MACCE</measure>
+    <time_frame>at 6 months following catheterization</time_frame>
+    <description>Secondary endpoints include major adverse cardiovascular and cerebrovascular events (MACCE), defined as death, nonfatal MI, stroke or revascularization at one year and angina status as evaluated with the Seattle Angina Questionnaire (SAQ) at 6, 12, 18, 24, 30 and 36 months following catheterization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MACCE</measure>
+    <time_frame>at 12 months following catheterization</time_frame>
+    <description>Secondary endpoints include major adverse cardiovascular and cerebrovascular events (MACCE), defined as death, nonfatal MI, stroke or revascularization at one year and angina status as evaluated with the Seattle Angina Questionnaire (SAQ) at 6, 12, 18, 24, 30 and 36 months following catheterization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MACCE</measure>
+    <time_frame>at 18 months following catheterization</time_frame>
+    <description>Secondary endpoints include major adverse cardiovascular and cerebrovascular events (MACCE), defined as death, nonfatal MI, stroke or revascularization at one year and angina status as evaluated with the Seattle Angina Questionnaire (SAQ) at 6, 12, 18, 24, 30 and 36 months following catheterization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MACCE</measure>
+    <time_frame>at 24 months following catheterization</time_frame>
+    <description>Secondary endpoints include major adverse cardiovascular and cerebrovascular events (MACCE), defined as death, nonfatal MI, stroke or revascularization at one year and angina status as evaluated with the Seattle Angina Questionnaire (SAQ) at 6, 12, 18, 24, 30 and 36 months following catheterization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MACCE</measure>
+    <time_frame>at 30 months following catheterization</time_frame>
+    <description>Secondary endpoints include major adverse cardiovascular and cerebrovascular events (MACCE), defined as death, nonfatal MI, stroke or revascularization at one year and angina status as evaluated with the Seattle Angina Questionnaire (SAQ) at 6, 12, 18, 24, 30 and 36 months following catheterization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MACCE</measure>
+    <time_frame>at 36 months following catheterization</time_frame>
+    <description>Secondary endpoints include major adverse cardiovascular and cerebrovascular events (MACCE), defined as death, nonfatal MI, stroke or revascularization at one year and angina status as evaluated with the Seattle Angina Questionnaire (SAQ) at 6, 12, 18, 24, 30 and 36 months following catheterization.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">568</enrollment>
+  <condition>Androgen Deficiency</condition>
+  <condition>AD</condition>
+  <condition>Erectile Dysfunction</condition>
+  <condition>ED</condition>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Coronary Artery Disease</condition>
+  <condition>Coronary Revascularization</condition>
+  <arm_group>
+    <arm_group_label>Coronary Artery Disease (≥50%) with or without PCI</arm_group_label>
+    <description>We propose to investigate four specific aims using 1,143 diabetic men who have CAD (≥50%) lesion in at least one major epicardial vessel with or without PCI.</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Inflammatory markers; Hormones: testosterone, estradiol, SHBG&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Men with diabetes mellitus (DM) and coronary artery disease (CAD) following&#xD;
+        catheterization.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male age [18-75 years];&#xD;
+&#xD;
+          -  Type 2 Diabetes, defined according to the American Diabetes Association as history of:&#xD;
+             a) presence of classic symptoms of DM with unequivocal elevation of plasma glucose&#xD;
+             (2-hour post-prandial or random of &gt;200 mg/dL (11mmol/L), b) fasting plasma glucose&#xD;
+             elevation on more than 1 occasion of at least 126 mg/dL (7mmol/L) or c) HA1C &gt; 6.5,&#xD;
+             currently undergoing pharmacological or non-pharmacological treatment;&#xD;
+&#xD;
+          -  Angiographically confirmed Coronary Artery Disease (≥50%) with or without PCI;&#xD;
+&#xD;
+          -  Indication for revascularization based upon symptoms of angina and/or objective&#xD;
+             evidence of myocardial ischemia;&#xD;
+&#xD;
+          -  Willingness to comply with all follow-up required study visits; and&#xD;
+&#xD;
+          -  Signed and received copy of informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe congestive heart failure (class III or IV according to NYHA, or pulmonary&#xD;
+             edema) at the time of enrollment;&#xD;
+&#xD;
+          -  Previous stroke within 6 months;&#xD;
+&#xD;
+          -  Prior history of significant bleeding (within the previous 6 months) that might be&#xD;
+             expected to occur during PCI/DES related anticoagulation;&#xD;
+&#xD;
+          -  Acute ST-elevation MI (Q-wave) within 72 hours prior to enrollment requiring&#xD;
+             revascularization;&#xD;
+&#xD;
+          -  Abnormal creatine kinase (CK &gt; 2x normal); or abnormal CK-MB levels at time of&#xD;
+             randomization;&#xD;
+&#xD;
+          -  Contraindication to either CABG or PCI/DES because of a coexisting clinical&#xD;
+             condition];&#xD;
+&#xD;
+          -  Significant leukopenia, neutropenia, thrombocytopenia, anemia, or known bleeding&#xD;
+             diathesis;&#xD;
+&#xD;
+          -  Intolerance or contraindication to aspirin or both clopidogrel and ticlopidine;&#xD;
+&#xD;
+          -  Dementia with a Mini Mental Status Examination (MMSE) score of &lt;20;&#xD;
+&#xD;
+          -  Extra-cardiac illness that is expected to limit survival to less than 5 years (e.g.&#xD;
+             oxygen-dependent chronic obstructive pulmonary disease, active hepatitis or&#xD;
+             significant hepatic failure, severe renal disease);&#xD;
+&#xD;
+          -  Geographically inaccessible for follow-up visits required by protocol.&#xD;
+&#xD;
+          -  Additional Ancillary Study Exclusions. Exclusion criteria that are unique to the&#xD;
+             proposed study are prior use of hormonal therapy (HRT) with testosterone in men at&#xD;
+             baseline and current use of sex-hormone antagonist medications at baseline.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mary Ann McLaughlin, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hudson Heart Group</name>
+      <address>
+        <city>Guttenberg</city>
+        <state>New Jersey</state>
+        <zip>07093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Elmhurst Hospital</name>
+      <address>
+        <city>Elmhurst</city>
+        <state>New York</state>
+        <zip>11373</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Winthorp University Hospital</name>
+      <address>
+        <city>Mineola</city>
+        <state>New York</state>
+        <zip>11501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University Hospital</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2016</verification_date>
+  <study_first_submitted>August 24, 2010</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 30, 2010</study_first_posted>
+  <last_update_submitted>August 10, 2016</last_update_submitted>
+  <last_update_submitted_qc>August 10, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">August 11, 2016</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Androgen deficiency</keyword>
+  <keyword>Erectile dysfunction</keyword>
+  <keyword>Coronary Artery Disease</keyword>
+  <keyword>Coronary Revascularization</keyword>
+  <keyword>Diabetes mellitus</keyword>
+  <keyword>MI</keyword>
+  <keyword>Stroke</keyword>
+  <keyword>MACCE</keyword>
+  <keyword>DM</keyword>
+  <keyword>ED</keyword>
+  <keyword>CAD</keyword>
+  <keyword>Development of predictive cardiovascular/cerebrovascular AE</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Erectile Dysfunction</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

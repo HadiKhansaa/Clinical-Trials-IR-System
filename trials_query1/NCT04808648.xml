@@ -1,0 +1,243 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04808648</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHC013-I-05</org_study_id>
+    <nct_id>NCT04808648</nct_id>
+  </id_info>
+  <brief_title>The Effect of Itraconazole and Rifampicin on the Pharmacokinetics of SH-1028</brief_title>
+  <official_title>A Single-center, Open-label, Drug-drug Interaction Study of SH-1028 Tablets in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanjing Sanhome Pharmaceutical, Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nanjing Sanhome Pharmaceutical, Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase I study to assess the drug-drug interaction of SH-1028 tablets and&#xD;
+      Itraconazole/Rifampicin tablets. The study also evaluates the pharmacokinetic and&#xD;
+      tolerability of SH-1028 tablets in healthy subjects. This study provides evidence for the&#xD;
+      designing of following clinical trial protocols.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A total of 40 evaluable healthy male subjects will be enrolled in this study.The subjects&#xD;
+      will be divided into two groups, A and B, with 20 people in each group.&#xD;
+&#xD;
+      In the itraconazole study (Group A), patients received single-dose SH-1028 200 mg on Days 1&#xD;
+      and 12 and itraconazole(200 mg twice daily) on Days 8-14 orally.&#xD;
+&#xD;
+      In the rifampicin study (Group B), patients received SH-1028 200mg once daily on Days 1 and&#xD;
+      14 and rifampicin 600 mg once daily on Days 8-16.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 6, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 10, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cmax</measure>
+    <time_frame>Blood samples collected on Day 1 and Day 12 (arm 1)/Day 14 (arm 2) at pre-dose, 0.5, 1, 2, 2.5, 3, 4, 6, 8, 10, 12, 24, 48, 72 and 96 hours post SH-1028 dose</time_frame>
+    <description>Pharmacokinetics of SH-1028 by assessment of maximum plasma concentration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUC(0-last)</measure>
+    <time_frame>Blood samples collected on Day 1 and Day 12 (arm 1)/Day 14 (arm 2) at pre-dose, 0.5, 1, 2, 2.5, 3, 4, 6, 8, 10, 12, 24, 48, 72 and 96 hours post SH-1028 dose</time_frame>
+    <description>Pharmacokinetics of SH-1028 by assessment of area under the plasma concentration time curve from zero to last assessed timepoint</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUC(0-∞)</measure>
+    <time_frame>Blood samples collected on Day 1 and Day 12 (arm 1)/Day 14 (arm 2) at pre-dose, 0.5, 1, 2, 2.5, 3, 4, 6, 8, 10, 12, 24, 48, 72 and 96 hours post SH-1028 dose</time_frame>
+    <description>Pharmacokinetics of SH-1028 by assessment of area under the concentration time curve from time 0 to infinity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 10 days after last dose</time_frame>
+    <description>Safety and tolerability</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Healthy Male Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Itraconazole and SH-1028</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the itraconazole study, patients received single-dose SH-1028 200 mg on Days 1 and 12 and itraconazole(200 mg twice daily) on Days 8-14 orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rifampicin and SH-1028</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the rifampicin study, patients received SH-1028 200mg once daily on Days 1 and 14 and rifampicin 600 mg once daily on Days 8-16</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SH-1028</intervention_name>
+    <description>tablet, oral, 200 mg once daily for day 1 and day 12</description>
+    <arm_group_label>Itraconazole and SH-1028</arm_group_label>
+    <arm_group_label>Rifampicin and SH-1028</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Itraconazole</intervention_name>
+    <description>capsule, oral, 200 mg twice daily for day 8 to day 14</description>
+    <arm_group_label>Itraconazole and SH-1028</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rifampicin</intervention_name>
+    <description>capsule, oral, 600 mg once daily for day 8 to day 16</description>
+    <arm_group_label>Rifampicin and SH-1028</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy male volunteers between the age of 18 to 45 years old (including 18 and 45&#xD;
+             years old)&#xD;
+&#xD;
+          2. Body weight between 50.0 and 80.0 kg, Body mass index between 19.0 and 26.0 kg/m2&#xD;
+             (including 19.0 and 26.0 kg/m2);&#xD;
+&#xD;
+          3. Normal physical findings, clinical laboratory values, vital signs and 12-lead ECG, or&#xD;
+             any abnormality that is non-clinically significant;&#xD;
+&#xD;
+          4. Promise not to smoke, drink alcohol or drink caffeinated beverages during the trial;&#xD;
+&#xD;
+          5. Be able to communicate well with the researcher and be able to complete the trial in&#xD;
+             accordance with the program.&#xD;
+&#xD;
+          6. Male subjects of reproductive potential with partners will be instructed to,and must&#xD;
+             be willing to practice a highly effective method of birth control for the duration of&#xD;
+             the study and continuing 6 months after discontinuing treatment with the&#xD;
+             investigational product.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of or current clinically significant cardio, pulmonary, endocrine, metabolism,&#xD;
+             renal, hepatic, gastrointestinal, dermatology, infection, hematology, neurological,&#xD;
+             mental disease or disorder. Or any other disease or physiological condition that may&#xD;
+             affect the results of the study;&#xD;
+&#xD;
+          2. Those who have undergone surgery within the first 3 months of the screening period, or&#xD;
+             who plan to undergo surgery during the study period, or who have previously undergone&#xD;
+             surgery that may affect drug absorption, distribution, metabolism, and excretion;&#xD;
+&#xD;
+          3. Subjects with dysphagia or have history of gastrointestinal disorders which affects&#xD;
+             study drug absorption;&#xD;
+&#xD;
+          4. Alcohol breath test results greater than 0.0mg/100mL.&#xD;
+&#xD;
+          5. Urine drug screening (morphine, methamphetamine, ketamine, dimethyldioxyamphetamine,&#xD;
+             tetrahydrocannabinol) positive;&#xD;
+&#xD;
+          6. Those who had received the vaccine within 28 days prior to screening, or who planned&#xD;
+             to receive the vaccine during the trial;&#xD;
+&#xD;
+          7. Positive test for HBs-Ag, HCV-Ab, HIV-Ab, or syphilis antibody;&#xD;
+&#xD;
+          8. Allergies, have allergies to drugs or foods; or have known allergies to the components&#xD;
+             of the investigated drug;&#xD;
+&#xD;
+          9. Those who smoked daily &gt;5 sticks of cigarette, or the weekly alcohol consumption was&#xD;
+             higher than 14 units of alcohol (1 unit=10ml or 8g absolute alcohol. 25 ml 40% liquor,&#xD;
+             330ml 5% beers, 175ml 12% grape wine are equal to 1.0, 1.5 and 2.0 units of alcohol&#xD;
+             respectively), or the history of drug abuse and drug abuseor 3 months prior to&#xD;
+             screening period;&#xD;
+&#xD;
+         10. Subjects with history of blood donation or massive blood loss (&gt; 200 mL) within 3&#xD;
+             months prior to screening;&#xD;
+&#xD;
+         11. Participated in other clinical trials within 3 months before screening;&#xD;
+&#xD;
+         12. Use of any drugs that alter liver enzyme activity within 28 days prior to screening;&#xD;
+&#xD;
+         13. Do not promise not to smoke, not drink alcoholic food or beverages, not consume&#xD;
+             xanthine-rich foods, not consume grapefruit, dragon fruit, mango, lime, carambola or&#xD;
+             other products within 24 hours before taking the study drug. Prepared foods or&#xD;
+             beverages, as well as chocolate, tea, coffee or cola and other special diets that&#xD;
+             affect the absorption, distribution, metabolism and excretion of drugs;&#xD;
+&#xD;
+         14. People who have used any medicine (including Chinese herbal medicine and health care&#xD;
+             products) within two weeks before taking the test drug;&#xD;
+&#xD;
+         15. History of syncope / needle syncope and intolerable intravenous indwelling needle;&#xD;
+&#xD;
+         16. Those who have special requirements for diet and cannot follow a unified diet;&#xD;
+&#xD;
+         17. hose who cannot complete this study because of other reasons, or any factors judged by&#xD;
+             investigator that the participants cannot meet.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Huan Zhou, Ph D</last_name>
+    <phone>13665527160</phone>
+    <email>zhouhuan@bbmc.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>the First Affiliated Hospital with Bengbu Medical College</name>
+      <address>
+        <city>Bengbu</city>
+        <state>Anhui</state>
+        <zip>233004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Huan Zhou, Ph D</last_name>
+      <phone>13665527160</phone>
+      <email>zhouhuan@bbmc.edu.cn</email>
+    </contact>
+    <investigator>
+      <last_name>Huan Zhou, Ph D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 22, 2021</study_first_posted>
+  <last_update_submitted>March 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Itraconazole</mesh_term>
+    <mesh_term>Rifampin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

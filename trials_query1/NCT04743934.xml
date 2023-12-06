@@ -1,0 +1,219 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04743934</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-300006880</org_study_id>
+    <nct_id>NCT04743934</nct_id>
+  </id_info>
+  <brief_title>Flibanserin in Men Receiving Androgen Suppression for Prostate Cancer</brief_title>
+  <acronym>RAD 2003</acronym>
+  <official_title>RAD 2003/XUAB2104: Randomized Phase II Trial of Flibanserin in Men Receiving Androgen Suppression for Prostate Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Andrew McDonald</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a double-blinded, placebo-controlled randomized phase II clinical trial investigating&#xD;
+      whether flibanserin promotes sexual interest in men with prostate cancer who are receiving&#xD;
+      androgen suppression.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      More than 40,000 men with prostate cancer in the United States will begin androgen&#xD;
+      deprivation therapy (ADT) each year. ADT is an important part of treatment, because it&#xD;
+      improves survival for men with metastatic or high-risk localized disease, and reduces rates&#xD;
+      of biochemical progression for men with intermediate-risk localized disease who receive&#xD;
+      radiation. The most common ADT agents modulate gonadotropin-releasing hormone to suppress the&#xD;
+      downstream testosterone production, resulting in testosterone levels similar to those&#xD;
+      observed following surgical castration (&lt;20 ng/dL). Since male sexual interest is highly&#xD;
+      correlated with serum testosterone levels, loss of sexual interest is nearly universal among&#xD;
+      men who receive ADT.Sexual dysfunction is the most common complaint among men with prostate&#xD;
+      cancer and contributes to lower overall quality of life (QoL) experienced by men receiving&#xD;
+      ADT. Furthermore, the loss of sexual interest experienced during ADT is highly distressing&#xD;
+      for men with prostate cancer and their partners, which contributes additional psychological&#xD;
+      morbidity in these patients.&#xD;
+&#xD;
+      Flibanserin is approved for treatment of female hypoactive sexual desire disorder, and the&#xD;
+      safety profile of 100mg daily flibanserin is well described in premenopausal women.The safety&#xD;
+      profile of flibanserin in healthy men has been assessed in multiple phase I clinical trials,&#xD;
+      but has not been evaluated among men receiving ADT for prostate cancer.&#xD;
+&#xD;
+      This is a phase II randomized, double-blinded, placebo-controlled clinical trial designed to&#xD;
+      provide an initial estimate of the efficacy of flibanserin to promote sexual interest in men&#xD;
+      with prostate cancer receiving androgen suppression therapy and to confirm the safety&#xD;
+      profile. This study will take place at a single academic comprehensive cancer center.&#xD;
+&#xD;
+      Following confirmation of eligibility, participants who are enrolled in this study are&#xD;
+      randomized to receive daily flibanserin 100mg or placebo for a 12-week period.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">April 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient-reported frequency of attempting sexual intercourse</measure>
+    <time_frame>Baseline up to 12 weeks</time_frame>
+    <description>The number of patients in each arm reporting attempting sexual intercourse at least 3 times in the prior month (0-2 attempts vs. 3+ attempts) will be compared using the two-group chi-square test, or Fisher's exact test if the assumptions for the chi-square test are not tenable.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sexual Quality of Life (QoL)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>Determined using T-scores (higher T-score indicates better QoL) from the PROMIS v2.0 Brief Sexual Function and Satisfaction (Male) form and comparing T-score between patients receiving flibanserin and patients receiving placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of physician-assessed grade 3+ Adverse Events</measure>
+    <time_frame>Baseline up to 12 weeks</time_frame>
+    <description>Toxicity will be assessed by a physician investigator and scored using the CTCAE v5.0 scale.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Prostate Adenocarcinoma</condition>
+  <arm_group>
+    <arm_group_label>Flibanserin + ADT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Flibanserin at 100mg by mouth once daily at bedtime while receiving androgen deprivation therapy (ADT).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + ADT</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo at 100mg by mouth once daily at bedtime while receiving androgen deprivation therapy (ADT).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flibanserin 100 MG</intervention_name>
+    <description>Flibanserin 100mg tablets taken by mouth daily at bedtime</description>
+    <arm_group_label>Flibanserin + ADT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Visually identical placebo tablets taken by mouth daily at bedine</description>
+    <arm_group_label>Placebo + ADT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Androgen deprivation therapy</intervention_name>
+    <description>Androgen deprivation therapy consisting of a GnRH agonist or antagonist, choice of agent at discretion of treating physician.</description>
+    <arm_group_label>Flibanserin + ADT</arm_group_label>
+    <arm_group_label>Placebo + ADT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Provision of signed and dated informed consent form.&#xD;
+&#xD;
+          -  Stated willingness to comply with all study procedures and availability for the&#xD;
+             duration of the study.&#xD;
+&#xD;
+          -  Ability to take oral medication and be willing to adhere to the study regimen.&#xD;
+&#xD;
+          -  Male age &gt;18 years.&#xD;
+&#xD;
+          -  Histologically confirmed prostate cancer.&#xD;
+&#xD;
+          -  Currently receiving gonadotropin releasing hormone agonist/antagonist monotherapy.&#xD;
+&#xD;
+          -  Serum testosterone &lt;50 ng/dL.&#xD;
+&#xD;
+          -  Serum AST and ALT less than 2 times upper limit of normal.&#xD;
+&#xD;
+          -  Endorsed reduced sexual interest.&#xD;
+&#xD;
+          -  Attempted intercourse.&#xD;
+&#xD;
+          -  Current sexual partner.&#xD;
+&#xD;
+          -  Was sexually active with partner within 6 months prior to ADT.&#xD;
+&#xD;
+          -  No other antineoplastic therapy planned during study period.&#xD;
+&#xD;
+          -  No active symptoms attributable to systemic prostate cancer.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current systemic prostate cancer treatment besides GnRH agonist/antagonist,&#xD;
+             anti-androgens, or abiraterone.&#xD;
+&#xD;
+          -  Prior to ADT had erections not firm enough for intercourse despite use of&#xD;
+             pharmacologic agents such as phosphodiesterase-5 inhibitors.&#xD;
+&#xD;
+          -  Current symptoms attributable to active prostate cancer&#xD;
+&#xD;
+          -  Moderate or heavy alcohol use (&gt;2 drinks/day)&#xD;
+&#xD;
+          -  Concurrent moderate or strong CYP3A4 inhibitors&#xD;
+&#xD;
+          -  Concurrently taking medication classified as a monoamine oxidase inhibitor.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew McDonald, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alabama at Birmingham (UAB)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrew McDonald, MD</last_name>
+    <phone>(205) 934-5670</phone>
+    <email>ammcdonald@uabmc.edu</email>
+  </overall_contact>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 8, 2021</study_first_posted>
+  <last_update_submitted>February 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>Andrew McDonald</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Flibanserin</keyword>
+  <keyword>Androgen Deprivation Therapy (ADT)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Androgens</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

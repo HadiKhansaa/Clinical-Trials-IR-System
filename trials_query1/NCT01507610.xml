@@ -1,0 +1,312 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01507610</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OPN-SUM-1302</org_study_id>
+    <nct_id>NCT01507610</nct_id>
+  </id_info>
+  <brief_title>Bioavailability Study to Compare OPTINOSE SUMATRIPTAN With IMITREX® in Healthy Subjects</brief_title>
+  <official_title>An Open-Label, Single-Dose, Randomized, Crossover Study to Compare the Bioavailability of the Intranasal Administration of 20 mg OPTINOSE SUMATRIPTAN With 20 mg IMITREX® (Sumatriptan) Nasal Spray, 100 mg IMITREX® (Sumatriptan) Oral Tablet and 6 mg IMITREX® (Sumatriptan) Subcutaneous Injection in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Optinose US Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Optinose US Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is:&#xD;
+&#xD;
+        -  To compare the single-dose pharmacokinetics (PK) of intranasal administration of 20 mg&#xD;
+           OPTINOSE SUMATRIPTAN with 20 mg IMITREX® (sumatriptan) Nasal Spray, 100 mg IMITREX®&#xD;
+           (sumatriptan) Oral Tablet, and 6 mg IMITREX® (sumatriptan) Subcutaneous Injection, in&#xD;
+           healthy subjects.&#xD;
+&#xD;
+        -  To estimate the relative bioavailability of single-dose intranasal administration of 20&#xD;
+           mg OPTINOSE SUMATRIPTAN, 20 mg IMITREX® (sumatriptan) Nasal Spray, and 100 mg IMITREX®&#xD;
+           (sumatriptan) Oral Tablet compared to a single-dose of 6 mg IMITREX® (sumatriptan)&#xD;
+           Subcutaneous Injection, in healthy subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2012</start_date>
+  <completion_date type="Actual">February 2012</completion_date>
+  <primary_completion_date type="Actual">February 2012</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The pharmacokinetic parameters of sumatriptan following the administration of OPTINOSE SUMATRIPTAN and IMITREX® (sumatriptan).</measure>
+    <time_frame>Measurement of pharmacokinetic parameters of sumatriptan at pre-treatment and at: 2, 5, 10, 15, 20, 25, 30, 45 minutes, and 1, 1.5, 2, 3, 4, 6, 8, 10, 12 and 14 hours post treatments.</time_frame>
+    <description>The pharmacokinetic parameters AUC0-∞ and Cmax of sumatriptan following the administration of 20 mg OPTINOSE SUMATRIPTAN, 20 mg IMITREX® (sumatriptan) Nasal Spray, 100 mg IMITREX® (sumatriptan) Oral Tablet, and 6 mg IMITREX® (sumatriptan) Subcutaneous Injection.&#xD;
+• The relative bioavailability (Frel) of sumatriptan following the nasal administration of 20 mg OPTINOSE SUMATRIPTAN, 20 mg IMITREX® (sumatriptan) Nasal Spray, and 100 mg IMITREX® (sumatriptan) Oral Tablet compared to 6 mg IMITREX® (sumatriptan) Subcutaneous Injection.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bioavailability of sumatriptan following the administration of OPTINOSE SUMATRIPTAN and IMITREX® (sumatriptan).</measure>
+    <time_frame>Measurement of plasma sumatriptan concentrations at pre-treatment and at: 2, 5, 10, 15, 20, 25, 30, 45 minutes, and 1, 1.5, 2, 3, 4, 6, 8, 10, 12 and 14 hours post treatments.</time_frame>
+    <description>The relative bioavailability (Frel) of sumatriptan following the nasal administration of 20 mg OPTINOSE SUMATRIPTAN, 20 mg IMITREX® (sumatriptan) Nasal Spray, and 100 mg IMITREX® (sumatriptan) Oral Tablet compared to 6 mg IMITREX® (sumatriptan) Subcutaneous Injection.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sensory attributes of the intranasal OPTINOSE SUMATRIPTAN product and IMITREX® (sumatriptan).</measure>
+    <time_frame>Sensory attributes will be evaluated within 2 minutes after drug administration. The evaluation will be repeated within 5 to 10 minutes after drug administration.</time_frame>
+    <description>Sensory attributes of the intranasal OPTINOSE SUMATRIPTAN product, IMITREX® (sumatriptan) Nasal Spray and 100 mg IMITREX® (sumatriptan) Oral Tablet will be evaluated using a 14-item or 4 item Sensory Nasal Spray Evaluation Questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Evaluations of the intranasal OPTINOSE SUMATRIPTAN product and IMITREX®</measure>
+    <time_frame>Safety evaluations will be perfromed on days 1, 8, 15, 22, 25 and 32</time_frame>
+    <description>Safety evaluation will be based on physical examinations, vital signs, 12-lead electrocardiograms (ECGs), clinical laboratory tests (hematology, serum chemistry and urinalysis), and adverse events (AEs).</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">20</enrollment>
+  <condition>Migraine</condition>
+  <arm_group>
+    <arm_group_label>Investigational</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>OPTINOSE SUMATRIPTAN, single dose of 20 mg intranasally (10 mg to each nostril).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IMITREX Nasal Spray</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>IMITREX® (sumatriptan) Nasal Spray, single dose of 20 mg intranasally (20 mg to one nostril).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IMITREX Oral Tablet</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>IMITREX® (sumatriptan) Oral Tablet, single dose of 100 mg, administered orally with 240 mL water.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IMITREX Subcutaneous Injection</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>IMITREX® (sumatriptan) Subcutaneous Injection, single dose of 6 mg injected subcutaneously in the abdomen.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sumatriptan</intervention_name>
+    <description>To compare the single-dose pharmacokinetics (PK) and relative bioavailability of intranasal administration of 20 mg OPTINOSE SUMATRIPTAN with 20 mg IMITREX® (sumatriptan) Nasal Spray, 100 mg IMITREX® (sumatriptan) Oral Tablet, and 6 mg IMITREX® (sumatriptan) Subcutaneous Injection, in healthy subjects.</description>
+    <arm_group_label>IMITREX Nasal Spray</arm_group_label>
+    <arm_group_label>IMITREX Oral Tablet</arm_group_label>
+    <arm_group_label>IMITREX Subcutaneous Injection</arm_group_label>
+    <arm_group_label>Investigational</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men or women ages 18 to 55 years, inclusive, at screening.&#xD;
+&#xD;
+          -  Healthy with no clinically relevant abnormalities in the opinion of the Investigator&#xD;
+             as determined by medical history, physical examination, blood chemistry, hematology,&#xD;
+             including complete blood count, urinalysis, vital signs, and ECG.&#xD;
+&#xD;
+          -  Have a BMI of 18-32 kg/m2, inclusive, and a body weight of not less than 50 kg.&#xD;
+&#xD;
+          -  For females of childbearing potential: either be sexually inactive (abstinent) for 14&#xD;
+             days prior to the first dose and throughout the study or be using one of the following&#xD;
+             acceptable birth control methods:&#xD;
+&#xD;
+               -  intrauterine device in place for at least 3 months prior to the first dose and&#xD;
+                  throughout the study.&#xD;
+&#xD;
+               -  barrier methods (condom, diaphragm) with spermicide for at least 14 days prior to&#xD;
+                  the first dose and throughout the study.&#xD;
+&#xD;
+               -  surgical sterilization of the partner (vasectomy for 6 months minimum).&#xD;
+&#xD;
+               -  hormonal contraceptives for at least 3 months prior to the first dose of the&#xD;
+                  study and throughout the study.&#xD;
+&#xD;
+               -  Female subjects who claim to be sexually inactive, but become sexually active&#xD;
+                  during the course of the study must agree to use a barrier method (e.g. condom,&#xD;
+                  diaphragm) with spermicide from the time of the start of sexual activity through&#xD;
+                  completion of the study.&#xD;
+&#xD;
+               -  In addition, female subjects of childbearing potential will be advised to remain&#xD;
+                  sexually inactive or to keep the same birth control method for the whole duration&#xD;
+                  of the study.&#xD;
+&#xD;
+          -  Females of non-childbearing potential must have undergone one of the following&#xD;
+             sterilization procedures at least 6 months prior to Day 1:&#xD;
+&#xD;
+               -  bilateral tubal ligation&#xD;
+&#xD;
+               -  hysterectomy&#xD;
+&#xD;
+               -  bilateral oophorectomy or be postmenopausal with amenorrhea for at least 1 year&#xD;
+                  prior to Day 1 and follicle stimulating hormone (FSH) serum levels ≥ 40 mIU/mL.&#xD;
+&#xD;
+          -  Women of child-bearing potential must have a negative serum beta-human chorionic&#xD;
+             gonadotropin at the screening visit and at each check-in prior to dosing.&#xD;
+&#xD;
+          -  Agree to abstain from alcohol intake 48 hours before each administration of study&#xD;
+             agent and during inpatient portion of the study.&#xD;
+&#xD;
+          -  Agree to limit caffeine/methylxanthine (eg, coffee, tea, chocolate, or&#xD;
+             caffeine-containing soft drinks) intake to less than 300 mg/day for 7 days prior to&#xD;
+             and for the duration of the study (300 mg of caffeine is equal to approximately 3 cups&#xD;
+             of coffee or 6 cola drinks), with no intake from 24 hours before dosing and throughout&#xD;
+             confinement.&#xD;
+&#xD;
+          -  Agree not to consume food or beverages containing, grapefruit or grapefruit juice,&#xD;
+             Seville oranges, or quinine (e.g. tonic water) 72 hours prior to study Day -1 until&#xD;
+             after the last PK sample is collected.&#xD;
+&#xD;
+          -  Agree not to consume food containing poppy seeds during the study.&#xD;
+&#xD;
+          -  Have verified airflow through both nostrils and an ability to close the soft palate.&#xD;
+&#xD;
+          -  Must be able to use the OptiNose device correctly.&#xD;
+&#xD;
+          -  Subjects must understand English and have signed an informed consent document&#xD;
+             indicating that they understand the purpose of and procedures required for the study&#xD;
+             and are willing to participate in the study.&#xD;
+&#xD;
+          -  Be willing to adhere to the study visit schedule and other protocol requirements.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Currently have or have a history of disease or dysfunction of the pulmonary,&#xD;
+             cardiovascular, endocrine, hematologic, neurological, immune, gastrointestinal,&#xD;
+             genitourinary, or other body system that is clinically significant in the opinion of&#xD;
+             the Investigator.&#xD;
+&#xD;
+          -  Have evidence of any chronic medical conditions requiring prescription medications&#xD;
+             (eg, hypertension or diabetes).&#xD;
+&#xD;
+          -  Have a history of migraines.&#xD;
+&#xD;
+          -  History of hypersensitivity or allergies to any drug compound, including sumatriptan,&#xD;
+             any of its components or sulphonamides.&#xD;
+&#xD;
+          -  Have had a major or traumatic surgery within 12 weeks prior to screening, pre-planned&#xD;
+             surgery or procedures that would interfere with the conduct of the study.&#xD;
+&#xD;
+          -  Have an acute illness within 7 days prior to study agent administration or have had a&#xD;
+             major illness or hospitalization within 1 month prior to study agent administration.&#xD;
+&#xD;
+          -  Have clinically significant findings on screening ECG.&#xD;
+&#xD;
+          -  Have a recent history (within 1 previous year) of alcohol or drug abuse.&#xD;
+&#xD;
+          -  History of smoking or use of nicotine-containing substances within the previous 2&#xD;
+             months.&#xD;
+&#xD;
+          -  Have abnormal values for hematology, clinical chemistry, or urinalysis at screening or&#xD;
+             check-in considered clinically significant by the Investigator.&#xD;
+&#xD;
+          -  Have a positive serology test for HIV antibodies, HBsAg, or hepatitis C virus antibody&#xD;
+             (anti-HCV) at screening.&#xD;
+&#xD;
+          -  Have a positive urine drug screen for ethanol or substances of abuse including&#xD;
+             cocaine, cannabinoids, phencyclidine, amphetamines, benzodiazepines, barbiturates,&#xD;
+             opiates, propoxyphene, and methadone at screening and each check-in.&#xD;
+&#xD;
+          -  Have a haemoglobin level below the lower limit of normal at screening.&#xD;
+&#xD;
+          -  Have donated blood or experienced significant blood loss (volume &gt; 500 mL) within 3&#xD;
+             months prior to screening, or is planning to donate within 2 months after completion&#xD;
+             of the study.&#xD;
+&#xD;
+          -  Use of drug metabolizing enzyme (CYP-450) inducers within 28 days prior to dosing or&#xD;
+             inhibitors within 14 days prior to dosing (refer to Appendix 1).&#xD;
+&#xD;
+          -  Use of any monoamine oxidase inhibitors (MAOI) within 28 days prior to dosing.&#xD;
+&#xD;
+          -  Use of any prescription medications/products, except hormonal contraceptives, within&#xD;
+             14 days prior to study entry.&#xD;
+&#xD;
+          -  Use of any OTC, nonprescription preparation (including minerals and&#xD;
+             phytotherapeutic/herbal/plant-derived preparations), within 14 days prior to study&#xD;
+             entry, with the exception of ibuprofen, and acetaminophen used at recommended doses.&#xD;
+             For acetaminophen, a maximum of 1500 mg per day and no more than 3 g per week, will be&#xD;
+             allowed for the treatment of headache or other pain.&#xD;
+&#xD;
+          -  Participation in any other investigational study drug trial in which receipt of an&#xD;
+             investigational study drug occurred within 4 weeks prior to dosing, or plan to&#xD;
+             participate in an investigational drug study less than 1 month after completion of the&#xD;
+             study.&#xD;
+&#xD;
+          -  A recent febrile illness within 3 days of the start of the study drug intake on Day 1.&#xD;
+&#xD;
+          -  If a woman, must not be breast-feeding or planning to become pregnant during the&#xD;
+             study.&#xD;
+&#xD;
+          -  Must refrain from physical activity (jogging, strenuous exercise of all types), and&#xD;
+             sunbathing while confined to the study center and 48 hours before admission to the&#xD;
+             study center.&#xD;
+&#xD;
+          -  Reports or exhibits abnormalities regarding the sense of smell and/or taste.&#xD;
+&#xD;
+          -  Reports a temporary loss of or abnormality of sense of smell and/or taste due to&#xD;
+             recent (within the 2 weeks prior to Day 1) cold or viral infections.&#xD;
+&#xD;
+          -  Presence of respiratory diseases or known nasal obstruction including allergic&#xD;
+             rhinitis, nasal septum deviation, polyposis, severe mucosal swelling, nasal ulcers,&#xD;
+             nasal trauma,or any other reason.&#xD;
+&#xD;
+          -  Have a history of chronic nose bleeds.&#xD;
+&#xD;
+          -  Current nasopharyngeal illness.&#xD;
+&#xD;
+          -  Known velum insufficiency, ie, those with cleft palate and/or structural abnormalities&#xD;
+             in the soft palate and nasopharynx.&#xD;
+&#xD;
+          -  Any condition that in the opinion of the Investigator would complicate or compromise&#xD;
+             the study, or the well-being of the subject.&#xD;
+&#xD;
+          -  Is an employee of the Investigator/study center or the Sponsor.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Celerion</name>
+      <address>
+        <city>Neptune</city>
+        <state>New Jersey</state>
+        <zip>07753</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2012</verification_date>
+  <study_first_submitted>January 4, 2012</study_first_submitted>
+  <study_first_submitted_qc>January 10, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 11, 2012</study_first_posted>
+  <last_update_submitted>February 28, 2012</last_update_submitted>
+  <last_update_submitted_qc>February 28, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 29, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>sumatriptan</keyword>
+  <keyword>bioavailability</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sumatriptan</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

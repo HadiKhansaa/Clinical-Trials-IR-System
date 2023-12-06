@@ -1,0 +1,281 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04630275</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Vitality1</org_study_id>
+    <nct_id>NCT04630275</nct_id>
+  </id_info>
+  <brief_title>Gonadal Dysfunction in Male Long-term Survivors of Malignant Lymphoma; Vitality-Obs</brief_title>
+  <official_title>Vitality-Obs; An Observational and Descriptive Cross-sectional Study of Gonadal Dysfunction in Male Long-term Survivors of Malignant Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lars Møller Pedersen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Herlev Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is an observational cross-sectional study which aims to investigate the&#xD;
+      relationship between treatment with chemotherapy and the development of low levels of&#xD;
+      testosterone in the blood in patients cured for aggressive lymphoma. We hypothesize that&#xD;
+      patients in turn will develop sexual dysfunction and poor quality of life because of this&#xD;
+      reduced level of testosterone. Cancer treatment is increasingly effective and the overall&#xD;
+      survival higher, which makes issues like sexuality and long-term quality of life more and&#xD;
+      more important to address in cured cancer patients. Patient sexuality and quality of life is&#xD;
+      measured by 3 questionnaires filled out once, and serum testosterone by a single blood&#xD;
+      sample. We hope to show that future follow up visits should include focus on sexuality and&#xD;
+      serum testosterone. Questionnaires and blood samples can be implemented easily and without&#xD;
+      great cost.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Diffuse large B-cell lymphoma and Hodgkin Lymphoma are two aggressive lymphomas often treated&#xD;
+      with doxorubicin containing chemotherapy. Doxorubicin is an anthracycline and is known to be&#xD;
+      toxic to both Leydig Cells of the testes and hormone-producing cells of the hypothalamus.&#xD;
+      Therefore patients treated with this drug are at risk of developing hypogonadism. Standard&#xD;
+      follow-up programs do not include investigation of hormone levels. With this study we aim to&#xD;
+      investigate the extent of hypogonadisme in patients treated with anthracycline containing&#xD;
+      chemotherapy, to clarify whether it is relevant to include serum testosterone in standard&#xD;
+      follow-up programs.&#xD;
+&#xD;
+      Our Hypothesis:&#xD;
+&#xD;
+      Hypothesis 1: A significant proportion of long-term male survivors of HL and DLBCL have&#xD;
+      impaired QoL due to sexual dysfunction.&#xD;
+&#xD;
+      Hypothesis 2: A significant proportion of long-term male survivors of HL and DLBCL have&#xD;
+      reduced levels of testosterone.&#xD;
+&#xD;
+      Hypothesis 3: A significant relationship between QoL, sexual dysfunction and testosterone&#xD;
+      levels exists.&#xD;
+&#xD;
+      To clarify the extent of hypogonadisme a single blood test including s-total-testosterone&#xD;
+      will be drawn once, and levels below 8nmol/L will be classified as hypogonadisme. To assess&#xD;
+      patients sexuality and quality of life, 3 questionnaires will be filled out; the EORTC&#xD;
+      QLQ-C30 for general quality of life, EORTC SHQ-22 for sexual health and IIEF-5 for sexual&#xD;
+      function.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Serum-testosterone level</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>The frequency of sexual dysfunction measured by serum-testosterone level below 8 nmol/L, in patients with DLBCL or HL.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of co-morbidity according to Cumulative Illness Rating Scale (CIRS) score</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>The prevalence of CIRS score above 6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Erectile Function according to International Index of Erectile Function (IIEF-5)</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>The frequency of IIEF-5 scores below 22</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of sexual dysfunction symptoms</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>According to SHQ-22 symptom scores. High symptoms scores represents high level of symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of sexual function</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>According to SHQ-22 function scores. High symptoms scores represents high level of functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of Quality of life, functioning</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>According to QLQ-C30 function scores. High function scores represents a high level of functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of Quality of life, symptoms</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>According to QLQ-C30 symptoms scores. High symptoms scores represents high level of symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of Quality of life, global health</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>According to QLQ-C30 global health scores. High symptoms scores represents high level of global health.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Hypogonadism</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        A cohort of patients with Hodgkin Lyphoma or Diffuse Large B-Cell Lymphoma diagnosed during&#xD;
+        the period April 2013- April 2018 at the Departments of Hematology, Herlev Hospital,&#xD;
+        Copenhagen University Hospital and Zealand University Hospital, will be identified through&#xD;
+        The Danish Lymphoma registry (LyFo).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18-65 years at follow-up&#xD;
+&#xD;
+          2. Male&#xD;
+&#xD;
+          3. Verified diagnosis of de novo DLBCL or classical HL diagnosed between April 2013 and&#xD;
+             April 2018 according to WHO classification.&#xD;
+&#xD;
+          4. Completed curative intent first line treatment with anthracycline-containing&#xD;
+             chemotherapy with or without consolidating radiotherapy, with disease in complete&#xD;
+             remission at EOT-PET/CT at least one year prior to inclusion.&#xD;
+&#xD;
+          5. Literate in Danish&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Concurrent low-grade lymphoma&#xD;
+&#xD;
+          2. Current or prior lymphoproliferative disease of the central nervous system (CNS)&#xD;
+&#xD;
+          3. Current or prior lymphoproliferative disease of the testes&#xD;
+&#xD;
+          4. Mental or physical conditions that are expected to prevent the necessary &quot;compliance&quot;&#xD;
+             and/or &quot;adherence&quot; in relation to the study procedures.&#xD;
+&#xD;
+          5. Treatment with second line chemotherapy or high dose therapy.&#xD;
+&#xD;
+          6. Current or prior anabolic steroid drug abuse&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Will be based on social security number</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Signe Micas Pedersen</last_name>
+    <phone>+4551274097</phone>
+    <email>signe.micas.pedersen@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lars Møller Pedersen, MD</last_name>
+    <phone>+4538686527</phone>
+    <email>lars.moeller.pedersen.01@regionh.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Copenhagen University Hospital</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter De Nully Brown, MD</last_name>
+      <phone>+4535451128</phone>
+      <email>peter.brown@regionh.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jette Sønderskov Gørløv, MD</last_name>
+      <phone>+4535458141</phone>
+      <email>jette.goerloev@regionh.dk</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Herlev University Hospital</name>
+      <address>
+        <city>Herlev</city>
+        <zip>2730</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Signe Micas Pedersen</last_name>
+      <phone>+4538686265</phone>
+      <email>signe.micas.pedersen@regionh.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lars Moeller Pedersen</last_name>
+      <phone>+4538686527</phone>
+      <email>lars.moeller.pedersen.01@regionh.dk</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Zealand University Hospital</name>
+      <address>
+        <city>Roskilde</city>
+        <zip>4000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Christian Bjørn Poulsen, MD</last_name>
+      <phone>+4547324809</phone>
+      <email>cbpo@regionsjaelland.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2020</study_first_posted>
+  <last_update_submitted>February 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Herlev Hospital</investigator_affiliation>
+    <investigator_full_name>Lars Møller Pedersen</investigator_full_name>
+    <investigator_title>Senior Consultant</investigator_title>
+  </responsible_party>
+  <keyword>lymphoma</keyword>
+  <keyword>Diffuse Large B-Cell Lymphoma</keyword>
+  <keyword>Hodgkin</keyword>
+  <keyword>hypogonadism</keyword>
+  <keyword>testosterone</keyword>
+  <keyword>EORTC</keyword>
+  <keyword>Quality of life</keyword>
+  <keyword>Sexuality</keyword>
+  <keyword>Sexual health</keyword>
+  <keyword>Cancer</keyword>
+  <keyword>IIEF-5</keyword>
+  <keyword>Doxorubicin</keyword>
+  <keyword>anthracycline</keyword>
+  <keyword>Leydig cells</keyword>
+  <keyword>Hypothalamus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Hypogonadism</mesh_term>
+    <mesh_term>Gonadal Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,319 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04514796</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SB5-1003</org_study_id>
+    <nct_id>NCT04514796</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetics, Safety, Tolerability, and Immunogenicity of Two Formulations of SB5 in Healthy Male Subjects</brief_title>
+  <official_title>A Randomised, Single-blind, Two-arm, Parallel Group, Single-dose Study to Compare the Pharmacokinetics, Safety, Tolerability, and Immunogenicity of Two Formulations of SB5 in Healthy Male Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Samsung Bioepis Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Samsung Bioepis Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to evaluate to compare the pharmacokinetics, safety, tolerability, and&#xD;
+      immunogenicity of two formulations of SB5 in healthy male subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 13, 2020</start_date>
+  <completion_date type="Anticipated">May 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 15, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AUCinf</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Area under the concentration-time curve from time zero to infinity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cmax</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Maximum serum concentration</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AUClast</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Area under the concentration-time curve from time zero to the last quantifiable concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Time to reach Cmax</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vz/F</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Apparent volume of distribution during the terminal phase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>λz</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Terminal rate constant</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>t1/2</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Terminal half-life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CL/F</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Apparent total body clearance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>%AUCextrap</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Percentage of AUCinf due to extrapolation from time of last measurable concentration (Tlast) to infinity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Experience at least 1 TEAE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious adverse events (SAEs)</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Experience at least 1 SAE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of anti-drug antibodies (ADAs)</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Incidence of ADAs to adalimumab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of neutralising antibodies (NAbs)</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Incidence of NAbs to adalimumab</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">188</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>40 mg/0.4 mL of SB5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 mg/mL of SB5</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>40 mg/0.8 mL of SB5</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>50 mg/mL of SB5</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adalimumab</intervention_name>
+    <description>SB5 (adalimumab), 40 mg, single-dose</description>
+    <arm_group_label>40 mg/0.4 mL of SB5</arm_group_label>
+    <arm_group_label>40 mg/0.8 mL of SB5</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Healthy male, aged 18-55 years (inclusive).&#xD;
+&#xD;
+          2. A body weight between 65.0-90.0 kg (inclusive) and a body mass index between 20.0-29.9&#xD;
+             kg/m2 (inclusive)&#xD;
+&#xD;
+          3. 12-lead electrocardiogram results without clinically significant abnormal.&#xD;
+&#xD;
+          4. Systolic blood pressure ≤ 140 and ≥ 90 mmHg, diastolic blood pressure ≤ 90 and ≥ 50&#xD;
+             mmHg and pulse rate ≥ 45 and ≤ 90 beats per minute or assessed as not clinically&#xD;
+             significant.&#xD;
+&#xD;
+          5. Physical examination results without clinically significant abnormal findings.&#xD;
+&#xD;
+          6. Clinical laboratory results within the normal range or outside the normal range but&#xD;
+             assessed as not clinically significant.&#xD;
+&#xD;
+          7. Male subjects who did not have surgical sterilisation must be willing to abstain from&#xD;
+             sexual intercourse or willing to use a condom in addition to having their female&#xD;
+             partner use another form of contraception such as an intra-uterine device, oral&#xD;
+             contraceptive, injectable progesterone, sub-dermal implant, or a tubal ligation unless&#xD;
+             their partners are infertile from the time of the investigational product (IP)&#xD;
+             administration until 5 months after the IP administration.&#xD;
+&#xD;
+          8. Willing and able to comply with study procedures including lifestyle consideration.&#xD;
+&#xD;
+          9. Able to provide written informed consent prior to any study procedures.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. A history and/or current presence of clinically significant atopic, hypersensitivity&#xD;
+             or allergic, also including known or suspected clinically relevant drug&#xD;
+             hypersensitivity to adalimumab or to any of the excipients.&#xD;
+&#xD;
+          2. A history of and/or current clinically significant gastrointestinal, renal, hepatic,&#xD;
+             haematological, pulmonary, neurologic, psychiatric, drug or alcohol abuse, or allergic&#xD;
+             disease excluding mild asymptotic seasonal allergies.&#xD;
+&#xD;
+          3. Either active or latent tuberculosis (TB) or a history of TB.&#xD;
+&#xD;
+          4. A history of invasive systemic fungal infections or other opportunistic infections.&#xD;
+&#xD;
+          5. A history of any systemic or local infection, a known risk for developing sepsis&#xD;
+             and/or known active inflammatory process within 180 days prior to Randomisation.&#xD;
+&#xD;
+          6. A sign of ongoing or chronic inflammation process defined as high blood concentration&#xD;
+             of C reactive protein (&gt; 1.5 times the upper limit of normal).&#xD;
+&#xD;
+          7. A history of serious infection (associated with hospitalisation and/or which required&#xD;
+             intravenous antibiotics) within 180 days prior to Randomisation.&#xD;
+&#xD;
+          8. Previously been treated with adalimumab.&#xD;
+&#xD;
+          9. Previously been exposed to a monoclonal antibody or fusion protein (other than&#xD;
+             adalimumab) within 180 days prior to Randomisation and/or there is a confirmed&#xD;
+             evidence or clinical suspicion of immunogenicity from previous exposure to a&#xD;
+             monoclonal antibody or fusion protein.&#xD;
+&#xD;
+         10. Previously been exposed to an immunosuppressive agent or biological agent (any other&#xD;
+             than a monoclonal antibody or fusion protein) within 120 days prior to Randomisation.&#xD;
+&#xD;
+         11. Received live vaccine(s) within 30 days prior to Randomisation or who will require&#xD;
+             live vaccine(s) during the study period.&#xD;
+&#xD;
+         12. A history of and/or current cardiac disease defined as one of the following:&#xD;
+&#xD;
+               1. Personal or family history of prolonged QT interval syndrome or Torsade de&#xD;
+                  Pointes.&#xD;
+&#xD;
+               2. QT interval corrected by Fridericia's formulas &gt; 450 msec or PR interval outside&#xD;
+                  the range 120 to 220 msec.&#xD;
+&#xD;
+               3. Signs and symptoms or any history suggestive for heart failure.&#xD;
+&#xD;
+               4. Any other cardiac abnormalities or conditions assessed as clinically significant.&#xD;
+&#xD;
+         13. Impaired liver, pancreas and biliary system as determined by one of the following:&#xD;
+&#xD;
+               1. Serum alanine transaminase and/or aspartate transaminase ≥ 1.5 times the upper&#xD;
+                  limit of normal.&#xD;
+&#xD;
+               2. Gallbladder or bile duct disease classified as clinically significant.&#xD;
+&#xD;
+               3. Acute or chronic pancreatitis.&#xD;
+&#xD;
+               4. A positive hepatitis C virus antibody test or hepatitis B virus surface antigen&#xD;
+                  test, or signs for active or chronic hepatitis B.&#xD;
+&#xD;
+               5. Hepatic disease classified as clinically significant.&#xD;
+&#xD;
+         14. A positive test result for human immunodeficiency virus, or have a history of&#xD;
+             immunodeficiency.&#xD;
+&#xD;
+         15. A history of malignancy (including lymphoma and leukaemia) other than a successfully&#xD;
+             treated non-metastatic cutaneous squamous cell carcinoma, basal cell carcinoma or&#xD;
+             localised carcinoma.&#xD;
+&#xD;
+         16. Had surgery within 90 days prior to Randomisation, and/or who plan to have an&#xD;
+             operation during the study period.&#xD;
+&#xD;
+         17. A history and/or current presence of an illness within 14 days prior to Randomisation&#xD;
+             that is classified as clinically significant.&#xD;
+&#xD;
+         18. Have a history of and/or current Coronavirus Disease-19 (COVID-19) defined as one of&#xD;
+             the following:&#xD;
+&#xD;
+               1. Positive test result for COVID-19 confirmed by severe acute respiratory syndrome&#xD;
+                  coronavirus 2 (SARS-CoV-2) using real-time reverse transcriptase polymerase chain&#xD;
+                  reaction (RT-PCR) at Day -1.&#xD;
+&#xD;
+               2. Signs and symptoms consistent with COVID-19 30 days prior to Randomisation.&#xD;
+&#xD;
+               3. Have had a positive test result for COVID-19 confirmed by SARS-CoV-2 detection&#xD;
+                  using real-time RT-PCR.&#xD;
+&#xD;
+               4. Had severe course of COVID-19.&#xD;
+&#xD;
+         19. Smoked more than 10 cigarettes, 2 cigars or 2 pipes per day within 90 days prior to&#xD;
+             Screening.&#xD;
+&#xD;
+         20. Regular consumption of alcoholic beverages that exceeds 14 units.&#xD;
+&#xD;
+         21. A positive urinary drug screening result.&#xD;
+&#xD;
+         22. Any prescription medicine or over-the-counter medicines (except paracetamol) that&#xD;
+             might have an effect on the objectives of the study in the opinion of the&#xD;
+             Investigator, within 30 days prior to Randomisation.&#xD;
+&#xD;
+         23. Donated &gt; 100 mL blood or plasma within 28 days prior to Randomisation.&#xD;
+&#xD;
+         24. Participated in another study with an investigational drug within 60 days prior to&#xD;
+             Randomisation or are currently participating in or intending to participate in another&#xD;
+             clinical study of an investigational drug before completion of all scheduled&#xD;
+             evaluations in this clinical study.&#xD;
+&#xD;
+         25. Subjects who, in the opinion of the Investigator, are not likely to complete the study&#xD;
+             for whatever reason.&#xD;
+&#xD;
+         26. Subject who is the Investigator or any sub-Investigator, research assistant,&#xD;
+             pharmacist, study coordinator, other staff or relative thereof directly involved in&#xD;
+             the conduct of the clinical study.&#xD;
+&#xD;
+         27. Vulnerable subjects.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Köernicke, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Parexel International GmbH, Early Phase Clinical Unit Berlin</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Parexel International GmbH, Early Phase Clinical Unit Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>14050</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>August 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2020</study_first_posted>
+  <last_update_submitted>April 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adalimumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

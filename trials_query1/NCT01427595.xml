@@ -1,0 +1,624 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01427595</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13789</org_study_id>
+    <secondary_id>U54HD028934-18</secondary_id>
+    <nct_id>NCT01427595</nct_id>
+  </id_info>
+  <brief_title>Effect of Metformin on Sensitivity of the GnRH Pulse Generator to Suppression by Estradiol and Progesterone</brief_title>
+  <official_title>Effect of Metformin on Sensitivity of the GnRH Pulse Generator to Suppression by Estradiol and Progesterone in Hyperandrogenemic Adolescent Girls (JCM025)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Virginia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Virginia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Many, but not all, girls with high levels of the male hormone testosterone go on to develop&#xD;
+      polycystic ovary syndrome (PCOS) as adults. Women with PCOS often have irregular menstrual&#xD;
+      periods, excess facial and body hair, and weight gain. PCOS is also a leading cause of&#xD;
+      difficulty becoming pregnant. The investigators do not understand why some girls with high&#xD;
+      hormones develop PCOS and others do not. In a previous study by our group, some girls with&#xD;
+      high levels of male hormones had abnormalities in the secretion of another hormone, called&#xD;
+      luteinizing hormone (LH), that are often seen in women with PCOS. However, another group had&#xD;
+      normal LH secretion. The girls with the abnormal LH secretion had higher levels of another&#xD;
+      hormone, called insulin, than the girls with normal LH secretion. The investigators will test&#xD;
+      whether metformin, an insulin-sensitizing agent, changes the effects of high male hormone&#xD;
+      levels in adolescent girls, specifically by looking at their LH secretion response following&#xD;
+      metformin treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A better understanding of the factors that make adolescent girls more or less susceptible to&#xD;
+      the adverse neuroendocrine effects of elevated androgens will hopefully lead to improved&#xD;
+      prevention and treatment strategies for PCOS. In this study, we propose to explore the role&#xD;
+      of hyperinsulinemia on neuroendocrine function in hyperandrogenic adolescent girls by&#xD;
+      assessing the effect of the insulin sensitizer Metformin on hypothalamic progesterone&#xD;
+      sensitivity. Other differences between the progesterone sensitive and progesterone&#xD;
+      insensitive subgroups, including racial and ethnic differences between the two populations&#xD;
+      and a trend towards older gynecologic age in the progesterone insensitive population, are&#xD;
+      being pursued through other ongoing studies (IRB-HSR# 8588 and 12160).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 18, 2009</start_date>
+  <completion_date type="Actual">January 17, 2015</completion_date>
+  <primary_completion_date type="Actual">January 17, 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Progesterone Sensitivity Index Before and After Metformin Treatment.</measure>
+    <time_frame>12 weeks following start of metformin treatment</time_frame>
+    <description>The progesterone (P4) sensitivity index is defined as the percent change in 11-hour LH pulse frequency before and after P4 and estradiol administration for 7 days, divided by the day 7 mean serum P4 concentration. We compared the P4 sensitivity index after metformin administration to the baseline P4 sensitivity index, using Wilcoxon signed-rank test.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">25</enrollment>
+  <condition>Polycystic Ovary Syndrome</condition>
+  <condition>Hyperandrogenism</condition>
+  <arm_group>
+    <arm_group_label>Metformin, progesterone , estrace</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 weeks Metformin oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (2X) oral estrace, 0.5-1 mg once a day for seven days (2X)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Metformin</intervention_name>
+    <description>500-2000 mg PO BID (X12 weeks)</description>
+    <arm_group_label>Metformin, progesterone , estrace</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Progesterone</intervention_name>
+    <description>oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (X2)</description>
+    <arm_group_label>Metformin, progesterone , estrace</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>estrace</intervention_name>
+    <description>oral estrogen (estrace, 0.5-1 mg once a day for seven days)- X2</description>
+    <arm_group_label>Metformin, progesterone , estrace</arm_group_label>
+    <other_name>Estrogen</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Girls ages 10 to 17&#xD;
+&#xD;
+          -  Hyperandrogenemic (free testosterone greater than 2.5 standard deviations above the&#xD;
+             mean for normal control subjects of the same Tanner Stage)&#xD;
+&#xD;
+          -  Creatinine clearance &gt; 90 ml/min as calculated by the Cockcroft-Gault equation&#xD;
+&#xD;
+          -  Hemoglobin &gt; 12 mg/dL or Hematocrit &gt; 36%&#xD;
+&#xD;
+          -  Normal screening labs (with exception of the expected hormonal abnormalities inherent&#xD;
+             in hyperandrogenemia)&#xD;
+&#xD;
+          -  Sexually active subjects must agree to abstain or use double barrier contraception&#xD;
+             during the study&#xD;
+&#xD;
+          -  Subjects must agree not to take any other medications during the course of the study&#xD;
+             without approval by the study investigators.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Abnormal screening labs (with the exception of the expected hormonal abnormalities&#xD;
+             inherent in hyperandrogenemia)&#xD;
+&#xD;
+          -  Creatinine clearance less than 90 ml/min as calculated by Cockcroft-Gault equation&#xD;
+&#xD;
+          -  Hemoglobin &lt;12 mg/dL or hematocrit &lt; 36%&#xD;
+&#xD;
+          -  Abnormal liver function tests, including Aspartate Aminotransferase (AST), Alanine&#xD;
+             Aminotransferase (ALT), Bilirubin, Albumin, and Alkaline Phosphatase&#xD;
+&#xD;
+          -  Weight &lt; 34 kg&#xD;
+&#xD;
+          -  History of renal dysfunction, liver dysfunction, congestive heart failure, deep venous&#xD;
+             thrombosis, breast cancer, endometrial cancer, or cervical cancer&#xD;
+&#xD;
+          -  Pregnant or breast feeding&#xD;
+&#xD;
+          -  On medications known to affect the reproductive axis within 3 months of the study&#xD;
+             (including oral contraceptive pills, metformin, and spironolactone)&#xD;
+&#xD;
+          -  Are currently participating in another study or have been in one in the last 30 days.&#xD;
+&#xD;
+          -  Subjects using restricted medication (see restrictions below) are excluded unless the&#xD;
+             subject's primary care provider approves stopping the medication.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John C. Marshall, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Virginia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Center for Research in Reproduction, University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>August 30, 2011</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 1, 2011</study_first_posted>
+  <results_first_submitted>December 14, 2020</results_first_submitted>
+  <results_first_submitted_qc>December 14, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 8, 2021</results_first_posted>
+  <last_update_submitted>December 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Virginia</investigator_affiliation>
+    <investigator_full_name>Christine Burt Solorzano</investigator_full_name>
+    <investigator_title>Center for Research in Reproduction</investigator_title>
+  </responsible_party>
+  <keyword>hyperandrogenemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Polycystic Ovary Syndrome</mesh_term>
+    <mesh_term>Hyperandrogenism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metformin</mesh_term>
+    <mesh_term>Progesterone</mesh_term>
+    <mesh_term>Estradiol</mesh_term>
+    <mesh_term>Estrogens</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 14, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/95/NCT01427595/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 14, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/95/NCT01427595/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>25 subjects enrolled in this study. 7 subjects completed screening procedures only (these 7 subjects were withdrawn from study prior to being assigned to an arm of intervention).</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Metformin, Progesterone , Estrace</title>
+          <description>12 weeks Metformin oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (2X) oral estrace, 0.5-1 mg once a day for seven days (2X)&#xD;
+Metformin: 500-2000 mg PO BID (X12 weeks)&#xD;
+Progesterone: oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (X2)&#xD;
+estrace: oral estrogen (estrace, 0.5-1 mg once a day for seven days)- X2</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>25 subjects enrolled and 12 completed the study. Only 10 subjects were included in the formal analysis.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Metformin, Progesterone , Estrace</title>
+          <description>12 weeks Metformin oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (2X) oral estrace, 0.5-1 mg once a day for seven days (2X)&#xD;
+Metformin: 500-2000 mg PO BID (X12 weeks)&#xD;
+Progesterone: oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (X2)&#xD;
+estrace: oral estrogen (estrace, 0.5-1 mg once a day for seven days)- X2</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15.3" spread="1.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Progesterone Sensitivity Index Before and After Metformin Treatment.</title>
+        <description>The progesterone (P4) sensitivity index is defined as the percent change in 11-hour LH pulse frequency before and after P4 and estradiol administration for 7 days, divided by the day 7 mean serum P4 concentration. We compared the P4 sensitivity index after metformin administration to the baseline P4 sensitivity index, using Wilcoxon signed-rank test.</description>
+        <time_frame>12 weeks following start of metformin treatment</time_frame>
+        <population>12 subjects completed study but 2 subjects were excluded from analysis due to incomplete adherence to metformin, missing &gt; 10% of doses.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Metformin, Progesterone , Estrace</title>
+            <description>12 weeks Metformin oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (2X) oral estrace, 0.5-1 mg once a day for seven days (2X)&#xD;
+Metformin: 500-2000 mg PO BID (X12 weeks)&#xD;
+Progesterone: oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (X2)&#xD;
+estrace: oral estrogen (estrace, 0.5-1 mg once a day for seven days)- X2</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Progesterone Sensitivity Index Before and After Metformin Treatment.</title>
+          <description>The progesterone (P4) sensitivity index is defined as the percent change in 11-hour LH pulse frequency before and after P4 and estradiol administration for 7 days, divided by the day 7 mean serum P4 concentration. We compared the P4 sensitivity index after metformin administration to the baseline P4 sensitivity index, using Wilcoxon signed-rank test.</description>
+          <population>12 subjects completed study but 2 subjects were excluded from analysis due to incomplete adherence to metformin, missing &gt; 10% of doses.</population>
+          <units>% change in LH pulses/day 7 P4 level</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Before Metformin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-4.12" spread="2.39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>After Metformin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-4.29" spread="7.66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From start of study procedures until 30 days post study drug.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Metformin, Progesterone , Estrace</title>
+          <description>12 weeks Metformin oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (2X) oral estrace, 0.5-1 mg once a day for seven days (2X)&#xD;
+Metformin: 500-2000 mg PO BID (X12 weeks)&#xD;
+Progesterone: oral progesterone suspension (20 mg/ml, 25-100 mg) three times a day at 0700, 1500, and 2300 hr for seven days (X2)&#xD;
+estrace: oral estrogen (estrace, 0.5-1 mg once a day for seven days)- X2</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>SVT</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vision switched from near to farsighted</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>diarrhea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>Acute Gastroenteritis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>vomitting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>headache</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>nausea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>fainting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>heartburn</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>UTI</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>rash</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Christine Burt Solorzano</name_or_title>
+      <organization>University of Virginia Center for Research in Reproduction</organization>
+      <phone>4342436911</phone>
+      <email>pcos@virginia.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

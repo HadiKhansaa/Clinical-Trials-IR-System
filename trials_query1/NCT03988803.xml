@@ -1,0 +1,1091 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03988803</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1346-0039</org_study_id>
+    <secondary_id>2019-000468-36</secondary_id>
+    <nct_id>NCT03988803</nct_id>
+  </id_info>
+  <brief_title>A Study in Healthy Men and Women to Test Which Effects Memantine and BI 425809 Have on Each Other</brief_title>
+  <official_title>A Study to Investigate the Effects of Memantine on the Pharmacokinetics of BI 425809 and Vice Versa in Healthy Male and Female Subjects (Non-randomized, Single-arm, Open-label, Three-period, One Fixed Sequence Cross-over Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigate the effect of steady state exposures of memantine on the steady-state&#xD;
+      pharmacokinetics of BI 425809 and vice versa in healthy subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 17, 2019</start_date>
+  <completion_date type="Actual">October 30, 2019</completion_date>
+  <primary_completion_date type="Actual">October 30, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area Under the Concentration-time Curve of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : BI 425809)</measure>
+    <time_frame>Detailed time frame is described in the measure description section.</time_frame>
+    <description>Area under the concentration-time curve of the analyte in plasma at steady state over a uniform dosing interval τ (AUCτ,ss). Comparison of BI 425809 + Memantine versus BI 425809.&#xD;
+Period 1 (BI 425809):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h (10 minutes (min) before the next dosing ) after first administration of BI 425809 on day 10 of Period 1.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 min before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after first administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Measured Concentration of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : BI 425809)</measure>
+    <time_frame>Detailed time frame can be found in the measure description.</time_frame>
+    <description>Maximum measured concentration of the analyte in plasma at steady state over a uniform dosing interval τ (Cmax,ss). Comparison of BI 425809 + Memantine versus BI 425809.&#xD;
+Period 1 (BI 425809):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h (10 minutes (min) before the next dosing ) after first administration of BI 425809 on day 10 of Period 1.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 min before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after first administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area Under the Concentration-time Curve of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : Memantine)</measure>
+    <time_frame>Detailed time frame is described in the measure description section.</time_frame>
+    <description>Area under the concentration-time curve of the analyte in plasma at steady state over a uniform dosing interval τ (AUCτ,ss). Comparison of BI 425809 + Memantine versus BI 425809.&#xD;
+Treatment Period 2 (Memantine):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12 h after administration of Memantine on day 35 of Period 2.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Measured Concentration of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : Memantine)</measure>
+    <time_frame>Detailed time frame can be found in the measure description.</time_frame>
+    <description>Maximum measured concentration of the analyte in plasma at steady state over a uniform dosing interval τ (Cmax,ss). Comparison of BI 425809 + Memantine versus BI Memantine.&#xD;
+Treatment Period 2 (Memantine):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12 h after administration of Memantine on day 35 of Period 2.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">16</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>All subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 425809</intervention_name>
+    <description>Film coated tablet</description>
+    <arm_group_label>All subjects</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Memantine</intervention_name>
+    <description>Film coated tablet</description>
+    <arm_group_label>All subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy male or female subjects according to the assessment of the investigator, as&#xD;
+             based on a complete medical history including a physical examination, vital signs (BP,&#xD;
+             PR), 12-lead ECG, and clinical laboratory tests&#xD;
+&#xD;
+          -  Age of 18 to 50 years (inclusive)&#xD;
+&#xD;
+          -  BMI of 18.5 to 29.9 kg/m2 (inclusive)&#xD;
+&#xD;
+          -  Signed and dated written informed consent prior to admission to the study, in&#xD;
+             accordance with GCP and local legislation&#xD;
+&#xD;
+          -  Male subjects, or female subjects who meet any of the following criteria from the&#xD;
+             first administration of trial medication until 30 days after trial completion:&#xD;
+&#xD;
+               -  Use of adequate contraception that does not contain hormones, i.e. nonhormonal&#xD;
+                  intrauterine device plus condom&#xD;
+&#xD;
+               -  Sexually abstinent&#xD;
+&#xD;
+               -  A vasectomised sexual partner (vasectomy at least 1 year prior to enrolment)&#xD;
+&#xD;
+               -  Surgically sterilised (including hysterectomy)&#xD;
+&#xD;
+               -  Postmenopausal, defined as at least 1 year of spontaneous amenorrhea (in&#xD;
+                  questionable cases a blood sample with levels of FSH above 40 U/L and estradiol&#xD;
+                  below 30 ng/L is confirmatory)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any finding in the medical examination (including BP, PR or ECG) deviating from normal&#xD;
+             and assessed as clinically relevant by the investigator&#xD;
+&#xD;
+          -  Repeated measurement of systolic blood pressure outside the range of 90 to 140 mmHg,&#xD;
+             diastolic blood pressure outside the range of 50 to 90 mmHg, or pulse rate outside the&#xD;
+             range of 50 to 90 bpm&#xD;
+&#xD;
+          -  Any laboratory value outside the reference range that the investigator considers to be&#xD;
+             of clinical relevance&#xD;
+&#xD;
+          -  Any evidence of a concomitant disease assessed as clinically relevant by the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Gastrointestinal, hepatic, renal, respiratory, cardiovascular, metabolic,&#xD;
+             immunological or hormonal disorders&#xD;
+&#xD;
+          -  Cholecystectomy or other surgery of the gastrointestinal tract that could interfere&#xD;
+             with the pharmacokinetics of the trial medication (except appendectomy or simple&#xD;
+             hernia repair)&#xD;
+&#xD;
+          -  Diseases of the central nervous system (including but not limited to any kind of&#xD;
+             seizures or stroke), and other relevant neurological or psychiatric disorders&#xD;
+&#xD;
+          -  Further exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>CRS Clinical Research Services Mannheim GmbH</name>
+      <address>
+        <city>Mannheim</city>
+        <zip>68167</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <link>
+    <url>http://trials.boehringer-ingelheim.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>June 14, 2019</study_first_submitted>
+  <study_first_submitted_qc>June 14, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 17, 2019</study_first_posted>
+  <results_first_submitted>January 27, 2021</results_first_submitted>
+  <results_first_submitted_qc>March 12, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 17, 2021</results_first_posted>
+  <last_update_submitted>March 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Memantine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Clinical studies sponsored by Boehringer Ingelheim, phases I to IV, interventional and non-interventional, are in scope for sharing of the raw clinical study data and clinical study documents, except for the following exclusions:&#xD;
+1. studies in products where Boehringer Ingelheim is not the license holder; 2. studies regarding pharmaceutical formulations and associated analytical methods, and studies pertinent to pharmacokinetics using human biomaterials; 3. studies conducted in a single center or targeting rare diseases (because of limitations with anonymization). For more details refer to: http://trials.boehringer-ingelheim.com/</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 22, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/03/NCT03988803/SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 19, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/03/NCT03988803/Prot_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Non-randomised, single-arm, open-Label, three-period, one fixed sequence cross-over Study to investigate the effects of memantine in steady state on the pharmacokinetics of BI 425809 in steady state and vice versa in healthy male and female subjects.</recruitment_details>
+      <pre_assignment_details>All subjects were screened for eligibility to participate in trial. Subjects visited specialist site to ensure that they met all implemented inclusion criteria. Subjects meeting the exclusion criteria were excluded.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>BI 425809/Memantine/BI 425809+Memantine</title>
+          <description>Treatment period 1 (Reference 1 (R1)): Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) with 240 milliliter (mL) of water after an overnight fast of at least 10 hours once daily for days 1 - 10 of period 1. Treatment period 2 (Reference 2 (R2)): Oral administration of 1 film-coated tablet of Memantine alone with 240 mL of water after an overnight fast of at least 10 hours once daily. Dose was up-titrated starting with one tablet of 5 mg for days 1-7, for days 8 -14 one tablet of 10 mg, for days 15-21 one tablet of 15 mg, for days 22 - 28 one tablet of 20 mg, and from days 29 - 35 of period 2 one tablet of 20 mg for period 2. Treatment Period 3 (Test (T)): Oral administration of 25 mg BI 425809 in combination with oral administration one tablet of 20 mg memantine with 240 mL of water after an overnight fast of at least 10 hours once daily for days 1 - 10 of period 3. Periods 1 and 2 with a washout period of at least 7 days. Period 3 followed directly after Period 2.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Screening</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Period 1</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Period 2</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Treated</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Started Days 1 - 7: Multiple Doses of 5 mg Memantine qd</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Started Days 8 - 14: Multiple Doses of 10 mg Memantine qd</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Started Days 15 - 21: Multiple Doses of 15 mg Memantine qd</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Started Days 22 - 35: Multiple Doses of 20 mg Memantine qd</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Prematurely discontinued from medication</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Period 3</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Treated set (TS): The treated set included all subjects who were treated with at least one dose of study drug. The treated set was used for safety analyses</population>
+      <group_list>
+        <group group_id="B1">
+          <title>BI 425809/Memantine/BI 425809+Memantine</title>
+          <description>Treatment period 1 (Reference 1 (R1)): Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) with 240 milliliter (mL) of water after an overnight fast of at least 10 hours once daily for days 1 - 10 of period 1. Treatment period 2 (Reference 2 (R2)): Oral administration of 1 film-coated tablet of Memantine alone with 240 mL of water after an overnight fast of at least 10 hours once daily. Dose was up-titrated starting with one tablet of 5 mg for days 1-7, for days 8 -14 one tablet of 10 mg, for days 15-21 one tablet of 15 mg, for days 22 - 28 one tablet of 20 mg, and from days 29 - 35 of period 2 one tablet of 20 mg for period 2. Treatment Period 3 (Test (T)): Oral administration of 25 mg BI 425809 in combination with oral administration one tablet of 20 mg memantine with 240 mL of water after an overnight fast of at least 10 hours once daily for days 1 - 10 of period 3. Periods 1 and 2 with a washout period of at least 7 days. Period 3 followed directly after Period 2.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="16"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32.1" spread="7.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Area Under the Concentration-time Curve of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : BI 425809)</title>
+        <description>Area under the concentration-time curve of the analyte in plasma at steady state over a uniform dosing interval τ (AUCτ,ss). Comparison of BI 425809 + Memantine versus BI 425809.&#xD;
+Period 1 (BI 425809):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h (10 minutes (min) before the next dosing ) after first administration of BI 425809 on day 10 of Period 1.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 min before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after first administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+        <time_frame>Detailed time frame is described in the measure description section.</time_frame>
+        <population>Pharmacokinetic parameter analysis set (PKS): This set included all subjects in the treated set (TS) who provided at least one pharmacokinetic (PK) endpoint that was defined as Primary and was not excluded due to protocol deviations relevant to the evaluation of PK or due to PK non-evaluability</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BI 425809</title>
+            <description>Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) with 240 milliliter (mL) of water after an overnight fast of at least 10 hours once daily for days 1 - 10 of period 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>Memantine + BI 425809</title>
+            <description>Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) in combination with oral administration of 1 tablet of 20 mg Memantine with 240 milliliter (mL) of water after an overnight fast of at least 10 hours for days 1 - 10 of period 3.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Concentration-time Curve of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : BI 425809)</title>
+          <description>Area under the concentration-time curve of the analyte in plasma at steady state over a uniform dosing interval τ (AUCτ,ss). Comparison of BI 425809 + Memantine versus BI 425809.&#xD;
+Period 1 (BI 425809):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h (10 minutes (min) before the next dosing ) after first administration of BI 425809 on day 10 of Period 1.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 min before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after first administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+          <population>Pharmacokinetic parameter analysis set (PKS): This set included all subjects in the treated set (TS) who provided at least one pharmacokinetic (PK) endpoint that was defined as Primary and was not excluded due to protocol deviations relevant to the evaluation of PK or due to PK non-evaluability</population>
+          <units>nanomol * hours per liter</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9029.04" spread="1.09"/>
+                    <measurement group_id="O2" value="8559.78" spread="1.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The statistical model used for the analysis of the primary endpoints was an analysis of variance (ANOVA) model on the logarithmic scale. That was, the PK endpoints were logtransformed (natural logarithm) prior to fitting the ANOVA model. The model used included effects accounting for the following sources of variation: subjects and treatment. The effect 'subjects' was considered as random, whereas the effect 'treatment' was considered as fixed.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <param_type>Ratio of the geometric means (T/R1)</param_type>
+            <param_value>94.80</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>12.2</dispersion_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>87.14</ci_lower_limit>
+            <ci_upper_limit>103.14</ci_upper_limit>
+            <estimate_desc>Standard error of the mean is the geometric coefficient of variation</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Maximum Measured Concentration of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : BI 425809)</title>
+        <description>Maximum measured concentration of the analyte in plasma at steady state over a uniform dosing interval τ (Cmax,ss). Comparison of BI 425809 + Memantine versus BI 425809.&#xD;
+Period 1 (BI 425809):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h (10 minutes (min) before the next dosing ) after first administration of BI 425809 on day 10 of Period 1.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 min before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after first administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+        <time_frame>Detailed time frame can be found in the measure description.</time_frame>
+        <population>Pharmacokinetic parameter analysis set (PKS): This set included all subjects in the treated set (TS) who provided at least one pharmacokinetic (PK) endpoint that was defined as Primary and was not excluded due to protocol deviations relevant to the evaluation of PK or due to PK non-evaluability</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BI 425809</title>
+            <description>Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) with 240 milliliter (mL) of water after an overnight fast of at least 10 hours once daily for days 1 - 10 of period 1.</description>
+          </group>
+          <group group_id="O2">
+            <title>Memantine + BI 425809</title>
+            <description>Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) in combination with oral administration of 1 tablet of 20 mg Memantine with 240 milliliter (mL) of water after an overnight fast of at least 10 hours for days 1 - 10 of period 3.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Measured Concentration of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : BI 425809)</title>
+          <description>Maximum measured concentration of the analyte in plasma at steady state over a uniform dosing interval τ (Cmax,ss). Comparison of BI 425809 + Memantine versus BI 425809.&#xD;
+Period 1 (BI 425809):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h (10 minutes (min) before the next dosing ) after first administration of BI 425809 on day 10 of Period 1.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 min before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after first administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+          <population>Pharmacokinetic parameter analysis set (PKS): This set included all subjects in the treated set (TS) who provided at least one pharmacokinetic (PK) endpoint that was defined as Primary and was not excluded due to protocol deviations relevant to the evaluation of PK or due to PK non-evaluability</population>
+          <units>nanomol per liter</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="535.03" spread="1.07"/>
+                    <measurement group_id="O2" value="531.49" spread="1.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The statistical model used for the analysis of the primary endpoints was an analysis of variance (ANOVA) model on the logarithmic scale. That was, the PK endpoints were logtransformed (natural logarithm) prior to fitting the ANOVA model. The model used included effects accounting for the following sources of variation: subjects and treatment. The effect 'subjects' was considered as random, whereas the effect 'treatment' was considered as fixed.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <param_type>Ratio of the geometric means (T/R1)</param_type>
+            <param_value>99.34</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>12.3</dispersion_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>91.22</ci_lower_limit>
+            <ci_upper_limit>108.18</ci_upper_limit>
+            <estimate_desc>Standard error fo the mean is the geometric coefficient of variation</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Area Under the Concentration-time Curve of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : Memantine)</title>
+        <description>Area under the concentration-time curve of the analyte in plasma at steady state over a uniform dosing interval τ (AUCτ,ss). Comparison of BI 425809 + Memantine versus BI 425809.&#xD;
+Treatment Period 2 (Memantine):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12 h after administration of Memantine on day 35 of Period 2.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+        <time_frame>Detailed time frame is described in the measure description section.</time_frame>
+        <population>Pharmacokinetic parameter analysis set (PKS): This set included all subjects in the treated set (TS) who provided at least one pharmacokinetic (PK) endpoint that was defined as Primary and was not excluded due to protocol deviations relevant to the evaluation of PK or due to PK non-evaluability</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Memantine</title>
+            <description>Treatment period 2 (Reference 2 (R2)): Oral administration of 1 film-coated tablet of Memantine alone with 240 milliliter (mL) of water after an overnight fast of at least 10 hours once daily.&#xD;
+Memantine was up-titrated starting with one tablet of 5 mg for days 1-7 of period 2, for days 8 -14 of period 2 one tablet of 10 mg Memantine daily, for days 15-21 one tablet of 15 mg Memantine daily, for days 22 - 28 of period 2 one tablet of 20 mg daily, and from days 29 - 35 of period 2 one tablet of 20 mg daily.</description>
+          </group>
+          <group group_id="O2">
+            <title>Memantine + BI 425809</title>
+            <description>Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) in combination with oral administration of 1 tablet of 20 mg Memantine with 240 milliliter (mL) of water after an overnight fast of at least 10 hours for days 1 - 10 of period 3.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Concentration-time Curve of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : Memantine)</title>
+          <description>Area under the concentration-time curve of the analyte in plasma at steady state over a uniform dosing interval τ (AUCτ,ss). Comparison of BI 425809 + Memantine versus BI 425809.&#xD;
+Treatment Period 2 (Memantine):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12 h after administration of Memantine on day 35 of Period 2.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+          <population>Pharmacokinetic parameter analysis set (PKS): This set included all subjects in the treated set (TS) who provided at least one pharmacokinetic (PK) endpoint that was defined as Primary and was not excluded due to protocol deviations relevant to the evaluation of PK or due to PK non-evaluability</population>
+          <units>nanomol * hours per liter</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1800.36" spread="1.09"/>
+                    <measurement group_id="O2" value="1866.76" spread="1.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The statistical model used for the analysis of the primary endpoints was an analysis of variance (ANOVA) model on the logarithmic scale. That was, the PK endpoints were logtransformed (natural logarithm) prior to fitting the ANOVA model. The model used included effects accounting for the following sources of variation: subjects and treatment. The effect 'subjects' was considered as random, whereas the effect 'treatment' was considered as fixed.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <param_type>Ratio of the geometric means (T/R2)</param_type>
+            <param_value>103.69</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>5.2</dispersion_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>99.99</ci_lower_limit>
+            <ci_upper_limit>107.52</ci_upper_limit>
+            <estimate_desc>Standard error fo the mean is the geometric coefficient of variation</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Maximum Measured Concentration of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : Memantine)</title>
+        <description>Maximum measured concentration of the analyte in plasma at steady state over a uniform dosing interval τ (Cmax,ss). Comparison of BI 425809 + Memantine versus BI Memantine.&#xD;
+Treatment Period 2 (Memantine):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12 h after administration of Memantine on day 35 of Period 2.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+        <time_frame>Detailed time frame can be found in the measure description.</time_frame>
+        <population>Pharmacokinetic parameter analysis set (PKS): This set included all subjects in the treated set (TS) who provided at least one PK endpoint that was defined as Primary and was not excluded due to protocol deviations relevant to the evaluation of PK or due to PK non-evaluability</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Memantine</title>
+            <description>Treatment period 2 (Reference 2 (R2)): Oral administration of 1 film-coated tablet of Memantine alone with 240 milliliter (mL) of water after an overnight fast of at least 10 hours once daily.&#xD;
+Memantine was up-titrated starting with one tablet of 5 mg for days 1-7 of period 2, for days 8 -14 of period 2 one tablet of 10 mg Memantine daily, for days 15-21 one tablet of 15 mg Memantine daily, for days 22 - 28 of period 2 one tablet of 20 mg daily, and from days 29 - 35 of period 2 one tablet of 20 mg daily.</description>
+          </group>
+          <group group_id="O2">
+            <title>Memantine + BI 425809</title>
+            <description>Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) in combination with oral administration of 1 tablet of 20 mg Memantine with 240 milliliter (mL) of water after an overnight fast of at least 10 hours for days 1 - 10 of period 3.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Measured Concentration of the Analyte in Plasma at Steady State Over a Uniform Dosing Interval τ (BI 425809 + Memantine : Memantine)</title>
+          <description>Maximum measured concentration of the analyte in plasma at steady state over a uniform dosing interval τ (Cmax,ss). Comparison of BI 425809 + Memantine versus BI Memantine.&#xD;
+Treatment Period 2 (Memantine):&#xD;
+Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12 h after administration of Memantine on day 35 of Period 2.&#xD;
+Treatment Period 3 (Memantine + BI 425809) Measurements of steady state concentration where taken 10 minutes (min) before the next dosing of BI 425809 + Memantine and 30 min, 1h, 2h, 3h, 3h 30min, 4h, 4h 30min, 5h, 6h, 7h, 8h, 10h, 12h, 24h after administration of BI 425809 + Memantine on day 10 of Period 3.</description>
+          <population>Pharmacokinetic parameter analysis set (PKS): This set included all subjects in the treated set (TS) who provided at least one PK endpoint that was defined as Primary and was not excluded due to protocol deviations relevant to the evaluation of PK or due to PK non-evaluability</population>
+          <units>nanomol per liter</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="87.06" spread="1.08"/>
+                    <measurement group_id="O2" value="93.54" spread="1.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The statistical model used for the analysis of the primary endpoints was an analysis of variance (ANOVA) model on the logarithmic scale. That was, the PK endpoints were logtransformed (natural logarithm) prior to fitting the ANOVA model. The model used included effects accounting for the following sources of variation: subjects and treatment. The effect 'subjects' was considered as random, whereas the effect 'treatment' was considered as fixed.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <param_type>Ratio of the geometric means (T/R2)</param_type>
+            <param_value>107.45</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>6.5</dispersion_value>
+            <ci_percent>90</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>102.66</ci_lower_limit>
+            <ci_upper_limit>112.45</ci_upper_limit>
+            <estimate_desc>Standard error fo the mean is the geometric coefficient of variation</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events of BI 425809: up to 17 days. Adverse events of Memantine: up to 41 days. Adverse events of Memantine + BI 425809: up to 25 days. All-Cause Mortality was collected for up to 91 days.</time_frame>
+      <desc>Treated set (TS): The treated set included all subjects who were treated with at least one dose of study drug. The treated set was used for safety analyses</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>BI 425809</title>
+          <description>Treatment period 1 (Reference 1 (R1)): Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) with 240 milliliter (mL) of water after an overnight fast of at least 10 hours once daily for days 1 - 10 of period 1.</description>
+        </group>
+        <group group_id="E2">
+          <title>Memantine</title>
+          <description>Treatment period 2 (Reference 2 (R2)): Oral administration of 1 film-coated tablet of Memantine alone with 240 milliliter (mL) of water after an overnight fast of at least 10 hours once daily.&#xD;
+Memantine was up-titrated starting with one tablet of 5 mg for days 1-7 of period 2, for days 8 -14 of period 2 one tablet of 10 mg Memantine daily, for days 15-21 one tablet of 15 mg Memantine daily, for days 22 - 28 of period 2 one tablet of 20 mg daily, and from days 29 - 35 of period 2 one tablet of 20 mg daily.</description>
+        </group>
+        <group group_id="E3">
+          <title>Memantine + BI 425809</title>
+          <description>Oral administration of 25 milligram (mg) BI 425809 (1 tablet of 25 mg) in combination with oral administration of 1 tablet of 20 mg Memantine with 240 milliliter (mL) of water after an overnight fast of at least 10 hours for days 1 - 10 of period 3.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 22.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="10" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vision blurred</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Photophobia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Aphthous ulcer</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain lower</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain upper</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Gastrooesophageal reflux disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Vessel puncture site reaction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Hordeolum</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Post lumbar puncture syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Eosinophil percentage increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Tension headache</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Head discomfort</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Change in sustained attention</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Emotional disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Libido decreased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Listless</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Sleep disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="15"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Boehringer Ingelheim (BI) acknowledges that investigators have the right to publish the study results. Investigators shall provide BI with a copy of any publication or presentation for review prior to any submission. Such review will be done with regard to proprietary information, information related to patentable inventions, medical, scientific, and statistical accuracy within 60 days. BI may request a delay of the publication in order to protect BI's intellectual property rights.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Boehringer Ingelheim, Call Center</name_or_title>
+      <organization>Boehringer Ingelheim</organization>
+      <phone>1-800-243-0127</phone>
+      <email>clintriage.rdg@boehringer-ingelheim.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

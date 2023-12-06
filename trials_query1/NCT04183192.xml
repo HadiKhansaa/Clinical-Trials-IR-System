@@ -1,0 +1,384 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04183192</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SCR-006</org_study_id>
+    <nct_id>NCT04183192</nct_id>
+  </id_info>
+  <brief_title>Pharmacodynamic Biomarkers to Support Biosimilar Development: Interleukin-5 Antagonists</brief_title>
+  <official_title>Pharmacodynamic Biomarkers to Support Biosimilar Development: Clinical Study 1: Interleukin-5 Antagonists - Mepolizumab and Reslizumab</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Food and Drug Administration (FDA)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Spaulding Clinical Research LLC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Food and Drug Administration (FDA)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to assess pharmacokinetics and pharmacodynamics of mepolizumab and&#xD;
+      reslizumab across an appropriate dose range to inform clinical trial operating&#xD;
+      characteristics for future clinical pharmacology pharmacodynamics similarity studies.&#xD;
+&#xD;
+      This is a randomized, placebo-controlled, single-dose, parallel arm study in 72 healthy&#xD;
+      subjects assigned to one of four dose groups (low, intermediate low, intermediate high, and&#xD;
+      high) of each drug (mepolizumab or reslizumab) or placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is designed to assess pharmacokinetics and pharmacodynamics of mepolizumab and&#xD;
+      reslizumab across an appropriate dose range to inform clinical trial operating&#xD;
+      characteristics for future clinical pharmacology pharmacodynamics similarity studies.&#xD;
+&#xD;
+      This is a randomized, placebo-controlled, single-dose, parallel arm study in 72 healthy&#xD;
+      subjects assigned to one of four dose groups (low, intermediate low, intermediate high, and&#xD;
+      high) of each drug (mepolizumab or reslizumab) or placebo. Mepolizumab doses are 3, 6, 12, or&#xD;
+      24 mg. Reslizumab doses are 0.1, 0.2, 0.4, or 0.8 mg/kg. Each arm will include 8 subjects (4&#xD;
+      male and 4 female).&#xD;
+&#xD;
+      Subjects will be admitted for treatment on day -1 and receive a single dose of study drug or&#xD;
+      placebo on day 1. Depending on the treatment arm, subjects will remain in confinement for two&#xD;
+      weeks and continue follow-up through either day 63 or day 123.&#xD;
+&#xD;
+      Blood samples (approximately 5 mL per sample) will be collected for determination of plasma&#xD;
+      concentrations for study drug. Additional blood samples will be collected for determination&#xD;
+      of eosinophil counts (5 mL per sample; pharmacodynamic measure) and exploratory proteomics&#xD;
+      analyses (5 mL per sample).&#xD;
+&#xD;
+      Safety evaluations will include adverse event (AE) monitoring, vital sign measurements, and&#xD;
+      physical examinations. All AEs reported by the subject or observed by the investigator or&#xD;
+      clinical research unit (CRU) staff will be recorded. Any AE reported after the informed&#xD;
+      consent is signed and before study drug application will be recorded as medical history.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 24, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Subjects will be randomized to one of four dose groups (low, intermediate low, intermediate high, and high) of each drug (mepolizumab or reslizumab) or placebo</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>The pharmacist (and designated staff member responsible for confirmation of study drug dose) will be unblinded to subject treatment assignment; however, the pharmacist will not perform any study procedures other than study drug preparation and dispensing.&#xD;
+Subjects and staff will be blinded to treatment assignment during confinement, but route of administration will not be blinded. The blind will be maintained through a randomization schedule held by the dispensing pharmacist. Subjects and staff will be informed of a subject's end of study day when discharged from confinement. Subjects and staff will not be informed of the specific treatment arm assignment. The clinical research nurse will administer the study drugs in unit dose containers that are not transparent.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area under effect curve and maximum change from baseline for eosinophils for mepolizumab and reslizumab</measure>
+    <time_frame>63 or 123 days, depending on treatment arm</time_frame>
+    <description>1. The values and variability of standard pharmacodynamic metrics (AUEC and maximal difference at a single time-point) for eosinophils at low, intermediate low, intermediate high, and high doses of mepolizumab and reslizumab</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum concentration and area under the curve for mepolizumab and reslizumab</measure>
+    <time_frame>63 or 123 days, depending on treatment arm</time_frame>
+    <description>1. The values and variability of pharmacokinetic characteristics (Cmax and area under the curve of free drug concentration) at low, intermediate low, intermediate high, and high doses of mepolizumab and reslizumab.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamic model parameters for mepolizumab and reslizumab</measure>
+    <time_frame>63 or 123 days, depending on treatment arm</time_frame>
+    <description>2. Parameters (Emax, and EC50) calculated by the model after combining data from low, intermediate low, intermediate high, and high doses of mepolizumab or reslizumab with placebo data.</description>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Healthy Subjects</condition>
+  <condition>Pharmacokinetics</condition>
+  <condition>Pharmacodynamics</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Mepolizumab low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of mepolizumab 3 mg SC</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Mepolizumab low intermediate dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of mepolizumab 6 mg SC</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C: Mepolizumab high intermediate dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of mepolizumab 12 mg SC</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm D: Mepolizumab high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of mepolizumab 24 mg SC</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm E: Reslizumab low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of reslizumab 0.1 mg/kg IV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm F: Reslizumab intermediate low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of reslizumab 0.2 mg/kg IV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm G: Reslizumab high intermediate dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of reslizumab 0.4 mg/kg IV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm H: Reslizumab high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of reslizumab 0.8 mg/kg IV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm I: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Single dose of placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Mepolizumab</intervention_name>
+    <description>Mepolizumab 3 mg administered SC</description>
+    <arm_group_label>Arm A: Mepolizumab low dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Mepolizumab</intervention_name>
+    <description>Mepolizumab 6 mg administered SC</description>
+    <arm_group_label>Arm B: Mepolizumab low intermediate dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Mepolizumab</intervention_name>
+    <description>Mepolizumab 12 mg administered SC</description>
+    <arm_group_label>Arm C: Mepolizumab high intermediate dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Mepolizumab</intervention_name>
+    <description>Mepolizumab 24 mg administered SC</description>
+    <arm_group_label>Arm D: Mepolizumab high dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Reslizumab</intervention_name>
+    <description>Reslizumab 0.1 mg/kg administered IV</description>
+    <arm_group_label>Arm E: Reslizumab low dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Reslizumab</intervention_name>
+    <description>Reslizumab 0.2 mg/kg administered IV</description>
+    <arm_group_label>Arm F: Reslizumab intermediate low dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Reslizumab</intervention_name>
+    <description>Reslizumab 0.4 mg/kg administered IV</description>
+    <arm_group_label>Arm G: Reslizumab high intermediate dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Reslizumab</intervention_name>
+    <description>Reslizumab 0.8 mg/kg administered IV</description>
+    <arm_group_label>Arm H: Reslizumab high dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo (administered either IV or SC)</description>
+    <arm_group_label>Arm I: Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subject signs an institutional review board approved written informed consent and&#xD;
+             privacy language as per national regulations (e.g., Health Insurance Portability and&#xD;
+             Accountability Act authorization) before any study related procedures are performed.&#xD;
+&#xD;
+          2. Subject is a healthy man or woman, 18 to 55 years of age, inclusive, who has a body&#xD;
+             mass index of 18.5 to 29.9 kg/m2, inclusive, at Screening.&#xD;
+&#xD;
+          3. Subject has normal medical history findings, clinical laboratory results, vital sign&#xD;
+             measurements, 12 lead electrocardiogram (ECG) results, and physical examination&#xD;
+             findings at screening or, if abnormal, the abnormality is not considered clinically&#xD;
+             significant (as determined and documented by the investigator or designee).&#xD;
+&#xD;
+          4. Subject must have a negative test result for alcohol and drugs of abuse at screening&#xD;
+             and Check-in (Day -1).&#xD;
+&#xD;
+          5. Subject has a peripheral blood eosinophil count of ≥50 and ≤700 cells per microliter&#xD;
+             of blood as measured by a standard hematology analyzer.&#xD;
+&#xD;
+          6. Female subjects must be of non-childbearing potential or, if they are of childbearing&#xD;
+             potential, they must: 1) have been strictly abstinent for 1 month before Check in (Day&#xD;
+             -1) and agree to remain strictly abstinent for the duration of the study and for at&#xD;
+             least 1month after the last application of study drug; OR 2) be practicing 2 highly&#xD;
+             effective methods of birth control (as determined by the investigator or designee; one&#xD;
+             of the methods must be a barrier technique) from at least 1 month before Check in (Day&#xD;
+             -1) until at least 1 month after the end of the study.&#xD;
+&#xD;
+          7. Male subjects must agree to practice 1 highly effective method of birth control (as&#xD;
+             determined by the investigator or designee) from at least 1 month before Check in (Day&#xD;
+             -1) until at least 1 month after the end of the study.&#xD;
+&#xD;
+          8. Subject is highly likely (as determined by the investigator) to comply with the&#xD;
+             protocol defined procedures and to complete the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject is taking any medication known to affect leukocyte population numbers.&#xD;
+&#xD;
+          2. Subject is anemic (i.e., with Hct or Hgb less than the lower limit of normal) or has&#xD;
+             any chronic condition(s) that may impact blood sample collection.&#xD;
+&#xD;
+          3. Subject has had previous exposure to the biologic mepolizumab or reslizumab.&#xD;
+&#xD;
+          4. Subject has a history of asthma.&#xD;
+&#xD;
+          5. Subject has a history of anaphylaxis from environmental exposures such as peanuts or&#xD;
+             bee stings.&#xD;
+&#xD;
+          6. Subject has an allergic history that includes urticaria, angioedema or respiratory&#xD;
+             coughing or bronchospasm.&#xD;
+&#xD;
+          7. Subject has a history of severe local reactions or generalized erythema from skin&#xD;
+             allergen testing.&#xD;
+&#xD;
+          8. Subject is anemic or has any chronic condition(s) that may impact blood sample&#xD;
+             collection.&#xD;
+&#xD;
+          9. Subject has used any prescription or nonprescription drugs (including aspirin or&#xD;
+             NSAIDs and excluding oral contraceptives and acetaminophen) within 14 days or 5&#xD;
+             half-lives (whichever is longer) or complementary and alternative medicines within 28&#xD;
+             days before the first dose of study drug.&#xD;
+&#xD;
+         10. Subjects are currently participating in another clinical study of an investigational&#xD;
+             drug or are have been treated with any investigational drug within 30 days or 5&#xD;
+             half-lives (whichever is longer) of the compound.&#xD;
+&#xD;
+         11. Subject has used nicotine-containing products (e.g., cigarettes, cigars, chewing&#xD;
+             tobacco, snuff) within 6 weeks of Screening.&#xD;
+&#xD;
+         12. Subject has consumed alcohol, xanthine containing products (e.g., tea, coffee,&#xD;
+             chocolate, cola), caffeine, grapefruit, or grapefruit juice within 48 hours of dosing.&#xD;
+             Subjects must refrain from ingesting these throughout the study.&#xD;
+&#xD;
+         13. Subject has any underlying disease or surgical or medical condition (e.g., cancer,&#xD;
+             human immunodeficiency virus [HIV], severe hepatic or renal impairment) that could put&#xD;
+             the subject at risk or would normally prevent participation in a clinical study. This&#xD;
+             includes subjects with any underlying medical conditions that put subjects at higher&#xD;
+             risk for coronavirus disease of 2019 (COVID-19) complications; per current Center for&#xD;
+             Disease Control and Prevention (CDC) recommendations this includes:&#xD;
+&#xD;
+               -  People with chronic lung disease or moderate to severe asthma&#xD;
+&#xD;
+               -  People who have serious heart conditions&#xD;
+&#xD;
+               -  People who are immunocompromised&#xD;
+&#xD;
+               -  Many conditions can cause a person to be immunocompromised, including cancer&#xD;
+                  treatment, smoking, bone marrow or organ transplantation, immune deficiencies,&#xD;
+                  poorly controlled HIV, and prolonged use of corticosteroids and other immune&#xD;
+                  weakening medications&#xD;
+&#xD;
+               -  People with severe obesity (body mass index [BMI] of 40 or higher)&#xD;
+&#xD;
+               -  People with diabetes&#xD;
+&#xD;
+               -  People with chronic kidney disease undergoing dialysis&#xD;
+&#xD;
+               -  People with liver disease&#xD;
+&#xD;
+         14. Subject has any signs or symptoms that are consistent with COVID-19. Per current CDC&#xD;
+             recommendations this includes subjects with the symptoms cough or shortness of breath&#xD;
+             or difficulty breathing, or at least two of the following symptoms: fever, chills,&#xD;
+             repeated shaking with chills, muscle pain, headache, sore throat or new loss of&#xD;
+             taste/smell. In addition, the subject has any other findings suggestive of COVID-19&#xD;
+             risk in the opinion of the investigator.&#xD;
+&#xD;
+         15. Subject tests positive for severe acute respiratory syndrome coronavirus 2&#xD;
+             (SARS-CoV-2) by a molecular diagnostic test performed prior to admission.&#xD;
+&#xD;
+         16. Subject has known or suspected allergies or sensitivities to any study drug.&#xD;
+&#xD;
+         17. Subject has clinical laboratory test results (hematology, serum chemistry) at&#xD;
+             Screening that are outside the reference ranges provided by the clinical laboratory&#xD;
+             and considered clinically significant by the investigator.&#xD;
+&#xD;
+         18. Subject has a positive test result at Screening for HIV 1 or 2 antibody, hepatitis C&#xD;
+             virus antibodies, or hepatitis B surface antigen.&#xD;
+&#xD;
+         19. Subject is unable or unwilling to undergo multiple venipunctures for blood sample&#xD;
+             collection because of poor tolerability or poor venous access.&#xD;
+&#xD;
+         20. Female subjects are pregnant or lactating before enrollment in the study.&#xD;
+&#xD;
+         21. Subject is known to have, or is suspected to have, a parasitic infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jennifer Deering, MSN, APNP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Spaulding Clinical Research LLC</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Spaulding Clinical Research</name>
+      <address>
+        <city>West Bend</city>
+        <state>Wisconsin</state>
+        <zip>53095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 27, 2019</study_first_submitted>
+  <study_first_submitted_qc>November 27, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 3, 2019</study_first_posted>
+  <last_update_submitted>January 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pharmacokinetics</keyword>
+  <keyword>Pharmacodynamics</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Reslizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Plan is to make data from the study publicly available as a part of manuscript publication. In addition, the protocol and statistical analysis plan will be made available online at this site as well as any eventual publications.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>April, 2022. Materials will be available indefinitely.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

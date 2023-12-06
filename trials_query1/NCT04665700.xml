@@ -1,0 +1,228 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04665700</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1434-0003</org_study_id>
+    <nct_id>NCT04665700</nct_id>
+  </id_info>
+  <brief_title>A Study in Healthy Japanese Men to Test How Well Different Doses of BI 764198 Are Tolerated</brief_title>
+  <official_title>Safety, Tolerability and Pharmacokinetics of Single and Multiple Rising Doses of BI 764198 in Japanese Healthy Male Subjects (Double-blind, Randomised, Placebo-controlled Within Dose Groups, Parallel Group Design)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objectives of this trial are to investigate safety and tolerability of BI 764198 in&#xD;
+      healthy male subjects following oral administration of single dose and multiple rising doses&#xD;
+      per day over 14 days.&#xD;
+&#xD;
+      Secondary objectives are the exploration of pharmacokinetics (PK) of BI 764198 after single&#xD;
+      and multiple oral dosing.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 6, 2021</start_date>
+  <completion_date type="Anticipated">September 6, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 6, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This trial consists of a single dose part and a multiple rising dose (MRD) part. The first dose group is conducted in the single dose part and the second dose group onwards are conducted in the MRD part.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The percentage [%] of subjects with drug-related adverse events</measure>
+    <time_frame>Up to 34 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>After single dose: AUC0-∞ (area under the concentration-time curve of the analyte in plasma over the time interval from 0 extrapolated to infinity)</measure>
+    <time_frame>Up to 6 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>After single dose: Cmax (maximum measured concentration of the analyte in plasma)</measure>
+    <time_frame>Up to 6 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>After the last dose of multiple dose segment: AUCτ,ss (area under the concentration-time curve of the analyte in plasma at steady state over a uniform dosing interval τ)</measure>
+    <time_frame>Up to 22 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>After the last dose of multiple dose segment: Cmax,ss (maximum measured concentration of the analyte in plasma at steady state over a uniform dosing interval τ)</measure>
+    <time_frame>Up to 22 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>BI 764198 Single dose part</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BI 764198 Multiple dose low</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BI 764198 Multiple dose medium</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BI 764198 Multiple dose high</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 764198</intervention_name>
+    <description>BI 764198</description>
+    <arm_group_label>BI 764198 Multiple dose high</arm_group_label>
+    <arm_group_label>BI 764198 Multiple dose low</arm_group_label>
+    <arm_group_label>BI 764198 Multiple dose medium</arm_group_label>
+    <arm_group_label>BI 764198 Single dose part</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy male subjects according to the assessment of the investigator, as based on a&#xD;
+             complete medical history, including a physical examination, vital signs (BP, PR),&#xD;
+             12-lead ECG, and clinical laboratory tests&#xD;
+&#xD;
+          -  Japanese ethnicity, according to the following criteria: born in Japan, have lived&#xD;
+             outside of Japan &lt;10 years, and have parents and grandparents who are Japanese&#xD;
+&#xD;
+          -  Age of 20 to 45 years at screening (inclusive)&#xD;
+&#xD;
+          -  BMI of 18.5 to 25.0 kg/m2 (inclusive)&#xD;
+&#xD;
+          -  Signed and dated written informed consent prior to admission to the trial, in&#xD;
+             accordance with GCP and local legislation&#xD;
+&#xD;
+          -  Willingness to comply with contraception requirements. Subjects who are sexually&#xD;
+             active must use adequate contraception methods throughout the trial and until three&#xD;
+             months after the last administration of trial medication. Adequate methods are:&#xD;
+&#xD;
+               -  A vasectomy performed at least 1 year prior to screening and with medical&#xD;
+                  assessment of the surgical success or&#xD;
+&#xD;
+               -  Surgical sterilisation, including bilateral tubal occlusion, hysterectomy or&#xD;
+                  bilateral oophorectomy, of the subject's female partner or&#xD;
+&#xD;
+               -  The use of condoms, if the female partner uses an adequate contraception method&#xD;
+                  in addition, e.g., intrauterine device (IUD), or hormonal contraception, such as&#xD;
+                  implants and injectables*, combined with oral or vaginal contraceptives, that&#xD;
+                  started at least 2 months prior to first drug administration, or barrier method,&#xD;
+                  e.g., diaphragm with spermicide* * hormonal contraception via implants and&#xD;
+                  injectables, and diaphragm with spermicide are not approved in Japan Unprotected&#xD;
+                  sexual intercourse with a pregnant partner is not allowed throughout the trial&#xD;
+                  and until three months after the last administration of trial medication.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any finding in the medical examination (including BP, PR or ECG) deviating from normal&#xD;
+             and assessed as clinically relevant by the investigator&#xD;
+&#xD;
+          -  Repeated measurement of systolic blood pressure outside the range of 90 to 140 mmHg,&#xD;
+             diastolic blood pressure outside the range of 50 to 90 mmHg, or pulse rate outside the&#xD;
+             range of 50 to 90 bpm&#xD;
+&#xD;
+          -  Any laboratory value outside the reference range that the investigator considers to be&#xD;
+             of clinical relevance&#xD;
+&#xD;
+          -  Any evidence of a concomitant disease assessed as clinically relevant by the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Gastrointestinal, hepatic, renal, respiratory, cardiovascular, metabolic,&#xD;
+             immunological or hormonal disorders&#xD;
+&#xD;
+          -  Cholecystectomy or other surgery of the gastrointestinal tract that could interfere&#xD;
+             with the pharmacokinetics of the trial medication (except appendectomy or simple&#xD;
+             hernia repair)- Diseases of the central nervous system (including but not limited to&#xD;
+             any kind of seizures or stroke), and other relevant neurological or psychiatric&#xD;
+             disorders&#xD;
+&#xD;
+          -  History of relevant orthostatic hypotension, fainting spells, or blackouts Further&#xD;
+             exclusion criteria apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Boehringer Ingelheim</last_name>
+    <phone>1-800-243-0127</phone>
+    <email>clintriage.rdg@boehringer-ingelheim.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>SOUSEIKAI Sumida Hospital</name>
+      <address>
+        <city>Tokyo, Sumida-ku</city>
+        <zip>130-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Takuma Yonemura</last_name>
+      <phone>+81 3 56087276</phone>
+      <email>takuma-yonemura@lta-med.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <link>
+    <url>http://www.mystudywindow.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>December 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 14, 2020</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Clinical studies sponsored by Boehringer Ingelheim, phases I to IV, interventional and non-interventional, are in scope for sharing of the raw clinical study data and clinical study documents, except for the following exclusions:&#xD;
+studies in products where Boehringer Ingelheim is not the license holder;&#xD;
+studies regarding pharmaceutical formulations and associated analytical methods, and studies pertinent to pharmacokinetics using human biomaterials;&#xD;
+studies conducted in a single center or targeting rare diseases (because of limitations with anonymization).&#xD;
+For more details refer to: http://trials.boehringer-ingelheim.com/</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,236 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01615510</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TapCapMentho01</org_study_id>
+    <nct_id>NCT01615510</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Antihyperalgesic Effect of Tapentadol in Two Human Experimental Models</brief_title>
+  <official_title>Evaluation of the Antihyperalgesic Effect of Tapentadol in Two Human Experimental Models of: 1) Cold and Mechanical Hyperalgesia Evoked by Topical High-concentration Menthol , 2) Heat and Mechanical Hyperalgesia by Capsaicin.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Schleswig-Holstein</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Schleswig-Holstein</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      MOR-NRI like Tapentadol are expected to reduce signs and symptoms of central sensitisation&#xD;
+      besides effectively reducing pain intensity in pain. Human pain surrogate models can serve in&#xD;
+      this proof-of-concept study to further elucidate this assumption.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To evaluate exploratory the antihyperalgesic effect of a single dose of Palexia® IR&#xD;
+      (Tapentadol) in two human experimental models of 1) cold and mechanical (pinprick)&#xD;
+      hyperalgesia after topical application of menthol at high-concentration [40%] and 2) of heat&#xD;
+      and mechanical (pinprick) hyperalgesia by topical applied capsaicin [0.6%] in comparison to&#xD;
+      placebo. Therefore, cold, heat and mechanical hyperalgesia and allodynia will be determined&#xD;
+      by parameters of the Quantitative Sensory Testing (QST). These parameters are cold and heat&#xD;
+      pain thresholds, mechanical pain threshold and sensitivity as well as dynamic mechanical&#xD;
+      allodynia. Further, the areas of dynamic mechanical allodynia and pinprick-hyperalgesia will&#xD;
+      be determined at each timepoint of QST-assessement.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>October 2012</start_date>
+  <completion_date type="Actual">March 2013</completion_date>
+  <primary_completion_date type="Actual">March 2013</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>QST parameters</measure>
+    <time_frame>period 1 - period 2 (approx. 18 days)</time_frame>
+    <description>The primary objective is to evaluate the antihyperalgesic effect of a single dose of Tapentadol immediate release (IR) in two human experimental models:&#xD;
+cold pain threshold (menthol only),&#xD;
+heat pain thresholds (capsaicin only),&#xD;
+mechanical pain threshold&#xD;
+mechanical pain sensitivity,&#xD;
+dynamic mechanical allodynia,&#xD;
+area of dynamic mechanical allodynia and&#xD;
+area of pinprick-hyperalges</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Pain</condition>
+  <condition>Hyperalgesia</condition>
+  <condition>Allodynia</condition>
+  <arm_group>
+    <arm_group_label>Capsaicin (topical)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>300 µL of 0.6% capsaicin in 45% ethanol, topically applied on the forearm intervention: tapentadol immediate release or placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Menthol (topical)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1000 µL of 40% menthol in 90% ethanol, topically applied on the forearm intervention: tapentadol immediate release or placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tapentadol immediate release</intervention_name>
+    <description>100 mg, single administration</description>
+    <arm_group_label>Capsaicin (topical)</arm_group_label>
+    <arm_group_label>Menthol (topical)</arm_group_label>
+    <other_name>Palexia IR</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>placebo, single administration</description>
+    <arm_group_label>Capsaicin (topical)</arm_group_label>
+    <arm_group_label>Menthol (topical)</arm_group_label>
+    <other_name>P Lichtenstein</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provided written informed consent to participating in the trial.&#xD;
+&#xD;
+          2. Caucasian, female or male, and aged 18 years to 55 years, inclusive.&#xD;
+&#xD;
+          3. Body mass index between 18.5 kg/m2 and 30 kg/m2, inclusive, with a lower body weight&#xD;
+             limit of 50 kg.&#xD;
+&#xD;
+          4. In good health as determined by medical history, physical examination, 12-lead ECG,&#xD;
+             vital signs (pulse rate, respiratory rate, systolic and diastolic blood pressure),&#xD;
+             oxygen saturation, and laboratory monitoring (hematology, clinical chemistry,&#xD;
+             clotting, and urinalysis).&#xD;
+&#xD;
+          5. Subjects must be able to feel thermal and mechanical sensation (cold, warm, sharp,&#xD;
+             unpleasant sensation) on normal skin (at the forearm intended for menthol / capsaicin&#xD;
+             administration) confirmed by routine neurological bed-side testing.&#xD;
+&#xD;
+          6. Female subjects must be postmenopausal (with at least 2 years since last&#xD;
+             menstruation), surgically sterile (e.g., after hysterectomy or bilateral&#xD;
+             oophorectomy), or practicing an effective method of birth control (e.g., oral&#xD;
+             contraceptives, contraceptive injections, intrauterine device, double-barrier method,&#xD;
+             contraceptive patch, male partner sterilization) at the Enrollment Visit and during&#xD;
+             the trial.&#xD;
+&#xD;
+          7. Female subjects of childbearing potential must have a negative serum hCG test at the&#xD;
+             Enrollment Visit.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. The subject has received any of the IMPs or used an investigational medical device&#xD;
+             within 30 days or within a period less than 10 times the half life of an&#xD;
+             investigational drug, whichever is longer, before the first dose of IMP is scheduled.&#xD;
+&#xD;
+          2. History or presence of opioid abuse, drug abuse, or alcohol abuse or presence of an&#xD;
+             acute intoxication with alcohol, hypnotics, centrally acting analgesics, or&#xD;
+             psychotropic drugs.&#xD;
+&#xD;
+          3. Positive or missing drugs of abuse screening (alcohol breath test, urine screening&#xD;
+             test for drugs of abuse).&#xD;
+&#xD;
+          4. Diseases or conditions known to interfere with the absorption, distribution,&#xD;
+             metabolism, or excretion of drugs.&#xD;
+&#xD;
+          5. History or presence of severe respiratory depression with hypoxia and/or hypocapnia,&#xD;
+             severe chronic obstructive pulmonary disease, cor pulmonale, severe bronchial asthma,&#xD;
+             paralytic ileus.&#xD;
+&#xD;
+          6. History or presence of hypersensitivity to Tapentadol, menthol, capsaicin/chili&#xD;
+             peppers or any of the other excipients of the Palexia® IR (Tapentadol), menthol, or&#xD;
+             capsaicin formulations or to opioid antagonists (e.g., naloxone).&#xD;
+&#xD;
+          7. Subjects who have used any prescribed and non-prescribed systemic or topical&#xD;
+             medication, except contraceptives, on a daily base within 14 days before the Enrolment&#xD;
+             Visit, or anticipated use from the Enrolment Visit until the first administration of&#xD;
+             the IMP.&#xD;
+&#xD;
+          8. History or presence of seizure disorder and/or epilepsy or any condition associated&#xD;
+             with a significant risk for seizure disorder or epilepsy.&#xD;
+&#xD;
+          9. History of orthostatic hypotension.&#xD;
+&#xD;
+         10. Blood donation or acute loss of blood (more than 100 mL) during the 1 month before the&#xD;
+             enrollment visit, or intention to donate blood or blood products during the trial or&#xD;
+             within 1 month following the completion of the trial.&#xD;
+&#xD;
+         11. Pregnant or breastfeeding women.&#xD;
+&#xD;
+         12. Known or suspected of not being able to comply with procedures described in the trial&#xD;
+             protocol.&#xD;
+&#xD;
+         13. Not able to communicate meaningfully with the investigator and staff.&#xD;
+&#xD;
+         14. Preplanned surgery or procedures that would interfere with the conduct of the trial.&#xD;
+&#xD;
+         15. Acute skin disease, lesions, acute sunburn, extensive tattoos or scars at the forearm&#xD;
+             where the menthol / capsaicin application is planned.&#xD;
+&#xD;
+         16. Employee of the Investigator or trial site, with direct involvement in the proposed&#xD;
+             trial or other trials under the direction of that Investigator or trial site, as well&#xD;
+             as family members of the employees or the Investigator&#xD;
+&#xD;
+         17. Administration of a monoaminoxidase-inhibitor (MAO-Inhibitor) within 14 days prior to&#xD;
+             recruitment visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ralf Baron, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Head of Division of Neurological Pain Research and Therapy</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Neurology</name>
+      <address>
+        <city>Kiel</city>
+        <zip>24105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>March 2014</verification_date>
+  <study_first_submitted>June 6, 2012</study_first_submitted>
+  <study_first_submitted_qc>June 6, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 8, 2012</study_first_posted>
+  <last_update_submitted>March 25, 2014</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2014</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 26, 2014</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital Schleswig-Holstein</investigator_affiliation>
+    <investigator_full_name>Ralf Baron</investigator_full_name>
+    <investigator_title>Professor Dr., head of division of neurological pain research and therapy</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperalgesia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tapentadol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,207 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04708249</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DCI_HYPOGONADAL_MALES</org_study_id>
+    <nct_id>NCT04708249</nct_id>
+  </id_info>
+  <brief_title>D-chiroinositol Administration in Hypogonadal Males</brief_title>
+  <official_title>D-chiroinositol Administration for Testosterone Level Improvement in Hypogonadal Males</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lo.Li.Pharma s.r.l</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lo.Li.Pharma s.r.l</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      D-chiroinositol (DCI), is known as second messenger of insulin pathway, but recently several&#xD;
+      works have reported the influence of DCI on steroidogenesis. In particular, the DCI&#xD;
+      capabilities to regulate aromatase expression and testosterone biosynthesis are arising. In&#xD;
+      this regard, DCI administration in case of reduced levels of testosterone, could be a good&#xD;
+      therapeutic opportunity. For this reason, the treatment of Late-Onset Male Hypogonadism (LOH)&#xD;
+      in undoubtedly an interesting target. LOH is a reduction of testosterone level due to&#xD;
+      advancing age, currently treated with Testosterone Replacement Therapy (TRT). Unfortunately,&#xD;
+      there is a lack of information about TRT safety, especially in older men. For these reasons,&#xD;
+      the aim of this study is to evaluate the effect of DCI treatment on testosterone accumulation&#xD;
+      in LOH patient.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 18, 2021</start_date>
+  <completion_date type="Actual">March 1, 2021</completion_date>
+  <primary_completion_date type="Actual">February 24, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline Serum Testosterone at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Level of testosterone detected in the blood in ng/dL</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Weight at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Body weight of patients reported in kg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Waist circumference at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Waist circumference of patients reported in cm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline BMI at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Body Mass Index of patients calculated as kg/m2, where kg is the weight measured for eah patient while m2 is his height squared</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Insulin at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Level of fasting insulin detected in the blood and reported in microU/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Glycaemia at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Level of fasting glycaemia detected in the blood and reported in mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline HOMA index at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>HOMA index known as Homeostatic Model Assessment for Insulin Resistance is: (fasting glycaemia x fasting insulin)/405</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Androstenedione at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Level of androstenedione detected in the blood and reported in ng/mL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Luteinizing Hormone at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Level of luteinizing hormone detected in the blood and reported in mUI/ml</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Oestradiol at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Level of oestradiol detected in the blood and reported in pg/mL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Oestrone at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Level of oestrone detected in the blood and reported in pg/mL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Testosterone/Oestradiol ratio at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Ratio between the levels of oestradiol and testosterone detected in the blood</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Strength Test at 1 month</measure>
+    <time_frame>At baseline and after 30 days of treatment</time_frame>
+    <description>Measurement of strength performed with the dominant hand using a hand-held dynamometer (Good Strength, IGS01, Metitur Oy, Jyväskylä, Finland) with the participant in the seated position with elbow flexed at 110°. The participant will be instructed to squeeze the handle as hard as possible for 3-5 seconds and the stregth will be recorded in kg</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">10</enrollment>
+  <condition>Male Hypogonadism</condition>
+  <condition>Sexual Dysfunction</condition>
+  <arm_group>
+    <arm_group_label>D-chiroinositol treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>D-chiroinositol</intervention_name>
+    <description>Supplementation with 600 mg of D-chiroinositol, two-times daily on an empty stomach, for 30 days.</description>
+    <arm_group_label>D-chiroinositol treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men, with a diagnosis of Late-Onset Male Hypogonadism&#xD;
+&#xD;
+          -  Insulin resistance (HOMA Index &gt; 2,5)&#xD;
+&#xD;
+          -  BMI between 25 and 30&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Alcohol intake and/or drug abuse&#xD;
+&#xD;
+          -  Recent hormonal treatment&#xD;
+&#xD;
+          -  Smoking&#xD;
+&#xD;
+          -  Obesity&#xD;
+&#xD;
+          -  Systemic or endocrine diseases&#xD;
+&#xD;
+          -  Male accessory gland infection&#xD;
+&#xD;
+          -  Clinical history of cryptorchidism or varicocele and micro-orchidism&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Clinica Alma Res</name>
+      <address>
+        <city>Rome</city>
+        <zip>00198</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 13, 2021</study_first_posted>
+  <last_update_submitted>March 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Male Hypogonadism</keyword>
+  <keyword>Testosterone</keyword>
+  <keyword>Aromatase</keyword>
+  <keyword>D-chiroinositol</keyword>
+  <keyword>Sexual dysfunction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypogonadism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Inositol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

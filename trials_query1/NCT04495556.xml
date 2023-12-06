@@ -1,0 +1,593 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04495556</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-063</org_study_id>
+    <secondary_id>1U01NS116776-01</secondary_id>
+    <nct_id>NCT04495556</nct_id>
+  </id_info>
+  <brief_title>Central Vein Sign: a Diagnostic Biomarker in Multiple Sclerosis</brief_title>
+  <acronym>CAVS-MS</acronym>
+  <official_title>Central Vein Sign: a Diagnostic Biomarker in Multiple Sclerosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Cleveland Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cedars-Sinai Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Cleveland Clinic</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The need for improved diagnostic methods in Multiple Sclerosis (MS) is widely recognized.&#xD;
+      Although Magnetic Resonance Imaging (MRI) is a longstanding tool for detecting MS lesions,&#xD;
+      diagnostic inaccuracies persist. Up to 20% of people diagnosed with MS (1 in 5) are later&#xD;
+      found not to have the disease. This is highly consequential, as more than two-thirds of&#xD;
+      misdiagnosed patients are unnecessarily exposed to risks from disease-modifying therapies,&#xD;
+      which in rare cases can be life-threatening.&#xD;
+&#xD;
+      Moreover, the current standard in MS diagnosis - the McDonald criteria, which combine&#xD;
+      clinical symptoms and MRI findings - were developed from studies in people with typical&#xD;
+      clinical presentations of MS. This reduces the specificity of these criteria, rendering them&#xD;
+      uninformative for the nearly half of MS patients who present to neurologists with atypical or&#xD;
+      nonclassical symptoms.&#xD;
+&#xD;
+      Timeliness of MS diagnosis is also key, as diagnostic delay is common in cases of&#xD;
+      relapsing-remitting MS and can carry severe and lifelong consequences.&#xD;
+&#xD;
+      The CentrAl Vein Sign in MS (CAVS-MS) study has been designed to assess whether Central Vein&#xD;
+      Sign (CVS) criteria can help address some of these unmet diagnostic needs. It will&#xD;
+      specifically explore the role of presentation type by enrolling a mixed population of&#xD;
+      patients with typical clinical presentations (n = 200) and those with atypical presentations,&#xD;
+      including suggestive MRI findings in the absence of neurologic symptoms (n = 200) across&#xD;
+      North America.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The CentrAl Vein Sign in MS (CAVS-MS) study seeks to answer whether the central vein sign&#xD;
+      (CVS) can be used as a sensitive and specific diagnostic marker for a diagnosis of MS. The&#xD;
+      study will investigate the CVS in a mixed population of participants with typical and&#xD;
+      atypical clinical presentations including radiological presentations without neurological&#xD;
+      symptoms.&#xD;
+&#xD;
+      The CVS is proposed as a diagnostic biomarker with improved sensitivity for a diagnosis of&#xD;
+      MS, while retaining diagnostic specificity - all in an-easy-to use diagnostic test that can&#xD;
+      be applied in patients with both typical and atypical disease presentation. There is&#xD;
+      extensive research demonstrating the ability of the CVS criteria to discriminate MS lesions&#xD;
+      from common mimickers, such as vascular disease and migraine. However, the CVS has mainly&#xD;
+      been applied in cross- sectional studies. In addition, the majority of these studies have&#xD;
+      focused analysis primarily on patients presenting with typical clinical events of&#xD;
+      demyelination (i.e. a classic Clinically Isolated Syndrome (CIS)). This study will evaluate&#xD;
+      CVS criteria prospectively in individuals with typical and atypical MS presentations. Aim 1&#xD;
+      will examine sensitivity and specificity of CVS criteria in conjunction with, and separate&#xD;
+      from, the McDonald Criteria. Aim 2 will examine CVS in a population where McDonald criteria&#xD;
+      explicitly cannot be applied. Because the likelihood of MS is lower in this group, the focus&#xD;
+      will be on specificity, which is where the unmet need exists.&#xD;
+&#xD;
+      Although current MS diagnostic criteria are sensitive in most typical cases, the use of the&#xD;
+      CVS may hasten diagnosis in patients with low lesion numbers and those without dissemination&#xD;
+      in time. In the past, studies that informed revision of the diagnostic criteria used&#xD;
+      &quot;clinically definite MS&quot; (defined as two separate clinical events) as the definitive&#xD;
+      determination of a diagnosis. In the current treatment era, however, clinically definite MS&#xD;
+      is less relevant, since most patients will be diagnosed after a first clinical event&#xD;
+      (relapse) and will go on to start treatment prior to even having a second relapse. For this&#xD;
+      reason, the 2017 McDonald Criteria is being used as the &quot;gold standard&quot; for the proposed&#xD;
+      study.&#xD;
+&#xD;
+      Importantly, in the current study the CVS will be applied in a population where the McDonald&#xD;
+      Criteria are not applicable (atypical presentations) and where currently a significant unmet&#xD;
+      clinical need exists. Because the studies that informed the diagnostic criteria did not&#xD;
+      include patients presenting with atypical syndromes, such patients are not covered in the&#xD;
+      McDonald Criteria path, but are frequently given a diagnosis of MS on the basis of MRI&#xD;
+      findings. To address this limitation, the presence of CVS as a predictor of development of&#xD;
+      future clinical events will be examined, within a 24- month period, that would satisfy the&#xD;
+      2017 McDonald Criteria. Thus, the results of this study will have a significant impact on&#xD;
+      both improving sensitivity in those presenting with typical presentations and providing a&#xD;
+      specific test for MS in those with atypical presentations, thereby avoiding unnecessary costs&#xD;
+      associated with misdiagnosis. The investigators will leverage the North American Imaging in&#xD;
+      Multiple Sclerosis Cooperative (NAIMS) to conduct a multicenter study, based on an initial&#xD;
+      cross-sectional pilot study using the CVS criteria as a diagnostic biomarker for MS.&#xD;
+&#xD;
+      Patients will be enrolled when presenting to an MS center for diagnostic referral, and they&#xD;
+      will undergo follow-up at prespecified intervals for 24 months. Brain MRI will be performed&#xD;
+      at baseline and 24 months, with scans scored on the basis of CVS criteria. T2-weighted&#xD;
+      fluid-attenuated inversion recovery (FLAIR) imaging will be combined with T2*-weighted&#xD;
+      segmented echo-planar imaging to enable simultaneous identification of white matter lesions&#xD;
+      and venous structures.&#xD;
+&#xD;
+      The primary objective is to determine whether use of CVS criteria allows for an earlier&#xD;
+      accurate diagnosis of MS in patients who do not meet the McDonald criteria at baseline. The&#xD;
+      aim is to show that the CVS is a simple and reliable diagnostic biomarker that will show an&#xD;
+      increase in sensitivity while preserving specificity.&#xD;
+&#xD;
+      Secondary objectives include the following:&#xD;
+&#xD;
+        -  Determining concordance of CVS criteria and the McDonald criteria among patients meeting&#xD;
+           McDonald criteria at baseline.&#xD;
+&#xD;
+        -  Determining whether use of CVS criteria improves diagnostic specificity for MS in people&#xD;
+           presenting with atypical symptoms.&#xD;
+&#xD;
+        -  Determining whether the CVS predicts development of clinical MS in individuals with&#xD;
+           suggestive radiologic findings but no symptoms.&#xD;
+&#xD;
+      The researchers will also begin exploratory studies of optimal methods for integrating CVS&#xD;
+      findings into MS diagnostic criteria, along with any resulting healthcare-related cost&#xD;
+      savings. These initial exploratory analyses will be important to how readily positive&#xD;
+      findings about the utility of CVS criteria can impact clinical practice. The ultimate goal is&#xD;
+      to have the CVS incorporated into the MS diagnostic criteria.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 11, 2020</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MRI Outcomes</measure>
+    <time_frame>Change assessed over 24 months. First scan at baseline (first study visit) and the second scan at 24 months or the last study visit.</time_frame>
+    <description>MRI will be done to assess sensitivity and specificity of the CVS for multiple sclerosis.&#xD;
+MRI will be done at baseline or start of the study and at month 24, end of study. Central veins will be counted and lesions will be considered CVS+ using specified criteria. CVS will be determined using Select6, Select3*, and automated lesion analysis with inclusion and exclusion of periventricular lesions.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Outcomes - McDonald Criteria 2017</measure>
+    <time_frame>McDonald criteria will be reviewed at baseline, month 12 and month 24 visits.</time_frame>
+    <description>Determination of a diagnosis of MS using the McDonald Criteria 2017 will be conducted by a central adjudication committee. McDonald diagnostic criteria for MS are clinical, radiographic, and laboratory criteria used in the diagnosis of multiple sclerosis. Members of the adjudication committee will separately review the clinical data, laboratory testing, and study MRIs of each participant at baseline, 12 months, and 24 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Outcomes - Relapses</measure>
+    <time_frame>Relapses will be assessed at month 6, month 12, month 18 and month 24.</time_frame>
+    <description>Relapses will be assessed at every study visit after baseline to look for disease progression and disability. Proportion of people who do not have clinical relapses of MS at 24 months, will help us determine if CVS yields specificity for MS among individuals with atypical presentation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Outcomes - Lab results - Cerebrospinal Fluid Testing</measure>
+    <time_frame>Lab results will be collected at baseline, month 6, month 12, month 18 and month 24.</time_frame>
+    <description>Lab results will be collected at every study visit whenever available. May include recording of: cerebrospinal fluid testing (CSF).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lab results - Neuromyelitis Optica Antibodies (NMO-IgG)</measure>
+    <time_frame>Lab results will be collected at baseline, month 6, month 12, month 18 and month 24.</time_frame>
+    <description>Lab results will be collected at every study visit whenever available. May include recording of: neuromyelitis optica antibodies (NMO-IgG).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lab results - Myelin oligodendrocyte glycoprotein (MOG) testing.</measure>
+    <time_frame>Lab results will be collected at baseline, month 6, month 12, month 18 and month 24.</time_frame>
+    <description>Lab results will be collected at every study visit whenever available. May include recording of: myelin oligodendrocyte glycoprotein (MOG) testing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported Outcomes - Change in Neuro-QoL (Quality of Life in Neurological disorders) using Neuro-QoL short forms to assess Physical Domains, from baseline to month 24.</measure>
+    <time_frame>Assessed over 24 months. Neuro-QoL at baseline, month 12 and month 24 study visits.</time_frame>
+    <description>The Neuro-QoL (short forms) instrument will be used to measure quality of life as related to neurological disease.&#xD;
+11 subscales, each is scored separately, there is no composite score.&#xD;
+Physical Domains include:&#xD;
+Upper Extremity Function (Fine Motor, ADL), Lower Extremity Function (Mobility), Fatigue, and Sleep Disturbance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neuro-QoL using Neuro-QoL short forms to assess Mental Domains, from baseline to month 24</measure>
+    <time_frame>Assessed over 24 months. Neuro-QoL at baseline, month 12 and month 24 study visits.</time_frame>
+    <description>The Neuro-QoL (short forms) instrument will be used to measure quality of life as related to neurological disease.&#xD;
+11 subscales, each is scored separately, there is no composite score.&#xD;
+Mental Domains include:&#xD;
+Cognition Function, Stigma, Anxiety, Depression and Positive Affect and Well-being.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neuro-QoL using Neuro-QoL short forms to assess Social Domains, from baseline to month 24</measure>
+    <time_frame>Assessed over 24 months. Neuro-QoL at baseline, month 12 and month 24 study visits.</time_frame>
+    <description>The Neuro-QoL (short forms) instrument will be used to measure quality of life as related to neurological disease.&#xD;
+11 subscales, each is scored separately, there is no composite score.&#xD;
+Social Domains include:&#xD;
+Ability to Participate in Social Roles and Activities, and Satisfaction with Social Roles and Activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported Outcomes - PDDS (patient determined disease steps)</measure>
+    <time_frame>PDDS will be assessed at all the 5 study visits - baseline, month 6, 12, 18 and 24.</time_frame>
+    <description>The PDDS is a patient reported outcome that captures overall MS disability. It will be collected and baseline, month 6, month 12, month 18, and month 24. PDDS scores will be recorded and sustained worsening will be considered for worsening of 1 point or greater confirmed at 3 months.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Economics outcomes</measure>
+    <time_frame>Done at all 5 study visits - baseline, month 6, month 12, month 18 and month 24.</time_frame>
+    <description>Health care expenditures will be measured using Healthcare Resource Utilization (HRU) forms. Total costs for patients over the 24-month follow up period will be assessed using information from all 5 study visits. At each encounter, patients will report emergency care visits and inpatient hospitalizations which have occurred within the past 6-months. Costs accrued over each 6-month period will be used to estimate overall 24-month costs.</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Multiple Sclerosis</condition>
+  <arm_group>
+    <arm_group_label>Typical</arm_group_label>
+    <description>Patients with typical symptom onset including: acute unilateral optic neuritis, double vision due to an internuclear ophthalmoplegia or sixth nerve palsy, facial sensory loss or trigeminal neuralgia in a young adult (&lt;40 years of age), cerebellar ataxia and nystagmus, partial myelopathy, sensory symptoms in a CNS (central nervous system) pattern, Lhermitte's symptom, asymmetric limb weakness, urge incontinence or erectile dysfunction, or other neurological presentation considered to be typical by the site investigator.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Atypical</arm_group_label>
+    <description>Patients with atypical onset including: bilateral optic neuritis or unilateral optic neuritis with a poor visual recovery, complete gaze palsy or fluctuating ophthalmoparesis, intractable nausea, vomiting, or hiccups, complete transverse myelopathy with bilateral motor and sensory involvement, encephalopathy, subacute cognitive decline, headache or meningismus, isolated fatigue or asthenia, constitutional symptoms, other clinical presentations considered atypical by the site investigator (examples include: vague or patchy sensory symptoms, pain, short lasting bilateral blurred vision, etc.), or absence of clinical symptoms with MRI features suggestive of MS.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>MRI</intervention_name>
+    <description>The study will include MRI at baseline (first study visit) and month 24 (final study visit). MRI at month 24 (end of study) will be used to determine McDonald Criteria and final review of CVS.</description>
+    <arm_group_label>Atypical</arm_group_label>
+    <arm_group_label>Typical</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study will recruit a total 400 participants. The study will include 200 patients&#xD;
+        presenting with typical first syndromes and will enroll an additional 200 patients with&#xD;
+        atypical presentations and radiological suspicion of the disease. Participants will be&#xD;
+        recruited from the patient populations followed at eleven different sites including:&#xD;
+        Cleveland Clinic, Johns Hopkins University, University of California San Francisco,&#xD;
+        University of Texas Austin, University of Colorado Denver, University of Toronto (St.&#xD;
+        Michael's Hospital), University of Vermont, University of Pennsylvania, Cedars Sinai&#xD;
+        Medical Center, University of Southern California, and Yale University. Study investigators&#xD;
+        will confirm eligibility criteria, and participants will then be enrolled into the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Inclusion criteria for participants with typical presentations will include:&#xD;
+&#xD;
+          1. Age 18 to 65 inclusive&#xD;
+&#xD;
+          2. Referral to a study academic site for a clinical suspicion of MS&#xD;
+&#xD;
+          3. Onset with typical symptom onset including: acute unilateral optic neuritis, double&#xD;
+             vision due to an internuclear ophthalmoplegia or sixth nerve palsy, facial sensory&#xD;
+             loss or trigeminal neuralgia in a young adult (&lt;40 years of age), cerebellar ataxia&#xD;
+             and nystagmus, partial myelopathy, sensory symptoms in a CNS pattern, Lhermitte's&#xD;
+             symptom, asymmetric limb weakness, urge incontinence or erectile dysfunction, or other&#xD;
+             neurological presentation considered to be typical by the site investigator.&#xD;
+&#xD;
+          4. Able to provide written informed consent to participate in the study&#xD;
+&#xD;
+          5. For participants referred for clinical suspicion of multiple sclerosis who had workup&#xD;
+             prior to referral or who are taking disease-modifying therapies for MS, digital&#xD;
+             availability of diagnostic cranial MRI with gadolinium within 3 months of initial&#xD;
+             symptoms&#xD;
+&#xD;
+          6. Onset of typical neurological symptoms within 10 years of screening.&#xD;
+&#xD;
+        Inclusion criteria for participants with atypical presentations will include:&#xD;
+&#xD;
+          1. Age 18 to 65 inclusive&#xD;
+&#xD;
+          2. Referral to a study academic site for a suspicion of MS&#xD;
+&#xD;
+          3. Onset with atypical onset including: bilateral optic neuritis or unilateral optic&#xD;
+             neuritis with a poor visual recovery, complete gaze palsy or fluctuating&#xD;
+             ophthalmoparesis, intractable nausea, vomiting, or hiccups, complete transverse&#xD;
+             myelopathy with bilateral motor and sensory involvement, encephalopathy, subacute&#xD;
+             cognitive decline, headache or meningismus, isolated fatigue or asthenia,&#xD;
+             constitutional symptoms, other clinical presentations considered atypical by the site&#xD;
+             investigator (examples include: vague or patchy sensory symptoms, pain, short lasting&#xD;
+             bilateral blurred vision, etc.), or absence of clinical symptoms with MRI features&#xD;
+             suggestive of MS&#xD;
+&#xD;
+          4. Able to provide written informed consent to participate in the study&#xD;
+&#xD;
+          5. For participants referred for clinical suspicion of multiple sclerosis who had workup&#xD;
+             prior to referral or who are taking disease-modifying therapies for MS, digital&#xD;
+             availability of diagnostic cranial MRI with gadolinium within 3 months of initial&#xD;
+             symptoms&#xD;
+&#xD;
+          6. Onset of atypical neurological symptoms within 10 years of screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Exclusion criteria for both typical and atypical populations will include:&#xD;
+&#xD;
+          1. Contraindication to MRI studies; metal or metal implants incompatible with MRI&#xD;
+&#xD;
+          2. Inability to tolerate MRI due to claustrophobia or known excessive movement (e.g.&#xD;
+             tremor)&#xD;
+&#xD;
+          3. Contraindication to use of gadolinium containing contrast agents (allergy or renal&#xD;
+             failure)&#xD;
+&#xD;
+          4. Treatment with systemic corticosteroids in the 4 weeks preceding enrollment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel Ontaneda, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nancy Sicotte, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cedars-Sinai Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Praneeta C Raza, MD, MSc</last_name>
+    <phone>216-445-9692</phone>
+    <email>razap@ccf.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Natalie Ayala</last_name>
+      <email>natalie.ayala@cshs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Nancy Sicotte, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southern California</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Christina Azevedo, MD</last_name>
+      <email>cazevedo@usc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Christina Azevedo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jennifer Arjona</last_name>
+      <email>jennifer.arjona@ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Roland Henry, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Courtney Knapp</last_name>
+      <email>courtney.knapp@cuanschutz.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Enrique Alvarez, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lesa Moemeka</last_name>
+      <email>lesa.moemeka@yale.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Erin Logbrake, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Anna DuVal</last_name>
+      <email>aduval1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Calabresi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Mays</last_name>
+      <phone>216-445-6339</phone>
+      <email>maysj1@ccf.org</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Ontaneda, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Carly O'Donnell</last_name>
+      <email>carly.ODonnell@pennmedicine.upenn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Russell Shinohara, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas at Austin</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78759</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sarah Campbell</last_name>
+      <email>scampbell@austin.utexas.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Leorah Freeman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Vermont</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Emily Azalone</last_name>
+      <email>emily.azalone@uvmhealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Solomon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Michael's Hospital of Unity Health Toronto</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5B1W8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Melanie Guenette</last_name>
+      <email>Melanie.Guenette@unityhealth.to</email>
+    </contact>
+    <investigator>
+      <last_name>Jiwon Oh, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>July 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 3, 2020</study_first_posted>
+  <last_update_submitted>October 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Multiple Sclerosis</keyword>
+  <keyword>MS</keyword>
+  <keyword>MRI</keyword>
+  <keyword>Central Vein Sign</keyword>
+  <keyword>CVS</keyword>
+  <keyword>Diagnostic Biomarker</keyword>
+  <keyword>Autoimmune disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

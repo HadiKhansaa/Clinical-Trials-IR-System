@@ -1,0 +1,226 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04632901</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ES12/Th3/17-9-2020</org_study_id>
+    <nct_id>NCT04632901</nct_id>
+  </id_info>
+  <brief_title>A New Parameter for the Assessment of Distance Visual Capacity: the Critical Visual Acuity (CVA)</brief_title>
+  <official_title>Development and Validation of a New Parameter for the Assessment of Distance Visual Capacity: the Critical Visual Acuity (CVA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Democritus University of Thrace</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Democritus University of Thrace</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The conventional examination of the visual acuity (VA) does not take into account the&#xD;
+      patient's reading speed. However, the consideration of the speed for the recognition of the&#xD;
+      VA charts' symbols leads to the more accurate and comprehensive assessment of the visual&#xD;
+      capacity.&#xD;
+&#xD;
+      Therefore, primary objective of this study is to develop and validate a new parameter for the&#xD;
+      more comprehensive evaluation of visual capacity: the critical visual acuity (CVA). CVA takes&#xD;
+      into account the speed of recognition of the symbols of the distance visual charts.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In clinical practice, the conventional examination of the VA does not take into account the&#xD;
+      patient's reading speed, and does not reflect the requirements of everyday life (e.g.&#xD;
+      driving, watching subtitles on TV), in which each individual has limited time to react. In&#xD;
+      addition, the VA measured with the conventional method differs significantly among the&#xD;
+      different examiners, since there is no standard time limit for the patient to read the chart&#xD;
+      symbols.&#xD;
+&#xD;
+      However, the consideration of the speed for the recognition of the VA charts' symbols leads&#xD;
+      to the more accurate and comprehensive assessment of the visual capacity. Therefore, primary&#xD;
+      objective of this study is to develop and validate a new parameter for the more comprehensive&#xD;
+      evaluation of visual capacity: the critical visual acuity (CVA), and to determine normal&#xD;
+      values of population according to age. CVA takes into account the speed of recognition of the&#xD;
+      symbols of the distance visual charts.&#xD;
+&#xD;
+      Participants are recruited from the outpatient service of the Department of Ophthalmology of&#xD;
+      the University Hospital of Alexandroupolis in a consecutive-if-eligible basis. At first, each&#xD;
+      participant performs the conventional VA test monocularly. Then, he/she performs the CVA test&#xD;
+      with the same eye. Two different printed Landolt ring charts are used, the first one for VA&#xD;
+      and the second one for CVA assessment for all participants to avoid memorization. The VA and&#xD;
+      CVA are evaluated for all participants under the same environmental lighting conditions.&#xD;
+&#xD;
+      Regarding the VA and CVA examination procedure, the investigator masks the chart lines using&#xD;
+      a blank piece of paper and reveals one line each time. The investigator instructs the patient&#xD;
+      to read aloud the 5 letters of the Landolt chart, as quickly and accurately as possible,&#xD;
+      after hearing the words &quot;Ready!… Go!&quot;. At the same time, a second examiner starts a stopwatch&#xD;
+      to record the reading time (in seconds, to the nearest 0.01 s) when the examiner fully&#xD;
+      reveals the line and the patient starts to read it. The first examiner counts the number of&#xD;
+      errors for each line and the second one enters the reading time for each line in a data file.&#xD;
+      The reading time of each line is compared with the automatically calculated average reading&#xD;
+      time of the larger lines minus 1.96 (for CVA) or 2.58 (for VA) times the standard deviation&#xD;
+      (SD) of the reading time of these lines.&#xD;
+&#xD;
+      Testing stops when the letters are too small for the examinee to discriminate and/or they are&#xD;
+      read with a speed lower than the maximum reading speed (MRS) of each examinee.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 20, 2020</start_date>
+  <completion_date type="Anticipated">February 20, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 20, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>15 Days</target_duration>
+  <primary_outcome>
+    <measure>Critical Visual Acuity (CVA)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The smallest line (measured in letters) that can be read with the maximum reading speed, i.e., with speed greater than or equal to the average reading speed of the larger lines minus 1.96 times the standard deviation (SD) of the reading speed of these lines. In clinical practice, the CVA is the minimum VA that can be read in maximal speed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Visual Acuity (VA)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The smallest line (measured in letters) that can be read with speed greater than or equal to the average reading speed of the larger lines minus 2.58 times the standard deviation (SD) of the reading speed of these lines. In clinical practice, the VA is the common parameter of VA adding a tolerant time limit to clearly determine the end of the test.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Intraclass Correlation Coefficients (ICCs) for study participants</measure>
+    <time_frame>through study completion, an average of 3 months</time_frame>
+    <description>Level of agreement between CVA and VA are evaluated by calculation of the ICCs for these 2 parameters.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Test-retest Intraclass Correlation Coefficients (ICCs)</measure>
+    <time_frame>through study completion, an average of 3 months</time_frame>
+    <description>Test-retest reliability of the CVA test is evaluated by ICCs for the CVA parameter within 15 days</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Visual Acuity</condition>
+  <arm_group>
+    <arm_group_label>Testing of Visual Acuity (VA) Group</arm_group_label>
+    <description>The same participants will undergo VA and CVA test with two different Landolt C charts under the same lighting conditions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Testing of Critical Visual Acuity (CVA) Group</arm_group_label>
+    <description>The same participants will undergo VA and CVA test with two different Landolt C charts under the same lighting conditions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>VA assessment</intervention_name>
+    <description>The VA of all participants will be evaluated by counting the smallest line that can be read within a time duration greater than or equal to the average reading time of the larger lines minus 2.58 times the SD of the reading time of these lines.&#xD;
+In clinical practice, the VA is the common parameter of VA adding a tolerant time limit to clearly determine the end of the test.</description>
+    <arm_group_label>Testing of Visual Acuity (VA) Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>CVA assessment</intervention_name>
+    <description>The CVA of all participants will be evaluated by counting the smallest line that can be read within a time duration greater than or equal to the average reading time of the larger lines minus 1.96 times the SD of the reading time of these lines.&#xD;
+In clinical practice, the CVA is the minimum VA that can be read in maximal speed.</description>
+    <arm_group_label>Testing of Critical Visual Acuity (CVA) Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        300 patients who will come to the outpatient clinics of the Ophthalmology Department of the&#xD;
+        University Hospital of Alexandroupolis, aged 18-75 years, will be examined.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  People aged 18 - 75 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  neurological diseases&#xD;
+&#xD;
+          -  mental diseases&#xD;
+&#xD;
+          -  mental retardation,&#xD;
+&#xD;
+          -  difficulty reading&#xD;
+&#xD;
+          -  previous intraocular surgery&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Georgios Labiris, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Department of Ophthalmology, University Hospital of Alexandroupolis, Alexandroupolis, Greece</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Georgios Labiris, MD, PhD</last_name>
+    <phone>00302551030405</phone>
+    <email>labiris@usa.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Eirini - Kanella Panagiotopoulou, MD</last_name>
+    <phone>00306978730858</phone>
+    <email>eipanagi@med.duth.gr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Ophthalmology, University Hospital of Alexandroupolis</name>
+      <address>
+        <city>Alexandroupolis</city>
+        <state>Evros</state>
+        <zip>68100</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Georgios Labiris, MD, PhD</last_name>
+      <phone>00302551030405</phone>
+      <email>labiris@usa.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>Eleftheria Chalkia</last_name>
+      <phone>00302551030405</phone>
+      <email>echalkia@med.duth.gr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Greece</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2020</study_first_posted>
+  <last_update_submitted>November 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Democritus University of Thrace</investigator_affiliation>
+    <investigator_full_name>Georgios Labiris</investigator_full_name>
+    <investigator_title>Professor (Associate) of Democritus University of Thrace</investigator_title>
+  </responsible_party>
+  <keyword>maximum reading speed</keyword>
+  <keyword>critical visual acuity</keyword>
+  <keyword>visual capacity</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

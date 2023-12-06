@@ -1,0 +1,214 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04592627</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSC-SN-20-0686</org_study_id>
+    <nct_id>NCT04592627</nct_id>
+  </id_info>
+  <brief_title>Facial and Body Motion Technology and Stroke</brief_title>
+  <official_title>Facial and Body Motion Technology to Detect Psychosocial Distress in Stroke Survivors and Informal Caregivers Living at Home</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center, Houston</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Texas Health Science Center, Houston</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to customize privacy protected facial expression and body motion&#xD;
+      tracking for use in the home environment by stroke survivor-informal caregiver dyads by&#xD;
+      investigating within a simulated home environment, background variability,possible&#xD;
+      occlusions, privacy considerations, and the motor weaknesses, gait impairments, and facial&#xD;
+      expressions of stroke survivors and to determine the acceptability of the customized facial&#xD;
+      expression and body motion technology in stroke survivors and their informal caregivers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Stroke is a leading cause of disability. Most stroke survivors are discharged home after&#xD;
+      hospitalization and receive care from informal caregivers (e.g., unpaid spouses) who are&#xD;
+      often unprepared for the role. Stroke survivorship is an exemplar of a chronic condition that&#xD;
+      detracts from the affected individual and caregiver's capacity to live well within the home&#xD;
+      (e.g., psychosocial distress). Early identification of psychosocial distress is likely to&#xD;
+      lead to timely interventions and, subsequently, decreases in associated morbidity, mortality,&#xD;
+      and disability. Yet, only a minority of survivors are properly identified and treated for&#xD;
+      psychosocial distress, and caregivers are primarily forgotten. In-home, objective measures to&#xD;
+      identify psychosocial distress are lacking. Using facial expression and body motion&#xD;
+      technology by extracting facial characteristics and body joints (skeletal graph) known to be&#xD;
+      associated with psychosocial distress (e.g., frowning) provides new opportunities to support&#xD;
+      in-home telemonitoring. To accommodate real-world, post-stroke home environments, the&#xD;
+      technology needs to be customized to an in-home environment. Toward this end, the&#xD;
+      investigators must consider background variability, possible occlusions, privacy concerns,&#xD;
+      and stroke survivor motor weaknesses, gait impairments, and facial paralysis. Objectives: The&#xD;
+      primary objectives are to customize facial expression and body motion technology and examine&#xD;
+      the acceptability of the technology through a study of 6 stroke survivor-informal caregiver&#xD;
+      dyads within a simulated home environment. The project will serve as a necessary step to&#xD;
+      amass critical information to design future trials using facial expression and body motion&#xD;
+      technology. The ultimate goal is to improve psychosocial well-being for those aging at home.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 14, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accuracy of the technology</measure>
+    <time_frame>During the procedure known as the simulated home environment visit</time_frame>
+    <description>The accuracy of a test is its ability to differentiate the patient and healthy cases correctly. To estimate the accuracy of a test, we should calculate the proportion of true positive and true negative in all evaluated cases</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sensitivity of the technology</measure>
+    <time_frame>During the procedure known as the simulated home environment visit</time_frame>
+    <description>The sensitivity of a test is its ability to determine the patient cases correctly. To estimate it, we should calculate the proportion of true positive in patient cases.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Specificity of the technology</measure>
+    <time_frame>During the procedure known as the simulated home environment visit</time_frame>
+    <description>The specificity of a test is its ability to determine the healthy cases correctly. To estimate it, we should calculate the proportion of true negative in healthy cases</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability as measured by the patient satisfaction survey</measure>
+    <time_frame>Immediately after the procedure known as the stimulated home environment visit</time_frame>
+    <description>A 12-item survey title Participant Satisfaction Survey with 8 likert scale questions (e.g., strongly disagree to strongly agree answer options) and 4 open-ended questions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability as measured by the open ended interview</measure>
+    <time_frame>Immediately after the procedure known as the stimulated home environment visit</time_frame>
+    <description>This will be an audio-recorded, semi-structured interview (e.g., asking the participants thoughts on privacy considerations related to future use of the facial expression and body motion technology in a home environment)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability as measured by field observations</measure>
+    <time_frame>During and immediately after the procedure known as the stimulated home environment visit</time_frame>
+    <description>Study team will capture field notes in REDCap database</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>Simulated home environment visit with the dyad participants</arm_group_label>
+    <description>The cohort consists of six stroke survivor-informal caregiver (e.g., spouse or family member) dyads. Individual dyads will participate in the simulated home environment visit while the investigative team collects the data.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Simulated home environment visit</intervention_name>
+    <description>During the simulated home environment visit participants will 1) participate in a simulated University of Texas (UT) Physicians Stroke Outpatient Clinic telemedicine visit using an iPAD during which participants will be audio- and visually-recorded in order for the research team to collect raw facial expression data; 2) be instructed to complete a series of activities of daily living (e.g., sitting down and brushing hair) during which participants will be audio- and visually-recorded in order for the research team to collect raw body motion tracking data; and 3) complete a participant satisfaction survey via a REDCap link and participate in an audio-recorded, semi-structured interview (e.g., asking the participants thoughts on privacy considerations related to future use of the facial expression and body motion technology in a home environment) with members of the research team.</description>
+    <arm_group_label>Simulated home environment visit with the dyad participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will consist of 6 post-stroke survivor-informal caregiver dyads&#xD;
+        recruited from the UT Physicians Stroke Outpatient Clinic for a total of 12 study&#xD;
+        participants (6 stroke survivors and 6 informal caregivers of stroke survivors).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  can read, write, and speak English&#xD;
+&#xD;
+          -  are willing and able to provide informed consent&#xD;
+&#xD;
+          -  Informal caregivers must live in the home with the stroke survivor and be unpaid for&#xD;
+             their role&#xD;
+&#xD;
+          -  Stroke survivors must have some degree of facial and limb weakness and a Modified&#xD;
+             Rankin Scale (mRS)13 score between 1 and 3.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - stroke survivors currently reside outside of the home and are wheelchair bound.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jennifer E Beauchamp, PhD,RN,FAAN</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Texas Health Science Center, Houston</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jennifer E Beauchamp, PhD,RN,FAAN</last_name>
+    <phone>713-500-2114</phone>
+    <email>Jennifer.e.Beauchamp@uth.tmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tahani C Montiel, BBA</last_name>
+    <phone>713-500-2076</phone>
+    <email>Tahani.CasameniMontiel@uth.tmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Beauchamp, PhD, RN, FAAN</last_name>
+      <phone>713-500-2114</phone>
+      <email>Jennifer.e.Beauchamp@uth.tmc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tahani C Montiel, BBA</last_name>
+      <phone>713-500-2076</phone>
+      <email>Tahani.CasameniMontiel@uth.tmc.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>October 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Texas Health Science Center, Houston</investigator_affiliation>
+    <investigator_full_name>Jennifer E. S. Beauchamp</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Stroke</keyword>
+  <keyword>caregiver</keyword>
+  <keyword>technology</keyword>
+  <keyword>psychosocial</keyword>
+  <keyword>aging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,206 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04592822</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WD-1602-1001</org_study_id>
+    <nct_id>NCT04592822</nct_id>
+  </id_info>
+  <brief_title>A Single Dose Bioequivalence Study of WD-1602 Versus Pradaxa® in Healthy Subjects Under Fed Condition</brief_title>
+  <official_title>A Single Dose, Randomized, Open Label, Two-Treatment, Two-Sequence, Two-Period, Crossover Bioequivalence Study of WD-1602 Versus Pradaxa® in Healthy Subjects Under Fed Condition</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hong Kong WD Pharmaceutical Co., Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hong Kong WD Pharmaceutical Co., Limited</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will be a single-center, randomized, single-dose, open-label, two-treatment,&#xD;
+      two-period, two-sequence crossover bioequivalence study to compare the rate and extent of&#xD;
+      absorption of WD-1602 granule formulation (WD Pharma) to the reference drug Pradaxa® capsule&#xD;
+      (BI, Germany) under fed conditions in healthy subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will comprise of a medical Screening visit, two 2-night (3-day) Treatment Periods,&#xD;
+      2 outpatient visits, and a Follow-up visit. Each Treatment visit will be separated by a&#xD;
+      washout of up to 7 days. The Follow-up visit will occur approximately 7 days (±1) following&#xD;
+      the last study drug administration. The duration of subject participation, including&#xD;
+      screening, will be approximately 8 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 6, 2021</start_date>
+  <completion_date type="Anticipated">December 6, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 6, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AUC0-t</measure>
+    <time_frame>pre-dose (baseline) and day 1, day 2, day 3 post-dose at designed time intervals.</time_frame>
+    <description>area under the plasma concentration-time curve from time 0 to time t</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUC0-inf</measure>
+    <time_frame>pre-dose (baseline) and day 1, day 2, day 3 post-dose at designed time intervals.</time_frame>
+    <description>area under the concentration-time curve from time 0 to time infinity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cmax</measure>
+    <time_frame>pre-dose (baseline) and day 1, day 2, day 3 post-dose at designed time intervals.</time_frame>
+    <description>the maximum concentration</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Anticoagulant</condition>
+  <arm_group>
+    <arm_group_label>Treatment T</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>30 minutes after the start of a standard breakfast, subjects will take one straw of WD-1602 Dabigatran Etexilate Mesylate Granules (150 mg) in 100 mL water as oral administration.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment R</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>30 minutes after the start of a standard breakfast, subjects will receive a single Pradaxa® 150 mg capsule swallowed with 240 mL water as oral administration.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>WD-1602</intervention_name>
+    <description>dabigatran etexilate mesylate granules for oral suspension</description>
+    <arm_group_label>Treatment T</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pradaxa®</intervention_name>
+    <description>dabigatran etexilate capsules</description>
+    <arm_group_label>Treatment R</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy males and females according to the following criteria: based upon a complete&#xD;
+             medical history, including the physical examination, vital signs (blood pressure (BP),&#xD;
+             pulse rate (PR)), 12-lead; electrocardiogram (ECG), clinical laboratory tests.&#xD;
+&#xD;
+          2. Ages of 18 and 55 years, inclusive, who have a minimum body weight of 50.0 kg (110.0&#xD;
+             lbs.) and ≤ 100 kg (220 lbs.).&#xD;
+&#xD;
+          3. Body Mass Index (BMI) between 18.0 and 29.0 kg/m2, inclusive.&#xD;
+&#xD;
+          4. Negative urine pregnancy test in women of childbearing potential who are not actively&#xD;
+             breastfeeding, do not plan to become pregnant during the study, and agree to use an&#xD;
+             approved method of birth control (abstinence from heterosexual activity that could&#xD;
+             result in conception, hormonal contraceptives, condom with spermicide, diaphragm or&#xD;
+             cervical cap with spermicide, or intrauterine device) for the duration of study&#xD;
+             participation; or women of nonchildbearing potential who are &gt; 1 year postmenopausal&#xD;
+             with follicle-stimulating hormone in the postmenopausal range.&#xD;
+&#xD;
+          5. Willingness of male subjects to use barrier contraception (condom with spermicide) and&#xD;
+             refrain from donating sperm, for the duration of study participation.&#xD;
+&#xD;
+          6. Normal coagulation function (prothrombin time [PT] and partial thromboplastin time&#xD;
+             [PTT] &lt; 1.2 x upper limit of normal of normal [ULN] laboratory reference range).&#xD;
+&#xD;
+          7. Normal hepatic function (alanine aminotransferase [ALT] &lt; 1.2 × ULN; total bilirubin&#xD;
+             level &lt; 2 × ULN).&#xD;
+&#xD;
+          8. Normal renal function (estimated glomerular filtration rate &gt; 60 mL/min/1.73 m2).&#xD;
+&#xD;
+          9. Ability to understand informed consent, which must be signed before any study-related&#xD;
+             procedures are performed in accordance with Good Clinical Practice (GCP) and the local&#xD;
+             legislation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Clinically significant gastrointestinal, hepatic, renal, respiratory, cardiovascular,&#xD;
+             metabolic, immunological or hormonal disorders.&#xD;
+&#xD;
+          2. Clinically significant surgery of gastrointestinal tract or evidence of significant&#xD;
+             gastrointestinal motility problems that could affect absorption of the drug.&#xD;
+&#xD;
+          3. Diseases of the central nervous system (included but not limited to any kind of&#xD;
+             seizures; stroke or psychiatric disorders).&#xD;
+&#xD;
+          4. Any history or evidence of blood dyscrasia, hemorrhagic diathesis, severe&#xD;
+             thrombocytopenia, cerebrovascular hemorrhage, bleeding tendencies associated with&#xD;
+             active ulceration or overt bleeding of gastrointestinal, respiratory or genitourinary&#xD;
+             tract or any disease or condition with hemorrhagic tendencies.&#xD;
+&#xD;
+          5. History of significant orthostatic hypotension, fainting spells or blackouts.&#xD;
+&#xD;
+          6. Chronic or relevant acute infections.&#xD;
+&#xD;
+          7. History of allergy/hypersensitivity (including drug allergy in particular to study&#xD;
+             drug or its excipients) which is deemed relevant to the trial as judged by the&#xD;
+             Principal Investigator (i.e., an Ontario-licensed physician) or Sub-Investigator&#xD;
+             (Ontario-licensed physician and/or Nurse Practitioner)..&#xD;
+&#xD;
+          8. Use of drugs which might reasonably influence the results of the trial based on the&#xD;
+             knowledge at the time of protocol preparation within 10 days prior to administration&#xD;
+             or during the trial.&#xD;
+&#xD;
+          9. Alcohol abuse (more than 20 g/day).&#xD;
+&#xD;
+         10. Drug abuse.&#xD;
+&#xD;
+         11. Blood donation (more than 100 mL within four weeks prior to administration or during&#xD;
+             the trial);&#xD;
+&#xD;
+         12. Participation in another trial with an investigational drug within four weeks prior to&#xD;
+             administration or during the trial.&#xD;
+&#xD;
+         13. Any laboratory value outside the reference range that is of clinical significance or&#xD;
+             positive drug or virus screening.&#xD;
+&#xD;
+         14. Planned surgeries within four weeks following the end-of study examination; and&#xD;
+&#xD;
+         15. Recent or contemplated diagnostic or therapeutic procedures with potential for&#xD;
+             uncontrollable bleeding within days before or after end-of study examination.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>October 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Malnutrition</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dabigatran</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
