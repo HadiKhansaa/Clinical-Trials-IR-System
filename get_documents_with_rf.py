@@ -13,4 +13,4 @@ for key in relevance_feedback.keys():
 print(f"Number of unique documents: {len(unique_documents)}")
 
 with open('documents.json', 'w') as file:
-    json.dump(list(unique_documents), file)
+    json.dump(sorted(list(unique_documents)), file)

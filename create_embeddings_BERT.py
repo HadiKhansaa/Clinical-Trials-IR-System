@@ -28,7 +28,7 @@ def extract_components(xml_content):
     title = root.findtext('.//brief_title', default='').strip()
 
     # Extract detailed description
-    detailed_desc = root.findtext('.//detailed_description/textblock', default='').strip()
+    detailed_desc = root.findtext('.//brief_summary/textblock', default='').strip()
     detailed_desc = re.sub(r'\s+', ' ', detailed_desc)  # Remove excessive whitespace
 
     # Extract inclusion and exclusion criteria
@@ -71,7 +71,8 @@ def create_bert_embeddings(text, tokenizer, model):
     return embeddings
 
 if __name__ == "__main__":
-    PATH_TO_TRIALS = 'trials'
+    # PATH_TO_TRIALS = 'C:\\Users\\Hp\\Documents\\CMPS M\\CMPS 365\\project\\trecs\\trials'
+    PATH_TO_TRIALS = 'topic1_trials'
 
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     model = BertModel.from_pretrained('bert-base-uncased')
@@ -87,33 +88,32 @@ if __name__ == "__main__":
 
     i = 1
     for folder in os.listdir(PATH_TO_TRIALS):
-        for sub_folder in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-            for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder, sub_folder)):
-                with open(os.path.join(PATH_TO_TRIALS, folder, sub_folder, file), 'r') as f:
-                    if file.endswith('.xml') and file[:-4] in documents: # check if file is in documents with relevence feedback
-                        try:
-                            content = f.read()
-                        except:
-                            continue
+        for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
+            with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
+                if file.endswith('.xml') and file[:-4] in documents: # check if file is in documents with relevence feedback
+                    try:
+                        content = f.read()
+                    except:
+                        continue
 
-                        title, detailed_desc, criteria_text, mesh_terms, gender, minimum_age, maximum_age = extract_components(content)
-                        if detailed_desc == '':
-                            detailed_desc = "No detailed description available"
-                        if criteria_text == '':
-                            criteria_text = "No criteria available"
-                        if mesh_terms == '':
-                            mesh_terms = "No mesh terms available"
-        
-                        combined_text = f"Title: {title}\n\nDescription: {detailed_desc}\n\nCriteria: {criteria_text}\n\nMesh Terms: {mesh_terms}\n\nGender Required: {gender}\n\nMinimum Age: {minimum_age}\n\nMaximum Age: {maximum_age}\n\n"
+                    title, detailed_desc, criteria_text, mesh_terms, gender, minimum_age, maximum_age = extract_components(content)
+                    if detailed_desc == '':
+                        detailed_desc = "No brief summary available"
+                    if criteria_text == '':
+                        criteria_text = "No criteria available"
+                    if mesh_terms == '':
+                        mesh_terms = "No mesh terms available"
+    
+                    combined_text = f"Title: {title}\n\nSummary: {detailed_desc}\n\nCriteria: {criteria_text}\n\nMesh Terms: {mesh_terms}\n\nGender Required: {gender}\n\nMinimum Age: {minimum_age}\n\nMaximum Age: {maximum_age}\n\n"
 
-                        # print(file[:-4])
-                        # print(combined_text)
+                    # print(file[:-4])
+                    # print(combined_text)
 
-                        doc_id = file[:-4]  # Assuming file names are the document IDs
-                        trial_embeddings[doc_id] = create_bert_embeddings(combined_text, tokenizer, model)
+                    doc_id = file[:-4]  # Assuming file names are the document IDs
+                    trial_embeddings[doc_id] = create_bert_embeddings(combined_text, tokenizer, model)
 
-                        print(f"Processed {i} files")  # Print progress
-                        i += 1
+                    print(f"Processed {i} files")  # Print progress
+                    i += 1
 
     # Save embeddings to a JSON file
     with open('trial_embeddings.json', 'w') as f:
