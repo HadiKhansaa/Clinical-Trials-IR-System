@@ -14,6 +14,19 @@ nltk.download('stopwords')
 # Initialize stemmer
 stemmer = PorterStemmer()
 
+#fuction to find trial and load it
+def find_trial(trial_id):
+    PATH_TO_TRIALS = 'topic1_trials'
+    for folder in os.listdir(PATH_TO_TRIALS):
+        for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
+            if file[:-4] == trial_id:
+                with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
+                    try:
+                        content = f.read()
+                    except:
+                        continue
+                    return content
+                    
 # Function to extract different components using regex
 def extract_components(content):
     inc_match = re.search(r'<textblock>.*?Inclusion Criteria:(.*?)Exclusion Criteria:(.*?)</textblock>', content, re.DOTALL)
@@ -56,7 +69,9 @@ if __name__ == "__main__":
     title_desc_mesh = []
     doc_ids = []
 
-    PATH_TO_TRIALS = 'trials/ClinicalTrials.2021-04-27.part1'
+    # PATH_TO_TRIALS = 'trials/ClinicalTrials.2021-04-27.part1'
+    PATH_TO_TRIALS = 'topic1_trials'
+
 
     i = 1
     # Iterate over folders and files

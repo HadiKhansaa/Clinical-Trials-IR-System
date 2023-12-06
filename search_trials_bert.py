@@ -6,6 +6,8 @@ import os
 
 import xml.etree.ElementTree as ET
 
+from compute_ndcg import computeNDCG
+
 def is_eligible_for_trial(topic, trial_xml):
     gender, min_age, max_age = extract_trial_criteria(trial_xml)
 
@@ -62,12 +64,11 @@ def extract_trial_criteria(trial_xml):
 
 #fuction to find trial and load it
 def find_trial(trial_id):
-    PATH_TO_TRIALS = 'trials'
+    PATH_TO_TRIALS = 'topic1_trials'
     for folder in os.listdir(PATH_TO_TRIALS):
-        for sub_folder in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-            for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder, sub_folder)):
+        for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
                 if file[:-4] == trial_id:
-                    with open(os.path.join(PATH_TO_TRIALS, folder, sub_folder, file), 'r') as f:
+                    with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
                         try:
                             content = f.read()
                         except:
@@ -125,16 +126,38 @@ def compute_top_10_similarities(topic_embeddings, trial_embeddings):
 
     return results
 
-# Load embeddings
-topic_embeddings = load_embeddings('topic_embeddings.json')
-trial_embeddings = load_embeddings('trial_embeddings.json')
 
-# Compute top-10 similarities
-top_10_results = compute_top_10_similarities(topic_embeddings, trial_embeddings)
+if __name__ == "__main__":
+    # Load embeddings
+    topic_embeddings = load_embeddings('topic_embeddings.json')
+    trial_embeddings = load_embeddings('trial_embeddings.json')
 
-# Print the results
-for topic, trials in top_10_results.items():
-    print(f"Topic {topic}:")
-    for trial, score in trials:
-        print(f"  - Trial ID: {trial}, Similarity: {score:.4f}")
-    print()
+    # Compute top-10 similarities
+    top_10_results = compute_top_10_similarities(topic_embeddings, trial_embeddings)
+
+    # Print the results
+    i=1
+    for topic, trials in top_10_results.items():
+        if(i>1):
+            break
+        i+=1
+        print(f"Topic {topic}:")
+        for trial, score in trials:
+            print(f"  - Trial ID: {trial}, Similarity: {score:.4f}")
+        print()
+
+
+        json_file_path = 'relevance_feedback.json'
+
+        # Load the relevance scores from the JSON file
+        with open(json_file_path, 'r') as file:
+            relevance_scores = json.load(file)
+
+        document_ids = [doc for doc, _ in trials]
+
+        # Create an array of relevance scores for the retrieved documents
+        relevance_array = [relevance_scores.get(f"1_{doc_id}", 0) for doc_id in document_ids]
+
+        # compute ndcg
+        print(relevance_array)
+        computeNDCG([relevance_array])
