@@ -62,17 +62,17 @@ def extract_trial_criteria(trial_xml):
 
 #fuction to find trial and load it
 def find_trial(trial_id):
-    PATH_TO_TRIALS = 'trials'
-    for folder in os.listdir(PATH_TO_TRIALS):
-        for sub_folder in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-            for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder, sub_folder)):
-                if file[:-4] == trial_id:
-                    with open(os.path.join(PATH_TO_TRIALS, folder, sub_folder, file), 'r') as f:
-                        try:
-                            content = f.read()
-                        except:
-                            continue
-                        return content
+    PATH_TO_TRIALS = 'trials_query1'
+    # for folder in os.listdir(PATH_TO_TRIALS):
+        # for sub_folder in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
+    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
+        if file[:-4] == trial_id:
+            with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
+                try:
+                    content = f.read()
+                except:
+                    continue
+                return content
 
 def load_topic(topic_id, xml_file_path):
     # Read the XML file
@@ -110,13 +110,13 @@ def compute_top_10_similarities(topic_embeddings, trial_embeddings):
         for trial_id in trial_ids:
             trial_xml = find_trial(trial_id)
 
-            # Check if the trial is eligible for the topic
-            if not is_eligible_for_trial(topic, trial_xml):
-                # print(f"Trial {trial_id} is not eligible for topic {topic_id}")
-                continue
-
             trial_emb = np.array(trial_embeddings[trial_id]).reshape(1, -1)
             sim_score = cosine_similarity(topic_emb, trial_emb)[0][0]
+
+            # Check if the trial is eligible for the topic
+            if not is_eligible_for_trial(topic, trial_xml):
+                sim_score-=0.005 #penalty
+
             similarities.append((trial_id, sim_score))
 
         # Sort by similarity score and get top 10
@@ -125,15 +125,59 @@ def compute_top_10_similarities(topic_embeddings, trial_embeddings):
 
     return results
 
-# Load embeddings
-topic_embeddings = load_embeddings('topic_embeddings.json')
-trial_embeddings = load_embeddings('trial_embeddings.json')
+def rerank(top_10_results, trial_embeddings_summary_volun, topic_embeddings_summary_volun):
+    topic_id = "topic_1"
+    trial_ids = [trial_id for trial_id, score in top_10_results]
+    results = {}
 
-# Compute top-10 similarities
-top_10_results = compute_top_10_similarities(topic_embeddings, trial_embeddings)
+    similarities = []
+    topic_emb = np.array(topic_embeddings_summary_volun[topic_id]).reshape(1, -1)
+    topic = load_topic(int(topic_id.split('_')[1]), "topics.xml")
+    for trial_id in trial_ids:
+        trial_xml = find_trial(trial_id)
+
+        trial_emb = np.array(trial_embeddings_summary_volun[trial_id]).reshape(1, -1)
+        sim_score = cosine_similarity(topic_emb, trial_emb)[0][0]
+
+        # Check if the trial is eligible for the topic
+        if not is_eligible_for_trial(topic, trial_xml):
+            sim_score-=0.005 #penalty
+
+        similarities.append((trial_id, sim_score))
+
+        # Sort by similarity score and get top 10
+        top_10_trials = sorted(similarities, key=lambda x: x[1], reverse=True)[:10]
+        results[topic_id] = top_10_trials
+
+    return results
+
+
+topic_embeddingsClinical = load_embeddings('topic_embeddings_clinicalBert.json')
+trial_embeddingsClinical = load_embeddings('trial_embeddings_clinicalBert_summary.json')
+
+top_10_resultsClinical = compute_top_10_similarities(topic_embeddingsClinical, trial_embeddingsClinical)
+
+#before reranking
+# Print the results
+print("Before reranking:")
+for topic, trials in top_10_resultsClinical.items():
+    if topic == "topic_2":
+        break
+    print(f"Topic {topic}:")
+    for trial, score in trials:
+        print(f"  - Trial ID: {trial}, Similarity: {score:.4f}")
+    print()
+
+topic_embeddings = load_embeddings('topic_embeddings.json')
+trial_embeddings = load_embeddings('trial_embeddings_summary_volun.json')
+
+top_10_results = rerank(top_10_resultsClinical["topic_1"], trial_embeddings, topic_embeddings)
 
 # Print the results
+print("After reranking:")
 for topic, trials in top_10_results.items():
+    if topic == "topic_2":
+        break
     print(f"Topic {topic}:")
     for trial, score in trials:
         print(f"  - Trial ID: {trial}, Similarity: {score:.4f}")
