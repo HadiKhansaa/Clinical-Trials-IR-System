@@ -26,5 +26,5 @@ if __name__ == "__main__":
 
     # Saving the topic embeddings to a JSON file
     topic_embeddings_json = {f"topic_{i+1}": emb for i, emb in enumerate(topic_embeddings)}
-    with open('files_query2\\topic_embeddings_BERT.json', 'w') as f:
+    with open('files_query3\\topic_embeddings_Clinical.json', 'w') as f:
         json.dump(topic_embeddings_json, f)
