@@ -153,58 +153,58 @@ def rerank(top_10_results, trial_embeddings_summary_volun, topic_embeddings_summ
 
     return results
 
+if __name__ == "__main__":
+    json_file_path = 'relevance_feedback.json'
 
-json_file_path = 'relevance_feedback.json'
+    # Load the relevance scores from the JSON file
+    with open(json_file_path, 'r') as file:
+        relevance_scores = json.load(file)
 
-# Load the relevance scores from the JSON file
-with open(json_file_path, 'r') as file:
-    relevance_scores = json.load(file)
+    topic_embeddingsClinical = load_embeddings('files_query3\\topic_embeddings_Clinical.json')
+    trial_embeddingsClinical = load_embeddings('files_query3\\trial_embeddings_Clinical_q3.json')
 
-topic_embeddingsClinical = load_embeddings('files_query3\\topic_embeddings_Clinical.json')
-trial_embeddingsClinical = load_embeddings('files_query3\\trial_embeddings_Clinical_q3.json')
+    top_10_resultsClinical = compute_top_10_similarities(topic_embeddingsClinical, trial_embeddingsClinical)
 
-top_10_resultsClinical = compute_top_10_similarities(topic_embeddingsClinical, trial_embeddingsClinical)
+    #before reranking
+    # Print the results
+    print("Before reranking:")
+    for topic, trials in top_10_resultsClinical.items():
+        if topic == "topic_2":
+            break
+        print(f"Topic {topic}:")
+        for trial, score in trials:
+            print(f"  - Trial ID: {trial}, Similarity: {score:.4f}")
+        print()
 
-#before reranking
-# Print the results
-print("Before reranking:")
-for topic, trials in top_10_resultsClinical.items():
-    if topic == "topic_2":
-        break
-    print(f"Topic {topic}:")
-    for trial, score in trials:
-        print(f"  - Trial ID: {trial}, Similarity: {score:.4f}")
-    print()
+        document_ids = [doc for doc, _ in trials]
 
-    document_ids = [doc for doc, _ in trials]
+        # Create an array of relevance scores for the retrieved documents
+        relevance_array = [relevance_scores.get(f"3_{doc_id}", 0) for doc_id in document_ids]
 
-    # Create an array of relevance scores for the retrieved documents
-    relevance_array = [relevance_scores.get(f"3_{doc_id}", 0) for doc_id in document_ids]
+        # compute ndcg
+        print(relevance_array)
+        computeNDCG([relevance_array])
 
-    # compute ndcg
-    print(relevance_array)
-    computeNDCG([relevance_array])
+    topic_embeddings = load_embeddings('files_query3\\topic_embeddings_BERT.json')
+    trial_embeddings = load_embeddings('files_query3\\trial_embeddings_BERT_q3.json')
 
-topic_embeddings = load_embeddings('files_query3\\topic_embeddings_BERT.json')
-trial_embeddings = load_embeddings('files_query3\\trial_embeddings_BERT_q3.json')
+    top_10_results = rerank(top_10_resultsClinical["topic_1"], trial_embeddings, topic_embeddings)
 
-top_10_results = rerank(top_10_resultsClinical["topic_1"], trial_embeddings, topic_embeddings)
+    # Print the results
+    print("After reranking:")
+    for topic, trials in top_10_results.items():
+        if topic == "topic_2":
+            break
+        print(f"Topic {topic}:")
+        for trial, score in trials:
+            print(f"  - Trial ID: {trial}, Similarity: {score:.4f}")
+        print()
 
-# Print the results
-print("After reranking:")
-for topic, trials in top_10_results.items():
-    if topic == "topic_2":
-        break
-    print(f"Topic {topic}:")
-    for trial, score in trials:
-        print(f"  - Trial ID: {trial}, Similarity: {score:.4f}")
-    print()
+        document_ids = [doc for doc, _ in trials]
 
-    document_ids = [doc for doc, _ in trials]
+        # Create an array of relevance scores for the retrieved documents
+        relevance_array = [relevance_scores.get(f"3_{doc_id}", 0) for doc_id in document_ids]
 
-    # Create an array of relevance scores for the retrieved documents
-    relevance_array = [relevance_scores.get(f"3_{doc_id}", 0) for doc_id in document_ids]
-
-    # compute ndcg
-    print(relevance_array)
-    computeNDCG([relevance_array])
+        # compute ndcg
+        print(relevance_array)
+        computeNDCG([relevance_array])

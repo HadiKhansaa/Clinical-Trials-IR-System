@@ -80,17 +80,17 @@ if __name__ == "__main__":
     doc_ids = []
 
     # PATH_TO_TRIALS = 'C:\\Users\\Hp\\Documents\\CMPS M\\CMPS 365\\project\\trecs\\trials'
-    PATH_TO_TRIALS = 'trials_query1'
+    PATH_TO_TRIALS = 'trials_query2'
 
     # get documents with relevence feedback
-    with open('documents.json', 'r') as file:
-        docs = json.load(file)
-    documents = set(docs)
+    # with open('documents.json', 'r') as file:
+    #     docs = json.load(file)
+    # documents = set(docs)
 
     i = 1
     for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
         with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
-            if file.endswith('.xml') and file[:-4] in documents:
+            if file.endswith('.xml'):
                 try:
                     content = f.read()
                 except:
@@ -120,9 +120,9 @@ if __name__ == "__main__":
     title_desc_mesh_index = create_inverted_index(tokenized_title_desc_mesh, doc_ids)
 
     # Save to JSON files
-    with open('inclusion_criteria_index_bm25.json', 'w') as f:
+    with open('files_query2\\IC_bm25_index.json', 'w') as f:
         json.dump(inclusion_index, f)
-    with open('exclusion_criteria_index_bm25.json', 'w') as f:
+    with open('files_query2\\EC_bm25_index.json', 'w') as f:
         json.dump(exclusion_index, f)
-    with open('title_desc_mesh_index_bm25.json', 'w') as f:
+    with open('files_query2\\TSM_bm25_index.json', 'w') as f:
         json.dump(title_desc_mesh_index, f)

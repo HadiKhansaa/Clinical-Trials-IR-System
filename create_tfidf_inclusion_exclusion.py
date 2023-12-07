@@ -16,7 +16,7 @@ stemmer = PorterStemmer()
 
 #fuction to find trial and load it
 def find_trial(trial_id):
-    PATH_TO_TRIALS = 'trials_query1'
+    PATH_TO_TRIALS = 'trials_query2'
     for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
         if file[:-4] == trial_id:
             with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
@@ -70,7 +70,7 @@ if __name__ == "__main__":
     doc_ids = []
 
     # PATH_TO_TRIALS = 'trials/ClinicalTrials.2021-04-27.part1'
-    PATH_TO_TRIALS = 'trials_query1'
+    PATH_TO_TRIALS = 'trials_query2'
 
 
     i = 1
@@ -104,9 +104,9 @@ if __name__ == "__main__":
     title_desc_mesh_index = create_inverted_index(vectorizer_title_desc_mesh.get_feature_names_out(), tfidf_title_desc_mesh, doc_ids)
 
     # Save to JSON files
-    with open('inclusion_criteria_index.json', 'w') as f:
+    with open('files_query2\\IC_tfidf_index.json', 'w') as f:
         json.dump(inclusion_index, f)
-    with open('exclusion_criteria_index.json', 'w') as f:
+    with open('files_query2\\EC_tfidf_index.json', 'w') as f:
         json.dump(exclusion_index, f)
-    with open('title_desc_mesh_index.json', 'w') as f:
+    with open('files_query2\\TSM_tfidf_index.json', 'w') as f:
         json.dump(title_desc_mesh_index, f)
