@@ -1,0 +1,382 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00412386</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00000134</org_study_id>
+    <nct_id>NCT00412386</nct_id>
+  </id_info>
+  <brief_title>Abnormal 3-D MRI Flow Patterns in Adolescents Patients With Bicuspid Aortic Valve</brief_title>
+  <official_title>Abnormal 3-dimensional MRI Flow Patterns and Plasma Matrix Metalloproteinase Levels Predict Dilatation of Ascending Aorta in Adolescent Patients With Bicuspid Aortic Valve</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Children's Healthcare of Atlanta</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Bicuspid aortic valve (BAV) is a form of congenital heart disease (the person is born with&#xD;
+      it). With BAV, the heart valves in the aorta (the blood vessel that takes blood away from the&#xD;
+      heart to the body) are not formed right. A person with BAV has only 2 leaflets instead of&#xD;
+      three and the valve leaflets are often thickened. This can result in the block of blood flow&#xD;
+      across the valve (aortic stenosis) and/or valve leakage (aortic valve regurgitation).&#xD;
+&#xD;
+      From our experience at least 1/3 of patients with BAV will eventually develop complications.&#xD;
+      Many patients with BAV do not develop significant problems until well into adulthood. The&#xD;
+      most common problem in BAV patients is aortic dilatation and/or dissection. At this point, we&#xD;
+      do not know on who or why aortic dilatation or dissection occurs.It is unclear whether the&#xD;
+      enlargement is because of abnormal blood flow patterns, as a result of the shape of the&#xD;
+      bicuspid valve, or whether it is because the way the aortic valve and/or vessel is formed. In&#xD;
+      other words, the abnormal shape of the aortic valve may cause blood to flow in a different&#xD;
+      way than it normally would, causing damage to the aorta as blood leaves the heart. There may&#xD;
+      be a problem with the way the aortic valve connects to the aorta, which causes the aorta to&#xD;
+      get larger or break down over time. It is also possible that the wall of the aorta in&#xD;
+      patients with BAV is weaker than it would be in patients without BAV. At this point, we do&#xD;
+      not know. It is believed by the investigators that if we can determine why the aorta gets&#xD;
+      larger or tears, we can minimize the effects or prevent them altogether.&#xD;
+&#xD;
+      This study will collect blood and cardiac MRI images from forty-five (45) patients at&#xD;
+      Children's Healthcare of Atlanta Egleston. There will be a study group (patients with BAV)&#xD;
+      and a control group of patients (patients scheduled for a cardiac MRI but without BAV).&#xD;
+&#xD;
+      All enrolled patients will have blood drawn by nursing staff from a peripheral vein and&#xD;
+      collected in tubes for testing the day of their MRI scan. This test is called a plasma matrix&#xD;
+      metalloproteinase level. It is believed that patients who have bicuspid aortic valves and&#xD;
+      dilated aortas have high plasma levels of this protein. This study will compare the MRI&#xD;
+      images and plasma matrix protein levels of all the patients participating in the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction-Background The reported incidence of bicuspid aortic valve (BAV) based largely&#xD;
+      on autopsy studies varies between 0.4% to 2.25% of the population. At least a third of&#xD;
+      patients with a bicuspid aortic valve will eventually develop complications which include&#xD;
+      aortic stenosis, aortic regurgitation, infective endocarditis, aortic dilatation, aortic&#xD;
+      aneurysm formation, or aortic dissection. Given that in combination all other forms of&#xD;
+      congenital heart disease are thought to be present in 0.8% of live births, Ward has suggested&#xD;
+      that bicuspid aortic valves are likely to result in more morbidity and possibly mortality&#xD;
+      than the effects of all other congenital heart defects combined. Since many patients with&#xD;
+      bicuspid aortic valves do not develop significant problems until well into adulthood,&#xD;
+      clinicians have not focused much attention on the &quot;normally&quot; functioning bicuspid aortic&#xD;
+      valve. However, at a mean age of 17.8 years 52% of males with normally functioning aortic&#xD;
+      valves already have aortic dilatation, implying that associated aortic stenosis and/or&#xD;
+      regurgitation is not an obligate precursor.&#xD;
+&#xD;
+      Previous studies have demonstrated an association between bicuspid aortic valves and&#xD;
+      dilatation of the aorta. Gurvitz et al. performed echocardiographic measurements of the&#xD;
+      aortas of children and found that those with bicuspid aortic valves had significantly larger&#xD;
+      aortas compared with controls, regardless of the presence of aortic stenosis or&#xD;
+      regurgitation. Nevertheless, the definition of clinical predictors of the risk for the&#xD;
+      development of aortic dilatation/dissection and an understanding of the mechanisms leading to&#xD;
+      aortic dilatation are lacking. Specifically, it remains unclear as yet whether such&#xD;
+      dilatation is secondary to abnormal flow patterns and shear stresses resulting from the&#xD;
+      bicuspid valve morphology or whether it is a manifestation of a distinct underlying&#xD;
+      structural problem with not only the aortic valve but also the aortic root including the&#xD;
+      ascending aorta.&#xD;
+&#xD;
+      Fernandes et al. recently reviewed the echocardiograms of 1,135 children with bicuspid aortic&#xD;
+      valves and found that there were differences among the patients related to aortic valve&#xD;
+      morphology. For instance, associated moderate or greater aortic stenosis was present in 9.7%&#xD;
+      of patients with fusion of the intercoronary commissure of the aortic valve, vs 25.9% of&#xD;
+      patients with fusion of the right-coronary and non-coronary commissure, and in none of the&#xD;
+      patients with fusion of the left coronary and non-coronary aortic valve leaflets. Moreover,&#xD;
+      fusion of the right coronary and non-coronary cusps resulted in a two-fold higher risk of at&#xD;
+      least moderate aortic regurgitation compared with the other types of bicuspid aortic valves.&#xD;
+      However, this generalized division of bicuspid aortic valves into three types based on which&#xD;
+      commissure is fused is likely an oversimplification, and Fernandes did not report on the&#xD;
+      relationship between valve morphology and aortic root dilatation. However, Novaro et al.&#xD;
+      found that adult patients (mean age of 54 year) with fusion of the right/non-coronary&#xD;
+      commissure tended to have larger mid-ascending aortas compared with patients with fusion of&#xD;
+      the intercoronary commissure, but the difference did not reach statistical significance.&#xD;
+      Nevertheless, both personal clinical observations and recent publications support the&#xD;
+      assertion that individual bicuspid aortic valves may function quite differently from one&#xD;
+      another. For instance, there are bicuspid aortic valves in which there are two nearly&#xD;
+      symmetric leaflets whereas others may have a dominant cusp to varying degrees, resulting in a&#xD;
+      markedly eccentric orifice when the valve opens. In an elegant experimental model using&#xD;
+      excised bicuspid valves analyzed with intravascular ultrasound and high-resolution&#xD;
+      videography, Robicsek et al demonstrated that asymmetric bicuspid valves &quot;induced extensive&#xD;
+      recirculation vortices in the ascending aorta.&quot; They found that the vortex was not &quot;trapped&quot;&#xD;
+      in the sinuses of Valsalva as it is in a normal tricuspid aortic valve, but instead is&#xD;
+      extended into the ascending aorta and aimed toward the right anterolateral aspect of the&#xD;
+      aorta (the convexity of the aorta). This correlates with published reports and our own&#xD;
+      personal experience in performing clinical cardiac magnetic resonance imaging (CMR) studies&#xD;
+      on patients with bicuspid aortic valves and aortic root dilatation in whom there is oft-noted&#xD;
+      asymmetry in the pattern of dilatation of the ascending aorta and resulting in an oval-shaped&#xD;
+      rather than a circular aortic root and ascending aorta.&#xD;
+&#xD;
+      Extrapolating from the studies of Robicsek, variations present in the geometry of bicuspid&#xD;
+      valves are likely to result in varying degrees of turbulence even in the absence aortic valve&#xD;
+      stenosis. In theory, the turbulent blood flow directed at a particular segment of the aortic&#xD;
+      wall may result in local changes to the aortic wall leading to asymmetric aortic dilatation.&#xD;
+      These changes are postulated to result from receptors present on both endothelial and smooth&#xD;
+      muscle cells that have the ability to adapt to sheer stress by altering local gene expression&#xD;
+      which in turn modulates the tension between focal adhesion sites, integrins, and the&#xD;
+      extracellular matrix. Moreover, fibrillin-1, which is deficient in patients with dilated&#xD;
+      aortic roots and Marfan syndrome, has also been found to be deficient in the aortas of&#xD;
+      patients with bicuspid aortic valves. Similarly, Cotrufo et al. found asymmetric patterns of&#xD;
+      matrix protein expression and content and asymmetric patterns of elastic medial wall&#xD;
+      degeneration in the aortic walls of patients with bicuspid aortic valves. In addition, these&#xD;
+      investigators found differences between patients with bicuspid aortic valves and associated&#xD;
+      stenosis vs regurgitation, suggesting that focally-directed aortic turbulence may be&#xD;
+      influencing local gene expression and potentially explaining the asymmetric pattern of aortic&#xD;
+      dilatation that is often observed. Lastly, several recent studies have highlighted the&#xD;
+      relationship between circulating plasma MMP-2 and MMP-9 levels either in aortic dilatation in&#xD;
+      adult patients with thoracic or abdominal aortic aneurysms or in adults with aortic&#xD;
+      dilatation secondary to systemic hypertension. In addition, histologic examination of aortic&#xD;
+      aneurysm tissue in adult patients with bicuspid aortic valves demonstrated increased MMP-2&#xD;
+      expression vs. aortic aneurysms in adults with trileaflet aortic valves.&#xD;
+&#xD;
+      Recently investigators have used cardiac MRI (CMR) to study flow patterns in the aorta. CMR&#xD;
+      is a noninvasive technique that permits 3-dimensional anatomic characterization as well as&#xD;
+      assessment of aortic flow. Markl et al. have used time-resolved 3-dimensional phase-contrast&#xD;
+      magnetic resonance imaging (3D-PCMRI) techniques to characterize aortic flow in both normal&#xD;
+      adults and in adults after aortic root replacement. These authors established that&#xD;
+      3-dimensional magnetic resonance velocity mapping was a useful technique to visualize and&#xD;
+      qualitatively assess the complex aortic flow patterns in both normal controls and in patients&#xD;
+      with aortic pathology. Similarly, Kvitting et al., who studied both adult volunteers and 2&#xD;
+      patients with Marfan syndrome following aortic valve sparing operations, found that the&#xD;
+      alterations to the normal aortic sinus architecture following surgery resulted in a loss of&#xD;
+      the normal vortical flow patterns seen in the aortic sinuses.&#xD;
+&#xD;
+      Specific Aims&#xD;
+&#xD;
+        1. Develop clinically feasible MRI imaging strategies to perform a complete evaluation of&#xD;
+           structure and functional dynamics of the heart, including the aortic valve, aortic root,&#xD;
+           and ascending aorta, as well as full volumetric 3-D ciné flow velocity encoding of the&#xD;
+           entire aortic root region and proximal ascending aorta.&#xD;
+&#xD;
+        2. Define qualitative and quantitative metrics to characterize different types of bicuspid&#xD;
+           aortic valve morphology and flow patterns. These metrics will be based on structural&#xD;
+           information and the blood flow patterns in the aortic root, observed in MRI studies of&#xD;
+           patients with diagnosed bicuspid aortic valves, as compared to observation in control&#xD;
+           subjects with known normal aortic valves and anatomy of ascending aorta.&#xD;
+&#xD;
+        3. Correlate different bicuspid aortic valve morphologies and observed characteristic flow&#xD;
+           patterns with the risk of development of aortic dilatation at various levels of the&#xD;
+           aorta, such as the aortic root, proximal ascending aorta, and distal ascending aorta.&#xD;
+&#xD;
+        4. Quantify plasma concentrations of matrix metalloproteinase-2 (MMP-2) and matrix&#xD;
+           metalloproteinase-9 (MMP-9) levels as well as the levels of their specific tissue&#xD;
+           inhibitors, respectively tissue inhibitor of metalloproteinase-2 (TIMP-2) and tissue&#xD;
+           inhibitor of metalloproteinase-1 (TIMP-1) in controls and bicuspid aortic valve&#xD;
+           patients.&#xD;
+&#xD;
+        5. Correlate biochemical markers of extracellular matrix degradation (both MMP and TIMP)&#xD;
+           with the presence or absence of aortic dilatation in both controls and in patients with&#xD;
+           bicuspid aortic valves.&#xD;
+&#xD;
+      Study Design We will prospectively perform cardiac magnetic resonance studies on 30 patients,&#xD;
+      ages 10-18 years with known bicuspid aortic valves (BAV), and on 15 normal control subjects.&#xD;
+      The BAV patient population will consist of 15 patients with aortic root dilatation for body&#xD;
+      surface area as determined by published pediatric echocardiographic normal values and 15&#xD;
+      without aortic dilatation. Echocardiographic normals indexed for body surface area will be&#xD;
+      used, as there are no published normal CMR values for aortic dimensions in pediatric patients&#xD;
+      using cine MR techniques; however aortic measurements by echocardiography and CMR in a&#xD;
+      pediatric patient population have been shown to reveal no significant differences except for&#xD;
+      the descending aorta. Since either significant aortic stenosis or regurgitation has been&#xD;
+      associated with aortic dilatation, patients will be excluded if they have more than mild&#xD;
+      stenosis or regurgitation.&#xD;
+&#xD;
+      As in previous published reports, mild aortic stenosis will be classified as a mean gradient&#xD;
+      across the aortic valve &lt;17 mmHg on routine clinical echocardiography. Mild aortic&#xD;
+      regurgitation will be defined on routine clinical echocardiography as resulting in a left&#xD;
+      ventricular end-diastolic dimension &lt;2 standard deviations below the mean for body surface&#xD;
+      area and the absence of pan-diastolic retrograde flow on pulsed Doppler evaluation of the&#xD;
+      abdominal descending aorta. Studies will be performed without sedation, but with&#xD;
+      breath-holding instructions as appropriate.&#xD;
+&#xD;
+      Controls will consist of 15 patients with normal aortic valves and aortas who are undergoing&#xD;
+      clinically indicated CMR studies for reasons such as chest pain or assessment for&#xD;
+      cardiomyopathy and who are found to have structurally/functionally normal hearts.&#xD;
+&#xD;
+      MRI Methods Cardiac magnetic resonance (CMR) studies will be performed in a GE 1.5 T MR&#xD;
+      system with Release 12M4 cardiovascular software. MR imaging will focus on of visualization&#xD;
+      in high definition of the anatomy of the aortic valve and aortic root utilizing 2-dimensional&#xD;
+      and 3-dimensional FIESTA cine MR sequences. Flow data will be acquired using 2-dimensional,&#xD;
+      or, whenever allowed within imaging time constraints, fully 3-dimensional phase velocity&#xD;
+      mapping sequences with full vector-encoding of velocities at 200 cm/s maximum velocity&#xD;
+      encoding VENC, adjusted up if velocity aliasing is observed. For 2-D flow acquisitions in&#xD;
+      planes across the main flow direction the in-plane directional components may be acquired at&#xD;
+      lower velocity encoding to achieve higher accuracy. To resolve blood flow and cardiovascular&#xD;
+      anatomy as a function of the cardiac phase (cine imaging), image acquisition will be&#xD;
+      synchronized with the vector cardiogram to reconstruct approximately 16-20 cine images&#xD;
+      representing the different phases of the cardiac cycle. Initial data acquisition for&#xD;
+      structural and velocity-encoded imaging will be performed with standard pulse sequence&#xD;
+      software as supplied by General Electric with the imaging device. These scans will initially&#xD;
+      be acquired in free-breathing mode. A series of 5-10 studies on normal volunteers will be&#xD;
+      conducted to optimize the protocol within those constraints, and develop guidelines for an&#xD;
+      prescribed add-on imaging protocol, ideally limited to not more than 20 minutes of scan time,&#xD;
+      for acquisition of the aortic scans. Priority solutions for respiratory motion compensation&#xD;
+      during the acquisition depending on the demonstrated reliability of the available options&#xD;
+      (free-breathing, breath-holding, respiratory k-space ordering, navigator- or belt &amp;&#xD;
+      bellows-monitored respiratory gating) in these volunteer test studies, and based on the&#xD;
+      capability of each study subject to accommodate these options. The scans defined in this&#xD;
+      protocol will be added initially to the clinical protocol of all subjects in the study. In&#xD;
+      parallel with the protocol development and implementation by standards pulse sequence&#xD;
+      methods, we will pursue a collaboration effort with the MRI imaging resource center at&#xD;
+      Stanford University. The Stanford group has developed a highly optimized image acquisition&#xD;
+      method which allows fully vector-encoded 3-D respiration-ordered acquisition of an&#xD;
+      arbitrarily positioned rectangular 3-D imaging volume. We anticipate that this acquisition&#xD;
+      software, which will require running specialized pulse sequence software and off-line image&#xD;
+      reconstruction on one of our computer workstations, will improve the coverage and overall&#xD;
+      resolution of the flow-encoded data significantly. We have the required expertise and&#xD;
+      research software tools available from General Electric, but currently only enabled for&#xD;
+      research on the WCI scanner at Emory. For this project, but possibly concurrently with&#xD;
+      transition of software development efforts for other research projects (Noquist project) we&#xD;
+      will request authorization from GE to run the required research patches on the Egleston 1.5T&#xD;
+      GE instrument.&#xD;
+&#xD;
+      Plasma MMP and TIMP quantification methods Blood samples will be taken from peripheral veins&#xD;
+      by nursing staff.MMP and TIMP levels will then be measured using commercially available&#xD;
+      sandwich enzyme-linked immunosorbent assay (ELISA) kits which have previously been validated&#xD;
+      for use in human tissue homogenates.Serum MMP levels will be determined using MMP-2 and MMP-9&#xD;
+      monoclonal antibodies.Levels of TIMP-1 and -2 will be determined using monoclonal antibodies.&#xD;
+&#xD;
+      Image Processing Methods Visualization and quantitative analysis of velocity mapping data&#xD;
+      will be performed, initially exclusively, utilizing in-house HeartViz software developed by&#xD;
+      Marijn Brummer, Ph.D.The current version of the software allows fully interactive 3-D dynamic&#xD;
+      integrated display of structural information through texture-mapped slice display and&#xD;
+      time-resolved volume rendering, in conjunction with dynamic flow vector field visualization&#xD;
+      from multiple flow acquisitions in the same view. This software has been developed by the&#xD;
+      investigators during the past ten years, and has been proposed and used for evaluation of a&#xD;
+      variety of congenital and acquired cardiac diseases, including aortic coarctations, VSD,&#xD;
+      aortic dissections, and peri-atrial tumors.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2006</start_date>
+  <completion_date type="Actual">March 2012</completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">45</enrollment>
+  <condition>Congenital Heart Disease</condition>
+  <condition>Bicuspid Aortic Valve</condition>
+  <arm_group>
+    <arm_group_label>BAV</arm_group_label>
+    <description>patients with BAV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal control</arm_group_label>
+    <description>normal patients</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients with bicuspid Aortic valve, normal healthy volunteers, and congential heart&#xD;
+        disease without bicuspid aortic valve&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  diagnosed with Bicuspid Aortic Valve 15 with aortic root dilatation 15 without aortic&#xD;
+             root dilatation&#xD;
+&#xD;
+          -  15 patients with congenital heart disease, but not bicuspid aortic valve&#xD;
+&#xD;
+          -  meet eligibility criteria for MRI&#xD;
+&#xD;
+          -  10-18 years of age&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  under 10 years and over 19 years of age&#xD;
+&#xD;
+          -  systemic hypertension for age and height&#xD;
+&#xD;
+          -  Marfan syndrome&#xD;
+&#xD;
+          -  on cardiac or vasoactive medications&#xD;
+&#xD;
+          -  contra-indications to MRI such as metallic implants&#xD;
+&#xD;
+          -  acquired heart disease&#xD;
+&#xD;
+          -  require sedation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Denver Sallee, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Childrens Healthcare of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Robicsek F, Thubrikar MJ, Cook JW, Fowler B. The congenitally bicuspid aortic valve: how does it function? Why does it fail? Ann Thorac Surg. 2004 Jan;77(1):177-85.</citation>
+    <PMID>14726058</PMID>
+  </reference>
+  <reference>
+    <citation>Fernandes SM, Sanders SP, Khairy P, Jenkins KJ, Gauvreau K, Lang P, Simonds H, Colan SD. Morphology of bicuspid aortic valve in children and adolescents. J Am Coll Cardiol. 2004 Oct 19;44(8):1648-51.</citation>
+    <PMID>15489098</PMID>
+  </reference>
+  <reference>
+    <citation>Novaro GM, Tiong IY, Pearce GL, Grimm RA, Smedira N, Griffin BP. Features and predictors of ascending aortic dilatation in association with a congenital bicuspid aortic valve. Am J Cardiol. 2003 Jul 1;92(1):99-101.</citation>
+    <PMID>12842261</PMID>
+  </reference>
+  <reference>
+    <citation>Karakaya O, Barutcu I, Esen AM, Dogan S, Saglam M, Karapinar H, Akgun T, Karavelioglu Y, Esen O, Ozdemir N, Turkmen S, Kaymaz C. Relationship between circulating plasma matrix metalloproteinase-9 (gelatinase-B) concentration and aortic root dilatation. Am J Hypertens. 2006 Apr;19(4):361-5.</citation>
+    <PMID>16580570</PMID>
+  </reference>
+  <verification_date>December 2013</verification_date>
+  <study_first_submitted>December 14, 2006</study_first_submitted>
+  <study_first_submitted_qc>December 14, 2006</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 18, 2006</study_first_posted>
+  <last_update_submitted>December 2, 2013</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 3, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Emory University</investigator_affiliation>
+    <investigator_full_name>Denver Sallee</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Pediatric</keyword>
+  <keyword>Congenital Heart Disease</keyword>
+  <keyword>Imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Heart Defects, Congenital</mesh_term>
+    <mesh_term>Heart Valve Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

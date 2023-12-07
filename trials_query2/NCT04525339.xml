@@ -1,0 +1,215 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04525339</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TAVI &amp; OPCAB</org_study_id>
+    <nct_id>NCT04525339</nct_id>
+  </id_info>
+  <brief_title>Early Outcomes of Concomitant Transcatheter Aortic Valve Implantation and Off-pump Coronary Artery Bypass Grafting in Management of Severe Symptomatic Aortic Stenosis and Coronary Artery Disease</brief_title>
+  <official_title>Early Outcomes of Concomitant Transcatheter Aortic Valve Implantation and Off-pump Coronary Artery Bypass Grafting in Management of Severe Symptomatic Aortic Stenosis and Coronary Artery Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Manchester University NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study Objectives/Specific Aims Overall Goal: To study the outcomes of patients undergoing&#xD;
+      TAVI, their subsequent results and complications.&#xD;
+&#xD;
+        -  Objective 1: Identify risk factors that are predictive of the need for TAVI and CABG&#xD;
+&#xD;
+        -  Objective3:Assess early 3 months outcomes and postoperative results&#xD;
+&#xD;
+      Outcome Measure:&#xD;
+&#xD;
+      1. All-cause mortality within 3 months.&#xD;
+&#xD;
+      Secondary Outcome Measures:&#xD;
+&#xD;
+        1. Stroke&#xD;
+&#xD;
+        2. Myocardial infarction&#xD;
+&#xD;
+        3. Bleeding&#xD;
+&#xD;
+        4. Hospital stay&#xD;
+&#xD;
+        5. Acute kidney injury&#xD;
+&#xD;
+        6. Number of patients with conduction disturbance and pacemaker implantation&#xD;
+&#xD;
+        7. Gradient on implanted valve&#xD;
+&#xD;
+        8. Degree of transvalvular leakage&#xD;
+&#xD;
+        9. 6 weeks follow-up&#xD;
+&#xD;
+       10. 3 months Echo&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Severe symptomatic aortic stenosis in elderly patients represents a surgical challenge for&#xD;
+      cardiac surgeons due to heavy calcifications and associated comorbidities. Such conditions&#xD;
+      usually are associated with dramatic intra and postoperative complications leading to many&#xD;
+      cases being declined for open surgical replacement. Many treatment modalities were described&#xD;
+      including trans-catheter valvutomy but with only temporary improvements and high rates of&#xD;
+      recurrence. Transcatheter Aortic Valve Implantation (TAVI) has offered an alternative&#xD;
+      solution to such cases in which open surgery is deemed too risky or prohibited.&#xD;
+&#xD;
+      Coronary artery disease (CAD) is a common comorbidity in patients undergoing TAVI. It has&#xD;
+      been reported with 40-75% of the patients with increased adverse outcomes.Despite performing&#xD;
+      TAVI alone in these patient has shown significant improvement, yet CAD has showed increased&#xD;
+      risk in terms of hemodynamic instability and risk of myocardial infarction during rapid&#xD;
+      pacing which is an important step during the TAVI procedure.&#xD;
+&#xD;
+      According to the AHA/ACC guidelines, in patients undergoing Aortic valve replacement/ repair&#xD;
+      (AVR) who also have significant CAD, the combination of Coronary artery bypass grafting&#xD;
+      (CABG) and AVR reduces the rates of perioperative Myocardial Infarction, perioperative&#xD;
+      mortality, late mortality, and morbidity when compared with patients not undergoing&#xD;
+      simultaneous CABG, even though the combined operation carries a small but real increased risk&#xD;
+      of mortality (Class II A).&#xD;
+&#xD;
+      Percutaneous coronary intervention (PCI) has been the commonly used treatment modality for&#xD;
+      (CAD) which is usually carried out pre TAVI or less commonly simultaneously with TAVI (mainly&#xD;
+      due to access limitation after valve implantation). In patients with intermediate or high&#xD;
+      SYNTAX scores, CABG remains the standard therapy. Off-pump coronary artery bypass (OPCAB)&#xD;
+      procedure has demonstrated excellent results in these patients, due to the avoidance of&#xD;
+      cardiopulmonary bypass and manipulation of the aorta.&#xD;
+&#xD;
+      Only a few studies in the literature have reported the combined approach of CABG and TAVI in&#xD;
+      treatment of coronary artery disease and severe symptomatic aortic stenosis. Here the&#xD;
+      invesigators decided to study the early three months outcomes of patients undergoing TAVI and&#xD;
+      surgical revascularization.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>3 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of Stroke</measure>
+    <time_frame>I month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of Myocardial infarction</measure>
+    <time_frame>I month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for reexploration</measure>
+    <time_frame>I month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of Acute kidney injury</measure>
+    <time_frame>I month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with conduction disturbance and pacemaker implantation</measure>
+    <time_frame>I month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gradient on implanted valve</measure>
+    <time_frame>3 months Echo</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Degree of transvalvular leakage</measure>
+    <time_frame>3 months Echo</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of Hospital Stay</measure>
+    <time_frame>from day of operation till medically fit for discharge (1 month)</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Aortic Valve Disease</condition>
+  <condition>Coronary Artery Disease</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>TAVI and Off pump CABG</intervention_name>
+    <description>Concomitant Transcatheter aortic valve implanatation and off pump coronary artery bypass grafting</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients registered in cardiac surgery department, Manchester Royal Infirnary in the&#xD;
+        last five years 2015 till 2020, and who meet the listed inclusion and exclusion criteria&#xD;
+        will be eligible for the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with severe symptomatic aortic stenosis and CAD undergoing TAVI &amp; OPCABG&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with concomitant valvular heart disease.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Assiut University</name>
+      <address>
+        <city>Assiut</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2020</study_first_posted>
+  <last_update_submitted>August 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Moustafa Mohamed</investigator_full_name>
+    <investigator_title>Assistant Lecturer of Cardiothoracic Surgery/ Principle Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Aortic Valve Stenosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

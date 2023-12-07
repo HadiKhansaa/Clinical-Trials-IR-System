@@ -1,0 +1,492 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03435224</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TP-19088</org_study_id>
+    <nct_id>NCT03435224</nct_id>
+  </id_info>
+  <brief_title>Desaturation Validation of INVSENSOR00012</brief_title>
+  <official_title>Desaturation Validation of INVSENSOR00012</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Masimo Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Masimo Corporation</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to compare the accuracy of a noninvasive measurement of oxygen&#xD;
+      saturation compared to reference values obtained by a laboratory blood gas analyzer. Arterial&#xD;
+      blood samples will be collected from healthy adult subjects while undergoing a desaturation&#xD;
+      procedure wherein the concentration of oxygen inhaled is slowly reduced until the subject's&#xD;
+      arterial oxygen concentration is approximately 70%. During the desaturation, the subject's&#xD;
+      hand and arm without the arterial line will be subjected to motion.After completing the&#xD;
+      desaturation, the gas mixture will be returned to room air concentrations.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 17, 2018</start_date>
+  <completion_date type="Actual">February 12, 2018</completion_date>
+  <primary_completion_date type="Actual">February 12, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Oxygen Saturation (SpO2) Accuracy of Sensor</measure>
+    <time_frame>1-5 hours</time_frame>
+    <description>Performance of the sensors will be determined by comparing the noninvasive oxygen saturation measurement (SpO2) of the pulse oximeter sensors to the arterial oxygen saturation (SaO2) value obtained from a reference blood sample and calculating the Arithmetic root mean square (ARMS) value.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">39</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>INVSENSOR00012</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subjects consented are enrolled into the test group and will receive the INVSENSOR00012.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>INVSENSOR00012</intervention_name>
+    <description>Noninvasive pulse oximeter sensor</description>
+    <arm_group_label>INVSENSOR00012</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subject is 18-50 years of age.&#xD;
+&#xD;
+          -  Subject weighs a minimum of 110 lbs and no more than 250 lbs unless subject is over 6&#xD;
+             feet tall.&#xD;
+&#xD;
+          -  Hemoglobin value is greater than or equal to 11 g/dL.&#xD;
+&#xD;
+          -  Baseline heart rate ≥ 45 bpm and ≤ 85 bpm.&#xD;
+&#xD;
+          -  Carbon monoxide (CO) value ≤ 2.0% fractional carboxyhemoglobin (FCOHb)&#xD;
+&#xD;
+          -  Subject has a physical status of American Society of Anesthesiology Class I; Healthy&#xD;
+             subjects without any systemic disease at all. American Society of Anesthesiology Class&#xD;
+             II; subjects with mild systemic disease (ASA I or II) as it applies to the systemic&#xD;
+             disease portion of the classification.&#xD;
+&#xD;
+          -  Systolic Blood Pressure ≤ 140 mmHg and Diastolic Blood Pressure ≤ 90 mmHg.&#xD;
+&#xD;
+          -  Subject is able to read and communicate in English and understands the study and risks&#xD;
+             involved.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject is pregnant.&#xD;
+&#xD;
+          -  Subject smokes (smoking includes e-cigarette use).&#xD;
+&#xD;
+          -  Subject has a BMI &gt; 35 and has been classified as morbidly obese or at an increased&#xD;
+             risk for participation by a medical professional.&#xD;
+&#xD;
+          -  Subject has open wounds, inflamed tattoos or piercings, visible healing wounds.&#xD;
+&#xD;
+          -  Subject experiences frequent or severe headaches and/or migraine headaches.&#xD;
+&#xD;
+          -  Subject has known drug or alcohol abuse and/or use of recreational drugs.&#xD;
+&#xD;
+          -  Subject has experienced a concussion or head injury with loss of consciousness within&#xD;
+             the last year.&#xD;
+&#xD;
+          -  Subject has any chronic bleeding disorders (i.e. hemophilia).&#xD;
+&#xD;
+          -  Subject has any history of a stroke, myocardial infarction, seizures or heart attack.&#xD;
+&#xD;
+          -  Subject has any cancer or history of cancer (not including skin cancer).&#xD;
+&#xD;
+          -  Subject has a chronic neurological disease (i.e. multiple sclerosis, Huntington's&#xD;
+             Disease).&#xD;
+&#xD;
+          -  Subject has any cardiac dysrhythmia(s) (i.e. atrial fibrillation) and has not received&#xD;
+             clearance by their physician to participate.&#xD;
+&#xD;
+          -  Subject has a known neurological and/or psychiatric disorder (i.e. schizophrenia,&#xD;
+             bipolar disorder) that interferes with the subject's level of consciousness.&#xD;
+&#xD;
+          -  Subject has any medical condition which in the judgment of the investigator and/or&#xD;
+             medical staff, renders them ineligible for participation in this study (Discretion of&#xD;
+             investigator).&#xD;
+&#xD;
+          -  Subject has Wolff-Parkinson-White Syndrome or Stokes-Adams Syndrome.&#xD;
+&#xD;
+          -  Subject who has taken anticoagulant medication within the last 30 days.&#xD;
+&#xD;
+          -  Subject has taken opioid pain medication within 24 hours of start of study.&#xD;
+&#xD;
+          -  Subject has either signs or history of peripheral ischemia/carpal tunnel syndrome.&#xD;
+&#xD;
+          -  Subject has had invasive surgery within the past year- including but not limited to&#xD;
+             major dental surgery, gallbladder, heart, appendix, major fracture repairs (involving&#xD;
+             plates/ screws), jaw surgery, urinary tract surgery, plastic surgery, major ears, nose&#xD;
+             and throat (ENT) surgery, joint replacement or gynecological surgeries, heart surgery&#xD;
+             or thoracic surgery.&#xD;
+&#xD;
+          -  Subject has donated blood within the past 30 days.&#xD;
+&#xD;
+          -  Subject has symptoms of congestion, head colds, flu or other illnesses.&#xD;
+&#xD;
+          -  Subject experiences claustrophobia or has generalized anxiety disorder.&#xD;
+&#xD;
+          -  Subject has been in severe car accident(s) or a similar type of accident(s) requiring&#xD;
+             hospitalization within the last 12 months.&#xD;
+&#xD;
+          -  Subject has chronic unresolved asthma, lung disease or respiratory disease.&#xD;
+&#xD;
+          -  Subject is allergic to lidocaine, latex, adhesives, or plastic.&#xD;
+&#xD;
+          -  Subject has heart conditions, insulin-dependent Diabetes or uncontrolled hypertension.&#xD;
+&#xD;
+          -  Subject has given vaginal delivery, had a pregnancy terminated, a miscarriage with&#xD;
+             hospitalization, or had a C-section within the last 6 months.&#xD;
+&#xD;
+          -  Subject intends to participate in any heavy lifting, repetitive movement of their&#xD;
+             wrist (including riding a motorcycle) or exercise (working out, riding a bike, riding&#xD;
+             a skate board etc.), or any activity that will put additional stress on the wrist&#xD;
+             within 24 hours of the study.&#xD;
+&#xD;
+          -  Discretion of investigator/study staff.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Masimo Corporation</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92618</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 5, 2018</study_first_submitted>
+  <study_first_submitted_qc>February 14, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 15, 2018</study_first_posted>
+  <results_first_submitted>March 5, 2021</results_first_submitted>
+  <results_first_submitted_qc>March 5, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 30, 2021</results_first_posted>
+  <disposition_first_submitted>March 5, 2019</disposition_first_submitted>
+  <disposition_first_submitted_qc>March 5, 2019</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">March 30, 2021</disposition_first_posted>
+  <last_update_submitted>March 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 8, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/24/NCT03435224/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Of the 39 enrolled participants, 29 met inclusion criteria and proceeded to the study. The remainder of the enrolled participants include screen failures and subjects that did not proceed due to time constraints.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>INVSENSOR00012</title>
+          <description>All subjects consented are enrolled into the test group and will receive the INVSENSOR00012.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Unable to achieve a minimum desaturation level</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>INVSENSOR00012</title>
+          <description>All subjects consented are enrolled into the test group and will receive the INVSENSOR00012.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="25"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>&lt; 18 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>18-50 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt; 50 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Asian or Pacific Islander</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Caucasian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black or African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Oxygen Saturation (SpO2) Accuracy of Sensor</title>
+        <description>Performance of the sensors will be determined by comparing the noninvasive oxygen saturation measurement (SpO2) of the pulse oximeter sensors to the arterial oxygen saturation (SaO2) value obtained from a reference blood sample and calculating the Arithmetic root mean square (ARMS) value.</description>
+        <time_frame>1-5 hours</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>INVSENSOR00012</title>
+            <description>All subjects consented are enrolled into the test group and will receive the INVSENSOR00012.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Oxygen Saturation (SpO2) Accuracy of Sensor</title>
+          <description>Performance of the sensors will be determined by comparing the noninvasive oxygen saturation measurement (SpO2) of the pulse oximeter sensors to the arterial oxygen saturation (SaO2) value obtained from a reference blood sample and calculating the Arithmetic root mean square (ARMS) value.</description>
+          <units>% of oxygen saturated hemoglobin</units>
+          <param>Number</param>
+          <units_analyzed>blood samples</units_analyzed>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+              </count_list>
+            </analyzed>
+            <analyzed>
+              <units>blood samples</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="269"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.99"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 to 5 hours</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>INVSENSOR00012</title>
+          <description>All subjects consented are enrolled into the test group and will receive the INVSENSOR00012.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="29"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="29"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Chelsea Frank</name_or_title>
+      <organization>Masimo</organization>
+      <phone>(949) 297-7000</phone>
+      <email>studies@masimo.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

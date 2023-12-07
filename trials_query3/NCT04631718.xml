@@ -1,0 +1,217 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04631718</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-0761</org_study_id>
+    <secondary_id>1R01DK117354-01</secondary_id>
+    <secondary_id>A539300</secondary_id>
+    <secondary_id>SMPH/RADIOLOGY/RADIOLOGY</secondary_id>
+    <secondary_id>July 9, 2020</secondary_id>
+    <nct_id>NCT04631718</nct_id>
+  </id_info>
+  <brief_title>MRI QSM Imaging for Iron Overload</brief_title>
+  <official_title>MRI-based Quantitative Susceptibility Mapping of Hepatic Iron Overload</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Wisconsin, Madison</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Wisconsin, Madison</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall goal of this project is to develop and validate a novel technique for Magnetic&#xD;
+      Resonance Imaging (MRI)-based Quantitative Susceptibility Mapping (QSM) of the abdomen, for&#xD;
+      non-invasive assessment of liver iron deposition. In this work, study team will develop and&#xD;
+      optimize advanced data acquisition and image reconstruction methods to enable QSM of the&#xD;
+      abdomen. Further, investigators will determine the accuracy, repeatability, and&#xD;
+      reproducibility of abdominal QSM for iron quantification in patients with liver iron&#xD;
+      overload.&#xD;
+&#xD;
+      Excessive accumulation of iron in various organs, including the liver, which affects both&#xD;
+      adult and pediatric populations, is toxic and requires treatment aimed at reducing body iron&#xD;
+      stores. Accurate assessment of liver iron concentration is critical for the detection and&#xD;
+      staging of iron overload as well as for longitudinal monitoring during treatment.&#xD;
+&#xD;
+      In summary, this project will develop a novel MRI-based QSM technique designed for the&#xD;
+      abdomen and will validate it in pediatric and adult patients with liver iron overload. Upon&#xD;
+      successful validation, QSM will provide accurate, repeatable, and reproducible quantification&#xD;
+      of LIC based on a fundamental property of tissue.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2021</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Establishing the accuracy of MRI-QSM of the liver using SQUID-BLS as a reference</measure>
+    <time_frame>1.5 hours</time_frame>
+    <description>Determine the accuracy of abdominal QSM to quantify liver iron concentration at 1.5T and 3T, in pediatric and adult patients with liver iron overload, using superconducting quantum interference device (SQUID)-based biomagnetic liver susceptometry (BLS) as the reference.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Establishing the repeatability of MRI-QSM of the liver</measure>
+    <time_frame>up to 1.5 hours</time_frame>
+    <description>Repeatability of MRI-QSM of the liver will be established in both pediatrics and adult participants. Each participant will be scanned at both 1.5T and 3T and at UW will repeat one of the field strengths to assess repeatability. Therefore, each participant at UW will undergo 3 MRI exams and each participant at Stanford 2 MRI exams.&#xD;
+Repeatability will not be tested at Stanford in order to avoid exhaustion of the patients (many of whom will be children), and to ensure the completion of acquisitions at both field strengths for validation of accuracy versus SQUID-BLS. Scanning will take 1.5 hour at University of Wisconsin and I hour at Stanford</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Establishing the reproducibility of MRI-QSM of the liver</measure>
+    <time_frame>up to 1.5 hours</time_frame>
+    <description>The reproducibility of abdominal MRI-based Quantitative Susceptibility Mapping (MRI-QSM) will be characterized across field strengths (1.5Tesla and 3Tesla), in both pediatric and adult participants with iron overload The repeated acquisitions at 1.5T and 3T will enable analysis of reproducibility of MRI-QSM across field strengths. At UW only, participants repeat either the 1.5T or 3T exam, with consideration given to the subject's schedule and magnet availability. Repeat tests will be performed after removing the participants from the magnet and repositioning with new localizer images. Repeatability will not be tested at Stanford in order to avoid exhaustion of the patients (many of whom will be children), and to ensure the completion of acquisitions at both field strengths for validation of accuracy versus SQUID-BLS.&#xD;
+Scanning will take 1.5 hour at University of Wisconsin and I hour at Stanford</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Optimizing MRI-based QSM performance by using multiple QSM reconstruction and measurement</measure>
+    <time_frame>up to 1.5 hours</time_frame>
+    <description>Multiple QSM reconstructions will be applied to each acquired dataset, to evaluate the effect of each reconstruction component on the performance of QSM.&#xD;
+Susceptibility measurements will be made by placing a region-of-interest in each of the nine Couinaud segments of the liver. This will allow segment-by-segment analysis as well as whole-liver analysis (by averaging over the 9 segments) of the performance of QSM. The reader performing MRI analysis will be blinded to SQUID results.&#xD;
+Scanning will take 1.5 hour at University of Wisconsin and I hour at Stanford.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI-QSM data acquisition with Breath held</measure>
+    <time_frame>1.5 hours</time_frame>
+    <description>An optimized acquisition will obtain 3D whole liver coverage within a ~20 second breath-hold. Data will be collected at 1.5T and 3T</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI-QSM data acquisition with Free Breathing</measure>
+    <time_frame>1.5 hours</time_frame>
+    <description>The optimized free-breathing acquisitions (using bellows, butterfly navigators, and 2D sequential acquisitions and requiring 3-5 min each) will be performed. Data will be collected at 1.5T and 3T</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of MRI-based QSM of the liver to serum ferritin measurements</measure>
+    <time_frame>up to 3.5 hours</time_frame>
+    <description>MRI-based QSM of the liver will be compared to serum ferritin measurements to validate MRI-QSM method. MRI-QSM visit will be scheduled within +/-2 days of serum ferritin measurement visit</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Hemochromatosis</condition>
+  <condition>Iron Overload</condition>
+  <arm_group>
+    <arm_group_label>MRI based abdominal QSM</arm_group_label>
+    <description>Participants with known or suspected iron overload with past serum ferritin &gt;500 will be recruited in this study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging (MRI)-based Quantitative Susceptibility Mapping (QSM)</intervention_name>
+    <description>MRI-based QSM methods estimate the susceptibility of tissues based on measuring the magnetic field distortion produced by the tissues themselves.&#xD;
+Upon successful validation, MRI-based abdominal QSM will provide accurate, repeatable, and reproducible quantification of Liver iron concentration (LIC) that is independent of the distribution of iron and does not require calibration.</description>
+    <arm_group_label>MRI based abdominal QSM</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with known or suspected iron overload will be identified and recruited from the&#xD;
+        UWHC Hematology Adult and Pediatric clinics or Stanford Hospital and Clinics. Briefly,&#xD;
+        patients will be identified and recruited in collaboration with patient providers (either&#xD;
+        by introduction during a clinical visit or by a referral from a physician), using flyers&#xD;
+        posted in relevant clinics, or from previous related studies where the patient consented to&#xD;
+        being contacted about future research opportunities.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ages 10 years or older&#xD;
+&#xD;
+          -  Known or suspected iron overload.&#xD;
+&#xD;
+          -  Past serum ferritin &gt; 500&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with contraindication to MRI (e.g. pacemaker, contraindicated metallic&#xD;
+             implants, claustrophobia, etc)&#xD;
+&#xD;
+          -  Pregnant or trying to become pregnant (as determined by self-report during MRI safety&#xD;
+             screening)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Diego Hernando, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin, Madison</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Coordinator</last_name>
+    <phone>(608) 807-9594</phone>
+    <email>Radstudy@uwhealth.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>School of Medicine, Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Shreyas Vasanawala, MD, PhD</last_name>
+      <phone>650-723-8087</phone>
+      <email>vasanawala@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Shreyas Vasanawala</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2020</study_first_posted>
+  <last_update_submitted>December 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Liver iron concentration</keyword>
+  <keyword>Magnetic Resonance Imaging (MRI)-based Quantitative Susceptibility Mapping (QSM)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hemochromatosis</mesh_term>
+    <mesh_term>Iron Overload</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

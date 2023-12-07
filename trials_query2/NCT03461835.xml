@@ -1,0 +1,340 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03461835</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PUL study</org_study_id>
+    <nct_id>NCT03461835</nct_id>
+  </id_info>
+  <brief_title>Management of Pregnancies of Unknown Location (PUL)</brief_title>
+  <official_title>- a Randomized Control Trial of Two hCG- Based Decision Support Models</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Göteborg University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Göteborg University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In a randomized multicenter trial the investigators want to compare the ability of two&#xD;
+      hCG-based models in correctly classifying EPs as high risk among PULs and correctly&#xD;
+      classifying IUPs and failed PULs as low risk after two hCG measurements.&#xD;
+&#xD;
+      After the classification of PULs into high or low risk of EP, the clinical management will be&#xD;
+      the same within each risk group (high and low) regardless of randomization group (which model&#xD;
+      classified the patients). The clinical management will be according to the management&#xD;
+      protocol published in a NICE guideline.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pregnancy of unknown location (PUL) is a term used to describe a situation where there is no&#xD;
+      evidence of a gestation either intra-or extrauterine on transvaginal sonography (TVS) in&#xD;
+      women seeking medical attention for various reasons in early pregnancy. The principal tool in&#xD;
+      PUL management besides TVS is the interpretation of the change in serial serum human&#xD;
+      chorionic gonadotropin (hCG) levels. A recent meta-analysis concluded that there is not&#xD;
+      enough evidence to recommend a specific strategy using hCG when managing PULs. In a NICE&#xD;
+      (National Institute of health and care excellence) guideline however women with a PUL&#xD;
+      acceptable for outpatient surveillance, where the rate of change in rising hCG levels&#xD;
+      surpassing 63 % in 48 hours (h) highly likely represents an IUP and the patient is triaged to&#xD;
+      a TVS after one week. Those with a decline in hCG levels of more than 50 % are predicted to&#xD;
+      be failed PULs and a urinary pregnancy test (UPT) after two weeks is appropriate. If the rate&#xD;
+      of change in hCG levels fail to meet these cut-offs a re-visit within 24 h is warranted in&#xD;
+      order to possibly diagnose an EP and suitable treatment selected. In a previous study; an hCG&#xD;
+      based logistic regression model, M4 classified 70 % of all PULs as low risk of being an EP,&#xD;
+      hence qualifying for a reduced follow-up while correctly identifying 88 % of EPs. A study&#xD;
+      from Sahlgrenska University hospital (SU) evaluated the M4 model with similar results, where&#xD;
+      also the cut-offs by NICE similarly identified 86 % of EPs but to a lesser extent correctly&#xD;
+      classified low risk PULs. Another finding in the study was that EPs identified by M4 mainly&#xD;
+      depicted rising hCG levels opposed to the NICE model identifying mainly EPs with declining&#xD;
+      hCG levels which could have clinical consequences since EPs with rising hCG levels more often&#xD;
+      seem to necessitate laparoscopic surgery and maybe a postponed diagnosis could be deleterious&#xD;
+      in these cases. Hence, the M4 model potentially would be better than the NICE cut-offs for&#xD;
+      PUL management. None of these findings however have been evaluated in a randomized controlled&#xD;
+      trial (RCT). An updated version of M4 named M6 was first published 2016 and has not been&#xD;
+      externally validated. Neither has prior cut-offs of declining hCG levels currently used to&#xD;
+      define a failed PUL.&#xD;
+&#xD;
+      The handling of these women is often lengthy with a high level of uncertainty before a final&#xD;
+      diagnosis can be made. The psychological morbidity in this group is largely unknown, while&#xD;
+      well acknowledged in women following miscarriage, were up to 41% self-reporting clinically&#xD;
+      significant levels of anxiety and 36% reporting depression within 1 month. In a recent study&#xD;
+      24 % (CI 21-28) and 11 % (8-14) respectively of women with either a miscarriage or ectopic&#xD;
+      pregnancy experienced moderate or severe anxiety and depression according to the Hospital&#xD;
+      Anxiety Depression Scale (HADS), compared to 13 % (7-21) and 2 % (1-8) in a control group&#xD;
+      without complications in early pregnancy. We aim to determine the presence and severity of&#xD;
+      psychological distress and quality of life among women with a pregnancy of unknown location.&#xD;
+&#xD;
+      A secondary objective is to test following hypothesis: Women with an early normal pregnancy&#xD;
+      starting as a pregnancy of unknown location have twice as high probability of having&#xD;
+      HADS-scores above or equal to eight on both subscales, than women with an early normal&#xD;
+      pregnancy.&#xD;
+&#xD;
+      We calculated that we would need 121 women in each group to reach a power of 80 % to detect&#xD;
+      an absolute difference of 15 percentage points after one week, with a 15 % incidence of HADS&#xD;
+      anxiety score ≥ 8 among control subjects and 30 % among IUP starting as a PUL at a two-sided&#xD;
+      alpha level of 0.05 (20). For protection against that 10 % of patients will be lost to&#xD;
+      follow-up a total of 130 women are included in each group. In a second calculation based on&#xD;
+      using HADS as a continuous scale, 94 women would need to be included in each group to detect&#xD;
+      an absolute two points difference on the anxiety subscale of the HADS assuming a mean score&#xD;
+      of 6.0 and a standard deviation of 3.4 in control subjects, at a significance level 0.05 and&#xD;
+      power 0.80. This minimally important difference is based on mean scores on the HADS anxiety&#xD;
+      subscale reported for women in early pregnancy in prior studies (20-22). We plan to include a&#xD;
+      total of 210 women with a 1:1 ratio to account for an expected 10 % loss to follow-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 22, 2018</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity</measure>
+    <time_frame>1 month</time_frame>
+    <description>EPs (percent) correctly classified as high risk of being an EP among PULs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Specificity</measure>
+    <time_frame>1 month</time_frame>
+    <description>IUPs and failed PULs (percent) correctly classified as low risk of being an EP among PULs</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>HAD (Hospital and anxiety scale)</measure>
+    <time_frame>1 month</time_frame>
+    <description>Scoring (Depression and anxiety):&#xD;
+0-7=Normal Borderline abnormal=8-10 11-21=Abnormal</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Follow up visits (efficacy)</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of hCG and TVS performed overall and within each final outcome (EP, IUP, and failed PUL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of treatment related adverse events as assessed by EMA (European medicines agency)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deviation from PUL management protocol</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of unplanned visits, initiated by the physician or the patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment of ectopic pregnancy</measure>
+    <time_frame>1 month</time_frame>
+    <description>Surgical (laparoscopic salpingotomy/salpingectomy), medical (MTX) or expectant management. Number of ruptured EPs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Short Form (36) Health Survey</measure>
+    <time_frame>1 month</time_frame>
+    <description>The SF-36 consists of eight scaled scores, which are the weighted sums of the questions in their section.Each scale is directly transformed into a 0-100 scale on the assumption that each question carries equal weight. The lower the score the more disability. The higher the score the less disability i.e., a score of zero is equivalent to maximum disability and a score of 100 is equivalent to no disability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity (M6)</measure>
+    <time_frame>1 month</time_frame>
+    <description>EPs (%) correctly classified as high risk of being an EP among PULs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specificity (M6)</measure>
+    <time_frame>1 month</time_frame>
+    <description>IUPs and failed PULs (%) correctly classified as low risk of being an EP among PULs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specificity</measure>
+    <time_frame>1 month</time_frame>
+    <description>Optimal cut-off in hCG decline (percent) between two measurements to correctly classify IUPs and failed PULs as low risk of being an EP among PULs with declining hCG levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity</measure>
+    <time_frame>1 month</time_frame>
+    <description>Optimal cut-off in hCG decline (percent) between two measurements to correctly classify an EP as high risk among PULs with declining hCG levels.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>Pregnancy, Ectopic</condition>
+  <condition>Pregnancy, High Risk</condition>
+  <condition>Pregnancy Early</condition>
+  <arm_group>
+    <arm_group_label>M4</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>High risk classification if the chance of the PUL being an EP ≥5 %; a calculation based on the average value of the two hCG and the ratio of these two hCG (0 h/48 h). Otherwise a low risk classification is made and a predicted outcome of either an IUP or failed PUL is presented.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NICE</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>High risk classification if the change in rising hCG levels ≤ 63 % or the change in declining hCG ≤ 50 %. If these cut-offs are exceeded the PUL is classified as low risk and predicted to be either an IUP or failed PUL depending on rising or declining hCG levels.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Risk classification of PUL by M4</intervention_name>
+    <description>High or low risk of being an ectopic pregnancy</description>
+    <arm_group_label>M4</arm_group_label>
+    <arm_group_label>NICE</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Risk classification of PUL by NICE</intervention_name>
+    <description>High or low risk of being an ectopic pregnancy</description>
+    <arm_group_label>M4</arm_group_label>
+    <arm_group_label>NICE</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients with a PUL&#xD;
+&#xD;
+          2. Patients with mild or no symptoms&#xD;
+&#xD;
+          3. Patients willing to be randomized&#xD;
+&#xD;
+          4. First hCG value &lt;10,000 IU/L&#xD;
+&#xD;
+          5. Patients with an interval between two hCG measurements of 44-56 h&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Hemodynamically unstable patients&#xD;
+&#xD;
+          2. Hemoperitoneum&#xD;
+&#xD;
+          3. Patients not managed as outpatients during the course of the initial two hCG&#xD;
+             measurements&#xD;
+&#xD;
+          4. Non-understanding of the oral or written study information&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Annika Strandell, Ass.prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Göteborg University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Johan E Fistouris, MD</last_name>
+    <phone>+46 707552678</phone>
+    <email>johan.fistouris@vgregion.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Södra Älvsborgs Sjukhus</name>
+      <address>
+        <city>Borås</city>
+        <zip>501 82</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katja Bergman, MD</last_name>
+      <phone>07074949187</phone>
+      <phone_ext>+46</phone_ext>
+      <email>katja.bergman@vgregion.se</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sahlgrenska University Hospital</name>
+      <address>
+        <city>Göteborg</city>
+        <zip>413 45</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Annika Strandell</last_name>
+      <phone>700904454</phone>
+      <email>annika.strandell@vgregion.se</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Skaraborgs sjukhus Skövde</name>
+      <address>
+        <city>Skövde</city>
+        <zip>541 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helen Garbergs, MD</last_name>
+      <phone>+46 500-43 10 00</phone>
+      <email>helen.garbergs@vgregion.se</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <reference>
+    <citation>Barnhart K, van Mello NM, Bourne T, Kirk E, Van Calster B, Bottomley C, Chung K, Condous G, Goldstein S, Hajenius PJ, Mol BW, Molinaro T, O'Flynn O'Brien KL, Husicka R, Sammel M, Timmerman D. Pregnancy of unknown location: a consensus statement of nomenclature, definitions, and outcome. Fertil Steril. 2011 Mar 1;95(3):857-66. doi: 10.1016/j.fertnstert.2010.09.006. Epub 2010 Oct 14.</citation>
+    <PMID>20947073</PMID>
+  </reference>
+  <reference>
+    <citation>van Mello NM, Mol F, Opmeer BC, Ankum WM, Barnhart K, Coomarasamy A, Mol BW, van der Veen F, Hajenius PJ. Diagnostic value of serum hCG on the outcome of pregnancy of unknown location: a systematic review and meta-analysis. Hum Reprod Update. 2012 Nov-Dec;18(6):603-17. doi: 10.1093/humupd/dms035. Epub 2012 Sep 6. Review.</citation>
+    <PMID>22956411</PMID>
+  </reference>
+  <reference>
+    <citation>National Collaborating Centre for Women's and Children's Health (UK). Ectopic Pregnancy and Miscarriage: Diagnosis and Initial Management in Early Pregnancy of Ectopic Pregnancy and Miscarriage. London: RCOG; 2012 Dec.</citation>
+    <PMID>23638497</PMID>
+  </reference>
+  <reference>
+    <citation>Van Calster B, Abdallah Y, Guha S, Kirk E, Van Hoorde K, Condous G, Preisler J, Hoo W, Stalder C, Bottomley C, Timmerman D, Bourne T. Rationalizing the management of pregnancies of unknown location: temporal and external validation of a risk prediction model on 1962 pregnancies. Hum Reprod. 2013 Mar;28(3):609-16. doi: 10.1093/humrep/des440. Epub 2013 Jan 4.</citation>
+    <PMID>23293216</PMID>
+  </reference>
+  <reference>
+    <citation>Fistouris J, Bergh C, Strandell A. Classification of pregnancies of unknown location according to four different hCG-based protocols. Hum Reprod. 2016 Oct;31(10):2203-11. doi: 10.1093/humrep/dew202. Epub 2016 Aug 31.</citation>
+    <PMID>27580995</PMID>
+  </reference>
+  <reference>
+    <citation>Mavrelos D, Nicks H, Jamil A, Hoo W, Jauniaux E, Jurkovic D. Efficacy and safety of a clinical protocol for expectant management of selected women diagnosed with a tubal ectopic pregnancy. Ultrasound Obstet Gynecol. 2013 Jul;42(1):102-7. doi: 10.1002/uog.12401. Epub 2013 May 27.</citation>
+    <PMID>23303651</PMID>
+  </reference>
+  <reference>
+    <citation>Bobdiwala S, Guha S, Van Calster B, Ayim F, Mitchell-Jones N, Al-Memar M, Mitchell H, Stalder C, Bottomley C, Kothari A, Timmerman D, Bourne T. The clinical performance of the M4 decision support model to triage women with a pregnancy of unknown location as at low or high risk of complications. Hum Reprod. 2016 Jul;31(7):1425-35. doi: 10.1093/humrep/dew105. Epub 2016 May 10.</citation>
+    <PMID>27165655</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 9, 2018</study_first_submitted>
+  <study_first_submitted_qc>March 5, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 12, 2018</study_first_posted>
+  <last_update_submitted>February 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pregnancy, Ectopic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

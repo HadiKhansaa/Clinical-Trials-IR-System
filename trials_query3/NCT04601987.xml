@@ -1,0 +1,267 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04601987</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1623168</org_study_id>
+    <nct_id>NCT04601987</nct_id>
+  </id_info>
+  <brief_title>Healthy Moms: Prenatal Counseling for Postpartum Health</brief_title>
+  <official_title>Healthy Moms: Prenatal Counseling for Postpartum Health</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Davis</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Health Resources and Services Administration (HRSA)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Davis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      See https://studypages.com/s/healthy-moms-study-765273&#xD;
+&#xD;
+      This individual-level randomized trial involves pregnant women followed for at least 6 months&#xD;
+      after delivery, to compare the effects of providing two &quot;attention-control&quot; counseling&#xD;
+      interventions designed to increase pregnant women's awareness of either:&#xD;
+&#xD;
+        1. the maternal health benefits of breastfeeding, or&#xD;
+&#xD;
+        2. the health benefits of smoke-free homes&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will conduct an individual-level randomized trial involving pregnant women&#xD;
+      to compare the effects on infant feeding practices of providing pregnant women information&#xD;
+      about the maternal health benefits of breastfeeding to usual prenatal counseling focused on&#xD;
+      the infant health benefits of breastfeeding. Participants will be randomly allocated to one&#xD;
+      of two equal sized groups by research assistants using a web-based random number generator&#xD;
+      that conceals allocation. Participants will be recruited online via UC Davis' StudyPages&#xD;
+      website. Screening will occur online at the participant's convenience. When screening&#xD;
+      criteria have been met, the research coordinator will be notified, and initiate contact with&#xD;
+      the participant by text and/or phone call to schedule a time to deliver the intervention. Due&#xD;
+      to social distancing measures that have been put into place as a result of the COVID-19&#xD;
+      pandemic, informed consent will be collected digitally using the Qualtrics platform after&#xD;
+      potential participants complete a secondary screening survey. Consenting participants will&#xD;
+      use Qualtrics to complete a baseline/enrollment survey and be randomized and then scheduled&#xD;
+      for a time to receive their allocated counseling intervention using the Zoom platform.&#xD;
+      Follow-up surveys will be distributed to participants at 1, 3, 6, 9 and 12 months postpartum.&#xD;
+&#xD;
+      Comparators:&#xD;
+&#xD;
+      Participants randomized to the &quot;intervention group&quot; will receive information about the&#xD;
+      maternal health benefits of breastfeeding from a research assistant who also will provide&#xD;
+      information on resources designed to support prenatal and postpartum health, including&#xD;
+      breastfeeding support groups. Participants will be presented with a series of images to look&#xD;
+      at while listening to the scripted counseling, including an image developed in 2002 by the Ad&#xD;
+      Council designed to convey a link between bottle-feeding and insulin use, as well as images&#xD;
+      developed specifically for use when counseling women about the maternal benefits of&#xD;
+      breastfeeding.&#xD;
+&#xD;
+      The &quot;attention control&quot; group will receive &quot;usual care&quot; from their prenatal care provider&#xD;
+      that focuses on the infant health benefits of breastfeeding. To control for the potential&#xD;
+      effects of receiving additional attention from a counselor, pregnant women enrolled in the&#xD;
+      control arm of this study will receive information from a peer counselor on the health&#xD;
+      benefits of &quot;smoke- and weed-free homes&quot;.&#xD;
+&#xD;
+      The investigators will thoroughly train all research staff on the critical importance of&#xD;
+      delivering only the allocated counseling intervention to each study participant. The&#xD;
+      investigators will monitor intervention delivery by audio-recording staff interactions with&#xD;
+      study participants, and providing prompt feedback to research staff, if needed.&#xD;
+&#xD;
+      Intervention Delivery: These scripted counseling interventions were designed to be understood&#xD;
+      by those with no more than a fifth-grade education and to take less than 5 minutes to&#xD;
+      deliver. All research staff will be trained by the PI to ensure they understand the&#xD;
+      importance of maintaining the integrity of study group allocation and delivering only the&#xD;
+      assigned scripted counseling. After receiving their allocated counseling, participants will&#xD;
+      be emailed the images and script and encouraged to share this information with the people&#xD;
+      they anticipate receiving postpartum support from.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2021</start_date>
+  <completion_date type="Anticipated">June 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 15, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Duration of breastfeeding</measure>
+    <time_frame>at 6 months postpartum</time_frame>
+    <description>Total number of weeks of breastfeeding</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Knowledge of the maternal health benefits of lactation</measure>
+    <time_frame>1 month postpartum</time_frame>
+    <description>Change in participant knowledge before and after receipt of this counseling intervention will be assessed by asking participants to respond (true, false, don't know) whether they believe Breastfeeding will…&#xD;
+lower my risk of breast cancer.&#xD;
+lower my risk of ovarian cancer.&#xD;
+lower my risk of developing diabetes.&#xD;
+increase my risk of a breast infection.&#xD;
+increase my risk of depression [reverse coded]&#xD;
+make it harder to &quot;get my body back&quot; after my baby is born. [reverse coded]&#xD;
+protect my hands from arthritis.&#xD;
+lower my blood pressure and risk of heart disease.&#xD;
+lower my libido/sex drive.&#xD;
+delay my menstrual period after my baby is born.&#xD;
+save my family money.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Smoke-free home policy</measure>
+    <time_frame>6 months postpartum</time_frame>
+    <description>We will compare the proportion of individuals who have a &quot;smoke-free&quot; policy for their homes as assessed by responding with option &quot;d&quot; when presented with the following options &quot;Which of the following statements best describes the rules about smoking inside your home now, even if no one who lives in your home is a smoker? Select ONE answer&#xD;
+Smoking is permitted anywhere inside my home&#xD;
+Smoking is permitted inside my home by an open window&#xD;
+Smoking is allowed in some rooms or at some times&#xD;
+No one is allowed to smoke anywhere inside my home</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Smoke-free home policy</measure>
+    <time_frame>1 month postpartum</time_frame>
+    <description>We will compare the proportion of individuals who have a &quot;smoke-free&quot; policy for their homes as assessed by responding with option &quot;d&quot; when presented with the following options &quot;Which of the following statements best describes the rules about smoking inside your home now, even if no one who lives in your home is a smoker? Select ONE answer&#xD;
+Smoking is permitted anywhere inside my home&#xD;
+Smoking is permitted inside my home by an open window&#xD;
+Smoking is allowed in some rooms or at some times&#xD;
+No one is allowed to smoke anywhere inside my home</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">350</enrollment>
+  <condition>Pregnancy Related</condition>
+  <condition>Breastfeeding</condition>
+  <condition>Maternal Care Patterns</condition>
+  <arm_group>
+    <arm_group_label>Counseling about the Maternal Benefits of Breastfeeding</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will review a slide deck while receiving scripted counseling designed to increase understanding of the maternal health benefits of breastfeeding.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Counseling about the benefits of Smoke-free Homes</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will review a slide deck while receiving scripted counseling designed to increase understanding of the health benefits of smoke free homes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Breastfeeding</intervention_name>
+    <description>Counseling about the maternal health benefits of lactation.</description>
+    <arm_group_label>Counseling about the Maternal Benefits of Breastfeeding</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Smokefree Homes</intervention_name>
+    <description>Counseling about the importance of smoke-free homes.</description>
+    <arm_group_label>Counseling about the benefits of Smoke-free Homes</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Nulliparous women who are carrying a singleton pregnancy between 27-37 weeks gestation&#xD;
+&#xD;
+          -  Born in the United States&#xD;
+&#xD;
+          -  Aged 18-40 years&#xD;
+&#xD;
+          -  Able to read English&#xD;
+&#xD;
+          -  Have reliable access to a telephone that is able to send and receive text messages&#xD;
+&#xD;
+          -  Have reliable access to a smart phone, tablet, computer, or other device with access&#xD;
+             to the internet&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women carrying multiple gestations&#xD;
+&#xD;
+          -  Diagnosed with HIV or are advised by a clinician not to breastfeed for any other&#xD;
+             reason&#xD;
+&#xD;
+          -  Have undergone mastectomy or breast reduction surgery&#xD;
+&#xD;
+          -  Unable to speak English, or who do not have a telephone or respond to text messages&#xD;
+&#xD;
+          -  Carrying a surrogate pregnancy or are not planning to parent after giving birth&#xD;
+&#xD;
+          -  Became pregnant through use of assisted reproductive technology such as in vitro&#xD;
+             fertilization (IVF)&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Nulliparous women</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eleanor Bimla Schwarz, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UC Davis Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Iesha Miller, MHA</last_name>
+    <phone>916-734-3269</phone>
+    <email>itmiller@ucdavis.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marykate Miller, MS</last_name>
+    <phone>916-734-2877</phone>
+    <email>hs-healthymomsstudy@ucdavis.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UC Davis Center for Healthcare Policy and Research</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eleanor B Schwarz, MD</last_name>
+      <phone>916-734-5453</phone>
+      <email>ebschwarz@ucdavis.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marykate Miller, MS</last_name>
+      <phone>916-734-2877</phone>
+      <email>mkemiller@ucdavis.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>August 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2020</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pregnant, breastfeeding, smokefree</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

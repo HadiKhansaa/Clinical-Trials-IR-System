@@ -1,0 +1,228 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04822831</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SeHLin</org_study_id>
+    <nct_id>NCT04822831</nct_id>
+  </id_info>
+  <brief_title>The Effect of Semi-recumbent Position With Exercise Training on Long-term Ventilator-dependent Patients</brief_title>
+  <official_title>The Effect of 45 Degree Semi-recumbent Position With Upper Limb Exercise Training on Long-term Ventilator-dependent Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Taoyuan General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Taoyuan General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prolonged mechanical ventilation patients rely on medical expenses per year had increased by&#xD;
+      nearly 20 billion in 15 years, so it is worthwhile to explore how to improve the respiratory&#xD;
+      function and even their quality of life of patients in Respiratory care wards (RCWs). This&#xD;
+      study used repeated experimental measurements and purpose sampling, and the investigators&#xD;
+      invited patients in respiratory care ward in northern Taiwan. They were randomly assigned to&#xD;
+      the experimental group and the control group. The experimental group was given 45 degree&#xD;
+      Semi-sitting 2 hrs and upper-limb exercise training 10 mins once a day. There were 29&#xD;
+      prolonged mechanical ventilation (PMV) patients in the experimental group and 26 in the&#xD;
+      control group. Our conclusions showed that PMV patients can significantly improve the maximum&#xD;
+      inspiratory pressure (MIP) in the post-test while performed a 45-degree semi-sitting position&#xD;
+      with upper limb training for 4 weeks. The minute ventilation (MV) has a trend of increasing&#xD;
+      month by month in the experimental group, but it is necessary to consider whether it is due&#xD;
+      to the improvement of lung function or just cause of the increased oxygen consumption and&#xD;
+      accelerated respiratory rate, so it can not be inferred to improvement of the patient's&#xD;
+      condition or lung function.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background: Prolonged mechanical ventilation patients rely on medical expenses per year had&#xD;
+      increased by nearly 20 billion in 15 years. However, the high cost shows the high morbidity&#xD;
+      rate, high mortality rate and low ventilator weaning rate of prolonged mechanical ventilation&#xD;
+      patients, so it is worthwhile to explore how to improve the respiratory function and even&#xD;
+      their quality of life of patients in the respiratory care ward (RCW).&#xD;
+&#xD;
+      OBJECTIVE: To investigate the improvement of respiratory function and the effect of&#xD;
+      respirator detachment in 45-degree semi-sitting and upper limb training, and to understand&#xD;
+      the correlation between this training activity and death risk.&#xD;
+&#xD;
+      METHODS: This study used repeated experimental measurements and purpose sampling, and the&#xD;
+      investigators invited patients in the respiratory care ward (RCW) in northern Taiwan. They&#xD;
+      were randomly assigned to the experimental group and the control group. The experimental&#xD;
+      group was given 45 degree Semi-sitting 2hrs and upper-limb exercise training 10mins once a&#xD;
+      day. After 4 weeks, the investigators measure the respiratory parameters such as the maximum&#xD;
+      inspiratory pressure (MIP), the tidal volume (VT), the minute ventilation (MV), and the rapid&#xD;
+      shallow breathing index(RSBI) of these two groups, and used the generalized estimating&#xD;
+      equation (GEE) to compare with them.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 30, 2017</start_date>
+  <completion_date type="Actual">July 30, 2018</completion_date>
+  <primary_completion_date type="Actual">May 30, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study used repeated experimental measurements and purpose sampling, and we invited patients in respiratory care ward (RCW) in northern Taiwan. They were randomly assigned to the experimental group and the control group. The experimental group was given 45 degree Semi-sitting for 2hrs and upper-limb exercise training 10mins once a day. The control group was just continue the routine treatment. After 4 weeks, we measure the respiratory parameters such as maximum inspiratory pressure (MIP), tidal volume (VT), minute ventilation (MV), and rapid shallow breathing index(RSBI) of these two groups, and used GEE to compare with them. To find the differences in respiratory parameters, ventilator detachment rate,</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>The participants involved in the clinical trial who are prevented from having knowledge of the interventions assigned to individual participants.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>maximum inspiratory pressure (MIP)</measure>
+    <time_frame>Change from maximum inspiratory pressure (MIP) at 1 month</time_frame>
+    <description>After doing intervention for 4 weeks, we measure the maximum inspiratory pressure (MIP) of these two groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>tidal volume (VT)</measure>
+    <time_frame>Change from tidal volume (VT) at 1 month</time_frame>
+    <description>After doing intervention for 4 weeks, we measure the tidal volume (VT) of these two groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>minute ventilation (MV)</measure>
+    <time_frame>Change from minute ventilation (MV) at 1 month</time_frame>
+    <description>After doing intervention for 4 weeks, we measure the minute ventilation (MV) of these two groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>rapid shallow breathing index (RSBI)</measure>
+    <time_frame>Change from rapid shallow breathing index (RSBI) at 1 month</time_frame>
+    <description>After doing intervention for 4 weeks, we measure the rapid shallow breathing index (RSBI) of these two groups</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Mechanical Ventilation</condition>
+  <condition>Difficult Intubation</condition>
+  <condition>Position</condition>
+  <condition>Exercise</condition>
+  <arm_group>
+    <arm_group_label>Long-term Ventilator-dependent Patients with intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>45 Degree Semi-recumbent Position With Upper Limb Exercise Training on Long-term Ventilator-dependent Patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Long-term Ventilator-dependent Patients without intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>There is no intervention on Long-term Ventilator-dependent Patients ,and just keep routine treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>45 Degree Semi-recumbent Position With Upper Limb Exercise Training</intervention_name>
+    <description>The experimental group was given 45 degree Semi-sitting 2 hrs and upper-limb exercise training 10 mins once a day, and this intervention kept 4 weeks.</description>
+    <arm_group_label>Long-term Ventilator-dependent Patients with intervention</arm_group_label>
+    <other_name>45 Degree Semi-sitting Position With Upper Limb Exercise Training</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>no 45 Degree Semi-recumbent Position With Upper Limb Exercise Training</intervention_name>
+    <description>The control group was with usual treatment.</description>
+    <arm_group_label>Long-term Ventilator-dependent Patients without intervention</arm_group_label>
+    <other_name>no other intervention</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  respiratory care ward (RCW) cases using mechanical ventilators&#xD;
+&#xD;
+          -  20 years old ≦ age ≦ 89 years old&#xD;
+&#xD;
+          -  Those who used antibiotics without infection and fever (body temperature &gt;38.5℃) in&#xD;
+             the past 3 days&#xD;
+&#xD;
+          -  the fraction of inspiration O2(FiO2)≦50% and the positive end expiratory&#xD;
+             pressure(PEEP)≦10&#xD;
+&#xD;
+          -  90 mm-Hg≦ systolic blood pressure(SBP) ≦160 mm-Hg&#xD;
+&#xD;
+          -  60 beats/min≦ heart rate(HR) ≦130 beats/min without arrhythmia&#xD;
+&#xD;
+          -  12 times/min≦ respiratory rate(RR) ≦35 times/min&#xD;
+&#xD;
+          -  90%≦ oxygen saturation by pulse oximetry (SPO2) ≦100%&#xD;
+&#xD;
+          -  Patients with spontaneous breathing&#xD;
+&#xD;
+          -  Digestible without continuous feeder&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  respiratory care ward (RCW) cases without mechanical ventilators&#xD;
+&#xD;
+          -  Age &lt;20 years old or age&gt;89 years old&#xD;
+&#xD;
+          -  Those who have been infected with fever in the past 3 days (body temperature &gt;38.5℃)&#xD;
+             and are taking antibiotic&#xD;
+&#xD;
+          -  the fraction of inspiration O2(FiO2) &gt;50% and the positive end expiratory&#xD;
+             pressure(PEEP)&gt;10&#xD;
+&#xD;
+          -  systolic blood pressure(SBP)&lt; 90 mm-Hg or systolic blood pressure(SBP) &gt;160 mm-Hg&#xD;
+&#xD;
+          -  heart rate(HR)&lt;60 beats/min or heart rate(HR)&gt;130 beats/min and arrhythmia&#xD;
+&#xD;
+          -  respiratory rate(RR)&lt;12 times/minute or respiratory rate(RR)&gt;35 times/minute&#xD;
+&#xD;
+          -  oxygen saturation by pulse oximetry (SPO2) &lt;90%&#xD;
+&#xD;
+          -  Patients without spontaneous breathing&#xD;
+&#xD;
+          -  Poor digestion and use of continuous feeders&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Se-Hua Lin, master</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Taoyuan Armed Forces General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Se-Hua Lin</name>
+      <address>
+        <city>Taoyuan</city>
+        <state>Longtan Dist.</state>
+        <zip>325</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Taoyuan General Hospital</investigator_affiliation>
+    <investigator_full_name>Se-Hua Lin</investigator_full_name>
+    <investigator_title>Head Nurse</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>we don't plan to make individual participant data (IPD) ,because the database belonged to patients and hospitals</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

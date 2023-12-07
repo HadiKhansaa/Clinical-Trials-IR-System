@@ -1,0 +1,275 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04294056</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSK3486-109</org_study_id>
+    <nct_id>NCT04294056</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Differences in Pharmadynamics, Pharmacokinetics, and Safety Between Ciprofol and Propofol</brief_title>
+  <official_title>A Single-center, Open-label, Randomized, Two-stage, Two-way Crossover Study to Evaluate the Differences in Pharmadynamics, Pharmacokinetics, and Safety Between Ciprofol and Propofol at Different Doses in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Haisco Pharmaceutical Group Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Haisco Pharmaceutical Group Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-center, open-label, randomized, two-stage, two-way crossover Phase I study&#xD;
+      in healthy male subjects.The main objective is to evaluate the differences in pharmadynamics&#xD;
+      (PD), pharmacokinetics (PK), and safety between ciprofol injectable emulsion and propofol&#xD;
+      injectable emulsion at different doses in healthy subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 26, 2020</start_date>
+  <completion_date type="Actual">September 18, 2020</completion_date>
+  <primary_completion_date type="Actual">June 22, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Modified observer's assessment of alertness/sedation（MOAA/S）</measure>
+    <time_frame>From first dose of study drug until fully alert on day 1</time_frame>
+    <description>Observe the change of modified observer's assessment of alert /sedation during the whole trial</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bispectral index （BIS）</measure>
+    <time_frame>From first dose of study drug until fully alert on day 1</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety by measurement of Adverse Events</measure>
+    <time_frame>First dose of study drug on day 1</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Peak concentration (Cmax)</measure>
+    <time_frame>First dose of study drug on day 1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration versus time curve (AUC)</measure>
+    <time_frame>First dose of study drug on day 1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal half-life (t1/2)</measure>
+    <time_frame>First dose of study drug on day 1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>time to peak concentration (Tmax)</measure>
+    <time_frame>First dose of study drug on day 1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clearance (CL)</measure>
+    <time_frame>First dose of study drug on day 1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mean residence time (MRT)</measure>
+    <time_frame>First dose of study drug on day 1</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>volume of distribution (Vz)</measure>
+    <time_frame>First dose of study drug on day 1</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Use of dynamometer to estimate Muscular strength of lower limbs</measure>
+    <time_frame>From 30 minutes before administration to 1 hour after administration on day 1</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>The differences between the Montreal Cognitive Assessment (MoCA) test score in Ciprofol group and in a control group of Propofol</measure>
+    <time_frame>From the baseline period to 1 hour after administration on day 1</time_frame>
+    <description>Total score of the MoCA,the higher scores mean a better outcome</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">18</enrollment>
+  <condition>Anesthesia</condition>
+  <arm_group>
+    <arm_group_label>Ciprofol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>First-stage: 0.4mg/kg, 0.6 mg/kg, 0.8 mg/kg Second-stage: 0.4mg/kg, 0.6 mg/kg, 0.8 mg/kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Propofol</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>First-stage: 2.0mg/kg, 3.0 mg/kg, 4.0 mg/kg Second-stage: 2.0mg/kg, 3.0 mg/kg, 4.0 mg/kg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ciprofol</intervention_name>
+    <description>First-stage: 0.4mg/kg, 0.6 mg/kg, 0.8 mg/kg Second-stage: 0.4mg/kg, 0.6 mg/kg, 0.8 mg/kg</description>
+    <arm_group_label>Ciprofol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Propofol</intervention_name>
+    <description>First-stage: 2.0mg/kg, 3.0 mg/kg, 4.0 mg/kg Second-stage: 2.0mg/kg, 3.0 mg/kg, 4.0 mg/kg</description>
+    <arm_group_label>Propofol</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy adult males, aged 18-45 years (inclusive);&#xD;
+&#xD;
+          2. Body weight ≥ 50 kg, body mass index (BMI) between 18-26 kg/m^2 (inclusive);&#xD;
+&#xD;
+          3. Blood pressure between 90-140/50-90 mmHg (inclusive); heart rate between 60-100 bpm&#xD;
+             (inclusive); body temperature between 35.4-37.5°C (inclusive); respiratory rate&#xD;
+             between 12-20 breaths per min (inclusive); SpO2 when inhaling ≥ 92%;&#xD;
+&#xD;
+          4. Normal results of physical examination, laboratory tests (routine blood, routine&#xD;
+             urine, blood biochemistry (including hepatic function, renal function, blood glucose,&#xD;
+             and electrolytes such as Na, K, and Mg), and blood coagulation), 12-lead ECG, and&#xD;
+             abdominal ultrasonography, or abnormalities considered by the investigators to be&#xD;
+             clinically insignificant; no significant potential difficult airway (modified&#xD;
+             Mallampati score Class I-II);&#xD;
+&#xD;
+          5. No previous history of primary diseases in major organs, such as liver, kidneys,&#xD;
+             digestive tract, blood, and metabolic diseases; no history of malignant hyperthermia&#xD;
+             and other hereditary disorders; no history of mental/neurological disorders; no&#xD;
+             history of epilepsy; no contraindications for deep sedation/general anesthesia; no&#xD;
+             clinically significant history of anesthesia accidents;&#xD;
+&#xD;
+          6. Subjects must understand the procedures and methods of this study, and be willing to&#xD;
+             signing the informed consent form and to complete the trial in strict accordance with&#xD;
+             clinical trial protocol;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with known allergies to ciprofol injectable emulsion, excipient in propofol&#xD;
+             injectable emulsion (soybean oil, glycerin, triglyceride, egg lecithin, sodium oleate,&#xD;
+             and sodium hydroxide); history of drug allergies (including other anesthetics),&#xD;
+             allergic diseases, or hyperactive immune response;&#xD;
+&#xD;
+          2. Patients receiving any of the following drugs or therapies prior to&#xD;
+             screening/administration:&#xD;
+&#xD;
+               1. History of drug abuse within 3 months prior to screening, or positive result in&#xD;
+                  urine drug screening during baseline period;&#xD;
+&#xD;
+               2. Participated in other drug/medical device trials within 3 month prior to&#xD;
+                  screening;&#xD;
+&#xD;
+               3. Serious infection, trauma, or major surgery within 4 weeks prior to screening.&#xD;
+&#xD;
+               4. Acute disease with clinical significance (determined by the investigators) within&#xD;
+                  2 weeks prior to screening, including GI diseases or infections (such as&#xD;
+                  respiratory tract or CNS infections);&#xD;
+&#xD;
+               5. Patients who received propofol, other sedatives/anesthetics, and/or opioid&#xD;
+                  analgesics within 1 week prior to administration;&#xD;
+&#xD;
+               6. Patients who received prescription drugs, Chinese herbal medicines,&#xD;
+                  over-the-counter drugs, or food supplements (such as vitamins and calcium&#xD;
+                  supplements) other than contraceptives, paracetamol, oral non-steroidal&#xD;
+                  anti-inflammatory drugs, and topical over-the-counter preparations, within 2&#xD;
+                  weeks prior to administration; those who received UGT or CYP2B6 inhibitors within&#xD;
+                  7 days prior to administration (refer to Attachment 6 for prohibited drugs);&#xD;
+                  patients can only be enrolled when the principal investigator (PI) and the&#xD;
+                  sponsor agree that the medication has no effect on the safety and PK/PD results&#xD;
+                  of the trial;&#xD;
+&#xD;
+          3. Patients with history or evidence of any of the following diseases prior to&#xD;
+             screening/administration:&#xD;
+&#xD;
+               1. History of cardiovascular diseases, such as postural hypotension, severe&#xD;
+                  arrhythmia, heart failure, Adams-Stokes syndrome, unstable angina, myocardial&#xD;
+                  infarction within 6 months before screening, tachycardia/bradycardia requiring&#xD;
+                  medications, third-degree atrioventricular block, or QTcF interval ≥ 450 ms (per&#xD;
+                  Fridericia's correction formula);&#xD;
+&#xD;
+               2. Subjects with hypopnea, history of obstructive pulmonary disease, history of&#xD;
+                  asthma, or sleep apnea syndrome; subjects with history of failed endotracheal&#xD;
+                  intubation; history of bronchospasm requiring interventions within 3 months prior&#xD;
+                  to screening; acute upper respiratory tract infection within 1 week prior to&#xD;
+                  baseline, with symptoms such as fever, wheeze, nasal obstruction, or cough;&#xD;
+&#xD;
+               3. History of gastrointestinal disorders: history of gastrointestinal retention,&#xD;
+                  active hemorrhage, or conditions that may lead to reflux and aspiration;&#xD;
+&#xD;
+          4. Laboratory results meeting any of the following during screening/at baseline:&#xD;
+&#xD;
+               1. Positive result for any of the markers, including HBsAg, HCV-Ab, HIV-Ab, and&#xD;
+                  Tp-Ab;&#xD;
+&#xD;
+               2. Results for hepatic and renal functions exceeding the following ranges:&#xD;
+&#xD;
+             ALT or AST &gt; 50% of ULN; Creatinine &gt; 20% of ULN; Total bilirubin &gt; 40% of ULN.&#xD;
+&#xD;
+          5. History of alcohol abuse within 3 months prior to screening; alcohol abuse defined as&#xD;
+             average of &gt; 2 units of alcohol per day (1 unit = 360 mL beer or 45 mL liquor with 40%&#xD;
+             alcohol or 150 mL wine), or positive alcohol breath test results at baseline;&#xD;
+&#xD;
+          6. Patients who smoked more than 5 cigarettes per day and a total of more than 60&#xD;
+             cigarettes within 3 months prior to screening;&#xD;
+&#xD;
+          7. Blood donation or blood loss ≥ 200 mL within 30 days prior to screening; plasma&#xD;
+             donation or plasma exchange within 7 days prior to screening;&#xD;
+&#xD;
+          8. Subjects who consumed any beverages or foods containing alcohol, grapefruit juice or&#xD;
+             methylxanthine (such as coffee, tea, cola, chocolate, and energy drinks), participated&#xD;
+             in strenuous physical activities and had other factors that may affect drug&#xD;
+             absorption, distribution, metabolism, and excretion, within 2 days prior to baseline;&#xD;
+             subjects who were unable to fast for 8 hours before dose administration;&#xD;
+&#xD;
+          9. Subjects who were expected to go through surgery or hospitalization during the trial;&#xD;
+&#xD;
+         10. Subjects unsuitable for arterial blood collection, such as subjects with positive&#xD;
+             results in Allen's test;&#xD;
+&#xD;
+         11. Subjects who were unwilling to practice contraception during the trial; subjects who&#xD;
+             were planning to conceive within 3 month after the completion of the trial;&#xD;
+&#xD;
+         12. Subjects judged by the investigators to be unsuitable for participating in this trial&#xD;
+             for any reason.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Sichuan Provincial People's Hospital</name>
+      <address>
+        <city>Chengdu</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>February 2020</verification_date>
+  <study_first_submitted>February 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2020</study_first_posted>
+  <last_update_submitted>November 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Propofol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

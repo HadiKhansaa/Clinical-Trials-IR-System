@@ -1,0 +1,196 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04772183</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-3624</org_study_id>
+    <nct_id>NCT04772183</nct_id>
+  </id_info>
+  <brief_title>OxyGap : Comparaison Between Different Pulse Oximeter and With the Arterial Blood Gase</brief_title>
+  <acronym>OxyGap</acronym>
+  <official_title>OxyGap : Comparaison Between Different Pulse Oximeter and With the Arterial Blood</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Laval University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Laval University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The oximeter is used to monitor intensive care patients undergoing oxygen therapy. It&#xD;
+      indicates pulsed oxygen saturation (SpO2), a reflection of arterial oxygen saturation (SaO2)&#xD;
+      which enables detection of hypoxemia and hyperoxia, both deleterious state. Current SpO2&#xD;
+      recommendations aim to reduce both risk of hypoxemia and hyperoxia. SpO2 is considered the&#xD;
+      5th vital sign.&#xD;
+&#xD;
+      Current recommendations for SpO2 targets do not consider the variability of oximeters used in&#xD;
+      clinical practice. This variability and lack of specification represent an obstacle to an&#xD;
+      optimal practice of oxygen therapy.&#xD;
+&#xD;
+      Thus, this study aims to compare the SpO2 values of different oximeters (Nonin, Masimo,&#xD;
+      Philips, Nellcor) used in clinical practice with the SaO2 reference value obtained by an&#xD;
+      arterial gas in order to specify the precision and the systematic biases of the oximeters&#xD;
+      studied. This data will also make it possible to refine the recommendations concerning&#xD;
+      optimal oxygenation&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difffence between Nellcor SpO2 and the SaO2 value</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Difffence between Nellcor oximeter SpO2 and the SaO2 value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difffence between FreeO2 SpO2 and the SaO2 value</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Difffence between Nonin (FreeO2) oximeter SpO2 and the SaO2 value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difffence between Nonin ear clip and the SaO2 value</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Difffence between Nonin (ear sensor) oximeter SpO2 and the SaO2 value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difffence between Masimo SpO2 and the SaO2 value</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Difffence between Masimo oximeter SpO2 and the SaO2 value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difffence between Philips SpO2 and the SaO2 value</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Difffence between Philips oximeter SpO2 and the SaO2 value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difffence between Contect SpO2 and the SaO2 value</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Difffence between Contec oximeter SpO2 and the SaO2 value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difffence between Bejing choice SpO2 and the SaO2 value</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Difffence between Bejing choice oximeter SpO2 and the SaO2 value</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overestimation and underestimation of SaO2</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>% of pairs with overestimation and underestimation of SaO2 for each oximeter.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypoxemia detection</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Ability to detect hypoxemia (SpO2 below 90% and PaO2 &lt; 60 mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hyperoxemia detection</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Ability to detect hyperoxemia (SpO2 above 95% and PaO2 &gt; 100 mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gaps between the different oximeters</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Average of the SpO2 value gaps between the different oximeters tested</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Finger and ear sensor comparaison</measure>
+    <time_frame>During arterial blood gase sample</time_frame>
+    <description>Comparison of the finger sensor and ear clip sensor for Nonin oximeter</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">210</enrollment>
+  <condition>Respiratory Failure</condition>
+  <condition>Hypoxemia</condition>
+  <condition>Hyperoxemia</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>SpO2 and SaO2 comparaison</intervention_name>
+    <description>Serveral pulse oximeter will be place on patient find few minutes before arterial blood gases.&#xD;
+During an arterial blood sample, all SpO2 will be recordered</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patient in ICU with arterial catheter already installed will be consider.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≥ 18 years old&#xD;
+&#xD;
+          -  Patients admitted to the Intensive Care Unit&#xD;
+&#xD;
+          -  Artery catheter already installed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No signal with the oximeter&#xD;
+&#xD;
+          -  Pigmented nails or nail polish&#xD;
+&#xD;
+          -  Methemoglobinemia&#xD;
+&#xD;
+          -  Patient in isolation (multi-resistant bacteria, C-Difficile, COVID-19…)&#xD;
+&#xD;
+          -  Prone position&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>François Lellouche</last_name>
+    <phone>418-656-8711</phone>
+    <phone_ext>3572</phone_ext>
+    <email>francois.lellouche@criucpq.ulaval.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Pierre-alexandre Bouchard</last_name>
+    <phone>418-656-8711</phone>
+    <phone_ext>2712</phone_ext>
+    <email>pierre-alexandre.bouchard@criucpq.ulaval.ca</email>
+  </overall_contact_backup>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Laval University</investigator_affiliation>
+    <investigator_full_name>François Lellouche</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

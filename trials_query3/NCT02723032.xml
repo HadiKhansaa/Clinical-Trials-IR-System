@@ -1,0 +1,217 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02723032</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OxyFrame</org_study_id>
+    <nct_id>NCT02723032</nct_id>
+  </id_info>
+  <brief_title>Validation of a Miniature SpO2 Sensor in Healthy Subjects and Patients With Long-term Oxygen Therapy.</brief_title>
+  <acronym>OxyFrame</acronym>
+  <official_title>Validation of a Miniature SpO2 Sensor in Healthy Subjects and Patients With Long-term Oxygen Therapy. A Prospective, Method Comparison, Proof of Concept Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Inselspital, Berne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Inselspital, Berne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      By integrating a miniaturized pulse oximetry sensor into the frame of oxygen delivery glasses&#xD;
+      which dissimulates the nasal cannula, the investigators hope to optimize and long term oxygen&#xD;
+      therapy (LTOT) regarding medical and social aspects. The validation of the novel SpO2 sensor&#xD;
+      is the first step in the concept of personalized, dynamic delivery of oxygen by eyeglasses&#xD;
+      using a closed-loop system.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Objectives:&#xD;
+&#xD;
+        1. To determine accuracy of SpO2 measurements by the novel sensor compared to 2 reference&#xD;
+           pulse oximeters in healthy subjects undergoing a normobaric hypoxic challenge provoking&#xD;
+           SpO2 desaturation.&#xD;
+&#xD;
+        2. To determine accuracy of SpO2 measurements by the novel sensor compared to 2 reference&#xD;
+           pulse oximeters and to arterial blood gas analysis in patients qualifying for LTOT,&#xD;
+           breathing room air at rest (lying, sitting, standing position) and during exercise (slow&#xD;
+           walking, 6-MWT, ergometer cycle).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2016</start_date>
+  <completion_date type="Actual">May 2016</completion_date>
+  <primary_completion_date type="Actual">April 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of accuracy in patients</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Assessment of the accuracy of the novel pulse oximeter sensor in patients qualifying for LTOT over the entire saturation range by calculating accuracy root mean square (ARMS). Continuous SpO2 measurement of the novel pulse oximeter will be compared to measurements assessed by 2 standard pulse oximeters and arterial blood gas analysis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of accuracy in healthy volunteers</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Assessment of accuracy of the novel pulse oximeter sensor in healthy subjects undergoing a normobaric hypoxic challenge provoking SpO2 desaturation. SpO2 will be measured continuously over the hole procedure and SpO2 range by the novel pulse oximeter sensor and the 2 reference pulse oximeters.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">36</enrollment>
+  <condition>Pulse Oximeter Validation</condition>
+  <condition>Long Term Oxygen Therapy</condition>
+  <condition>Hypoxemia</condition>
+  <arm_group>
+    <arm_group_label>Healthy Subjects and patients</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Validation of SpO2 sensor in healthy subjects as a first step. Validation of SpO2 sensor in patients as a second step.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>OxyFrame</intervention_name>
+    <description>Validation of a miniaturized pulse oximetry sensor for integration into the frame of oxygen delivery glasses.</description>
+    <arm_group_label>Healthy Subjects and patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Healthy volunteers&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 - 60 years,&#xD;
+&#xD;
+          -  Non smoker,&#xD;
+&#xD;
+          -  Good general health and physical fitness&#xD;
+&#xD;
+          -  Informed Consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current or history of tobacco smoking (&gt; 5 py)&#xD;
+&#xD;
+          -  Current alcohol or drug abuse&#xD;
+&#xD;
+          -  Heart disease or untreated arterial hypertension&#xD;
+&#xD;
+          -  Pulmonary disease&#xD;
+&#xD;
+          -  Epilepsy or other major neurologic disease&#xD;
+&#xD;
+          -  Dark skin colour&#xD;
+&#xD;
+          -  Known anemia&#xD;
+&#xD;
+          -  Severe metabolic disease (e.g. diabetes)&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+        Patients&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Long term oxygen therapy at rest and/or on physical effort&#xD;
+&#xD;
+          -  Hypoxemia in arterial blood gas analysis at rest PaO2 ≤ 55 mmHg or &lt; 60 mmHg with PHT&#xD;
+             or polycythemia (men Hb &gt; 174 g/L, women Hb &gt; 140 g/L) or:&#xD;
+&#xD;
+        Oxygen desaturation on effort (SpO2 &lt; 90%)&#xD;
+&#xD;
+          -  Pulmonary disease including Chronic Obstructive Pulmonary Disease, Interstitial Lung&#xD;
+             Disease and Sarcoidosis&#xD;
+&#xD;
+          -  Informed Consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe hypoxemia (pO2 &lt;40 mmHg)&#xD;
+&#xD;
+          -  Severe hypercapnia (pCO2 &gt;55 mmHg)&#xD;
+&#xD;
+          -  Acute respiratory infection or systemic infection,&#xD;
+&#xD;
+          -  Severe systolic heart disease (LVEF &lt; 25%)&#xD;
+&#xD;
+          -  Myocardial infarction during the last month before inclusion&#xD;
+&#xD;
+          -  Unstable angina pectoris&#xD;
+&#xD;
+          -  Severe aortic stenosis (mean gradient &gt; 40mmHg, valve area &lt;1 cm2)&#xD;
+&#xD;
+          -  Rhythmogenic heart disease&#xD;
+&#xD;
+          -  Severe or untreated arterial hypertension (blood pressure &gt; 180mmHg systolic, &gt;100mmHg&#xD;
+             diastolic)&#xD;
+&#xD;
+          -  Anemia (Hb &lt; 120 g/l)&#xD;
+&#xD;
+          -  Known or suspected coagulation disorder (e.g. INR &gt; 4)&#xD;
+&#xD;
+          -  Severe or untreated metabolic disorder&#xD;
+&#xD;
+          -  Neurologic disease or dementia&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  History of non-compliance to medical treatment&#xD;
+&#xD;
+          -  Current alcohol, drug abuse or current tobacco smoking&#xD;
+&#xD;
+          -  Dark skin color&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Manuela Funke, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Pulmonary Medicine, University Hospital Bern</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Pulmonary Medicine, University Hospital Bern</name>
+      <address>
+        <city>Bern</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>October 2016</verification_date>
+  <study_first_submitted>March 23, 2016</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 30, 2016</study_first_posted>
+  <last_update_submitted>October 26, 2016</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 27, 2016</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

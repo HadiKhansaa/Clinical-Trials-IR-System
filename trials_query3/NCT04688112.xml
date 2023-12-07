@@ -1,0 +1,192 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04688112</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRFX-2020-01</org_study_id>
+    <nct_id>NCT04688112</nct_id>
+  </id_info>
+  <brief_title>Validation Study of Selfie Technology for Assessment of Vital Signs</brief_title>
+  <official_title>A Validation Study Comparing the Heart Rate, Respiratory Rate, Peripheral Oxygen Saturation, Blood Pressure, and Temperature Obtained by Video Selfie With Those Obtained by Direct Measurement in Healthy People</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Perfexia Health Technologies</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Perfexia Health Technologies</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to compare accuracy of DocMe™, a video technology developed by&#xD;
+      perfexia Health Technologies, with previously validated medical devices used for measurements&#xD;
+      of heart rate, blood pressure, and oxygen saturation levels in healthy volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Photoplethysmography (PPG) makes uses of low-intensity infrared (IR) light. When light&#xD;
+      travels through biological tissues, it is absorbed by bones, skin pigments and both venous&#xD;
+      and arterial blood. However, as light is more strongly absorbed by blood than the surrounding&#xD;
+      tissues, the changes in blood flow can be detected by PPG sensors as changes in the intensity&#xD;
+      of light.&#xD;
+&#xD;
+      The signal from PPG is proportional to the quantity of blood flowing through the blood&#xD;
+      vessels and even small changes in blood volume can be detected using this method. Analysis of&#xD;
+      the waveform can provide information on a range of physiological measurements affecting the&#xD;
+      cardiovascular and respiratory systems. PPG is widely used in medicine in the form of pulse&#xD;
+      oximeters using sensors applied to peripheral digits.&#xD;
+&#xD;
+      Recently, it has been shown that PPG data can be obtained using images acquired from videos&#xD;
+      taken using the camera on smartphones and there is now a significant and growing body of&#xD;
+      published literature to support this.&#xD;
+&#xD;
+      perfexia Health Technologies has developed a system of obtaining these data using a 15 second&#xD;
+      video selfie.&#xD;
+&#xD;
+      At this time, the technology has been shown to be reasonably accurate when compared to home&#xD;
+      devices in healthy subjects. However, to make the technology more widely useful, the results&#xD;
+      obtained by video selfies need to be formally validated.&#xD;
+&#xD;
+      The aim of the study therefore is to compare measurements obtained from video selfies with&#xD;
+      measurements taken using already validated machines in the same patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 15, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Heart Rate</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Heart Rate (beats/minute) assessed 3 times at 10 minute intervals on one occasion</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Respiratory Rate</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Respiratory Rate in breaths/min assessed visually or oximeter if it has the capability assessed 3 times at 10 minute intervals on one occasion</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Oxygen Saturation Levels</measure>
+    <time_frame>Baseline</time_frame>
+    <description>SpO2 (%) levels by pulse oximeter assessed 3 times at 10 minute intervals on one occasion</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood Pressure</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Systolic and Diastolic Blood Pressure assessed 3 times at 10 minute intervals on one occasion</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Healthy</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Within the cohort, 50% will be male, 50% female.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy volunteers aged 18-30 years old.&#xD;
+&#xD;
+          -  Participants must be willing and able to give informed consent for participation in&#xD;
+             the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unwillingness or inability to remove coloured nail polish or artificial nails from&#xD;
+             test digit(s)&#xD;
+&#xD;
+          -  Subjects attending the A&amp;E department with any acute medical issues&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>30 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alex T Novak, MRCGP FRCEM</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oxford University Hospitals NHS Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Richard J Phillips, MBBS DPM MBA</last_name>
+    <phone>+44 (0)790 8446934</phone>
+    <email>richard.phillips@perfexia.health</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Oxford University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Oxford</city>
+        <state>Oxfordshire</state>
+        <zip>OX3 9DU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Barszczyk A, Lee K. Measuring Blood Pressure: from Cuff to Smartphone. Curr Hypertens Rep. 2019 Oct 10;21(11):84. doi: 10.1007/s11906-019-0990-3. Review.</citation>
+    <PMID>31599362</PMID>
+  </reference>
+  <reference>
+    <citation>Luo H, Yang D, Barszczyk A, Vempala N, Wei J, Wu SJ, Zheng PP, Fu G, Lee K, Feng ZP. Smartphone-Based Blood Pressure Measurement Using Transdermal Optical Imaging Technology. Circ Cardiovasc Imaging. 2019 Aug;12(8):e008857. doi: 10.1161/CIRCIMAGING.119.008857. Epub 2019 Aug 6.</citation>
+    <PMID>31382766</PMID>
+  </reference>
+  <reference>
+    <citation>Chowdhury MH, Shuzan MNI, Chowdhury MEH, Mahbub ZB, Uddin MM, Khandakar A, Reaz MBI. Estimating Blood Pressure from the Photoplethysmogram Signal and Demographic Features Using Machine Learning Techniques. Sensors (Basel). 2020 Jun 1;20(11). pii: E3127. doi: 10.3390/s20113127.</citation>
+    <PMID>32492902</PMID>
+  </reference>
+  <reference>
+    <citation>Humphreys K, Ward T, Markham C. Noncontact simultaneous dual wavelength photoplethysmography: a further step toward noncontact pulse oximetry. Rev Sci Instrum. 2007 Apr;78(4):044304.</citation>
+    <PMID>17477684</PMID>
+  </reference>
+  <reference>
+    <citation>Kong L, Zhao Y, Dong L, Jian Y, Jin X, Li B, Feng Y, Liu M, Liu X, Wu H. Non-contact detection of oxygen saturation based on visible light imaging device using ambient light. Opt Express. 2013 Jul 29;21(15):17464-71. doi: 10.1364/OE.21.017464.</citation>
+    <PMID>23938616</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>December 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 29, 2020</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Photoplethysmography</keyword>
+  <keyword>Video Selfie</keyword>
+  <keyword>Vital Signs</keyword>
+  <keyword>Blood Pressure</keyword>
+  <keyword>Oxygen saturation</keyword>
+  <keyword>Smartphone</keyword>
+  <keyword>DocMe</keyword>
+  <keyword>Heart Rate</keyword>
+  <keyword>Respiratory Rate</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

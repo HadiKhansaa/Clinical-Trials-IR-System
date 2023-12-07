@@ -1,0 +1,231 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02174887</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MOAnab1-IPC 2012-010</org_study_id>
+    <nct_id>NCT02174887</nct_id>
+  </id_info>
+  <brief_title>Biological Effect of Nab-paclitaxel Combined to Gemcitabine in Metastatic Pancreatic Cancer</brief_title>
+  <acronym>MOAnab1</acronym>
+  <official_title>A Unicentric, Open Label, Mechanism of Action Trial, on the Biological Effect of Nab-paclitaxel Combined to Gemcitabine, in Patients With Metastatic Pancreatic Adenocarcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut Paoli-Calmettes</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institut Paoli-Calmettes</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The prognostic of metastatic pancreatic adenocarcinoma is dismal and the treatment gold&#xD;
+      standard since the end of the 90s' is gemcitabine; unfortunately all trials testing&#xD;
+      combinations of gemcitabine with chemotherapeutic agents or targeted agents had failed to&#xD;
+      demonstrate any superiority over gemcitabine monotherapy.&#xD;
+&#xD;
+      In a recently published phase I/II study of combination of gemcitabine plus nab-paclitaxel in&#xD;
+      patients with metastatic pancreatic adenocarcinoma (PAC), the combination gave an impressive&#xD;
+      response rate of 48% (Gemcitabine 1g/m² and nab-paclitaxel 125 mg/m² once a week for 3 weeks,&#xD;
+      every 4 weeks). The safety profile was correct (fatigue, sensory neuropathy, nausea,&#xD;
+      haematological side effects). This efficacy can be related to an improvement of gemcitabine&#xD;
+      delivery to the tumor bed, as shown on preclinical studies: the response rate in xenografts&#xD;
+      was better with the combination; this improvement was associated with an increase of&#xD;
+      intratumoral gemcitabine concentration in mice receiving the combination when compared to&#xD;
+      mice receiving gemcitabine alone. This might be associated to modifications of peritumoral&#xD;
+      stroma with reduction of stromal content and increase in dilated vessels.&#xD;
+&#xD;
+      The aim of this study is to evaluate if the combination of nab-paclitaxel plus gemcitabine&#xD;
+      induces a modification in vascularization of pancreatic adenocarcinoma on the primary tumor&#xD;
+      and of liver metastases after 2 cycles of treatment by comparison to baseline.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 2014</start_date>
+  <completion_date type="Actual">October 2016</completion_date>
+  <primary_completion_date type="Actual">October 2016</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Vascularization parameters of pancreatic carcinoma</measure>
+    <time_frame>2 months</time_frame>
+    <description>Vascularization parameters of pancreatic carcinoma:&#xD;
+on the primary tumor assessed by contrast-enhanced harmonic endoscopic ultrasonography (EUS)&#xD;
+and on liver metastases assessed by contrast enhanced ultrasonography (ceUS)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stiffness</measure>
+    <time_frame>2 months</time_frame>
+    <description>Stiffness will be assessed in the primary tumor using ratio-elastography</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Density</measure>
+    <time_frame>2 months</time_frame>
+    <description>Density will be assessed in liver metastases on CTscan using density measurement before injection of contrast agent and after injection during the portal phase (80 sec post IV)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety</measure>
+    <time_frame>2 months</time_frame>
+    <description>Adverse events of the treatment will be evaluated according to the Common Toxicity Criteria for Adverse Events (CTCAE version 4.03)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate</measure>
+    <time_frame>2 months</time_frame>
+    <description>Response rate will be evaluated according to RECIST V1.1 and CHOI criteria</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">19</enrollment>
+  <condition>Pancreatic Adenocarcinoma</condition>
+  <arm_group>
+    <arm_group_label>Nab-paclitaxel + Gemcitabine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Gemcitabine 1 g/m² IV infusion over 30 minutes at D1-D8-D15 every 28 days in combination with Nab-paclitaxel 125 mg/m² IV infusion over 30 minutes at D1-D8-D15 every 28 days The patients will receive 2 cycles of treatment every 28 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nab-paclitaxel + Gemcitabine</intervention_name>
+    <description>Gemcitabine 1 g/m² IV infusion over 30 minutes at D1-D8-D15 every 28 days in combination with Nab-paclitaxel 125 mg/m² IV infusion over 30 minutes at D1-D8-D15 every 28 days&#xD;
+The patients will receive 2 cycles of treatment every 28 days:</description>
+    <arm_group_label>Nab-paclitaxel + Gemcitabine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age &gt; 18 years&#xD;
+&#xD;
+          2. Suspicion of pancreatic adenocarcinoma&#xD;
+&#xD;
+          3. With liver measurable metastases&#xD;
+&#xD;
+          4. Primary tumor non resected&#xD;
+&#xD;
+          5. First line systemic treatment&#xD;
+&#xD;
+          6. Correct haematological parameters&#xD;
+&#xD;
+          7. Adequate Blood chemistry levels&#xD;
+&#xD;
+          8. Life expectancy ≥ 2 months&#xD;
+&#xD;
+          9. PS: 0 - 2&#xD;
+&#xD;
+         10. Affiliation to French National social security or beneficiary&#xD;
+&#xD;
+         11. Signed informed consent.&#xD;
+&#xD;
+         12. Female patients must be surgically sterile, or be postmenopausal, or must commit to&#xD;
+             using reliable and appropriate methods of contraception during the study and during at&#xD;
+             least three months after the end of study treatment. All female patients with&#xD;
+             reproductive potential must have a negative pregnancy test (β HCG) within 72 hours&#xD;
+             prior to starting abraxane treatment. Breastfeeding is not allowed. Male patients must&#xD;
+             agree to use effective contraception in addition to having their partner use a&#xD;
+             contraceptive method as well during the trial and during at least six months after the&#xD;
+             end of the study treatment,&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Previous radiotherapy of the tumor&#xD;
+&#xD;
+          2. Patient has only locally advanced disease.&#xD;
+&#xD;
+          3. Previous treatment with gemcitabine&#xD;
+&#xD;
+          4. Active infection or severe concomitant disease&#xD;
+&#xD;
+          5. Serious Peripheral neuropathy&#xD;
+&#xD;
+          6. Known hypersensitivity or contraindication to any component of study drug formulation.&#xD;
+&#xD;
+          7. Pregnant or breastfeeding women&#xD;
+&#xD;
+          8. Other experimental treatment&#xD;
+&#xD;
+          9. History of malignancy in the last 5 years. Patients with prior history of in situ&#xD;
+             cancer or basal or squamous cell skin cancer are eligible. Patients with other&#xD;
+             malignancies are eligible if they were cured by surgery alone or surgery plus&#xD;
+             radiotherapy and have been continuously disease-free for at least 5 years.&#xD;
+&#xD;
+         10. Known brain metastases, unless previously treated and well-controlled for at least 3&#xD;
+             months (defined as clinically stable, no edema, no steroids and stable in 2 scans at&#xD;
+             least 4 weeks apart).&#xD;
+&#xD;
+         11. Patient has serious medical risk factors involving any of the major organ systems, or&#xD;
+             serious psychiatric disorders, which could compromise the patient's safety or the&#xD;
+             study data integrity&#xD;
+&#xD;
+         12. Patient with a history of interstitial lung disease, history of slowly progressive&#xD;
+             dyspnea and unproductive cough, sarcoidosis, silicosis, idiopathic pulmonary fibrosis,&#xD;
+             pulmonary, Hypersensitivity pneumonitis or multiple allergies&#xD;
+&#xD;
+         13. Patient uses Coumadin&#xD;
+&#xD;
+         14. Legal incapacity or limited legal capacity. Medical or psychological conditions not&#xD;
+             allowing the subject to complete the study or sign the consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Luc RAOUL, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institut Paoli-Calmettes</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Institut Paoli-Calmettes</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13009</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <link>
+    <url>http://www.institutpaolicalmettes.fr/</url>
+    <description>official web site of the sponsor</description>
+  </link>
+  <verification_date>March 2017</verification_date>
+  <study_first_submitted>June 24, 2014</study_first_submitted>
+  <study_first_submitted_qc>June 24, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 26, 2014</study_first_posted>
+  <last_update_submitted>March 27, 2017</last_update_submitted>
+  <last_update_submitted_qc>March 27, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 28, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>pancreatic adenocarcinoma</keyword>
+  <keyword>liver metastases</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenocarcinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Paclitaxel</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

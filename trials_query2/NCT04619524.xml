@@ -1,0 +1,359 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04619524</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4616-27870</org_study_id>
+    <nct_id>NCT04619524</nct_id>
+  </id_info>
+  <brief_title>Biomarkers of Endometrial Receptivity</brief_title>
+  <acronym>BIOMER</acronym>
+  <official_title>Biomarkers of Endometrial Receptivity: A Prospective Multicenter Study on Proteomic Biomarkers of Endometrial Receptivity in Cervical Mucus ( PRO BIOMER - CM )</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Institute of Molecular and Translational Medicine, Czech Republic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Hospital Olomouc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brno University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Institute of Molecular and Translational Medicine, Czech Republic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Analysis of proteins from cervical mucus will be done in patients undergoing infertility&#xD;
+      treatment (fresh or frozen embryo transfer). Cervical mucus will be analysed for potential&#xD;
+      new biomarkers of endometrium receptivity. Comparison of the peptide spectrum will be done&#xD;
+      for the pregnant and not pregnant patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Successful implantation depends on synchronization between a normal functional embryo at the&#xD;
+      blastocyst developmental stage and a receptive endometrium. The endometrium is receptive to&#xD;
+      blastocysts during a spatially and temporally restricted time window called the &quot;window of&#xD;
+      implantation&quot;. Failure of the endometrium to attain receptivity is one cause of infertility,&#xD;
+      and this is not currently assessed during infertility workup due to a lack of reliable&#xD;
+      markers for receptivity. Better tests are required to assist the clinician with the decision&#xD;
+      when to defer a transfer and to freeze all embryos. Proteomics, or the analysis of the&#xD;
+      proteins in any sample, provides physiologically relevant information, since there are many&#xD;
+      regulatory steps between the transcriptome and functional proteins. Uterine fluid is a&#xD;
+      protein-rich histotroph that contains, among other components, secretions from the&#xD;
+      endometrial glands and cleavage products of both the secreted proteins and the glycocalyx.&#xD;
+      The aim of this study is to assess the highly sensitive mass spectrometer analysis of the&#xD;
+      proteins from cervical mucus for the detection of defects in endometrial receptivity and&#xD;
+      search for new endometrial receptivity biomarkers.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2018</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mass spectrometer analysis of the proteins from cervical mucus</measure>
+    <time_frame>48 months</time_frame>
+    <description>Highly sensitive mass analysis of the proteins from cervical mucus on Thermo Orbitrap Elite instrument for all collected samples.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of the protein analysis between the pregnant and not pregnant patients</measure>
+    <time_frame>48 months</time_frame>
+    <description>Comparison of the protein analysis (qualitative and quantitative) will be done between the pregnant and not pregnant patients. Pregnant patients will be followed-up until child delivery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of the new endometrial receptivity biomarkers.</measure>
+    <time_frame>48 months</time_frame>
+    <description>Proteomic endometrial receptivity biomarkers will be detected based on the analysis of measured data in relation to the successful implantation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">476</enrollment>
+  <condition>IVF</condition>
+  <condition>Infertility Treatment</condition>
+  <condition>Fertility Disorders</condition>
+  <condition>Embryo Transfer</condition>
+  <arm_group>
+    <arm_group_label>A: Patients undergo cycle with the transfer of fresh embryos</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In study group A the cervical mucus will be collected from patients undergoing the in vitro fertilisation (IVF)/intracytoplasmic sperm injection (ICSI)/embryo transfer (ET) cycle with the transfer of fresh embryos.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B: Patients undergo cycle with the transfer of frozen embryos</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In study group B cervical mucus will be sampled from patients undergoing treatment cycles with the transfer of cryopreserved embryos.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cervical mucus will be collected from patients undergoing IVF</intervention_name>
+    <description>Patients undergoing hormonal stimulation for IVF will be sampled for cervical mucus.</description>
+    <arm_group_label>A: Patients undergo cycle with the transfer of fresh embryos</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cervical mucus will be collected from patients undergoing transfer of cryopreserved embryos</intervention_name>
+    <description>Patients undergoing hormonal substitution for transfer of cryopreserved embryos will be sampled for cervical mucus.</description>
+    <arm_group_label>B: Patients undergo cycle with the transfer of frozen embryos</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria - Arm A - stimulated cycle:&#xD;
+&#xD;
+          -  female aged less than 37 years (maximally 36y + 364d)&#xD;
+&#xD;
+          -  no smoker&#xD;
+&#xD;
+          -  normal menstrual cycles lasting between 25 to 35 days&#xD;
+&#xD;
+          -  had been infertile for less than five years&#xD;
+&#xD;
+          -  normal responder&#xD;
+&#xD;
+          -  fewer than three failed cycles of assisted reproduction treatment, including fresh&#xD;
+             IVF/ intracytoplasmic sperm injection (ICSI) embryo transfer cycles and/or&#xD;
+             frozen-thawed embryo transfer cycles&#xD;
+&#xD;
+          -  sperm obtained through ejaculation&#xD;
+&#xD;
+          -  spermiogram more than 5 million sperm/mL&#xD;
+&#xD;
+          -  BMI 19-29 kg/m2&#xD;
+&#xD;
+          -  follicle stimulating hormone (FSH) &lt; 10 IU/L on the third day&#xD;
+&#xD;
+          -  basal antral follicle count of 5-15&#xD;
+&#xD;
+          -  undergoing the same routine gonadotrophin-releasing hormone agonist (GnRHa) long depot&#xD;
+             or gonadotrophin-releasing hormone antagonist (GnRH-ant.) protocol&#xD;
+&#xD;
+          -  informed consent&#xD;
+&#xD;
+        Exclusion Criteria - Arm A - stimulated cycle:&#xD;
+&#xD;
+          -  genetic disease&#xD;
+&#xD;
+          -  metabolic and/or endocrine disorders&#xD;
+&#xD;
+          -  polycystic ovary syndrome (defined by the Rotterdam criteria)&#xD;
+&#xD;
+          -  women with prior diagnosis of endometriosis or adenomyosis&#xD;
+&#xD;
+          -  previous gynecological/pelvic surgery except for salpingectomy&#xD;
+&#xD;
+          -  repeated spontaneous abortions (two or more)&#xD;
+&#xD;
+          -  previously less than 5 oocytes and/or serum anti-Mullerian hormone value &lt; 1.0 mIU/ml&#xD;
+             or more than 20 oocytes, milli-International unit (mIU)&#xD;
+&#xD;
+          -  previous ovarian hyperstimulation syndrome (OHSS)&#xD;
+&#xD;
+          -  presence of any structural abnormality of the reproductive system&#xD;
+&#xD;
+          -  donor oocyte cycles&#xD;
+&#xD;
+          -  severe male factor infertility &lt; 5 million sperm/mL&#xD;
+&#xD;
+          -  low response to stimulation&#xD;
+&#xD;
+          -  endometrium &lt; 8 mm at the day of human chorionic gonadotropin (hCG) or ET&#xD;
+&#xD;
+          -  number of retrieved oocytes 5 - 20&#xD;
+&#xD;
+          -  low fertilization capacity (rate of fertilization &lt; 20% and late ICSI following IVF&#xD;
+             fertilization failure)&#xD;
+&#xD;
+          -  OHSS&#xD;
+&#xD;
+          -  IVF cycle cancelled before ET&#xD;
+&#xD;
+          -  other than easy one high-quality blastocyst transfer (at least grade 3BB)&#xD;
+&#xD;
+        Inclusion criteria - Arm B - substituted cycle:&#xD;
+&#xD;
+          -  female aged less than 37 years (maximally 36y + 364d)&#xD;
+&#xD;
+          -  no smoker&#xD;
+&#xD;
+          -  normal menstrual cycles lasting between 25 to 35 days&#xD;
+&#xD;
+          -  had been infertile for less than five years&#xD;
+&#xD;
+          -  normal responder at stimulation&#xD;
+&#xD;
+          -  fewer than three failed cycles of assisted reproduction treatment, including fresh&#xD;
+             IVF/ intracytoplasmic sperm injection (ICSI) embryo transfer cycles and/or&#xD;
+             frozen-thawed embryo transfer cycles&#xD;
+&#xD;
+          -  sperm obtained through ejaculation&#xD;
+&#xD;
+          -  spermiogram more than 5 million sperm/mL&#xD;
+&#xD;
+          -  BMI 19-29 kg/m2&#xD;
+&#xD;
+          -  FSH &lt; 10 IU/L on the third day&#xD;
+&#xD;
+          -  undergoing the same routine estrogen/progesterone substituted cycle&#xD;
+&#xD;
+          -  informed consent&#xD;
+&#xD;
+        Exclusion criteria - Arm B - substituted cycle:&#xD;
+&#xD;
+          -  genetic disease&#xD;
+&#xD;
+          -  metabolic and/or endocrine disorders such as diabetes, metabolic syndrome, and thyroid&#xD;
+             disorders&#xD;
+&#xD;
+          -  polycystic ovary syndrome (defined by the Rotterdam criteria), hyperprolactinaemia&#xD;
+&#xD;
+          -  women with prior diagnosis of endometriosis or adenomyosis&#xD;
+&#xD;
+          -  previous gynecological/pelvic surgery except for salpingectomy&#xD;
+&#xD;
+          -  repeated spontaneous abortions (two or more)&#xD;
+&#xD;
+          -  previously less than 5 oocytes and/or serum anti-Mullerian hormone value &lt; 0.5 mIU/ml&#xD;
+             in the stimulated cycle&#xD;
+&#xD;
+          -  previous OHSS&#xD;
+&#xD;
+          -  presence of any structural abnormality of the reproductive system&#xD;
+&#xD;
+          -  severe male factor infertility &lt; 5 million sperm/mL in the stimulated cycle&#xD;
+&#xD;
+          -  number of retrieved oocytes 5 - 20 in the stimulated cycle&#xD;
+&#xD;
+          -  low fertilization capacity (rate of fertilization &lt; 20% and late ICSI following IVF&#xD;
+             fertilization failure)&#xD;
+&#xD;
+          -  endometrium less than 8 mm at the day of thawing and transfer indication&#xD;
+&#xD;
+          -  thawed blastocyst cycle cancelled before ET&#xD;
+&#xD;
+          -  other than easy one best quality frozen/thawed blastocyst transfer (at least grade&#xD;
+             3BB)&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>36 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marian Hajduch, MD.PhD.</last_name>
+    <role>Study Director</role>
+    <affiliation>Palacky University in Olomouc, Faculty of Medicine and Dentristry</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Radovan Pilka, Prof.MD.PhD.</last_name>
+    <phone>+420739329868</phone>
+    <email>radovan.pilka@fnol.cz</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Petr Dzubak, MD.PhD.</last_name>
+    <phone>+420604851158</phone>
+    <email>dzubakp@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Brno University Hospital</name>
+      <address>
+        <city>Brno</city>
+        <state>Jihomoravsky Kraj</state>
+        <zip>62500</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Igor Crha, MD, PhD</last_name>
+      <phone>+420728159163</phone>
+      <email>crha.igor@fnbrno.cz</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Olomouc</name>
+      <address>
+        <city>Olomouc</city>
+        <zip>77900</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Petr Dzubak, MD, PhD</last_name>
+      <phone>+420 585632150</phone>
+      <email>petr.dzubak@upol.cz</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marian Hadjuch, MD, PhD</last_name>
+      <phone>+420 585632082</phone>
+      <email>marian.hajduch@upol.cz</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Olomouc</name>
+      <address>
+        <city>Olomouc</city>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Radovan Pilka, Prof.MD.</last_name>
+      <phone>+420739329868</phone>
+      <email>radovan.pilka@fnol.cz</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Czechia</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 6, 2020</study_first_posted>
+  <last_update_submitted>November 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cervix</keyword>
+  <keyword>mucus</keyword>
+  <keyword>endometrium</keyword>
+  <keyword>receptivity</keyword>
+  <keyword>biomarker</keyword>
+  <keyword>proteomics</keyword>
+  <keyword>infertility</keyword>
+  <keyword>in-vitro</keyword>
+  <keyword>fertilisation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infertility</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

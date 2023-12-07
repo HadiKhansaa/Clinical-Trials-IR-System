@@ -1,0 +1,630 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04722796</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-0007</org_study_id>
+    <nct_id>NCT04722796</nct_id>
+  </id_info>
+  <brief_title>HANGZHOU Solution in Bicuspid AS Undergoing TAVR</brief_title>
+  <official_title>HANGZHOU Solution for Patients With Bicuspid Aortic Stenosis Undergoing Transcatheter Aortic Valve Replacement by Using Supra-annular Structure Based Balloon Sizing Strategy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Second Affiliated Hospital, School of Medicine, Zhejiang University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Venus MedTech (HangZhou) Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Second Affiliated Hospital, School of Medicine, Zhejiang University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare supra-annular sizing and THV implantation technique (Hangzhou solution) versus&#xD;
+      annular sizing and THV implantation technique (control group) in bicuspid aortic stenosis&#xD;
+      (AS) patients undergoing transcatheter aortic valve replacement (TAVR) with self-expanding&#xD;
+      valves (SEVs): a randomized superiority trial&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Transcatheter aortic valve replacement (TAVR) has emerged as a favorable alternative for&#xD;
+      severe symptomatic aortic stenosis (AS) patients from low to high surgical risk. BAV patients&#xD;
+      treated with TAVR had similar 30-day mortality as well as stroke and new pacemaker&#xD;
+      implantation rates compared to TAV subjects, but carried higher risk of moderate/severe PVL,&#xD;
+      conversion to surgery and device failure. Event rates significantly decreased with the use of&#xD;
+      new-generation devices, but TAVR still showed better procedural results in TAV compared to&#xD;
+      BAV.&#xD;
+&#xD;
+      Clinical experience in China suggests bicuspid aortic valves and heavy calcium burden are&#xD;
+      more common among TAVR candidates. Morphological characteristics at supra-annular structure&#xD;
+      (from annulus to the level of sinotubular junction) are quite complex in bicuspid AS,&#xD;
+      especially concomitant with heavily calcified leaflets. Because only two leaflet hinge points&#xD;
+      provide the definition of the annulus plane, current CT-based annulus measurements might not&#xD;
+      be accurate under these circumstances. From previous single center clinical practice, &quot;waist&#xD;
+      sign&quot; above the annulus during balloon aortic valvuloplasty in TAVR was often observed in&#xD;
+      patients with bicuspid AS, indicating that the supra-annular structure may serve a key role&#xD;
+      in anchoring the THV.&#xD;
+&#xD;
+      Therefore, we developed a balloon based supra-annular sizing strategy (Hangzhou Solution) for&#xD;
+      SEV implantation in bicuspid AS. From our single center experience, the device success rate&#xD;
+      and pacemaker implantation rate were relatively low.&#xD;
+&#xD;
+      The aim of this study is to compare supra-annular sizing and THV implantation technique&#xD;
+      (Hangzhou solution) versus annular sizing and THV implantation technique (control group) in&#xD;
+      bicuspid aortic stenosis (AS) patients undergoing transcatheter aortic valve replacement&#xD;
+      (TAVR) with self-expanding valves (SEVs).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2028</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite of all-cause mortality rate, disabling stroke rate, new permanent pacemaker implantation rate and moderate or severe prosthetic valve regurgitation rate at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>Composite of all-cause mortality, disabling stroke, new permanent pacemaker implantation and moderate or severe prosthetic valve regurgitation at 1 month (per Valve Academic Research Consortium-2 [VARC-2] criteria)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Deaths (all-cause mortality) at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of deaths from any cause mortality at 1 month</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deaths (all-cause mortality) at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deaths (all-cause mortality) at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deaths (all-cause mortality) at 3 years</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deaths (all-cause mortality) at 4 years</measure>
+    <time_frame>4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deaths (all-cause mortality) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All Stroke (disabling and non-disabling) at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>duration of a focal or global neurological deficit &gt;24 h; OR &lt;24 h if available neuroimaging documents a new haemorrhage or infarct; OR the neurological deficit results in death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All Stroke (disabling and non-disabling) at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All Stroke (disabling and non-disabling) at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All Stroke (disabling and non-disabling) at 3 years</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All Stroke (disabling and non-disabling) at 4 years</measure>
+    <time_frame>4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All Stroke (disabling and non-disabling) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of New permanent pacemaker implantation at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>Rate of New permanent pacemaker implantation (e.g. defibrillator, single vs. dual chamber, biventricular)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of New permanent pacemaker implantation at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of New permanent pacemaker implantation at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of New permanent pacemaker implantation at 3 years</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of New permanent pacemaker implantation at 4 years</measure>
+    <time_frame>4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of New permanent pacemaker implantation at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Moderate or severe prosthetic valve regurgitation at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>Moderate or severe prosthetic valve regurgitation by transthoracic echocardiography, VARC-2 definition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Moderate or severe prosthetic valve regurgitation at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Moderate or severe prosthetic valve regurgitation at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Moderate or severe prosthetic valve regurgitation at 3 years</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Moderate or severe prosthetic valve regurgitation at 4 years</measure>
+    <time_frame>4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Moderate or severe prosthetic valve regurgitation at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-hospitalization for signs and symptoms of aortic valve disease and/or THV related complications at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>Re-hospitalization for signs and symptoms of aortic valve disease and/or THV related complications by VARC-2 definition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-hospitalization for signs and symptoms of aortic valve disease and/or THV related complications at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-hospitalization for signs and symptoms of aortic valve disease and/or THV related complications at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-hospitalization for signs and symptoms of aortic valve disease and/or THV related complications at 3 years</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-hospitalization for signs and symptoms of aortic valve disease and/or THV related complications at 4 years</measure>
+    <time_frame>4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-hospitalization for signs and symptoms of aortic valve disease and/or THV related complications at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of alternating valve of prosthetic valve size during TAVR</measure>
+    <time_frame>peri-procedural</time_frame>
+    <description>Alternating valve of prosthetic valve size during TAVR (up size or down size)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of valve malposition</measure>
+    <time_frame>peri-procedural</time_frame>
+    <description>Valve malposition (migration, embolization, and ectopic deployment)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of TAV-in-TAV deployment</measure>
+    <time_frame>peri-procedural</time_frame>
+    <description>TAV-in-TAV deployment (An additional valve prosthesis is implanted within a previously implanted prosthesis because of suboptimal device position and/or function, during the index procedure)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of device recapture or retrieval</measure>
+    <time_frame>peri-procedural</time_frame>
+    <description>Device recapture or retrieval peri-procedural</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of conversion to open surgery</measure>
+    <time_frame>peri-procedural</time_frame>
+    <description>Conversion to open surgery (Conversion to open sternotomy during the TAVR procedure secondary to any procedure-related complications)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of unplanned use of cardiopulmonary bypass (CPB) for hemodynamic support at any time during the TAVR procedure</measure>
+    <time_frame>peri-procedural</time_frame>
+    <description>Unplanned use of cardiopulmonary bypass (CPB) for hemodynamic support at any time during the TAVR procedure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of coronary obstruction</measure>
+    <time_frame>peri-procedural</time_frame>
+    <description>Coronary obstruction (Angiographic or echocardiographic evidence of a new, partial or complete, obstruction of a coronary ostium, either by the valve prosthesis itself, the native leaflets, calcifications, or dissection, occurring during the TAVR procedure)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major vascular complications (VARC 2)</measure>
+    <time_frame>peri-procedural</time_frame>
+    <description>Major vascular complications by VARC 2 definition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of annulus rupture</measure>
+    <time_frame>peri-procedural</time_frame>
+    <description>Procedural-related injuries occur in the region of the aortic root and the left ventricular outflow tract during transcatheter aortic valve replacement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of structural valve deterioration at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>Structural valve deterioration (2017 EAPCI/ESC/EACTS definition)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of structural valve deterioration at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of structural valve deterioration at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of structural valve deterioration at 3 years</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of structural valve deterioration at 4 years</measure>
+    <time_frame>4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of structural valve deterioration at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New onset complete LBBB before discharge</measure>
+    <time_frame>before discharge</time_frame>
+    <description>New onset complete LBBB, by 2009 AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: part III definition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New onset complete LBBB at 1 month</measure>
+    <time_frame>1 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kansas City Cardiomyopathy Questionnaire (KCCQ) QoL Scores at Baseline</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The Kansas City Cardiomyopathy Questionnaire is a 23-item, self administered instrument that quantifies physical function, symptoms, social function, self-efficacy and knowledge, and quality of life. with a range of possible subscale scores from 0 to 100, with 100 representing the least burden of symptoms. The KCCQ tool quantifies the following six (6) distinct domains and two (2) summary scores: KCCQ Symptom Domain, KCCQ Physical Function Domain, KCCQ Quality of Life Domain, KCCQ Social Limitation Domain, KCCQ Self-efficacy Domain, KCCQ Symptom Stability Domain, Clinical Summary Score and Overall Summary Score. Clinical Summary Score includes total symptom and physical function scores to correspond with NYHA Classification. Overall Summary Score includes the total symptom, physical function, social limitations and quality of life scores.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kansas City Cardiomyopathy Questionnaire (KCCQ) QoL Scores at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>The Kansas City Cardiomyopathy Questionnaire is a 23-item, self administered instrument that quantifies physical function, symptoms, social function, self-efficacy and knowledge, and quality of life. with a range of possible subscale scores from 0 to 100, with 100 representing the least burden of symptoms. The KCCQ tool quantifies the following six (6) distinct domains and two (2) summary scores: KCCQ Symptom Domain, KCCQ Physical Function Domain, KCCQ Quality of Life Domain, KCCQ Social Limitation Domain, KCCQ Self-efficacy Domain, KCCQ Symptom Stability Domain, Clinical Summary Score and Overall Summary Score. Clinical Summary Score includes total symptom and physical function scores to correspond with NYHA Classification. Overall Summary Score includes the total symptom, physical function, social limitations and quality of life scores.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kansas City Cardiomyopathy Questionnaire (KCCQ) QoL Scores at 1 year</measure>
+    <time_frame>1 year</time_frame>
+    <description>The Kansas City Cardiomyopathy Questionnaire is a 23-item, self administered instrument that quantifies physical function, symptoms, social function, self-efficacy and knowledge, and quality of life. with a range of possible subscale scores from 0 to 100, with 100 representing the least burden of symptoms. The KCCQ tool quantifies the following six (6) distinct domains and two (2) summary scores: KCCQ Symptom Domain, KCCQ Physical Function Domain, KCCQ Quality of Life Domain, KCCQ Social Limitation Domain, KCCQ Self-efficacy Domain, KCCQ Symptom Stability Domain, Clinical Summary Score and Overall Summary Score. Clinical Summary Score includes total symptom and physical function scores to correspond with NYHA Classification. Overall Summary Score includes the total symptom, physical function, social limitations and quality of life scores.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kansas City Cardiomyopathy Questionnaire (KCCQ) QoL Scores at 2 years</measure>
+    <time_frame>2 years</time_frame>
+    <description>The Kansas City Cardiomyopathy Questionnaire is a 23-item, self administered instrument that quantifies physical function, symptoms, social function, self-efficacy and knowledge, and quality of life. with a range of possible subscale scores from 0 to 100, with 100 representing the least burden of symptoms. The KCCQ tool quantifies the following six (6) distinct domains and two (2) summary scores: KCCQ Symptom Domain, KCCQ Physical Function Domain, KCCQ Quality of Life Domain, KCCQ Social Limitation Domain, KCCQ Self-efficacy Domain, KCCQ Symptom Stability Domain, Clinical Summary Score and Overall Summary Score. Clinical Summary Score includes total symptom and physical function scores to correspond with NYHA Classification. Overall Summary Score includes the total symptom, physical function, social limitations and quality of life scores.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kansas City Cardiomyopathy Questionnaire (KCCQ) QoL Scores at 3 years</measure>
+    <time_frame>3 years</time_frame>
+    <description>The Kansas City Cardiomyopathy Questionnaire is a 23-item, self administered instrument that quantifies physical function, symptoms, social function, self-efficacy and knowledge, and quality of life. with a range of possible subscale scores from 0 to 100, with 100 representing the least burden of symptoms. The KCCQ tool quantifies the following six (6) distinct domains and two (2) summary scores: KCCQ Symptom Domain, KCCQ Physical Function Domain, KCCQ Quality of Life Domain, KCCQ Social Limitation Domain, KCCQ Self-efficacy Domain, KCCQ Symptom Stability Domain, Clinical Summary Score and Overall Summary Score. Clinical Summary Score includes total symptom and physical function scores to correspond with NYHA Classification. Overall Summary Score includes the total symptom, physical function, social limitations and quality of life scores.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kansas City Cardiomyopathy Questionnaire (KCCQ) QoL Scores at 4 years</measure>
+    <time_frame>4 years</time_frame>
+    <description>The Kansas City Cardiomyopathy Questionnaire is a 23-item, self administered instrument that quantifies physical function, symptoms, social function, self-efficacy and knowledge, and quality of life. with a range of possible subscale scores from 0 to 100, with 100 representing the least burden of symptoms. The KCCQ tool quantifies the following six (6) distinct domains and two (2) summary scores: KCCQ Symptom Domain, KCCQ Physical Function Domain, KCCQ Quality of Life Domain, KCCQ Social Limitation Domain, KCCQ Self-efficacy Domain, KCCQ Symptom Stability Domain, Clinical Summary Score and Overall Summary Score. Clinical Summary Score includes total symptom and physical function scores to correspond with NYHA Classification. Overall Summary Score includes the total symptom, physical function, social limitations and quality of life scores.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kansas City Cardiomyopathy Questionnaire (KCCQ) QoL Scores at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>The Kansas City Cardiomyopathy Questionnaire is a 23-item, self administered instrument that quantifies physical function, symptoms, social function, self-efficacy and knowledge, and quality of life. with a range of possible subscale scores from 0 to 100, with 100 representing the least burden of symptoms. The KCCQ tool quantifies the following six (6) distinct domains and two (2) summary scores: KCCQ Symptom Domain, KCCQ Physical Function Domain, KCCQ Quality of Life Domain, KCCQ Social Limitation Domain, KCCQ Self-efficacy Domain, KCCQ Symptom Stability Domain, Clinical Summary Score and Overall Summary Score. Clinical Summary Score includes total symptom and physical function scores to correspond with NYHA Classification. Overall Summary Score includes the total symptom, physical function, social limitations and quality of life scores.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New York Heart Association (NYHA) Functional Class at baseline</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measure Description: The New York Heart Association (NYHA) Classification provides a simple way of classifying the extent of heart failure. It classifies patients in one of four categories based on their limitations during physical activity:Class I: No symptoms and no limitation in ordinary physical activity Class II: Mild symptoms (mild shortness of breath and/or angina) and slight limitation during ordinary activity Class III: Marked limitation in activity due to symptoms Class IV: Severe limitations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New York Heart Association (NYHA) Functional Class at 1 month</measure>
+    <time_frame>1 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New York Heart Association (NYHA) Functional Class at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New York Heart Association (NYHA) Functional Class at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New York Heart Association (NYHA) Functional Class at 3 years</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New York Heart Association (NYHA) Functional Class at 4 years</measure>
+    <time_frame>4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New York Heart Association (NYHA) Functional Class at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six Minute Walk Test (6MWT Distance or 6MWD) at baseline</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Six-Minute Walk Test is a submaximal exercise test that entails measurement of distance walked over a span of 6 minutes. The 6-minute walk test distance (6 MWD) provides a measure for integrated global response of multiple cardiopulmonary and musculoskeletal systems involved in exercise.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six Minute Walk Test (6MWT Distance or 6MWD) at 1 month</measure>
+    <time_frame>1 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six Minute Walk Test (6MWT Distance or 6MWD) at 1 year</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six Minute Walk Test (6MWT Distance or 6MWD) at 2 years</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six Minute Walk Test (6MWT Distance or 6MWD) at 3 years</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six Minute Walk Test (6MWT Distance or 6MWD) at 4 years</measure>
+    <time_frame>4 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six Minute Walk Test (6MWT Distance or 6MWD) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination score at baseline</measure>
+    <time_frame>baseline</time_frame>
+    <description>The MMSE is scored on a 30-point scale, with items that assess orientation (temporal and spatial; 10 points), memory (registration and recall; 6 points), attention/concentration (5 points), language (verbal and written; 8 points), and visuospatial function (1 point)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination score at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>The MMSE is scored on a 30-point scale, with items that assess orientation (temporal and spatial; 10 points), memory (registration and recall; 6 points), attention/concentration (5 points), language (verbal and written; 8 points), and visuospatial function (1 point)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination score at 1 year</measure>
+    <time_frame>1 year</time_frame>
+    <description>The MMSE is scored on a 30-point scale, with items that assess orientation (temporal and spatial; 10 points), memory (registration and recall; 6 points), attention/concentration (5 points), language (verbal and written; 8 points), and visuospatial function (1 point)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination score at 2 years</measure>
+    <time_frame>2 years</time_frame>
+    <description>The MMSE is scored on a 30-point scale, with items that assess orientation (temporal and spatial; 10 points), memory (registration and recall; 6 points), attention/concentration (5 points), language (verbal and written; 8 points), and visuospatial function (1 point)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination score at 3 years</measure>
+    <time_frame>3 years</time_frame>
+    <description>The MMSE is scored on a 30-point scale, with items that assess orientation (temporal and spatial; 10 points), memory (registration and recall; 6 points), attention/concentration (5 points), language (verbal and written; 8 points), and visuospatial function (1 point)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination score at 4 years</measure>
+    <time_frame>4 years</time_frame>
+    <description>The MMSE is scored on a 30-point scale, with items that assess orientation (temporal and spatial; 10 points), memory (registration and recall; 6 points), attention/concentration (5 points), language (verbal and written; 8 points), and visuospatial function (1 point)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination score at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>The MMSE is scored on a 30-point scale, with items that assess orientation (temporal and spatial; 10 points), memory (registration and recall; 6 points), attention/concentration (5 points), language (verbal and written; 8 points), and visuospatial function (1 point)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Rankin Scale Score at baseline</measure>
+    <time_frame>baseline</time_frame>
+    <description>MODIFIED RANKIN SCALE SCORE DESCRIPTIONS:&#xD;
+0- No symptoms at all; 1- No significant disability despite symptoms; able to carry out all usual duties and activities; 2- Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance; 3- Moderate disability; requiring some help, but able to walk without assistance; 4- Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance; 5- Severe disability; bedridden, incontinent and requiring constant nursing care and attention; 6- Dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Rankin Scale Score at 1 month</measure>
+    <time_frame>1 month</time_frame>
+    <description>MODIFIED RANKIN SCALE SCORE DESCRIPTIONS: 0- No symptoms at all; 1- No significant disability despite symptoms; able to carry out all usual duties and activities; 2- Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance; 3- Moderate disability; requiring some help, but able to walk without assistance; 4- Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance; 5- Severe disability; bedridden, incontinent and requiring constant nursing care and attention; 6- Dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Rankin Scale Score at 1 year</measure>
+    <time_frame>1 year</time_frame>
+    <description>MODIFIED RANKIN SCALE SCORE DESCRIPTIONS: 0- No symptoms at all; 1- No significant disability despite symptoms; able to carry out all usual duties and activities; 2- Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance; 3- Moderate disability; requiring some help, but able to walk without assistance; 4- Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance; 5- Severe disability; bedridden, incontinent and requiring constant nursing care and attention; 6- Dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Rankin Scale Score at 2 years</measure>
+    <time_frame>2 years</time_frame>
+    <description>MODIFIED RANKIN SCALE SCORE DESCRIPTIONS: 0- No symptoms at all; 1- No significant disability despite symptoms; able to carry out all usual duties and activities; 2- Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance; 3- Moderate disability; requiring some help, but able to walk without assistance; 4- Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance; 5- Severe disability; bedridden, incontinent and requiring constant nursing care and attention; 6- Dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Rankin Scale Score at 3 years</measure>
+    <time_frame>3 years</time_frame>
+    <description>MODIFIED RANKIN SCALE SCORE DESCRIPTIONS: 0- No symptoms at all; 1- No significant disability despite symptoms; able to carry out all usual duties and activities; 2- Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance; 3- Moderate disability; requiring some help, but able to walk without assistance; 4- Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance; 5- Severe disability; bedridden, incontinent and requiring constant nursing care and attention; 6- Dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Rankin Scale Score at 4 years</measure>
+    <time_frame>4 years</time_frame>
+    <description>MODIFIED RANKIN SCALE SCORE DESCRIPTIONS: 0- No symptoms at all; 1- No significant disability despite symptoms; able to carry out all usual duties and activities; 2- Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance; 3- Moderate disability; requiring some help, but able to walk without assistance; 4- Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance; 5- Severe disability; bedridden, incontinent and requiring constant nursing care and attention; 6- Dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Rankin Scale Score at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>MODIFIED RANKIN SCALE SCORE DESCRIPTIONS: 0- No symptoms at all; 1- No significant disability despite symptoms; able to carry out all usual duties and activities; 2- Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance; 3- Moderate disability; requiring some help, but able to walk without assistance; 4- Moderately severe disability; unable to walk without assistance and unable to attend to own bodily needs without assistance; 5- Severe disability; bedridden, incontinent and requiring constant nursing care and attention; 6- Dead</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">508</enrollment>
+  <condition>Aortic Stenosis</condition>
+  <condition>Aortic Stenosis With Bicuspid Valve</condition>
+  <arm_group>
+    <arm_group_label>TAVR with Supra-annular sizing strategy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental: Supra-annular sizing strategy (Hangzhou Solution).&#xD;
+Pre-dilation with balloon size (20/23/26mm Z-MED) just below the annular size.&#xD;
+Waist sign with less than mild contrast regurgitation: Venus A plus Valve down size and Target implant depth 0-2mm.&#xD;
+No waist sign and/or contrast regurgitation or unable to finish supra-annular sizing: annular sizing Venus A plus Valve with implant depth 4-6mm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TAVR with Annulus based sizing strategy</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Control: Traditional sizing strategy (Annulus based sizing strategy).&#xD;
+Pre-dilation with balloon size (20/23/26mm Z-MED) just below the annular size.&#xD;
+Annular sizing Venus A plus Valve with implant depth 4-6mm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>TAVR with Venus A plus using supra-annular sizing and THV implantation technique (Hangzhou solution)</intervention_name>
+    <description>Transcatheter aortic valve replacement (TAVR) with Venus A plus using supra-annular sizing and THV implantation technique (Hangzhou solution)</description>
+    <arm_group_label>TAVR with Supra-annular sizing strategy</arm_group_label>
+    <other_name>Hangzhou solution</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>TAVR with Venus A plus using annular sizing and THV implantation technique</intervention_name>
+    <description>Transcatheter aortic valve replacement (TAVR) with Venus A plus using annular sizing and THV implantation technique (Traditional sizing strategy)</description>
+    <arm_group_label>TAVR with Annulus based sizing strategy</arm_group_label>
+    <other_name>Traditional sizing strategy (Annulus based sizing strategy)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 65 years&#xD;
+&#xD;
+          -  Age &lt;65 years and age ≥ 60 years with high surgical risk after combing STS Risk&#xD;
+             Estimate, Katz activities of Daily Living, major Organ System Dysfunction and&#xD;
+             Procedure-Specific Impediment;&#xD;
+&#xD;
+          -  Severe, bicuspid aortic stenosis:&#xD;
+&#xD;
+          -  Mean gradient ≥40 mmHg&#xD;
+&#xD;
+          -  Maximal aortic valve velocity ≥4.0 m/sec&#xD;
+&#xD;
+          -  Aortic valve area ≤1.0 cm2 (or aortic valve area index of ≤0.6 cm2/m2)&#xD;
+&#xD;
+          -  NYHA classification ≥ II;&#xD;
+&#xD;
+          -  Type 0, type 1 (Sievers classification) by MDCT&#xD;
+&#xD;
+          -  Perimeter-derived annulus diameter ranges from 20.0 mm to 29.0 mm;&#xD;
+&#xD;
+          -  Transfemoral TAVR&#xD;
+&#xD;
+          -  The study patient has been informed of the nature of the study, agrees to its&#xD;
+             provisions and has provided written informed consent as approved by the Institutional&#xD;
+             Review Board (IRB)/Ethics Committee (EC) of the respective clinical site.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any contra-indication for Self-expanding bioprosthetic aortic valve deployment&#xD;
+&#xD;
+          -  Leukopenia (WBC &lt; 3000 cell/mL), acute anemia (Hgb &lt; 9 g/dL), Thrombocytopenia (Plt&lt;&#xD;
+             50,000 cell/mL).&#xD;
+&#xD;
+          -  Active sepsis, including active bacterial endocarditis with or without treatment;&#xD;
+&#xD;
+          -  Evidence of an acute myocardial infarction ≤ 1 month (30 days) before the intended&#xD;
+             treatment [(defined as: Q wave MI, or non-Q wave MI with total CK elevation of CK-MB ≥&#xD;
+             twice normal in the presence of MB elevation and/or troponin level elevation (WHO&#xD;
+             definition)].&#xD;
+&#xD;
+          -  Stroke or transient ischemic attack (TIA) within 3 months (90 days) of the procedure.&#xD;
+&#xD;
+          -  Estimated life expectancy &lt; 12 months (365 days) due to carcinomas, chronic liver&#xD;
+             disease, chronic renal disease or chronic end stage pulmonary disease.&#xD;
+&#xD;
+          -  Any Emergent surgery required before TAVR procedure.&#xD;
+&#xD;
+          -  A known hypersensitivity or contraindication to any of the following that cannot be&#xD;
+             adequately medicated:aspirin or heparin (HIT/HITTS) and bivalirudin,&#xD;
+             clopidogrel,Nitinol (titanium or nickel),contrast media&#xD;
+&#xD;
+          -  Gastrointestinal (GI) bleeding that would preclude anticoagulation.&#xD;
+&#xD;
+          -  Subject refuses a blood transfusion.&#xD;
+&#xD;
+          -  Severe dementia (resulting in either inability to provide informed consent for the&#xD;
+             study/procedure, prevents independent lifestyle outside of a chronic care facility, or&#xD;
+             will fundamentally complicate rehabilitation from the procedure or compliance with&#xD;
+             follow-up visits).&#xD;
+&#xD;
+          -  Other medical, social, or psychological conditions that in the opinion of the&#xD;
+             investigator precludes the subject from appropriate consent or adherence to the&#xD;
+             protocol required follow-up exams.&#xD;
+&#xD;
+          -  Currently participating in an investigational drug or another device study (excluding&#xD;
+             registries).&#xD;
+&#xD;
+          -  Hypertrophic cardiomyopathy (HCM with myocardium more than 1.5cm without an&#xD;
+             identifiable cause) with obstruction (HOCM).&#xD;
+&#xD;
+          -  Echocardiographic evidence of intracardiac mass, thrombus or vegetation.&#xD;
+&#xD;
+          -  Severe mitral stenosis amenable to surgical replacement or repair.&#xD;
+&#xD;
+          -  Aortic valve type cannot be determined (Sievers classification).&#xD;
+&#xD;
+          -  Significant aortic disease, including marked tortuosity (hyperacute bend), aortic arch&#xD;
+             atheroma [especially if thick (&gt; 5 mm), protruding or ulcerated] or narrowing&#xD;
+             (especially with calcification and surface irregularities) of the abdominal or&#xD;
+             thoracic aorta, severe&quot;unfolding&quot; and horizontal aorta(Annular Angulation&gt;70°).&#xD;
+&#xD;
+          -  Ascending aorta diameter &gt; 50 mm.&#xD;
+&#xD;
+          -  Aortic or iliofemoral vessel characteristics that would preclude safe placement of the&#xD;
+             introducer sheath.&#xD;
+&#xD;
+          -  Patient is considered high risk for TAVR by CT corelab, including coronary&#xD;
+             obstruction, annular rupture and other severe TAVR-Related complications.&#xD;
+&#xD;
+          -  Previous pacemaker implantation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Age ≥ 65 years; Age &lt;65 years and age ≥ 60 years with high surgical risk after combing STS Risk Estimate, Katz activities of Daily Living, major Organ System Dysfunction and Procedure-Specific Impediment;</gender_description>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jian'an Wang, PhD, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>2nd Affiliated Hospital, School of Medicine, Zhejiang University, China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jian'an Wang, PhD, MD</last_name>
+    <phone>+86057187783777</phone>
+    <email>wja@zju.edu.cn</email>
+  </overall_contact>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2021</study_first_posted>
+  <last_update_submitted>January 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Transcatheter aortic valve replacement</keyword>
+  <keyword>Aortic Stenosis with Bicuspid Valve</keyword>
+  <keyword>supra-annular sizing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aortic Valve Stenosis</mesh_term>
+    <mesh_term>Constriction, Pathologic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pharmaceutical Solutions</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>undecided</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

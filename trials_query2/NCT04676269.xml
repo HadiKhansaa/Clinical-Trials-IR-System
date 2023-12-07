@@ -1,0 +1,204 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04676269</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-10-1202</org_study_id>
+    <nct_id>NCT04676269</nct_id>
+  </id_info>
+  <brief_title>Amnion Bilayer and Stem Cell Combination Therapy on Thin Endometrium Infertile Patients</brief_title>
+  <official_title>Amnion Bilayer and Stem Cell Combination Therapy on Thin Endometrium Infertile Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indonesia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Indonesia University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe infections or trauma to the endometrial lining causes permanent scars that disrupt the&#xD;
+      menstrual cycle and lead to conceive failure. Transplantation of biological graft seeded with&#xD;
+      stem cells is purposed to regenerate and recover the capability of the endometrial lining&#xD;
+      back into its cycles. Initially, the techniques to isolate and culture the endometrial cells&#xD;
+      and amnion epithelial stem cells were developed, then the endometrial cells form patients&#xD;
+      with thin endometrium. Tissue were obtained from hysteroscopic biopsy, weight between 100 µl,&#xD;
+      while up to 20 µl from the thin endometrium. Tissue were digested using collagenase-1 and&#xD;
+      cultured using DMEM-F12 added wit epidermal growth factor. Endometrial cells will be&#xD;
+      characterized to SSUD2, ICAM and BRCP1. Amnion epithelial stem cells (hAESC) will be isolated&#xD;
+      using collagenase-1 and hyaluronidase. Characterization towards TRA-1-60, SSEA-4, Oct 3/4,&#xD;
+      and Nanog. In the future, the cells will be co-culture on amnion bilayer, and stained using&#xD;
+      IHC against α-cadherin, estrogen receptor α, progesterone receptor. Endometrial receptivity&#xD;
+      (HOXA10, LIF (early secretory) adhesion, VEGF, osteopontin (SPP1) to indicate the pinopodes&#xD;
+      will be identified using qPCR.The SPP1, target of MIR424 expressed during the receptive&#xD;
+      phase.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 9, 2019</start_date>
+  <completion_date type="Anticipated">December 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 15, 2021</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>None of the participants, gynecologists, statistician, nurses nor of the participant' partners are informed about the treatment groups.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in endometrium thickness</measure>
+    <time_frame>7 and 14 days after amnion bilayer seeded with endometrial cells co-cultured with hAESC is transplanted into patient' womb</time_frame>
+    <description>Observation by USG</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in amenorrhea severity</measure>
+    <time_frame>7 and 14 days after amnion bilayer seeded with endometrial cells co-cultured with hAESC is transplanted into patient' womb</time_frame>
+    <description>Patients' report</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Cell- and Tissue-Based Therapy</condition>
+  <arm_group>
+    <arm_group_label>Amnion only</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Amnion bilayer as a scaffold to overlay the endometrium, with minor curettage prior to stick the scaffold.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Amnion- self endometrium stem cells (EnSC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Amnion bilayer as a scaffold, seeded with endometrium stem cells to regenerate the thin endometrium.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Amnion- amnion epithelial stem cells (AESC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Amnion bilayer as a scaffold, seeded with amnion epithelial stem cells to regenerate the thin endometrium.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Amnion- co culture self EnSC - AESC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Amnion bilayer as a scaffold, seeded with co-culture of endometrium stem cells and amnion epithelial stem cells to regenerate the thin endometrium.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Amnion only</intervention_name>
+    <description>Patients endometrium will be transplanted with amnion only (without seeded cells)</description>
+    <arm_group_label>Amnion only</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Amnion - endometrium cells</intervention_name>
+    <description>Patients endometrium will be transplanted with amnion seeded with endometrium cells isolated from the patients themselves</description>
+    <arm_group_label>Amnion- self endometrium stem cells (EnSC)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Amnion - amnion epithelial cells</intervention_name>
+    <description>Patients endometrium will be transplanted with amnion seeded with amnion epithelial stem cells isolated from other patients' caesarean sectio amnion membrane (tested HLA-DR negative to prevent rejection)</description>
+    <arm_group_label>Amnion- amnion epithelial stem cells (AESC)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Amnion-EnSC-AESC</intervention_name>
+    <description>Patients endometrium will be transplanted with amnion seeded with endometrium cells-amnion epithelial stem cells co-culture</description>
+    <arm_group_label>Amnion- co culture self EnSC - AESC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with thin endometrium without scar&#xD;
+&#xD;
+          -  Patients with acute thin endometrium post-therapy (medicamentosa)&#xD;
+&#xD;
+          -  Patients who are willing to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with thin endometrium due to TB&#xD;
+&#xD;
+          -  Patients with cancer in the reproductive system&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Achmad Kemal Harzif, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Faculty of Medicine, Indonesia University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Achmad Kemal Harzif, MD</last_name>
+    <phone>+62 813-1586-6390</phone>
+    <email>kemal.achmad@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Normalina Sandora, PhD</last_name>
+    <phone>+62 812-9896-3425</phone>
+    <email>normalinasandora@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>RSUPN Cipto Mangunkusumo</name>
+      <address>
+        <city>Jakarta Pusat</city>
+        <state>DKI Jakarta</state>
+        <zip>10430</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Achmad Kemal Harzif, MD</last_name>
+      <phone>+6281315866390</phone>
+      <email>kemal.achmad@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Normalina Sandora, PhD</last_name>
+      <phone>+6281298963425</phone>
+      <email>normalina.sandora@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 21, 2020</study_first_posted>
+  <last_update_submitted>December 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indonesia University</investigator_affiliation>
+    <investigator_full_name>dr. Achmad Kemal Harzif, SpOG (K)</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Endometrial stem cells</keyword>
+  <keyword>Amnion epithelial stem cells</keyword>
+  <keyword>Amnion bilayer</keyword>
+  <keyword>Thin endometrium</keyword>
+  <keyword>Secondary amenorrhoe</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infertility</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

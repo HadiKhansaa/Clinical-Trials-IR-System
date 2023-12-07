@@ -1,0 +1,252 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04743167</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ENDO-2020-23670289</org_study_id>
+    <nct_id>NCT04743167</nct_id>
+  </id_info>
+  <brief_title>IVF Versus Surgery for Endometriosis Related Infertility</brief_title>
+  <acronym>SVIDOE</acronym>
+  <official_title>IVF Versus Surgery for the Treatment of Infertility Associated to Ovarian and Deep Peritoneal Endometriosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>IRCCS San Raffaele</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ASST Fatebenefratelli Sacco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ministero della Salute, Italy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The management of endometriosis-related infertility remains controversial. In particular,&#xD;
+      there is an equipoise for infertile women with endometriotic lesions detected at ultrasound.&#xD;
+      These women can be managed with either surgery or in vitro fertilization (IVF). The two&#xD;
+      approaches radically differ and they have never been compared with a randomized trial. As a&#xD;
+      consequence, affected women currently receive contrasting information and the mode of&#xD;
+      treatment substantially differ among centres, reflecting the local expertise of physicians&#xD;
+      rather than clinical needs.&#xD;
+&#xD;
+      The present study aims at clarify whether IVF could be superior to surgery in infertile women&#xD;
+      with endometriotic lesions detected at ultrasound. This topic will be addressed comparing the&#xD;
+      two approaches in terms of effectiveness and cost-effectiveness. In addition, the study will&#xD;
+      disentangling whether the endometriosis-related systemic inflammatory mechanisms may have an&#xD;
+      impact on the quality of folliculogenesis and on IVF outcomes. This specific objective will&#xD;
+      be pursued through the characterization and analysis of circulating extracellular vesicles&#xD;
+      (EV)-immunologic, proteomic and miRNA signatures and measurement of steroid hormones in&#xD;
+      follicular fluid.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Women accepting to enter the study will be randomized to either surgery and then natural&#xD;
+      pregnancy seeking or a program of three complete IVF cycles (i.e. three oocytes retrievals&#xD;
+      regardless of the number of embryo transfers performed). The initial time point will be the&#xD;
+      time of randomization. Women of both study groups will initiate treatment (surgery or IVF) in&#xD;
+      a shortest delay, maximum 3 months. Only live birth pregnancies and initiating within a&#xD;
+      12-months period starting from this time point will be included in the primary outcome.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Live birth rate from pregnancies started within 12 months since randomization</measure>
+    <time_frame>up to 12 months since randomization</time_frame>
+    <description>to assess whether IVF is more effective than surgery in obtaining a live birth and, if so, what is the magnitude of this benefit</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cost-effectiveness evaluation of the two different approaches in the treatment of endometriosis</measure>
+    <time_frame>12 months</time_frame>
+    <description>to assess whether or not IVF is more cost-effective than surgery. To this aim, costs will be calculated based on the local charges for treatments (Diagnostic-related groups) and the costs of drugs supported by the public health system. The perspective will be the one of the public health provider.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detachment of inflammatory mediators that might interfere with IVF through analysis of extracellular vescicles (EV).</measure>
+    <time_frame>3 months</time_frame>
+    <description>to understand whether the endometriosis-related systemic inflammatory milieu demonstrated by the presence of circulating EVs characterized by an inflammatory signature may influence the folliculogenesis quality and IVF outcomes. EVs will be assessed by: Nanoparticle Tracking analysis (NTA) to determine their total values and their distribution; specific markers for the various lymphocyte populations by flow cytometry to assess the immunological origin; miRNA profile and proteomic analysis.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">206</enrollment>
+  <condition>Endometriosis</condition>
+  <arm_group>
+    <arm_group_label>Surgery</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients undergoing surgery for endometriosis, after surgery, will receive indications for seeking for a natural pregnancy up to 12 months from the time of randomization</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>In Vitro Fertilization</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients included in the IVF arm will undergo three complete cycles of IVF (i.e. three oocytes retrievals regardless of the number of embryo transfers)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Surgery</intervention_name>
+    <description>Laparoscopic treatment of endometriotic lesions</description>
+    <arm_group_label>Surgery</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>IVF</intervention_name>
+    <description>Up to three completed cycles of IVF</description>
+    <arm_group_label>In Vitro Fertilization</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt; 40 years&#xD;
+&#xD;
+          -  Pregnancy seeking for more than 12 months&#xD;
+&#xD;
+          -  Regular menstrual cycle, i.e. mean cycle interval between 21 and 35 days&#xD;
+&#xD;
+          -  Ultrasonographic diagnosis of ovarian endometriomas or deep peritoneal endometriosis.&#xD;
+&#xD;
+          -  Normal seminal analysis based on WHO criteria&#xD;
+&#xD;
+          -  Absence of ureteral stenosis or intestinal subocclusive symptoms&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous surgery for endometriosis&#xD;
+&#xD;
+          -  Previous IVF cycles&#xD;
+&#xD;
+          -  Contraindication to pregnancy&#xD;
+&#xD;
+          -  Hydrosalpinx&#xD;
+&#xD;
+          -  Endometriomas with a mean diameter &gt; 4 cm&#xD;
+&#xD;
+          -  Submucosal fibroids or large intramural or subserosal fibroids (≥ 5 cm).&#xD;
+&#xD;
+          -  Doubtful sonographic findings that do not allow to reliably rule out malignancy.&#xD;
+&#xD;
+          -  Obstacles to regular sexual intercourses (sexual disturbances or logistic problems)&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>39 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Laura Benaglia, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Laura Benaglia, MD</last_name>
+    <phone>+390255034303</phone>
+    <email>laura.benaglia@policlinico.mi.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marco Reschini, MSc</last_name>
+    <phone>+390255034303</phone>
+    <email>marco.reschini@policlinico.mi.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>ASST-FBF-Sacco, Presidio Ospedaliero Macedonio Melloni</name>
+      <address>
+        <city>Milan</city>
+        <state>MI</state>
+        <zip>20100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michele Vignali, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS San Raffaele</name>
+      <address>
+        <city>Milan</city>
+        <state>MI</state>
+        <zip>20100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Ottolina, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico</name>
+      <address>
+        <city>Milan</city>
+        <state>MI</state>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura Benaglia, MD</last_name>
+      <phone>+390255034303</phone>
+      <email>laura.benaglia@policlinico.mi.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 8, 2021</study_first_posted>
+  <last_update_submitted>April 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>IVF</keyword>
+  <keyword>surgery</keyword>
+  <keyword>endometriosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infertility</mesh_term>
+    <mesh_term>Endometriosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

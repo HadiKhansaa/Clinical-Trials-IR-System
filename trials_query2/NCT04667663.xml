@@ -1,0 +1,371 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04667663</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTRIAL-IE-19-17</org_study_id>
+    <secondary_id>2019-004386-40</secondary_id>
+    <nct_id>NCT04667663</nct_id>
+  </id_info>
+  <brief_title>CPD-DARA in Patients With Relapsed/Refractory Multiple Myeloma.</brief_title>
+  <acronym>CPD-DARA</acronym>
+  <official_title>Phase Ib of Cyclophosphamide, Pomalidomide, Dexamethasone and Daratumumab (CPD-DARA) in Patients With Relapsed/Refractory Multiple Myeloma. (The CPD-DARA Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cancer Trials Ireland</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Janssen Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Celgene</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Cancer Trials Ireland</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a Phase Ib, open label, single arm, adaptive multi-centre clinical study. The&#xD;
+      target population for this study are patients with relapsed/refractory multiple myeloma (MM).&#xD;
+      Patients will have a confirmed diagnosis of MM, with measurable disease as per IMWG criteria,&#xD;
+      in the second relapse and beyond (third line of therapy and beyond). Patients will need to&#xD;
+      have exposure to lenalidomide and a proteasome inhibitor. Patients will be treated with&#xD;
+      Cyclophosphamide-Pomalidomide-Dexamethasone (CPD) in combination with daratumumab (DARA) to&#xD;
+      determine the Maximum Tolerated Dose (MTD), Dose Limiting Toxicity (DLT) and Recommended&#xD;
+      Phase II Dose (RP2D) of the combination.&#xD;
+&#xD;
+      Pomalidomide will be administered orally at three dose levels 4, 3 and 2mg on days 1-21 of&#xD;
+      each 28-day cycle. Treatment will be repeated on day 1 of a 28-day cycle until disease&#xD;
+      progression, unacceptable toxicity, withdrawal of consent, physician's decision, or sponsor's&#xD;
+      decision to terminate the study, whichever occurs first.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objective 1. To determine the MTD and RP2D for pomalidomide that can safely be&#xD;
+      administered with DARA and cyclophosphamide.&#xD;
+&#xD;
+      Primary Endpoint&#xD;
+&#xD;
+      1. To determine the incidence of DLT within the first cycle of CPD in combination with DARA&#xD;
+      at each dose level.&#xD;
+&#xD;
+      Secondary Objectives&#xD;
+&#xD;
+        1. To evaluate the safety and tolerability of the CPD-DARA regimen.&#xD;
+&#xD;
+        2. To evaluate efficacy measures. Secondary Endpoints&#xD;
+&#xD;
+      1. Safety will be assessed by standard clinical and laboratory tests (haematology, serum&#xD;
+      chemistry). Adverse events grade will be defined by the NCI CTCAE (National Cancer Institute&#xD;
+      Common Terminology Criteria for Adverse Events) version 5.0.&#xD;
+&#xD;
+      2. The following efficacy endpoints will be measured: i. Complete Response (CR) rate after&#xD;
+      six cycles of CPD-DARA and at the end of study treatment.&#xD;
+&#xD;
+      ii. Best Overall Response. iii. Minimal Residual Disease (MRD) negative rate after six cycles&#xD;
+      of CPD-DARA. iv. Progression Free Survival (PFS) and Overall Survival (OS) at 6 months and 2&#xD;
+      years.&#xD;
+&#xD;
+      v. Time to Response. Exploratory Objectives&#xD;
+&#xD;
+        1. To assess effect of CPD-DARA treatment on patient-reported outcomes and quality of life.&#xD;
+&#xD;
+        2. Efficacy according to the IMWG (International Myeloma Working Group) in High Risk vs&#xD;
+           Standard Risk patients.&#xD;
+&#xD;
+        3. Disease Control Rate (DCR). Exploratory Endpoints&#xD;
+&#xD;
+      1. To assess effect of CPD-DARA treatment on patient-reported outcomes and quality of life,&#xD;
+      as assessed by the FACT-G and MyPOS questionnaires completed at study commencement, at every&#xD;
+      cycle of study treatment and at completion of the study treatment.&#xD;
+&#xD;
+      2. Efficacy according to the IMWG in High Risk (defined by ISS stage 3 and/or high-risk&#xD;
+      cytogenetic findings including t(4;14), t(14;16), and del17p) vs Standard Risk patients.&#xD;
+&#xD;
+      3. Disease Control Rate (DCR) defined as stable disease or better.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">March 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of DLT within the first cycle of CPD in combination with DARA at each dose level.</measure>
+    <time_frame>Up to cycle 1</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MTD for pomalidomide that can safely be administered with DARA and cyclophosphamide.</measure>
+    <time_frame>Through study treatment, an average of 1 months</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>RP2D for pomalidomide that can safely be administered with DARA and cyclophosphamide.</measure>
+    <time_frame>Through study treatment, an average of 1 months</time_frame>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>CPD-DARA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: Daratumumab Other Name: Darzalex&#xD;
+Drug: Cyclophosphamide&#xD;
+Drug: Pomalidomide Other Name: Pomalyst/ Imnovid&#xD;
+Drug: Dexamethasone</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Daratumumab</intervention_name>
+    <description>Daratumumab (1,800mg) will be administered by a subcutaneous injection once every week for 2 cycles (Cycles 1-2), then once every 2 weeks for 4 cycles (Cycles 3-6), and following this (Cycle 7 onwards), patients will receive daratumumab once every four weeks.</description>
+    <arm_group_label>CPD-DARA</arm_group_label>
+    <other_name>Darzalez</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Cyclophosphamide will be administered PO at 50mg daily for all cohorts in the study.</description>
+    <arm_group_label>CPD-DARA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pomalidomide</intervention_name>
+    <description>Pomalidomide will be administered PO on days 1-21 of each 28 day cycle. The dose will be specified by the dose level to which the patient has been enrolled.</description>
+    <arm_group_label>CPD-DARA</arm_group_label>
+    <other_name>Pomalyst</other_name>
+    <other_name>Imnovid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Dexamethasone will be administered PO at 40mg on days 1, 8, 15 and 22 of each 28 day cycle.</description>
+    <arm_group_label>CPD-DARA</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Must sign an informed consent form demonstrating that he or she understands the study&#xD;
+             and all procedures involved, and confirming he or she is willing to participate.&#xD;
+&#xD;
+          2. Age ≥ 18 years of age.&#xD;
+&#xD;
+          3. Confirmed diagnosis of multiple myeloma as per IMWG Criteria Appendix C and measurable&#xD;
+             disease defined by:&#xD;
+&#xD;
+               -  Monoclonal plasma cells in the bone marrow ≥ 10% or presence of a biopsy proven&#xD;
+                  plasmacytoma AND&#xD;
+&#xD;
+               -  Measurable disease as defined by any of the following:&#xD;
+&#xD;
+               -  IgG multiple myeloma: serum monoclonal paraprotein (M-protein) level ≥ 1.0 g/dl&#xD;
+                  or urine M-protein level ≥ 200mg/24 hours;&#xD;
+&#xD;
+               -  IgA, IgE, IgD or IgM multiple myeloma: serum M-protein level ≥ 0.5g/dl or urine&#xD;
+                  M-protein level ≥ 200mg/24 hours;&#xD;
+&#xD;
+               -  Light chain multiple myeloma without measurable disease in the serum or the&#xD;
+                  urine: serum immunoglobulin free light chain ≥ 10mg/dl and abnormal serum&#xD;
+                  immunoglobulin kappa lambda free light chain ratio.&#xD;
+&#xD;
+          4. ECOG Performance Status ≤ 2 (Appendix B).&#xD;
+&#xD;
+          5. Patients with relapsed (having achieved stable disease or better in the last line of&#xD;
+             therapy) disease who have progressive disease as defined by the IMWG Criteria Appendix&#xD;
+             C or patients with refractory disease (who failed to achieve a response [stable&#xD;
+             disease (SD) or better] to their last line of therapy).&#xD;
+&#xD;
+          6. Patients have received two or more prior lines of therapy (including a proteasome&#xD;
+             inhibitor and an immunomodulatory drug (IMiD)) but not more than five (induction,&#xD;
+             consolidation, ASCT maintenance is considered single line therapy for the purpose of&#xD;
+             this study). Patients with prior exposure to DARA and/or pomalidomide can also be&#xD;
+             included.&#xD;
+&#xD;
+          7. Patients must have pre-study laboratory results meeting the following criteria during&#xD;
+             the screening period:&#xD;
+&#xD;
+               1. Haemoglobin ≥ 8 g/dL (transfusions of packed red cells are permitted to achieve&#xD;
+                  this).&#xD;
+&#xD;
+               2. Neutrophil count ≥ 1.5 × 109/L (G-CSF is permitted up to 7 days prior to&#xD;
+                  screening).&#xD;
+&#xD;
+               3. AST and ALT ≤ 2.5 × upper limit of normal.&#xD;
+&#xD;
+               4. Calculated creatinine clearance ≥ 30mL/min/1.73m2 (Cockcroft - Gault Equation)&#xD;
+                  Appendix F.&#xD;
+&#xD;
+               5. Platelet count ≥ 75 x 109/L in patients for whom &lt;50% of bone marrow nucleated&#xD;
+                  cells were plasma cells (&gt; 50 × 109/L, otherwise).&#xD;
+&#xD;
+          8. Patients who are women of child-bearing potential or male partners of women of&#xD;
+             child-bearing potential must agree to use two adequate/reliable contraception methods&#xD;
+             simultaneously from signing of the informed consent form until at least 6 months after&#xD;
+             the last study drug administration. A female of childbearing potential (FCBP) is a&#xD;
+             female who: 1) has achieved menarche at some point, 2) has not undergone a&#xD;
+             hysterectomy or bilateral oophorectomy or 3) has not been naturally postmenopausal&#xD;
+             (amenorrhea following cancer therapy does not rule out childbearing potential) for at&#xD;
+             least 24 consecutive months (i.e. has had menses at any time in the preceding 24&#xD;
+             consecutive months). Suitable contraceptive methods include:&#xD;
+&#xD;
+               1. combined (oestrogen and progestogen containing) hormonal contraception associated&#xD;
+                  with inhibition of ovulation (oral, intravaginal, transdermal)&#xD;
+&#xD;
+               2. progestogen-only hormonal contraception associated with inhibition of ovulation&#xD;
+                  (oral, injectable and implantable),&#xD;
+&#xD;
+               3. intrauterine device (IUD) or intrauterine hormone - releasing system (IUS),&#xD;
+&#xD;
+               4. bilateral tubal occlusion&#xD;
+&#xD;
+               5. successfully vasectomised partner&#xD;
+&#xD;
+               6. sexual abstinence. In addition, the use of condoms by patients or their partners&#xD;
+                  is required (even if the male patient or partner has undergone a successful&#xD;
+                  vasectomy) unless the woman has had a hysterectomy.&#xD;
+&#xD;
+          9. Must be physically and psychologically able to undergo the treatment and adhere to the&#xD;
+             schedules outlined within this protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Life expectancy &lt; 3 months.&#xD;
+&#xD;
+          2. Allogeneic stem cell transplantation at any time.&#xD;
+&#xD;
+          3. Autologous stem cell transplantation within 12 weeks prior to Cycle 1 Day 1.&#xD;
+&#xD;
+          4. Peripheral neuropathy (grade ≥ 2) as defined by the NCI CTCAE Version 5.0.&#xD;
+&#xD;
+          5. Meningeal or Central Nervous System (CNS) involvement of myeloma.&#xD;
+&#xD;
+          6. Acute or chronic active viral infections (Hep B, Hep C, HIV), systemic fungal&#xD;
+             infections and parasitic infections.&#xD;
+&#xD;
+          7. Acute active infection requiring antibiotics.&#xD;
+&#xD;
+          8. Current medical or psychiatric condition or disease that could interfere with the&#xD;
+             study procedures or results.&#xD;
+&#xD;
+          9. Chronic obstructive pulmonary disease with a forced expiratory volume in 1 second&#xD;
+             (FEV1) &lt; 50% of predicted normal. Patients with chronic obstructive pulmonary disease&#xD;
+             (COPD) will require FEV1 testing prior to inclusion in the study.&#xD;
+&#xD;
+         10. Moderate or severe persistent asthma, or current uncontrolled asthma Appendix G.&#xD;
+&#xD;
+         11. Diagnosis of severe chronic liver disease i.e. &gt; stage 1 cirrhosis classified with&#xD;
+             Child-Pugh score.&#xD;
+&#xD;
+         12. Significant heart disease including:&#xD;
+&#xD;
+               1. Myocardial Infarction within 1 year prior to registration, or unstable /&#xD;
+                  uncontrolled IHD.&#xD;
+&#xD;
+               2. Heart failure with NYHA grade ≥ 2 Appendix H.&#xD;
+&#xD;
+               3. Cardiac Arrythmia (CTCAE version 5 Grade ≥ 3 or clinically significant ECG&#xD;
+                  abnormalities).&#xD;
+&#xD;
+               4. Screening 12 lead ECG showing a baseline QTcF &gt; 470 msec.&#xD;
+&#xD;
+         13. Known allergy, hypersensitivity or intolerance to boron or mannitol, corticosteroids,&#xD;
+             monoclonal antibodies or human proteins or their excipients, or any of the components&#xD;
+             of the treatment regime (refer to IB/SmPC).&#xD;
+&#xD;
+         14. Patients who have had any prior or concurrent invasive malignancy (other than multiple&#xD;
+             myeloma) within five years of the screening period, except adequately treated basal&#xD;
+             cell or squamous cell carcinoma of the skin, carcinoma in situ of the cervix,&#xD;
+             localized prostate adenocarcinoma diagnosed ≥ 3 years and without evidence of&#xD;
+             biochemical failure, or other cancer for which the patients has undergone potentially&#xD;
+             curative therapy and has had no evidence of that disease for ≥ 10 years.&#xD;
+&#xD;
+         15. Patients have received an investigational drug or used an invasive medical device&#xD;
+             within 4 weeks of registration.&#xD;
+&#xD;
+         16. Patients have undergone recent major surgery within 4 weeks of Cycle 1 Day 1.&#xD;
+&#xD;
+         17. Therapeutic radiation within 14 days of Cycle 1 Day 1.&#xD;
+&#xD;
+         18. Significant malabsorption states. Rare hereditary problems of galactose intolerance,&#xD;
+             the Lapp lactase deficiency or glucose-galactose malabsorption.&#xD;
+&#xD;
+         19. Gastric and duodenal ulcer.&#xD;
+&#xD;
+         20. Known AL amyloidosis.&#xD;
+&#xD;
+         21. Contraindications to thromboprophylaxis with low molecular weight heparin (LMWH) or&#xD;
+             aspirin e.g. hypersensitivity to LMWH, history of immune-mediated heparin-induced&#xD;
+             thrombocytopenia (HIT) within the past 100 days or in the presence of circulating&#xD;
+             antibodies, active clinically significant bleeding and conditions with a high risk of&#xD;
+             haemorrhage including recent (&lt;12 weeks haemorrhagic stroke, gastrointestinal ulcer,&#xD;
+             presence of malignant neoplasm at high risk of bleeding, recent (&lt; 4 weeks) brain,&#xD;
+             spinal or ophthalmic surgery, known or suspected oesophageal varices, arteriovenous&#xD;
+             malformations, vascular aneurysms or major intraspinal or intracerebral abnormalities.&#xD;
+&#xD;
+         22. Vaccination with live vaccines.&#xD;
+&#xD;
+         23. Bone-marrow aplasia.&#xD;
+&#xD;
+         24. Urinary tract infection.&#xD;
+&#xD;
+         25. Acute urothelial toxicity from cytotoxic chemotherapy or radiation therapy.&#xD;
+&#xD;
+         26. Urinary outflow obstruction.&#xD;
+&#xD;
+         27. Patient is a woman who is pregnant, or breast-feeding, or planning to become pregnant&#xD;
+             while participating in this study or within 6 months after the last dose of any&#xD;
+             component of the treatment regimen. Or, patient is a man who plans to father a child&#xD;
+             while included in this study or within 6 months after the last dose of any component&#xD;
+             of the treatment regimen.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 16, 2020</study_first_posted>
+  <last_update_submitted>December 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Pomalidomide</mesh_term>
+    <mesh_term>Daratumumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

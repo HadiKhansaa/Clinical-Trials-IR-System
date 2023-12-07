@@ -1,0 +1,311 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04764461</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FMH01</org_study_id>
+    <nct_id>NCT04764461</nct_id>
+  </id_info>
+  <brief_title>Use of Customized GROW Charts for Detection of SGA in Low Risk Woman.</brief_title>
+  <official_title>Use of Customized Fundal Height Charts for Detection of Small for Gestational Age Fetuses in Low Risk Woman: A Randomized Controlled Trial.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fatima Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fetal Medicine Research Center, Spain</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fatima Memorial Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A prospective randomised control trial to evaluate the effectiveness of customised growth&#xD;
+      charts for detection of small for gestational age fetus in low risk women, in comparison to&#xD;
+      conventional standard of care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The most sensitive quality index of women and child health is perinatal mortality rate. The&#xD;
+      annual toll of losses includes about 3 million stillbirths and 3.8 million neonatal deaths:&#xD;
+      half die on the first day of life.1,2 The top ten countries with highest neonatal death rate&#xD;
+      are India, Nigeria, Pakistan, China, DR Congo, Ethopia, Bangladesh, Indonesia, Afghanistan&#xD;
+      and Sudan. These countries encompass 67% and 63% of the global total with 1.5 million&#xD;
+      neonatal deaths and 1.77 million stillbirths.3 Pakistan is the country with the highest&#xD;
+      stillbirth rate of 43.1 stillbirths per 1000 total births when compared to a global estimate&#xD;
+      of 18.4 in 2015.4 The most common condition associated with stillbirth is SGA, conventionally&#xD;
+      defined as a fetus with birth weight below 10th centile of its gestational age.5,6 SGA&#xD;
+      accounts for 30% of total stillbirths, perinatal mortality being highest if remain undetected&#xD;
+      before birth or when the birth weight is below the 3rd centile.7,8 One of the key strategy to&#xD;
+      prevent stillbirth is prediction and recognition of growth restricted fetuses. Experts have&#xD;
+      reached to consensus to use 32 weeks as a cutoff to define early and late onset growth&#xD;
+      restriction.9 Early onset growth restricted fetuses have highl association with pre-eclampsia&#xD;
+      and angiogenic disbalance and can be predicted in about 90% of cases by incorporating&#xD;
+      maternal risk factors, uterine artery dopplers and angiogenic factors. Whereas late onset&#xD;
+      FGR, using SGA as a proxy, remains unpredicted even after combining maternal characteristics,&#xD;
+      risk factors, blood pressure records, second trimester biometry and uterine artery dopplers&#xD;
+      (43.3% DR for 10% false positive rate).10 Late onset SGA with high prevalence around 10% are&#xD;
+      associated with non-evident placental disease, resulting in clinical challenge in its&#xD;
+      detection and diagnosis. Late onset SGA if remains undetected are at increased risk of&#xD;
+      perinatal mortality (25-48% of non-anomalous stillbirths)5 and morbidity including fetal&#xD;
+      distress, acidosis and admissions in neonatal intensive unit.11,12 Adverse long-term health&#xD;
+      outcomes including type 2 diabetes, obesity and coronary heart disease are also associated&#xD;
+      with late onset SGA.13,14,15 Unfortunately, the burden of small for gestational age births is&#xD;
+      concentrated in South Asia, with prevalence of about 41.5%.16 To date, the research done in&#xD;
+      Pakistan on small for gestational age fetus is sparse. The limited data quotes the incidence&#xD;
+      of small for gestational age babies between 3-10% and accounts for 18% of stillbirths.17,18&#xD;
+      One of the key objectives of antenatal care aiming at improving neonatal outcomes includes&#xD;
+      recognition of risk factors, detection of growth restricted babies, longitudinal surveillance&#xD;
+      and deciding the best time to deliver them. Six national guidelines on SGA by authorized&#xD;
+      bodies of United Kingdom (RCOG)7, United States of America (ACOG)19, Ireland (Health service&#xD;
+      Executive)20, Canada (Society of Obstetrician and gynecologist of Canada)21, New Zealand (New&#xD;
+      Zealand Maternal Fetal medicine Network)22 and France (French College of Obstetrician and&#xD;
+      Gynecologist)23 have a general consensus on first trimester booking screening for risk&#xD;
+      factors of SGA and classifying woman into either high risk or low risk group. Risk factors&#xD;
+      for SGA, requiring increased surveillance include maternal age &gt; 40 years, cocaine abuse,&#xD;
+      maternal or paternal SGA, previous history of SGA or still birth, chronic hypertension,&#xD;
+      diabetes with vascular disease, renal impairment, PAPPA &lt; 0.4 mom, echogenic bowel and&#xD;
+      heaving bleeding similar to menses.24 All bodies except US recommends use of Aspirin from 16&#xD;
+      weeks onward in all woman categorized as High risk. There is unanimous agreement on&#xD;
+      surveillance with serial growth scans and umbilical artery dopplers. However, 4 national&#xD;
+      bodies (RCOG, Health service Executive of Ireland, French College of Obstetrician and&#xD;
+      Gynecologist &amp; New Zealand Maternal Fetal medicine Network) recommends use of plotting EFW on&#xD;
+      customized charts whereas, ACOG &amp; SOGC does not specify EFW charts.24 For low risk woman the&#xD;
+      antenatal screening practice comprises of fundal height measurements. All international&#xD;
+      guidelines recommend a tape measure for fundal height measurement. Three guidelines (RCOG,&#xD;
+      Health service Executive of Ireland and New Zealand Maternal Fetal medicine Network)7,20,22&#xD;
+      advocates serial plotting of fundal height measurements on customized charts whereas, two&#xD;
+      guidelines (ACOG &amp; SOGC)19,21 recommends use of McDonalds rule and suspects suboptimal growth&#xD;
+      when the fundal height measurement is &gt; 3cm less than the gestational age in weeks. A single&#xD;
+      RCT did not show any significant difference between palpation and fundal height measurements&#xD;
+      in detection of SGA.25 A meta-analysis published in 2013 concluded symphysiofundal height&#xD;
+      unsuitable as a primary screening method for detection of SGA and LBW, with 60% DR for SGA&#xD;
+      for a false positive rate of 15%. The meta analysis comprised of 46 mostly hospital-based&#xD;
+      studies, which may be a source of bias in concluding results. For prediction of LBW there was&#xD;
+      no statistical difference between the pooled sensitivity and specificity (p=0.15 and 0.96,&#xD;
+      respectively) of cohort verses case control studies and between prospective and retrospective&#xD;
+      studies for prediction of SGA. Whereas, for prediction of SGA there was also no statistical&#xD;
+      difference between the pooled sensitivity and specificity (p=0.26 and 0.65, respectively) of&#xD;
+      cohort verses case control studies and on the contrary the prospective studies decreased the&#xD;
+      pooled sensitivity (0.85 verses 0.89; p=0.00) in comparison to retrospective studies.26 A&#xD;
+      prospective cohort study concluded that by Incorporating a third trimester scan to fundal&#xD;
+      height measurements in low risk woman the detection rate for SGA can increase to 57%, whereas&#xD;
+      selective use detected only 20% of SGA.27 On the contrary, all national guidelines do not&#xD;
+      recommend routine third trimester scan for detection of SGA.7,19,20,21,22,23 The concept of&#xD;
+      customized or GROW charts by Gardosi et al is based on the principles: 1. physiological&#xD;
+      variables that impact fetal growth (maternal ethnicity, height, weight and parity) 2.&#xD;
+      Excluding pathological conditions like diabetes, hypertension and smoking.28 Use of GROW&#xD;
+      charts derived from uncomplicated pregnancies delineating estimated weight for a given&#xD;
+      gestation. Gardosi et al reported the likelihood of detecting SGA by using standardized&#xD;
+      fundal height measurement alone when plotted on a customized chart to 47.9% in contrary to&#xD;
+      29.2% with conventional symphysis-fundal height measurement without increasing the&#xD;
+      utilization of ultrasound scans.29 In 2013, the Perinatal institute of UK introduced Growth&#xD;
+      assessment Protocol (GAP). GAP training encompasses of (1) staff training supported by&#xD;
+      theoretical and practical e-learning modules, (2) clinical application of evidence based&#xD;
+      guidelines including risk assessment, investigation and surveillance of fetal growth (3)&#xD;
+      training and bringing accuracy in measuring and plotting fundal height on customized growth&#xD;
+      charts (4) serial auditing to record process and outcome indicators and (5) audit of missed&#xD;
+      cases to explore the reason of not being detected antenatally.30 This program has been&#xD;
+      associated with increased detection rate of SGA and reduction in perinatal mortality.31 Based&#xD;
+      on this evidence and Royal College of Obstetrician &amp; Gynecologist recommendation, the GAP&#xD;
+      program has been implemented in 80% of hospital trusts across UK. Recently a 10-year&#xD;
+      population-based cohort study was conducted to evaluate effect of implementation of GAP&#xD;
+      program and reduction in stillbirths in UK. Data of 6,561,560 births from 133 units in&#xD;
+      England was analyzed and still birth rates were calculated and compared between non-GAP (39&#xD;
+      units or 29.3%), partial GAP (29 units or 21.8%) and Complete GAP (65 units or 48.9%)&#xD;
+      implementation units. There was an overall reduction in the stillbirth rate from 5.11/1000 to&#xD;
+      4.18/1000, with reduction in still birth rate among all the three groups. However, the cross&#xD;
+      sectional comparison between the two group showed a 9% lower still birth rate among GAP units&#xD;
+      along with greater fall in stillbirth rate (24%) when compared to the than the non-GAP&#xD;
+      units.32 GAP program when adopted outside UK, in The Royal women's Hospital, Melbourne,&#xD;
+      resulted in doubled detection rate of SGA from 21% to 41% without increase in false positive&#xD;
+      rate.33 Similarly, results of another non-randomized, quasi controlled, pre and posttest&#xD;
+      designed study found doubling (24.8% to 50.6%) in detection rate of SGA after plotting serial&#xD;
+      FH on customized charts as an intervention.34 A prospective observational study to determine&#xD;
+      the diagnostic effectiveness of customized charts for identification of fetal growth patterns&#xD;
+      concluded that serial SFH measurements has a positive likelihood ratio of 4.7 for the&#xD;
+      detection of SGA.35 To date, all the published research demonstrating the effectiveness of&#xD;
+      GAP program are non-randomized, prospective cohorts, pre and post implementation designed.&#xD;
+      Therefore, making it impossible to determine whether it's the diagnostic effectiveness of the&#xD;
+      customized chart alone or it's the GAP bundle comprising of staff education, training and&#xD;
+      change in protocol resulting in increased detection rate of SGA. It is comprehensively&#xD;
+      established that the best evidence is derived by RCT and so is highlighted in the Cochrane&#xD;
+      review36. To the best of investigators knowledge no randomized controlled trial has been&#xD;
+      published to compare the diagnostic effectiveness of serial standardized fundal height&#xD;
+      measurements on a customized chart with the conventional method. This study would also help&#xD;
+      us to establish the role customized charts as a screening tool for detection of SGA&#xD;
+      especially in low resourced countries. It can play a pivotal role, being in expensive,&#xD;
+      noninvasive for detection of SGA in developing countries with high perinatal morbidity and&#xD;
+      mortality.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 14, 2021</start_date>
+  <completion_date type="Anticipated">July 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 15, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in detection rate of SGA in low risk women using GROW charts</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>detection rate of Small for gestational age in control and intervention group</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in perinatal outcomes between control and Intervention group in low risk women.</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>Gestational age at time of delivery (days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Apgar score at the time of birth</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>Apgar score (good or poor)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Type of labor in control and intervention group</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>Labor type (spontaneous or induced)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of mode of delivery in the control and Intervention group</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>Mode of delivery (vaginal vs elective or emergency cesarean section)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of newborns requiring hospital admissions for postnatal care</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>Neonatal Intensive care admissions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of neonatal death in control and Intervention group</measure>
+    <time_frame>1.5 years</time_frame>
+    <description>Neonatal Death</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Small for Gestational Age at Delivery</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The control group will continue with the standard practice of antenatal care using Mc Donald's rule for fundal heights measurements.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention group will follow the same antenatal visit plan as the control group with the use of customised GROW Charts for fundal height measurements.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Use of customised GROW Charts</intervention_name>
+    <description>Intervention group will follow the same antenatal visit plan and two ultrasounds will be offered (NT 11-13+6 weeks &amp; anomaly scan 19-22 weeks of gestation) in routine. A third trimester scan will not be offered in routine to Intervention group. Serial SFH measurements will be plotted against estimated date of delivery at each review from 26 weeks of gestation on the customized GROW chart already attached in the maternity notes. On each visit patient will be examined after emptying bladder in a semi-recumbent position, using non-elastic tape with cm side hidden; measurement will be taken from the fundus to upper margin of pubic symphysis. Abnormal SFH measurements, when plotted below the 10th or does not follow its trajectory on customized growth charts will be referred for growth scan suspecting SGA. SFH plotted above 90th centile will also be referred for growth scan, as a part of antenatal care.</description>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        • low risk woman with singleton pregnancy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant woman with chronic hypertension, Diabetes Mellitus, Autoimmune disorders&#xD;
+&#xD;
+          -  Fetus with chromosomal&#xD;
+&#xD;
+          -  Fetus with structural defects&#xD;
+&#xD;
+          -  Multiple gestation&#xD;
+&#xD;
+          -  Pregnancy with fibroids uterus&#xD;
+&#xD;
+          -  BMI &gt;35.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Fatima Memorial College of Medicine and Dentistry</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>54000</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Farhat Ulain Ahmed, FRCOG, FCPS,FACOG, MHPE</last_name>
+      <phone>+92 333422995</phone>
+      <email>farhatulainahmed@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Fatima Ismail, MBBS, FCPS(1)</last_name>
+      <phone>+92 42 111555600</phone>
+      <phone_ext>392</phone_ext>
+      <email>drfatima_ismail@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Farhat ulain Ahmed, FRCOG, FCPS,FACOG, MHPE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fatima Ismail, MBBS, FCPS(1)</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fatima Shah, MBBS, FCPS(1)</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sharoon Hanook, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fatima Memorial Hospital</investigator_affiliation>
+    <investigator_full_name>Farhat Ul Ain Ahmed</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Small for gestational age</keyword>
+  <keyword>SGA</keyword>
+  <keyword>GROW Chart</keyword>
+  <keyword>Low risk</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

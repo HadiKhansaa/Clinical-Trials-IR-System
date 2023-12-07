@@ -1,0 +1,469 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04493619</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PLX124-03</org_study_id>
+    <nct_id>NCT04493619</nct_id>
+  </id_info>
+  <brief_title>PLX2853 as a Single Agent in Advanced Gynecological Malignancies and in Combination With Carboplatin in Platinum-Resistant Epithelial Ovarian Cancer</brief_title>
+  <official_title>A Multicenter, Open-Label, Parallel, Phase 2a Study of PLX2853 Monotherapy in Advanced Gynecological Malignancies With a Known ARID1A Mutation and Phase 1b/2a Study of PLX2853/Carboplatin Combination Therapy in Platinum-Resistant Epithelial Ovarian Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Plexxikon</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Plexxikon</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to evaluate safety, pharmacokinetics, pharmacodynamics&#xD;
+      and preliminary efficacy of the investigational drug PLX2853 in Advanced Gynecological&#xD;
+      Malignancies with a Known ARID1A Mutation and PLX2853/Carboplatin Combination Therapy in&#xD;
+      Platinum-Resistant Epithelial Ovarian Cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 11, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 2a (PLX2853 monotherapy): overall response rate (ORR) as measured by Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1)</measure>
+    <time_frame>From 8 weeks of treatment for only PLX2853 (Cycle 3 Day 1; 28 days per cycle) until completion of long term follow-up, an average of 6 months.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1b (PLX2853 + carboplatin combination): establish the MTD/RP2D for the combination of PLX2853 and carboplatin</measure>
+    <time_frame>From time of first dose of PLX2853 and Carboplatin until 30 days of end of treatment.</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2a (PLX2853 + carboplatin combination): ORR as measured by RECIST v1.1</measure>
+    <time_frame>From 8 weeks of treatment with PLX2853 and Carboplatin (Cycle 3 Day 1; 28 days per cycle) until completion of long term follow-up, an average of 6 months.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of TEAEs that are related to treatment (both arms)</measure>
+    <time_frame>From time of first dose of PLX2853 and Carboplatin until 30 days of end of treatment.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of TEAEs that result in dose interruption, reduction or discontinuation (both arms)</measure>
+    <time_frame>From time of first dose of PLX2853 and Carboplatin until 30 days of end of treatment.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent ECG abnormalities (both arms)</measure>
+    <time_frame>From time of first dose of PLX2853 and Carboplatin until 30 days of end of treatment.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent laboratory abnormalities (both arms)</measure>
+    <time_frame>From time of first dose of PLX2853 and Carboplatin until 30 days of end of treatment.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration Of Response (DOR) (both arms)</measure>
+    <time_frame>From 8 weeks of treatment (Cycle 3 Day 1; 28 days per cycle) until completion of long term follow-up, an average of 6 months.</time_frame>
+    <description>DOR will be calculated for each subject with a response as the number of days from the date of first response (PR or CR confirmed at least 28 days later) to the date of the first documented disease progression or date of death from any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR) (both arms)</measure>
+    <time_frame>From time of first dose until end of treatment, an average of 6 months.</time_frame>
+    <description>DCR will be calculated as the percentage of subjects with confirmed complete response (CR), Partial Response (PR), or Stable Disease (SD).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) (both arms)</measure>
+    <time_frame>From time of first dose until the date of first documented progression or date of death from any cause, whichever came first, assessed up to approximately 24 months.</time_frame>
+    <description>Progression-free survival (PFS) will be calculated for each subject as the number of days from the first day of PLX2853 treatment (Cycle 1 Day 1) to the date of the first documented disease progression or date of death from any cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS) (both arms)</measure>
+    <time_frame>From time of first dose until completion of long term follow-up, approximately 24 months.</time_frame>
+    <description>Overall survival (OS) will be calculated for each subject as the number of days from the first day of PLX2853 treatment (Cycle 1 Day 1) to the date of death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PLX2853 PK parameter AUC0-last (both arms)</measure>
+    <time_frame>From time of first dose until 30 days from end of treatment.</time_frame>
+    <description>AUC from time zero to time of last observed concentration hours postdose (AUC0-last).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PLX2853 PK parameter AUC0-24 (both arms)</measure>
+    <time_frame>From time of first dose until 30 days from end of treatment.</time_frame>
+    <description>AUC from time zero extrapolated to 24 hours (AUC0-24)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PLX2853 PK parameter AUC0-∞ (both arms)</measure>
+    <time_frame>From time of first dose until 30 days from end of treatment.</time_frame>
+    <description>AUC from time zero extrapolated to infinite time (AUC0-∞)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PLX2853 PK parameter Cmax (both arms)</measure>
+    <time_frame>From time of first dose until 30 days from end of treatment.</time_frame>
+    <description>Maximum observed concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PLX2853 PK parameter Tmax (both arms)</measure>
+    <time_frame>From time of first dose until 30 days from end of treatment.</time_frame>
+    <description>Time to maximum observed concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PLX2853 PK parameter T1/2 (both arms)</measure>
+    <time_frame>From time of first dose until 30 days from end of treatment.</time_frame>
+    <description>terminal elimination half-life (T1/2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PLX2853 PK parameter accumulation ratio at steady state (both arms)</measure>
+    <time_frame>From time of first dose until 30 days from end of treatment.</time_frame>
+    <description>accumulation ratio at steady state</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">67</enrollment>
+  <condition>Gynecologic Neoplasms</condition>
+  <condition>Epithelial Ovarian Cancer</condition>
+  <arm_group>
+    <arm_group_label>PLX2853 Phase 2a Monotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Up to 26 evaluable subjects with ARID1A mutation-positive advanced gynecological malignancies will be enrolled.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PLX2853 + Carboplatin Phase 1b/2a Combination Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase 1b (PLX2853 + carboplatin combination): Up to 15 evaluable subjects with platinum-resistant EOC will be enrolled.&#xD;
+Phase 2a (PLX2853 + carboplatin combination): Up to 26 evaluable subjects with platinum-resistant EOC will be enrolled.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PLX2853</intervention_name>
+    <description>PLX2853 tablets</description>
+    <arm_group_label>PLX2853 + Carboplatin Phase 1b/2a Combination Therapy</arm_group_label>
+    <arm_group_label>PLX2853 Phase 2a Monotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Carboplatin IV injection, 5 mg•min/mL</description>
+    <arm_group_label>PLX2853 + Carboplatin Phase 1b/2a Combination Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥18 years at the time of signing informed consent&#xD;
+&#xD;
+          2. Histologically or cytologically confirmed diagnosis of 1 of the following, and must&#xD;
+             have measurable disease per RECIST v1.1:&#xD;
+&#xD;
+               -  Phase 2a (PLX2853 monotherapy): Any advanced gynecological malignancy (cervical,&#xD;
+                  vaginal, vulvar, uterine, ovarian, fallopian tube, or primary peritoneal) with a&#xD;
+                  known ARID1A mutation, that is intolerant to or refractory to all standard&#xD;
+                  therapy known to confer clinical benefit.&#xD;
+&#xD;
+               -  Phase 1b and Phase 2a (PLX2853 + carboplatin combination):&#xD;
+&#xD;
+             Platinum-resistant EOC (including fallopian tube or primary peritoneal cancer).&#xD;
+&#xD;
+          3. Eastern Cooperative Oncology Group (ECOG) Performance Status 0 to 1&#xD;
+&#xD;
+          4. Adequate organ function as demonstrated by laboratory values.&#xD;
+&#xD;
+          5. Women of child bearing potential (defined as any female who has experienced menarche&#xD;
+             and who has not undergone successful surgical sterilization or is not postmenopausal)&#xD;
+             must have a negative serum pregnancy test within 7 days prior to taking the first dose&#xD;
+             of study drug and, if sexually active, must agree to use a highly effective method of&#xD;
+             contraception (a contraception method with a failure rate &lt;1% per year) and 1&#xD;
+             additional barrier method from the time of the negative pregnancy test to 90 days&#xD;
+             after the last dose of study drug. Women of non-child bearing potential may be&#xD;
+             included if they are either surgically sterile or have been postmenopausal for ≥1&#xD;
+             year.&#xD;
+&#xD;
+          6. Except as specified above for organ function, all drug-related toxicity from previous&#xD;
+             cancer therapy must be resolved (to Grade ≤1 or baseline per National Cancer Institute&#xD;
+             Common Terminology Criteria for Adverse Events version 5.0 [NCI CTCAE v5.0]) prior to&#xD;
+             study treatment administration (Grade 2: alopecia, hot flashes, decreased libido, or&#xD;
+             neuropathy is allowed).&#xD;
+&#xD;
+          7. Willingness and ability to provide written informed consent prior to any study-related&#xD;
+             procedures and to comply with all study requirements&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Prior exposure to a bromodomain inhibitor&#xD;
+&#xD;
+          2. Ongoing systemic infection requiring treatment with antibiotic, antiviral, or&#xD;
+             antifungal treatment&#xD;
+&#xD;
+          3. Autoimmune hemolytic anemia or autoimmune thrombocytopenia&#xD;
+&#xD;
+          4. Presence of symptomatic or uncontrolled central nervous system or leptomeningeal&#xD;
+             metastases&#xD;
+&#xD;
+          5. Red blood cell or platelet transfusion within 14 days of Screening blood draw&#xD;
+&#xD;
+          6. Known or suspected allergy to the investigational agent or any agent given in&#xD;
+             association with this study&#xD;
+&#xD;
+          7. Use of biotin (i.e., Vitamin B7) or supplements containing biotin higher than the&#xD;
+             daily adequate intake of 30 μg (NIH-ODS 2020).&#xD;
+&#xD;
+          8. Use of strong inhibitors and inducers of CYP3A4 and 2C8&#xD;
+&#xD;
+          9. Clinically significant cardiac disease&#xD;
+&#xD;
+         10. Inability to take oral medication or significant nausea and vomiting, malabsorption,&#xD;
+             or significant small bowel resection that, in the opinion of the Investigator, would&#xD;
+             preclude adequate absorption&#xD;
+&#xD;
+         11. Non-healing wound, ulcer, or bone fracture&#xD;
+&#xD;
+         12. Infection with HIV-1 or HIV-2. Exception: subjects with well-controlled HIV (e.g., CD4&#xD;
+             &gt;350/mm3 and undetectable viral load) are eligible.&#xD;
+&#xD;
+         13. Current active liver disease from any cause, including hepatitis A (hepatitis A virus&#xD;
+             immunoglobulin M positive), hepatitis B (hepatitis B virus [HBV] surface antigen&#xD;
+             positive), or hepatitis C (hepatitis C virus [HCV] antibody positive, confirmed by HCV&#xD;
+             ribonucleic acid).&#xD;
+&#xD;
+         14. Active known second malignancy with the exception of any of the following:&#xD;
+&#xD;
+               -  Adequately treated basal cell carcinoma, squamous cell carcinoma of the skin, or&#xD;
+                  in situ cervical cancer&#xD;
+&#xD;
+               -  Adequately treated Stage I cancer from which the subject is currently in&#xD;
+                  remission and has been in remission for ≥2 years&#xD;
+&#xD;
+               -  Any other cancer from which the subject has been disease-free for ≥3 years&#xD;
+&#xD;
+         15. Major surgery or significant traumatic injury within 28 days prior to Cycle 1 Day 1&#xD;
+&#xD;
+         16. Hospitalization for subacute bowel obstruction within 28 days prior to Cycle 1 Day 1&#xD;
+&#xD;
+         17. Receipt of anti-cancer therapy prior to Cycle 1 Day 1:&#xD;
+&#xD;
+               -  Chemotherapy, radiation therapy, or small molecule anti-cancer therapy for the&#xD;
+                  treatment of cancer within 14 days or 5 half-lives (whichever is shorter) of&#xD;
+                  Cycle 1 Day 1&#xD;
+&#xD;
+               -  Immune therapy or other biologic therapy (e.g., monoclonal antibodies,&#xD;
+                  antibody-drug conjugates) for the treatment of cancer within 21 days or 5&#xD;
+                  half-lives (whichever is shorter) of Cycle 1 Day 1 Subjects can receive a stable&#xD;
+                  dose of bisphosphonates for bone metastases, before and during the study as long&#xD;
+                  as these were started at least 28 days prior to treatment with study drug.&#xD;
+&#xD;
+         18. Subject is participating in any other therapeutic clinical study (observational or&#xD;
+             registry studies are allowed).&#xD;
+&#xD;
+         19. Subjects who are pregnant or breast-feeding&#xD;
+&#xD;
+         20. Presence of any other medical, psychological, familial, sociological, or geographic&#xD;
+             condition potentially hampering compliance with the study protocol or would interfere&#xD;
+             with the study endpoints or the subject's ability to participate.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Kerry Inokuchi</last_name>
+    <phone>1-510-647-4148</phone>
+    <email>Kinokuchi@plexxikon.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The University of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>05841</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hatti Koning</last_name>
+      <phone>773-834-5722</phone>
+      <email>hkoning@medicine.bsd.uchicago.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Oladapo Yeku, MD, PhD</last_name>
+      <phone>617-643-9354</phone>
+      <email>oyeku@mgh.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kellie Redmond</last_name>
+      <phone>617-643-0361</phone>
+      <email>kredmond2@partners.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma - Stephenson Cancer Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>405-271-8001</phone>
+      <email>PhaseI-Referrals@ouhsc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Oncology / Sarah Cannon</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>AskSARAH https://sarahcannon.com/asksarah/</last_name>
+      <phone>844-482-4812</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Health Systems</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne Gabel</last_name>
+      <email>AM7BD@hscmail.mcc.virginia.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Cancer Specialists, PC</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Spira, MD</last_name>
+      <email>Alexander.Spira@usoncology.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington / Seattle Cancer Care Alliance</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Swisher</last_name>
+      <phone>206-543-3669</phone>
+      <email>swishere@uw.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Greg Wallace</last_name>
+      <email>gugynresearch@seattlecca.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Cancer Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amit Oza</last_name>
+      <phone>(416) 946-2818</phone>
+      <email>Amit.Oza@uhn.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2020</verification_date>
+  <study_first_submitted>July 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>October 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>PLX2853</keyword>
+  <keyword>Ovarian Cancer</keyword>
+  <keyword>ARID1A</keyword>
+  <keyword>Gynecological Malignancies</keyword>
+  <keyword>Carboplatin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+    <mesh_term>Genital Neoplasms, Female</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -8,32 +8,31 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
 # Ensure you have the necessary nltk data
-nltk.download('punkt')
-nltk.download('stopwords')
+# nltk.download('punkt')
+# nltk.download('stopwords')
 
 # Initialize stemmer
 stemmer = PorterStemmer()
 
 #fuction to find trial and load it
 def find_trial(trial_id):
-    PATH_TO_TRIALS = 'topic1_trials'
-    for folder in os.listdir(PATH_TO_TRIALS):
-        for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-            if file[:-4] == trial_id:
-                with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
-                    try:
-                        content = f.read()
-                    except:
-                        continue
-                    return content
+    PATH_TO_TRIALS = 'trials_query1'
+    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
+        if file[:-4] == trial_id:
+            with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
+                try:
+                    content = f.read()
+                except:
+                    continue
+                return content
                     
 # Function to extract different components using regex
 def extract_components(content):
     inc_match = re.search(r'<textblock>.*?Inclusion Criteria:(.*?)Exclusion Criteria:(.*?)</textblock>', content, re.DOTALL)
     title_match = re.search(r'<brief_title>(.*?)</brief_title>', content)
+    summary_match = re.search(r'<brief_summary>.*?<textblock>(.*?)</textblock>.*?</brief_summary>', content, re.DOTALL)
     desc_match = re.search(r'<detailed_description>.*?<textblock>(.*?)</textblock>.*?</detailed_description>', content, re.DOTALL)
     mesh_match = re.findall(r'<mesh_term>(.*?)</mesh_term>', content)
-
     inc_criteria = inc_match.groups()[0] if inc_match else ''
     exc_criteria = inc_match.groups()[1] if inc_match else ''
     if exc_criteria == '':
@@ -41,9 +40,10 @@ def extract_components(content):
         inc_criteria = inc_match.groups()[0] if inc_match else ''
     title = title_match.group(1) if title_match else ''
     desc = desc_match.group(1) if desc_match else ''
+    summary = summary_match.group(1) if summary_match else ''
     mesh_terms = ' '.join(mesh_match)
 
-    return inc_criteria, exc_criteria, f"{title} {desc} {mesh_terms}"
+    return inc_criteria, exc_criteria, f"{title} {desc} {summary} {mesh_terms}"
 
 def create_inverted_index(feature_names, tfidf_matrix, docs):
     index = {}
@@ -70,29 +70,28 @@ if __name__ == "__main__":
     doc_ids = []
 
     # PATH_TO_TRIALS = 'trials/ClinicalTrials.2021-04-27.part1'
-    PATH_TO_TRIALS = 'topic1_trials'
+    PATH_TO_TRIALS = 'trials_query1'
 
 
     i = 1
     # Iterate over folders and files
-    for folder in os.listdir(PATH_TO_TRIALS):
-        for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-            with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
-                if file.endswith('.xml'):
-                    try:
-                        content = f.read()
-                    except:
-                        continue
-                    inc, exc, tdm = extract_components(content)
-                    if inc !='':
-                        inclusion_criteria.append(inc)
-                    if exc != '':
-                        exclusion_criteria.append(exc)
-                    if tdm != '':
-                        title_desc_mesh.append(tdm)
-                    doc_ids.append(file[:-4])  # Assuming file names are the document IDs
-                    print(f"Processed {i} files")  # Print progress
-                    i += 1
+    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
+        with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
+            if file.endswith('.xml'):
+                try:
+                    content = f.read()
+                except:
+                    continue
+                inc, exc, tdm = extract_components(content)
+                if inc !='':
+                    inclusion_criteria.append(inc)
+                if exc != '':
+                    exclusion_criteria.append(exc)
+                if tdm != '':
+                    title_desc_mesh.append(tdm)
+                doc_ids.append(file[:-4])  # Assuming file names are the document IDs
+                print(f"Processed {i} files")  # Print progress
+                i += 1
 
     # Fit and transform the texts
     tfidf_inclusion = vectorizer_inclusion.fit_transform(inclusion_criteria)

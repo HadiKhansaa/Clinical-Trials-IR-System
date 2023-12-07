@@ -1,0 +1,633 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03203850</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CICL670F2203</org_study_id>
+    <nct_id>NCT03203850</nct_id>
+  </id_info>
+  <brief_title>A Two-year Study to Evaluate the Efficacy and Safety of Deferasirox Film-coated Tablet Versus Phlebotomy in Patients With Hereditary Hemochromatosis.</brief_title>
+  <official_title>A Phase II, Multicenter, Open-label, Randomized Two-year Study to Evaluate the Efficacy and Safety of Deferasirox Film-coated Tablet Versus Phlebotomy in Patients With Hereditary Hemochromatosis.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of deferasirox film coated&#xD;
+      tablet (FCT) versus phlebotomy for the management of iron overload in adults with HH at risk&#xD;
+      of iron-related morbidity. This evaluation will provide information on the two treatment&#xD;
+      options in terms of the rate of response of proportion of patients reaching the study target&#xD;
+      SF ≤ 100 μg/L and their associated safety profiles.&#xD;
+&#xD;
+      In addition to exploring the safety and efficacy of deferasirox FCT in hereditary&#xD;
+      hemochromatosis (HH), this study is being conducted to fulfill an FDA post-marketing&#xD;
+      requirement [PMC 750-10 (Exjade) /PMR 2888-8 (Jadenu)] to provide additional randomized data&#xD;
+      to confirm the ocular safety profile of deferasirox through detailed ocular assessments in&#xD;
+      patients treated with deferasirox FCT for 2 years.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 11, 2018</start_date>
+  <completion_date type="Anticipated">April 25, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 24, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients achieving target SF ≤ 100 μg/L for the first time.</measure>
+    <time_frame>Response is defined by achieving target SF ≤ 100 μg/L on or before 24 months.</time_frame>
+    <description>Assess the response rate (RR) of deferasirox film coated tablet (FCT) and phlebotomy treatment arms where response is defined by achieving target serum ferritin (SF) ≤ 100 μg/L on or before 24 months. Estimate of the RR and corresponding 95% confidence interval (CI) will be provided for each arm. No formal hypothesis testing is planned in this study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of ocular adverse events (AEs) overall</measure>
+    <time_frame>24 months</time_frame>
+    <description>To evaluate the ocular safety of deferasirox FCT and phlebotomy over 24 months. To characterize long-term ocular safety by the incidence of treatment-emergent ocular adverse events (AEs) (new or worsening from baseline) summarized categorically by system organ class and/or preferred term.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of ocular adverse events (AEs) by severity</measure>
+    <time_frame>24 months</time_frame>
+    <description>To evaluate the ocular safety of deferasirox FCT and phlebotomy over 24 months. To characterize long-term ocular safety by AE severity (new or worsening from baseline) summarized categorically by system organ class and/or preferred term.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Hereditary Hemochromatosis</condition>
+  <arm_group>
+    <arm_group_label>Deferasirox FCT Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>randomized in a 2:1 ratio: Deferasirox to surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>phlebotomy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>randomized in a 2:1 ratio: Deferasirox to surgery</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Deferasirox FCT</intervention_name>
+    <description>Taken orally once per day (QD)</description>
+    <arm_group_label>Deferasirox FCT Arm</arm_group_label>
+    <other_name>ICL670</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Phlebotomy</intervention_name>
+    <description>according to investigator's decision</description>
+    <arm_group_label>phlebotomy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Written informed consent must be obtained prior to any screening procedures.&#xD;
+&#xD;
+        Patients eligible for inclusion must meet all following criteria prior to receiving study&#xD;
+        treatment:&#xD;
+&#xD;
+        1. Male or female ≥ 18-years-old 2. Documented genotype testing confirming homozygous for&#xD;
+        the C282Y mutation (C282Y/C282Y) 3. Transferrin saturation ≥ 45% (at either screening&#xD;
+        visit) 4. Serum ferritin (SF) ≥ 500 μg/L (at either screening visit)&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Medical conditions that preclude inclusion:&#xD;
+&#xD;
+               -  Iron overload not due to HH&#xD;
+&#xD;
+               -  Condition which might significantly alter the absorption, distribution,&#xD;
+                  metabolism or excretion of oral deferasirox&#xD;
+&#xD;
+               -  Systemic disease which prevents taking study treatment or any contraindication to&#xD;
+                  phlebotomy&#xD;
+&#xD;
+               -  Inflammatory condition or immunological disease which may interfere with the SF&#xD;
+                  interpretation, such as an active infection, collagen vascular disorders,&#xD;
+                  irritable bowel syndrome, lupus, or immune thrombocytopenia&#xD;
+&#xD;
+               -  Significantly impaired gastrointestinal function or disease that may&#xD;
+                  significantly alter the absorption of oral deferasirox, e.g. ulcerative diseases,&#xD;
+                  uncontrolled nausea, vomiting, diarrhea, malabsorption syndrome, or small bowel&#xD;
+                  resection.&#xD;
+&#xD;
+               -  Psychiatric or addictive disorder which prevent giving informed consent or&#xD;
+                  undergoing any of the treatment options or unwilling or unable to comply with the&#xD;
+                  protocol&#xD;
+&#xD;
+               -  Uncontrolled or significant cardiac disease or symptomatic cardiac arrhythmias,&#xD;
+                  e.g., sustained ventricular tachycardia and clinically significant second or&#xD;
+                  third degree AV block without a pacemaker.&#xD;
+&#xD;
+               -  Illicit drug use and/or alcohol use, defined as an average alcohol consumption&#xD;
+                  greater than one standard drink a day for women or two standard drinks a day for&#xD;
+                  men within the 12 months prior to enrolment. A standard drink is generally&#xD;
+                  considered to be 12 ounces of beer, 5 ounces of wine, or 1.5 ounces of 80-proof&#xD;
+                  distilled spirits&#xD;
+&#xD;
+               -  Cirrhosis, including Child-Pugh class A, B, and C, diagnosed by liver biopsy,&#xD;
+                  elastography, radiologic exams, or clinical criteria&#xD;
+&#xD;
+               -  Active hepatitis B or C (hepatitis B carrier will be allowed)&#xD;
+&#xD;
+               -  History of HIV seropositivity (ELISA or Western blot)&#xD;
+&#xD;
+               -  Organ transplant recipient&#xD;
+&#xD;
+               -  Malignancy of any organ system, treated or untreated, within the past 5 years&#xD;
+                  whether or not there is evidence of local recurrence or metastases, except&#xD;
+                  localized basal cell carcinoma of the skin, or any history of hepatocellular&#xD;
+                  carcinoma&#xD;
+&#xD;
+          2. Concomitant therapy that precludes enrollment:&#xD;
+&#xD;
+               -  Prior iron chelation therapy&#xD;
+&#xD;
+               -  Prohibited concomitant medications with deferasirox&#xD;
+&#xD;
+          3. Abnormal Laboratory Values:&#xD;
+&#xD;
+               -  Significant anemia that contraindicates phlebotomy (males with hemoglobin &lt;&#xD;
+                  130g/L, females with hemoglobin &lt; 120g/L) in both screening visit samples&#xD;
+&#xD;
+               -  Platelets ≤ 50 x 109/L in both screening visit samples&#xD;
+&#xD;
+               -  Urine protein/urine creatinine ratio &gt; 1.0 mg/mg in both non-first void urine&#xD;
+                  screening visit samples&#xD;
+&#xD;
+               -  Creatinine clearance ≤ 40 ml/min, or use the locally approved contraindication&#xD;
+                  limit in prescribing information if it is stricter, in both screening visit&#xD;
+                  samples&#xD;
+&#xD;
+               -  Serum creatinine &gt; 1.5 x ULN in both screening visit samples&#xD;
+&#xD;
+               -  ALT ≥ 5 x ULN in both screening visit samples&#xD;
+&#xD;
+               -  Total bilirubin &gt; 1.5 x ULN in both screening visit samples&#xD;
+&#xD;
+          4. Participation in an investigational study:&#xD;
+&#xD;
+               -  Observational registry study is allowable&#xD;
+&#xD;
+               -  Within 30 days prior to enrollment or within 5-half-lives of an investigational&#xD;
+                  product, whichever is longer&#xD;
+&#xD;
+               -  Treatment with a systemic investigational drug within 4 weeks or topical&#xD;
+                  investigational drug within 7 days of starting the study&#xD;
+&#xD;
+          5. Pregnancy and contraception:&#xD;
+&#xD;
+               -  Pregnant or nursing (lactating) women&#xD;
+&#xD;
+               -  Women of child-bearing potential, defined as all women physiologically capable of&#xD;
+                  becoming pregnant, unless using basic methods of contraception, such as:&#xD;
+&#xD;
+               -  Total abstinence Periodic abstinence (calendar, ovulation, symptothermal,&#xD;
+                  post-ovulation methods) and withdrawal are unacceptable methods.&#xD;
+&#xD;
+               -  Female sterilization (bilateral oophorectomy with or without hysterectomy), total&#xD;
+                  hysterectomy, or tubal ligation at least six weeks before taking study treatment.&#xD;
+                  If oophorectomy alone, hormone levels must confirm menopause.&#xD;
+&#xD;
+               -  Male sterilization (at least 6 months prior to screening). The vasectomized male&#xD;
+                  must be the sole partner.&#xD;
+&#xD;
+               -  Barrier methods of contraception: condom or occlusive cap For UK: spermicidal&#xD;
+                  foam/gel/film/cream/vaginal suppository&#xD;
+&#xD;
+               -  Placement of an intrauterine device or intrauterine system&#xD;
+&#xD;
+               -  Women considered as post-menopausal and not of childbearing potential are allowed&#xD;
+                  to be enrolled in the trial if they have had 12 months of natural (spontaneous)&#xD;
+                  amenorrhea with an expected clinical profile, e.g., age appropriate and history&#xD;
+                  of vasomotor symptoms.&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion may apply. -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+    <email>novartis.email@novartis.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>+41613241111</phone>
+    <email>novartis.email@novartis.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kentress Davison</last_name>
+      <phone>205-934-2762</phone>
+      <email>kdavison@uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rita Paschal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anastasiya Chashchykhina</last_name>
+      <phone>617-636-0653</phone>
+      <email>achashchykhina@tuftsmedicalcenter.org</email>
+    </contact>
+    <investigator>
+      <last_name>Raza Malik</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lahey Hospital and Medical Center Center Primary</name>
+      <address>
+        <city>Burlington</city>
+        <state>Massachusetts</state>
+        <zip>01805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Louis University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110-0250</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lucas Research</name>
+      <address>
+        <city>Morehead City</city>
+        <state>North Carolina</state>
+        <zip>28557</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Limoges cedex</city>
+        <zip>87042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bad Doberan</city>
+        <zip>18209</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Chemnitz</city>
+        <zip>09113</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Magdeburg</city>
+        <zip>39120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Oberhausen</city>
+        <zip>46045</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bucharest</city>
+        <state>District 2</state>
+        <zip>022328</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bucuresti</city>
+        <zip>11025</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Craiova</city>
+        <zip>200136</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sibiu</city>
+        <zip>550245</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>125167</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>831 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>85107</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Manresa</city>
+        <state>Espana</state>
+        <zip>08241</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Baracaldo</city>
+        <state>Vizcaya</state>
+        <zip>48903</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Las Palmas de Gran Canaria</city>
+        <zip>35010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lugano</city>
+        <zip>6900</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>St Gallen</city>
+        <zip>9007</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Slovakia</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>June 22, 2017</study_first_submitted>
+  <study_first_submitted_qc>June 28, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 29, 2017</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>hereditary hemochromatosis</keyword>
+  <keyword>ICL670</keyword>
+  <keyword>deferasirox FCT</keyword>
+  <keyword>iron overload</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hemochromatosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deferasirox</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.&#xD;
+This trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

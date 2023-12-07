@@ -18,20 +18,19 @@ def copy_file(src, dst):
         print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
-    PATH_TO_TRIALS = 'trials'
+    PATH_TO_TRIALS = 'C:\\Users\\Hp\\Documents\\CMPS M\\CMPS 365\\project\\trecs\\trials'
 
     # get documents with relevence feedback
-    with open('documents.json', 'r') as file:
+    with open('documents_q3.json', 'r') as file:
         docs = json.load(file)
     documents = set(docs)
     i = 1
     for folder in os.listdir(PATH_TO_TRIALS):
-        for sub_folder in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-            for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder, sub_folder)):
-                with open(os.path.join(PATH_TO_TRIALS, folder, sub_folder, file), 'r') as f:
+            for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
+                with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
                     if file.endswith('.xml') and file[:-4] in documents: # check if file is in documents with relevence feedback
                         #copy the file to trials_query1 folder
-                        copy_file(os.path.join(PATH_TO_TRIALS, folder, sub_folder, file), 'trials_query1')
+                        copy_file(os.path.join(PATH_TO_TRIALS, folder, file), 'trials_query3')
                         print(f"Processed {i} files")
                         i += 1
 

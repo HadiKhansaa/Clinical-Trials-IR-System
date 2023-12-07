@@ -1,0 +1,1706 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01306331</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AMP001</org_study_id>
+    <nct_id>NCT01306331</nct_id>
+  </id_info>
+  <brief_title>Study of Contraceptive Efficacy &amp; Safety of Phexxi™ (Previously Known as Amphora) Gel Compared to Conceptrol Vaginal Gel</brief_title>
+  <official_title>A Multicenter, Open-Label, Randomized Study of the Contraceptive Efficacy and Safety of Phexxi™ (Previously Known as Amphora) Gel Compared to Conceptrol Vaginal Gel</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Evofem Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Health Decisions</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Evofem Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a research study of a new experimental vaginal gel that helps in vaginal pH&#xD;
+      regulation and results in immobilization of spermatozoa by maintaining the normally low&#xD;
+      vaginal pH, even in the presence of semen. This vaginal gel is called Phexxi™ (previously&#xD;
+      known as Amphora) and was compared to a commercially available spermicide called Conceptrol®,&#xD;
+      which contains nonoxynol 9; commonly abbreviated as N-9. Conceptrol® can help prevent&#xD;
+      pregnancy. This study objective was to determine if this product prevents pregnancy when&#xD;
+      inserted into the vagina before intercourse.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Clinical Trial Design&#xD;
+&#xD;
+      This is a multicenter, open-label, randomized, controlled, Phase III study of repeated use of&#xD;
+      Amphora™ gel compared to Conceptrol® Vaginal Gel as the method of contraception over seven&#xD;
+      cycles of use. In addition, there is an opportunity for Amphora™ gel subjects to continue&#xD;
+      with study treatment for up to 13 cycles of treatment upon completion of the first seven&#xD;
+      cycles of treatment.&#xD;
+&#xD;
+      A subset of subjects (Amphora™ gel and Conceptrol® Vaginal Gel) will undergo colposcopy at&#xD;
+      the Admission Visit and at the visits after Cycles 1, 3, and 7 (Treatment Exit). Subjects&#xD;
+      participating for 13 cycles will also undergo colposcopy after Cycles 10 and 13. Colposcopic&#xD;
+      photographs will be taken at all visits independent of presence of any suspicious areas. Any&#xD;
+      suspicious areas and clinical findings will be recorded on the colposcopy case report form.&#xD;
+      The colposcopy evaluator for the subset will be blinded regarding the treatment group of the&#xD;
+      subject. If at any time during the study the investigator deems colposcopy necessary,&#xD;
+      colposcopy will be performed on any subject and will not be limited to subjects in the&#xD;
+      colposcopy subset.&#xD;
+&#xD;
+      A subset of subjects (Amphora™ gel and Conceptrol® Vaginal Gel) will also have&#xD;
+      semi-quantitative cultures for E. coli and clinical yeast performed at the Admission Visit&#xD;
+      and after Cycles 1, 3, and 7 (Treatment Exit) Visits. Subjects participating for 13 cycles&#xD;
+      will also undergo the assessments after Cycles 10 and 13. Another subgroup will have&#xD;
+      quantitative vaginal cultures performed after Cycles 1 and 7 (Treatment Exit) Visits, and&#xD;
+      also after Cycle 13 for subjects participating in the extension.&#xD;
+&#xD;
+      Selected research centers will also recruit subjects into the subset of women 36-45 years of&#xD;
+      age at enrollment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2011</start_date>
+  <completion_date type="Actual">June 2014</completion_date>
+  <primary_completion_date type="Actual">June 2014</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>6-Month (183 Days) Cumulative Pregnancy Percentage</measure>
+    <time_frame>183 days</time_frame>
+    <description>The primary endpoint was the evaluation of contraceptive efficacy over six months (183 days) of Amphora™ Gel use when compared to Conceptrol® Vaginal Gel. Kaplan-Meier methods were used to estimate the six-month cumulative pregnancy percentage of women in the MITT population by treatment group</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>6-Month (183 Days) Cumulative Pregnancy Percentage for Subjects With Perfect Use</measure>
+    <time_frame>183 days</time_frame>
+    <description>Perfect use contraceptive efficacy over six months (183 days) of Amphora™ Gel use when compared to Conceptrol® Vaginal Gel. Kaplan-Meier methods were used to estimate the six-month cumulative pregnancy percentage of women in the efficacy evaluable (EE) population by treatment group</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">3389</enrollment>
+  <condition>Contraception</condition>
+  <arm_group>
+    <arm_group_label>Conceptrol</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>100 mg (4% concentration) of nonoxynol-9 in 2.5 mL volume of gel</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Amphora</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Citric acid USP, potassium bitartrate USP, and L-lactic acid USP</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Conceptrol</intervention_name>
+    <description>• Conceptrol® Vaginal Gel, which contains 100 mg (4% concentration) of nonoxynol-9 (N-9) in 2.5 mL volume of gel.</description>
+    <arm_group_label>Conceptrol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amphora</intervention_name>
+    <description>• Amphora™ gel, which will be delivered in 5 mL doses, is a clear, water-based, petroleum-free gel.</description>
+    <arm_group_label>Amphora</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be healthy women, who are sexually active, at risk for pregnancy, and desiring&#xD;
+             contraception.&#xD;
+&#xD;
+          -  Be within the age range of 18 through 35 (inclusive) at enrollment if not in the&#xD;
+             subset of women with an age of 36-45 at enrollment (age subset at select sites).&#xD;
+&#xD;
+          -  Be at low-risk for both human immunodeficiency virus (HIV) and sexually transmitted&#xD;
+             disease (STD) infection and currently have a single sex partner (≥ 4 months) who is&#xD;
+             also at low-risk for both HIV and STD infection.&#xD;
+&#xD;
+          -  Have a negative urine pregnancy test prior to enrollment.&#xD;
+&#xD;
+          -  Have normal cyclic menses with a usual length of 21 to 40 days over the last two&#xD;
+             cycles or at least one spontaneous, normal menstrual cycle (two menses) since&#xD;
+             delivery, abortion, or after discontinuing hormonal contraception/hormonal therapy.&#xD;
+&#xD;
+          -  Be willing to accept a risk of pregnancy.&#xD;
+&#xD;
+          -  Be willing to engage in at least two acts of heterosexual vaginal intercourse per&#xD;
+             cycle.&#xD;
+&#xD;
+          -  Be willing to be randomized to either study treatment.&#xD;
+&#xD;
+          -  Be willing to use the study product as the only method of contraception over the&#xD;
+             course of the study (with the exception of emergency contraception (EC)), when&#xD;
+             indicated).&#xD;
+&#xD;
+          -  Be capable of using the study product properly and agree to observe all study&#xD;
+             directions and requirements.&#xD;
+&#xD;
+          -  Be willing to keep a daily diary to record coital information, product use&#xD;
+             information, information about the use of other vaginal products, and sign and symptom&#xD;
+             data for both the subject and her partner.&#xD;
+&#xD;
+          -  Agree not to participate in any other clinical trials during the course of the study&#xD;
+             with the exception of enrolling in the Amphora™ gel extension study.&#xD;
+&#xD;
+          -  Be willing to give written informed consent to participate in the trial.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have a history of allergy or sensitivity to spermicides or products containing N-9&#xD;
+             (nonoxynol-9).&#xD;
+&#xD;
+          -  Have had three or more urinary tract infections (UTIs) in the past year.&#xD;
+&#xD;
+          -  Have a UTI by urine culture, symptomatic yeast vaginitis, or symptomatic bacterial&#xD;
+             vaginosis diagnosed by wet mount unless treated and proof of cure is documented.&#xD;
+&#xD;
+          -  Have a history of any recurrent vaginal infections/disorders (either less than or&#xD;
+             equal to four times in the past year or less than or equal to three times in the&#xD;
+             previous six months).&#xD;
+&#xD;
+          -  Be pregnant, have a suspected pregnancy, or desire to become pregnant during the&#xD;
+             course of the study.&#xD;
+&#xD;
+          -  Have a history of infertility or of conditions that may lead to infertility, without&#xD;
+             subsequent intrauterine pregnancy.&#xD;
+&#xD;
+          -  Have any contraindications to pregnancy (medical condition) or chronic use of&#xD;
+             medications for which significant evidence of fetal risk exists.&#xD;
+&#xD;
+          -  Have had more than one sexual partner in the last four months.&#xD;
+&#xD;
+          -  Have shared injection drug needles in the past unless has a negative HIV test at least&#xD;
+             six weeks since last use.&#xD;
+&#xD;
+          -  Have or have been suspected to have HIV infection.&#xD;
+&#xD;
+          -  Have been diagnosed with genital herpes simplex virus (HSV), with the first occurrence&#xD;
+             (initial episode) within three months prior to screening.&#xD;
+&#xD;
+          -  Have three or more outbreaks of HSV within the last year.&#xD;
+&#xD;
+          -  Have evidence of Chlamydia trachomatis or Neisseria gonorrhoeae unless she and her&#xD;
+             partner complete treatment and proof of cure is documented.&#xD;
+&#xD;
+          -  Have been diagnosed with any other STDs in the six months prior to the Randomization&#xD;
+             Visit (with the exception of human papillomavirus (HPV), trichomonas, gonorrhea, adn&#xD;
+             Chlamydia).&#xD;
+&#xD;
+          -  Be lactating or breastfeeding.&#xD;
+&#xD;
+          -  Have any clinically significant abnormal vaginal bleeding or spotting within the month&#xD;
+             prior to screening.&#xD;
+&#xD;
+          -  Have any clinically significant abnormal finding on pelvic examination or baseline&#xD;
+             labs, which in the view of the investigator, precludes her from participating in the&#xD;
+             trial.&#xD;
+&#xD;
+          -  Have clinically significant signs of vaginal or cervical irritation on pelvic&#xD;
+             examination.&#xD;
+&#xD;
+          -  Have had vaginal or cervical biopsy or vaginal surgery within three months prior to&#xD;
+             screening (with the exception of cervical biopsies performed for eligibility&#xD;
+             determination).&#xD;
+&#xD;
+          -  Have used vaginal or systemic antibiotics or antifungals within 14 days prior to&#xD;
+             screening or enrollment/randomization, with the exception of systemic antibiotics&#xD;
+             taken for a UTI and trichomonas diagnosed at screening. Subjects should not have used&#xD;
+             systemic antibiotics prescribed at the Screening Visit for a UTI within seven days of&#xD;
+             the enrollment/randomization visit.&#xD;
+&#xD;
+          -  Have had a Depo-Provera® injection in the ten months prior to enrollment.&#xD;
+&#xD;
+          -  Have an abnormal Pap test based on the following criteria:&#xD;
+&#xD;
+          -  Pap test in the past 15 months with ASC-US unless:&#xD;
+&#xD;
+          -  less than 21 years of age;&#xD;
+&#xD;
+          -  a repeat Pap test at least six months later was normal;&#xD;
+&#xD;
+          -  reflex HPV testing was performed and was negative for high-risk HPV; or&#xD;
+&#xD;
+          -  a colposcopy (with or without biopsy) found no evidence of dysplasia requiring&#xD;
+             treatment or treatment was performed and follow-up at least six months after the&#xD;
+             treatment showed no evidence of disease;&#xD;
+&#xD;
+          -  Pap test in the past 15 months with LSIL unless:&#xD;
+&#xD;
+          -  less than 21 years of age;&#xD;
+&#xD;
+          -  a colposcopy (with or without biopsy) found no evidence of dysplasia requiring&#xD;
+             treatment or treatment was performed and follow-up at least six months after the&#xD;
+             treatment showed no evidence of disease;&#xD;
+&#xD;
+          -  Pap test in the past 15 months with ASC-H, atypical glandular cells, or HSIL unless&#xD;
+             colposcopy and/or treatment was performed and follow-up at least six months after the&#xD;
+             colposcopy and/or treatment showed no evidence of disease;&#xD;
+&#xD;
+          -  Pap test in the past 15 months with malignant cells.&#xD;
+&#xD;
+          -  Consume (on average) greater than three drinks of an alcoholic beverage per day.&#xD;
+&#xD;
+          -  Have a past history (within 12 months) or current history which, in the PI's judgment,&#xD;
+             constitutes of drug abuse (recreational, prescription, or over-the-counter (OTC)).&#xD;
+&#xD;
+          -  Have taken an investigational drug or used an investigational device within the past&#xD;
+             30 days.&#xD;
+&#xD;
+          -  Have issues or concerns (in the judgment of the investigator) that may compromise the&#xD;
+             safety of the subject or confound the reliability of compliance and information&#xD;
+             acquired in this study.&#xD;
+&#xD;
+        In addition, in order to be eligible to participate in the trial, potential subjects must&#xD;
+        state that, to her best knowledge, her sexual partner meets the following criteria:&#xD;
+&#xD;
+          -  Is not infertile.&#xD;
+&#xD;
+          -  Has had untreated chlamydia or gonorrhea in the past six months.&#xD;
+&#xD;
+          -  Has not had more than one sexual partner in the past four months.&#xD;
+&#xD;
+          -  Has no history of allergy or sensitivity to spermicides or products containing N-9.&#xD;
+&#xD;
+          -  Has not been previously diagnosed with or suspected of HIV infection unless he has&#xD;
+             subsequently had a negative HIV test.&#xD;
+&#xD;
+          -  Has not been known to have engaged in homosexual intercourse in the past five years&#xD;
+             unless he has had negative HIV test results since then.&#xD;
+&#xD;
+          -  Has not shared injection drug needles in the past unless he has had a negative HIV&#xD;
+             test at least six weeks since last use.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kelly Culwell, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Evofem Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Alabama Clinical Therapeutics, LLC</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Institute of the Ozarks</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Clinical Research Institute</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anaheim Clinical Trials, LLC</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California Family Health Council, Inc.</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <zip>94710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California Family and Health Council, Inc., LA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California Family Health Council</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Women's Health Care</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Downtown Women's Healthcare</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>61820</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Planned Parenthood of the Rocky Mountains</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80302</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stamford Therapeutics Consortium</name>
+      <address>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+        <zip>06095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridien Research</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Avail Clinical Reseach</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Altus Research</name>
+      <address>
+        <city>Lake Worth</city>
+        <state>Florida</state>
+        <zip>33461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Research Associates</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Segal Institute for Clinical Research</name>
+      <address>
+        <city>North Miami</city>
+        <state>Florida</state>
+        <zip>33161</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridien Research</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33709</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Clinical Trials</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Soapstone Center for Clinical Research</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rosemark WomenCare Specialist</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Heartland Research Associates, LLC</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Community Physicians</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Impact Clinical Trials</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth-Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Medical Center Family Planning</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center, Division of Family Planning</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Carolina Women's Center</name>
+      <address>
+        <city>New Bern</city>
+        <state>North Carolina</state>
+        <zip>28562</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Research Associates</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Planned Parenthood of Northeast Ohio</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44302</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health Sciences University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania Medical Center, Reproductive Research Unit</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Philadelphia Clinical Research</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Magee-Womens Hospital</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Research Associates</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Practice Research Organization</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern Medical Center - Dept. of OB/GYN</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>TMC Life Research, Inc</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MacArthur OB/GYN</name>
+      <address>
+        <city>Irving</city>
+        <state>Texas</state>
+        <zip>75062</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jean Brown Research</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Women's Clinical Research Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kazan State Medical University</name>
+      <address>
+        <city>Kazan</city>
+        <state>Republic Tatarstan</state>
+        <zip>420012</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Institution fo Rostov region &quot;Parinatal Center&quot;</name>
+      <address>
+        <city>Rostov-na-Donu</city>
+        <state>Rostov Region</state>
+        <zip>344068</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ural Scientific Research Institution of Maternity and Child Protection</name>
+      <address>
+        <city>Ekaterinburg</city>
+        <zip>620028</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Moscow Regional Research Institute of Obstetrics and Gynecology</name>
+      <address>
+        <city>Moscow</city>
+        <zip>101000</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>City Clinical Hospital #13</name>
+      <address>
+        <city>Moscow</city>
+        <zip>115280</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>City Clinical Hospital #31</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119415</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>First Moscow State Medical University named after IM Sechenov</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119991</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maternity Hospital #17</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>195257</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Center &quot;Prime-Rose&quot;LLC</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>197374</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The DO Ott Research Institute of Obstetrics and Gynecology</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>199034</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital OrCli</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>199178</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>February 28, 2011</study_first_submitted>
+  <study_first_submitted_qc>February 28, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 1, 2011</study_first_posted>
+  <results_first_submitted>June 9, 2020</results_first_submitted>
+  <results_first_submitted_qc>July 13, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">July 30, 2020</results_first_posted>
+  <disposition_first_submitted>November 14, 2017</disposition_first_submitted>
+  <disposition_first_submitted_qc>November 14, 2017</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">November 17, 2017</disposition_first_posted>
+  <last_update_submitted>July 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nonoxynol</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Healthy, sexually active women at risk of pregnancy who desired contraception, aged 18 to 35 years, with a single male sex partner, of which both partners were at low risk for HIV and sexually transmitted disease (STD) infection. Subjects were required to have regular, normal, cyclic menses with a usual length of 21 to 40 days.</recruitment_details>
+      <pre_assignment_details>The study had 65 randomized screen failures and were not included in the ITT population due to being accidentally randomized (30 randomized to Amphora™ Gel and 35 to Conceptrol®).</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Conceptrol</title>
+          <description>100 mg (4% concentration) of nonoxynol-9 in 2.5 mL volume of gel&#xD;
+Conceptrol: • Conceptrol® Vaginal Gel, which contains 100 mg (4% concentration) of nonoxynol-9 (N-9) in 2.5 mL volume of gel.</description>
+        </group>
+        <group group_id="P2">
+          <title>Amphora</title>
+          <description>Citric acid USP, potassium bitartrate USP, and L-lactic acid USP&#xD;
+Amphora: • Amphora™ gel, which will be delivered in 5 mL doses, is a clear, water-based, petroleum-free gel.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="1659"/>
+                <participants group_id="P2" count="1665"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="758"/>
+                <participants group_id="P2" count="788"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="901"/>
+                <participants group_id="P2" count="877"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="28"/>
+                <participants group_id="P2" count="25"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="321"/>
+                <participants group_id="P2" count="323"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Pregnancy</title>
+              <participants_list>
+                <participants group_id="P1" count="136"/>
+                <participants group_id="P2" count="151"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="154"/>
+                <participants group_id="P2" count="124"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="163"/>
+                <participants group_id="P2" count="152"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Not sexually active</title>
+              <participants_list>
+                <participants group_id="P1" count="29"/>
+                <participants group_id="P2" count="28"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Meth. no longer prim. meth. birth cntrl</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="34"/>
+                <participants group_id="P2" count="32"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Intent-Treat-Population - subjects randomized into the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Conceptrol</title>
+          <description>100 mg (4% concentration) of nonoxynol-9 in 2.5 mL volume of gel&#xD;
+Conceptrol: • Conceptrol® Vaginal Gel, which contains 100 mg (4% concentration) of nonoxynol-9 (N-9) in 2.5 mL volume of gel.</description>
+        </group>
+        <group group_id="B2">
+          <title>Amphora</title>
+          <description>Citric acid USP, potassium bitartrate USP, and L-lactic acid USP&#xD;
+Amphora: • Amphora™ gel, which will be delivered in 5 mL doses, is a clear, water-based, petroleum-free gel.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="1659"/>
+            <count group_id="B2" value="1665"/>
+            <count group_id="B3" value="3324"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27.6" spread="5.7"/>
+                    <measurement group_id="B2" value="27.6" spread="5.6"/>
+                    <measurement group_id="B3" value="27.6" spread="5.64"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1659"/>
+                    <measurement group_id="B2" value="1665"/>
+                    <measurement group_id="B3" value="3324"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="385"/>
+                    <measurement group_id="B2" value="392"/>
+                    <measurement group_id="B3" value="777"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1274"/>
+                    <measurement group_id="B2" value="1272"/>
+                    <measurement group_id="B3" value="2546"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="23"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45"/>
+                    <measurement group_id="B2" value="36"/>
+                    <measurement group_id="B3" value="81"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="464"/>
+                    <measurement group_id="B2" value="471"/>
+                    <measurement group_id="B3" value="935"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1030"/>
+                    <measurement group_id="B2" value="1031"/>
+                    <measurement group_id="B3" value="2061"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="98"/>
+                    <measurement group_id="B2" value="102"/>
+                    <measurement group_id="B3" value="200"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI Category at Enrollment (kg/m2)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Underweight (&lt;18.5)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75"/>
+                    <measurement group_id="B2" value="83"/>
+                    <measurement group_id="B3" value="158"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Normal (18.5 - 24.9)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="672"/>
+                    <measurement group_id="B2" value="640"/>
+                    <measurement group_id="B3" value="1312"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Overweight (25.0 - 29.9)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="369"/>
+                    <measurement group_id="B2" value="392"/>
+                    <measurement group_id="B3" value="761"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Obese (&gt;30.0)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="539"/>
+                    <measurement group_id="B2" value="548"/>
+                    <measurement group_id="B3" value="1087"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI at Enrollment (kg/m2)</title>
+          <units>kg/m2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27.76" spread="7.98"/>
+                    <measurement group_id="B2" value="27.91" spread="7.95"/>
+                    <measurement group_id="B3" value="27.83" spread="7.97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>6-Month (183 Days) Cumulative Pregnancy Percentage</title>
+        <description>The primary endpoint was the evaluation of contraceptive efficacy over six months (183 days) of Amphora™ Gel use when compared to Conceptrol® Vaginal Gel. Kaplan-Meier methods were used to estimate the six-month cumulative pregnancy percentage of women in the MITT population by treatment group</description>
+        <time_frame>183 days</time_frame>
+        <population>mITT Population - ITT subjects whose diaries indicated they had at least one episode of coitus while using the assigned study product (also referred as &quot;Typical-Use&quot;), between 18 to 35 years of age (inclusive) at enrollment, had at least 1 cycle without any backup contraception or EC, and for whom there was at least one report of pregnancy status.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Conceptrol</title>
+            <description>100 mg (4% concentration) of nonoxynol-9 in 2.5 mL volume of gel&#xD;
+Conceptrol: • Conceptrol® Vaginal Gel, which contains 100 mg (4% concentration) of nonoxynol-9 (N-9) in 2.5 mL volume of gel.</description>
+          </group>
+          <group group_id="O2">
+            <title>Amphora</title>
+            <description>Citric acid USP, potassium bitartrate USP, and L-lactic acid USP&#xD;
+Amphora: • Amphora™ gel, which will be delivered in 5 mL doses, is a clear, water-based, petroleum-free gel.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>6-Month (183 Days) Cumulative Pregnancy Percentage</title>
+          <description>The primary endpoint was the evaluation of contraceptive efficacy over six months (183 days) of Amphora™ Gel use when compared to Conceptrol® Vaginal Gel. Kaplan-Meier methods were used to estimate the six-month cumulative pregnancy percentage of women in the MITT population by treatment group</description>
+          <population>mITT Population - ITT subjects whose diaries indicated they had at least one episode of coitus while using the assigned study product (also referred as &quot;Typical-Use&quot;), between 18 to 35 years of age (inclusive) at enrollment, had at least 1 cycle without any backup contraception or EC, and for whom there was at least one report of pregnancy status.</population>
+          <units>pregnancy percentage</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1281"/>
+                <count group_id="O2" value="1259"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.0" lower_limit="8.1" upper_limit="11.9"/>
+                    <measurement group_id="O2" value="10.5" lower_limit="8.6" upper_limit="12.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>6-Month (183 Days) Cumulative Pregnancy Percentage for Subjects With Perfect Use</title>
+        <description>Perfect use contraceptive efficacy over six months (183 days) of Amphora™ Gel use when compared to Conceptrol® Vaginal Gel. Kaplan-Meier methods were used to estimate the six-month cumulative pregnancy percentage of women in the efficacy evaluable (EE) population by treatment group</description>
+        <time_frame>183 days</time_frame>
+        <population>EE populations - a subset of the MITT population that includes only subjects with at least one EE cycle, where an EE cycle is a cycle where the diaries indicated they used the product correctly for every act of intercourse in the cycle.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Conceptrol</title>
+            <description>100 mg (4% concentration) of nonoxynol-9 in 2.5 mL volume of gel&#xD;
+Conceptrol: • Conceptrol® Vaginal Gel, which contains 100 mg (4% concentration) of nonoxynol-9 (N-9) in 2.5 mL volume of gel.</description>
+          </group>
+          <group group_id="O2">
+            <title>Amphora</title>
+            <description>Citric acid USP, potassium bitartrate USP, and L-lactic acid USP&#xD;
+Amphora: • Amphora™ gel, which will be delivered in 5 mL doses, is a clear, water-based, petroleum-free gel.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>6-Month (183 Days) Cumulative Pregnancy Percentage for Subjects With Perfect Use</title>
+          <description>Perfect use contraceptive efficacy over six months (183 days) of Amphora™ Gel use when compared to Conceptrol® Vaginal Gel. Kaplan-Meier methods were used to estimate the six-month cumulative pregnancy percentage of women in the efficacy evaluable (EE) population by treatment group</description>
+          <population>EE populations - a subset of the MITT population that includes only subjects with at least one EE cycle, where an EE cycle is a cycle where the diaries indicated they used the product correctly for every act of intercourse in the cycle.</population>
+          <units>pregnancy percentage</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1161"/>
+                <count group_id="O2" value="1161"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.2" lower_limit="2.8" upper_limit="5.6"/>
+                    <measurement group_id="O2" value="4.1" lower_limit="2.7" upper_limit="5.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Non-Inferiority</non_inferiority_type>
+            <non_inferiority_desc>Using Blackwelder's approach for non-inferiority testing, the null and alternative hypotheses are expressed as:&#xD;
+HO: πA &gt; πC + 0.055 vs HA : πA &lt; πC + 0.055</non_inferiority_desc>
+            <p_value>0.445</p_value>
+            <method>ANOVA</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>183 days</time_frame>
+      <desc>Any untoward medical occurrence in a subject that has been treated with study drug; the untoward medical occurrence did not necessarily have to have a causal relationship with the study treatment; In reference to the total number of participants at risk in the adverse events module, the # at risk was limited to the # of ITT subjects who used at least 1 dose of drug.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Conceptrol</title>
+          <description>100 mg (4% concentration) of nonoxynol-9 in 2.5 mL volume of gel&#xD;
+Conceptrol: • Conceptrol® Vaginal Gel, which contains 100 mg (4% concentration) of nonoxynol-9 (N-9) in 2.5 mL volume of gel.</description>
+        </group>
+        <group group_id="E2">
+          <title>Amphora</title>
+          <description>Citric acid USP, potassium bitartrate USP, and L-lactic acid USP&#xD;
+Amphora: • Amphora™ gel, which will be delivered in 5 mL doses, is a clear, water-based, petroleum-free gel.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (14.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="19" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Wolff-Parkison-White syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal hemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Pancreatitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Pancreatitis acute</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Non-cardiac chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal abscess</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Appendicitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Campylobacter gastroenteritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis viral</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Kidney Infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Post procedural sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Pyelonephritis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Road traffic accident</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Investigation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Uterine leiomyoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Pregnancy, puerperium and perinatal conditions</title>
+            <event_list>
+              <event>
+                <sub_title>Ectopic pregnancy</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ovarian rupture</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrectomy</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2</frequency_threshold>
+        <default_vocab>MedDRA (14.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="857" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="793" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary Tract Infection</sub_title>
+                <counts group_id="E1" subjects_affected="193" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="140" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Vaginitis Bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="170" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="160" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Vulvovaginal Mycotic</sub_title>
+                <counts group_id="E1" subjects_affected="168" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="156" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="48" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="76" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Vulvovaginal</sub_title>
+                <counts group_id="E1" subjects_affected="46" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="45" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>nfluenza</sub_title>
+                <counts group_id="E1" subjects_affected="20" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="37" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Smear Cervix Abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="29" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="21" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="80" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="96" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dysuria</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="20" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vulvovaginal Pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="76" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="55" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Vulvovaginal Discomfort</sub_title>
+                <counts group_id="E1" subjects_affected="53" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="42" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Vulvovaginal Burning Sensation</sub_title>
+                <counts group_id="E1" subjects_affected="41" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="49" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Vaginal Discharge</sub_title>
+                <counts group_id="E1" subjects_affected="46" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="43" subjects_at_risk="1458"/>
+              </event>
+              <event>
+                <sub_title>Dysmenorrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="34" subjects_at_risk="1477"/>
+                <counts group_id="E2" subjects_affected="33" subjects_at_risk="1458"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There IS an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Chief Medical Officer</name_or_title>
+      <organization>Evofem</organization>
+      <phone>858-550-1900</phone>
+      <email>kculwell@evofem.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

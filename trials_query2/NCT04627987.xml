@@ -1,0 +1,262 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04627987</url>
+  </required_header>
+  <id_info>
+    <org_study_id>125312</org_study_id>
+    <nct_id>NCT04627987</nct_id>
+  </id_info>
+  <brief_title>Mechanisms of Excess Risk in Aortic Stenosis</brief_title>
+  <acronym>MASTER</acronym>
+  <official_title>Mechanisms of Excess Risk in Aortic STEnosis After Aortic Valve Replacement</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University College, London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Barts &amp; The London NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University College, London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Aortic stenosis (AS) is caused by narrowing of one of the main heart valves. Replacing the&#xD;
+      valve is the only treatment to prevent the heart from failing or death. The timing of&#xD;
+      replacement is currently often too late - half of patients are left with permanent scarring&#xD;
+      and a quarter die within 3.5 years.&#xD;
+&#xD;
+      Studies are underway to see if earlier replacement makes a difference. But for those with&#xD;
+      scarring of the heart, there is currently no tailored treatment. I want to change this by&#xD;
+      understanding why and how patients with scar are dying and what the investigators can do to&#xD;
+      prevent this.&#xD;
+&#xD;
+      In this study, the investigators will use a heart scan (MRI) to detect scarring before valve&#xD;
+      replacement. After replacement, patients will receive a tiny monitor (paper clip size), which&#xD;
+      the investigators inject underneath the skin. This monitor continuously checks the heartbeat&#xD;
+      and can detect increased body fluid due to heart failure. The investigators will monitor&#xD;
+      patients for an average of 3 years to see if scarring is linked to abnormal heart rhythms and&#xD;
+      heart failure.&#xD;
+&#xD;
+      Once the investigators know how and why, the investigators can target patients with available&#xD;
+      medications and design studies using specialised treatments, eg defibrillator implantation,&#xD;
+      to protect patients with scar from dying.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Valvular heart disease (VHD) affects around 1.5 million people above the age of 65 across the&#xD;
+      UK and is set to nearly double by 2050. Aortic Stenosis (AS) is the most common VHD in the&#xD;
+      UK, affecting 3% of those over 75 with more than 11,000 people requiring aortic valve&#xD;
+      replacement (AVR) in the UK each year (&gt;100,000 world-wide). Current guidelines recommend AVR&#xD;
+      to improve survival and symptom status when AS symptoms emerge or there is a reduction in&#xD;
+      left ventricle (LV) function (1), but years of excessive haemodynamic load result in an &quot;AS&#xD;
+      cardiomyopathy&quot; with LV hypertrophy, remodelling, diffuse and focal scar. The investigators,&#xD;
+      and others, have shown that these changes lead to an excess in morbidity and mortality, but&#xD;
+      the mechanisms of increased risk is unclear.&#xD;
+&#xD;
+      Patients undergoing aortic valve replacement for severe aortic stenosis have a shorter life&#xD;
+      expectancy compared with the general population (2). Years of excessive haemodynamic load&#xD;
+      result in an &quot;AS cardiomyopathy&quot; with LV hypertrophy, remodelling, diffuse and focal scar.&#xD;
+      The investigators and others have shown that these changes to the heart muscle are associated&#xD;
+      with poor outcome. But the mechanism of how heart muscle damage leads to excess mortality is&#xD;
+      poorly understood.&#xD;
+&#xD;
+      The proposed study will enhance our understanding of the residual risk after AVR and reveal&#xD;
+      the modes and substrate of mortality. Heart failure and heart rhythm disturbances&#xD;
+      (arrhythmias) are likely downstream effects of heart muscle damage, but without understanding&#xD;
+      the mode of death (heart failure, arrhythmia or other), the investigators are unable to&#xD;
+      target therapeutic strategies to improve outcomes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Heart failure death or hospitalisation for heart failure.</measure>
+    <time_frame>5 years after aortic valve replacement</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Burden of non-sustained VT</measure>
+    <time_frame>2.5 years after aortic valve replacement.</time_frame>
+    <description>As assessed on implantable cardiac monitor (approximate battery life 2.5 years)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality (all-cause and cardiovascular via NHS spine/death registration)</measure>
+    <time_frame>5 years after aortic valve replacement</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in functional capacity (6-minute walk test)</measure>
+    <time_frame>At 6 weeks and 12 months after aortic valve replacement.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart failure symptoms</measure>
+    <time_frame>At 6 weeks and 12 months post aortic valve surgery</time_frame>
+    <description>New York Heart Association (NYHA) functional classification (NYHA 1 least symptomatic, 4 most symptomatic)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heart failure symptoms</measure>
+    <time_frame>At 6 weeks and 12 months post aortic valve surgery</time_frame>
+    <description>World Health Organisation Disability Assessment Schedule 2.0 (Higher score indicates greater disability)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Burden of other serious arrhythmias requiring change in management</measure>
+    <time_frame>2.5 years after aortic valve replacement</time_frame>
+    <description>Participants with complete heart block, Mobitz 2 AV block, new onset atrial fibrillation</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">192</enrollment>
+  <condition>Aortic Stenosis</condition>
+  <condition>Non-Sustained VT</condition>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Main study</arm_group_label>
+    <description>Patients with severe, symptomatic aortic stenosis will be recruited and followed up with primary outcome of heart failure death and hospitalisation (n=192). Of these, 170 will have an implantable cardiac monitor placed to detect presence and burden of non-sustained VT.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cardiac MRI scan</intervention_name>
+    <description>Cardiac MRI scan pre- and post- aortic valve replacement to assess degree of left ventricular remodelling, fibrosis and myocardial blood flow.</description>
+    <arm_group_label>Main study</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Serum biomarkers (High sensitivity troponin, NT-proBNP</intervention_name>
+    <description>Blood tests looking evidence of cardiac structural remodelling and function.</description>
+    <arm_group_label>Main study</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Implantable Loop Recorder</intervention_name>
+    <description>Determine post-AVR arrhythmia burden</description>
+    <arm_group_label>Main study</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>6 minute walk test</intervention_name>
+    <description>Validated assessment of functional capacity - distance walked over 6 minute time frame.</description>
+    <arm_group_label>Main study</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Echocardiogram</intervention_name>
+    <description>Ultrasound assessment of heart structure and function. Standard of care in valve surgery pathway.</description>
+    <arm_group_label>Main study</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Myocardial biopsy&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This is a prospective single centre, observational cohort study of patients with&#xD;
+        symptomatic severe AS (n=192) undergoing clinically indicated AVR (surgical or&#xD;
+        transcatheter) and multiparametric assessment by CMR prior to AVR.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with symptomatic severe aortic stenosis referred for surgical or&#xD;
+             transcatheter AVR (one out of: effective orifice area [EOA] &lt;1.0 cm2 , indexed EOA of&#xD;
+             0.6cm/m2, peak velocity &gt;4.0 m/s or mean gradient &gt;40mmHg).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  More than moderate valve disease other than AS&#xD;
+&#xD;
+          -  Diagnosis of dilated or hypertrophic cardiomyopathy, pregnancy/breast feeding&#xD;
+&#xD;
+          -  eGFR &lt;30ml/min, CMR incompatible devices&#xD;
+&#xD;
+          -  Inability to complete the protocol&#xD;
+&#xD;
+          -  Other conditions that would prevent participation in the study.&#xD;
+&#xD;
+          -  Adenosine perfusion will not be performed in patients with AV block, severe&#xD;
+             asthma/COPD or LVEF&lt;40%.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Thomas A Treibel, MBBS PhD</last_name>
+    <phone>020 3416 5000</phone>
+    <email>thomas.treibel.12@ucl.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Barts Heart Centre</name>
+      <address>
+        <city>London</city>
+        <zip>EC1A 7BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas Treibel, MBBS PhD</last_name>
+      <phone>020 3416 5000</phone>
+      <email>thomas.treibel.12@ucl.ac.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Thomas A Treibel, MBBS PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>November 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 13, 2020</study_first_posted>
+  <last_update_submitted>November 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Late gadolinium enhancement</keyword>
+  <keyword>Tissue characterisation</keyword>
+  <keyword>Arrhythmia</keyword>
+  <keyword>Sudden cardiac death</keyword>
+  <keyword>Heart failure</keyword>
+  <keyword>Aortic stenosis</keyword>
+  <keyword>Myocardial remodelling</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+    <mesh_term>Aortic Valve Stenosis</mesh_term>
+    <mesh_term>Constriction, Pathologic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

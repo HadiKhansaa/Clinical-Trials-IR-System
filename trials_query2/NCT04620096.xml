@@ -1,0 +1,201 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04620096</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00009993</org_study_id>
+    <secondary_id>GODFRE20A0</secondary_id>
+    <nct_id>NCT04620096</nct_id>
+  </id_info>
+  <brief_title>MENstrual Symptom Tracking to Understand and Assess (Women) Living With Cystic Fibrosis</brief_title>
+  <acronym>MENSTRUAL</acronym>
+  <official_title>MENstrual Symptom Tracking to Understand and Assess (Women) Living With Cystic Fibrosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Illinois at Chicago</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Diego</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Mount Sinai Hospital, New York</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Washington</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cystic fibrosis (CF) affects men and women equally, but after the onset of puberty, women&#xD;
+      with CF have a lower life expectancy than men with CF. Despite these known differences, the&#xD;
+      link between CF symptom trends and the menstrual cycle remains critically understudied. To&#xD;
+      address this gap, this study will investigate changes in CF-specific symptoms among women&#xD;
+      with CF to evaluate whether and how they correlate with their menstrual cycle. Specifically,&#xD;
+      the investigators hope to examine whether CF-related symptoms change throughout the menstrual&#xD;
+      cycle, what the impact of those symptoms is on quality of life, and how feasible it is to use&#xD;
+      a period tracking app to track CF-related symptoms throughout the menstrual cycle.&#xD;
+      Investigators are asking women ages 18-45 with CF, who have regular menstrual cycles, to&#xD;
+      participate. Study procedures, including online surveys, period tracking, and interview, will&#xD;
+      take approximately 3 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To better understand the connection between cyclically driven hormone fluctuations and&#xD;
+      CF-related symptoms, the investigators propose an explanatory, sequential mixed methods study&#xD;
+      in which 80 menstruating women with CF will be asked to track their daily CF-related symptoms&#xD;
+      for three consecutive cycles. From this cohort, the investigators will ask up to 30 women&#xD;
+      with CF to participate in one semi-structured interview to gather information about the&#xD;
+      impact of cyclical CF symptoms upon women's daily lives and any strategies they use to manage&#xD;
+      them. This study uses innovative technology to track CF-specific symptoms with a smartphone&#xD;
+      app. The investigators' hypothesis is that subjective changes in clinical CF symptoms,&#xD;
+      including pulmonary and sinus (primary outcome), rheumatic, and gastrointestinal (secondary&#xD;
+      outcomes), will map onto the phases of the menstrual cycle and will be cyclical in nature;&#xD;
+      women will report alternative ways in which they manage their cyclical CF symptoms; and the&#xD;
+      period tracker app will be easy for women to use.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average change of Cystic Fibrosis-related pulmonary symptoms from baseline for each of the four phases of the menstrual cycle (menses, follicular, ovulation, and luteal)</measure>
+    <time_frame>3 consecutive menstrual cycles (each cycle is 28 days) following enrollment</time_frame>
+    <description>Rating of Mild, Moderate, or Severe in the Clue smartphone app</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average change of Cystic Fibrosis-related sinus symptoms from baseline for each of the four phases of the menstrual cycle (menses, follicular, ovulation, and luteal)</measure>
+    <time_frame>3 consecutive menstrual cycles (each cycle is 28 days) following enrollment</time_frame>
+    <description>Rating of Mild, Moderate, or Severe in the Clue smartphone app</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Average change of Cystic Fibrosis-related rheumatic symptoms from baseline for each of the four phases of the menstrual cycle (menses, follicular, ovulation, and luteal)</measure>
+    <time_frame>3 consecutive menstrual cycles (each cycle is 28 days) following enrollment</time_frame>
+    <description>Rating of Mild, Moderate, or Severe in the Clue smartphone app</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Average change of Cystic Fibrosis-related gastrointestinal symptoms from baseline for each of the four phases of the menstrual cycle (menses, follicular, ovulation, and luteal)</measure>
+    <time_frame>3 consecutive menstrual cycles (each cycle is 28 days) following enrollment</time_frame>
+    <description>Rating of Mild, Moderate, or Severe in the Clue smartphone app</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Cystic Fibrosis</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Regularly menstruating women with Cystic Fibrosis&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Females with CF, ages &gt; or = 18 and &lt; 46 years&#xD;
+&#xD;
+          -  Able to read, speak, and understand English&#xD;
+&#xD;
+          -  Have regular menstrual cycles between 21 and 35 days&#xD;
+&#xD;
+          -  If using oral contraceptive pills, patch, or vaginal ring, must have a monthly&#xD;
+             withdrawal bleed every 21-35 days&#xD;
+&#xD;
+          -  If on a genetic modulator, must be on steady dose for at least 3 months&#xD;
+&#xD;
+          -  Willing to document daily symptoms (or no symptoms) every day for a period of three&#xD;
+             consecutive months&#xD;
+&#xD;
+          -  Has a functioning smartphone app with capability to load the Clue app or, if no&#xD;
+             smartphone, is willing to complete a paper diary and mail to research team monthly&#xD;
+&#xD;
+          -  Currently resides within the United States&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not regularly menstruating or no regular withdrawal bleed every 21-35 days (with or&#xD;
+             without hormonal contraception use)&#xD;
+&#xD;
+          -  Planning pregnancy at the start of, or any time during, the 3-month observation period&#xD;
+&#xD;
+          -  Planning to use a hormonal IUD, subdermal contraceptive implant (such as Nexplanon),&#xD;
+             or injectable contraceptive (such as Depo-Provera) at the start of, or any time&#xD;
+             during, the 3-month observation period&#xD;
+&#xD;
+          -  Women on the transplant list or what have had a lung transplant&#xD;
+&#xD;
+          -  Previous/current diagnosis of Covid-19 confirmed by diagnostic nasal swab or antibody&#xD;
+             blood test&#xD;
+&#xD;
+          -  Previous/current symptoms of Covid-19 not due to another known illness or medical&#xD;
+             condition&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Self-identify gender as female</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Emily Godfrey, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sandy Sufian, PhD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Illinois at Chicago</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Molly Ruben, MPH</last_name>
+    <phone>206-685-3276</phone>
+    <email>mruben@uw.edu</email>
+  </overall_contact>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>October 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 6, 2020</study_first_posted>
+  <last_update_submitted>December 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Washington</investigator_affiliation>
+    <investigator_full_name>Emily Godfrey</investigator_full_name>
+    <investigator_title>Associate Professor, Department of Family Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Cystic Fibrosis</keyword>
+  <keyword>Menstrual Cycle</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cystic Fibrosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
