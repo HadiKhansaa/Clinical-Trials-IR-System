@@ -49,16 +49,16 @@ def create_bert_embeddings(text, tokenizer, model):
     return embeddings
 
 if __name__ == "__main__":
-    PATH_TO_TRIALS = 'trials_query1'
+    PATH_TO_TRIALS = 'trials_query2'
 
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-    model = BertModel.from_pretrained('bert-base-uncased')
+    # tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    # model = BertModel.from_pretrained('bert-base-uncased')
 
     # tokenizer = AutoTokenizer.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
     # model = AutoModel.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
 
-    # tokenizer = AutoTokenizer.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
-    # model = AutoModel.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
+    tokenizer = AutoTokenizer.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
+    model = AutoModel.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
 
     trial_embeddings = {}
 
@@ -70,34 +70,33 @@ if __name__ == "__main__":
     # print(documents)
 
     i = 1
-    for folder in os.listdir(PATH_TO_TRIALS):
-        for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-            with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
-                if file.endswith('.xml') and file[:-4] in documents: # check if file is in documents with relevence feedback
-                    try:
-                        content = f.read()
-                    except:
-                        continue
+    # for folder in os.listdir(PATH_TO_TRIALS):
+    #     for sub_folder in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
+    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
+        with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
+                try:
+                    content = f.read()
+                except:
+                    continue
 
-                    title, detailed_desc, criteria_text, mesh_terms, gender, minimum_age, maximum_age = extract_components(content)
-                    if detailed_desc == '':
-                        detailed_desc = "No brief summary available"
-                    if criteria_text == '':
-                        criteria_text = "No criteria available"
-                    if mesh_terms == '':
-                        mesh_terms = "No mesh terms available"
-    
-                    combined_text = f"Title: {title}\n\nSummary: {detailed_desc}\n\nCriteria: {criteria_text}\n\nMesh Terms: {mesh_terms}\n\nGender Required: {gender}\n\nMinimum Age: {minimum_age}\n\nMaximum Age: {maximum_age}\n\n"
+                title, detailed_desc, criteria_text, mesh_terms, gender, minimum_age, maximum_age, healthy_volunteers = extract_components(content)
+                if detailed_desc == '':
+                    detailed_desc = "No detailed description available"
+                if criteria_text == '':
+                    criteria_text = "No criteria available"
+                if mesh_terms == '':
+                    mesh_terms = "No mesh terms available"
 
-                    # print(file[:-4])
-                    # print(combined_text)
+                combined_text = f"Title: {title}\n\nSummary: {detailed_desc}\n\nCriteria: {criteria_text}\n\nMesh Terms: {mesh_terms}\n\nGender Required: {gender}\n\nMinimum Age: {minimum_age}\n\nMaximum Age: {maximum_age}\n\nHealthy Volunteers Acceptance: {healthy_volunteers}\n\n"
+                
+                doc_id = file[:-4]  # Assuming file names are the document IDs
+                trial_embeddings[doc_id] = create_bert_embeddings(combined_text, tokenizer, model)
 
-                    doc_id = file[:-4]  # Assuming file names are the document IDs
-                    trial_embeddings[doc_id] = create_bert_embeddings(combined_text, tokenizer, model)
+                # print(combined_text)
 
-                    print(f"Processed {i} files")  # Print progress
-                    i += 1
+                print(f"Processed {i} files")  # Print progress
+                i += 1
 
     # Save embeddings to a JSON file
-    with open('trial_embeddings_summary_volun.json', 'w') as f:
+    with open('files_query2\\trial_embeddings_Clinical_q2.json', 'w') as f:
         json.dump(trial_embeddings, f)
