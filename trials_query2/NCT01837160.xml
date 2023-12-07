@@ -1,0 +1,414 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01837160</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012/R/CAR/23</org_study_id>
+    <secondary_id>FS/12/84/29814</secondary_id>
+    <nct_id>NCT01837160</nct_id>
+  </id_info>
+  <brief_title>Angiogenesis and Fibrosis in Aortic Stenosis</brief_title>
+  <official_title>The Identification of In Vivo Angiogenesis and Fibrosis in Aortic Stenosis Using Positron Emission Tomography</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Edinburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Edinburgh</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Angiogenesis and fibrosis lie at the heart of a number of fundamental processes responsible&#xD;
+      for cardiovascular disease. In this proposal, the investigators intend to build upon a highly&#xD;
+      successful programme of studies exploring the cardiovascular applications of positron&#xD;
+      emission tomography. Specifically, the investigators will explore the potential role of a&#xD;
+      novel radiotracer, 18F-fluciclatide, which is a highly selective ligand for the αvβ3 and αvβ5&#xD;
+      integrin receptors that are up regulated during angiogenesis, and tissue fibrosis and&#xD;
+      remodelling. This tracer has been successfully used to assess angiogenesis in metastatic&#xD;
+      tumours and its uptake is suppressed by anti-angiogenic therapies. The investigators here&#xD;
+      propose to describe the pattern of uptake of 18F-fluciclatide in cardiovascular diseases,&#xD;
+      specifically aortic stenosis and aortic atherosclerosis. The investigators will correlate&#xD;
+      18F-fluciclatide uptake with in vivo measures of angiogenesis and fibrosis as well as ex vivo&#xD;
+      histological characterisation of tissue. If successful, this novel radiotracer could provide&#xD;
+      an extremely important non-invasive method of assessing in vivo angiogenesis, plaque&#xD;
+      vulnerability, and tissue remodelling as well as potential applications in developing stem&#xD;
+      cell therapies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Integrins&#xD;
+&#xD;
+      Integrins are a group of molecules responsible for intercellular adhesion and signalling.&#xD;
+      They comprise a superfamily of heterodimeric receptors that are composed of 18 different α&#xD;
+      and β subunits. In combination, they can generate 24 different receptor subtypes with a range&#xD;
+      of physiological and pathophysiological functions. The αvβ3 receptor is an integrin that is&#xD;
+      found at low levels on mature endothelial cells but is markedly up regulated on endothelial&#xD;
+      cells of actively growing blood vessels. It was previously known as the vitronectin receptor&#xD;
+      although it was subsequently found to bind many other ligands including fibrinogen,&#xD;
+      fibronectin, laminin, thrombospondin, von Willebrand factor, and certain collagen subtypes.&#xD;
+      These features are also seen with the αvβ5 integrin receptor, with both receptors recognising&#xD;
+      the arginine-glycine-aspartate (RGD) motif present on these ligands.&#xD;
+&#xD;
+      1.1.2 Role of αvβ3 and αvβ5 Integrins in Cardiovascular Disease&#xD;
+&#xD;
+      The expression of αvβ3 and αvβ5 receptors is up regulated in a number of diseased states and&#xD;
+      this has been particularly well characterised in the angiogenesis associated with tumour&#xD;
+      growth and metastases. However, there are many potential roles for this integrin pathway in&#xD;
+      cardiovascular disease including myocardial infarction, atherosclerosis, restenosis, aortic&#xD;
+      stenosis and aneurysm disease that have been relatively unexplored.&#xD;
+&#xD;
+      1.1.2.1 Aortic Stenosis&#xD;
+&#xD;
+      Aortic stenosis is characterized by extensive valvular thickening due to accumulation of&#xD;
+      fibrous tissue and remodeling of the extracellular matrix. In all three layers of the valve,&#xD;
+      abundant fibroblast-like cells are found and are commonly referred to as valvular&#xD;
+      interstitial cells. A sub-population of these cells become activated by the inflammatory&#xD;
+      activity within the valve and differentiate into myofibroblasts. Whilst fibroblasts control&#xD;
+      the synthesis of collagen in the normal valve, myofibroblasts are responsible for the&#xD;
+      accelerated fibrosis observed within stenotic valves. In addition, matrix metalloproteinases&#xD;
+      are secreted by myofibroblasts and inflammatory cells, and have an important and complex role&#xD;
+      in the restructuring of the valve leaflet matrix. As already indicated, activation and&#xD;
+      differentiation of fibroblasts into myofibroblasts are dependent on αvβ3 and αvβ5 receptor&#xD;
+      expression. In addition, mirroring the situation in carotid atherosclerosis, patients with&#xD;
+      severe aortic stenosis have a high incidence (78%) of intraleaflet haemorrhage and this is&#xD;
+      associated with angiogenesis and more rapid disease progression.&#xD;
+&#xD;
+      Histopathological studies have confirmed fibrosis to be an integral part of the left&#xD;
+      ventricular hypertrophic process in aortic stenosis. Myofibroblasts infiltrate the myocardium&#xD;
+      and secrete extracellular matrix proteins including collagen types I and III. Areas of&#xD;
+      fibrosis are observed to co-localize with areas of myocyte apoptosis and it has been&#xD;
+      suggested that fibrosis occurs as a form of scarring after myocyte death and injury. As with&#xD;
+      fibrosis in the valve, the renin-angiotensin system, transforming growth factor-beta and an&#xD;
+      imbalance in matrix metalloproteinase and their tissue inhibitor activity have all been&#xD;
+      implicated in this process. A mid-wall pattern of fibrosis has been observed in the&#xD;
+      myocardium of up to 38% of patients with moderate or severe aortic stenosis and has been&#xD;
+      associated with a more advanced hypertrophic response. Importantly, there is also an 8-fold&#xD;
+      increase in mortality associated with mid-wall fibrosis.&#xD;
+&#xD;
+      1.1.2.2 Atherosclerosis and Restenosis&#xD;
+&#xD;
+      The development of atherosclerosis is due to a complex interplay of oxidised lipid,&#xD;
+      inflammatory cell infiltration, and smooth muscle cell migration in the arterial wall. Once&#xD;
+      established, atherosclerotic plaques may progress and rupture leading to the clinical&#xD;
+      presentations of acute myocardial infarction and stroke. Features associated with plaque&#xD;
+      rupture include a thin fibrous cap, lipid-rich pool and intraplaque haemorrhage. Indeed,&#xD;
+      plaque rupture is particularly associated with plaque neovascularisation and&#xD;
+      vascular-endothelial growth factor expression suggesting that instability may be induced by&#xD;
+      angiogenesis. Thus, up regulation of αvβ3 and αvβ5 receptors may represent a novel marker of,&#xD;
+      and potential therapeutic target for, plaque vulnerability.&#xD;
+&#xD;
+      1.1.3 Fluciclatide&#xD;
+&#xD;
+      Fluciclatide is a RGD-containing cyclic peptide that has recently been developed as an&#xD;
+      18F-radiotracer to detect tumour angiogenesis by positron emission tomography. It is highly&#xD;
+      selective for the αvβ3 and αvβ5 receptors with affinities (EC50) of 11.1 and 0.1 nM&#xD;
+      respectively with minimal cross reactivity with the αIIbβ3 receptor (EC50 281 nM).&#xD;
+      Pre-clinical tumour work has demonstrated that 18F-fluciclatide is taken up by glioblastomas&#xD;
+      and that this is suppressed by the anti-angiogenic tyrosine kinase inhibitor, sunitinib,&#xD;
+      confirming the specificity of fluciclatide for areas of angiogenesis. It has been assessed in&#xD;
+      phase I clinical trials and found to be safe and well tolerated.&#xD;
+&#xD;
+      1.1.4 Aims&#xD;
+&#xD;
+      To date, there have been many preclinical studies examining the application of radiotracers&#xD;
+      targeting the αvβ3 and αvβ5 integrin receptors. The clinical application of these tracers has&#xD;
+      been largely limited to oncology as a method of assessing angiogenesis within tumours. Here&#xD;
+      we wish to explore the role of the αvβ3 and αvβ5 receptor radiotracer, 18F-fluciclatide, to&#xD;
+      assess angiogenesis and fibrosis in patients with aortic stenosis as a measure of both&#xD;
+      valvular and myocardial fibrosis. This patient group will have co-existent aortic atheroma&#xD;
+      and this will provide us with an opportunistic assessment of tracer uptake in&#xD;
+      atherosclerosis. We feel it is important to assess a range of cardiovascular conditions to&#xD;
+      determine whether αvβ3 and αvβ5 integrin receptor expression is particular to certain disease&#xD;
+      processes. If successful, these preliminary data will permit the more detailed exploration of&#xD;
+      specific disease areas and novel therapeutic interventions. At present, fluciclatide is not&#xD;
+      licensed or approved for clinical use and is being used here as an Investigational Agent to&#xD;
+      explore the pathophysiology of aortic stenosis.&#xD;
+&#xD;
+      1.2 ORIGINAL HYPOTHESES&#xD;
+&#xD;
+      We hypothesise that 18F-fluciclatide can identify the expression of the αvβ3 and αvβ5&#xD;
+      integrin receptors in vivo in man in two major cardiovascular disease areas: aortic&#xD;
+      atherosclerosis and aortic stenosis. Specifically, we hypothesise that 18F-fluciclatide will:&#xD;
+&#xD;
+        1. Be taken up into aortic atherosclerotic plaque.&#xD;
+&#xD;
+        2. Show demonstrable uptake in the aortic valve and myocardium of patients with aortic&#xD;
+           stenosis that will correlate with the degree of active angiogenesis and fibrosis.&#xD;
+&#xD;
+      6.1 ANGIOGENESIS AND FIBROSIS IN AORTIC STENOSIS&#xD;
+&#xD;
+      Aortic stenosis is associated with substantial left ventricular hypertrophy and consequent&#xD;
+      myocardial fibrosis with the latter predicting prognosis. Left ventricular hypertrophy and&#xD;
+      associated fibrosis is also a major risk factor for adverse cardiovascular events in a number&#xD;
+      of other conditions including essential hypertension. Cardiac magnetic resonance imaging is&#xD;
+      the gold-standard method of assessing for the presence of myocardial fibrosis but it does not&#xD;
+      necessarily indicate the on going activity of the fibrotic process. In this study, we will&#xD;
+      assess the uptake of 18F-fluciclatide in patients with aortic stenosis as a model of pressure&#xD;
+      overload left ventricular hypertrophy. We will also seize the opportunity to determine&#xD;
+      whether there is any uptake of 18F-fluciclatide in the aortic valve given that this has been&#xD;
+      shown to have areas of fibrosis and angiogenesis.&#xD;
+&#xD;
+      All study patients and healthy volunteers will undergo blood sampling, echocardiogram,&#xD;
+      positron emission and computed tomography scans with 18F-fluciclatide as well as cardiac&#xD;
+      magnetic resonance imaging with assessment of gadolinium late enhancement. Following&#xD;
+      injection of 18F-fluciclatide, patients will be monitored using our standard clinical&#xD;
+      approach, including observation of haemodynamic parameters, and this will continue throughout&#xD;
+      their study visit until departure. In patients undergoing aortic valve replacement surgery,&#xD;
+      aortic valve tissue will be retained and a 3-mm tru-cut biopsy of left ventricular myocardium&#xD;
+      obtained with which to compare the findings from the scans.&#xD;
+&#xD;
+      Healthy volunteer patients will not undergo repeat assessment. After a period of one to two&#xD;
+      years from their initial scan, patients with Aortic Stenosis will return for repeat blood&#xD;
+      sampling, cardiac magnetic resonance imaging with assessment of late gadolinium enhancement&#xD;
+      and echocardiogram. Those patients who have undergone an aortic valve replacement will&#xD;
+      undergo repeat positron emission and computed tomography scans with 18F-fluciclatide six&#xD;
+      months after their operation, prior to their second cardiac MRI scan.&#xD;
+&#xD;
+      Blood samples will be assessed using standard clinical biochemical and haematological&#xD;
+      profiles such as full blood count and urea and electrolytes. In addition, markers of cardiac&#xD;
+      ischaemia, fibrosis and angiogenesis will be assessed. Additional serum, plasma and DNA will&#xD;
+      be stored at -80 degrees Celsius for future potential analyses.&#xD;
+&#xD;
+      6.1.2 Study Interpretation&#xD;
+&#xD;
+      We anticipate that myocardial uptake of 18F-fluciclatide will be increased in patients with&#xD;
+      aortic stenosis and left ventricular hypertrophy. We expect the degree of myocardial uptake&#xD;
+      to correlate with cardiac magnetic resonance imaging assessment of fibrosis as well as the&#xD;
+      histological measures of fibrosis and αvβ3 and αvβ5 integrin receptor expression. We expect&#xD;
+      the degree of myocardial uptake to predict cardiac magnetic resonance imaging assessment of&#xD;
+      fibrosis following a period of one to two years. In exploratory analyses, we will also take&#xD;
+      the opportunity to assess the extent of 18F-fluciclatide uptake within the aortic valve&#xD;
+      itself, and if successful, correlate this with histological measures of angiogenesis and&#xD;
+      fibrosis.&#xD;
+&#xD;
+      6.2 ANGIOGENESIS IN AORTIC ATHEROSCLEROSIS&#xD;
+&#xD;
+      Patients with aortic stenosis will have a high prevalence of concomitant aortic&#xD;
+      atherosclerosis. In Dr Dweck's Fellowship, we were able to exploit this association and&#xD;
+      undertake secondary analyses of 18F-sodium fluoride uptake in aortic and coronary&#xD;
+      atherosclerosis. This generated some highly innovative findings that informed our&#xD;
+      understanding of atherosclerosis and the role of calcification.&#xD;
+&#xD;
+      6.2.1 Study Schedule&#xD;
+&#xD;
+      We will use the datasets obtained from the patients above to explore the uptake of&#xD;
+      18F-fluciclatide within the thoracic aorta. Atherosclerosis will be identified using computed&#xD;
+      tomography and magnetic resonance images obtained of the thorax at the time of the study&#xD;
+      scans. No additional image acquisition will be required. This will provide pilot data to&#xD;
+      inform subsequent dedicated studies focused on acutely inflamed atherosclerotic plaques, such&#xD;
+      as patients with recent transient ischaemic attacks or strokes attributable to carotid&#xD;
+      disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2013</start_date>
+  <completion_date type="Actual">August 2015</completion_date>
+  <primary_completion_date type="Actual">August 2015</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The mean and maximum standardised uptake values (SUV) of fluciclatide for the myocardium and its correlation with the severity of aortic stenosis determined echocardiographically.</measure>
+    <time_frame>1 - 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The mean and maximum standardised uptake values (SUV) of fluciclatide for the myocardium and its correlation with the volume of myocardial fibrosis on magnetic resonance scanning.</measure>
+    <time_frame>1 - 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The mean and maximum standardised uptake values (SUV) of fluciclatide in the aortic valve in patients with aortic stenosis</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The mean and maximum standardised uptake values (SUV) of fluciclatide in concomitant aortic atheroma</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Actual">21</enrollment>
+  <condition>Aortic Stenosis</condition>
+  <condition>Fibrosis</condition>
+  <condition>Neovascularization, Pathologic</condition>
+  <arm_group>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <description>10 patients with normal echocardiogram studies and no history of ischaemic heart disease.&#xD;
+Patients to recieve CT-PET with fluciclatide, cardiac MRI scan, CT-coronary angiogram and echocardiogram.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate Aortic Stenosis (n=10)</arm_group_label>
+    <description>Patients with moderate aortic stenosis. Patients are to recieve Cardiac MRI, CT-PET scan, echocardiography and CT-coronary angiogram scan at baseline.&#xD;
+They will undergo repeat cardiac MRI scan and echocardiogram at 12 - 24 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild Aortic Stenosis (n=10)</arm_group_label>
+    <description>Patients with mild aortic stenosis. Patients are to recieve Cardiac MRI, CT-PET scan, echocardiography and CT-coronary angiogram scan at baseline.&#xD;
+They will undergo repeat cardiac MRI scan and echocardiogram at 12 - 24 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe aortic Stenosis (n=10)</arm_group_label>
+    <description>Patients with severe aortic stenosis. Patients are to recieve Cardiac MRI, CT-PET scan, echocardiography and CT-coronary angiogram scan at baseline.&#xD;
+They will undergo repeat cardiac MRI scan and echocardiogram at 12 - 24 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe Aortic Stenosis for AVR (n=10)</arm_group_label>
+    <description>Patients with severe aortic stenosis proceeding to aortic valve replacement. Patients are to recieve Cardiac MRI, CT-PET scan, echocardiography and CT-coronary angiogram scan at baseline.&#xD;
+They will undergo a repeat CT-PET scan 3 months after the operation.&#xD;
+They will undergo repeat cardiac MRI scan and echocardiogram at 12 months after the operation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Cardiac MRI scan</intervention_name>
+    <description>Cardiac MRI scan with assessment of late gadolinium enhancement and T1 mapping.</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Mild Aortic Stenosis (n=10)</arm_group_label>
+    <arm_group_label>Moderate Aortic Stenosis (n=10)</arm_group_label>
+    <arm_group_label>Severe Aortic Stenosis for AVR (n=10)</arm_group_label>
+    <arm_group_label>Severe aortic Stenosis (n=10)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>CT-PET scan</intervention_name>
+    <description>Computed Tomography / Positron Emission Tomography scan with 18F-fluciclatide tracer.</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Mild Aortic Stenosis (n=10)</arm_group_label>
+    <arm_group_label>Moderate Aortic Stenosis (n=10)</arm_group_label>
+    <arm_group_label>Severe Aortic Stenosis for AVR (n=10)</arm_group_label>
+    <arm_group_label>Severe aortic Stenosis (n=10)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Echocardiogram</intervention_name>
+    <description>Echocardiography.</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Mild Aortic Stenosis (n=10)</arm_group_label>
+    <arm_group_label>Moderate Aortic Stenosis (n=10)</arm_group_label>
+    <arm_group_label>Severe Aortic Stenosis for AVR (n=10)</arm_group_label>
+    <arm_group_label>Severe aortic Stenosis (n=10)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>CT-coronary angiogram scan</intervention_name>
+    <description>CT-coronary angiogram following CT-PET scan. Standard protocol.</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Mild Aortic Stenosis (n=10)</arm_group_label>
+    <arm_group_label>Moderate Aortic Stenosis (n=10)</arm_group_label>
+    <arm_group_label>Severe Aortic Stenosis for AVR (n=10)</arm_group_label>
+    <arm_group_label>Severe aortic Stenosis (n=10)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Aortic Valve Replacement</intervention_name>
+    <description>For AVR (already scheduled prior to enrollment)</description>
+    <arm_group_label>Severe Aortic Stenosis for AVR (n=10)</arm_group_label>
+    <other_name>AVR</other_name>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples will be taken, and the serum frozen and stored for further analysis pending&#xD;
+      ethical approval.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        50 patients in total, recruited from Cardiology Outpatient Clinics&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  asymptomatic mild (peak valve velocity of 2-5-3.0 m/s; n=10), moderate (peak valve&#xD;
+             velocity of 3.0-4.0 m/s; n=10) or severe aortic stenosis (peak valve velocity of &gt;4.0&#xD;
+             m/s; n=10) and 10 patients with severe aortic stenosis proceeding to aortic valve&#xD;
+             replacement.&#xD;
+&#xD;
+          -  Healthy control subjects (n=10) will have no past medical history of ischaemic heart&#xD;
+             disease or valvular heart disease and have a structurally normal heart on&#xD;
+             echocardiography.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Atrial fibrillation&#xD;
+&#xD;
+          -  Hepatic failure (Childs-Pugh grade B or C)&#xD;
+&#xD;
+          -  Renal failure (estimated glomerular filtration rate &lt;25 mL/min)&#xD;
+&#xD;
+          -  Women of child-bearing potential&#xD;
+&#xD;
+          -  Contraindication to magnetic resonance imaging&#xD;
+&#xD;
+          -  Inability to undergo scanning&#xD;
+&#xD;
+          -  Ochronosis and those with any form of collagen-vascular disease.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David E Newby, MBChB PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Edinburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>William Sa Jenkins, MBChB MRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Edinburgh</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Edinburgh</name>
+      <address>
+        <city>Edinburgh</city>
+        <state>Lothian</state>
+        <zip>EH16 4TJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2015</verification_date>
+  <study_first_submitted>March 14, 2013</study_first_submitted>
+  <study_first_submitted_qc>April 17, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 23, 2013</study_first_posted>
+  <last_update_submitted>August 29, 2016</last_update_submitted>
+  <last_update_submitted_qc>August 29, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">August 30, 2016</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Angiogenesis</keyword>
+  <keyword>Fibrosis</keyword>
+  <keyword>Aortic Stenosis</keyword>
+  <keyword>Imaging</keyword>
+  <keyword>CT-PET</keyword>
+  <keyword>PET-CT</keyword>
+  <keyword>Cardiac MRI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aortic Valve Stenosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+    <mesh_term>Constriction, Pathologic</mesh_term>
+    <mesh_term>Neovascularization, Pathologic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

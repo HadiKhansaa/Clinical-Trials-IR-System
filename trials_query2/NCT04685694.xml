@@ -1,0 +1,205 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04685694</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0444-19-TLV</org_study_id>
+    <nct_id>NCT04685694</nct_id>
+  </id_info>
+  <brief_title>Management of RPOC After Induced Abortion</brief_title>
+  <acronym>RPOC</acronym>
+  <official_title>Expectant Management Versus Medical Management of Retained Products of Conception After Induced Abortion</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tel-Aviv Sourasky Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tel-Aviv Sourasky Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized trial comparing expectant management and medical management in women diagnosed&#xD;
+      with retained products of conception after first trimester induced abortion&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      An open label randomized controlled trial (RCT) of all women diagnosed with retained product&#xD;
+      of conception (RPOC) after first trimester medical TOP in a single university affiliated&#xD;
+      medical center. All consecutive women who underwent medical TOP by mifepristone and&#xD;
+      misoprostol at gestational age under 63 days from last menstrual period and were diagnosed&#xD;
+      with RPOC in a routine 3-week ultrasound follow-up are offered to participate. RPOC is&#xD;
+      defined as thick irregular endometrium (over 12 mm) with positive Doppler flow. Following&#xD;
+      recruitment, patients are randomized into either expectant arm or medical arm (800 mcg&#xD;
+      misoprostol). The primary outcome measure is RPOC rate in repeat ultrasound scan performed 5&#xD;
+      weeks after randomization.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>RPOC rate</measure>
+    <time_frame>2 months</time_frame>
+    <description>RPOC rate in repeat ultrasound scan performed 5 weeks after randomization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adhesions</measure>
+    <time_frame>2 months</time_frame>
+    <description>According to our study protocol all women with persistent products of conception diagnosed on repeated ultrasound examination undergo hysteroscopy. During hysteroscopy, assessment of the uterine cavity including intrauterine adhesion formation will be performed. Intrauterine adhesions will be classified according to the American Society for Reproductive Medicine (ASRM), based on the extent of cavity involvement (&lt;1/3; 1/3 to 2/3, &gt;2/3) and the type of adhesion seen (filmy, filmy and dense, dense).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bleeding</measure>
+    <time_frame>2 months</time_frame>
+    <description>Bleeding pattern will be assessed via questionnaire upon recruitment and follow up visits. Bleeding will be characterized by its pattern (regular, intermenstrual) and quantity (normal, hypomenorrhoea, menorrhagia).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">144</enrollment>
+  <condition>Abortion Induced Complicated</condition>
+  <arm_group>
+    <arm_group_label>Expectant</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No medication is assigned.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medical</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SL 800 mcg Misoprostol</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Misoprostol</intervention_name>
+    <description>sl 800 mcg misoprostol</description>
+    <arm_group_label>Medical</arm_group_label>
+    <other_name>Cytotec</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 &lt; age &lt; 45 year old&#xD;
+&#xD;
+          -  Thick irregular endometrium &gt;12 mm on trans-vaginal ultrasound&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Endometritis&#xD;
+&#xD;
+          -  Cervical opening &gt; 1 cm&#xD;
+&#xD;
+          -  Uterine abnormalities&#xD;
+&#xD;
+          -  Contraindication to Misoprostol treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yossi Tzur, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Tel Aviv Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yossi Tzur, MD</last_name>
+    <phone>+972-54-4918-356</phone>
+    <email>yossitzur@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Aviad Cohen, MD</last_name>
+    <phone>+972-54-733-3450</phone>
+    <email>co.aviad@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Tel Aviv Medical Center; ,</name>
+      <address>
+        <city>Tel Aviv</city>
+        <zip>64239</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yossi Tzur, MD</last_name>
+      <phone>972-3-6925603</phone>
+      <email>yossit@tlvmc.gov.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Aviad Cohen, MD</last_name>
+      <phone>972-54-733-3450</phone>
+      <email>co.aviad@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <reference>
+    <citation>Trinder J, Brocklehurst P, Porter R, Read M, Vyas S, Smith L. Management of miscarriage: expectant, medical, or surgical? Results of randomised controlled trial (miscarriage treatment (MIST) trial). BMJ. 2006 May 27;332(7552):1235-40. Epub 2006 May 17.</citation>
+    <PMID>16707509</PMID>
+  </reference>
+  <reference>
+    <citation>Bagratee JS, Khullar V, Regan L, Moodley J, Kagoro H. A randomized controlled trial comparing medical and expectant management of first trimester miscarriage. Hum Reprod. 2004 Feb;19(2):266-71.</citation>
+    <PMID>14747165</PMID>
+  </reference>
+  <reference>
+    <citation>Ashwal E, Melamed N, Hiersch L, Wiznitzer A, Yogev Y, Peled Y. The incidence and risk factors for retained placenta after vaginal delivery - a single center experience. J Matern Fetal Neonatal Med. 2014 Dec;27(18):1897-900. doi: 10.3109/14767058.2014.883374. Epub 2014 Feb 4.</citation>
+    <PMID>24417417</PMID>
+  </reference>
+  <reference>
+    <citation>Anteby M, Many A, Ashwal E, Yogev Y, Shinar S. Risk factors and complications of manual placental removal after vaginal delivery - how common are additional invasive procedures? J Matern Fetal Neonatal Med. 2019 Feb;32(3):384-388. doi: 10.1080/14767058.2017.1379071. Epub 2017 Sep 19.</citation>
+    <PMID>28891361</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>October 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2020</study_first_posted>
+  <last_update_submitted>December 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tel-Aviv Sourasky Medical Center</investigator_affiliation>
+    <investigator_full_name>Eli Sprecher, MD</investigator_full_name>
+    <investigator_title>MD, PhD. Deputy Director Research &amp; Development</investigator_title>
+  </responsible_party>
+  <keyword>RPOC, induced abortion, misoprostol</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Misoprostol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>on line sharing via secured system</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>2 years</ipd_time_frame>
+    <ipd_access_criteria>for research purposes only</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

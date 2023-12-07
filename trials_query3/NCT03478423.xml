@@ -1,0 +1,420 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03478423</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MSHED003</org_study_id>
+    <nct_id>NCT03478423</nct_id>
+  </id_info>
+  <brief_title>Opioid Analgesics for Acute Fracture Pain in Adults Discharged From the ED</brief_title>
+  <official_title>A Blinded, Randomized Controlled Trial of Opioid Analgesics for the Management of Acute Fracture Pain in Adults Discharged From the Emergency Department</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mount Sinai Hospital, Canada</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mount Sinai Hospital, Canada</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Emergency department (ED) providers are frequently challenged with how best to&#xD;
+      treat acute pain, specifically when non-opioid analgesics are insufficient or&#xD;
+      contraindicated. Studies have documented older patients presenting to the ED with painful&#xD;
+      conditions are less likely to receive pain medications than younger patients, and this&#xD;
+      inadequate pain control has been associated with increased risk of delirium and longer&#xD;
+      hospital stays. Given the concerns for drug interactions, adverse side effects, over-sedation&#xD;
+      and addiction; emergency physicians often report uncertainty regarding the ideal choice of&#xD;
+      opioid analgesic in older adults. There are no guidelines informing best practice for the&#xD;
+      management of acute pain in this population.&#xD;
+&#xD;
+      Objective: The primary objective is to compare the efficacy of codeine, oxycodone and&#xD;
+      hydromorphone for acute fracture pain in patients discharged from the ED.&#xD;
+&#xD;
+      Methods: This will be a blinded, randomized controlled trial of adults (age ≥ 18) discharged&#xD;
+      home from the ED with acute pain secondary to an upper extremity, lower extremity, rib,&#xD;
+      pelvic or vertebral compression fracture. Patients will be randomized to receive a 3-day&#xD;
+      supply of codeine, oxycodone or hydromorphone. Patients will also be given acetaminophen.&#xD;
+      Patients will be contacted by phone or email 3 days following their ED visit. The primary&#xD;
+      outcome will be differences in pain scores at 3 days assessed using the validated Brief Pain&#xD;
+      Inventory (Short Form). Secondary outcomes will include side effects (ie: confusion,&#xD;
+      constipation), adverse events (i.e, falls, healthcare visits) and pain interference with&#xD;
+      daily activity. Patients, physicians and all research staff will be blinded to group&#xD;
+      allocation.&#xD;
+&#xD;
+      Importance: All analgesics (including opioids) prescribed to adults are associated with an&#xD;
+      increased risk of adverse events. This study seeks to inform ED providers of opioid efficacy,&#xD;
+      side effects and patient-important, functional outcomes in this growing patient population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction :Pain is a major symptom of many patients presenting to the emergency department&#xD;
+      (ED), with up to 42% of ED visits being related to painful conditions. ED providers are&#xD;
+      challenged with how best to treat acute pain, specifically when non-opioid analgesics are&#xD;
+      ineffective or contraindicated. There is considerable debate regarding most appropriate&#xD;
+      choice of analgesic when treating acute pain. Providers seek to prescribe the most effective&#xD;
+      analgesic with the least side effects, including the least risk of opioid dependence. Factors&#xD;
+      contributing to debate around the most appropriate opioid analgesic have also been influenced&#xD;
+      by pharmaceutical industry marketing and health care systems' efforts to improve clinicians'&#xD;
+      treatment of pain.&#xD;
+&#xD;
+      Ontario's most commonly prescribed opioid is codeine. Yet, its utilization as an analgesic is&#xD;
+      debated in the analgesic literature. Codeine is a prodrug that is metabolized to morphine in&#xD;
+      the liver. In most people, 5% to 10% of codeine is converted to morphine. Thus, some experts&#xD;
+      suggest that a 30 mg dose of codeine is considered equivalent to a 3 mg dose of morphine.&#xD;
+      However, other experts in this area suggest equi-analgesic doses of opioids are equally&#xD;
+      efficacious in relieving pain. In fact, codeine has been compared to hydrocodone using&#xD;
+      morphine-equivalent doses and were found equally efficacious at relieving pain the ED in a&#xD;
+      randomized controlled trial. Two additional randomized controlled trials have compared short&#xD;
+      acting hydrocodone and short acting oxycodone found them to be equally effective to relieve&#xD;
+      pain.&#xD;
+&#xD;
+      Another recent study by Chang et al., reported no statistically significant or clinically&#xD;
+      important differences in pain reduction at 2 hours after single-dose treatment with ibuprofen&#xD;
+      and acetaminophen or with 3 different opioid and acetaminophen combination analgesics for&#xD;
+      patients presenting to the ED with acute extremity pain. The largest difference in decline in&#xD;
+      mean pain score between any two treatments was 0.9 at the 2-hour time point, a difference&#xD;
+      that was not statistically significant and was less than 1.3, which was the author's a priori&#xD;
+      criterion to define a minimal clinically important difference in pain. This study had several&#xD;
+      limitations including the limited follow-up time of 2 hours, lack of adverse event reporting,&#xD;
+      and the exclusion of patients over the age of 65 years. This study is one of the only&#xD;
+      published randomized trials evaluating analgesic efficacy of opioid and non-opioid analgesics&#xD;
+      for an acutely painful condition.&#xD;
+&#xD;
+      There is a surprising paucity of studies evaluating analgesic efficacy, particularly after ED&#xD;
+      discharge, and there are no guidelines informing best practice for the management of acute&#xD;
+      pain following ED disposition for acute pain. To date, there have not been studies directly&#xD;
+      comparing the 3 most commonly prescribed opioids in Canadian EDs: codeine, hydromorphone and&#xD;
+      oxycodone. In light of mounting concern about the misuse of oral opioids, studies are needed&#xD;
+      to inform policy makers and to assist physicians in making evidence-based decisions about&#xD;
+      optimal short-term outpatient pain management.&#xD;
+&#xD;
+      There remains a paucity of data informing ED providers of opioid efficacy and patient&#xD;
+      important, functional outcomes in adults. Therefore, the objective of this study is to&#xD;
+      identify a preferred prescribed oral opioid analgesic for outpatient pain management among&#xD;
+      adults presenting to the ED with an acutely painful condition.&#xD;
+&#xD;
+      reater pharmacodynamic sensitivity to analgesic central nervous system effects. Objectives&#xD;
+&#xD;
+      Primary:&#xD;
+&#xD;
+      To identify the most effective prescribed oral opioid analgesic for outpatient pain&#xD;
+      management among adults presenting to the emergency department with an acutely painful&#xD;
+      condition.&#xD;
+&#xD;
+      Secondary:&#xD;
+&#xD;
+      To describe analgesic use, side effects, adverse events and patient-important, functional&#xD;
+      outcomes in adults.&#xD;
+&#xD;
+      METHODS:&#xD;
+&#xD;
+      Study Setting This will be a pragmatic, blinded, randomized controlled trial (RCT) conducted&#xD;
+      in the ED of Mount Sinai Hospital, in Toronto, Ontario, Canada. This is a tertiary care,&#xD;
+      urban teaching hospital with approximately 65,000 ED visits per year.&#xD;
+&#xD;
+      Inclusion Criteria Patients will be considered for inclusion if they are 18 years and older,&#xD;
+      live independently, present to the ED with an acutely painful condition occurring within 7&#xD;
+      days prior to ED visit, and if their treating ED physician intends to prescribe opioid&#xD;
+      analgesic upon ED discharge.&#xD;
+&#xD;
+      Exclusion Criteria Patients will be excluded from this study if they have an allergy to any&#xD;
+      of the study drugs (acetaminophen, polyethylene glycol 3350 (PEG), codeine, oxycodone or&#xD;
+      hydromorphone), are non-English speaking without an adequate interpreter available, are&#xD;
+      already on prescribed chronic opioid pain medication, have ongoing use of sedating&#xD;
+      medications (ie. benzodiazepines, antipsychotics), have current substance use disorder&#xD;
+      (excluding tobacco), are on opioid substitution therapy, comorbidity representing an absolute&#xD;
+      or relative contraindication to acute opioid prescribing (ie. any medical condition requiring&#xD;
+      home oxygen, Addison's disease, dialysis dependence, obstructive sleep apnea on non-invasive&#xD;
+      positive pressure ventilation, body mass index &gt; 45, Cushing's Disease), have moderate or&#xD;
+      severe dementia, inability to follow-up, or reside in a nursing home or location where a&#xD;
+      professional dispenses medications.&#xD;
+&#xD;
+      Study Protocol Attending physicians will identify eligible patients prior to ED discharge,&#xD;
+      and informed written consent for trial participation will be obtained by trained research&#xD;
+      personnel. Research personnel will not approach physicians for fractures or painful&#xD;
+      conditions alone, rather they approached on the basis of the treating physician's intent to&#xD;
+      prescribe opioids for home use. After providing informed written consent, patients will be&#xD;
+      randomized to either receive oxycodone, hydromorphone or codeine for analgesia for home use&#xD;
+      using a fixed 1:1:1 allocation ratio produced by a computer-based random number generator.&#xD;
+      Block sizes of 6 will be used to ensure equal allocation to each group. MSH pharmacy will&#xD;
+      prepare study drugs in opaque vials with identical labels based on a randomization scheme&#xD;
+      provided by the trial methodologist. The opaque vials will be included in sealed,&#xD;
+      sequentially numbered study packets that will be replaced as they are used. To avoid&#xD;
+      potential patient selection and allocation bias, all physicians, nurses, RAs and patients&#xD;
+      will be blinded to the randomization schedule. Study investigators will be permitted to&#xD;
+      un-blind the study medication in the event of allergic reaction, consisting of rash and/or&#xD;
+      airway compromise.&#xD;
+&#xD;
+      Each research packet to be dispensed to patients at ED discharge will contain 3 medication&#xD;
+      vials and medication instructions as below:&#xD;
+&#xD;
+        1. Acetaminophen 500 mg Instructions: Take 1 - 2 tablets by mouth every 8 hours as needed&#xD;
+           for pain.&#xD;
+&#xD;
+        2. Polyethylene Glycol 3350 (PEG) 17 g sachets Instructions: Dissolve in 120 to 240 mL (4&#xD;
+           to 8 ounces) of beverage and drink. Use one sachet daily as needed to prevent&#xD;
+           constipation if you are taking the opioid study drug.&#xD;
+&#xD;
+        3. Blinded Opioid Study Medication in an opaque vial (5 mg morphine equivalent tablets of&#xD;
+           either codeine, oxycodone or hydromorphone) Codeine: 30 mg tablets Oxycodone: 5 mg&#xD;
+           tablets Hydromorphone: 1 mg tablets Instructions: Take 1 tablet every 4 hours as needed&#xD;
+           for moderate to severe pain if you continue to have pain despite taking acetaminophen.&#xD;
+&#xD;
+      The research packet will be kept in the locked narcotic cupboard of the ambulatory care&#xD;
+      assessment are in the ED in a box labeled &quot;Study Drugs&quot;. At any given time, 3 packets will be&#xD;
+      maintained, and the temperature of this cupboard will be monitored by the study RA. The room&#xD;
+      temp logs will be maintained on a daily basis with a calibrated thermometer. The key to this&#xD;
+      cupboard is kept by the nurse on duty in this area.&#xD;
+&#xD;
+      Once a patient is randomized, the physician will order a study medication packet with a paper&#xD;
+      order for prescribing the study drug (designed and provided by MSH pharmacy). The nurse in&#xD;
+      the ambulatory care area will remove this packet from the cupboard, log its removal on a&#xD;
+      study specific narcotic sheet for inventory in ED. As in any other narcotic stored in the ED,&#xD;
+      the study packets will be counted daily at the end of the day as per narcotic regulations.&#xD;
+&#xD;
+      The RA will record the patient's name, MRN, and other info on label that is dispensed with&#xD;
+      study medication (follow labeling requirements). The RA will inform the patient of medication&#xD;
+      instructions, possible side effects and medication reconciliation procedures.&#xD;
+&#xD;
+      Trained research personnel will collect demographic and clinical parameters (medical history,&#xD;
+      physical examination findings, diagnostic testing, ED management) from the patient and from&#xD;
+      paper and electronic charts using a standardized data collection tool.&#xD;
+&#xD;
+      Discharge instructions will be read by the attending physician. Patients will be provided a&#xD;
+      printed copy of the discharge instructions. The RA will discuss each of the medications&#xD;
+      provided to the patient and read the specific instructions and potential side effects for&#xD;
+      each medication. The RA will also instruct the patient how to complete the Medication Diary.&#xD;
+      Prior to ED discharge, the RA will schedule the telephone follow-up assessment and will&#xD;
+      administer the BPI. Patients will be provided a pre-addressed envelope to return study&#xD;
+      medications and the completed Medication Diary to the research team at study completion. At&#xD;
+      the time of discharge, a time will be scheduled for a courier to pick up unused study&#xD;
+      medications from their home. The envelope will be signed by the patient on shipping and&#xD;
+      signed by the study coordinator or pharmacy on receiving. The patient will also have the&#xD;
+      option of bringing their unused study medications to their scheduled MSH Fracture Clinic&#xD;
+      appointment, if applicable, where the RA will meet them to reconcile the study medications.&#xD;
+&#xD;
+      Patients will be contacted via telephone by a RA to complete follow-up assessments 72 hours&#xD;
+      following the initial ED visit. To assess the compliance of patients with discharge&#xD;
+      instructions, they will be asked to complete a Medication Diary that consists of questions,&#xD;
+      taking less than 1 minute to complete daily. If telephone contact is not successful on the&#xD;
+      first day of scheduled follow-up, participants will be left a message to remind them of the&#xD;
+      scheduled telephone interview. If telephone follow-up is not successful on the first day of&#xD;
+      scheduled follow-up, attempts will be made on the 2nd and 3rd days. If contact is not made&#xD;
+      within a 3 day timeframe, patients will be considered lost to follow-up, and their data will&#xD;
+      be excluded from further analysis.&#xD;
+&#xD;
+      Outcome Measures The primary outcome of this study will be differences in pain severity 3&#xD;
+      days following ED discharge as measured by the Brief Pain Inventory (BPI). BPI is the best&#xD;
+      way to measure differences in pain severity in clinical trials. It measures pain severity&#xD;
+      using the mean score of 4 questions (worst pain, least pain, average pain and current pain)&#xD;
+      on a numeric rating scale (0-10).&#xD;
+&#xD;
+      Secondary outcomes will include differences in functional outcomes, analgesic use, side&#xD;
+      effects, and adverse events. Participants' functional outcomes will be assessed using the BPI&#xD;
+      - interference questions. Analgesic use will be quantified in pill counts collected from both&#xD;
+      telephone follow-up surveys as well as on the Medication Diaries. Side effects will be&#xD;
+      measured using a modified version of The Numerical Opioid Side Effect (NOSE) Assessment Tool&#xD;
+      during the telephone follow-up, and adverse events are defined as falls, unplanned visits to&#xD;
+      a healthcare provider (return ED visits, family physician, walk-in clinic), allergic&#xD;
+      reaction, overdose, and death.&#xD;
+&#xD;
+      Data Analyses Data will be entered directly into a study specific Microsoft Excel database&#xD;
+      (Microsoft Corporation, Redmond, Washington). Descriptive statistics will be summarized using&#xD;
+      means with standard deviations (SD), medians with interquartile ranges (IQR) or frequencies&#xD;
+      with 95% confidence intervals (CIs) where appropriate. The study design assumes three arms&#xD;
+      (codeine, oxycodone and hydromorphone), therefore the 2-tailed alpha will be set to 0.025 to&#xD;
+      adjust for the increased risk of type-I error with 3 pairwise comparisons. An&#xD;
+      intention-to-treat analysis will be performed. To test for pairwise equality between groups,&#xD;
+      a 1-way ANOVA will be employed. Proportional differences will be assessed using Pearson&#xD;
+      chi-square statistic. Missing data points will be excluded from the analysis.&#xD;
+&#xD;
+      Assuming a mean (SD) change in pain scores between groups of 2.2 (3.0), a minimum clinically&#xD;
+      important difference on the Brief Pain Inventory of 2.0 , a 2-tailed alpha of 0.025 to adjust&#xD;
+      for 3 pairwise comparisons and a beta of 0.20, the investigators estimate that 47 patients&#xD;
+      per group (N=141) will be required. To account for potential loss to follow-up, the&#xD;
+      investigators will increase sample size by 25% per group, resulting in a final sample size of&#xD;
+      177 patients (59 per group).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Study failed to recruit in sufficient numbers and was determined to not be feasible.&#xD;
+  </why_stopped>
+  <start_date type="Actual">February 5, 2018</start_date>
+  <completion_date type="Actual">September 17, 2019</completion_date>
+  <primary_completion_date type="Actual">September 17, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Pharmacy will prepare study drugs in opaque vials with identical labels based on a randomization scheme provided by the trial methodologist. The opaque vials will be included in sealed, sequentially numbered study packets that will be replaced as they are used. To avoid potential patient selection and allocation bias, all physicians, nurses, RAs and patients will be blinded to the randomization schedule. Study investigators will be permitted to un-blind the study medication in the event of allergic reaction, consisting of rash and/or airway compromise.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pain Scores</measure>
+    <time_frame>3 days</time_frame>
+    <description>Measure the difference in pain scores assessed using the brief pain inventory (short form)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Numerical Opioid Side Effects</measure>
+    <time_frame>3 days</time_frame>
+    <description>Side effects will be measured using a modified version of The Numerical Opioid Side Effect (NOSE) Assessment Tool during the telephone follow-up. This measures nausea, fatigue, constipation, itching, sexual desire/libido, dry mouth, abdominal pain, sweating, headache, and urinary retention on 11 point scales.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>3 days</time_frame>
+    <description>number of falls, number of visits to healthcare providers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain Interference</measure>
+    <time_frame>3 days</time_frame>
+    <description>Participants will be asked how pain interferes with various activities of daily living (general activity, mood, walking, normal work, relations, sleep, enjoyment of life, and &quot;other&quot;) on 11 point scales.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">5</enrollment>
+  <condition>Acute Pain</condition>
+  <arm_group>
+    <arm_group_label>Codeine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be provided with 30mg tablets of codeine, instructed to take 1 tablet every 4 hours as needed for moderate to severe pain if you continue to have pain despite taking acetaminophen.&#xD;
+Patients will also receive 500mg tablets of acetaminophen with instructions to take 1-2 tablets by mouth every 8 hours as needed for pain.&#xD;
+Patients will also receive 17g sachets of PEG, Dissolve in 120 to 240 mL (4 to 8 ounces) of beverage and drink. Use one sachet daily as needed to prevent constipation if you are taking the opioid study drug.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Oxycodone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be provided with 5mg tablets of oxycodone, instructed to take 1 tablet every 4 hours as needed for moderate to severe pain if you continue to have pain despite taking acetaminophen.&#xD;
+Patients will also receive 500mg tablets of acetaminophen with instructions to take 1-2 tablets by mouth every 8 hours as needed for pain.&#xD;
+Patients will also receive 17g sachets of PEG, Dissolve in 120 to 240 mL (4 to 8 ounces) of beverage and drink. Use one sachet daily as needed to prevent constipation if you are taking the opioid study drug.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hydromorphone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be provided with 1mg tablets of hydromorphone, instructed to take 1 tablet every 4 hours as needed for moderate to severe pain if you continue to have pain despite taking acetaminophen.&#xD;
+Patients will also receive 500mg tablets of acetaminophen with instructions to take 1-2 tablets by mouth every 8 hours as needed for pain.&#xD;
+Patients will also receive 17g sachets of PEG, Dissolve in 120 to 240 mL (4 to 8 ounces) of beverage and drink. Use one sachet daily as needed to prevent constipation if you are taking the opioid study drug.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Codeine</intervention_name>
+    <description>30mg tablets. Patients will be instructed to take 1 tablet every 4 hours as needed for moderate to severe pain if you continue to have pain despite taking acetaminophen.</description>
+    <arm_group_label>Codeine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxycodone</intervention_name>
+    <description>5mg tablets. Patients will be instructed to take 1 tablet every 4 hours as needed for moderate to severe pain if you continue to have pain despite taking acetaminophen.</description>
+    <arm_group_label>Oxycodone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydromorphone</intervention_name>
+    <description>1mg tablets.Patients will be instructed to take 1 tablet every 4 hours as needed for moderate to severe pain if you continue to have pain despite taking acetaminophen.</description>
+    <arm_group_label>Hydromorphone</arm_group_label>
+    <other_name>Dilaudid</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  &gt;=18 Years&#xD;
+&#xD;
+          -  live independently&#xD;
+&#xD;
+          -  acute pain secondary to an upper extremity, lower extremity, rib, pelvic or vertebral&#xD;
+             compression fracture occurring within 7 days prior to their visit&#xD;
+&#xD;
+          -  ED physician intends to prescribe opioid analgesic upon ED discharge&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  an allergy to any of the study drug (acetaminophen, polyethylene glycol 3350, codeine,&#xD;
+             oxycodone, hydromorphone)&#xD;
+&#xD;
+          -  non-English speaking without an adequate interpreter&#xD;
+&#xD;
+          -  already on prescribed chronic opioid pain medication&#xD;
+&#xD;
+          -  ongoing use of sedating medications (e.g., benzodiazepines, antipsychotics)&#xD;
+&#xD;
+          -  current substance use disorder excluding tobacco&#xD;
+&#xD;
+          -  on opioid substitution therapy&#xD;
+&#xD;
+          -  comorbidity representing an absolute or relative contraindication to acute opioid&#xD;
+             prescribing (ie. any medical condition requiring home oxygen, Addison's disease,&#xD;
+             dialysis dependence, obstructive sleep apnea on non-invasive positive pressure&#xD;
+             ventilation, body mass index &gt; 45, Cushing's Disease)&#xD;
+&#xD;
+          -  moderate to severe dementia&#xD;
+&#xD;
+          -  inability to follow-up&#xD;
+&#xD;
+          -  reside in a nursing home or location where a professional dispenses medications&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Catherine Varner, MD MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>MOUNT SINAI HOSPITAL</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mount Sinai Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2019</verification_date>
+  <study_first_submitted>February 9, 2018</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 27, 2018</study_first_posted>
+  <last_update_submitted>September 30, 2019</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 2, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mount Sinai Hospital, Canada</investigator_affiliation>
+    <investigator_full_name>Catherine Varner, MD</investigator_full_name>
+    <investigator_title>Clinician Scientist</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Pain</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Oxycodone</mesh_term>
+    <mesh_term>Hydromorphone</mesh_term>
+    <mesh_term>Codeine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

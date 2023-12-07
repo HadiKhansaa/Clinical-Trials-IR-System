@@ -1,0 +1,338 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04685772</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-1092</org_study_id>
+    <nct_id>NCT04685772</nct_id>
+  </id_info>
+  <brief_title>Assessment of the Efficacy of Medrol Dose Pack for Post-Concussive Headaches</brief_title>
+  <official_title>Assessment of the Efficacy of Medrol Dose Pack for Post-Concussive Headaches</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwell Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Northwell Health</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This novel pilot project will assess the effectiveness of corticosteroids in treatment of&#xD;
+      acute post-concussion headache. The investigators hypothesize that the use of corticosteroids&#xD;
+      will cause significant headache reduction in frequency and/or intensity than individuals who&#xD;
+      undergo the current standard of care. Additionally, the investigators hypothesize that&#xD;
+      corticosteroid use will lead to a reduction in other somatic symptoms including vestibular&#xD;
+      symptoms, leading to quicker return to school, work, and/or ability to play sports.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To the best of the investigators' knowledge, this is a novel study. Studies have been&#xD;
+      previously done on individuals who have suffered an acute TBI and were admitted to an&#xD;
+      intensive care unit (ICU) setting but none have been completed on individuals who suffer&#xD;
+      post-concussion headaches. Despite a high prevalence of post-concussive headache, there are&#xD;
+      no evidence-based guidelines for acute or preventive pharmacological treatment. Patients who&#xD;
+      experience very frequent or daily headache post-concussive headache are also at risk of&#xD;
+      developing medication-overuse headache (MOH)12. In addition, patients with post-concussive&#xD;
+      headache experience disabling comorbidities such as symptoms of depression, anxiety, and&#xD;
+      sleep disturbances 12 This study will be of benefit to patients who suffer headaches after a&#xD;
+      concussion because, though various treatments have been studied, including a combination of&#xD;
+      Reglan and Benadryl (63% effective in one prospective study) triptans vs non-triptans (70%&#xD;
+      effective vs 42% effective in one retrospective trial), gabapentin vs tricyclic&#xD;
+      antidepressants vs. no medication (no significant difference in outcome), none have been&#xD;
+      established as a definitive treatment regimen for post-concussive headache 12.&#xD;
+      Corticosteroids are currently utilized for management of these headaches; they are done so at&#xD;
+      the discretion of the physician and like the aforementioned medications, are not standard of&#xD;
+      care. Corticosteroid used in severe TBI (GCS &lt; 8) have been widely studied8, however the&#xD;
+      utility has not been conclusive. Of note, case studies in the pediatric population with mild&#xD;
+      TBI (GCS 13-15) and post-concussive headache, report that they respond well to the Medrol&#xD;
+      Dose Pack with headache improvement during or after completion of the medication2. Currently,&#xD;
+      there is no standard treatment of post-concussion headaches, and in clinical practice, it has&#xD;
+      been observed that only approximately 50% of patients improve without any medication use. It&#xD;
+      is important to establish the role of corticosteroids in treating post-concussive headaches&#xD;
+      because they may improve quality of life and accelerate patient's functional recovery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>3 Months</target_duration>
+  <primary_outcome>
+    <measure>Change in headaches</measure>
+    <time_frame>1 Week</time_frame>
+    <description>Defined as change in headache in response to medication</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in total Post Concussion Symptom (0-120) scores over time</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>change in the NEW total PCSS score from baseline (day0) to week 1, to week 4 and to week 12; Higher scores indicate worse symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EQ-5D (Euro Qual Health State Questionnaire) score changes (1-100 in each category); higher score indicates better state of health in several domains.</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>EQ-5D score in the categories of 'Usual Activities' and 'Pain/Discomfort' of the EQ-5D Health Questionnaire between visit 1 (day 7) and visit 5(week 11/12)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diary of other medication use and pain level</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Secondary outcome 9: Each patient will be asked to keep a daily diary, recording pain medications used and a pain level (in a scale of 0-10).</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>Post-Concussion Syndrome</condition>
+  <condition>Headache</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methylprednisolone</intervention_name>
+    <description>The Methylprednisolone dose pack (Medrol Dose Pack) is pre-packaged with dosing instructions. This dose pack is tapered over 7 days and administration will be the following for all patients:&#xD;
+Day 1 (total 24 milligrams (mg)) - 8mg before breakfast, 4mg after lunch and dinner, and 8mg at bedtime Day 2 (total 20mg) - 4mg before breakfast, after lunch and dinner, and 8mg at bedtime Day 3 (total 16mg) - 4mg before breakfast, lunch, dinner, and at bedtime Day 4 (total 12mg) - 4mg before breakfast, after lunch, and at bedtime Day 5 (total 8mg) - 4mg before breakfast and at bedtime Day 6 (total 4mg) - 4mg before breakfast Day 7 (total 0mg) - Completed</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who meet theinclusion criteria will be consented for the study. Patients will be&#xD;
+        recruited when they follow up on their initial appointment after hospitalization&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provision of signed and dated informed consent form&#xD;
+&#xD;
+          2. Stated willingness to comply with all study procedures and availability for the&#xD;
+             duration of the study&#xD;
+&#xD;
+          3. Male or female, aged &gt;18 years old&#xD;
+&#xD;
+          4. Ability to take oral medication and be willing to adhere to the study regimen as&#xD;
+             described in this protocol&#xD;
+&#xD;
+          5. Patients presenting with all types of post-concussive headache with &gt;5/10 in severity&#xD;
+             on the numerical analog scale.&#xD;
+&#xD;
+          6. Headache that occurs for &gt; 4 hours per day&#xD;
+&#xD;
+          7. Headache that occurs every day&#xD;
+&#xD;
+          8. Headache that began after concussion, patient was diagnosed at an outpatient clinic or&#xD;
+             was hospitalized&#xD;
+&#xD;
+          9. Headache developed within 7 days post-injury.&#xD;
+&#xD;
+         10. A diagnosis of concussion.&#xD;
+&#xD;
+         11. If a patient is taking another pain medication, this still be included in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any evidence of known intracranial hemorrhage on neuroimaging&#xD;
+&#xD;
+          2. Headache developing after 7 days post injury&#xD;
+&#xD;
+          3. Headache occurs &lt; 4 hours per day&#xD;
+&#xD;
+          4. Headache does not occur daily&#xD;
+&#xD;
+          5. Age &lt; or = 18&#xD;
+&#xD;
+          6. Headache is &lt; 5 in severity on numerical analog scale&#xD;
+&#xD;
+          7. Presence of increase in intracranial pressure or papilledema&#xD;
+&#xD;
+          8. Any contraindication to corticosteroids&#xD;
+&#xD;
+          9. Allergy or sensitivity to corticosteroids&#xD;
+&#xD;
+         10. Active Tuberculosis&#xD;
+&#xD;
+         11. Active pregnancy&#xD;
+&#xD;
+         12. Currently on corticosteroids for another reason&#xD;
+&#xD;
+         13. Participants with fungal infection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jamie Ullman, MD</last_name>
+    <phone>(516) 562 4300</phone>
+    <email>Jullman1@northwell.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Betsy Moclair, RN, CCRC</last_name>
+    <phone>(516) 253-7753</phone>
+    <email>bmoclair@northwell.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Northwell Health - North Shore University Hospital</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jamie Ullman, MD</last_name>
+      <phone>516-562-4300</phone>
+      <email>jullman1@northwell.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Betsy Moclair, RN, CCRC</last_name>
+      <phone>(516) 253-7753</phone>
+      <email>bmoclair@northwell.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dana Klavansky, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Robert Duarte, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rosanna Sabini, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Luca Giliberto, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://reference.medscape.com/drug/medrol-medrol-dosepak-methylprednisolone-342746</url>
+    <description>Medrol Dose Pack Product information</description>
+  </link>
+  <reference>
+    <citation>Bulamu NB, Kaambwa B, Ratcliffe J. A systematic review of instruments for measuring outcomes in economic evaluation within aged care. Health Qual Life Outcomes. 2015 Nov 9;13:179. doi: 10.1186/s12955-015-0372-8. Review.</citation>
+    <PMID>26553129</PMID>
+  </reference>
+  <reference>
+    <citation>Bramley H, Hong J, Zacko C, Royer C, Silvis M. Mild Traumatic Brain Injury and Post-concussion Syndrome: Treatment and Related Sequela for Persistent Symptomatic Disease. Sports Med Arthrosc Rev. 2016 Sep;24(3):123-9. doi: 10.1097/JSA.0000000000000111. Review.</citation>
+    <PMID>27482778</PMID>
+  </reference>
+  <reference>
+    <citation>Bramley H, Melinosky C, Silvis M, Ross S. Pediatric posttraumatic headache: two cases using steroids as abortive therapy. Pediatr Emerg Care. 2012 Oct;28(10):1081-4. doi: 10.1097/PEC.0b013e31826ceeeb.</citation>
+    <PMID>23034499</PMID>
+  </reference>
+  <reference>
+    <citation>Cushman DM, Borowski L, Hansen C, Hendrick J, Bushman T, Teramoto M. Gabapentin and Tricyclics in the Treatment of Post-Concussive Headache, a Retrospective Cohort Study. Headache. 2019 Mar;59(3):371-382. doi: 10.1111/head.13451. Epub 2018 Nov 19.</citation>
+    <PMID>30451286</PMID>
+  </reference>
+  <reference>
+    <citation>Ducic I, Sinkin JC, Crutchfield KE. Interdisciplinary treatment of post-concussion and post-traumatic headaches. Microsurgery. 2015 Nov;35(8):603-7. doi: 10.1002/micr.22503. Epub 2015 Sep 26.</citation>
+    <PMID>26409037</PMID>
+  </reference>
+  <reference>
+    <citation>EuroQol Group. EuroQol--a new facility for the measurement of health-related quality of life. Health Policy. 1990 Dec;16(3):199-208.</citation>
+    <PMID>10109801</PMID>
+  </reference>
+  <reference>
+    <citation>Halstead ME. Pharmacologic Therapies for Pediatric Concussions. Sports Health. 2016 Jan-Feb;8(1):50-2. Review.</citation>
+    <PMID>26660460</PMID>
+  </reference>
+  <reference>
+    <citation>Hoshide R, Cheung V, Marshall L, Kasper E, Chen CC. Do corticosteroids play a role in the management of traumatic brain injury? Surg Neurol Int. 2016 Sep 13;7:84. doi: 10.4103/2152-7806.190439. eCollection 2016.</citation>
+    <PMID>27656315</PMID>
+  </reference>
+  <reference>
+    <citation>Kacperski J. Pharmacotherapy for Persistent Posttraumatic Headaches in Children and Adolescents: A Brief Review of the Literature. Paediatr Drugs. 2018 Oct;20(5):385-393. doi: 10.1007/s40272-018-0299-8. Review.</citation>
+    <PMID>29876872</PMID>
+  </reference>
+  <reference>
+    <citation>King NS, Crawford S, Wenden FJ, Moss NE, Wade DT. The Rivermead Post Concussion Symptoms Questionnaire: a measure of symptoms commonly experienced after head injury and its reliability. J Neurol. 1995 Sep;242(9):587-92.</citation>
+    <PMID>8551320</PMID>
+  </reference>
+  <reference>
+    <citation>Kuczynski A, Crawford S, Bodell L, Dewey D, Barlow KM. Characteristics of post-traumatic headaches in children following mild traumatic brain injury and their response to treatment: a prospective cohort. Dev Med Child Neurol. 2013 Jul;55(7):636-41. doi: 10.1111/dmcn.12152. Epub 2013 Apr 5.</citation>
+    <PMID>23560811</PMID>
+  </reference>
+  <reference>
+    <citation>Larsen EL, Ashina H, Iljazi A, Al-Khazali HM, Seem K, Ashina M, Ashina S, Schytz HW. Acute and preventive pharmacological treatment of post-traumatic headache: a systematic review. J Headache Pain. 2019 Oct 21;20(1):98. doi: 10.1186/s10194-019-1051-7.</citation>
+    <PMID>31638888</PMID>
+  </reference>
+  <reference>
+    <citation>Marshall S, Bayley M, McCullagh S, Velikonja D, Berrigan L, Ouchterlony D, Weegar K; mTBI Expert Consensus Group. Updated clinical practice guidelines for concussion/mild traumatic brain injury and persistent symptoms. Brain Inj. 2015;29(6):688-700. doi: 10.3109/02699052.2015.1004755. Epub 2015 Apr 14.</citation>
+    <PMID>25871303</PMID>
+  </reference>
+  <reference>
+    <citation>Potter S, Leigh E, Wade D, Fleminger S. The Rivermead Post Concussion Symptoms Questionnaire: a confirmatory factor analysis. J Neurol. 2006 Dec;253(12):1603-14. Epub 2006 Oct 24.</citation>
+    <PMID>17063314</PMID>
+  </reference>
+  <reference>
+    <citation>Rabin R, de Charro F. EQ-5D: a measure of health status from the EuroQol Group. Ann Med. 2001 Jul;33(5):337-43. Review.</citation>
+    <PMID>11491192</PMID>
+  </reference>
+  <reference>
+    <citation>Seifert T. Post-Traumatic Headache Therapy in the Athlete. Curr Pain Headache Rep. 2016 Jun;20(6):41. doi: 10.1007/s11916-016-0568-6. Review.</citation>
+    <PMID>27184059</PMID>
+  </reference>
+  <reference>
+    <citation>Solomon S. Post-traumatic headache: commentary: an overview. Headache. 2009 Jul;49(7):1112-5. doi: 10.1111/j.1526-4610.2009.01462.x.</citation>
+    <PMID>19583600</PMID>
+  </reference>
+  <reference>
+    <citation>Bland JM, Altman DG. Applying the right statistics: analyses of measurement studies. Ultrasound Obstet Gynecol. 2003 Jul;22(1):85-93. Review.</citation>
+    <PMID>12858311</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2020</study_first_posted>
+  <last_update_submitted>December 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwell Health</investigator_affiliation>
+    <investigator_full_name>Jamie Ullman</investigator_full_name>
+    <investigator_title>Director of Neurotrauma, Northwell Health</investigator_title>
+  </responsible_party>
+  <keyword>Methylprednisolone</keyword>
+  <keyword>Medrol Dose Pack</keyword>
+  <keyword>Steroid</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Post-Concussion Syndrome</mesh_term>
+    <mesh_term>Headache</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Acetate</mesh_term>
+    <mesh_term>Methylprednisolone Hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Prednisolone acetate</mesh_term>
+    <mesh_term>Prednisolone hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone phosphate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

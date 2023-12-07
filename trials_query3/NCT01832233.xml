@@ -1,0 +1,374 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01832233</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REB12-73</org_study_id>
+    <nct_id>NCT01832233</nct_id>
+  </id_info>
+  <brief_title>Renal Denervation in Patients With Chronic Kidney Disease</brief_title>
+  <official_title>Prairie Renal Denervation Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Saskatchewan Health Authority - Regina Area</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Saskatchewan Health Authority - Regina Area</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      People with hypertension are at a higher risk for cardiovascular disease and death so it is&#xD;
+      important to lower blood pressure to normal levels as quickly as possible. Previous research&#xD;
+      has established that renal nerve denervation successfully lowers blood pressure measured in&#xD;
+      the arm in the physician's office. This study is being conducted so that the investigators&#xD;
+      can determine whether renal nerve denervation also helps to lower blood pressure over 24&#xD;
+      hours, as well as central aortic blood pressure, which is pressure exerted by the aorta&#xD;
+      closer to the heart and may be a better predictor of cardiovascular problems. The&#xD;
+      investigators also want to know whether these beneficial effects on blood pressure can last&#xD;
+      up to 2 years, whether renal denervation reduces the number of medications patients need to&#xD;
+      take, and whether it reduces glucose and insulin levels in the blood since hypertension is&#xD;
+      also related to obesity and diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study design and patients:&#xD;
+&#xD;
+      This study will be conducted using a prospective, single-arm pre-/post-intervention design&#xD;
+      over 2 years. Fifty consecutive stage 3 and 4 CKD patients with resistant hypertension from&#xD;
+      the Regina Qu'Appelle Health Region (RQHR) multidisciplinary CKD clinic who agree to undergo&#xD;
+      RDN will be included in the study. Patients will be considered eligible if they are &gt;18 years&#xD;
+      of age, exhibit a systolic BP of greater than 140 mm Hg despite maximal doses of 3 agents (1&#xD;
+      of which is a diuretic) or are currently on 4 BP meds to control SBP to less than 140 mm Hg.&#xD;
+      Once identified as having resistant hypertension based on chart review, the patients will&#xD;
+      undergo the following assessments: 24-hour urine for catecholamines, sodium and cortisol; CT&#xD;
+      renal angiogram for the length and diameter of the renal arteries, to rule out&#xD;
+      stenosis/fibromuscular dysplasia, and assessment of the adrenal gland for nodules; and&#xD;
+      measurements of thyroid stimulating hormone (TSH) and serum cortisol to exclude secondary&#xD;
+      causes of hypertension. If no secondary causes of hypertension are identified, then the study&#xD;
+      coordinator will approach the patient at their next clinic appointment regarding&#xD;
+      participation in the trial&#xD;
+&#xD;
+      Patients will be excluded if the evaluations identify functional adrenal adenoma; a CT scan&#xD;
+      reveals a renal artery length (on either side) of less than 20 mm or diameter of less than 4&#xD;
+      mm; they are pregnant or planning pregnancy within the study period; there is documented&#xD;
+      evidence of moderate-to-severe aortic stenosis; a cardiac event necessitating introduction of&#xD;
+      clopidogrel occurred during the prior 12 months; or they are currently using Warfarin or have&#xD;
+      a history of CVA within 6 months prior to the procedure. Patients on clonidine and other&#xD;
+      sympatholytic agents will not be excluded from the study. Our institutional review ethics&#xD;
+      board (REB-12-73) granted approval for the study. If a patient fit the criteria and agrees to&#xD;
+      undergo the procedure, the study coordinator will organize/perform the following assessments:&#xD;
+&#xD;
+      Ambulatory blood pressures and office blood pressures: Patients will undergo 24-hour blood&#xD;
+      pressure monitoring (Welch Allyn, Skaneateles Falls, NY, USA), and the following information&#xD;
+      will be documented: 12-hour daytime systolic pressure (mm Hg), 12-hour daytime diastolic&#xD;
+      pressure (mm Hg), 12-hour night-time systolic pressure (mm Hg) and 12-hour night-time&#xD;
+      diastolic pressure (mm Hg). The following day, the patient will have the 24-hour arm cuff&#xD;
+      removed, and they will sit in a quiet room for 10 minutes before the study coordinator can&#xD;
+      take further peripheral blood pressure measurements using BP Tru (BPM 100, BP Tru medical&#xD;
+      devices, Coquitlam, BC, Canada) on the non-dominant arm, which measures 6 consecutive blood&#xD;
+      pressures (the first is excluded, and the average of the last 5 readings will be documented).&#xD;
+&#xD;
+      Central blood pressure: After obtaining the mean of the 5 BP readings, radial artery&#xD;
+      waveforms will be recorded with a high-fidelity micromanometer from the wrist of the dominant&#xD;
+      arm and calibrated to the previously measured mean of 5 BP readings. Waveforms will be&#xD;
+      processed with dedicated software (Sphygmocor CPV (EM3) software version 9; AtCor Medical).&#xD;
+      The integral system software will be used to calculate an average radial artery waveform and&#xD;
+      to derive a corresponding central aortic pressure waveform using a previously validated&#xD;
+      generalized transfer function12,13. Aortic waveforms will be subject to further analysis&#xD;
+      using the SphygmoCor software to identify the time to the peak/shoulder of the first and&#xD;
+      second pressure wave components (T1, T2) during systole. The pressure at the peak/shoulder of&#xD;
+      the first component will be identified as the P1 height, and the pressure difference between&#xD;
+      this point and the maximal pressure during systole (Δ P, or augmentation) will be identified&#xD;
+      as the reflected wave during systole. The augmentation index (AIx), defined as the ratio of&#xD;
+      augmentation to the central pulse pressure, is expressed as a percentage: AIx: (Δ P/PP) X&#xD;
+      100, where P is pressure, and PP is pulse pressure. Pulse pressure amplification (PPA) is&#xD;
+      expressed as the ratio of central pulse pressure (CPP) to brachial pulse pressure (PPP):&#xD;
+      PPA=PPP/CPP. At least 2 consecutive radial pressure wave samplings will be recorded for each&#xD;
+      patient, and the mean will be used for analysis. The collected data will include the&#xD;
+      augmentation index (%), augmentation pressure (mm Hg), central pulse pressure (mm Hg),&#xD;
+      central systolic pressure (mm Hg), central diastolic pressure (mm Hg), pulse pressure&#xD;
+      amplification (mm Hg), time to reflection (Tr) in ms and pulse wave velocity.&#xD;
+&#xD;
+      Pulse wave velocity: The carotid to femoral pulse wave velocity (PWV) will be measured in all&#xD;
+      patients during every clinic visit. PWV will be determined immediately after the central&#xD;
+      blood pressures. This parameter is determined by simultaneous measurement of arterial&#xD;
+      pressure waves at the carotid and femoral arteries with a pressure transducer. The surface&#xD;
+      distance from the suprasternal notch to the distal (femoral) recording site will be measured,&#xD;
+      and the pressure wave transit time will be calculated by dividing the distance to the distal&#xD;
+      site by the pressure wave transit time. The data will be collected by a single trained&#xD;
+      coordinator (RJ), and the mean of 2 PWV measurements will be taken for each patient.&#xD;
+&#xD;
+      Echocardiogram:&#xD;
+&#xD;
+      The following parameters will be documented: Left ventricle volume, left ventricle&#xD;
+      hypertrophy, left ventricle function, left atrial mass, E-wave velocity and E-prime velocity.&#xD;
+&#xD;
+      Demographic information:&#xD;
+&#xD;
+      During the same clinic visit, we will record the patient's age, height, weight, waist&#xD;
+      circumference, race, gender, current medications being taken and current medical conditions&#xD;
+      (peripheral artery disease, diabetes mellitus, coronary heart disease, cerebrovascular&#xD;
+      disease) and administer a quality-of-life questionnaire (EQ5D, a short standardized&#xD;
+      instrument to measure health-related quality of life), which is to be completed prior to the&#xD;
+      procedure.&#xD;
+&#xD;
+      Laboratory measures: The patient will receive a requisition to have blood taken at a&#xD;
+      laboratory within 1 month prior to the renal denervation procedure to measure the following&#xD;
+      parameters: serum fasting glucose and insulin, a fasting lipid panel, a renal panel,&#xD;
+      electrolytes, osmolality, the complete blood count and 24-hour urine, for sodium, protein,&#xD;
+      creatinine clearance, potassium, osmolality and the albumin/creatinine ratio.&#xD;
+&#xD;
+      Procedure:&#xD;
+&#xD;
+      During renal nerve ablation, a catheter connected to a Medtronic radiofrequency generator&#xD;
+      will be inserted percutaneously through the groin via the femoral artery and advanced up the&#xD;
+      aorta to the renal arteries. Total of 4 to 6 discrete radiofrequency ablations lasting up to&#xD;
+      2 minutes, of 8 watts or less each, will be performed, separated both longitudinally and&#xD;
+      rotationally within each renal artery. The catheter system monitors tip temperature and&#xD;
+      impedance, altering radiofrequency energy delivery in response to a predetermined algorithm.&#xD;
+      The procedure will take approximately 40 minutes, to complete the ablations bilaterally. The&#xD;
+      patient will receive intravenous opiates and sublingual anxiolytics, as per the institutional&#xD;
+      protocol, to reduce visceral pain as well as 3000 IU of intra-arterial heparin in each renal&#xD;
+      artery prior to the ablations. Post-procedure, the patient will be monitored in the&#xD;
+      ambulatory care unit for 4 hours.&#xD;
+&#xD;
+      The procedure time and contrast volume will be documented. The number of successful ablations&#xD;
+      in each renal artery will also be recorded. All adverse events and complications will be&#xD;
+      recorded during each study visit. Specific interventional-related safety data will include&#xD;
+      bleeding or a femoral pseudoaneurysm requiring intervention, renal artery dissection,&#xD;
+      myocardial infarction, stroke and death.&#xD;
+&#xD;
+      Follow-up schedule:&#xD;
+&#xD;
+      The patient will receive a phone call from the study coordinator after 7 days to check&#xD;
+      his/her clinical condition. He/she will be encouraged to continue to check his/her blood&#xD;
+      pressures routinely at home (2 times/week) and inform the attending physician if his/her&#xD;
+      blood pressures fall below 100 mm Hg systolic or remain higher than 180/90 mm Hg.3, 6, 12, 18&#xD;
+      and 24 month's post-procedure (within ±1 month), the study coordinators will perform/request&#xD;
+      the above-documented tests. The patient will also receive an echocardiogram to examine&#xD;
+      cardiac function at 12 and 24 months (±2 months). The insulin sensitivity index will be&#xD;
+      calculated from fasting glucose and insulin values as follows: homeostasis model&#xD;
+      assessment-insulin resistance (HOMA-IR) (FPG_FPI), where FPG and FPI are fasting plasma&#xD;
+      glucose and fasting plasma insulin, respectively.&#xD;
+&#xD;
+      End points:&#xD;
+&#xD;
+      The primary outcome of interest is the change in central blood pressure from baseline to 6&#xD;
+      months post-RDN. The secondary outcomes of interest include the change in central blood&#xD;
+      pressure from baseline to 3, 12, 18 and 24 months post-RDN as well as changes in 24-hour&#xD;
+      peripheral blood pressure, pulse wave velocity, cardiac parameters, renal biochemical&#xD;
+      parameters and fasting insulin and glucose levels and the change in the number of medications&#xD;
+      from baseline to 3, 6, 12, 18 and 24 months post-RDN.&#xD;
+&#xD;
+      Sample size considerations With a one-sided type 1-error rate of 5%, a sample of 50 subjects&#xD;
+      would provide 90% power to detect a 10/5 mm Hg change in systolic/diastolic central pressures&#xD;
+      from baseline with a standard deviation of 23/12, which would be clinically significant.&#xD;
+&#xD;
+      Statistical analyses Baseline data will be summarized descriptively. The primary outcome will&#xD;
+      be evaluated using a one-sided paired samples t-test for normally distributed data or&#xD;
+      Mann-Whitney U test for non-normally distributed data. Secondary outcomes will be examined&#xD;
+      using repeated measures or mixed model ANOVAs with correction for multiple comparisons&#xD;
+      (continuous outcomes) and Χ2 test(categorical outcomes) for normally distributed data and&#xD;
+      Friedman's test (continuous) or McNemar's test (categorical) for non-normally distributed&#xD;
+      data and two-sided alpha set to .05. Multiple linear regression may be used to account for&#xD;
+      potential covariates, such as age, BMI, gender, or comorbidities on changes in blood&#xD;
+      pressure, cardiac or renal parameters and insulin/glucose.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 2013</start_date>
+  <completion_date type="Actual">December 2015</completion_date>
+  <primary_completion_date type="Actual">December 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in Central Blood Pressure at 6-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 6 months after treatment</time_frame>
+    <description>measured using ATCOR machine: Augmentation index (%) Augmentation pressure (mm Hg) Central pulse pressure (mm Hg) Central systolic pressure (mm Hg) Central diastolic pressure (mm Hg) Pulse pressure amplification (mm Hg) Time to reflection (Tr) in ms Pulse Wave Velocity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in fasting glucose</measure>
+    <time_frame>Baseline, Post 3, 6, 12, 18, 24 months after renal denervation treatment</time_frame>
+    <description>fasting blood measures of glucose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Cardiac Parameters</measure>
+    <time_frame>Baseline, Post 12 and 24 months renal denervation treatment</time_frame>
+    <description>Using an echocardiogram, the following cardiac measures will be taken:&#xD;
+Left ventricle volume Left ventricle hypertrophy Left ventricle function Left atrial mass E-wave velocity E-prime velocity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in fasting insulin</measure>
+    <time_frame>Baseline, Post 3, 6, 12, 18, 24 months after renal denervation treatment.</time_frame>
+    <description>fasting blood measure of insulin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Peripheral Blood Pressure at 3 months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 3 months after treatment</time_frame>
+    <description>systolic and diastolic blood pressure (mm Hg) measured using BP-Tru machine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Peripheral Blood Pressure at 6 months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 6 months after treatment</time_frame>
+    <description>systolic and diastolic blood pressure (mm Hg) measured using BP-Tru machine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Peripheral Blood Pressure at 12-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 12 months after treatment</time_frame>
+    <description>systolic and diastolic blood pressure (mm Hg) measured using BP-Tru machine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Peripheral Blood Pressure at 18-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 18 months after treatment</time_frame>
+    <description>systolic and diastolic blood pressure (mm Hg) measured using BP-Tru machine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Peripheral Blood Pressure at 24-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 24 months after treatment</time_frame>
+    <description>systolic and diastolic blood pressure (mm Hg) measured using BP-Tru machine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Central Blood Pressure at 3-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 3 months after treatment</time_frame>
+    <description>measured using ATCOR machine: Augmentation index (%) Augmentation pressure (mm Hg) Central pulse pressure (mm Hg) Central systolic pressure (mm Hg) Central diastolic pressure (mm Hg) Pulse pressure amplification (mm Hg) Time to reflection (Tr) in ms Pulse Wave Velocity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Central Blood Pressure at 12-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 12 months after treatment</time_frame>
+    <description>measured using ATCOR machine: Augmentation index (%) Augmentation pressure (mm Hg) Central pulse pressure (mm Hg) Central systolic pressure (mm Hg) Central diastolic pressure (mm Hg) Pulse pressure amplification (mm Hg) Time to reflection (Tr) in ms Pulse Wave Velocity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Central Blood Pressure at 18-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 18 months after treatment</time_frame>
+    <description>measured using ATCOR machine: Augmentation index (%) Augmentation pressure (mm Hg) Central pulse pressure (mm Hg) Central systolic pressure (mm Hg) Central diastolic pressure (mm Hg) Pulse pressure amplification (mm Hg) Time to reflection (Tr) in ms Pulse Wave Velocity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Central Blood Pressure at 24-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 24 months after treatment</time_frame>
+    <description>measured using ATCOR machine: Augmentation index (%) Augmentation pressure (mm Hg) Central pulse pressure (mm Hg) Central systolic pressure (mm Hg) Central diastolic pressure (mm Hg) Pulse pressure amplification (mm Hg) Time to reflection (Tr) in ms Pulse Wave Velocity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in 24-Hour Ambulatory Blood Pressure at 3-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 3 months after treatment</time_frame>
+    <description>For 24-hour blood pressure, we will record the following:&#xD;
+12-hour daytime Systolic Pressure (mm Hg) 12-hour daytime Diastolic Pressure (mm Hg) 12-hour nighttime Systolic Pressure (mm Hg) 12-hour nighttime Diastolic Pressure (mm Hg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in 24-Hour Ambulatory Blood Pressure at 6-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 6 months after treatment</time_frame>
+    <description>For 24-hour blood pressure, we will record the following:&#xD;
+12-hour daytime Systolic Pressure (mm Hg) 12-hour daytime Diastolic Pressure (mm Hg) 12-hour nighttime Systolic Pressure (mm Hg) 12-hour nighttime Diastolic Pressure (mm Hg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in 24-Hour Ambulatory Blood Pressure at 12-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 12 months after treatment</time_frame>
+    <description>For 24-hour blood pressure, we will record the following:&#xD;
+12-hour daytime Systolic Pressure (mm Hg) 12-hour daytime Diastolic Pressure (mm Hg) 12-hour nighttime Systolic Pressure (mm Hg) 12-hour nighttime Diastolic Pressure (mm Hg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in 24-Hour Ambulatory Blood Pressure at 18-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 18 months after treatment</time_frame>
+    <description>For 24-hour blood pressure, we will record the following:&#xD;
+12-hour daytime Systolic Pressure (mm Hg) 12-hour daytime Diastolic Pressure (mm Hg) 12-hour nighttime Systolic Pressure (mm Hg) 12-hour nighttime Diastolic Pressure (mm Hg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in 24-Hour Ambulatory Blood Pressure at 24-months Post-Renal Denervation</measure>
+    <time_frame>Baseline to 24 months after treatment</time_frame>
+    <description>For 24-hour blood pressure, we will record the following:&#xD;
+12-hour daytime Systolic Pressure (mm Hg) 12-hour daytime Diastolic Pressure (mm Hg) 12-hour nighttime Systolic Pressure (mm Hg) 12-hour nighttime Diastolic Pressure (mm Hg)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">26</enrollment>
+  <condition>Chronic Kidney Disease</condition>
+  <arm_group>
+    <arm_group_label>Renal Denervation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with resistant hypertension and chronic kidney disease (GFR between 15 and 60) will receive Renal Denervation as a treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Renal Denervation</intervention_name>
+    <description>The Symplicity Renal Denervation System is indicated for the delivery of low-level radiofrequency energy through the wall of the renal artery to denervate the kidney and reduce blood pressure in adult patients with refractory hypertension. The Symplicity Generator delivers controlled relatively low power radiofrequency energy (approximately 8 watts for 2 minutes). The Symplicity System selectively denervates the kidney by delivering radiofrequency from the generator via the electrode of the catheter through the renal artery wall from the intra-luminal side to ablate the renal sympathetic efferent and afferent nerves and reduce overall sympathetic nervous system activity.</description>
+    <arm_group_label>Renal Denervation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Glomerular filtration rate: 60-15 mls/min as per the modified diet in renal disease&#xD;
+             formula (Stage 3 and 4 Chronic Kidney Disease)&#xD;
+&#xD;
+          -  Daytime systolic blood pressure on ambulatory monitor ≥ 135 mm Hg while taking 3 or&#xD;
+             more anti-hypertensives including a diuretic on maximal dose OR ambulatory monitor&#xD;
+             systolic blood pressure is &lt;135 but taking 4 or more anti-hypertensives&#xD;
+&#xD;
+          -  18 years and above&#xD;
+&#xD;
+          -  A minimum of 20 mm of length and 4 mm of diameter for renal arteries on CT renal&#xD;
+             angiogram or formal renal angiogram&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  not suitable for renal denervation based on the Indications for Use&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bhanu Prasad, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Saskatchewan Health Authority - Regina Area</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Regina Qu'Appelle Health Region</name>
+      <address>
+        <city>Regina</city>
+        <state>Saskatchewan</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>January 2020</verification_date>
+  <study_first_submitted>March 27, 2013</study_first_submitted>
+  <study_first_submitted_qc>April 11, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 16, 2013</study_first_posted>
+  <last_update_submitted>January 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

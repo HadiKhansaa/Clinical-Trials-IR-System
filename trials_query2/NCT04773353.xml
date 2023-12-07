@@ -1,0 +1,575 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04773353</url>
+  </required_header>
+  <id_info>
+    <org_study_id>000320</org_study_id>
+    <nct_id>NCT04773353</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of FE 999049 in Controlled Ovarian Stimulation in India Women</brief_title>
+  <acronym>IRIS</acronym>
+  <official_title>A Randomised, Controlled, Assessor-blind, Parallel Groups, Multicentre Trial in India Comparing the Efficacy and Safety of FE 999049 (Follitropin Delta) With Follitropin Alfa (GONAL-F) in Controlled Ovarian Stimulation in Women Undergoing an Assisted Reproductive Technology Programme</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ferring Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ferring Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To demonstrate non-inferiority of FE 999049 compared with GONAL-F with respect to ongoing&#xD;
+      pregnancy rate in women undergoing controlled ovarian stimulation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 15, 2021</start_date>
+  <completion_date type="Anticipated">August 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ongoing pregnancy rate</measure>
+    <time_frame>10-11 weeks after embryo transfer</time_frame>
+    <description>Ongoing pregnancy is defined as at least one intrauterine viable fetus 10-11 weeks after embryo transfer.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Positive beta human chorionic gonadotropin (βhCG) rate</measure>
+    <time_frame>13-15 days after embryo transfer</time_frame>
+    <description>Positive βhCG is defined as positive serum βhCG test 13-15 days after embryo transfer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical pregnancy rate</measure>
+    <time_frame>5-6 weeks after embryo transfer</time_frame>
+    <description>Clinical pregnancy is defined as at least one gestational sac 5-6 weeks after embryo transfer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vital pregnancy rate</measure>
+    <time_frame>5-6 weeks after embryo transfer</time_frame>
+    <description>Vital pregnancy is defined as at least one intrauterine gestational sac with fetal heart beat 5-6 weeks after embryo transfer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Implantation rate</measure>
+    <time_frame>5-6 weeks after embryo transfer</time_frame>
+    <description>Implantation rate is defined as the number of gestational sacs 5-6 weeks after transfer divided by number of embryos transferred.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ongoing implantation rate</measure>
+    <time_frame>10-11 weeks after embryo transfer</time_frame>
+    <description>Ongoing implantation rate is defined as the number of intrauterine viable fetuses 10-11 weeks after transfer divided by number of embryos transferred.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with extreme ovarian responses</measure>
+    <time_frame>On day of oocyte retrieval (up to 22 days after start of stimulation)</time_frame>
+    <description>Extreme ovarian response is defined as &lt;4, ≥15 or ≥20 oocytes retrieved.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with early ovarian hyperstimulation syndrome (OHSS) (including OHSS of moderate/severe grade) and/or preventive interventions for early OHSS</measure>
+    <time_frame>≤9 days after triggering of final follicular maturation</time_frame>
+    <description>The proportion of subjects with early OHSS, early OHSS of moderate or severe grade, preventive interventions for early OHSS will be presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with cycle cancellation due to poor or excessive ovarian response or embryo transfer cancellation due to excessive ovarian response / OHSS risk</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days) or transfer visit</time_frame>
+    <description>The proportion of subjects with cycle cancellation due to poor or excessive ovarian response or embryo transfer cancellation due to excessive ovarian response / OHSS risk will be presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of follicles on stimulation Day 6</measure>
+    <time_frame>On stimulation Day 6</time_frame>
+    <description>Counted by ultrasound for the right and left ovary.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of follicles at end-of-stimulation</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Counted by ultrasound for the right and left ovary.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Size of follicles on stimulation Day 6</measure>
+    <time_frame>On stimulation Day 6</time_frame>
+    <description>Measured by ultrasound for the right and left ovary.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Size of follicles at end-of-stimulation</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Measured by ultrasound for the right and left ovary.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of oocytes retrieved</measure>
+    <time_frame>On day of oocyte retrieval (up to 22 days after start of stimulation)</time_frame>
+    <description>The number of oocytes retrieved will be recorded at the oocyte retrieval visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with &lt;4, 4-7, 8-14, 15-19 and ≥20 oocytes retrieved</measure>
+    <time_frame>On day of oocyte retrieval (up to 22 days after start of stimulation)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of metaphase II oocytes (only applicable for those inseminated using intracytoplasmic sperm injection [ICSI])</measure>
+    <time_frame>On day of oocyte retrieval (up to 22 days after stimulation)</time_frame>
+    <description>The percentage of metaphase II oocytes to oocytes retrieved for subjects where all oocytes were inseminated using ICSI will be presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fertilisation rate</measure>
+    <time_frame>On Day 1 after oocyte retrieval (up to 23 days after start of stimulation)</time_frame>
+    <description>The fertilisation rate is defined as the number of fertilized oocytes with 2 pronuclei divided by the number of oocytes retrieved.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and quality of embryos on day 3 after oocyte retrieval</measure>
+    <time_frame>On Day 3 after oocyte retrieval (up to 25 days after start of stimulation)</time_frame>
+    <description>The total number of embryos and the number of good-quality embryos will be counted on Day 3. A good-quality embryo is defined as an embryo with ≥6 blastomeres and ≤20% fragmentation, without signs of multinucleation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating concentrations of follicle-stimulating hormone (FSH) and luteinizing hormone (LH)</measure>
+    <time_frame>On stimulation day 6</time_frame>
+    <description>Blood samples for analysis of circulating concentrations of FSH and LH will be drawn.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating concentrations of estradiol</measure>
+    <time_frame>On stimulation day 6</time_frame>
+    <description>Blood samples for analysis of circulating concentrations of estradiol will be drawn.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating concentrations of progesterone</measure>
+    <time_frame>On stimulation day 6</time_frame>
+    <description>Blood samples for analysis of circulating concentrations of progesterone will be drawn.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating concentrations of inhibin A and inhibin B</measure>
+    <time_frame>On stimulation day 6</time_frame>
+    <description>Blood samples for analysis of circulating concentrations of inhibin A and inhibin B will be drawn.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating concentrations of FSH and LH</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Blood samples for analysis of circulating concentrations of FSH and LH will be drawn.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating concentrations of estradiol</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Blood samples for analysis of circulating concentrations of estradiol will be drawn.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating concentrations of progesterone</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Blood samples for analysis of circulating concentrations of progesterone will be drawn.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating concentrations of inhibin A and inhibin B</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Blood samples for analysis of circulating concentrations of inhibin A and inhibin B will be drawn.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total gonadotropin dose</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>The total gonadotropin dose will be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of stimulation days</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with investigator-requested gonadotropin dose adjustments</measure>
+    <time_frame>From stimulation Day 6 to end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>The decreases and increases of the gonadotropin dose will be captured during the stimulation period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of events and intensity of adverse events</measure>
+    <time_frame>From signing of the informed consent up to end-of-trial (approximately 5.5 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical chemistry parameters: Albumin and Total protein</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical chemistry parameters including: Albumin and Total protein.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical chemistry parameters: Alanine transaminase, Alkaline phosphatase, Aspartate aminotransferase, Gamma-glutamyl transpeptidase</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical chemistry parameters including: Alanine transaminase, Alkaline phosphatase, Aspartate aminotransferase and Gamma-glutamyl transpeptidase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical chemistry parameters: Bicarbonate, Blood urea nitrogen, Calcium, Chloride, Cholesterol total, Glucose, Phosphorus, Potassium, Sodium, Uric acid</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical chemistry parameters including: Bicarbonate, Blood urea nitrogen, Calcium, Chloride, Cholesterol total, Glucose, Phosphorus, Potassium, Sodium and Uric acid.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical chemistry parameters: Bilirubin direct, Bilirubin, Creatinine</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical chemistry parameters including: Bilirubin direct, Bilirubin and Creatinine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical chemistry parameters: Lactate dehydrogenase</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical chemistry parameter including: Lactate dehydrogenase.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with markedly abnormal changes from baseline in clinical chemistry at end-of-stimulation</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Defined as number of participants with at least one markedly abnormal finding in clinical chemistry parameters (as assessed by investigator) will be reported. The clinical chemistry parameters include: albumin, alanine transaminase, alkaline phosphatase, aspartate aminotransferase, bicarbonate, bilirubin direct, bilirubin total, blood urea nitrogen, calcium, chloride, cholesterol total, creatinine, gamma-glutamyl transpeptidase, glucose, lactate dehydrogenase, phosphorus, potassium, sodium, total protein, uric acid.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with markedly abnormal changes from baseline in clinical chemistry at end-of-trial</measure>
+    <time_frame>At end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Defined as number of participants with at least one markedly abnormal finding in clinical chemistry parameters (as assessed by investigator) will be reported. The clinical chemistry parameters include: albumin, alanine transaminase, alkaline phosphatase, aspartate aminotransferase, bicarbonate, bilirubin direct, bilirubin total, blood urea nitrogen, calcium, chloride, cholesterol total, creatinine, gamma-glutamyl transpeptidase, glucose, lactate dehydrogenase, phosphorus, potassium, sodium, total protein, uric acid.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical haematology parameters: Red blood cells, Red blood cells morphology</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical haematology including: Red blood cells and Red blood cell morphology.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical haematology parameters: White blood cells, White blood cell morphology, Platelets</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical haematology including: White blood cells, White blood cell morphology and Platelets.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical haematology parameters: Haemoglobin</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical haematology parameter including: Haemoglobin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical haematology parameters: Haematocrit</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical haematology parameter including: Haematocrit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical haematology parameters: Mean Corpuscular Volume</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical haematology parameter including: Mean Corpuscular Volume.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical haematology parameters: Mean Corpuscular Haemoglobin</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical haematology parameter including: Mean Corpuscular Haemoglobin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in circulating levels of clinical haematology parameters: Mean Corpuscular Hemoglobin Concentration</measure>
+    <time_frame>From screening up to end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Blood samples will be collected for the analysis of clinical haematology parameter including: Mean Corpuscular Hemoglobin Concentration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with markedly abnormal changes from baseline in haematology parameters at end-of-stimulation</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Defined as number of participants with at least one markedly abnormal changes in haematology parameters (as assessed by investigator) will be reported. Haematology parameters include: red blood cells, red blood cell morphology, white blood cells, white blood cells morphology, haemoglobin, haematocrit, mean corpuscular volume, mean corpuscular haemoglobin, mean corpuscular haemoglobin concentration, platelets.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with markedly abnormal changes from baseline in haematology parameters end-of-trial</measure>
+    <time_frame>At end-of-trial (up to approximately 5.5 months)</time_frame>
+    <description>Defined as number of participants with at least one markedly abnormal changes in haematology parameters (as assessed by investigator) will be reported. Haematology parameters include: red blood cells, red blood cell morphology, white blood cells, white blood cells morphology, haemoglobin, haematocrit, mean corpuscular volume, mean corpuscular haemoglobin, mean corpuscular haemoglobin concentration, platelets.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of injection site reactions (redness, pain, itching, swelling and bruising)</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Assessed by the subject during the stimulation period. Subjects will self-assess injection site reactions (redness, pain, itching, swelling, and bruising) immediately, 30 minutes and 24 hours after each injection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensity of injection site reactions</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Assessed by the subject during the stimulation period as mild, moderate or severe. Subjects will be tabulated according to the highest severity of their reported injection site reactions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of immune-related adverse events</measure>
+    <time_frame>From signing of the informed consent up to end-of-trial (approximately 5.5 months)</time_frame>
+    <description>All adverse events reported in the trial will be analyzed to identify those that are potentially immune-related. They will be tabulated using the Standardised Medical Dictionary for Regulatory Activities [MedDRA] Queries (SMQs).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensity of immune-related adverse events</measure>
+    <time_frame>From signing of the informed consent up to end-of-trial (approximately 5.5 months)</time_frame>
+    <description>Will be categorised as mild, moderate or severe.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with cycle cancellations due to an adverse event, including immune-related adverse events, or due to technical malfunctions of the pre-filled injection pen</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>For each subject the reason for cycle cancellation will be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with late OHSS (including OHSS of moderate/severe grade)</measure>
+    <time_frame>&gt;9 days after triggering of final follicular maturation</time_frame>
+    <description>Late OHSS is defined as OHSS with onset &gt;9 days after triggering of final follicular maturation. The proportion of participants with late OHSS, and late OHSS of moderate or severe grade will be presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with OHSS (early and/or late) and/or preventive interventions for early OHSS</measure>
+    <time_frame>&gt;9 days after triggering of final follicular maturation</time_frame>
+    <description>The proportion of subjects with early and/or late OHSS and/or preventive interventions for early OHSS will be presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects with multi-fetal gestation, biochemical pregnancy, spontaneous abortion, ectopic pregnancy (with and without medical/surgical intervention) and vanishing twins</measure>
+    <time_frame>10-11 weeks after transfer</time_frame>
+    <description>The percentage of subjects with each of these events will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Technical malfunctions of the pre-filled injection pen</measure>
+    <time_frame>At end-of-stimulation (up to 20 stimulation days)</time_frame>
+    <description>Subjects will report any technical malfunctions of the pre-filled injection pen. Percentage of subjects with confirmed technical malfunctions will be presented.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>Infertility</condition>
+  <arm_group>
+    <arm_group_label>Follitropin Delta (FE 999049)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Recombinant follicle-stimulating hormone (rFSH). Follitropin delta for subcutaneous injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Follitropin Alfa (GONAL-F)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>rFSH. Follitropin alfa for subcutaneous injection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Follitropin Delta (FE 999049)</intervention_name>
+    <description>FE 999049 will be administered as single daily subcutaneous injections in the abdomen. Subjects randomized to FE 999049 will have their individual dose determined on the basis of their anti-Müllerian hormone (AMH) level at screening and their body weight at randomization. For subjects with low AMH (&lt;15 pmol/L) the daily FE 999049 dose will be 12 μg, irrespective of body weight. For subjects with high AMH (≥15 pmol/L) the daily FE 999049 dose will be on a continuous scale ranging from 0.19 to 0.10 μg/kg, i.e. dependent on actual AMH and body weight.The daily FE 999049 dose will be fixed throughout the stimulation period and maximum allowed daily dose will be 12 μg. Subjects could be treated for a maximum of 20 days.</description>
+    <arm_group_label>Follitropin Delta (FE 999049)</arm_group_label>
+    <other_name>REKOVELLE</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Follitropin Alfa (GONAL-F)</intervention_name>
+    <description>GONAL-F will be administered as single daily subcutaneous injections in the abdomen. The starting dose of GONAL-F will be 150 IU and fixed for the first five stimulation days, after which it could be adjusted by 75 IU based on the individual response. The maximum allowed daily dose will be 450 IU. Subjects could be treated for a maximum of 20 days.</description>
+    <arm_group_label>Follitropin Alfa (GONAL-F)</arm_group_label>
+    <other_name>GONAL-F</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Informed Consent Forms signed prior to screening evaluations.&#xD;
+&#xD;
+          -  In good physical and mental health as judged by the investigator.&#xD;
+&#xD;
+          -  Indian (i.e., possessing an Indian identification card and having native Indian&#xD;
+             parents) pre-menopausal females between the ages of 21 and 40 years. The subjects must&#xD;
+             be at least 21 years (including the 21st birthday) when they sign the informed consent&#xD;
+             and no more than 40 years (up to the day before the 41st birthday) at the time of&#xD;
+             randomization.&#xD;
+&#xD;
+          -  Infertile women diagnosed with tubal infertility, unexplained infertility,&#xD;
+             endometriosis stage I/II (defined by the revised American Society for Reproductive&#xD;
+             Medicine [ASRM] classification, 1996) or with partners diagnosed with male factor&#xD;
+             infertility, eligible for in vitro fertilization (IVF) and/or ICSI using fresh or&#xD;
+             frozen ejaculated sperm from male partner or sperm donor.&#xD;
+&#xD;
+          -  Infertility for at least one year before randomization for subjects &lt;35 years or for&#xD;
+             at least 6 months for subjects ≥35 years (not applicable in case of tubal or severe&#xD;
+             male factor infertility).&#xD;
+&#xD;
+          -  The trial cycle will be the subject's first controlled ovarian stimulation cycle for&#xD;
+             IVF/ICSI.&#xD;
+&#xD;
+          -  Regular menstrual cycles of 24-35 days (both inclusive), presumed to be ovulatory.&#xD;
+&#xD;
+          -  Hysterosalpingography, hysteroscopy, saline infusion sonography, or transvaginal&#xD;
+             ultrasound documenting a uterus consistent with expected normal function (e.g. no&#xD;
+             evidence of clinically interfering uterine fibroids defined as submucous or intramural&#xD;
+             fibroids larger than 3 cm in diameter, no polyps and no congenital structural&#xD;
+             abnormalities which are associated with a reduced chance of pregnancy) within 1 year&#xD;
+             prior to randomization.&#xD;
+&#xD;
+          -  Transvaginal ultrasound documenting presence and adequate visualization of both&#xD;
+             ovaries, without evidence of significant abnormality (e.g., enlarged ovaries which&#xD;
+             would contraindicate the use of gonadotropins) and normal adnexa (e.g., no&#xD;
+             hydrosalpinx) within 1 year prior to randomization. Both ovaries must be accessible&#xD;
+             for oocyte retrieval.&#xD;
+&#xD;
+          -  Early follicular phase (cycle day 2-4) serum levels of FSH between 1 and 15 IU/L&#xD;
+             (results obtained within 3 months prior to randomization).&#xD;
+&#xD;
+          -  Negative serum Hepatitis B Surface Antigen (HBsAg), Hepatitis C Virus (HCV) and Human&#xD;
+             Immunodeficiency Virus (HIV) antibody tests within 1 year prior to randomization.&#xD;
+&#xD;
+          -  Body mass index (BMI) between 17.5 and 32.0 kg/m^2 (both inclusive) at screening.&#xD;
+&#xD;
+          -  Willing to accept transfer of 1-2 embryos.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known endometriosis stage III-IV (defined by the revised ASRM classification, 1996).&#xD;
+&#xD;
+          -  One or more follicles ≥10 mm (including cysts) observed on the transvaginal ultrasound&#xD;
+             prior to randomization on stimulation day 1 (puncture of cysts is allowed prior to&#xD;
+             randomization).&#xD;
+&#xD;
+          -  Known history of recurrent miscarriage (defined as three consecutive losses after&#xD;
+             ultrasound confirmation of pregnancy [excluding ectopic pregnancy] and before Week 24&#xD;
+             of pregnancy).&#xD;
+&#xD;
+          -  Known abnormal karyotype of subject or of her partner/sperm donor, as applicable,&#xD;
+             depending on source of sperm used for insemination in this trial.&#xD;
+&#xD;
+          -  Any known clinically significant systemic disease (e.g., insulin-dependent diabetes).&#xD;
+&#xD;
+          -  Known inherited or acquired thrombophilia disease.&#xD;
+&#xD;
+          -  Active arterial or venous thromboembolism or severe thrombophlebitis, or a history of&#xD;
+             these events.&#xD;
+&#xD;
+          -  Known porphyria.&#xD;
+&#xD;
+          -  Any known endocrine or metabolic abnormalities (pituitary, adrenal, pancreas, liver or&#xD;
+             kidney) with the exception of controlled thyroid function disease.&#xD;
+&#xD;
+          -  Known presence of anti-FSH antibodies (based on the information available in the&#xD;
+             subject's medical records).&#xD;
+&#xD;
+          -  Known tumors of the ovary, breast, uterus, adrenal gland, pituitary or hypothalamus&#xD;
+             which would contraindicate the use of gonadotropins.&#xD;
+&#xD;
+          -  Known moderate or severe impairment of renal or hepatic function.&#xD;
+&#xD;
+          -  Any abnormal finding of clinical chemistry, haematology or vital signs at screening&#xD;
+             which is clinically significant as judged by the investigator.&#xD;
+&#xD;
+          -  Currently breast-feeding.&#xD;
+&#xD;
+          -  Undiagnosed vaginal bleeding.&#xD;
+&#xD;
+          -  Known abnormal cervical cytology of clinical significance observed within 3 years&#xD;
+             prior to randomization (unless the clinical significance has been resolved).&#xD;
+&#xD;
+          -  Findings at the gynecological examination at screening which preclude gonadotropin&#xD;
+             stimulation or are associated with a reduced chance of pregnancy, e.g., congenital&#xD;
+             uterine abnormalities or retained intrauterine device.&#xD;
+&#xD;
+          -  Pregnancy (negative urinary pregnancy tests must be documented at screening and prior&#xD;
+             to randomization) or contraindication to pregnancy.&#xD;
+&#xD;
+          -  Known current active pelvic inflammatory disease.&#xD;
+&#xD;
+          -  Use of fertility modifiers during the last menstrual cycle before randomization,&#xD;
+             including dehydroepiandrosterone (DHEA), metformin or cycle programming with oral&#xD;
+             contraceptives, progestogen or estrogen preparations.&#xD;
+&#xD;
+          -  Use of hormonal preparations (except for thyroid medication) during the last menstrual&#xD;
+             cycle before randomization.&#xD;
+&#xD;
+          -  Known history of chemotherapy (except for gestational conditions) or radiotherapy.&#xD;
+&#xD;
+          -  Current or past (1 year prior to randomization) abuse of alcohol or drugs.&#xD;
+&#xD;
+          -  Current (last month) intake of more than 14 units of alcohol per week.&#xD;
+&#xD;
+          -  Current or past (3 months prior to randomization) smoking habit of more than 10&#xD;
+             cigarettes per day.&#xD;
+&#xD;
+          -  Hypersensitivity to any active ingredient or excipients in the medicinal products used&#xD;
+             in the trial.&#xD;
+&#xD;
+          -  Previous participation in the trial.&#xD;
+&#xD;
+          -  Use of any non-registered investigational drugs during the last 3 months prior to&#xD;
+             randomization.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Global Clinical Compliance</last_name>
+    <role>Study Director</role>
+    <affiliation>Ferring Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Global Clinical Compliance</last_name>
+    <phone>+1 833-548-1402 (US/Canada)</phone>
+    <email>DK0-Disclosure@ferring.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Global Clinical Compliance</last_name>
+    <phone>+1 862-286-5200 (outside US)</phone>
+    <email>DK0-Disclosure@ferring.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ferring investigational site</name>
+      <address>
+        <city>Anand</city>
+        <state>Gujarat</state>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring investigational site</name>
+      <address>
+        <city>Nashik</city>
+        <state>Maharashtra</state>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring investigational site</name>
+      <address>
+        <city>Chennai</city>
+        <state>Tamil Nadu</state>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring investigational site</name>
+      <address>
+        <city>Secunderabad</city>
+        <state>Telangana</state>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ferring investigational site</name>
+      <address>
+        <city>Lucknow</city>
+        <state>Uttar Pradesh</state>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>India</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>April 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infertility</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Follicle Stimulating Hormone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

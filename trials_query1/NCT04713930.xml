@@ -1,0 +1,196 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04713930</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR108937</org_study_id>
+    <secondary_id>61393215EDI1005</secondary_id>
+    <nct_id>NCT04713930</nct_id>
+  </id_info>
+  <brief_title>A Study of JNJ-61393215 in Healthy Japanese Male Participants</brief_title>
+  <official_title>A Randomized, Placebo-controlled, Double-blind, Single Ascending Dose Study to Investigate Safety, Tolerability, and Pharmacokinetics of JNJ-61393215 in Healthy Japanese Adult Male Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Pharmaceutical K.K.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Pharmaceutical K.K.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety, tolerability, and pharmacokinetics (PK)&#xD;
+      after single dose administrations of JNJ-61393215 in Japanese healthy adult male&#xD;
+      participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 29, 2021</start_date>
+  <completion_date type="Anticipated">June 5, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 5, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Adverse Events (AEs) as a Measure of Safety and Tolerability</measure>
+    <time_frame>Up to 42 days</time_frame>
+    <description>An AE is any untoward medical occurrence in a participant participating in a clinical study that does not necessarily have a causal relationship with the pharmaceutical/biological agent under study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma Concentration of JNJ-61393215</measure>
+    <time_frame>Predose, up to 96 hours postdose (up to Day 5)</time_frame>
+    <description>Plasma samples will be analyzed to determine concentrations of JNJ-61393215 using a validated, specific, and sensitive liquid chromatography mass spectrometry/mass spectrometry (LC-MS/MS).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>JNJ-61393215</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive one of 3 single oral doses of JNJ-61393215 on Day 1, escalated sequentially based on the safety review in Cohorts 1, 2, and 3 up to Day 5.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive a single oral dose of placebo on Day 1 in Cohorts 1, 2, and 3 up to Day 5.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JNJ-61393215</intervention_name>
+    <description>JNJ-61393215 will be administered orally.</description>
+    <arm_group_label>JNJ-61393215</arm_group_label>
+    <other_name>Orexin-1</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo will be administered orally.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Body mass index (BMI = weight/height^2) between 18 and 30 kilogram per meter square&#xD;
+             (kg/m^2) (inclusive), and body weight not less than 50 kilogram (kg)&#xD;
+&#xD;
+          -  Be healthy on the basis of physical examination, medical history, vital signs, and 12&#xD;
+             lead electrocardiogram (ECG) (including QT interval corrected according to&#xD;
+             Fridericia's formula [QTcF] less than or equal to [&lt;=] 450 millisecond [msec])&#xD;
+             performed at screening. Minor abnormalities in ECG, which are not considered to be of&#xD;
+             clinical significance by the investigator, are acceptable&#xD;
+&#xD;
+          -  Healthy on the basis of clinical laboratory tests performed at screening. If the&#xD;
+             results of the serum chemistry panel, hematology, or urinalysis are outside the normal&#xD;
+             reference ranges, the participant may be included only if the investigator judges the&#xD;
+             abnormalities or deviations from normal to be not clinically significant or to be&#xD;
+             appropriate and reasonable for the population under study. This determination must be&#xD;
+             recorded in the participant's source documents and initialed by the investigator&#xD;
+&#xD;
+          -  Blood pressure (after the participant supine for at least 5 minutes) 90 millimeter of&#xD;
+             Mercury (mmHg) or more and less than 140 mmHg systolic, and less than 90 mmHg&#xD;
+             diastolic. If blood pressure is out of range, up to 2 repeated assessments are&#xD;
+             permitted&#xD;
+&#xD;
+          -  During the study and for a minimum of one spermatogenesis cycle (defined as&#xD;
+             approximately 90 days) after receiving (the last dose of) study intervention, in&#xD;
+             addition to the highly effective method of contraception, a man a) who is sexually&#xD;
+             active with a woman of childbearing potential must agree to use a barrier method of&#xD;
+             contraception (example, condom with spermicidal foam/gel/film/cream/suppository), b)&#xD;
+             who is sexually active with a woman who is pregnant must use a condom, c) must agree&#xD;
+             not to donate sperm. In addition, recommended highly effective methods of&#xD;
+             contraception in this study for female partners of male participants to use in&#xD;
+             addition to the male participant wearing a condom include: a) oral hormonal&#xD;
+             contraception, b) intrauterine device, c) intrauterine hormone-releasing system, and&#xD;
+             d) bilateral tubal occlusion&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of or current clinically significant medical illness including (but not&#xD;
+             limited to) cardiac arrhythmias or other cardiac disease, hematologic disease,&#xD;
+             coagulation disorders (including any abnormal bleeding or blood dyscrasias), lipid&#xD;
+             abnormalities, significant pulmonary disease, including bronchospastic respiratory&#xD;
+             disease, diabetes mellitus, hepatic or renal insufficiency, thyroid disease,&#xD;
+             neurologic or psychiatric disease, infection or any other illness that the&#xD;
+             investigator considers should exclude the participant or that could interfere with the&#xD;
+             interpretation of the study results&#xD;
+&#xD;
+          -  Clinically significant abnormal values for hematology, clinical chemistry, or&#xD;
+             urinalysis at screening as deemed appropriate by the investigator&#xD;
+&#xD;
+          -  Clinically significant abnormal physical examination, vital signs, or 12 lead ECG at&#xD;
+             screening as deemed appropriate by the investigator&#xD;
+&#xD;
+          -  Known allergies, hypersensitivity, or intolerance to JNJ-61393215 or its excipients&#xD;
+&#xD;
+          -  Test positive for human immunodeficiency virus (HIV) antigen/antibodies, hepatitis A&#xD;
+             antibody immunoglobulin M (IgM), syphilis, hepatitis B surface antigen (HbsAg) or&#xD;
+             hepatitis C virus (HCV) antibodies at screening&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Pharmaceutical K.K., Japan Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Pharmaceutical K.K.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Contact</last_name>
+    <phone>844-434-4210</phone>
+    <email>JNJ.CT@sylogent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Souseikai Hakata Clinic</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>812-0025</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <link>
+    <url>http://pam.sylogent.com/cr/CR108937</url>
+    <description>To learn how to participate in this trial please click here.</description>
+  </link>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2021</study_first_posted>
+  <last_update_submitted>February 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data sharing policy of the Janssen Pharmaceutical Companies of Johnson &amp; Johnson is available at www.janssen.com/clinicaltrials/ transparency. As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) Project site at yoda.yale.edu</ipd_description>
+    <ipd_url>https://www.janssen.com/clinical-trials/transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

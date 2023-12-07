@@ -1,0 +1,214 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04586816</url>
+  </required_header>
+  <id_info>
+    <org_study_id>005 (Sivamani)</org_study_id>
+    <nct_id>NCT04586816</nct_id>
+  </id_info>
+  <brief_title>Randomized, Double-Blind Evaluation of Maple Leaf Extract (Maplifa) for Photoaging</brief_title>
+  <official_title>Randomized, Double-Blind Evaluation of Maple Leaf Extract (Maplifa) for Photoaging</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Integrative Skin Science and Research</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Verdure Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Integrative Skin Science and Research</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recent research has reported that the maple leaf extract exhibits anti-aging effects by&#xD;
+      inhibiting elastase activity, thereby preventing the breakdown of elastin and interfering&#xD;
+      with the formation of wrinkles. Red maple leaf extract contains phenolic compounds known as&#xD;
+      glucitol-core-containing gallotannins (GCGs) which help reduce the appearance of wrinkles and&#xD;
+      may decrease skin inflammation, dark spots and pigmentation. The objective of this study is&#xD;
+      to examine the effects of topical Maplifa on the cosmetic appearance of facial lines, redness&#xD;
+      and skin tone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 10, 2019</start_date>
+  <completion_date type="Actual">January 15, 2020</completion_date>
+  <primary_completion_date type="Actual">January 15, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Healthy females ages 30-70 with Fitzpatrick skin type I-IV</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pigmentation on SkinColorCatch</measure>
+    <time_frame>At 4 weeks (end of study)</time_frame>
+    <description>Assessment of pigmentation based on melanin measurement on SkinColorCatch (arbitrary units set by technology)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical grading of Hyperpigmentation</measure>
+    <time_frame>At 4 weeks (end of study)</time_frame>
+    <description>Assessment of hyperpigmentation based on clinical grading (categories 0-5) by blinded evaluator</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Erythema on SkinColorCatch</measure>
+    <time_frame>At 4 weeks (end of study)</time_frame>
+    <description>Assessment of erythema based on SkinColorCatch (arbitrary units set by technology)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical grading of Erythema</measure>
+    <time_frame>At 4 weeks (end of study)</time_frame>
+    <description>Assessment of erythema based on clinical grading (categories 0-5) by blinded evaluator</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Centrofacial redness</measure>
+    <time_frame>At 4 weeks (end of study)</time_frame>
+    <description>Image-based analysis of redness [Skinmap level Degree of Intensity (%) on BTBP Clarity Research 3D System]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Appearance of wrinkles</measure>
+    <time_frame>At 4 weeks (end of study)</time_frame>
+    <description>Image-based analysis of wrinkles (Average severity - unitless on BTBP Clarity Research 3D System)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">19</enrollment>
+  <condition>Photoaging</condition>
+  <condition>Hyperpigmentation</condition>
+  <condition>Rhytides</condition>
+  <arm_group>
+    <arm_group_label>vehicle only-placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Vehicle cream base containing no maple leaf extract to be applied twice daily to the face</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>1% red maple leaf extract</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>lotion preparation with 1% red maple leaf extract to be applied twice daily to the face</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>5% red maple leaf extract</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>lotion preparation with 5% red maple leaf extract to be applied twice daily to the face</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>1% red maple leaf extract in cream base</intervention_name>
+    <description>1% red maple leaf extract is combined in a cream base</description>
+    <arm_group_label>1% red maple leaf extract</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>5% red maple leaf extract</intervention_name>
+    <description>5% red maple leaf extract is combined in a cream base</description>
+    <arm_group_label>5% red maple leaf extract</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>vehicle</intervention_name>
+    <description>vehicle cream base only</description>
+    <arm_group_label>vehicle only-placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Females aged 30-70&#xD;
+&#xD;
+          -  Individuals with Fitzpatrick skin type I-IV&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who have been on any medication that has caused a change in skin&#xD;
+             pigmentation based on the opinion of the investigator&#xD;
+&#xD;
+          -  Individuals who have history of acute or chronic disease that would likely interfere&#xD;
+             with or increase the risk on study participation at the discretion of the investigator&#xD;
+&#xD;
+          -  Individuals who have participated in any other clinical studies using the same test&#xD;
+             sites (face) and hand in the past 14 days&#xD;
+&#xD;
+          -  Individuals who are pregnant, breast feeding or planning a pregnancy within one month.&#xD;
+             (There is no concern for risk to fetus but pregnancy can alter skin pigmentation).&#xD;
+&#xD;
+          -  Female volunteers who have started a new hormonal birth control agent or had a change&#xD;
+             in their hormonal birth control agent within the past 60 days&#xD;
+&#xD;
+          -  Individuals who have had any medical or cosmetic procedure, such as laser resurfacing,&#xD;
+             or plastic surgery to the test site (face) within the last 6 months. This includes&#xD;
+             botulinum toxin, dermal fillers, collagen or other similar cosmetic procedure&#xD;
+&#xD;
+          -  Individuals who are currently using or during the past 30 days have used a retinoid&#xD;
+             such as Retin A, or other Rx/OTC Retinyl A or currently using or during the past 14&#xD;
+             days have used hydroquinone (skin lightening)&#xD;
+&#xD;
+          -  Individuals with a known history of hypersensitivity to any ingredients to the&#xD;
+             cosmetic agent that is being assessed&#xD;
+&#xD;
+          -  Individuals who have history of a psychological illness or condition that would&#xD;
+             interfere with their ability to understand and follow the requirements of the study at&#xD;
+             the discretion of the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Raja K Sivamani, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Integrative Skin Science and Research</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Integrative Skin Science and Research</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95815</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>May 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2020</study_first_posted>
+  <last_update_submitted>October 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>maple leaf extract</keyword>
+  <keyword>skincare</keyword>
+  <keyword>photoaging</keyword>
+  <keyword>hyperpigmentation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Skin Diseases</mesh_term>
+    <mesh_term>Hyperpigmentation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

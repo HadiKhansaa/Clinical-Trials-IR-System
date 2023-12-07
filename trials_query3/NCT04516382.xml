@@ -1,0 +1,221 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516382</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PTG-300-07</org_study_id>
+    <nct_id>NCT04516382</nct_id>
+  </id_info>
+  <brief_title>Pharmacokinetics and Pharmacodynamics of Different PTG-300 Regimens in Healthy Volunteers</brief_title>
+  <official_title>An Open-label Crossover Study Evaluating the Pharmacokinetics and Pharmacodynamics of Different PTG-300 Regimens in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Protagonist Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Protagonist Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To estimate the bioavailability of PTG-300 following subcutaneous and intramuscular&#xD;
+      administration in healthy volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single center, open-label study in healthy males. Subjects will be screened for&#xD;
+      eligibility within 28 days of dosing.&#xD;
+&#xD;
+      Twelve subjects will receive single doses of the following treatments in a fixed sequence:&#xD;
+&#xD;
+      Treatment A: Intravenous injection of 1.5 mg PTG-300. Treatment B: 40 mg (40 mg/mL) PTG-300&#xD;
+      administered subcutaneously. Treatment C: 40 mg (200 mg/mL) PTG-300 administered&#xD;
+      subcutaneously. Treatment D: 40 mg (40 mg/mL) PTG-300 administered intramuscularly.&#xD;
+&#xD;
+      There will be a washout period of at least 7 days between Treatment A and Treatment B and at&#xD;
+      least 12 days between Treatments B, C, and D.&#xD;
+&#xD;
+      Subjects' safety will be monitored, and blood samples will be collected for pharmacokinetics&#xD;
+      and pharmacodynamics (serum iron, serum ferritin, serum transferrin, and transferrin&#xD;
+      saturation [TSAT]).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 14, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 12, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Single group of subjects will sequentially receive PTG-300 as IV, subcutaneous, and intramuscular administration</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Bioavailability of PTG-300</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Bioavailability (area under the plasma-concentration time) of PTG-300 following subcutaneous and intramuscular administration in healthy volunteers</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serum Iron Pharmacodynamics of PTG-300</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Change from baseline in serum iron following subcutaneous and intramuscular administration in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TSAT Pharmacodynamics of PTG-300</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Change from baseline in transferrin saturation (TSAT) following subcutaneous and intramuscular administration in healthy volunteers</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">12</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Intravenous</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PTG-300 Intravenous</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Subcutaneous Low Concentration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PTG-300 Subcutaneous Low Concentration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Subcutaneous High Concentration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PTG-300 Subcutaneous High Concentration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intramuscular</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PTG-300 Intramuscular</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PTG-300</intervention_name>
+    <description>Active drug</description>
+    <arm_group_label>Intramuscular</arm_group_label>
+    <arm_group_label>Intravenous</arm_group_label>
+    <arm_group_label>Subcutaneous High Concentration</arm_group_label>
+    <arm_group_label>Subcutaneous Low Concentration</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy male volunteers, age 18 to 65 years, inclusive.&#xD;
+&#xD;
+          2. Subjects must have a Body Mass Index (BMI) between 18 and 32 kg/m2 inclusive.&#xD;
+&#xD;
+          3. Subjects must have clinical laboratory values within normal range as specified by the&#xD;
+             testing laboratory, unless deemed not clinically significant by the Investigator.&#xD;
+&#xD;
+          4. Agree to use a barrier method of contraception from Day -2 to 90 days after the last&#xD;
+             dose of study drug.&#xD;
+&#xD;
+          5. Subjects must have the ability and willingness to attend the necessary visits to the&#xD;
+             study center.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of clinically significant endocrine, neurological, gastrointestinal,&#xD;
+             cardiovascular, haematological, hepatic, immunological, renal, respiratory, or&#xD;
+             genitourinary abnormalities or diseases.&#xD;
+&#xD;
+          2. History of malignancy, with the exception of adequately treated non-melanomatous skin&#xD;
+             carcinoma.&#xD;
+&#xD;
+          3. Mentally or legally incapacitated, has significant emotional problems at the time of&#xD;
+             Screening Visit or expected during the conduct of the study, or has a history of a&#xD;
+             clinically significant psychiatric disorder that would impact the subjects ability to&#xD;
+             participate in the trial according to the Investigator.&#xD;
+&#xD;
+          4. Fever (body temperature &gt;38°C) or symptomatic viral or bacterial infection within 2&#xD;
+             weeks prior to screening; evidence of intestinal infection within 30 days prior to&#xD;
+             screening.&#xD;
+&#xD;
+          5. History of severe allergic or anaphylactic reactions.&#xD;
+&#xD;
+          6. A supine blood pressure outside the range of 90 to 139 mm Hg systolic and 50 to 89 mm&#xD;
+             Hg diastolic, OR heart rate (HR) &gt;100 beats per minute at Screening and at Day -1.&#xD;
+&#xD;
+          7. Laboratory values that are outside the normal range and considered clinically&#xD;
+             significant by the Investigator.&#xD;
+&#xD;
+          8. Positive test for hepatitis C antibody, hepatitis B surface antigen or human&#xD;
+             immunodeficiency virus (HIV) antibody at Screening.&#xD;
+&#xD;
+          9. Subjects considered at high risk of iron deficiency according to the Investigator.&#xD;
+&#xD;
+         10. Subjects with iron deficiency as defined by a ferritin or transferrin saturation below&#xD;
+             the normal range&#xD;
+&#xD;
+         11. Clinically significant abnormality on ECG performed at the Screening Visit or prior to&#xD;
+             administration of the initial dose of study drug.&#xD;
+&#xD;
+         12. Corrected QT (QTcF) greater than 450 msec at Screening.&#xD;
+&#xD;
+         13. Subjects with a positive toxicology screening panel.&#xD;
+&#xD;
+         14. Subjects with a history of substance abuse or dependency or history of recreational IV&#xD;
+             drug use (by self-declaration).&#xD;
+&#xD;
+         15. Consumption of &gt;14 alcohol units per week (where 1 unit = 284 mL of beer, 25 mL of 40%&#xD;
+             spirit, or a 125 mL glass of wine).&#xD;
+&#xD;
+         16. Unable to refrain from or anticipates the use of any medications, including&#xD;
+             prescription and non-prescription drugs and herbal remedies (such as St. John's Wort&#xD;
+             [Hypericum perforatum]), beginning 14 days (or 5 half lives, whichever is longer)&#xD;
+             before administration of the initial dose of study drug and continuing throughout the&#xD;
+             study until the final study visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>male</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Protagonist Therapeutics, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Protagonist Clinical Center</name>
+      <address>
+        <city>Melbourne</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>August 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>December 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

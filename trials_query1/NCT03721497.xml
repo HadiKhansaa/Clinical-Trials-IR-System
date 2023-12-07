@@ -1,0 +1,583 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03721497</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018-002365-19</org_study_id>
+    <nct_id>NCT03721497</nct_id>
+  </id_info>
+  <brief_title>Testosterone in Bariatric Patients</brief_title>
+  <official_title>Muscle Strength and -Mass After Bariatric Surgery - a Possible Effect of Testosterone Replacement Therapy? Randomized, Placebo-controlled and Double-blinded Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital of South West Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital of South West Denmark</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Bariatric surgery is an effective method in the treatment of severe obesity and type 2&#xD;
+      diabetes mellitus achieving high remission rates. However, weight loss also causes loss of&#xD;
+      skeletal muscle and bone mass which at least partly could be prevented by exercise and&#xD;
+      dietary intervention although the counselling of obese and sedentary individuals in order to&#xD;
+      increase their physical activity presents a challenge. As up to 78.8% of men undergoing&#xD;
+      bariatric surgery have low levels of testosterone, testosterone therapy could be considered&#xD;
+      an attractive alternative or supplement to prevent the immense loss of muscle mass during&#xD;
+      weight loss. Furthermore, low testosterone levels are associated with sarcopenia, insulin&#xD;
+      resistance, increased body fat, reduced quality of life, loss of libido and reduced sexual&#xD;
+      function. The study is a long-term randomized, placebo-controlled trial investigating the&#xD;
+      effects of testosterone therapy combined with exercise and diet counselling on body&#xD;
+      composition, components of the metabolic syndrome, hormones, inflammation, sexual function&#xD;
+      and quality of life before and after weight loss in obese, hypogonadal men undergoing&#xD;
+      bariatric surgery.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction Obesity, poor physical fitness and low muscular strength are associated with&#xD;
+      all-cause mortality. Loss of bodyweight is commonly achieved by diet with or without exercise&#xD;
+      intervention. However, both diet and diet+exercise programs are often followed by weight&#xD;
+      regain and it is generally difficult to achieve long-term weight loss.&#xD;
+&#xD;
+      There are many challenges associated with the counselling of obese and sedentary individuals&#xD;
+      in order to increase their physical activity (PA), and there may be a need for a tight&#xD;
+      schematic counselling to achieve positive results. Additionally, promoting PA among patients&#xD;
+      that have undergone bariatric surgery has also shown to be challenging even though PA may be&#xD;
+      of a great importance regarding several postoperative outcomes. Lifestyle changes following&#xD;
+      bariatric surgery may be important for the overall effect of the BS in the long term.&#xD;
+      Therefore, it is vital to find an appropriate and well-suited setting to improve PA among&#xD;
+      these patients. When structuring PA counselling, the five A´s (Assess, Advise, Agree, Assist,&#xD;
+      Arrange) might be a helpful tool and it is considered important to engage the patients in PA&#xD;
+      counselling both before and after the surgery.&#xD;
+&#xD;
+      Loss of bodyweight reduces morbidity and mortality. Bariatric surgery is the most effective&#xD;
+      method to treat severe obesity and type 2 diabetes mellitus achieving high remission rates.&#xD;
+      However, weight loss also decreases skeletal muscle mass which might counterbalance the&#xD;
+      positive effects of a bariatric surgery since low lean body mass is linked to increased&#xD;
+      mortality under various circumstances (i.e., heart disease, cancer, burn injuries).&#xD;
+      Furthermore, a substantial loss of bone mass is seen after bariatric surgery despite weight&#xD;
+      stability in the second-year post-operative, which could have important clinical implications&#xD;
+      for long-term skeletal health with increased fracture risk. On the other hand, the loss of&#xD;
+      muscle and bone mass could merely be a natural adaptation to a lower weight after bariatric&#xD;
+      surgery. Studies trying to establish whether the loss of muscle mass is disproportionately in&#xD;
+      patients following bariatric surgery compared to BMI-matched controls are conflicting,&#xD;
+      showing lower muscle mass in both sexes after surgery compared with their respective matched&#xD;
+      controls assessed by magnetic resonance imaging in one study whereas another study has shown&#xD;
+      comparable fat-free mass 24 months post-operative assessed by bioelectric impedance.&#xD;
+      Currently, there are no effective approaches to prevent the immense loss of muscle and bone&#xD;
+      mass following bariatric surgery although several approaches can be considered, e.g. exercise&#xD;
+      and dietary intervention.&#xD;
+&#xD;
+      Low testosterone levels have been associated with sarcopenia, insulin resistance, increased&#xD;
+      body fat, reduced quality of life and loss of libido and sexual function. Testosterone&#xD;
+      therapy increases lean body mass (i.e. muscle mass), improves bone density and decreases fat&#xD;
+      mass. As up to 78.8% of patients undergoing bariatric surgery suffer from low testosterone&#xD;
+      levels, testosterone therapy prior to and after bariatric surgery may prevent or reduce the&#xD;
+      considerable loss of muscle mass during the weight loss period. So far, no studies have&#xD;
+      evaluated the effect of testosterone therapy combined with exercise and diet counselling on&#xD;
+      body composition and quality of life in men undergoing bariatric surgery.&#xD;
+&#xD;
+      Testosterone therapy and cardiovascular risk Studies on cardiovascular risk during&#xD;
+      testosterone therapy are conflicting. A study in old men with limitations in mobility showed&#xD;
+      significantly more cardiovascular events during testosterone therapy compared to placebo and&#xD;
+      the study was ended prematurely. Low HDL levels are linked to an increased morbidity and&#xD;
+      mortality of cardiovascular disease. A significant small decrease in HDL cholesterol levels&#xD;
+      in men treated with testosterone was reported in a meta-analysis and a systematic review.&#xD;
+      However, a large observational study on pooled data in obese, hypogonadal diabetic men during&#xD;
+      six years of testosterone therapy reported a favorable change in lipid profile along with&#xD;
+      reduced pulse pressure and reduced arterial stiffness, which are independent risk factors for&#xD;
+      cardiovascular disease. Another approach in clarifying the effect of testosterone therapy on&#xD;
+      cardiovascular disease risk is the evaluation of biomarkers for cardiovascular disease during&#xD;
+      therapy, i.e. soluble Klotho, a protein, which may function as a hormone. Higher levels of&#xD;
+      soluble Klotho are independently associated with a lower likelihood of having cardiovascular&#xD;
+      disease. To date, no reports on Klotho have been published in obese patients undergoing&#xD;
+      bariatric surgery during testosterone therapy.&#xD;
+&#xD;
+      Few studies have addressed the influence of testosterone therapy on the haemostatic system.&#xD;
+      Thrombin generation (TG) measures are risk markers of cardiovascular disease and address the&#xD;
+      composite of multiple factors that influence blood coagulation. One intervention study showed&#xD;
+      that i.m. testosterone treatment for one year in elderly men with low testosterone levels had&#xD;
+      no impact on thrombin generation measured at one year. A significant number of patients&#xD;
+      sustaining venous thrombotic events after initiation of testosterone therapy often had&#xD;
+      inherited cardiovascular risk factors such as Factor V Leiden, and thrombotic events were&#xD;
+      primarily observed within the first months of testosterone treatment, suggesting that&#xD;
+      testosterone therapy triggers cardiovascular events in thrombosis prone individuals. Thus,&#xD;
+      studies on both the short term and the long term impact of testosterone treatment on the&#xD;
+      haemostatic system are warranted.&#xD;
+&#xD;
+      Pseudo-Cushing's syndrome Central obesity results in a cluster of metabolic abnormalities&#xD;
+      contributing to premature death, so-called Pseudo-Cushing's syndrome. Glucocorticoids&#xD;
+      regulate adipose-tissue differentiation, function and distribution, and in excess, cause&#xD;
+      central obesity. To our knowledge, no studies have reported results on levels of cortisol and&#xD;
+      testosterone before and after bariatric surgery.&#xD;
+&#xD;
+      3. Trial plan and design General aim To investigate the effect and clinical relevance of&#xD;
+      testosterone therapy combined with exercise and diet counselling in hypogonadal men&#xD;
+      undergoing bariatric surgery.&#xD;
+&#xD;
+      Objectives To evaluate the effect of testosterone therapy combined with exercise and diet&#xD;
+      counselling on muscle strength, body composition, hormones, components of the metabolic&#xD;
+      syndrome, inflammation, sexual function, and quality of life after weight loss in obese,&#xD;
+      hypogonadal men undergoing bariatric surgery.&#xD;
+&#xD;
+      Perspective The study will investigate whether testosterone therapy can stabilize muscle&#xD;
+      function, prevent the substantial decrease in muscle mass (lean body mass), and improve&#xD;
+      components of the metabolic syndrome, inflammation and quality of life in patients after&#xD;
+      bariatric surgery.&#xD;
+&#xD;
+      Study design A two centre, randomized, double-blind, placebo-controlled study on testosterone&#xD;
+      therapy combined with lifestyle intervention, in men eligible for bariatric surgery with low&#xD;
+      testosterone levels. Routine bariatric procedure will be conducted between 3 and 6 months&#xD;
+      after inclusion. The end of the study is 52 weeks postoperatively.&#xD;
+&#xD;
+      Method A randomized, double-blind, placebo-controlled intervention study in men eligible for&#xD;
+      bariatric surgery and low testosterone levels (total testosterone &lt; 12.0 nmol/l). Routine&#xD;
+      bariatric procedure will be conducted between 3 and 6 months after inclusion.&#xD;
+&#xD;
+      4. Study population Recruitment Patients will be recruited among bariatric patients at&#xD;
+      Hospital of Southwest Jutland and at Odense University Hospital. As part of a review of&#xD;
+      existing clinical practice in the Region of Southern Denmark, patients who are entitled to&#xD;
+      bariatric surgery are currently subject to an audit with the establishment of a quality and&#xD;
+      research database. As part of the audit, patients have had their testosterone levels in the&#xD;
+      blood measured. The investigators of the study may obtain these results from the journal, if&#xD;
+      there is a signed consent statement during the audit, where the patients also have agreed to&#xD;
+      be contacted for future projects. Inclusion will be in the beginning of the mandatory 8%&#xD;
+      weight loss period lasting 3-6 months.&#xD;
+&#xD;
+      Randomization After the baseline assessment, the patients will be randomly assigned to either&#xD;
+      testosterone or placebo. The randomization sequence will be created using OPEN Randomise,&#xD;
+      stratifying patients with a 1:1 allocation using random block sizes of 2, 4 and 6. The&#xD;
+      allocation sequence will be concealed from the researcher enrolling and OPEN Randomise will&#xD;
+      send an e-mail to an email address each time a randomization is performed.&#xD;
+&#xD;
+      5. Treatment of patients Treatment regimen&#xD;
+&#xD;
+        -  Inj. Testosterone undecanoat (Nebido®), 1000 mg im or placebo preoperative (baseline,&#xD;
+           weeks 6, 18 and 30 depending on time to surgery) and postoperative (weeks 4, 16, 28, 40)&#xD;
+           (Table 1).&#xD;
+&#xD;
+        -  Administration: deep and slow (over two minutes) intragluteal injection&#xD;
+&#xD;
+        -  Due to the risk of anaphylaxis, patients are observed at least 30 minutes on the test&#xD;
+           site after the first two injections&#xD;
+&#xD;
+      Non-pharmacological intervention&#xD;
+&#xD;
+        -  Routine bariatric procedure (Roux en Y gastric bypass or sleeve gastrectomy). Surgery&#xD;
+           will be conducted between 3 and 6 months after inclusion.&#xD;
+&#xD;
+        -  Lifestyle intervention program: Routine instructions on diet and dietary precautions&#xD;
+           after surgery and individual exercise counseling three times after surgery.&#xD;
+&#xD;
+      Contraindications Testosteron undecanoate (ATC-code G03BA03)&#xD;
+&#xD;
+        -  previously diagnosed with prostate, mammae or liver cancer. Any other cancer within the&#xD;
+           last 5 years.&#xD;
+&#xD;
+        -  hypersensitivity to the active substance or to any of the excipients Caution in&#xD;
+&#xD;
+        -  cardiac insufficiency, especially known ischemic heart disease and hypertension&#xD;
+&#xD;
+        -  hepatic or renal insufficiency&#xD;
+&#xD;
+        -  clotting disorders / anti-coagulant treatment&#xD;
+&#xD;
+        -  known epilepsy and migraine&#xD;
+&#xD;
+        -  pre-existing sleep apnoea&#xD;
+&#xD;
+      Study medicine is administered at the departments of endocrinology at SVS. Study medicine is&#xD;
+      handled according to annex 13.&#xD;
+&#xD;
+      Patients are treated with Testosterone Undecanoate 1000 mg/4 ml, intramuscular (i.m.) or&#xD;
+      placebo.&#xD;
+&#xD;
+      Study medicine and placebo have been produced by Bayer Health Care. Packing, blinding,&#xD;
+      labeling and randomization of study medicine are done by the pharmacy of Odense University&#xD;
+      Hospital according to annex 13: Name of sponsor, route of administration, batch number, trial&#xD;
+      reference code, user manual for study medicine, storage of study medicine expiration date (a&#xD;
+      copy of the label is placed in the trial master file).&#xD;
+&#xD;
+      The medicine (active and placebo) is delivered to the pharmacy from Bayer with no labels.&#xD;
+      Identical labels will be put on the ampules, with the exception of the randomization number.&#xD;
+&#xD;
+      Study medicine can be used only in clinical trials. Sponsor is responsible for the&#xD;
+      destruction of surplus medicine.&#xD;
+&#xD;
+      Discontinuation of study treatment&#xD;
+&#xD;
+      Treatments stop:&#xD;
+&#xD;
+        -  Confirmed increase in serum PSA &gt; 3 ug/l and clinical symptoms and at least 20% increase&#xD;
+           since baseline is followed by referral to urological evaluation&#xD;
+&#xD;
+        -  Suspicion of prostate cancer&#xD;
+&#xD;
+        -  Hematocrit (EVF) &gt; 0.52 and at least 20% increase since baseline&#xD;
+&#xD;
+        -  Serum ALAT &gt;3 times upper normal limit and at least 20% increase since baseline&#xD;
+&#xD;
+        -  Patients can leave the study prior to end of study, due to safety issues (increased&#xD;
+           safety parameters), fulfillment of exclusion criterion, at own request or due to lack of&#xD;
+           compliance including failure to achieve 8% weight loss prior to operation.&#xD;
+&#xD;
+      Safety evaluation&#xD;
+&#xD;
+      Monitoring:&#xD;
+&#xD;
+        -  Physical examination (baseline, per/postoperative weeks 0, 28 and 52) (Table 1)&#xD;
+&#xD;
+        -  Biochemical examinations: 1. testosterone levels (baseline) 2. PSA, EVF, ALAT (baseline,&#xD;
+           preoperative weeks 6 and 18, postoperative weeks 0, 16, 28 and 52)&#xD;
+&#xD;
+        -  Clinical relevant abnormal measurements are repeated&#xD;
+&#xD;
+      Safety parameters:&#xD;
+&#xD;
+        -  Measurements of hematocrit: testosterone therapy increases the hematocrit level and high&#xD;
+           levels of hematocrit leads to higher risks of venous thrombosis (Danish Urological&#xD;
+           Society (DUS) 2013).&#xD;
+&#xD;
+        -  In order to take into account the Danish Urology Cancer Group (DUCG) 2013 report on&#xD;
+           prostate cancer, and the Danish Urological Society report on androgen substitution&#xD;
+           (2013) the exclusion criterion for PSA in the study is based on the above level.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 17, 2020</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, placebo-controlled and double-blinded study</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Maximal isometric muscle strength (N) in shoulder muscles</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>shoulder elevation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Lean body mass (kg)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>assessed using Dual x-ray absorptiometry (DEXA) on Hologic Discovery devices (Waltham, MA, US)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Total bone mass and density (BMC and BMD)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Assessed using Dual x-ray absorptiometry (DEXA) on Hologic Discovery devices (Waltham, MA, US)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Total fat mass (kg)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Assessed using Dual x-ray absorptiometry (DEXA) on Hologic Discovery devices (Waltham, MA, US)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in BMI (regional body composition)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>weight/height² (kg/m²)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Waist/hip-ratio (regional body composition)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Waist: will be measured in the middle of the distance between the 12th rib and antero-superior iliac spine, while keeping the measuring tape parallel with the floor. Hip: will be measured across the widest part of the hips while keeping the tape parallel to the floor. Hip: will be measured across the widest part of the hips while keeping the tape parallel to the floor. Waist/hip ratio will be computed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Maximal isometric muscle strength in lower extremities (N) (strength)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>hip extension and abduction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Maximal isometric muscle strength in upper extremities (N) (strength)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>shoulder abduction, shoulder adduction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in VO2-max</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Maximal oxygen uptake will be estimated from the relation between sub-maximal workload and stable heart rate obtained in Åstrand one-point sub-max test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in stair climb test</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>The outcome is the number of times the subjects are able to reach the stairs up and down for a period of one minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in HOMA-R</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>HOMA1-IR = (fasting plasma insulin (mU/l)xfasting plasma glucose(mmol/l))/22.5</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in HbA1c (mmol/mol)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Evaluation of glucose metabolism</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Fasting-P-Blood glucose (mmol/l)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Evaluation of glucose metabolism</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Coagulation/fibrinolysis status</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>thrombin generation measures</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Leptin (µg/L)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Adiponectin (mg/L)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in hsCRP</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IL-6</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in suPAR</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in lipid profile: HDL, LDL, triglycerides in mmol/l</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cortisol and cortisol metabolites</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>urine sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cortisol</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in growth hormone-axis (IGF-I and IGF-II, IGFBPs, bioactive IGF-I)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in soluble Klotho</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fibulin-1</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 1CTP</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CTX</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in PTH</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 25OH-vitaminD</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 1.25(OH)2-Vitamin-D</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in osteocalcin</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in PINP</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in International Index of Erectile Function (IIEF-5)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Questionnaire on sexuality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Major Depression Inventory (MDI)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Questionnaire on depression and mental well-being</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Short Form 36 (SF-36)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Questionnaire on quality of life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in World Health Organization Well Being Index (WHO-5)</measure>
+    <time_frame>At baseline preoperatively and at weeks 0, 28 and 52 per/postoperatively</time_frame>
+    <description>Questionnaire on quality of life</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Bariatric Surgery Candidate</condition>
+  <condition>Male Hypogonadism</condition>
+  <condition>Muscle Loss</condition>
+  <arm_group>
+    <arm_group_label>Testosterone Undecanoate</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Inj. Testosterone undecanoat (Nebido®), 1000 mg im preoperative (baseline, weeks 6, 18 and 30 depending on time to surgery) and postoperative (weeks 4, 16, 28, 40)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Inj. placebo preoperative (baseline, weeks 6, 18 and 30 depending on time to surgery) and postoperative (weeks 4, 16, 28, 40)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Testosterone Undecanoate</intervention_name>
+    <description>The patients will be randomly assigned to either testosterone or placebo.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Testosterone Undecanoate</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Eligible for bariatric surgery according to the Danish national criteria (i.e. aged&#xD;
+             18-60 years, BMI &gt;35 kg/m2 with specific secondary disease or BMI &gt;40 kg/m2 with&#xD;
+             significant health issues assessed by the multidisciplinary bariatric team) [42]&#xD;
+&#xD;
+          -  Caucasian men&#xD;
+&#xD;
+          -  Total testosterone &lt; 12.0 nmol/l&#xD;
+&#xD;
+          -  No contraindications for testosterone treatment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previously diagnosed with prostate, mammae or liver cancer. Any other cancer within&#xD;
+             the last 5 years.&#xD;
+&#xD;
+          -  Hypersensitivity to the active substance or to any of the excipients in Nebido®&#xD;
+&#xD;
+          -  Symptomatic heart disease NYHA &gt;2&#xD;
+&#xD;
+          -  Recently thromboembolic disease &lt;3 months&#xD;
+&#xD;
+          -  PSA &gt;4.0 ug/l or PSA&gt;3.0 ug/l and lower urinary tract symptoms&#xD;
+&#xD;
+          -  Disability that severely affect the ability to perform exercise training&#xD;
+&#xD;
+          -  EVF &gt; 52%&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Line V Magnussen, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital of South West Denmark</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Line V Magnussen, MD, PhD</last_name>
+    <phone>0045-79185085</phone>
+    <email>line.velling.magnussen@rsyd.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jeppe F Gram, MD</last_name>
+    <phone>0045-79185085</phone>
+    <email>Jeppe.Gram@rsyd.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>HospitalSWD</name>
+      <address>
+        <city>Esbjerg</city>
+        <zip>6700</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Line Magnussen, MD</last_name>
+      <email>line.velling.magnussen@rsyd.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>October 22, 2018</study_first_submitted>
+  <study_first_submitted_qc>October 24, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2018</study_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital of South West Denmark</investigator_affiliation>
+    <investigator_full_name>Line Velling Magnussen</investigator_full_name>
+    <investigator_title>Medical Doctor, PhD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypogonadism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methyltestosterone</mesh_term>
+    <mesh_term>Testosterone</mesh_term>
+    <mesh_term>Testosterone undecanoate</mesh_term>
+    <mesh_term>Testosterone enanthate</mesh_term>
+    <mesh_term>Testosterone 17 beta-cypionate</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 27, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/97/NCT03721497/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,287 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04496726</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00043294</org_study_id>
+    <nct_id>NCT04496726</nct_id>
+  </id_info>
+  <brief_title>Cranberry and Quillaja on Symptoms of Uncomplicated UTI</brief_title>
+  <official_title>A Proof-of-concept, Feasibility Study to Investigate the Effect of Cranberry and Quillaia Extract Type II on Symptoms in Women With Uncomplicated Urinary Tract Infection and to Study the Modulation of the Urinary and Gut Microbiome Pre- and Post-antibiotic Use</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lawson Health Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Urobiome Therapeutics</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>St. Joseph's Health Care London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Lawson Health Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate the effects of cranberry and quillaja capsules on symptoms of&#xD;
+      uncomplicated urinary tract infections.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Urinary tract infection (UTI) is one of the most common bacterial infections in humans and it&#xD;
+      disproportionately affects women. Currently there are only a few alternatives to antibiotics&#xD;
+      for treatment of UTI. Although symptomatic relief occurs more quickly in women treated with&#xD;
+      oral antibiotics for uncomplicated UTIs, patients appear to successfully resolve their UTI&#xD;
+      without antibiotic therapy. While antibiotics are the mainstay of therapy, there are growing&#xD;
+      concerns about collateral effects impacting healthy microbiomes and anti-bacterial resistance&#xD;
+      patterns. Recent estimates from the CDC indicate that more than 2.8 million&#xD;
+      antibiotic-resistant infections occur in the U.S. each year, and more than 35,000 people die&#xD;
+      as a result.&#xD;
+&#xD;
+      The proposed research fills a key knowledge gap that will be critical in determining the role&#xD;
+      of a non-antibiotic substance with the potential to treat UTIs by modulating the urinary and&#xD;
+      gut microbiome to restore health and minimize the reliance on traditional antibiotic therapy&#xD;
+      while also preventing antibiotic resistance. In addition, this study will provide early&#xD;
+      evidence of the short-term symptom and urinary and gut microbiome changes following ingestion&#xD;
+      of two botanical food substances (cranberry and quillaja) that have the potential for&#xD;
+      beneficial effects on the microbiome and UTI symptoms.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Open label, single site, single group prospective cohort study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Urinary Tract Infection Symptoms Assessment Questionnaire (UTISA)</measure>
+    <time_frame>14 days</time_frame>
+    <description>This questionnaire assesses the degree of symptoms and bother on a scale of 0 to 3, and has 3 domains of urinary regularity, problems with urination and pain associated with urination. The fourth domain includes the presence of hematuria. Subjects will complete the UTISA questionnaire every day for 14 days.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to UTI antibiotic initiation</measure>
+    <time_frame>14 days</time_frame>
+    <description>This will be assessed using study form, UTI Comfort Measure Assessment. Subjects will have access to a clinically prescribed UTI antibiotic, nitrofurantoin 100mg. Subjects will be asked to record each day their intake of any antibiotic during the study period.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Microbiome changes prior to and post antibiotic initiation</measure>
+    <time_frame>14 days</time_frame>
+    <description>This outcome measure can only be assessed for those participants that require antibiotic initiation. Changes in the entire bacterial community prior to and post antibiotic use will be assessed in the lab from faecal and urine samples collected by the participant. The microbes may vary by participant and the study will be looking at which ones present themselves in each case. Units of measure via culture are colony forming units per g (cfu/g).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">38</enrollment>
+  <condition>Urinary Tract Infections</condition>
+  <condition>UTI</condition>
+  <condition>UTI - Lower Urinary Tract Infection</condition>
+  <arm_group>
+    <arm_group_label>Cranberry and Quillaja</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>one 450mg cranberry capsule and one 50mg quillaja capsule in the morning and evening for 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Pacran and Sapnov P quillaja</intervention_name>
+    <description>Cranberry (450 mg) and quillaja (50 mg) capsules taken orally twice daily (morning and evening) for a total daily dose of 900 mg cranberry and 100 mg quillaja for 14 days. Nitrofurantoin 100 mg taken orally twice daily for five days as a rescue medication if symptoms do not subside.</description>
+    <arm_group_label>Cranberry and Quillaja</arm_group_label>
+    <other_name>Cranberry</other_name>
+    <other_name>Quillaja</other_name>
+    <other_name>Pacran</other_name>
+    <other_name>Naturex</other_name>
+    <other_name>Sapnov P</other_name>
+    <other_name>Quillaia extract type II</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Pre-menopausal women 18 years and over&#xD;
+&#xD;
+          2. Presenting with typical symptoms of an uncomplicated UTI&#xD;
+&#xD;
+          3. Positive leukocyte or nitrite on in-office urine dipstick confirmed&#xD;
+&#xD;
+          4. Able to swallow capsules&#xD;
+&#xD;
+          5. Willing and able to fill out/ answer questionnaires and comply with the study&#xD;
+             requirement&#xD;
+&#xD;
+          6. Willing to initiate clinically prescribed antibiotic therapy (typically 5-day&#xD;
+             antibiotic).&#xD;
+&#xD;
+          7. Provided written informed consent&#xD;
+&#xD;
+          8. BMI &gt;17.5kg m2 and &lt;35kg m2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Regular use of Vaccinium containing products (e.g. all forms of blueberries,&#xD;
+             cranberries, bilberry, lingonberry etc. i.e. fruit, dried fruit, pills, juices or&#xD;
+             supplements) within 28 days of Day 1,&#xD;
+&#xD;
+          2. Allergy to cranberry, tree bark, or quillaja.&#xD;
+&#xD;
+          3. Use of any antibacterial supplements or products, that in the opinion of the Medical&#xD;
+             Investigator may interfere with the study outcomes, within 28 days of Day 1&#xD;
+&#xD;
+          4. A history of &gt;5 UTIs in the last 6 months (confirmed by self-report or health&#xD;
+             professional)&#xD;
+&#xD;
+          5. Use of antibiotics or antibiotics for prophylaxis to treat a UTI within 28 days of Day&#xD;
+             1&#xD;
+&#xD;
+          6. Women of child bearing potential not willing to use adequate and effective methods of&#xD;
+             contraception throughout the study, in the opinion of the Investigator&#xD;
+&#xD;
+          7. Positive urine dipstick pregnancy test at screening on Day 1, currently pregnant&#xD;
+             and/or breastfeeding&#xD;
+&#xD;
+          8. History of an adverse reaction or known hypersensitivity or suspected allergy to the&#xD;
+             investigational product ingredients&#xD;
+&#xD;
+          9. History of pyelonephritis or reflux&#xD;
+&#xD;
+         10. Presence of an intermittent or indwelling urinary catheter&#xD;
+&#xD;
+         11. Anatomical abnormalities of the urinary tract (self-reported)&#xD;
+&#xD;
+         12. History of or known clinically significant renal or urological disease&#xD;
+             (self-reported), at the discretion of the investigator&#xD;
+&#xD;
+         13. History of or known clinically significant cardiac disease, at the discretion of the&#xD;
+             investigator&#xD;
+&#xD;
+         14. History of or known clinically significant liver disease, at the discretion of the&#xD;
+             investigator&#xD;
+&#xD;
+         15. History of or known clinically significant gastrointestinal disease, at the discretion&#xD;
+             of the investigator&#xD;
+&#xD;
+         16. History of or known metabolic disorder or diabetes&#xD;
+&#xD;
+         17. History of or known incomplete emptying of bladder&#xD;
+&#xD;
+         18. History or presence of alcohol or illicit drug abuse, any surgical history, clinical&#xD;
+             condition or organ dysfunction that in the opinion of the Medical Investigator may&#xD;
+             affect the participant's ability to participate in the study or the study results&#xD;
+&#xD;
+         19. Currently hospitalized or any planned hospitalizations within the study period.&#xD;
+&#xD;
+         20. Immunocompromised participants or participants receiving immunosuppressive medication&#xD;
+&#xD;
+         21. Currently taking warfarin or has received Warfarin within 28 days of Day 1&#xD;
+&#xD;
+         22. Received an investigational drug within 28 days of Day 1 (pills, juices or&#xD;
+             supplements)&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Blayne Welk, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St. Joseph's Healthcare London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alexandria Roa Agudelo, MLA/T</last_name>
+    <phone>519-476-6846</phone>
+    <email>alexandria.roaagudelo@sjhc.london.on.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jeremy P Burton, PhD</last_name>
+    <phone>519-646-6100</phone>
+    <phone_ext>61365</phone_ext>
+    <email>Jeremy.Burton@LawsonResearch.com</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://www.researchgate.net/publication/233632623_A_Randomized_Double_Blind_Controlled_Dose_Dependent_Clinical_Trial_to_Evaluate_the_Efficacy_of_a_Proanthocyanidin_Standardized_Whole_Cranberry_Vaccinium_macrocarpon_Powder_on_Infections_of_the_Urinary</url>
+    <description>A Randomized, Double Blind, Controlled, Dose Dependent Clinical Trial to Evaluate the Efficacy of a Proanthocyanidin Standardized Whole Cranberry (Vaccinium macrocarpon) Powder on Infections of the Urinary Tract. Current Bioactive Compounds</description>
+  </link>
+  <link>
+    <url>https://www.federalregister.gov/documents/2007/08/01/E7-14894/quillaja-saponaria-extract-exemption-from-the-requirement-of-a-tolerance</url>
+    <description>Quillaja Saponaria Extract; Exempt from the Requirement of a Tolerance</description>
+  </link>
+  <link>
+    <url>http://tools.thermofisher.com/content/sfs/brochures/AA-UniversalUrine-Brochure-130826.pdf</url>
+    <description>AssayAssure Universal Urine Collection &amp; Transport Product</description>
+  </link>
+  <reference>
+    <citation>Falagas ME, Kotsantis IK, Vouloumanou EK, Rafailidis PI. Antibiotics versus placebo in the treatment of women with uncomplicated cystitis: a meta-analysis of randomized controlled trials. J Infect. 2009 Feb;58(2):91-102. doi: 10.1016/j.jinf.2008.12.009. Epub 2009 Feb 4. Review.</citation>
+    <PMID>19195714</PMID>
+  </reference>
+  <reference>
+    <citation>Pappas E, Schaich KM. Phytochemicals of cranberries and cranberry products: characterization, potential health effects, and processing stability. Crit Rev Food Sci Nutr. 2009 Oct;49(9):741-81. doi: 10.1080/10408390802145377. Review.</citation>
+    <PMID>20443158</PMID>
+  </reference>
+  <reference>
+    <citation>Howell AB, Reed JD, Krueger CG, Winterbottom R, Cunningham DG, Leahy M. A-type cranberry proanthocyanidins and uropathogenic bacterial anti-adhesion activity. Phytochemistry. 2005 Sep;66(18):2281-91.</citation>
+    <PMID>16055161</PMID>
+  </reference>
+  <reference>
+    <citation>Vostalova J, Vidlar A, Simanek V, Galandakova A, Kosina P, Vacek J, Vrbkova J, Zimmermann BF, Ulrichova J, Student V. Are High Proanthocyanidins Key to Cranberry Efficacy in the Prevention of Recurrent Urinary Tract Infection? Phytother Res. 2015 Oct;29(10):1559-67. doi: 10.1002/ptr.5427. Epub 2015 Aug 13.</citation>
+    <PMID>26268913</PMID>
+  </reference>
+  <reference>
+    <citation>Sarkhel S. Evaluation of the anti-inflammatory activities of Quillaja saponaria Mol. saponin extract in mice. Toxicol Rep. 2015 Dec 1;3:1-3. doi: 10.1016/j.toxrep.2015.11.006. eCollection 2016.</citation>
+    <PMID>28959520</PMID>
+  </reference>
+  <reference>
+    <citation>Fleck JD, Betti AH, da Silva FP, Troian EA, Olivaro C, Ferreira F, Verza SG. Saponins from Quillaja saponaria and Quillaja brasiliensis: Particular Chemical Characteristics and Biological Activities. Molecules. 2019 Jan 4;24(1). pii: E171. doi: 10.3390/molecules24010171. Review.</citation>
+    <PMID>30621160</PMID>
+  </reference>
+  <reference>
+    <citation>den Brok MH, Büll C, Wassink M, de Graaf AM, Wagenaars JA, Minderman M, Thakur M, Amigorena S, Rijke EO, Schrier CC, Adema GJ. Saponin-based adjuvants induce cross-presentation in dendritic cells by intracellular lipid body formation. Nat Commun. 2016 Nov 7;7:13324. doi: 10.1038/ncomms13324.</citation>
+    <PMID>27819292</PMID>
+  </reference>
+  <reference>
+    <citation>Southworth E, Hochstedler B, Price TK, Joyce C, Wolfe AJ, Mueller ER. A Cross-sectional Pilot Cohort Study Comparing Standard Urine Collection to the Peezy Midstream Device for Research Studies Involving Women. Female Pelvic Med Reconstr Surg. 2019 Mar/Apr;25(2):e28-e33. doi: 10.1097/SPV.0000000000000693.</citation>
+    <PMID>30807432</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 3, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Lawson Health Research Institute</investigator_affiliation>
+    <investigator_full_name>Jeremy Burton</investigator_full_name>
+    <investigator_title>Co-Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Urinary Tract Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

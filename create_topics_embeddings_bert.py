@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import json
 from create_embeddings_BERT import create_bert_embeddings
-from transformers import BertTokenizer, BertModel
+from transformers import BertTokenizer, BertModel, AutoTokenizer, AutoModel
 
 def extract_topics_from_xml(xml_file_path):
     tree = ET.parse(xml_file_path)
@@ -17,7 +17,8 @@ def extract_topics_from_xml(xml_file_path):
 if __name__ == "__main__":
     # Extract topics from the XML file
     topics = extract_topics_from_xml('topics.xml')
-
+    # tokenizer = AutoTokenizer.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
+    # model = AutoModel.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     model = BertModel.from_pretrained('bert-base-uncased')
     # Generate embeddings for each topic
@@ -25,5 +26,5 @@ if __name__ == "__main__":
 
     # Saving the topic embeddings to a JSON file
     topic_embeddings_json = {f"topic_{i+1}": emb for i, emb in enumerate(topic_embeddings)}
-    with open('topic_embeddings.json', 'w') as f:
+    with open('files_query2\\topic_embeddings_BERT.json', 'w') as f:
         json.dump(topic_embeddings_json, f)

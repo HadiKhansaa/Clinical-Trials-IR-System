@@ -1,0 +1,182 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04575077</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4-2020-0748</org_study_id>
+    <nct_id>NCT04575077</nct_id>
+  </id_info>
+  <brief_title>The Role of Hepcidin as a Biomarker to Predict Successful Renal Transplantation</brief_title>
+  <official_title>The Role of Hepcidin as a Biomarker to Predict Successful Renal Transplantation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yonsei University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Yonsei University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      High hepcidin concentrations indicate that iron is blocked from secretion from the reservoir.&#xD;
+      Hepcidin may be useful in prediction functional iron utilization in renal failure patients.&#xD;
+      Hepcidin is also associated with chronic renal failure and residual renal function in&#xD;
+      dialysis patients. Recent studies have shown that hepcidin is a potential marker of impaired&#xD;
+      renal function in a rat model of chronic nephropathy.&#xD;
+&#xD;
+      The purpose of this study was to investigate the relationship between preoperative hepcidin&#xD;
+      levels and the incidence of success rate of kidney transplantation in patients with end-stage&#xD;
+      renal failure undergoing kidney transplantation surgery. The study is a prospective&#xD;
+      single-group observational study that analyzes hepcidin as a biomarker.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      POD-1 : Researchers will meet patients scheduled for surgery and explain the study. (enroll)&#xD;
+      the operation date : The patient will sign the consent form. Researchers will collect the&#xD;
+      blood sample from the patient for testing hepcidin during the operation and record laboratory&#xD;
+      data performed before surgery POD 1: laboratory test discharge date : laboratory test 6&#xD;
+      months after surgery ; Researchers will determine the graft failure of the patient.&#xD;
+&#xD;
+      * laboratory test ; reticulocyte count, Hb, plasma hepcidin, iron profiles (serum iron, serum&#xD;
+      ferritin, total iron-binding capacity, transferrin, transferrin saturation), coagulation&#xD;
+      profiles (PT, PTT), routine urinary analysis, and chemical profiles (aspartate&#xD;
+      aminotransferase (AST)/alanine aminotransaminase (ALT), serum creatinine, electrolytes,&#xD;
+      C-reactive protein (CRP), estimated glomerular filtration rate (GFR)), ESR, cystatin C, NGAL,&#xD;
+      pro BNP, troponin T and urinary analysis&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 16, 2020</start_date>
+  <completion_date type="Anticipated">August 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>acute kidney injury</measure>
+    <time_frame>6 months</time_frame>
+    <description>AKIN Criteria have only three stages of AKI (Stages I-III) which generally correspond to RIFLE stages R, I, and F. The AKIN group claims an advantage over the RIFLE criteria in that it has a lower threshold for defining an individual as Stage I AKI (only 0.3 mg/dL increase OR a 1.5X increase over baseline is required to meet this definition in AKIN; in RIFLE one requires a 1.5X increase over baseline. Both definitions can also be met by urine output criteria as well.)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>numbers of participants with abnormal laboratory values</measure>
+    <time_frame>1) 1 month before the surgery, 2) Postoperative day(POD) 1, 3) 2 weeks after the surgery</time_frame>
+    <description>Laboratory test(reticulocyte count, Hb, plasma hepcidin, iron profiles (serum iron, serum ferritin, total iron-binding capacity, transferrin, transferrin saturation), coagulation profiles (PT, PTT), and chemical profiles (aspartate aminotransferase (AST)/alanine aminotransaminase (ALT), serum creatinine, electrolytes, C-reactive protein (CRP), estimated glomerular filtration rate (GFR)), ESR, cystatin C, NGAL, pro BNP, troponin T), routine urinary analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the number of participants with wound infection</measure>
+    <time_frame>6 months after surgery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>major adverse cardiac event</measure>
+    <time_frame>6 months after surgery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the number of participants who hospitalize again</measure>
+    <time_frame>6 months after surgery</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mortality</measure>
+    <time_frame>6 months after surgery</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>End-stage Renal Disease</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with end-stage kidney disease who are expected to undergo kidney transplantation&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. The patients who plan to undergo kidney transplantation&#xD;
+&#xD;
+          2. ASA III-IV&#xD;
+&#xD;
+          3. adult over 19 years old&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. emergent case&#xD;
+&#xD;
+          2. heart disease&#xD;
+&#xD;
+          3. arrhythmia&#xD;
+&#xD;
+          4. BMI &gt;30kg/m2&#xD;
+&#xD;
+          5. allergy to some drugs&#xD;
+&#xD;
+          6. if other co-operation is planned&#xD;
+&#xD;
+          7. foreigner&#xD;
+&#xD;
+          8. Illiteracy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Bon-Nyeo Koo, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Severance Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bon-Nyeo Koo, PhD</last_name>
+    <phone>82-2-2228-2422</phone>
+    <email>koobn@yuhs.ac</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Yonsei Severance Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bon-Nyeo Koo, PhD</last_name>
+      <phone>82-2-2228-2422</phone>
+      <email>koobn@yuhs.ac</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 5, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Failure, Chronic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

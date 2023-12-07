@@ -1,0 +1,475 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04850664</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CBOTDA049616</org_study_id>
+    <secondary_id>2R44DA049616-02</secondary_id>
+    <nct_id>NCT04850664</nct_id>
+  </id_info>
+  <brief_title>Computerized Chemosensory-Based Orbitofrontal Cortex (CBOT) for Opioid Use Disorder</brief_title>
+  <acronym>CBOT-OUD</acronym>
+  <official_title>Development and Evaluation of Computerized Chemosensory-Based Orbitofrontal Cortex Training (CBOT) for Opioid Use Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Evon Medics LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Howard University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Family and Medical Counseling Service, Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Maryland Treatment Centers @ ARTC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Clinics of Dr. Edwin Chapman, MD, PC @ MHDG</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Evon Medics LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Opioid Use Disorders (OUD) cause significant burden to individuals, families, and the&#xD;
+      society. Our product - Computerized Chemosensory-Based Orbitofrontal Cortex Training (CBOT) -&#xD;
+      offers a cost-saving, home-based, user-friendly brain stimulation system that increased&#xD;
+      6-month treatment retention of OUDs in a pilot study; and also, acutely reduced opioid&#xD;
+      withdrawal severity and negative affect during induction into opioid maintenance therapy.&#xD;
+      This study will establish its effectiveness in a broad category of OUD subjects at different&#xD;
+      stages of OUD care continuum.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Evon Medics proposes to evaluate the effectiveness of Computerized Chemosensory-Based&#xD;
+      Orbitofrontal Cortex Training (CBOT), as an alternative strategy for relapse prevention in&#xD;
+      patients with Opioid Use (OUD) and other substance use disorders (SUD). This treatment&#xD;
+      leverages the overlap in brain regions that process smell and mediate decision making. The&#xD;
+      CBOT is portable and can be used at home. This clinical trial is being conducted to&#xD;
+      demonstrate its utility for home application by nontreatment seeking and treatment-seeking&#xD;
+      OUD populations, to engage in long-term, successful opioid recovery.&#xD;
+&#xD;
+      Key objectives of this project are to: (1) establish the effectiveness of CBOT for improved&#xD;
+      retention and relapse prevention in a large sample of OUD subjects; (2) establish its&#xD;
+      effectiveness for acute reduction of withdrawal severity and negative affect early in&#xD;
+      recovery; and (3) evaluate its safety, user-friendliness and acceptability. Accomplishment of&#xD;
+      these goals would lead to larger clinical trials for OUD and wider applications of CBOT in&#xD;
+      other addictive disorders.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Evon Medics will perform randomization of participants stratified by sex at site level. Site staff and participants will be blinded to treatment assignment.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>2 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>4 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>6 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>8 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>10 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>12 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>14 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>16 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>18 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>20 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>22 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>24 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>26 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>28 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>30 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>32 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>34 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6-month buprenorphine maintenance treatment (BMT) retention</measure>
+    <time_frame>36 weeks after baseline</time_frame>
+    <description>6-month BMT retention is defined as missing two consecutive clinic visits after completing the first two weeks of BMT treatment, to allow for BUP dose stabilization.&#xD;
+Ascertainment of retention is simply by tracking clinic visits and electronic record of the health visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Screening in Subjective Opiate Withdrawal Scale (SOWS) at week</measure>
+    <time_frame>Screening to Week 12 Treatment</time_frame>
+    <description>The SOWS is a self-administered scale for grading opioid withdrawal symptoms. It contains 16 symptoms whose intensity the patient rates on a scale of 0 (not at all) to 4 (extremely), and takes less than 10 minutes to complete.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Screening in Subjective Opiate Withdrawal Scale (SOWS) at Week 24</measure>
+    <time_frame>Screening to Week 24</time_frame>
+    <description>The SOWS is a self-administered scale for grading opioid withdrawal symptoms. It contains 16 symptoms whose intensity the patient rates on a scale of 0 (not at all) to 4 (extremely), and takes less than 10 minutes to complete.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Screening in Opioid Craving Scale (OCS) at Week 12 severity rating measures over 1 month</measure>
+    <time_frame>Screening visit to Week 12</time_frame>
+    <description>he Opioid Craving Scale, a modification of the Cocaine Craving Scale was used to measure opioid craving.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Screening in Opioid Craving Scale (OCS) at Week 24 severity rating measures over 1 month</measure>
+    <time_frame>Screening visit to Week 24</time_frame>
+    <description>he Opioid Craving Scale, a modification of the Cocaine Craving Scale was used to measure opioid craving.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Screening in negative affect severity in the PANAS</measure>
+    <time_frame>Screening visit to Week 12</time_frame>
+    <description>The Positive and Negative Affect Schedule (PANAS) is the most widely and frequently used scale to assess positive and negative affect.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Screening in negative affect severity in the PANAS</measure>
+    <time_frame>Screening visit to Week 24</time_frame>
+    <description>The Positive and Negative Affect Schedule (PANAS) is the most widely and frequently used scale to assess positive and negative affect.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Opioid Relapse</measure>
+    <time_frame>Screening visit to Week 12</time_frame>
+    <description>Relapse is defined as presence of self-reported repeated (i.e. 2 or more) use after the first two weeks for stabilization of buprenorphine dose, and/or presence of positive urine drug test for opiates. Ascertainment of opioid relapse is through: (a) Survey question administered 2-weekly, inquiring how days in the past did the subject use heroin, prescription opiates and/or other drugs; the dates of drug use; and the quantity (or dose) of drugs used; and (b) Biochemical verification of drug use, through urine samples will be collected and tested every two weeks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pre-Intervention changes in SOWS from Screening at Week 2</measure>
+    <time_frame>Screening visit to Week 2</time_frame>
+    <description>The SOWS is a self-administered scale for grading opioid withdrawal symptoms. It contains 16 symptoms whose intensity the patient rates on a scale of 0 (not at all) to 4 (extremely).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-Intervention changes in SOWS from Week 12 at Week 13</measure>
+    <time_frame>Week 12 to Week 13</time_frame>
+    <description>The SOWS is a self-administered scale for grading opioid withdrawal symptoms. It contains 16 symptoms whose intensity the patient rates on a scale of 0 (not at all) to 4 (extremely).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pre-Intervention changes in OCS from Screening to Week 2</measure>
+    <time_frame>Screening visit to Week 2</time_frame>
+    <description>a modification of the Cocaine Craving Scale was used to measure opioid craving.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-Intervention changes in OCS from Week 12 to Week 13</measure>
+    <time_frame>Week 12 to Week 13</time_frame>
+    <description>a modification of the Cocaine Craving Scale was used to measure opioid craving.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pre-Intervention changes in PANAS negative affect from Screening visit to Week 2</measure>
+    <time_frame>Screening visit to Week 2</time_frame>
+    <description>The Positive and Negative Affect Schedule (PANAS) is the most widely and frequently used scale to assess positive and negative affect.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-Intervention changes in PANAS negative affect from Week 12 at Week 13</measure>
+    <time_frame>Week 12 to Week 13</time_frame>
+    <description>The SOWS is a self-administered scale for grading opioid withdrawal symptoms. It contains 16 symptoms whose intensity the patient rates on a scale of 0 (not at all) to 4 (extremely). The Positive and Negative Affect Schedule (PANAS) is the most widely and frequently used scale to assess positive and negative affect.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">190</enrollment>
+  <condition>Opioid Use Disorder, Moderate</condition>
+  <condition>Opioid Use Disorder, Severe</condition>
+  <condition>Withdrawal Symptoms</condition>
+  <condition>Craving</condition>
+  <condition>Negative Affectivity</condition>
+  <arm_group>
+    <arm_group_label>CBOT + TAU</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CBOT consists of 40 cycles of olfactory stimulation and OFC training tasks, lasting ~45 minutes, once daily over 3 months. Treatment-as-usual (TAU) is standard dosing of buprenorphine (BUP) to a median dose of 24 mg (range 16-32 mg).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham + TAU</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Sham is a CBOT device that uses artificially-scented compressed room air instead of olfactory stimulants and has no OFC cognitive tasks. Similar to the CBOT, sham will be used daily for 45 minutes. TAU is standard dosing of buprenorphine (BUP) to a median dose of 24 mg (range 16-32 mg).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CBOT + TAU</intervention_name>
+    <description>The CBOT with proprietary odorant molecules is designed to stimulate olfactory neural activity over long periods of time. It is paired with OFC-dependent cognitive tasks.</description>
+    <arm_group_label>CBOT + TAU</arm_group_label>
+    <other_name>plant based essential oils</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham + TAU</intervention_name>
+    <description>Sham CBOT device uses artificially scented compressed room air instead of olfactory stimulants and has control cognitive tasks.</description>
+    <arm_group_label>Sham + TAU</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18-65 years&#xD;
+&#xD;
+          -  Diagnosis of current moderate or severe OUD in the past 6 months, including the past&#xD;
+             one month&#xD;
+&#xD;
+          -  Willing to receive study interventions and buprenorphine during the study&#xD;
+&#xD;
+          -  Do not meet criteria for current moderate or severe use of other substance use&#xD;
+             disorders (except nicotine use disorder)&#xD;
+&#xD;
+          -  Diagnosis of Major Depressive Disorder, Anxiety disorders and Post-traumatic Stress&#xD;
+             disorders will be included as long as the symptoms are stable, no suicidal ideas or&#xD;
+             plans and there are no recent changes in treatment of these conditions in the last 6&#xD;
+             weeks prior to enrollment&#xD;
+&#xD;
+          -  No intranasal disease&#xD;
+&#xD;
+          -  Willing to participate by signing the informed consent form and&#xD;
+&#xD;
+          -  Have a place to stay when receiving the intervention.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any significant neurologic disease such as stroke, dementia, meningitis,&#xD;
+             neurosyphilis, cerebral palsy, encephalitis, epilepsy or seizures&#xD;
+&#xD;
+          -  Mental retardation&#xD;
+&#xD;
+          -  Schizophrenia or bipolar disorders&#xD;
+&#xD;
+          -  Experiencing current suicide ideas or plans&#xD;
+&#xD;
+          -  Any unstable medical condition such as uncontrolled hypertension, acute hepatitis,&#xD;
+             uncontrolled diabetes&#xD;
+&#xD;
+          -  History of damages to the nose, or severe diseases of the nose that affect ability to&#xD;
+             smell, such as nasal obstruction, nasal polyps and severe chronic rhinosinusitis&#xD;
+&#xD;
+          -  Allergies or intolerance to aromas, and&#xD;
+&#xD;
+          -  Breastfeeding or Pregnancy test positive.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Evaristus A Nwulia, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Evon Medics LLC</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Tanya Alim, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Howard University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mark Johnson, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Howard University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marc Fishman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Maryland Treatment Centers</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Serlin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Family and Medical Counseling Service, Inc</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Edwin Chapman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Clinics of Dr. Edwin C. Chapman, MD, PC @ MHDG</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Clinics of Dr. Edwin Chapman @ MHDG</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20002</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Family and Medical Counseling Service, Inc</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20020</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Howard University</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maryland Treatment Centers @ Avery Road Treatment Center</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20853</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Jackson C, Rai N, McLean CK, Hipolito MMS, Hamilton FT, Kapetanovic S, Nwulia EA. Overlapping Risky Decision-Making and Olfactory Processing Ability in HIV-Infected Individuals. Clin Exp Psychol. 2017 Sep;3(3). pii: 160. doi: 10.4172/2471-2701.1000160. Epub 2017 Aug 15.</citation>
+    <PMID>29057388</PMID>
+  </reference>
+  <reference>
+    <citation>Volkow ND, Fowler JS. Addiction, a disease of compulsion and drive: involvement of the orbitofrontal cortex. Cereb Cortex. 2000 Mar;10(3):318-25. Review.</citation>
+    <PMID>10731226</PMID>
+  </reference>
+  <reference>
+    <citation>Lucantonio F, Takahashi YK, Hoffman AF, Chang CY, Bali-Chaudhary S, Shaham Y, Lupica CR, Schoenbaum G. Orbitofrontal activation restores insight lost after cocaine use. Nat Neurosci. 2014 Aug;17(8):1092-9. doi: 10.1038/nn.3763. Epub 2014 Jul 20. Erratum in: Nat Neurosci. 2014 Sep;17(9):1287.</citation>
+    <PMID>25042581</PMID>
+  </reference>
+  <reference>
+    <citation>Temple DM. Isolation techniques for pharmacologically active substances (animal). Annu Rev Pharmacol. 1969;9:407-18. Review.</citation>
+    <PMID>4894805</PMID>
+  </reference>
+  <reference>
+    <citation>Hummel T, Rissom K, Reden J, Hähner A, Weidenbecher M, Hüttenbrink KB. Effects of olfactory training in patients with olfactory loss. Laryngoscope. 2009 Mar;119(3):496-9. doi: 10.1002/lary.20101.</citation>
+    <PMID>19235739</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 20, 2021</study_first_posted>
+  <last_update_submitted>April 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Evon Medics LLC</investigator_affiliation>
+    <investigator_full_name>Evaristus Awele Nwulia</investigator_full_name>
+    <investigator_title>Chief Scientific Officer</investigator_title>
+  </responsible_party>
+  <keyword>Opioid Use Disorders</keyword>
+  <keyword>Buprenorphine Maintenance Treatment</keyword>
+  <keyword>Orbitofrontal cortex (OFC)</keyword>
+  <keyword>CBOT</keyword>
+  <keyword>Relapse Prevention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+    <mesh_term>Substance Withdrawal Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

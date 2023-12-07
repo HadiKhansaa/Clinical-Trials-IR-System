@@ -1,0 +1,490 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04790370</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S2479</org_study_id>
+    <nct_id>NCT04790370</nct_id>
+  </id_info>
+  <brief_title>Ultrasound-facilitated, Catheter-directed, Thrombolysis in Intermediate-high Risk Pulmonary Embolism</brief_title>
+  <acronym>HI-PEITHO</acronym>
+  <official_title>A Randomized Trial of Ultrasound-facilitated, Catheter-directed, Low-dose Fibrinolysis Versus Anticoagulation for Acute Intermediate-high Risk Pulmonary Embolism: The Higher-risk Pulmonary Embolism Thrombolysis Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Scientific Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National PERT Consortium, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Medical Center Mainz</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston Scientific Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There are many available treatments for pulmonary embolism (PE), but the best treatment for&#xD;
+      this condition is not known. The HI-PEITHO study will compare two treatment options that are&#xD;
+      both available on the market for the treatment of PE.&#xD;
+&#xD;
+      Patients will be randomized 1:1 to receive either blood thinners (anticoagulation) or blood&#xD;
+      thinners (anticoagulation) in combination with a device called the EkoSonicTM Endovascular&#xD;
+      device to dissolve blood clots. Patients will be followed for 12 months after randomization&#xD;
+      and have assessments while in the hospital as well as at 7 days, 30 days, 6 months and 12&#xD;
+      months after randomization. The study will try to find out if one of these treatments is&#xD;
+      better than the other at reducing the risk of death and other serious problems.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will assess whether ultrasound-facilitated, catheter-directed thrombolysis and&#xD;
+      standard anticoagulation are associated with a significant reduction in the composite outcome&#xD;
+      of pulmonary embolism (PE)-related mortality, cardiorespiratory decompensation or collapse,&#xD;
+      or nonfatal symptomatic and objectively confirmed recurrence of PE compared to&#xD;
+      anticoagulation alone within seven days of randomization&#xD;
+&#xD;
+      The HI-PEITHO study has been designed to address the important gaps in clinical evidence by&#xD;
+      comparing the clinical benefit of the ultrasound-facilitated local delivery of a low dose&#xD;
+      thrombolytic agent and anticoagulation with those of anticoagulation alone in patients with&#xD;
+      intermediate-high risk PE at a higher estimated risk of early decompensation based on&#xD;
+      clinical parameters at presentation.&#xD;
+&#xD;
+      This study has a focus on improving the safety of thrombolysis and advancing the concept of&#xD;
+      intermediate-high risk and the PE severity criteria, to better identify patients who may&#xD;
+      clinically benefit from thrombolysis.&#xD;
+&#xD;
+      The results of this study will contribute further evidence to the existing data on the&#xD;
+      treatment and outcomes of acute, intermediate-high risk PE and provide controlled data&#xD;
+      related to catheter-based interventions.&#xD;
+&#xD;
+      Data will be entered by the site into an electronic database. The database will include data&#xD;
+      checks to compare data entered into the database against predefined rules for ranges and&#xD;
+      consistency with other data fields in the database.&#xD;
+&#xD;
+      Site monitoring will take place with source data verification to assess the accuracy and&#xD;
+      completeness of registry data by comparing the data to medical records and study assessments.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 30, 2021</start_date>
+  <completion_date type="Anticipated">July 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2023</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>1:1 randomization</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Blinded adjudication of primary composite outcome</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PE-related mortality</measure>
+    <time_frame>Within seven days of randomization</time_frame>
+    <description>death resulting from PE</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PE recurrence</measure>
+    <time_frame>Within seven days of randomization</time_frame>
+    <description>nonfatal symptomatic and objectively confirmed recurrence of PE</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cardiorespiratory decompensation or collapse</measure>
+    <time_frame>Within seven days of randomization</time_frame>
+    <description>Cardiorespiratory collapse or decompensation is defined as at least one of the following criteria:&#xD;
+cardiac arrest or need for CPR at any time between randomization and day 7;&#xD;
+signs of shock: new-onset persistent arterial hypotension (systolic blood pressure (SBP) below 90 mmHg or SBP drop by at least 40 mm Hg, over at least 15 minutes and despite an adequate volume status; or need for vasopressors to maintain SBP of at least 90 mmHg), accompanied by end-organ hypoperfusion (altered mental status; oliguria/anuria; or increased serum lactate) at any time between randomization and day 7;&#xD;
+placement on extracorporeal membrane oxygenation (ECMO) at any time between randomization and day 7;&#xD;
+intubation, or initiation of noninvasive mechanical ventilation at any time between randomization and day 7;&#xD;
+National Early Warning Score (NEWS) of 9 or higher, between 24 hours and 7 days after randomization, confirmed on consecutive measurements taken twice, 15 minutes apart.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Change in the RV-to-LV diameter ratio as measured by echocardiography</measure>
+    <time_frame>Between baseline and 48±6 hours</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>PE-related death</measure>
+    <time_frame>Within 7 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cardiorespiratory decompensation</measure>
+    <time_frame>Within 7 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Placement on ECMO or mechanical ventilation</measure>
+    <time_frame>Within 7 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>GUSTO major (moderate and severe) bleeding</measure>
+    <time_frame>Within 7 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>International Society on Thrombosis and Hemostasis (ISTH) major bleeding</measure>
+    <time_frame>Within 7 days, 30 days, and 6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Ischemic or hemorrhagic stroke</measure>
+    <time_frame>Within 7 days and 30 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>Within 7 days, 30 days, 6 months, and 12 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Serious adverse events</measure>
+    <time_frame>Within 30 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>All-cause mortality, cardiorespiratory collapse or recurrence of PE</measure>
+    <time_frame>Within 30 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Symptomatic PE recurrence</measure>
+    <time_frame>Within 30 days and 6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in RV dysfunction on echocardiography</measure>
+    <time_frame>6 months</time_frame>
+    <description>Right ventricle to left ventricle end diastolic diameter ratio (RV/LV)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of hospitalization for the index PE event</measure>
+    <time_frame>Within 30 days</time_frame>
+    <description>Time from admission to discharge from hospital</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of stay at the intensive, intermediate or coronary care unit during hospitalization for the index PE event</measure>
+    <time_frame>Within 30 days</time_frame>
+    <description>Time from admission to discharge from ICU, intermediate, or ICC</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Functional status: World Health Organization (WHO) functional class</measure>
+    <time_frame>Up to 7 days, 30 days, 6 and 12 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>6-Minute Walk Test (6MWT)</measure>
+    <time_frame>30 days, 6 and 12 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Post-Venous Thromboembolism Functional Status (PVFS) scale</measure>
+    <time_frame>30 days, 6 and 12 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quality of life using PEmb-QOL</measure>
+    <time_frame>6 and 12 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quality of life using SF-36</measure>
+    <time_frame>6 and 12 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quality of life using EQ-5D scale</measure>
+    <time_frame>6 and 12 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Diagnosis of chronic thromboembolic pulmonary hypertension (CTEPH)</measure>
+    <time_frame>Within 12 months</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">406</enrollment>
+  <condition>Pulmonary Embolism</condition>
+  <arm_group>
+    <arm_group_label>Anticoagulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Low-molecular weight heparin (LMWH) or unfractionated heparin (UFH)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Anticoagulation and EkoSonicTM Endovascular System</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Low-molecular weight heparin (LMWH) or unfractionated heparin (UFH) and EkoSonicTM Endovascular System [ultrasound-facilitated catheter-directed delivery of thrombolytic: 2 mg bolus/catheter + 1 mg/hour/catheter for 7 hours (total of 9 or 18 mg]</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anticoagulation with heparin</intervention_name>
+    <description>Low-molecular weight heparin (LMWH) or unfractionated heparin (UFH)</description>
+    <arm_group_label>Anticoagulation</arm_group_label>
+    <arm_group_label>Anticoagulation and EkoSonicTM Endovascular System</arm_group_label>
+    <other_name>heparin, LMWH, UFH, anticoag, antiplatelet, anticoax</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>EkoSonicTM Endovascular System</intervention_name>
+    <description>EkoSonicTM Endovascular System [ultrasound-facilitated catheter-directed delivery of thrombolytic: 2 mg bolus/catheter + 1 mg/hour/catheter for 7 hours (total of 9 or 18 mg]</description>
+    <arm_group_label>Anticoagulation and EkoSonicTM Endovascular System</arm_group_label>
+    <other_name>EKOS, USCDT, CDT, thrombolysis, fibrinolysis</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18-80 years, inclusive&#xD;
+&#xD;
+          -  Objectively confirmed acute PE, based on computed tomography pulmonary angiography&#xD;
+             (CTPA) showing a filling defect in at least one main or proximal lobar pulmonary&#xD;
+             artery&#xD;
+&#xD;
+          -  Elevated risk of early death/hemodynamic collapse, indicated by at least two of the&#xD;
+             following new-onset clinical criteria:&#xD;
+&#xD;
+               1. ECG-documented tachycardia with heart rate ≥100 beats per minute, not due to&#xD;
+                  hypovolemia, arrhythmia, or sepsis;&#xD;
+&#xD;
+               2. SBP ≤ 110 mm Hg for at least 15 minutes;&#xD;
+&#xD;
+               3. respiratory rate &gt; 20 x min-1 or oxygen saturation on pulse oximetry (SpO2) &lt; 90%&#xD;
+                  (or partial arterial oxygen pressure &lt; 60 mmHg) at rest while breathing room air;&#xD;
+&#xD;
+          -  Right-to-left ventricular (RV/LV) diameter ratio ≥ 1.0 on CTPA&#xD;
+&#xD;
+          -  Serum troponin I or T levels above the upper limit of normal&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Hemodynamic instability*, i.e. at least one of the following present:&#xD;
+&#xD;
+               1. cardiac arrest or need for cardiopulmonary resuscitation;&#xD;
+&#xD;
+               2. need for ECMO, or ECMO initiated before randomization&#xD;
+&#xD;
+               3. PE-related shock, defined as: (i) SBP &lt; 90 mmHg, or vasopressors required to&#xD;
+                  achieve SBP ≥ 90 mmHg, despite an adequate volume status; and (ii) end-organ&#xD;
+                  hypoperfusion (altered mental status; oliguria/anuria; increased serum lactate);&#xD;
+&#xD;
+               4. isolated persistent hypotension (SBP &lt; 90 mmHg, or a systolic pressure drop by at&#xD;
+                  least 40 mmHg for at least 15 minutes), not caused by new-onset arrhythmia,&#xD;
+                  hypovolemia, or sepsis * Patients who presented with temporary need for fluid&#xD;
+                  resuscitation and/or low-dose catecholamines may be included, provided that they&#xD;
+                  could be stabilized within 2 hours of admission and maintain SBP of ≥ 90 mmHg and&#xD;
+                  adequate organ perfusion without catecholamine infusion.&#xD;
+&#xD;
+          -  Need for admission to an intensive care unit for a reason other than the index PE&#xD;
+             episode. NB: Patients who test positive for SARS-CoV-2 can be enrolled where the&#xD;
+             investigator believes that the pulmonary embolism is the dominant pathology in the&#xD;
+             patient's clinical presentation and qualifying cardiorespiratory parameters.&#xD;
+&#xD;
+          -  Temperature above 39oC / 102.2oF&#xD;
+&#xD;
+          -  Logistical reasons limiting the rapid availability of interventional procedures to&#xD;
+             treat acute PE (e.g., during the outbreak of an epidemic)&#xD;
+&#xD;
+          -  Index PE symptom duration &gt; 14 days&#xD;
+&#xD;
+          -  Active bleeding&#xD;
+&#xD;
+          -  History of intracranial or intraocular bleeding at any time&#xD;
+&#xD;
+          -  Stroke or transient ischemic attack within the past 6 months, or previous stroke at&#xD;
+             any time if associated with permanent disability&#xD;
+&#xD;
+          -  Central nervous system neoplasm, or metastatic cancer&#xD;
+&#xD;
+          -  Major neurologic, ophthalmologic, abdominal, cardiac, thoracic, vascular or orthopedic&#xD;
+             surgery or trauma (including syncope-associated with head strike or skeletal fracture)&#xD;
+             within the past 3 weeks&#xD;
+&#xD;
+          -  Platelet count &lt; 100 x 109 x L-1&#xD;
+&#xD;
+          -  Patients who have received a once-daily therapeutic dose of LMWH or a therapeutic dose&#xD;
+             of fondaparinux within 24 hours prior to randomization&#xD;
+&#xD;
+          -  Patients who have received one of the direct oral anticoagulants apixaban or&#xD;
+             rivaroxaban within 12 hours prior to randomization&#xD;
+&#xD;
+          -  Patients who have received one of the direct oral anticoagulants dabigatran or&#xD;
+             edoxaban for the index PE episode, as these drugs are not approved for patients who&#xD;
+             have not received heparin for at least 5 days&#xD;
+&#xD;
+          -  Administration of a thrombolytic agent or a glycoprotein IIb/IIIa receptor antagonist&#xD;
+             during the current hospital stay and/or within 30 days, for any reason&#xD;
+&#xD;
+          -  Chronic treatment with antiplatelet agents other than low-dose acetylsalicylic acid or&#xD;
+             clopidogrel 75 mg once daily (but not both). Dual antiplatelet therapy is excluded.&#xD;
+&#xD;
+          -  Chronic treatment with a direct oral anticoagulant (apixaban, dabigatran, edoxaban or&#xD;
+             rivaroxaban)&#xD;
+&#xD;
+          -  Chronic treatment with a vitamin K antagonist, or known coagulopathy including severe&#xD;
+             hepatic dysfunction, with an International Normalized Ratio (INR) &gt; 1.5&#xD;
+&#xD;
+          -  Pregnancy or lactation&#xD;
+&#xD;
+          -  Previous inclusion in the study&#xD;
+&#xD;
+          -  Known hypersensitivity to alteplase, LMWH or UFH, or to any of the excipients&#xD;
+&#xD;
+          -  Life expectancy less than 6 months&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stavros Konstantinides, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Medical Center Mainz, Mainz, Germany</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kenneth Rosenfield, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital, Boston, Massachusetts, USA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Leslie Cass</last_name>
+    <phone>206-641-4529</phone>
+    <email>leslie.cass@bsci.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Barco S, Vicaut E, Klok FA, Lankeit M, Meyer G, Konstantinides SV; PEITHO Investigators. Improved identification of thrombolysis candidates amongst intermediate-risk pulmonary embolism patients: implications for future trials. Eur Respir J. 2018 Jan 18;51(1). pii: 1701775. doi: 10.1183/13993003.01775-2017. Print 2018 Jan.</citation>
+    <PMID>29348184</PMID>
+  </reference>
+  <reference>
+    <citation>Marti C, John G, Konstantinides S, Combescure C, Sanchez O, Lankeit M, Meyer G, Perrier A. Systemic thrombolytic therapy for acute pulmonary embolism: a systematic review and meta-analysis. Eur Heart J. 2015 Mar 7;36(10):605-14. doi: 10.1093/eurheartj/ehu218. Epub 2014 Jun 10. Review.</citation>
+    <PMID>24917641</PMID>
+  </reference>
+  <reference>
+    <citation>Kearon C, Akl EA, Ornelas J, Blaivas A, Jimenez D, Bounameaux H, Huisman M, King CS, Morris TA, Sood N, Stevens SM, Vintch JRE, Wells P, Woller SC, Moores L. Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report. Chest. 2016 Feb;149(2):315-352. doi: 10.1016/j.chest.2015.11.026. Epub 2016 Jan 7. Erratum in: Chest. 2016 Oct;150(4):988.</citation>
+    <PMID>26867832</PMID>
+  </reference>
+  <reference>
+    <citation>Jaff MR, McMurtry MS, Archer SL, Cushman M, Goldenberg N, Goldhaber SZ, Jenkins JS, Kline JA, Michaels AD, Thistlethwaite P, Vedantham S, White RJ, Zierler BK; American Heart Association Council on Cardiopulmonary, Critical Care, Perioperative and Resuscitation; American Heart Association Council on Peripheral Vascular Disease; American Heart Association Council on Arteriosclerosis, Thrombosis and Vascular Biology. Management of massive and submassive pulmonary embolism, iliofemoral deep vein thrombosis, and chronic thromboembolic pulmonary hypertension: a scientific statement from the American Heart Association. Circulation. 2011 Apr 26;123(16):1788-830. doi: 10.1161/CIR.0b013e318214914f. Epub 2011 Mar 21. Erratum in: Circulation. 2012 Aug 14;126(7):e104. Circulation. 2012 Mar 20;125(11):e495.</citation>
+    <PMID>21422387</PMID>
+  </reference>
+  <reference>
+    <citation>Becattini C, Agnelli G, Lankeit M, Masotti L, Pruszczyk P, Casazza F, Vanni S, Nitti C, Kamphuisen P, Vedovati MC, De Natale MG, Konstantinides S. Acute pulmonary embolism: mortality prediction by the 2014 European Society of Cardiology risk stratification model. Eur Respir J. 2016 Sep;48(3):780-6. doi: 10.1183/13993003.00024-2016. Epub 2016 May 12.</citation>
+    <PMID>27174887</PMID>
+  </reference>
+  <reference>
+    <citation>Meyer G, Vicaut E, Danays T, Agnelli G, Becattini C, Beyer-Westendorf J, Bluhmki E, Bouvaist H, Brenner B, Couturaud F, Dellas C, Empen K, Franca A, Galiè N, Geibel A, Goldhaber SZ, Jimenez D, Kozak M, Kupatt C, Kucher N, Lang IM, Lankeit M, Meneveau N, Pacouret G, Palazzini M, Petris A, Pruszczyk P, Rugolotto M, Salvi A, Schellong S, Sebbane M, Sobkowicz B, Stefanovic BS, Thiele H, Torbicki A, Verschuren F, Konstantinides SV; PEITHO Investigators. Fibrinolysis for patients with intermediate-risk pulmonary embolism. N Engl J Med. 2014 Apr 10;370(15):1402-11. doi: 10.1056/NEJMoa1302097.</citation>
+    <PMID>24716681</PMID>
+  </reference>
+  <reference>
+    <citation>Bajaj NS, Kalra R, Arora P, Ather S, Guichard JL, Lancaster WJ, Patel N, Raman F, Arora G, Al Solaiman F, Clark DT 3rd, Dell'Italia LJ, Leesar MA, Davies JE, McGiffin DC, Ahmed MI. Catheter-directed treatment for acute pulmonary embolism: Systematic review and single-arm meta-analyses. Int J Cardiol. 2016 Dec 15;225:128-139. doi: 10.1016/j.ijcard.2016.09.036. Epub 2016 Sep 20. Review.</citation>
+    <PMID>27718446</PMID>
+  </reference>
+  <reference>
+    <citation>Kucher N, Boekstegers P, Müller OJ, Kupatt C, Beyer-Westendorf J, Heitzer T, Tebbe U, Horstkotte J, Müller R, Blessing E, Greif M, Lange P, Hoffmann RT, Werth S, Barmeyer A, Härtel D, Grünwald H, Empen K, Baumgartner I. Randomized, controlled trial of ultrasound-assisted catheter-directed thrombolysis for acute intermediate-risk pulmonary embolism. Circulation. 2014 Jan 28;129(4):479-86. doi: 10.1161/CIRCULATIONAHA.113.005544. Epub 2013 Nov 13.</citation>
+    <PMID>24226805</PMID>
+  </reference>
+  <reference>
+    <citation>Piazza G, Hohlfelder B, Jaff MR, Ouriel K, Engelhardt TC, Sterling KM, Jones NJ, Gurley JC, Bhatheja R, Kennedy RJ, Goswami N, Natarajan K, Rundback J, Sadiq IR, Liu SK, Bhalla N, Raja ML, Weinstock BS, Cynamon J, Elmasri FF, Garcia MJ, Kumar M, Ayerdi J, Soukas P, Kuo W, Liu PY, Goldhaber SZ; SEATTLE II Investigators. A Prospective, Single-Arm, Multicenter Trial of Ultrasound-Facilitated, Catheter-Directed, Low-Dose Fibrinolysis for Acute Massive and Submassive Pulmonary Embolism: The SEATTLE II Study. JACC Cardiovasc Interv. 2015 Aug 24;8(10):1382-1392. doi: 10.1016/j.jcin.2015.04.020.</citation>
+    <PMID>26315743</PMID>
+  </reference>
+  <reference>
+    <citation>Kuo WT, Banerjee A, Kim PS, DeMarco FJ Jr, Levy JR, Facchini FR, Unver K, Bertini MJ, Sista AK, Hall MJ, Rosenberg JK, De Gregorio MA. Pulmonary Embolism Response to Fragmentation, Embolectomy, and Catheter Thrombolysis (PERFECT): Initial Results From a Prospective Multicenter Registry. Chest. 2015 Sep;148(3):667-673. doi: 10.1378/chest.15-0119.</citation>
+    <PMID>25856269</PMID>
+  </reference>
+  <reference>
+    <citation>Tapson VF, Sterling K, Jones N, Elder M, Tripathy U, Brower J, Maholic RL, Ross CB, Natarajan K, Fong P, Greenspon L, Tamaddon H, Piracha AR, Engelhardt T, Katopodis J, Marques V, Sharp ASP, Piazza G, Goldhaber SZ. A Randomized Trial of the Optimum Duration of Acoustic Pulse Thrombolysis Procedure in Acute Intermediate-Risk Pulmonary Embolism: The OPTALYSE PE Trial. JACC Cardiovasc Interv. 2018 Jul 23;11(14):1401-1410. doi: 10.1016/j.jcin.2018.04.008.</citation>
+    <PMID>30025734</PMID>
+  </reference>
+  <reference>
+    <citation>Steering Committee. Single-bolus tenecteplase plus heparin compared with heparin alone for normotensive patients with acute pulmonary embolism who have evidence of right ventricular dysfunction and myocardial injury: rationale and design of the Pulmonary Embolism Thrombolysis (PEITHO) trial. Am Heart J. 2012 Jan;163(1):33-38.e1. doi: 10.1016/j.ahj.2011.10.003.</citation>
+    <PMID>22172434</PMID>
+  </reference>
+  <reference>
+    <citation>Mehran R, Rao SV, Bhatt DL, Gibson CM, Caixeta A, Eikelboom J, Kaul S, Wiviott SD, Menon V, Nikolsky E, Serebruany V, Valgimigli M, Vranckx P, Taggart D, Sabik JF, Cutlip DE, Krucoff MW, Ohman EM, Steg PG, White H. Standardized bleeding definitions for cardiovascular clinical trials: a consensus report from the Bleeding Academic Research Consortium. Circulation. 2011 Jun 14;123(23):2736-47. doi: 10.1161/CIRCULATIONAHA.110.009449.</citation>
+    <PMID>21670242</PMID>
+  </reference>
+  <reference>
+    <citation>GUSTO investigators. An international randomized trial comparing four thrombolytic strategies for acute myocardial infarction. N Engl J Med. 1993 Sep 2;329(10):673-82.</citation>
+    <PMID>8204123</PMID>
+  </reference>
+  <reference>
+    <citation>Schulman S, Kearon C; Subcommittee on Control of Anticoagulation of the Scientific and Standardization Committee of the International Society on Thrombosis and Haemostasis. Definition of major bleeding in clinical investigations of antihemostatic medicinal products in non-surgical patients. J Thromb Haemost. 2005 Apr;3(4):692-4.</citation>
+    <PMID>15842354</PMID>
+  </reference>
+  <reference>
+    <citation>Rudski LG, Lai WW, Afilalo J, Hua L, Handschumacher MD, Chandrasekaran K, Solomon SD, Louie EK, Schiller NB. Guidelines for the echocardiographic assessment of the right heart in adults: a report from the American Society of Echocardiography endorsed by the European Association of Echocardiography, a registered branch of the European Society of Cardiology, and the Canadian Society of Echocardiography. J Am Soc Echocardiogr. 2010 Jul;23(7):685-713; quiz 786-8. doi: 10.1016/j.echo.2010.05.010.</citation>
+    <PMID>20620859</PMID>
+  </reference>
+  <reference>
+    <citation>Liu VX, Lu Y, Carey KA, Gilbert ER, Afshar M, Akel M, Shah NS, Dolan J, Winslow C, Kipnis P, Edelson DP, Escobar GJ, Churpek MM. Comparison of Early Warning Scoring Systems for Hospitalized Patients With and Without Infection at Risk for In-Hospital Mortality and Transfer to the Intensive Care Unit. JAMA Netw Open. 2020 May 1;3(5):e205191. doi: 10.1001/jamanetworkopen.2020.5191.</citation>
+    <PMID>32427324</PMID>
+  </reference>
+  <reference>
+    <citation>Smith GB, Prytherch DR, Meredith P, Schmidt PE, Featherstone PI. The ability of the National Early Warning Score (NEWS) to discriminate patients at risk of early cardiac arrest, unanticipated intensive care unit admission, and death. Resuscitation. 2013 Apr;84(4):465-70. doi: 10.1016/j.resuscitation.2012.12.016. Epub 2013 Jan 4.</citation>
+    <PMID>23295778</PMID>
+  </reference>
+  <reference>
+    <citation>Quiroz R, Kucher N, Schoepf UJ, Kipfmueller F, Solomon SD, Costello P, Goldhaber SZ. Right ventricular enlargement on chest computed tomography: prognostic role in acute pulmonary embolism. Circulation. 2004 May 25;109(20):2401-4. Epub 2004 May 17.</citation>
+    <PMID>15148278</PMID>
+  </reference>
+  <reference>
+    <citation>Stein PD, Matta F, Yaekoub AY, Goodman LR, Sostman HD, Weg JG, Hales CA, Hull RD, Leeper KV Jr, Beemath A, Saeed IM, Woodard PK. Reconstructed 4-chamber views compared with axial imaging for assessment of right ventricular enlargement on CT pulmonary angiograms. J Thromb Thrombolysis. 2009 Oct;28(3):342-7. doi: 10.1007/s11239-009-0331-5. Epub 2009 Mar 27.</citation>
+    <PMID>19326189</PMID>
+  </reference>
+  <reference>
+    <citation>ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories. ATS statement: guidelines for the six-minute walk test. Am J Respir Crit Care Med. 2002 Jul 1;166(1):111-7. Erratum in: Am J Respir Crit Care Med. 2016 May 15;193(10):1185.</citation>
+    <PMID>12091180</PMID>
+  </reference>
+  <reference>
+    <citation>Klok FA, Cohn DM, Middeldorp S, Scharloo M, Büller HR, van Kralingen KW, Kaptein AA, Huisman MV. Quality of life after pulmonary embolism: validation of the PEmb-QoL Questionnaire. J Thromb Haemost. 2010 Mar;8(3):523-32. doi: 10.1111/j.1538-7836.2009.03726.x. Epub 2009 Dec 15.</citation>
+    <PMID>20025645</PMID>
+  </reference>
+  <reference>
+    <citation>Ware JE Jr, Sherbourne CD. The MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selection. Med Care. 1992 Jun;30(6):473-83.</citation>
+    <PMID>1593914</PMID>
+  </reference>
+  <reference>
+    <citation>Burnett AE, Mahan CE, Vazquez SR, Oertel LB, Garcia DA, Ansell J. Guidance for the practical management of the direct oral anticoagulants (DOACs) in VTE treatment. J Thromb Thrombolysis. 2016 Jan;41(1):206-32. doi: 10.1007/s11239-015-1310-7. Review.</citation>
+    <PMID>26780747</PMID>
+  </reference>
+  <reference>
+    <citation>Cech DJ, Martin ST. Evaluation of function, activity, and participation. Functional Movement Development Across the Life Span (Third Edition), 2012.</citation>
+  </reference>
+  <reference>
+    <citation>Saris-Baglama RN, Dewey CJ, Chisholm GB, et al. QualityMetric health outcomes™ scoring software 4.0. Lincoln, RI: QualityMetric Incorporated, 2010, p. 138.</citation>
+  </reference>
+  <reference>
+    <citation>Konstantinides SV, Meyer G, Becattini C, Bueno H, Geersing GJ, Harjola VP, Huisman MV, Humbert M, Jennings CS, Jiménez D, Kucher N, Lang IM, Lankeit M, Lorusso R, Mazzolai L, Meneveau N, Ní Áinle F, Prandoni P, Pruszczyk P, Righini M, Torbicki A, Van Belle E, Zamorano JL; ESC Scientific Document Group. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS). Eur Heart J. 2020 Jan 21;41(4):543-603. doi: 10.1093/eurheartj/ehz405.</citation>
+    <PMID>31504429</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 10, 2021</study_first_posted>
+  <last_update_submitted>March 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acute intermediate-high risk pulmonary embolism</keyword>
+  <keyword>Ultrasound-facilitated, catheter-directed thrombolysis</keyword>
+  <keyword>Thrombolysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Embolism</mesh_term>
+    <mesh_term>Embolism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

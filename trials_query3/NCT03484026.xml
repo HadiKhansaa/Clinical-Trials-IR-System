@@ -1,0 +1,223 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03484026</url>
+  </required_header>
+  <id_info>
+    <org_study_id>743376</org_study_id>
+    <secondary_id>1R41DK105656-01A1</secondary_id>
+    <nct_id>NCT03484026</nct_id>
+  </id_info>
+  <brief_title>Safety and Tolerability of BioFe for Iron Deficiency Management</brief_title>
+  <official_title>A Clinical Study of the Safety and Tolerability of BioFe, A Medical Food for the Management of Iron Deficiency</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sidero Bioscience, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Milton S. Hershey Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sidero Bioscience, LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates the safety, tolerability, and activity of BioFe in the dietary&#xD;
+      management of iron deficiency in adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Iron deficiency is the most common, widespread, and costly nutritional disorder worldwide&#xD;
+      with the World Health Organization (WHO) stating that up to 2 billion people are iron&#xD;
+      deficient. There is a serious and widespread misconception that oral iron supplements are&#xD;
+      safe and effective at alleviating iron deficiency. In a recent Cochrane review of 67 clinical&#xD;
+      trials, women taking oral iron supplements had a mere 38% decreased risk of iron deficiency&#xD;
+      compared to placebo. On the contrary, these subjects had a 114% increased risk of side&#xD;
+      effects, the vast majority of which were associated with gastrointestinal (GI) disturbance.&#xD;
+&#xD;
+      In infants and children, iron deficiency impedes mental, motor, and auditory neuronal&#xD;
+      development leading to serious lifelong cognitive and physical deficiencies. In adults, iron&#xD;
+      deficiency, and associated iron deficiency anemia, cause extreme fatigue, decreased immune&#xD;
+      system function and increased susceptibility to infectious disease, reduced work capacity,&#xD;
+      dizziness, headaches, hair loss, and generalized reduced quality of life. Iron deficiency is&#xD;
+      also linked to Restless Leg Syndrome (RLS), adult hearing deficits, reduced strength,&#xD;
+      coordination, and endurance, anxiety, increased heart failure morbidity, decreased&#xD;
+      intellectual performance, and erectile dysfunction among many others conditions.&#xD;
+&#xD;
+      Most iron deficient people are not effectively treated by, or are intolerant to, oral iron&#xD;
+      supplements. Intravenous iron repletion drugs effective, but are also costly and onerous to&#xD;
+      deliver leading to both patient and payor dissatisfaction.&#xD;
+&#xD;
+      BioFe, Medical Food for Iron Deficiency is nutritional/Baker's yeast (Saccharomyces&#xD;
+      cerevisiae), expressing the Ferritin protein. Ferritin is an indispensable iron storage,&#xD;
+      transport and absorption protein normally produced at low levels by almost all living&#xD;
+      organisms. An illustrative example of the biology of the Ferritin/Iron complex is its&#xD;
+      presence in human breast milk, providing infants the natural biological iron required for&#xD;
+      rapid learning and development, without gastrointestinal upset. BioFe provides high level&#xD;
+      expression of Ferritin that is naturally complexed with iron during culture, is pasteurized,&#xD;
+      and dried.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 17, 2018</start_date>
+  <completion_date type="Actual">June 30, 2020</completion_date>
+  <primary_completion_date type="Actual">March 31, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Consumption of BioFe in a single cohort of up to 8 subjects with iron deficiency.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety and Tolerability as the number of participants with treatment-related adverse events as assessed by CTCAE v4.03</measure>
+    <time_frame>18 Weeks</time_frame>
+    <description>Blood cell, blood chemistry, and stool sample analysis. Health questionnaires including GI symptoms, fatigue, and quality of life by the Short Form 36 (SF-36) questionnaire</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correction of Iron Deficiency</measure>
+    <time_frame>18 Weeks</time_frame>
+    <description>Increase in Serum Iron Measurements Ferritin, Iron, and TSAT</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">6</enrollment>
+  <condition>Iron Deficiency</condition>
+  <arm_group>
+    <arm_group_label>BioFe Medical Food</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Consumption of BioFe Medical Food in a single cohort of up to 8 female subjects with iron deficiency.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>BioFe</intervention_name>
+    <description>BioFe Medical Food is comprised of cultured nutritional/Baker's yeast (Saccharomyces cerevisiae) with high levels of Ferritin/Iron complex, pasteurized, and dried</description>
+    <arm_group_label>BioFe Medical Food</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Moderate iron deficiency defined as transferrin saturation (TSAT) &lt;20% and serum&#xD;
+             ferritin &lt;50 ng/mL.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Female subjects who are pregnant, plan to become pregnant, or not willing to use an&#xD;
+             acceptable form of contraception (tubal ligation or otherwise be incapable of&#xD;
+             pregnancy, hormonal contraceptives, spermicide plus barrier, or intrauterine device).&#xD;
+&#xD;
+          -  Female subjects who are breastfeeding or plan to breastfeed after enrolling in the&#xD;
+             study.&#xD;
+&#xD;
+          -  Hemochromatosis or other iron storage disorders.&#xD;
+&#xD;
+          -  Hemoglobin below 8 g/dL.&#xD;
+&#xD;
+          -  Previous gastric bypass, sleeve gastrectomy, or gastric band surgery.&#xD;
+&#xD;
+          -  Currently on iron supplements and/or multivitamins containing iron (subjects may be&#xD;
+             pre-screened four weeks prior to the screening visit in order to stop/washout or&#xD;
+             switch to vitamins not containing iron).&#xD;
+&#xD;
+          -  Currently on monoamine oxidase inhibitors (MAOIs) or Demerol.&#xD;
+&#xD;
+          -  Current diagnosis of asthma and is actively using anti-asthmatic therapy.&#xD;
+&#xD;
+          -  Smoking within two weeks of screening, current smoking, or anticipated smoking after&#xD;
+             enrolling in the study.&#xD;
+&#xD;
+          -  Active malignancy within one year of screening.&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than two&#xD;
+             times the upper limit of normal.&#xD;
+&#xD;
+          -  Known positive Hepatitis B, Hepatitis C, or HIV-1/HIV-2.&#xD;
+&#xD;
+          -  Unregulated hypertension, chronic kidney disease, irritable bowel syndrome, anemia of&#xD;
+             chronic diseases, chronic autoimmune inflammatory condition.&#xD;
+&#xD;
+          -  Significant cardiovascular disease or congestive heart failure.&#xD;
+&#xD;
+          -  Known allergy to yeast or any other component of BioFe.&#xD;
+&#xD;
+          -  Received an investigational drug within 30 days of screening.&#xD;
+&#xD;
+          -  Any laboratory abnormality, medical condition or psychiatric disorder, which in the&#xD;
+             opinion of the clinical principal investigator or Sponsor, may result in the subject&#xD;
+             being unable to comply with study requirements.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Darren Wolfe, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sidero Bioscience, LLC</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>James R Connor, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Milton S. Hershey Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pennsylvania State University College of Medicine Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siderobio.com/home.html</url>
+    <description>Sidero Bioscience Website</description>
+  </link>
+  <verification_date>June 2020</verification_date>
+  <study_first_submitted>March 24, 2018</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2018</study_first_posted>
+  <last_update_submitted>June 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>June 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Iron Deficiency</keyword>
+  <keyword>Anemia</keyword>
+  <keyword>Medical Food</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anemia, Iron-Deficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,1509 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01200862</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CBGS649A2204</org_study_id>
+    <nct_id>NCT01200862</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of BGS649 in Obese, Hypogonadotropic Hypogonadal Men</brief_title>
+  <acronym>OHH</acronym>
+  <official_title>An Open-label Dose Finding Study Followed by a Parallel Group, Randomized, Double-blind Study to Evaluate the Safety, Tolerability and Pharmacodynamics of 12 Week BGS649 Treatment in Obese, Hypogonadotropic Hypogonadal Men</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mereo BioPharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mereo BioPharma</source>
+  <brief_summary>
+    <textblock>
+      This study is designed as a 2-part study, with Part 1 being open-label to best determine the&#xD;
+      appropriate dose levels to use in Part 2, which has a randomized, double-blind, placebo&#xD;
+      controlled design. The study aims to assess the safety and tolerability of BGS649, and&#xD;
+      determine whether or not BGS649 is able to normalize testosterone levels and improve insulin&#xD;
+      sensitivity in obese, hypogonadotropic hypogonadal (OHH) men&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <start_date>August 2010</start_date>
+  <completion_date type="Actual">August 2012</completion_date>
+  <primary_completion_date type="Actual">August 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Open-label in Part 1 and double-blind in Part 2.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Patients Achieving Normal Testosterone Levels</measure>
+    <time_frame>At Week 4 and 12</time_frame>
+    <description>Percentage of patients achieving normal testosterone (2.50 - 9.50 ng/mL) levels at Week 4 and Week 12</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2: Change From Baseline at Homeostatic Model Assessment of Insulin Resistance (HOMA-IR &amp; QUICKI Scores) at Week 4 and 12</measure>
+    <time_frame>Baseline, Week 4 and Week 12</time_frame>
+    <description>Pharmacodynamic change from baseline in HOMA-IR. Score at week 4 and week 12 as an assessment of insulin resistance. Low score representing high insulin sensitivity and a high score representing low insulin sensitivity or insulin resistance. HOMA-IR is a ration of Fasting insulin (mIU/L) : Fasting glucose (mmol). Pharmacodynamic change in QUICKI score at week 4 and week 12 as an assessment of insulin resistance. The QUICKI scale is a log score and a high score representing high insulin sensitivity and low score indicating low insulin sensitivity. Patients with a score below 0.3 are considered diabetic. Week 12 data is missing because there were inaccuracies in dosing of patients and so the study was terminated, only safety data was collected.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Area Under the Concentration-time Curve From Time Zero to Time 't' (AUC0-168)</measure>
+    <time_frame>11 weeks</time_frame>
+    <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11. The AUC 0-168 measures the amount of drug within the subjects blood over the 168h post-dosing at these timepoints.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Pharmacokinetics of BGS649: Maximum (Peak) Observed Blood Drug Concentration After Single Dose Administration (Cmax)</measure>
+    <time_frame>Week 1 to Week 11</time_frame>
+    <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Pharmacokinetics of BGS649: Time to Reach Maximum (Peak) Blood Drug Concentration After Single Dose Administration (Tmax)</measure>
+    <time_frame>Week 1 to Week 11</time_frame>
+    <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK of BGS649 Elimination Half-life Associated With the Terminal Slope of a Semi Logarithmic Concentration-time Curve (T1/2)</measure>
+    <time_frame>Week 1 to Week 11</time_frame>
+    <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">29</enrollment>
+  <condition>Obese Hypogonadotropic Hypogonadism</condition>
+  <arm_group>
+    <arm_group_label>BGS649 (Part 1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BGS649 1mg and 0.1mg in hard gelatin capsules. In part 1 there was individualised dosing to titrate the subject's testosterone into the normal range. If the dose was lower than 0.1mg then specific instructions for dilution of an oral solution of BGS649 were provided.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo to BGS649 (Part 2)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo to BGS649 (0.3 and 0.1mg). 0.3mg placebo capsule given on Day 1 and 0.1mg placebo capsule on other treatment visits (week 1 to 11).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BGS649 (Part 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>0.3 or 0.1mg hard gelatin capsules of BGS649 given orally. 0.3mg on Day 1 and 0.1 on all other treatment visits (week 1 to 11).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Investigational new drug company code: BGS649</intervention_name>
+    <arm_group_label>BGS649 (Part 1)</arm_group_label>
+    <arm_group_label>BGS649 (Part 2)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>Placebo to BGS649 (Part 2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males who meet the criteria of obese, hypogonadotropic hypogonadism defined as:&#xD;
+&#xD;
+               -  Patients with a Body Mass Index (BMI) ≥ 30 kg/m2&#xD;
+&#xD;
+               -  Patients with a morning serum total testosterone level &lt; 300 ng/dL on at least&#xD;
+                  two separate occasions during the Screening and/or Baseline periods.&#xD;
+&#xD;
+               -  Patients with inappropriately low gonadotropins at screening given the low&#xD;
+                  testosterone:&#xD;
+&#xD;
+          -  Luteinizing hormone (LH) ≤ ULN&#xD;
+&#xD;
+          -  Follicle stimulating hormone (FSH) ≤ ULN&#xD;
+&#xD;
+          -  Estradiol within or above the normal range (defined as ≥ LLN of the approved assay)&#xD;
+&#xD;
+               -  Normal hypothalamic/pituitary function, including:&#xD;
+&#xD;
+          -  Prolactin: within the normal range&#xD;
+&#xD;
+          -  Thyroid stimulating hormone (TSH): within the normal range&#xD;
+&#xD;
+          -  Ferritin: within the normal range&#xD;
+&#xD;
+          -  Patients agree to use a barrier method of contraception (e.g., condom), for the&#xD;
+             duration of the study and for at least 3 months following their Study Completion visit&#xD;
+             to prevent BGS649 exposure to their partners.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with hypogonadism, not related to obesity or as a result of other underlying&#xD;
+             issues&#xD;
+&#xD;
+          -  Patients with significant major organ class illness (e.g. kidney or liver disease).&#xD;
+&#xD;
+          -  Other protocol-defined inclusion/exclusion criteria may apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jacqueline Parkin, PhD FRCP</last_name>
+    <role>Study Director</role>
+    <affiliation>Mereo BioPharma</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Miramar</city>
+        <state>Florida</state>
+        <zip>33025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>West Valley City</city>
+        <state>Utah</state>
+        <zip>84120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3X 2H9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 10, 2010</study_first_submitted>
+  <study_first_submitted_qc>September 13, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2010</study_first_posted>
+  <results_first_submitted>December 16, 2019</results_first_submitted>
+  <results_first_submitted_qc>October 5, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 8, 2020</results_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Obese</keyword>
+  <keyword>obesity</keyword>
+  <keyword>hypogonadism</keyword>
+  <keyword>hypogonadotropic</keyword>
+  <keyword>hyperestrogenemic</keyword>
+  <keyword>testosterone</keyword>
+  <keyword>hypogonadal</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypogonadism</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>14 participants enrolled in Part 1 and 15 participants enrolled in part 2.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>BGS649 Part 1</title>
+          <description>BGS649 1mg and 0.1mg in hard gelatin capsules. In part 1 there was individualised dosing to titrate the subject's testosterone into the normal range. If the dose was lower than 0.1mg then specific instructions for dilution of an oral solution of BGS649 were provided.</description>
+        </group>
+        <group group_id="P2">
+          <title>BGS649 Part 2</title>
+          <description>BGS649 0.3mg hard gelatin capsule given orally on Day 1 and 0.1mg BGS649 capsule on other treatment visits (week 1 to 11).</description>
+        </group>
+        <group group_id="P3">
+          <title>Placebo to BGS649</title>
+          <description>Matching placebo to BGS649 (0.3 and 0.1mg). 0.3mg placebo capsule given on Day 1 and 0.1mg placebo capsule on other treatment visits (week 1 to 11).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Part 1</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Part 2</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="7"/>
+                <participants group_id="P3" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="6"/>
+                <participants group_id="P3" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>BGS649 (Part 1)</title>
+          <description>BGS649 1mg and 0.1mg in hard gelatin capsules. In part 1 there was individualised dosing to titrate the subject's testosterone into the normal range. If the dose was lower than 0.1mg then specific instructions for dilution of an oral solution of BGS649 were provided.</description>
+        </group>
+        <group group_id="B2">
+          <title>BGS649 (Part 2)</title>
+          <description>BGS649 0.3mg hard gelatin capsule given orally on Day 1 and 0.1mg BGS649 capsule on other treatment visits (week 1 to 11).</description>
+        </group>
+        <group group_id="B3">
+          <title>Placebo to BGS649 (Part 2)</title>
+          <description>Matching placebo to BGS649 (0.3 and 0.1mg). 0.3mg placebo capsule given on Day 1 and 0.1mg placebo capsule on other treatment visits (week 1 to 11).</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="14"/>
+            <count group_id="B2" value="7"/>
+            <count group_id="B3" value="8"/>
+            <count group_id="B4" value="29"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <description>Age calculate from date of birth at time of consent</description>
+          <population>Part 1 and Part 2 results were analysed completed separately throughout the study</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <title>Age (Part 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="14"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50" spread="9.54"/>
+                    <measurement group_id="B4" value="50" spread="10.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Age (Part 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="7"/>
+                    <count group_id="B3" value="8"/>
+                    <count group_id="B4" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B2" value="51" spread="10.1"/>
+                    <measurement group_id="B3" value="50" spread="11.1"/>
+                    <measurement group_id="B4" value="50" spread="10.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <population>Part 1 and Part 2 patients were analysed completed separately throughout the study</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Sex (Part 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="14"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B4" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sex (Part 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="7"/>
+                    <count group_id="B3" value="8"/>
+                    <count group_id="B4" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <population>Part 1 and Part 2 of the study were reported/analysed separately and so combined totals are not available</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Part 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="14"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Caucasian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B4" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Part 2</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="7"/>
+                    <count group_id="B3" value="8"/>
+                    <count group_id="B4" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Caucasian</title>
+                  <measurement_list>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="7"/>
+                    <measurement group_id="B4" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black</title>
+                  <measurement_list>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native American</title>
+                  <measurement_list>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="14"/>
+                    <count group_id="B2" value="7"/>
+                    <count group_id="B3" value="8"/>
+                    <count group_id="B4" value="29"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <description>Body Mass index calculated</description>
+          <population>Part A and Part B were analysed and reported separately in the study</population>
+          <units>kg/m2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <title>BMI (Part 1)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="14"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34" spread="3.21"/>
+                    <measurement group_id="B4" value="36.6" spread="4.10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BMI (Part 2)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="7"/>
+                    <count group_id="B3" value="8"/>
+                    <count group_id="B4" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B2" value="37" spread="2.9"/>
+                    <measurement group_id="B3" value="39" spread="6.2"/>
+                    <measurement group_id="B4" value="38" spread="4.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Patients Achieving Normal Testosterone Levels</title>
+        <description>Percentage of patients achieving normal testosterone (2.50 - 9.50 ng/mL) levels at Week 4 and Week 12</description>
+        <time_frame>At Week 4 and 12</time_frame>
+        <population>Number/percentage of patients achieving normal sex hormone levels at Week 4 and Week 12 (Part 1 Only)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGS649 (Part 1)</title>
+            <description>BGS649 1mg and 0.1mg in hard gelatin capsules. In part 1 there was individualised dosing to titrate the subject's testosterone into the normal range. If the dose was lower than 0.1mg then specific instructions for dilution of an oral solution of BGS649 were provided.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients Achieving Normal Testosterone Levels</title>
+          <description>Percentage of patients achieving normal testosterone (2.50 - 9.50 ng/mL) levels at Week 4 and Week 12</description>
+          <population>Number/percentage of patients achieving normal sex hormone levels at Week 4 and Week 12 (Part 1 Only)</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Part 2: Change From Baseline at Homeostatic Model Assessment of Insulin Resistance (HOMA-IR &amp; QUICKI Scores) at Week 4 and 12</title>
+        <description>Pharmacodynamic change from baseline in HOMA-IR. Score at week 4 and week 12 as an assessment of insulin resistance. Low score representing high insulin sensitivity and a high score representing low insulin sensitivity or insulin resistance. HOMA-IR is a ration of Fasting insulin (mIU/L) : Fasting glucose (mmol). Pharmacodynamic change in QUICKI score at week 4 and week 12 as an assessment of insulin resistance. The QUICKI scale is a log score and a high score representing high insulin sensitivity and low score indicating low insulin sensitivity. Patients with a score below 0.3 are considered diabetic. Week 12 data is missing because there were inaccuracies in dosing of patients and so the study was terminated, only safety data was collected.</description>
+        <time_frame>Baseline, Week 4 and Week 12</time_frame>
+        <population>Could not be analysed due to drug administration errors. Week 12 data is missing because they were inaccuracies in the dosing of patients and so the study was terminated early and efficacy data not reported for the affected patients.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGS649 Part 2</title>
+            <description>BGS649 0.3mg hard gelatin capsule given orally on Day 1 and 0.1mg BGS649 capsule on other treatment visits (week 1 to 11).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo to BGS649</title>
+            <description>Matching placebo to BGS649 (0.3 and 0.1mg). 0.3mg placebo capsule given on Day 1 and 0.1mg placebo capsule on other treatment visits (week 1 to 11).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Part 2: Change From Baseline at Homeostatic Model Assessment of Insulin Resistance (HOMA-IR &amp; QUICKI Scores) at Week 4 and 12</title>
+          <description>Pharmacodynamic change from baseline in HOMA-IR. Score at week 4 and week 12 as an assessment of insulin resistance. Low score representing high insulin sensitivity and a high score representing low insulin sensitivity or insulin resistance. HOMA-IR is a ration of Fasting insulin (mIU/L) : Fasting glucose (mmol). Pharmacodynamic change in QUICKI score at week 4 and week 12 as an assessment of insulin resistance. The QUICKI scale is a log score and a high score representing high insulin sensitivity and low score indicating low insulin sensitivity. Patients with a score below 0.3 are considered diabetic. Week 12 data is missing because there were inaccuracies in dosing of patients and so the study was terminated, only safety data was collected.</description>
+          <population>Could not be analysed due to drug administration errors. Week 12 data is missing because they were inaccuracies in the dosing of patients and so the study was terminated early and efficacy data not reported for the affected patients.</population>
+          <units>units on a scale</units>
+          <param>Geometric Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>HOMA-IR at 4 weeks</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="7"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.94" lower_limit="3.72" upper_limit="16.92"/>
+                    <measurement group_id="O2" value="7.45" lower_limit="2.74" upper_limit="20.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>QUICKI at 4 weeks</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="7"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.12" lower_limit="0.11" upper_limit="0.14"/>
+                    <measurement group_id="O2" value="0.13" lower_limit="0.11" upper_limit="0.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>HOMA-IR at 12 weeks</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                    <count group_id="O2" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Part 2: Area Under the Concentration-time Curve From Time Zero to Time 't' (AUC0-168)</title>
+        <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11. The AUC 0-168 measures the amount of drug within the subjects blood over the 168h post-dosing at these timepoints.</description>
+        <time_frame>11 weeks</time_frame>
+        <population>PK Analysis Set included 7 patients given BGS649 in Part 2.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGS649 (Part 2)</title>
+            <description>BGS649 0.3mg hard gelatin capsule given orally on Day 1 and 0.1mg BGS649 capsule on other treatment visits (week 1 to 11).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Part 2: Area Under the Concentration-time Curve From Time Zero to Time 't' (AUC0-168)</title>
+          <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11. The AUC 0-168 measures the amount of drug within the subjects blood over the 168h post-dosing at these timepoints.</description>
+          <population>PK Analysis Set included 7 patients given BGS649 in Part 2.</population>
+          <units>ng*hr/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="7"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="114" spread="36.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="152" spread="48.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 11</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="167" spread="21.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Part 2: Pharmacokinetics of BGS649: Maximum (Peak) Observed Blood Drug Concentration After Single Dose Administration (Cmax)</title>
+        <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11.</description>
+        <time_frame>Week 1 to Week 11</time_frame>
+        <population>PK Analysis Set</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGS649 (Part 2)</title>
+            <description>BGS649 0.3mg hard gelatin capsule given orally on Day 1 and 0.1mg BGS649 capsule on other treatment visits (week 1 to 11).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Part 2: Pharmacokinetics of BGS649: Maximum (Peak) Observed Blood Drug Concentration After Single Dose Administration (Cmax)</title>
+          <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11.</description>
+          <population>PK Analysis Set</population>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="7"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.83" spread="0.998"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.69" spread="0.610"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 11</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.69" spread="0.261"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Part 2: Pharmacokinetics of BGS649: Time to Reach Maximum (Peak) Blood Drug Concentration After Single Dose Administration (Tmax)</title>
+        <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11.</description>
+        <time_frame>Week 1 to Week 11</time_frame>
+        <population>PK Population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGS649 (Part 2)</title>
+            <description>BGS649 0.3mg hard gelatin capsule given orally on Day 1 and 0.1mg BGS649 capsule on other treatment visits (week 1 to 11).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Part 2: Pharmacokinetics of BGS649: Time to Reach Maximum (Peak) Blood Drug Concentration After Single Dose Administration (Tmax)</title>
+          <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11.</description>
+          <population>PK Population</population>
+          <units>hours</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="7"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.02" spread="0.00339"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.01" spread="0.0136"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 11</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.993" spread="0.0450"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>PK of BGS649 Elimination Half-life Associated With the Terminal Slope of a Semi Logarithmic Concentration-time Curve (T1/2)</title>
+        <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11.</description>
+        <time_frame>Week 1 to Week 11</time_frame>
+        <population>PK Analysis Set. Sparse PK sampling (4 samples over 672 h) was included for the PK profile for Week 4; Cmax was included in λz estimation, therefore T1/2 was not reported for all profiles in Week 4.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGS649 (Part 2)</title>
+            <description>BGS649 0.3mg hard gelatin capsule given orally on Day 1 and 0.1mg BGS649 capsule on other treatment visits (week 1 to 11).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PK of BGS649 Elimination Half-life Associated With the Terminal Slope of a Semi Logarithmic Concentration-time Curve (T1/2)</title>
+          <description>PK sampling was performed at 0hr (pre-dose), 1 hr, 8 hr, 24 hr, 72 hr, and 168 hr on the following occasions Week 1, Week 4 and week 11.</description>
+          <population>PK Analysis Set. Sparse PK sampling (4 samples over 672 h) was included for the PK profile for Week 4; Cmax was included in λz estimation, therefore T1/2 was not reported for all profiles in Week 4.</population>
+          <units>hours</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="474" spread="114"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+            <class>
+              <title>Week 11</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="7"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="489" spread="83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>16 weeks</time_frame>
+      <desc>Does not differ to clinicaltrials.gov. definitions</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>BGS649 (Part 1) Open Label</title>
+          <description>Individualised doses to titrate testosterone levels to within normal range. Doses ranged between 0.003mg and 5mg in total over the 11 week treatment period. For doses below 0.1mg, separate pharmacy instructions were provided to dilute an oral solution of BGS649.</description>
+        </group>
+        <group group_id="E2">
+          <title>BGS649 (Part 2)</title>
+          <description>All subjects were given 0.3mg on Day 1 and then 0.1mg on all other dosing visits (weeks 2-11).</description>
+        </group>
+        <group group_id="E3">
+          <title>Placebo to BGS649 (Part 2)</title>
+          <description>Matching placebo capsules on Day 1 and all other dosing visits (weeks 2-11).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Tongue neoplasm malignant stage unspecified</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="14"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="7"/>
+                <counts group_id="E3" subjects_affected="7" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Thrombosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Frequent bowel movements</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Diverticulitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Vaccination site pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Blood triglycerides increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Increased appetitie</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Neck pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Tongue neoplasm malignant stage unspecified</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="14"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Amnesia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Night sweats</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Somnolence</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Stress</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Terminal insomnia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nocturia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Spontaneous penile erection</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Libido increased</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nasal congestion</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary Embolism</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acne</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="7"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Ecchymosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="14"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="7"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>All PIs must seek written permission from the sponsor prior to publication of any trial results.</restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Part 2 of the study was early terminated due to incorrect dosing, therefore only 8 of the 15 subjects enrolled completed 11 doses of treatment, and the remaining 7 subjects had incomplete dosing.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Dr. Jackie Parkin</name_or_title>
+      <organization>Mereo BioPharma</organization>
+      <phone>+44 333 0237300</phone>
+      <email>enquiries@mereobiopharma.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

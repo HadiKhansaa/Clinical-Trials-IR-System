@@ -1,0 +1,2826 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03019575</url>
+  </required_header>
+  <id_info>
+    <org_study_id>8962-043</org_study_id>
+    <secondary_id>2015-001878-18</secondary_id>
+    <secondary_id>MK-8962-043</secondary_id>
+    <nct_id>NCT03019575</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Corifollitropin Alfa (MK-8962) in Combination With Human Chorionic Gonadotropin (hCG) in Adolescent Males With Hypogonadotropic Hypogonadism (HH) (MK-8962-043)</brief_title>
+  <official_title>A Phase III, Multi-Center, Open Label, Single-Group Trial to Investigate the Efficacy and Safety of MK-8962 (Corifollitropin Alfa) in Combination With Human Chorionic Gonadotropin (hCG) for Initiation or Restoration of Puberty as Assessed by Increased Testicular Volume in Adolescent Males 14 to &lt;18 Years Old With Hypogonadotropic Hypogonadism (MK-8962-043)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to investigate whether corifollitropin alfa (MK-8962),&#xD;
+      administered alone for 12 weeks and then in combination with human chorionic gonadotropin&#xD;
+      (hCG) for 52 weeks, increases the testicular volume in adolescent males aged 14 to &lt;18. In&#xD;
+      addition, the study will evaluate participants for safety, tolerability and for the&#xD;
+      development of corifollitropin alfa antibodies. No formal hypothesis will be tested for this&#xD;
+      estimation study&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 2, 2017</start_date>
+  <completion_date type="Actual">May 5, 2020</completion_date>
+  <primary_completion_date type="Actual">May 5, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in Log-Transformed Testicular Volume (TV) to Week 64</measure>
+    <time_frame>Baseline and Week 64</time_frame>
+    <description>Participants underwent testicular ultrasound of left and right testes at pre-specified time points to measure TV. TV was measured as the sum of volumes of left and right testes. The linear mixed model with a fixed effect for baseline and Week 64 and a random effect for participant was used to calculate the mean change in log-transformed TV and associated 95% confidence intervals (CIs) from baseline to Week 64. The geometric mean ratio and its 95% CIs for TV were obtained by exponentiation. The ratio &gt; 1 indicated an increase in TV from baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Who Experienced an Adverse Event (AE)</measure>
+    <time_frame>Up to approximately 71 Weeks</time_frame>
+    <description>An adverse event was defined as any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have to have a causal relationship with this treatment. The number of participants who experienced an AE was reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Who Discontinued Study Treatment Due to an AE</measure>
+    <time_frame>Up to approximately 64 Weeks</time_frame>
+    <description>An adverse event was defined as any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have to have a causal relationship with this treatment. The number of participants who discontinued study treatment due to an AE was reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Anti-Corifollitropin Alfa (CFA) Antibodies</measure>
+    <time_frame>Up to approximately 71 Weeks</time_frame>
+    <description>Blood samples were collected at pre-specified time points to assess anti-CFA antibodies. The percentage of participants with anti-CFA antibodies after administration of CFA were reported.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Serum Inhibin B Concentration to Week 64</measure>
+    <time_frame>Baseline and Week 64</time_frame>
+    <description>Serum Inhibin B concentration is a surrogate marker for spermatogenesis in males. Blood samples were collected at baseline and Week 64 post dose to report the mean change from baseline in serum inhibin concentration to Week 64. A mean change from baseline in serum inhibin B concentration to Week 64 was reported. A positive value indicated a higher serum inhibin concentration level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Growth Velocity at Week 36</measure>
+    <time_frame>Week 36</time_frame>
+    <description>Growth velocity is the rate of change in height measurement and is a marker for pubertal progress. Height was measured using a wall-mounted calibrated stadiometer. A mixed model was used to assess the overall growth velocity slope over the 36-week treatment period using the slopes estimated from an overall mixed random intercept and random slope model of height (cm) and time (yr) and age as covariates.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Growth Velocity at Week 64</measure>
+    <time_frame>Week 64</time_frame>
+    <description>Growth velocity is the rate of change in height measurement and is a marker for pubertal progress. Height was measured using a wall-mounted calibrated stadiometer. A mixed model was used to assess the overall growth velocity slope over the 64-week treatment period using the slopes estimated from an overall mixed random intercept and random slope model of height (cm) and time (year) and age as covariates.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Tanner Stage (TS) of Pubertal Development for Pubic Hair to Week 12, Week 36, and Week 64</measure>
+    <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+    <description>Male participants were assessed clinically for pubertal development using the TS for pubic hair (range: Tanner I-V). TS describes sexual maturity stages (no better or worse outcome) as: Tanner I: prepubertal state, Tanner II: small amount of long, downy hair with slight pigmentation at the base of the penis and scrotum, Tanner III: hair becomes more coarse and curly, and begins to extend laterally, Tanner IV: adult-like hair quality, extending across pubis but sparing medial thighs and Tanner V: hair extends to medial surface of the thigh. The number of participants in each Tanner stage at baseline and categorical change from baseline in Tanner stages to Weeks 12, 36 and 64 were reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in TS of Pubertal Development for Genital Growth to Week 12, Week 36, and Week 64</measure>
+    <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+    <description>Male participants were assessed clinically for pubertal development using TS for genital growth (range: Tanner I-V). TS describes sexual maturity stages (no better or worse outcome) as: Tanner I: prepubertal (TV &lt;1.5 ml; small penis), Tanner II: TV 1.6-6ml; skin on scrotum thins, reddens and enlarges; penis length unchanged, Tanner III: TV 6-12ml; scrotum enlarges further; penis begins to lengthen Tanner IV: TV 12-20ml; scrotum enlarges further and darkens; penis increases in length and circumference, and Tanner V: TV &gt;20ml; adult scrotum and penis. The number of participants in each Tanner stage at baseline and categorical change from baseline in Tanner stages to Weeks 12, 36 and 64 were reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Serum Concentration of CFA</measure>
+    <time_frame>Day 1: predose, 6-24 hours postdose; Day 3: 32-52 hours postdose; Day 5: 72-120 hours postdose; Day 8: 144-192 hours postdose; Day 11: 216-244 hours postdose; Days 29, 85, 169, 253, 337: predose; Days 449, 456: postdose</time_frame>
+    <description>Blood samples were collected at pre-specified time points (Day 1 (predose, 6-24 hours postdose after 1st dose), Day 3 (32-52 hours postdose after 1st dose), Day 5 (72-120 hours postdose after 1st dose), Day 8 (144-192 hours postdose after 1st dose), Day 11 (216-244 hours postdose after 1st dose), Day 29 (predose prior to 2nd dose; no hCG), Day 85 (predose, prior to 4th dose; no hCG), Day 169 (predose prior to 7th dose; with hCG co-administration), Day 253 (predose prior to 10th dose with hCG co-administration), Day 337 (predose prior to 13th dose; with hCG co-administration), Days 449 and 456 (postdose)) to report the mean serum concentration of CFA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Testicular Echogenicity to Week 12, Week 36, and Week 64</measure>
+    <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+    <description>Testicular Echogenicity was determined by evaluating the sonographic patterns obtained on testicular ultrasound of right and left testes at baseline, Week 12, Week 36 and 64. The sonographic patterns were assessed by central imaging unit by an independent radiologist and categorized as Hypoechoic (decreased echogenicity as compared to echogenicity at baseline), Isoechoic (same echogenicity as compared to echogenicity at baseline) and Hyperechoic (increased echogenicity as compared to echogenicity at baseline). The number of participants with a sonographic pattern at Weeks 12, 36 and 64 were reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Luteinizing Hormone (LH) to Week 12, Week 36, and Week 64</measure>
+    <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+    <description>LH is a gonadotropin secreted from the anterior pituitary and is a marker for spontaneous puberty. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in LH level to Weeks 12, 36 and 64.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Calculated Free Testosterone (T) to Week 12, Week 36, and Week 64</measure>
+    <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+    <description>Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in T level to Weeks 12, 36 and 64. The change from baseline in T level to Week 12, 36, and 64 could not be calculated as planned because only 2 participants had baseline T level values which were insufficient to provide the trend change from baseline in T level to Week 12, 36, and 64.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Total Testosterone (Total T) to Week 12, Week 36, and Week 64</measure>
+    <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+    <description>Total T is a marker for progress of puberty in males. Total T levels increase during puberty as the testes respond to the gonadotropins. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 post dose to report the mean change from baseline in Total T level to Weeks 12, 36 and 64. A negative value indicated a lower Total T level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Estradiol (E2) to Week 12, Week 36, and Week 64</measure>
+    <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+    <description>E2 levels rise during puberty in males when some of the T secreted is aromatized. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in E2 level to Weeks 12, 36 and 64. A positive value indicated a higher E2 level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Sex Hormone-Binding Globulin (SHBG) to Week 12, Week 36, and Week 64</measure>
+    <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+    <description>SHBG is a blood protein that controls the amount of T body tissues in males. SHBG is regulated by the ratio of T and E2 levels in addition to other factors (thyroid hormone status, dietary factors, certain diseases and medications). Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in SHBG level to Weeks 12, 36 and 64. A negative value indicated a lower SHBG level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Anti-Müllerian Hormone (AMH) to Week 12, Week 36, and Week 64</measure>
+    <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+    <description>AMH is a marker for progress of puberty in males. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in AMH level to Weeks 12, 36 and 64. A negative value indicated a lower AMH level.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">17</enrollment>
+  <condition>Hypogonadotropic Hypogonadism</condition>
+  <arm_group>
+    <arm_group_label>Corifollitropin alfa (CFA)+human Chorionic Gonadotropin (hCG)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Corifollitropin alfa</intervention_name>
+    <description>CFA administered 100 μg (if body weight ≤60 kg) or 150 μg (if body weight &gt;60 kg) by SC injection, once every 2 weeks for 64 weeks (Day 1, Week 0 through Week 64).</description>
+    <arm_group_label>Corifollitropin alfa (CFA)+human Chorionic Gonadotropin (hCG)</arm_group_label>
+    <other_name>MK-8962</other_name>
+    <other_name>Elonva</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hCG</intervention_name>
+    <description>hCG 500-5000 IU reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64).</description>
+    <arm_group_label>Corifollitropin alfa (CFA)+human Chorionic Gonadotropin (hCG)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have legal representative who understands the study procedures, alternative treatments&#xD;
+             available and risks involved with the study, and voluntarily agrees to the&#xD;
+             individual's participation by giving written informed consent, and the individual has&#xD;
+             an age-appropriate understanding of the same to give informed written assent if&#xD;
+             applicable.&#xD;
+&#xD;
+          -  Diagnosed with hypogonadotropic hypogonadism (either isolated or associated with&#xD;
+             panhypopituitarism), either congenital or acquired with onset prior to puberty.&#xD;
+&#xD;
+          -  Have bilateral pre-gonadarche testes as defined by testicular volume &lt;4.0 mL for each&#xD;
+             testicle, as determined by ultrasound and assessed by the investigator (if qualified)&#xD;
+             or local radiologist with appropriate training and expertise in reading testicular&#xD;
+             ultrasound. Note: participants with a volume of &lt;4.0 mL in one testicle and a volume&#xD;
+             of 4-8 mL in the other testicle are considered to be pre-gonadarche and may&#xD;
+             participate, if there is no history or evidence of a primary testicular disorder (see&#xD;
+             Exclusion Criteria 1 and 2).&#xD;
+&#xD;
+          -  Have circulating levels of total testosterone (Total T) less than the lower limit of&#xD;
+             normal (LLN) of 8.3 nmol/L as specified by the central lab for a young healthy adult&#xD;
+             male.&#xD;
+&#xD;
+          -  Have follicle stimulating hormone (FSH) ≤2 IU/L and luteinizing hormone (LH) ≤2 IU/L.&#xD;
+&#xD;
+          -  Have inhibin-B levels ≤35 pg/mL. (Note: if individual has inhibin-B levels &gt;35 pg/mL,&#xD;
+             but meets all of the other inclusion/exclusion criteria, either a GnRH agonist (GnRHa)&#xD;
+             stimulation test or GnRH IV infusion test may be performed.&#xD;
+&#xD;
+          -  In good general physical and mental health, in the opinion of the&#xD;
+             investigator/sponsor, as assessed by physical examination and routine clinical&#xD;
+             laboratory tests.&#xD;
+&#xD;
+          -  Have a parent/guardian able and willing to support the individual's participation by&#xD;
+             supporting adherence to study drug dosing and visit schedules.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have a history of bilateral cryptorchidism (maldescended testes) or unilateral&#xD;
+             cryptorchidism treated after the age of 2 years.&#xD;
+&#xD;
+          -  Have a history or presence of clinically significant testicular problems (e.g.,&#xD;
+             epididymitis, orchitis, testicular torsion, varicocele Grade III, testicular atrophy,&#xD;
+             occlusive azoospermia, etc.) that would impair participants response to treatment or&#xD;
+             has had known damage or injury to the vas deferens.&#xD;
+&#xD;
+          -  Had any previous treatment with GnRH, gonadotropins (e.g., hCG, FSH) or androgens&#xD;
+             (e.g., testosterone, etc.). Note: Use of GnRH and gonadotropins for diagnostic testing&#xD;
+             purposes only is allowed. Participants with use of hCG and androgen therapy prior to&#xD;
+             the age of 2 years old can be included in the trial. Participants with transient use&#xD;
+             of androgens (i.e., for less than 2 weeks) that was stopped at least 6 months prior to&#xD;
+             signing informed consent can also be included in the trial.&#xD;
+&#xD;
+          -  Has an untreated or inadequately treated pituitary or hypothalamic tumor.&#xD;
+&#xD;
+          -  Have uncontrolled endocrinopathies, including thyroid, adrenal, and pituitary&#xD;
+             disorders not on stable replacement therapies.&#xD;
+&#xD;
+          -  Has a history of active pituitary hypersecretion as evidenced by hyperprolactinemia or&#xD;
+             Cushing's disease, acromegaly, or any other active pituitary hypersecretion syndrome.&#xD;
+             (Note: Individuals who have been treated and are clinically stable, with no evidence&#xD;
+             of hypersecretion for at least 12 months prior to screening, may participate.&#xD;
+&#xD;
+          -  Has had hypophysectomy within 12 months to the start of screening.&#xD;
+&#xD;
+          -  Has history of oncologic chemotherapy treatment.&#xD;
+&#xD;
+          -  Has had brain radiotherapy within 12 months of start of treatment for a primary tumor,&#xD;
+             or any history of brain radiotherapy for metastatic disease.&#xD;
+&#xD;
+          -  Has diabetes mellitus.&#xD;
+&#xD;
+          -  Has history of Human Immunodeficiency Virus (HIV).&#xD;
+&#xD;
+          -  Has renal insufficiency, as determined by investigator, based on serum creatinine,&#xD;
+             blood urea nitrogen, and estimated glomerular filtration rate.&#xD;
+&#xD;
+          -  Has clinically significant liver disease, including active viral hepatitis or&#xD;
+             cirrhosis. Individuals with a prior history of liver disease which is now inactive or&#xD;
+             successfully treated may be enrolled if all liver function values performed within the&#xD;
+             past year have been normal and within the normal range at Visit 1.&#xD;
+&#xD;
+          -  Has had a recent history of recreational or illicit drug use, including marijuana; or&#xD;
+             routinely consumes &gt;2 alcoholic drinks per day or &gt;14 alcoholic drinks per week, or&#xD;
+             engages in binge drinking.&#xD;
+&#xD;
+          -  Has an allergy/sensitivity to gonadotropins or its/their excipients.&#xD;
+&#xD;
+          -  Has used an investigational drug and/or participated in any other clinical trial&#xD;
+             within the past 8 weeks (prior to Visit 2), or will participate in any other clinical&#xD;
+             trials (excluding surveys) during the course of this trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>All participants must be male.</gender_description>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Centro de Diabetes Curitiba ( Site 0012)</name>
+      <address>
+        <city>Curitiba</city>
+        <zip>80810-040</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas de Porto Alegre ( Site 0014)</name>
+      <address>
+        <city>Porto Alegre</city>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp das Clinicas da Faculdade de Medicina da Univ de Sao Paulo ( Site 0015)</name>
+      <address>
+        <city>Sao Paulo</city>
+        <zip>05403-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rigshospitalet, University department of Growth and Reproduction ( Site 0051)</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AOU Careggi ( Site 0042)</name>
+      <address>
+        <city>Firenze</city>
+        <zip>50139</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Umberto I ( Site 0043)</name>
+      <address>
+        <city>Roma</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Ospedale Pediatrico Bambino Gesu ( Site 0044)</name>
+      <address>
+        <city>Roma</city>
+        <zip>00165</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Pediatria ( Site 0007)</name>
+      <address>
+        <city>Mexico City</city>
+        <zip>04530</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Infantil de Mexico Federico Gomez ( Site 0006)</name>
+      <address>
+        <city>Mexico City</city>
+        <zip>06720</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kazan State Medical University ( Site 0024)</name>
+      <address>
+        <city>Kazan</city>
+        <zip>420048</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Budget Institution Endocrinological Research Center ( Site 0021)</name>
+      <address>
+        <city>Moscow</city>
+        <zip>117036</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>City children polyclinic #44 ( Site 0025)</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>191144</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St.Petersburg State Pediatric Medical University ( Site 0023)</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>194100</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Republic Children Clinical Hospital ( Site 0022)</name>
+      <address>
+        <city>Ufa</city>
+        <zip>450106</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Little Company of Mary Hospital ( Site 0017)</name>
+      <address>
+        <city>Pretoria</city>
+        <zip>0181</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Denmark</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Russian Federation</country>
+    <country>South Africa</country>
+  </location_countries>
+  <removed_countries>
+    <country>Finland</country>
+    <country>Germany</country>
+    <country>Norway</country>
+    <country>Poland</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </removed_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>January 11, 2017</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2017</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 12, 2017</study_first_posted>
+  <results_first_submitted>March 3, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 6, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 8, 2021</results_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypogonadism</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 24, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/75/NCT03019575/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Male participants with Hypogonadotropic Hypogonadism (HH) aged 14 to &lt;18 years were enrolled in the study. A total of 17 participants were allocated to the study treatment arm.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+          <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Male participants with Hypogonadotropic Hypogonadism (HH) aged 14 to &lt;18 years were enrolled in the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+          <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="17"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15.5" spread="0.9" lower_limit="0.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Testicular Volume (TV)</title>
+          <units>mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2.2" spread="1.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Log-Transformed Testicular Volume (TV) to Week 64</title>
+        <description>Participants underwent testicular ultrasound of left and right testes at pre-specified time points to measure TV. TV was measured as the sum of volumes of left and right testes. The linear mixed model with a fixed effect for baseline and Week 64 and a random effect for participant was used to calculate the mean change in log-transformed TV and associated 95% confidence intervals (CIs) from baseline to Week 64. The geometric mean ratio and its 95% CIs for TV were obtained by exponentiation. The ratio &gt; 1 indicated an increase in TV from baseline.</description>
+        <time_frame>Baseline and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment, who had a baseline and at least 1 post baseline TV value, had luteinizing hormone (LH) level ≤3 IU/L anytime in the study, had at least 12 weeks of Corifollitropin Alfa (CFA) and 24 weeks of CFA plus human chorionic gonadotropin (hCG) treatment, have last TV value within 4 weeks from last dose of CFA were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Log-Transformed Testicular Volume (TV) to Week 64</title>
+          <description>Participants underwent testicular ultrasound of left and right testes at pre-specified time points to measure TV. TV was measured as the sum of volumes of left and right testes. The linear mixed model with a fixed effect for baseline and Week 64 and a random effect for participant was used to calculate the mean change in log-transformed TV and associated 95% confidence intervals (CIs) from baseline to Week 64. The geometric mean ratio and its 95% CIs for TV were obtained by exponentiation. The ratio &gt; 1 indicated an increase in TV from baseline.</description>
+          <population>All participants who received at least 1 dose of study treatment, who had a baseline and at least 1 post baseline TV value, had luteinizing hormone (LH) level ≤3 IU/L anytime in the study, had at least 12 weeks of Corifollitropin Alfa (CFA) and 24 weeks of CFA plus human chorionic gonadotropin (hCG) treatment, have last TV value within 4 weeks from last dose of CFA were analyzed.</population>
+          <units>mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.5" spread="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 64</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.5" spread="6.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <non_inferiority_desc>Linear Mixed Model</non_inferiority_desc>
+            <param_type>Geometric Mean Ratio</param_type>
+            <param_value>9.43</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>7.44</ci_lower_limit>
+            <ci_upper_limit>11.97</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Experienced an Adverse Event (AE)</title>
+        <description>An adverse event was defined as any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have to have a causal relationship with this treatment. The number of participants who experienced an AE was reported.</description>
+        <time_frame>Up to approximately 71 Weeks</time_frame>
+        <population>All participants who received at least 1 dose of study treatment were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Experienced an Adverse Event (AE)</title>
+          <description>An adverse event was defined as any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have to have a causal relationship with this treatment. The number of participants who experienced an AE was reported.</description>
+          <population>All participants who received at least 1 dose of study treatment were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Discontinued Study Treatment Due to an AE</title>
+        <description>An adverse event was defined as any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have to have a causal relationship with this treatment. The number of participants who discontinued study treatment due to an AE was reported.</description>
+        <time_frame>Up to approximately 64 Weeks</time_frame>
+        <population>All participants who received at least 1 dose of study treatment were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Discontinued Study Treatment Due to an AE</title>
+          <description>An adverse event was defined as any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have to have a causal relationship with this treatment. The number of participants who discontinued study treatment due to an AE was reported.</description>
+          <population>All participants who received at least 1 dose of study treatment were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With Anti-Corifollitropin Alfa (CFA) Antibodies</title>
+        <description>Blood samples were collected at pre-specified time points to assess anti-CFA antibodies. The percentage of participants with anti-CFA antibodies after administration of CFA were reported.</description>
+        <time_frame>Up to approximately 71 Weeks</time_frame>
+        <population>All participants who received at least 1 dose of study treatment were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Anti-Corifollitropin Alfa (CFA) Antibodies</title>
+          <description>Blood samples were collected at pre-specified time points to assess anti-CFA antibodies. The percentage of participants with anti-CFA antibodies after administration of CFA were reported.</description>
+          <population>All participants who received at least 1 dose of study treatment were analyzed.</population>
+          <units>Percentage of Participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Serum Inhibin B Concentration to Week 64</title>
+        <description>Serum Inhibin B concentration is a surrogate marker for spermatogenesis in males. Blood samples were collected at baseline and Week 64 post dose to report the mean change from baseline in serum inhibin concentration to Week 64. A mean change from baseline in serum inhibin B concentration to Week 64 was reported. A positive value indicated a higher serum inhibin concentration level.</description>
+        <time_frame>Baseline and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, have last TV value within 4 weeks from last dose of CFA and had a baseline and at least 1 post baseline inhibin value were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Serum Inhibin B Concentration to Week 64</title>
+          <description>Serum Inhibin B concentration is a surrogate marker for spermatogenesis in males. Blood samples were collected at baseline and Week 64 post dose to report the mean change from baseline in serum inhibin concentration to Week 64. A mean change from baseline in serum inhibin B concentration to Week 64 was reported. A positive value indicated a higher serum inhibin concentration level.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, have last TV value within 4 weeks from last dose of CFA and had a baseline and at least 1 post baseline inhibin value were analyzed.</population>
+          <units>ng/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="31.92" spread="35.30" lower_limit="35.30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 64</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="91.46" spread="59.25" lower_limit="59.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Growth Velocity at Week 36</title>
+        <description>Growth velocity is the rate of change in height measurement and is a marker for pubertal progress. Height was measured using a wall-mounted calibrated stadiometer. A mixed model was used to assess the overall growth velocity slope over the 36-week treatment period using the slopes estimated from an overall mixed random intercept and random slope model of height (cm) and time (yr) and age as covariates.</description>
+        <time_frame>Week 36</time_frame>
+        <population>All participants who received at least 1 dose of study treatment, had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline height records at Week 36 were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Growth Velocity at Week 36</title>
+          <description>Growth velocity is the rate of change in height measurement and is a marker for pubertal progress. Height was measured using a wall-mounted calibrated stadiometer. A mixed model was used to assess the overall growth velocity slope over the 36-week treatment period using the slopes estimated from an overall mixed random intercept and random slope model of height (cm) and time (yr) and age as covariates.</description>
+          <population>All participants who received at least 1 dose of study treatment, had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline height records at Week 36 were analyzed.</population>
+          <units>cm/year</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.3" spread="1.1" lower_limit="1.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Growth Velocity at Week 64</title>
+        <description>Growth velocity is the rate of change in height measurement and is a marker for pubertal progress. Height was measured using a wall-mounted calibrated stadiometer. A mixed model was used to assess the overall growth velocity slope over the 64-week treatment period using the slopes estimated from an overall mixed random intercept and random slope model of height (cm) and time (year) and age as covariates.</description>
+        <time_frame>Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment, had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline height records at Week 64 were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Growth Velocity at Week 64</title>
+          <description>Growth velocity is the rate of change in height measurement and is a marker for pubertal progress. Height was measured using a wall-mounted calibrated stadiometer. A mixed model was used to assess the overall growth velocity slope over the 64-week treatment period using the slopes estimated from an overall mixed random intercept and random slope model of height (cm) and time (year) and age as covariates.</description>
+          <population>All participants who received at least 1 dose of study treatment, had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline height records at Week 64 were analyzed.</population>
+          <units>cm/year</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.6" spread="1.0" lower_limit="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Tanner Stage (TS) of Pubertal Development for Pubic Hair to Week 12, Week 36, and Week 64</title>
+        <description>Male participants were assessed clinically for pubertal development using the TS for pubic hair (range: Tanner I-V). TS describes sexual maturity stages (no better or worse outcome) as: Tanner I: prepubertal state, Tanner II: small amount of long, downy hair with slight pigmentation at the base of the penis and scrotum, Tanner III: hair becomes more coarse and curly, and begins to extend laterally, Tanner IV: adult-like hair quality, extending across pubis but sparing medial thighs and Tanner V: hair extends to medial surface of the thigh. The number of participants in each Tanner stage at baseline and categorical change from baseline in Tanner stages to Weeks 12, 36 and 64 were reported.</description>
+        <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, have last TV value within 4 weeks from last dose of CFA were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Tanner Stage (TS) of Pubertal Development for Pubic Hair to Week 12, Week 36, and Week 64</title>
+          <description>Male participants were assessed clinically for pubertal development using the TS for pubic hair (range: Tanner I-V). TS describes sexual maturity stages (no better or worse outcome) as: Tanner I: prepubertal state, Tanner II: small amount of long, downy hair with slight pigmentation at the base of the penis and scrotum, Tanner III: hair becomes more coarse and curly, and begins to extend laterally, Tanner IV: adult-like hair quality, extending across pubis but sparing medial thighs and Tanner V: hair extends to medial surface of the thigh. The number of participants in each Tanner stage at baseline and categorical change from baseline in Tanner stages to Weeks 12, 36 and 64 were reported.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, have last TV value within 4 weeks from last dose of CFA were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline (BL) Tanner I</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner V</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 12 Tanner I</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 12 Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 12 Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 12 Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner III to Week 12 Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 36 Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 36 Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 36 Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 36 Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner III to Week 36 Tanner IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 64 Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 64 Tanner IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 64 Tanner V</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 64 Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 64 Tanner IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 64 Tanner V</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 64 Unknown</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner III to Week 64 Tanner IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in TS of Pubertal Development for Genital Growth to Week 12, Week 36, and Week 64</title>
+        <description>Male participants were assessed clinically for pubertal development using TS for genital growth (range: Tanner I-V). TS describes sexual maturity stages (no better or worse outcome) as: Tanner I: prepubertal (TV &lt;1.5 ml; small penis), Tanner II: TV 1.6-6ml; skin on scrotum thins, reddens and enlarges; penis length unchanged, Tanner III: TV 6-12ml; scrotum enlarges further; penis begins to lengthen Tanner IV: TV 12-20ml; scrotum enlarges further and darkens; penis increases in length and circumference, and Tanner V: TV &gt;20ml; adult scrotum and penis. The number of participants in each Tanner stage at baseline and categorical change from baseline in Tanner stages to Weeks 12, 36 and 64 were reported.</description>
+        <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, have last TV value within 4 weeks from last dose of CFA were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in TS of Pubertal Development for Genital Growth to Week 12, Week 36, and Week 64</title>
+          <description>Male participants were assessed clinically for pubertal development using TS for genital growth (range: Tanner I-V). TS describes sexual maturity stages (no better or worse outcome) as: Tanner I: prepubertal (TV &lt;1.5 ml; small penis), Tanner II: TV 1.6-6ml; skin on scrotum thins, reddens and enlarges; penis length unchanged, Tanner III: TV 6-12ml; scrotum enlarges further; penis begins to lengthen Tanner IV: TV 12-20ml; scrotum enlarges further and darkens; penis increases in length and circumference, and Tanner V: TV &gt;20ml; adult scrotum and penis. The number of participants in each Tanner stage at baseline and categorical change from baseline in Tanner stages to Weeks 12, 36 and 64 were reported.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, have last TV value within 4 weeks from last dose of CFA were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline (BL) Tanner I</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner V</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 12 Tanner I</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 12 Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 12 Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 36 Tanner I</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 36 Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 36 Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 36 Tanner IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 36 Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 64 Tanner II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 64 Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 64 Tanner IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 64 Tanner V</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner I to Week 64 Unknown</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>BL Tanner II to Week 64 Tanner III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mean Serum Concentration of CFA</title>
+        <description>Blood samples were collected at pre-specified time points (Day 1 (predose, 6-24 hours postdose after 1st dose), Day 3 (32-52 hours postdose after 1st dose), Day 5 (72-120 hours postdose after 1st dose), Day 8 (144-192 hours postdose after 1st dose), Day 11 (216-244 hours postdose after 1st dose), Day 29 (predose prior to 2nd dose; no hCG), Day 85 (predose, prior to 4th dose; no hCG), Day 169 (predose prior to 7th dose; with hCG co-administration), Day 253 (predose prior to 10th dose with hCG co-administration), Day 337 (predose prior to 13th dose; with hCG co-administration), Days 449 and 456 (postdose)) to report the mean serum concentration of CFA.</description>
+        <time_frame>Day 1: predose, 6-24 hours postdose; Day 3: 32-52 hours postdose; Day 5: 72-120 hours postdose; Day 8: 144-192 hours postdose; Day 11: 216-244 hours postdose; Days 29, 85, 169, 253, 337: predose; Days 449, 456: postdose</time_frame>
+        <population>All enrolled participants in the study were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mean Serum Concentration of CFA</title>
+          <description>Blood samples were collected at pre-specified time points (Day 1 (predose, 6-24 hours postdose after 1st dose), Day 3 (32-52 hours postdose after 1st dose), Day 5 (72-120 hours postdose after 1st dose), Day 8 (144-192 hours postdose after 1st dose), Day 11 (216-244 hours postdose after 1st dose), Day 29 (predose prior to 2nd dose; no hCG), Day 85 (predose, prior to 4th dose; no hCG), Day 169 (predose prior to 7th dose; with hCG co-administration), Day 253 (predose prior to 10th dose with hCG co-administration), Day 337 (predose prior to 13th dose; with hCG co-administration), Days 449 and 456 (postdose)) to report the mean serum concentration of CFA.</description>
+          <population>All enrolled participants in the study were analyzed.</population>
+          <units>ng/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Predose Day 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" spread="0.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postdose Day 1 (6-24 hours)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4100" spread="2630"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postdose Day 3 (32-52 hours)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5880" spread="1640"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postdose Day 5 (72-120 hours)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4240" spread="1180"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postdose Day 8 (144-192 hours)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2110" spread="864"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postdose Day 11 (216-264 hours)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1150" spread="655"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Predose Day 29</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="480" spread="348"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Predose Day 85</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="695" spread="1310"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Predose Day 169</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="691" spread="1060"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Predose Day 253</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="301" spread="297"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Predose Day 337</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="556" spread="1260"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postdose Day 449</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="864" spread="1290"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Postdose Day 456</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" spread="0.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Testicular Echogenicity to Week 12, Week 36, and Week 64</title>
+        <description>Testicular Echogenicity was determined by evaluating the sonographic patterns obtained on testicular ultrasound of right and left testes at baseline, Week 12, Week 36 and 64. The sonographic patterns were assessed by central imaging unit by an independent radiologist and categorized as Hypoechoic (decreased echogenicity as compared to echogenicity at baseline), Isoechoic (same echogenicity as compared to echogenicity at baseline) and Hyperechoic (increased echogenicity as compared to echogenicity at baseline). The number of participants with a sonographic pattern at Weeks 12, 36 and 64 were reported.</description>
+        <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, have last TV value within 4 weeks from last dose of CFA were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Testicular Echogenicity to Week 12, Week 36, and Week 64</title>
+          <description>Testicular Echogenicity was determined by evaluating the sonographic patterns obtained on testicular ultrasound of right and left testes at baseline, Week 12, Week 36 and 64. The sonographic patterns were assessed by central imaging unit by an independent radiologist and categorized as Hypoechoic (decreased echogenicity as compared to echogenicity at baseline), Isoechoic (same echogenicity as compared to echogenicity at baseline) and Hyperechoic (increased echogenicity as compared to echogenicity at baseline). The number of participants with a sonographic pattern at Weeks 12, 36 and 64 were reported.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, have last TV value within 4 weeks from last dose of CFA were analyzed.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Left Testes: Baseline (BL) to Week 12: Hypoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Testes: BL to Week 12: Isoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Testes: BL to Week 12: Hyperechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Testes: BL to Week 12: Hypoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Testes: BL to Week 12: Isoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Testes: BL to Week 36: Hypoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Testes: BL to Week 36: Isoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Testes: BL to Week 36: Hyperechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Testes: BL to Week 36: Hypoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Testes: BL to Week 36: Isoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Testes: BL to Week 36: Hyperechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Testes: BL to Week 64: Hypoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Testes: BL to Week 64: Isoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Left Testes: BL to Week 64: Hyperechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Testes: BL to Week 64: Isoechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Right Testes: BL to Week 64: Hyperechoic</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Luteinizing Hormone (LH) to Week 12, Week 36, and Week 64</title>
+        <description>LH is a gonadotropin secreted from the anterior pituitary and is a marker for spontaneous puberty. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in LH level to Weeks 12, 36 and 64.</description>
+        <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline LH values at Weeks 12, 36 and 64 were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Luteinizing Hormone (LH) to Week 12, Week 36, and Week 64</title>
+          <description>LH is a gonadotropin secreted from the anterior pituitary and is a marker for spontaneous puberty. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in LH level to Weeks 12, 36 and 64.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline LH values at Weeks 12, 36 and 64 were analyzed.</population>
+          <units>IU/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.25" spread="0.24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 12</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.08" spread="0.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 36</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.13" spread="0.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 64</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.14" spread="0.25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Calculated Free Testosterone (T) to Week 12, Week 36, and Week 64</title>
+        <description>Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in T level to Weeks 12, 36 and 64. The change from baseline in T level to Week 12, 36, and 64 could not be calculated as planned because only 2 participants had baseline T level values which were insufficient to provide the trend change from baseline in T level to Week 12, 36, and 64.</description>
+        <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA + hCG treatment, had last TV value within 4 weeks from last CFA dose and had a baseline and post baseline T value at Week 12, 36 and 64 were to be analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Calculated Free Testosterone (T) to Week 12, Week 36, and Week 64</title>
+          <description>Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in T level to Weeks 12, 36 and 64. The change from baseline in T level to Week 12, 36, and 64 could not be calculated as planned because only 2 participants had baseline T level values which were insufficient to provide the trend change from baseline in T level to Week 12, 36, and 64.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA + hCG treatment, had last TV value within 4 weeks from last CFA dose and had a baseline and post baseline T value at Week 12, 36 and 64 were to be analyzed.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Total Testosterone (Total T) to Week 12, Week 36, and Week 64</title>
+        <description>Total T is a marker for progress of puberty in males. Total T levels increase during puberty as the testes respond to the gonadotropins. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 post dose to report the mean change from baseline in Total T level to Weeks 12, 36 and 64. A negative value indicated a lower Total T level.</description>
+        <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline Total T value at Week 12, 36 and 64 were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Total Testosterone (Total T) to Week 12, Week 36, and Week 64</title>
+          <description>Total T is a marker for progress of puberty in males. Total T levels increase during puberty as the testes respond to the gonadotropins. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 post dose to report the mean change from baseline in Total T level to Weeks 12, 36 and 64. A negative value indicated a lower Total T level.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline Total T value at Week 12, 36 and 64 were analyzed.</population>
+          <units>ug/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.11" spread="0.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 12</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.01" spread="0.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 36</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.87" spread="3.97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 64</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.31" spread="3.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Estradiol (E2) to Week 12, Week 36, and Week 64</title>
+        <description>E2 levels rise during puberty in males when some of the T secreted is aromatized. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in E2 level to Weeks 12, 36 and 64. A positive value indicated a higher E2 level.</description>
+        <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline E2 value at Week 12, 36 and 64 were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Estradiol (E2) to Week 12, Week 36, and Week 64</title>
+          <description>E2 levels rise during puberty in males when some of the T secreted is aromatized. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in E2 level to Weeks 12, 36 and 64. A positive value indicated a higher E2 level.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline E2 value at Week 12, 36 and 64 were analyzed.</population>
+          <units>ng/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.51" spread="0.00" lower_limit="0.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.81" spread="2.90" lower_limit="2.90"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 36</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37.57" spread="28.73" lower_limit="28.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 64</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="45.58" spread="41.09" lower_limit="41.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Sex Hormone-Binding Globulin (SHBG) to Week 12, Week 36, and Week 64</title>
+        <description>SHBG is a blood protein that controls the amount of T body tissues in males. SHBG is regulated by the ratio of T and E2 levels in addition to other factors (thyroid hormone status, dietary factors, certain diseases and medications). Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in SHBG level to Weeks 12, 36 and 64. A negative value indicated a lower SHBG level.</description>
+        <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline SHBG value at Week 12, 36 and 64 were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Sex Hormone-Binding Globulin (SHBG) to Week 12, Week 36, and Week 64</title>
+          <description>SHBG is a blood protein that controls the amount of T body tissues in males. SHBG is regulated by the ratio of T and E2 levels in addition to other factors (thyroid hormone status, dietary factors, certain diseases and medications). Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in SHBG level to Weeks 12, 36 and 64. A negative value indicated a lower SHBG level.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline SHBG value at Week 12, 36 and 64 were analyzed.</population>
+          <units>ug/dL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.53" spread="0.91"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 12</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.04" spread="0.45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 36</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.53" spread="0.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 64</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.68" spread="0.76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Anti-Müllerian Hormone (AMH) to Week 12, Week 36, and Week 64</title>
+        <description>AMH is a marker for progress of puberty in males. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in AMH level to Weeks 12, 36 and 64. A negative value indicated a lower AMH level.</description>
+        <time_frame>Baseline, Week 12, Week 36, and Week 64</time_frame>
+        <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline AMH value at Week 12, 36 and 64 were analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+            <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Anti-Müllerian Hormone (AMH) to Week 12, Week 36, and Week 64</title>
+          <description>AMH is a marker for progress of puberty in males. Blood samples were collected at baseline, Week 12, Week 36 and Week 64 to report the mean change from baseline in AMH level to Weeks 12, 36 and 64. A negative value indicated a lower AMH level.</description>
+          <population>All participants who received at least 1 dose of study treatment who had a baseline and at least 1 post baseline TV value, had LH level ≤3 IU/L anytime in the study, had at least 12 weeks of CFA and 24 weeks of CFA plus hCG treatment, had last TV value within 4 weeks from last dose of CFA and had a baseline and post baseline AMH value at Week 12, 36 and 64 were analyzed.</population>
+          <units>ug/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.62" spread="11.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 12</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.98" spread="8.39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 36</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="12"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-10.23" spread="15.69"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Baseline to Week 64</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-15.83" spread="11.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>All-cause mortality, serious and non-serious AEs were collected for up to approximately 71 Weeks</time_frame>
+      <desc>All participants who received at least one dose of study treatment were analyzed.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Corifollitropin Alfa (CFA)+Human Chorionic Gonadotropin (hCG)</title>
+          <description>Participants received 100 μg (if body weight was ≤60 kg) or 150 μg (if body weight was &gt;60 kg) of CFA as a subcutaneous (SC) injection once every 2 weeks for 64 Weeks (Day 1, Week 0 through Week 64) and 500-5000 IU of hCG reconstituted with 1 ml of 0.9% sodium chloride solution, as a SC injection twice a week for 52 weeks (last day of Week 12 through Week 64). The total treatment duration was 64 Weeks.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Craniopharyngioma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 23.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Iron deficiency anaemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Congenital, familial and genetic disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hydrocele</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypothyroidism</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Dental caries</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Gingival oedema</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Injection site pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Peripheral swelling</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract infection viral</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Tinea infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Tracheitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Accidental overdose</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Foot fracture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Blood prolactin increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Blood testosterone decreased</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Blood testosterone free increased</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Blood testosterone increased</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Human chorionic gonadotropin increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Oestradiol increased</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Testicular scan abnormal</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Ultrasound testes abnormal</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperphagia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Metabolic syndrome</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cerebrovascular disorder</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Presyncope</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dysuria</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pruritus genital</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Scrotal disorder</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Spermatocele</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="5" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Varicocele</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nasal congestion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis allergic</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Rhinorrhoea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acanthosis nigricans</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Acne</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis contact</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hot flush</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The Sponsor must have the opportunity to review all proposed abstracts, manuscripts, or presentations regarding this study 45 days prior to submission for publication/presentation. Any information identified by the Sponsor as confidential must be deleted prior to submission. Sponsor review can be expedited to meet publication timelines.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Clinical Trials Disclosure</name_or_title>
+      <organization>Merck Sharp &amp; Dohme Corp.</organization>
+      <phone>1-800-672-6372</phone>
+      <email>ClinicalTrialsDisclosure@merck.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

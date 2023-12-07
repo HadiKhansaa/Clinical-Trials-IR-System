@@ -1,0 +1,339 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01949467</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FERHEP</org_study_id>
+    <nct_id>NCT01949467</nct_id>
+  </id_info>
+  <brief_title>Analysis of the Modulation of Serum Hepcidin Level in Response to Iron Oral Intake: Potential Interest for the Differential Diagnosis Between Ferroportin Disease and Dysmetabolic Hepatosiderosis.</brief_title>
+  <official_title>Prospective, Comparative (5 Groups), Non-randomized, Multicenter, Physiopathological Study, Evaluating Pharmacokinetic Characteristics of Serum Hepcidin Level in Response to Iron Oral Intake in Order to Evaluate Their Interest to Discriminate Patients With Dysmetabolic Hepatosiderosis or Ferroportin Disease.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rennes University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rennes University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The diagnosis of iron overload is a common problem. It is important to optimize the diagnosis&#xD;
+      to ensure support for patients and their relatives especially regarding genetic disease.&#xD;
+&#xD;
+      Iron overload revealed by a high level of serum ferritin and confirmed by the presence of an&#xD;
+      excessive amount of iron in the liver is a frequent situation. In a lot of case there is no&#xD;
+      increase in serum iron and transferrin saturation. This situation may arise in particular in&#xD;
+      patients with:&#xD;
+&#xD;
+        -  a genetic iron overload related to mutation in the ferroportine gene, leading to a&#xD;
+           ferroportin disease. The diagnosis is based on the sequencing of the gene,&#xD;
+&#xD;
+        -  a dysmetabolic hepatosiderosis, the most frequent situation , where iron overload is&#xD;
+           associated with abnormalities in the metabolism of carbohydrates and fats, whereas no&#xD;
+           genetic cause is identified.&#xD;
+&#xD;
+      However, patients often have similar biological signs and despite the implementation of&#xD;
+      strict algorithm regarding the diagnostic procedure, it appears that a large number of&#xD;
+      patients are tested for the mutation in the ferroportin gene, and that mutation is not found&#xD;
+      in most cases. It is therefore essential to optimize the diagnosis process by introducing&#xD;
+      additional criteria.&#xD;
+&#xD;
+      The investigators' hypothesis, based on the known elements, is that the response to a single&#xD;
+      dose of iron will modulate differently the iron parameters measured in serum, including&#xD;
+      hepcidin level which controls iron metabolism and metals associated with iron. This could be&#xD;
+      helpful for diagnosis procedure in patients with ferroportin disease or dysmetabolic&#xD;
+      hepatosiderosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The quantification of serum hepcidin level is a potential method of investigation in iron&#xD;
+      metabolism disorders. However, apart from some extreme situations, the assay achieved solely&#xD;
+      is not helpful. This is due to the varying levels encountered from one subject to another for&#xD;
+      the same disease. This is related to the facts that values considered to be normal cover a&#xD;
+      wide range and that a value obtained for a given patient at a given time, can be influenced&#xD;
+      by many factors.&#xD;
+&#xD;
+      It has been reported that a a single oral iron dose induced an increase of serum hepcidin&#xD;
+      level in healthy subjects which is abolished in subjects with genetic hemochromatosis linked&#xD;
+      to insufficient hepcidin expression related to mutations in the HFE or TFR2 genes.&#xD;
+&#xD;
+      In patients with a dysmetabolic hepatosiderosis, it was suggested that the expected&#xD;
+      hepcidinemia increase found after an iron intake was altered, likely due to a slight&#xD;
+      inflammatory signal responsible for hepcidin induction.&#xD;
+&#xD;
+      The investigators hypothesize that a dynamic response of iron parameters, including&#xD;
+      modulation of hepcidin level, to an iron intake will allow to discriminate patients with&#xD;
+      ferroportin disease or dysmetabolic hepatosiderosis, situations whose clinicobiological&#xD;
+      presentation is often confusing.&#xD;
+&#xD;
+      Thus, the three objectives in this study will be :&#xD;
+&#xD;
+        1. To define pharmacokinetic characteristics of serum hepcidin in response to iron oral&#xD;
+           intake and to determine the ability of this pharmacokinetic to discriminate dysmetabolic&#xD;
+           hepatosiderosis and ferroportin disease.&#xD;
+&#xD;
+        2. To correlate amplitude of this response to the iron parameters modulation&#xD;
+&#xD;
+        3. To correlate amplitude of this response to the concentration of divalent cations whose&#xD;
+           metabolism uses common genes to those involved in iron metabolism.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 10, 2014</start_date>
+  <completion_date type="Actual">December 26, 2018</completion_date>
+  <primary_completion_date type="Actual">December 19, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>hepcidemia rate</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The primary endpoint is the maximum variation, of hepcidemia rate (Δmax) after iron oral intake. This variation will be compared between the different groups of included subjects</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ratios between serum hepcidin level and iron parameters</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Differential modulation, induced by the iron intake, of ratios between serum hepcidin level and iron parameters (serum iron, transferrin, ferritin) between the different groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>serum level of other divalent cations</measure>
+    <time_frame>day 1</time_frame>
+    <description>Modulation of serum level of other divalent cations.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">62</enrollment>
+  <condition>Hemochromatosis, Type 4</condition>
+  <condition>Ferroportin Disease</condition>
+  <condition>Dysmetabolic Hepatosiderosis</condition>
+  <condition>Diagnosis</condition>
+  <arm_group>
+    <arm_group_label>TDHS</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>20 Patients with Treated Dysmetabolic Hepatosiderosis (TDHS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>UDHS</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>20 patients with untreated Dysmetabolic Hepatosiderosis (UDHS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TFPD</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>20 patients with treated Ferroportin Disease (TFPD)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>UFPD</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>20 patients with untreated Ferroportin Disease (UFPD)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HV</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>20 Healthy volunteers (HV) patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>iron fumarate</intervention_name>
+    <description>All patients will receive a tablet of 66mg of iron, in the form of iron fumarate (Fumafer®) with 50 ml water.</description>
+    <arm_group_label>HV</arm_group_label>
+    <arm_group_label>TDHS</arm_group_label>
+    <arm_group_label>TFPD</arm_group_label>
+    <arm_group_label>UDHS</arm_group_label>
+    <arm_group_label>UFPD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for patients:&#xD;
+&#xD;
+          -  Man or woman older than 18 years&#xD;
+&#xD;
+          -  Subject having a liver iron overload greater than or equal to 100 umol /g dry liver&#xD;
+             weight, confirmed by MRI (done performed with body antenna and complete deactivation&#xD;
+             of the surface antenna) and / or by biochemical assay on liver biopsy, and related to&#xD;
+             dysmetabolic hepatosiderosis or ferroportin disease.&#xD;
+&#xD;
+               -  The ferroportin disease will be retained when patients will present an&#xD;
+                  hyperferritinemia without elevated transferrin saturation and a heterozygote&#xD;
+                  mutation in the gene encoding ferroportin.&#xD;
+&#xD;
+               -  A dysmetabolic hepatosiderosis will be retained following the usual diagnostic&#xD;
+                  investigation including sequencing of the gene for ferroportin (mutation proven&#xD;
+                  negative), if patients do not show any other cause of iron overload and&#xD;
+                  hyperferritinemia is not related to excessive alcohol intake, non-metabolic liver&#xD;
+                  cytolysis (hepatitis C virus, wilson, autoimmune hepatitis, ...), hemolysis, or&#xD;
+                  inflammatory syndrome.&#xD;
+&#xD;
+          -  Status towards the iron-depletive treatment : either no venesection performed&#xD;
+             (Dysmetabolic HepatoSiderosis and Ferroportin disease groups) or attack iron depletive&#xD;
+             treatment completed (Treated Dysmetabolic Hepatosiderosis and Treated Ferroportin&#xD;
+             Disease groups) with ferritin level less than 100 ng / ml, without anemia and with no&#xD;
+             venesection in the two last months.&#xD;
+&#xD;
+          -  Having given a free and informed consent in writing&#xD;
+&#xD;
+          -  Affiliate to the social security system.&#xD;
+&#xD;
+        Exclusion Criteria for patients:&#xD;
+&#xD;
+          -  Alcohol consumption greater than 30g/d&#xD;
+&#xD;
+          -  Chronic inflammatory disease.&#xD;
+&#xD;
+          -  HIV, HCV or HBV Infection.&#xD;
+&#xD;
+          -  Blood donation in the last three months.&#xD;
+&#xD;
+          -  Infection during the previous seven days before testing&#xD;
+&#xD;
+          -  Staying in altitude (&gt;1500 m) dating less than 2 months&#xD;
+&#xD;
+          -  Night occupation or shift work.&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Exclusion period in the national register of persons suitable for biomedical research.&#xD;
+&#xD;
+          -  Protected adults (judicial protection, guardianship and trusteeship) and persons&#xD;
+             deprived of liberty&#xD;
+&#xD;
+        Inclusion criteria for healthy volunteers:&#xD;
+&#xD;
+          -  Man or woman older than 18 years.&#xD;
+&#xD;
+          -  Body Mass Index between 18 and 25 kg/m².&#xD;
+&#xD;
+          -  Non smoker or quit smoking for more than 6 months&#xD;
+&#xD;
+          -  Examen clinique normal. Normal clinical examination&#xD;
+&#xD;
+          -  Normal ECG.&#xD;
+&#xD;
+          -  Normal values for routine laboratory tests : serum iron, tranferrin saturation, CBC,&#xD;
+             ferritin, blood cell count C-reactive protein, AST, ALT, GGT, HDL and LDL cholesterol,&#xD;
+             triglycerides.&#xD;
+&#xD;
+          -  Having given a free and informed consent in writing&#xD;
+&#xD;
+          -  Affiliate or beneficiary to the social security system.&#xD;
+&#xD;
+        Exclusion criteria for healthy volunteers :&#xD;
+&#xD;
+          -  Progressive and/or chronic disease.&#xD;
+&#xD;
+          -  Infection during the previous seven days before testing&#xD;
+&#xD;
+          -  Drug use under 6 months.&#xD;
+&#xD;
+          -  Alcohol consumption greater than 30g/d&#xD;
+&#xD;
+          -  Medication ongoing or stopped from less than a week (except contraceptives).&#xD;
+&#xD;
+          -  History of blood transfusion or martial treatment.&#xD;
+&#xD;
+          -  Staying in altitude (&gt;1500 m) dating less than 2 months&#xD;
+&#xD;
+          -  Night occupation or shift work.&#xD;
+&#xD;
+          -  Known infection by hepatitis B or C.&#xD;
+&#xD;
+          -  Positive serology for HIV.&#xD;
+&#xD;
+          -  Blood donation in the last three months.&#xD;
+&#xD;
+          -  Pregnancy.&#xD;
+&#xD;
+          -  Exclusion period in the national register of persons suitable for biomedical research.&#xD;
+&#xD;
+          -  Protected adults (judicial protection, guardianship and trusteeship) and persons&#xD;
+             deprived of liberty.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>CHU Clermont-Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Limoges</name>
+      <address>
+        <city>Limoges</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Pontchaillou</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>August 2018</verification_date>
+  <study_first_submitted>September 20, 2013</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 24, 2013</study_first_posted>
+  <last_update_submitted>March 25, 2019</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 27, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ferroportin disease</keyword>
+  <keyword>dysmetabolic hepatosiderosis</keyword>
+  <keyword>genetic hemochromatosis</keyword>
+  <keyword>hyperferritinemia</keyword>
+  <keyword>hepcidin</keyword>
+  <keyword>iron fumarate</keyword>
+  <keyword>physiopathological study</keyword>
+  <keyword>diagnosis</keyword>
+  <keyword>HFE gene</keyword>
+  <keyword>TRF2 gene</keyword>
+  <keyword>iron parameters</keyword>
+  <keyword>divalent cations</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hemochromatosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -7,7 +7,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
-from compute_ndcg import computeNDCG
+from compute_ndcg2 import computeNDCG
 from search_trials_bert import is_eligible_for_trial
 
 # Ensure you have the necessary nltk data
@@ -19,16 +19,15 @@ stemmer = PorterStemmer()
 
 #fuction to find trial and load it
 def find_trial(trial_id):
-    PATH_TO_TRIALS = 'topic1_trials'
-    for folder in os.listdir(PATH_TO_TRIALS):
-        for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-            if file[:-4] == trial_id:
-                with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
-                    try:
-                        content = f.read()
-                    except:
-                        continue
-                    return content
+    PATH_TO_TRIALS = 'trials_query1'
+    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
+        if file[:-4] == trial_id:
+            with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
+                try:
+                    content = f.read()
+                except:
+                    continue
+                return content
 
 def extract_queries(file_path):
     # Parse the XML content from the file
@@ -101,8 +100,9 @@ if __name__ == "__main__":
 
         # Combine scores with weights
         total_scores = combine_scores(i_scores, e_scores, d_scores, 0.33, 0.44, 0.23)
-        # sorted_scores = sorted(total_scores.items(), key=lambda x: x[1], reverse=True)
+        sorted_scores = sorted(total_scores.items(), key=lambda x: x[1], reverse=True)
         
+        '''to filter trials based on age and gender
         final_scores = defaultdict(float)
         for trial_xml,trial_score in total_scores.items():
             # Check if the trial is eligible for the topic
@@ -112,7 +112,7 @@ if __name__ == "__main__":
             final_scores[trial_xml] = trial_score
 
         sorted_scores = sorted(final_scores.items(), key=lambda x: x[1], reverse=True)
-
+        '''
         # Print combined scores for each document
         for doc, score in sorted_scores[:10]:
             print(f"Document: {doc}, Score: {score}")

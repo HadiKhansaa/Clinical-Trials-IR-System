@@ -1,0 +1,312 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01327066</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Droxidopa QTc102</org_study_id>
+    <nct_id>NCT01327066</nct_id>
+  </id_info>
+  <brief_title>Electrocardiographic (ECG) Safety Study of Droxidopa at Clinical and Supratherapeutic Dose</brief_title>
+  <official_title>A Double-Blind Randomized Crossover Trial to Define the Ecg Effects of Droxidopa Using a Clinical and a Supratherapeutic Dose Compared With Placebo and Moxifloxacin (a Positive Control) in Healthy Men and Women: a Thorough ECG Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chelsea Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chelsea Therapeutics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is define the electrocardiographic (ECG) effects of Droxidopa at&#xD;
+      clinical (600 mg) and supratherapeutic (2000 mg) doses compared with placebo and moxifloxacin&#xD;
+      in healthy male and female subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This will be a randomized, double blind, single-site, 4 period crossover study in healthy&#xD;
+      male and female subjects to determine if droxidopa administered as a single therapeutic (600&#xD;
+      mg) and a single supratherapeutic (2000 mg) dose delays cardiac repolarization as determined&#xD;
+      by the measurement of QTc interval. Study drug (droxidopa, placebo, and moxifloxacin) will be&#xD;
+      administered in a double blind, double dummy manner. The central ECG laboratory (eResearch&#xD;
+      Technology, Inc, Philadelphia, Pennsylvania) will be blinded to treatment.&#xD;
+&#xD;
+      A total of 52 healthy subjects (approximately 26 women and 26 men) will be enrolled and&#xD;
+      randomly assigned to a treatment sequence. Subjects will cross over into 4 treatment periods&#xD;
+      where each subject will receive single doses of the following treatments under fasting&#xD;
+      conditions separated by a minimum 3 day washout period (from Day 1):&#xD;
+&#xD;
+        -  Droxidopa 600 mg (therapeutic dose), oral capsules&#xD;
+&#xD;
+        -  Droxidopa 2000 mg (supratherapeutic dose), oral capsules&#xD;
+&#xD;
+        -  Placebo (matched to droxidopa), oral capsules&#xD;
+&#xD;
+        -  Moxifloxacin 400 mg (positive control; over encapsulated), oral Subjects will be&#xD;
+           screened for study participation from Days -21 to -2 and admitted to the clinic on Day&#xD;
+           -2 of Period 1 for prestudy assessments. On Day -1 of each period, subjects will undergo&#xD;
+           a full day of continuous 12 lead Holter monitoring; 4 ECGs will be extracted from the H&#xD;
+           12+ flash card approximately 1 minute apart at 0.5, 1, 2, 3, 4, 5, 6, 8, 10, 12, 18, and&#xD;
+           23 hours.&#xD;
+&#xD;
+      On the morning of Day 1 of each period, after at least an 8 hour fast, subjects will receive&#xD;
+      a single dose of study drug according to the randomly assigned treatment sequence. After&#xD;
+      dosing, subjects will be monitored for 23 hours using a continuous 12 lead ECG Holter&#xD;
+      monitor. At the ECG core laboratory, 4 ECGs will be extracted approximately 1 minute apart at&#xD;
+      0.5, 1, 2, 3, 4, 5, 6, 8, 10, 12, 18, and 23 hours (Day 2) after dosing. The ECGs will be&#xD;
+      extracted from Holter recording flashcards during a 10 minute ECG extraction window that will&#xD;
+      end at the onset of each pharmacokinetic (PK) collection nominal time point. Each ECG&#xD;
+      extraction window will be preceded by a 10 minute supine rest period.&#xD;
+&#xD;
+      A single 12 lead ECG will be performed at Screening for inclusion/exclusion in the study, and&#xD;
+      a baseline safety 12 lead ECG will be performed at Check in. In addition, a safety 12 lead&#xD;
+      ECG will be recorded and reviewed by the investigator on Day 1 of each period at 2 hours&#xD;
+      after dosing.&#xD;
+&#xD;
+      Pharmacokinetic blood samples will be collected on Day 1 of each period before dosing and&#xD;
+      0.5, 1, 2, 3, 4, 5, 6, 8, 10, 12, 18, and 23 hours (Day 2) after dosing. Subjects will be&#xD;
+      supine for at least 10 minutes before each of the time points for PK samples. The ECG&#xD;
+      extractions will be time matched to the PK samples, but will be obtained before the actual&#xD;
+      sampling time to avoid changes in autonomic tone associated with the psychological aspects of&#xD;
+      blood collection as well as the reduction in blood volume subsequent to blood collection.&#xD;
+&#xD;
+      Meal timing and components, activity levels, and general conditions in the Phase I unit will&#xD;
+      be as similar as possible on Day -1 and Day 1 of each treatment period. Subjects will be&#xD;
+      discharged on Day 2 of Period 4 (ie, 24 hours after the last dose is administered). The total&#xD;
+      study duration will be approximately 34 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2011</start_date>
+  <completion_date type="Actual">June 2011</completion_date>
+  <primary_completion_date type="Actual">April 2011</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ECG Effects</measure>
+    <time_frame>Baseline to End of Treatment (12 days)</time_frame>
+    <description>The primary ECG endpoint is the time matched, placebo adjusted change from Baseline in QT interval corrected using an individual correction method (QTcI) (ΔΔQTcI). The QTcI method provides an optimization of QT correction for HR as compared with fixed exponent approaches such as Bazett (QTcB) or Fridericia (QTcF).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>QTcF and QTcB (for historic reasons only), HR, and PR, QRS, and uncorrected QT intervals, change in ECG morphological patterns, and the correlation between the QTcI change and droxidopa plasma concentrations</measure>
+    <time_frame>Baseline to End of Treatment (12 days)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">52</enrollment>
+  <condition>QTc Interval</condition>
+  <arm_group>
+    <arm_group_label>Droxidopa - Therapeutic</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Droxidopa 600 mg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Droxidopa - Supratherapeutic Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Droxidopa 2000 mg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moxifloxacin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Moxifloxacin 400 mg dose</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Droxidopa</intervention_name>
+    <description>600 mg, single oral dose</description>
+    <arm_group_label>Droxidopa - Therapeutic</arm_group_label>
+    <other_name>L-DOPS</other_name>
+    <other_name>Northera</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Droxidopa</intervention_name>
+    <description>2000 mg, single oral dose</description>
+    <arm_group_label>Droxidopa - Supratherapeutic Dose</arm_group_label>
+    <other_name>L-DOPS</other_name>
+    <other_name>Northera</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Moxifloxacin</intervention_name>
+    <description>400 mg, single oral dose</description>
+    <arm_group_label>Moxifloxacin</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Avelox</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo matching Droxidopa or Moxifloxacin</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>sugar pill</other_name>
+    <other_name>sham</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female subject in good general health and 18 to 45 years of age, inclusive.&#xD;
+&#xD;
+          2. Female subjects must be nonpregnant, nonlactating, and have a negative serum pregnancy&#xD;
+             test before enrollment in the study. Female subjects of childbearing potential&#xD;
+             (including perimenopausal women who have had menstrual bleeding within 1 year) must be&#xD;
+             using appropriate birth control (abstinence and/or barrier methods and/or oral,&#xD;
+             injectable, or implantable hormonal contraceptives) during the entire duration of the&#xD;
+             study. Women are considered of non-childbearing potential if they are menopausal (last&#xD;
+             menstrual period greater than 12 months before Check in and a serum follicle&#xD;
+             stimulating hormone level greater than 40 mIU/mL) or have been surgically sterilized&#xD;
+             (documented hysterectomy, tubal ligation, or bilateral oophorectomy) at least 6 weeks&#xD;
+             before Check in.&#xD;
+&#xD;
+          3. Subject has a body mass index of 18.0 to 30.0 kg/m2, inclusive.&#xD;
+&#xD;
+          4. Subject provides written informed consent.&#xD;
+&#xD;
+          5. Subject is willing and able to comply with all study requirements.&#xD;
+&#xD;
+          6. Subject has no clinically significant abnormal medical history, clinical laboratory&#xD;
+             results, vital sign measurements, 12 lead safety ECG results, or physical examination&#xD;
+             findings during Screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subject is currently participating in another clinical study of an investigational&#xD;
+             drug (or a medical device), or has participated in a study of this type within 30 days&#xD;
+             before Check in.&#xD;
+&#xD;
+          2. Subject has a history or current evidence of clinically significant allergic (except&#xD;
+             for untreated, asymptomatic, seasonal allergies at the time of dosing or mild allergic&#xD;
+             reactions to drugs other than those listed in exclusion criterion #16), hematologic,&#xD;
+             endocrine, pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, or&#xD;
+             neurologic disease. Exceptions to these criteria (eg, stable mild joint disease,&#xD;
+             cholecystectomy, or childhood asthma) may be made after discussion with the medical&#xD;
+             monitor.&#xD;
+&#xD;
+          3. Subject has used any prescribed or over the counter medication without the approval of&#xD;
+             the investigator or sponsor within 1 week before the first dose of study drug&#xD;
+             (including dietary supplements, herbal remedies, and medications known to prolong the&#xD;
+             QT/corrected QT [QTc] interval).&#xD;
+&#xD;
+          4. Subject is receiving any anticoagulant (eg, coumadin, heparin, low molecular weight&#xD;
+             heparin) or has received any anticoagulant within 3 months before Check in. Subjects&#xD;
+             who are receiving any drugs that affect platelet function (eg, aspirin, including&#xD;
+             low-dose aspirin) will also be excluded.&#xD;
+&#xD;
+          5. Subject has a history of drug or alcohol abuse or dependence within 1 year before&#xD;
+             Check in.&#xD;
+&#xD;
+          6. Subject has donated blood or blood components within 4 weeks before Check in. The&#xD;
+             investigator should instruct subjects who participate in this study not to donate&#xD;
+             blood or blood components for 4 weeks after completion of the study.&#xD;
+&#xD;
+          7. Subject has a sustained supine systolic blood pressure &gt; 140 mm Hg or &lt; 90 mm Hg or a&#xD;
+             supine diastolic blood pressure &gt; 95 mm Hg or &lt; 50 mm Hg at Screening or Check in.&#xD;
+             Blood pressure may be retested once in the supine position. The blood pressure&#xD;
+             abnormality is considered sustained if either the systolic or the diastolic pressure&#xD;
+             values are outside the stated limits after 2 assessments, and the subject may not be&#xD;
+             randomized.&#xD;
+&#xD;
+          8. Subject has a resting heart rate (HR) of &lt; 45 beats per minute or &gt; 100 beats per&#xD;
+             minute when vital signs are measured at Screening or Check in.&#xD;
+&#xD;
+          9. Subject has an abnormal screening ECG indicating a second or third degree&#xD;
+             atrioventricular block, or one or more of the following: QRS interval &gt; 110&#xD;
+             milliseconds (ms); QT interval corrected for HR by Fridericia's formula (QTcF) &gt; 450&#xD;
+             ms; PR interval &gt; 200 ms; or any rhythm other than sinus rhythm that is interpreted by&#xD;
+             the investigator to be clinically significant.&#xD;
+&#xD;
+         10. Subject has a history of risk factors for torsades de pointes, including unexplained&#xD;
+             syncope, known long QT syndrome, heart failure, myocardial infarction, angina, or&#xD;
+             clinically significant abnormal laboratory assessments including hypokalemia,&#xD;
+             hypercalcemia, or hypomagnesemia. Subjects will also be excluded if there is a family&#xD;
+             history of long QT syndrome or Brugada syndrome.&#xD;
+&#xD;
+         11. Subject uses or has used nicotine-containing products (eg, cigarettes, cigars, chewing&#xD;
+             tobacco, snuff) within 2 weeks before Check in, or subject has a positive cotinine&#xD;
+             result (indicating active current smoking) at Screening or Check in.&#xD;
+&#xD;
+         12. Subject has consumed alcohol or xanthine-containing products (eg, tea, coffee,&#xD;
+             chocolate, cola) within 72 hours before Check in, or subject has a positive result for&#xD;
+             drug(s) of abuse or ethanol at Screening or Check in.&#xD;
+&#xD;
+         13. Subject consumes ≥ 500 mg per day of caffeine (eg, 5 cups of tea or coffee; 8 cans or&#xD;
+             five 20 ounce bottles of cola).&#xD;
+&#xD;
+         14. Subject has been treated with any investigational agent within 30 days before Check in&#xD;
+             (or 5 half-lives of the compound, if longer).&#xD;
+&#xD;
+         15. Subject who, for any reason, is deemed by the investigator to be inappropriate for&#xD;
+             this study, including a subject who is unable to communicate or cooperate with the&#xD;
+             investigator.&#xD;
+&#xD;
+         16. Subject has known allergies to droxidopa, moxifloxacin, any excipient in the study&#xD;
+             drug(s), or encapsulation formulations (subject will not be excluded for mild allergic&#xD;
+             reactions to drugs other than those listed in this criterion).&#xD;
+&#xD;
+         17. Subject has received treatment with droxidopa within 30 days before Check in.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Hunt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>PPD Phase I Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>PPD Phase I Clinic</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78744</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2012</verification_date>
+  <study_first_submitted>March 30, 2011</study_first_submitted>
+  <study_first_submitted_qc>March 31, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 1, 2011</study_first_posted>
+  <last_update_submitted>March 6, 2012</last_update_submitted>
+  <last_update_submitted_qc>March 6, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 7, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>QTc</keyword>
+  <keyword>ECG Effects</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Moxifloxacin</mesh_term>
+    <mesh_term>Droxidopa</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

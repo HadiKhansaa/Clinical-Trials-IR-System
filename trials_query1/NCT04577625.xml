@@ -1,0 +1,176 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04577625</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CSUB0176</org_study_id>
+    <nct_id>NCT04577625</nct_id>
+  </id_info>
+  <brief_title>Effect of Probiotics on Testosterone in Men</brief_title>
+  <official_title>A Double-blind Randomized Clinical Study Investigating Lactobacillus Reuteri Supplementations Influence on Testosterone Levels in Healthy Men</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioGaia AB</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioGaia AB</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates the effect of L. reuteri ATCC PTA 6475 supplementation on testosterone&#xD;
+      in men.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The probiotic Lactobacillus reuteri ATCC PTA 6475 has been shown to modulate testosterone&#xD;
+      levels in mice. It is not known if these effects are seen in humans and this trial is&#xD;
+      intended to study this.&#xD;
+&#xD;
+      The aim of this study is to investigate if L. reuteri ATCC PTA 6475 will effect blood&#xD;
+      testosterone levels in in healthy male subjects 50-65 years of age.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 5, 2020</start_date>
+  <completion_date type="Anticipated">April 5, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 5, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Concentration of total testosterone</measure>
+    <time_frame>Baseline, 6 weeks, 12 weeks</time_frame>
+    <description>Change in total testosterone concentration over time</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Free testosterone index</measure>
+    <time_frame>Baseline, 6 weeks, 12 weeks</time_frame>
+    <description>Change in Free testosterone index (100x(Testosterone/SHBG) over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of hematokrit</measure>
+    <time_frame>Baseline, 6 weeks, 12 weeks</time_frame>
+    <description>Change in Hematokrit over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of adverse events</measure>
+    <time_frame>Continously 12 weeks</time_frame>
+    <description>Adverse event from administration of first dose until 12 weeks</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>L. reuteri Low Dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>L. reuteri will be delivered in a capsule at a low dose including Vitamin D3. Administration twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>L. reuteri High Dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>L. reuteri will be delivered in a capsule at a high dose including Vitamin D3. Administration twice daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The placebo product will be identical to the active product in taste and appearance and include Vitamin D3 but without the L. reuteri. Administration twice daily.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Lactobacillus reuteri (L. reuteri)</intervention_name>
+    <description>L.reuteri high or low dose with vitamin D3 compared to vitamin D3 only</description>
+    <arm_group_label>L. reuteri High Dose</arm_group_label>
+    <arm_group_label>L. reuteri Low Dose</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Willing and able to give signed informed consent for participation in the study.&#xD;
+&#xD;
+          -  Healthy males aged between 50-65 with no known underlying medical conditions&#xD;
+&#xD;
+          -  Subjects who are capable of taking themselves to testing centre at 3 separate&#xD;
+             timepoints (Baseline, week 6 and week 12).&#xD;
+&#xD;
+          -  Subjects who are available to give fasting blood samples before 10am on day of blood&#xD;
+             sample collection&#xD;
+&#xD;
+          -  No history of androgen or testosterone supplementation within 6 months prior to study&#xD;
+             start.&#xD;
+&#xD;
+          -  Subjects who have not been taking antibiotics or probiotic supplements 4 weeks prior&#xD;
+             to study start 8. Able and willing to comply with the restirictions defined for the&#xD;
+             study period&#xD;
+&#xD;
+          -  Ability to understand and comply with the requirements of the study, as judged by the&#xD;
+             investigator physician&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who presently have or have had cardiovascular issues in the past 2 years.&#xD;
+&#xD;
+          -  Subjects who have a Body Mass Index of &lt; 18 or &gt; 30&#xD;
+&#xD;
+          -  Known elevated Prostate Specific Antigen levels.&#xD;
+&#xD;
+          -  History of prostate or testicular cancer.&#xD;
+&#xD;
+          -  Nicotine abuse&#xD;
+&#xD;
+          -  Alcohol abuse&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Health &amp; Society, Malmö University</name>
+      <address>
+        <city>Malmö</city>
+        <state>Skåne</state>
+        <zip>205 06</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2020</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

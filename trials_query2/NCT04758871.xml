@@ -1,0 +1,271 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04758871</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REMODEL</org_study_id>
+    <nct_id>NCT04758871</nct_id>
+  </id_info>
+  <brief_title>Oral Versus Vaginal Progesterone for Luteal Phase Supplementation in Frozen Embryo Transfer Cycles</brief_title>
+  <acronym>REMODEL</acronym>
+  <official_title>Dydrogesterone Versus Micronized Vaginal Progesterone (MVP) for Luteal Phase Support (LPS) in Hormone Replacement Therapy (HRT) Frozen Embryo Transfer (FET) Cycles.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CRG UZ Brussel</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CRG UZ Brussel</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate the efficacy of dydrogesterone 30 mg compared to micronized vaginal&#xD;
+      progesterone 800 mg daily for luteal phase support in hormone replacement therapy frozen&#xD;
+      embryo transfer cycles, as confirmed by visualization of fetal heart activity by pelvic&#xD;
+      ultrasound assessment of ongoing pregnancy at 12 weeks of gestation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A randomized controlled trial comparing dydrogesterone 30 mg versus micronized vaginal&#xD;
+      progesterone 800 mg daily for luteal phase support in hormone replacement therapy frozen&#xD;
+      embryo transfer cycles. Patients will undergo an embryo transfer in a hormone replacement&#xD;
+      therapy cycle using Progynova 2 mg three times daily until an endometrium thickness of at&#xD;
+      least 7 mm is reached. Afterwards two different luteal phase supplementation methods will be&#xD;
+      compared. The primary outcome of the study is ongoing pregnancy at 12 weeks of gestation. We&#xD;
+      will also investigate other prenatal and neonatal outcome factors as well as patients&#xD;
+      satisfaction and safety of dydrogesterone.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">March 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open label randomized controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ongoing pregnancy</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>visualisation of a fetal heart activity via pelvic (vaginal/abdominal) ultrasound examination at 12 weeks of gestation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Live birth rate</measure>
+    <time_frame>22-42 weeks</time_frame>
+    <description>as the birth of a live newborn after 22 weeks of gestation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of delivery</measure>
+    <time_frame>follow-up time of 30 days after delivery</time_frame>
+    <description>time of delivery (gestational week) will be confirmed (by calculation from date of embryo transfer)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events</measure>
+    <time_frame>follow-up time of 30 days after delivery</time_frame>
+    <description>Tolerability and safety will be asses during the whole study period. Adverse events will be considered as unexpected if the nature, seriousness, severity or outcome of the reaction(s) is not consistent with the reference information. The expectedness of adverse events for the medications used in this study is detailed in the reference safety information in the current summary of product characteristics (SmPCs) issued in the participating countries.&#xD;
+All serieus suspected unexpected serious adverse drug reactions (SUSARs) will be subject to expedited reporting. The investigator is responsible for submitting reports of SUSARs to the appropriate national regulatory authorities within the required reporting period. The investigator is responsible for notifying the IECs/IRBs in writing of the SUSARs within the required reporting timelines. Copies of the notification will be maintained by the investigator in the study documentation files.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient reported outcome</measure>
+    <time_frame>day 12-18 of luteal phase supplementation (pregnancy test) and at 12 weeks gestation</time_frame>
+    <description>Questionnaire (using the Treatment Satisfaction Questionnaire of Medication (TSQM)) and recording information on treatment tolerability and convenience</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of newborn adverse events</measure>
+    <time_frame>follow-up time of 30 days after delivery</time_frame>
+    <description>Newborn wellbeing and safety including congenital malformations will be evaluated after delivery via a telephonic contact with the patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical pregnancy rate</measure>
+    <time_frame>day 12-18 of luteal phase supplementation (pregnancy test)</time_frame>
+    <description>serum hCG test (&gt; 25 mIU/ml), without ultrasound evaluation of a pregnancy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical pregnancy rate</measure>
+    <time_frame>Day 33-39 of LPS (Verification of pregnancy)</time_frame>
+    <description>assessed by transvaginal ultrasound and defined as the presence of ≥1 gestational sac on examination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Miscarriage rate</measure>
+    <time_frame>22 weeks</time_frame>
+    <description>defined as spontaneous loss of a clinical pregnancy before 22 weeks of gestation (where embryo(s) or fetus(es) is/are nonviable and is/are not spontaneously absorbed or expelled from the uterus)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of preterm birth</measure>
+    <time_frame>follow-up time of 30 days after delivery</time_frame>
+    <description>Delivery before 37 weeks of gestation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of pre-eclampsia</measure>
+    <time_frame>follow-up time of 30 days after delivery</time_frame>
+    <description>Incidence of pre-eclampsia as defined by the defined as the development of hypertension after 20 weeks of gestation together with one or more new-onset conditions: proteinuria, maternal or uteroplacental dysfunctions. Univariate and multivariable regression analysis were performed to control for known or potential PE risk factors, more specifically: body mass index (BMI), African ethnicity, previous history of hypertensive disorders of pregnancy, mean arterial pressure (MAP) at the first prenatal consultation, polycystic ovary syndrome (PCOS) and ovulation disorders, endometrial thickness and oocyte recipients.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of antenatal bleeding, ultrasonographic abnormalities, gestational diabetes, cholestasis</measure>
+    <time_frame>follow-up time of 30 days after delivery</time_frame>
+    <description>Occurence of antenatal bleeding, ultrasonographic abnormalities, gestational diabetes, cholestasis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Implantation rate</measure>
+    <time_frame>Day 33-39 of LPS (Verification of pregnancy)</time_frame>
+    <description>assessed by ultrasound and defined as the number of gestational sacs per number of embryos transferred</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blastocyst development score</measure>
+    <time_frame>at the time of embryo transfer (visit 2: day 6 of luteal phase supplementation)</time_frame>
+    <description>using the system developed by Gardner</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of cryopreserved embryos</measure>
+    <time_frame>day of screening and enrollment</time_frame>
+    <description>Number of cryopreserved embryos</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Summary characteristics of the preceding controlled ovarian stimulation cycle</measure>
+    <time_frame>day of screening and enrollment</time_frame>
+    <description>information on used stimulation medication, total dose of stimulation medication used, duration of stimulation medication, trigger medication</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Frozen Embryo Transfer</condition>
+  <condition>Hormone Replacement Therapy</condition>
+  <condition>Dydrogesterone</condition>
+  <condition>Infertility, Female</condition>
+  <arm_group>
+    <arm_group_label>Dydrogesterone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Luteal phase support for hormone replacement therapy frozen embryo transfer cycles using dydrogesterone 10 mg 3 times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Micronized progesterone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Luteal phase support for hormone replacement therapy frozen embryo transfer cycles using micronized progesterone 2x200 mg twice daily vaginally</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dydrogesterone 10 MG Oral Tablet</intervention_name>
+    <description>10 mg three times daily</description>
+    <arm_group_label>Dydrogesterone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Micronized progesterone</intervention_name>
+    <description>2x 200 mg vaginal tablets two times daily</description>
+    <arm_group_label>Micronized progesterone</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≤40 years of age at the time of IVF/ICSI treatment&#xD;
+&#xD;
+          -  BMI ≥18 to ≤30 kg/m2 with a documented history of infertility&#xD;
+&#xD;
+          -  Have undergone COS as part of an ART treatment and have had an unsuccessful fresh&#xD;
+             embryo transfer in that cycle, OR, have undergone freeze all strategy&#xD;
+&#xD;
+          -  Scheduled to undergo FET with a standard exogenous/programmed hormonal replacement&#xD;
+             therapy (HRT) regimen&#xD;
+&#xD;
+          -  Have at least 1 blastocyst vitrified on the 5th or 6th day after oocyte retrieval&#xD;
+&#xD;
+          -  Elective single embryo (blastocyst) transfer (SET)&#xD;
+&#xD;
+          -  Normal ultrasound examination at enrollment (or if &lt;12 months old)&#xD;
+&#xD;
+          -  Signed patient authorization for use/disclosure of data.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women with a history of recurrent miscarriage, defined as &gt;2 consecutive miscarriages&#xD;
+             (biochemical pregnancy losses are not included)&#xD;
+&#xD;
+          -  Absence of implantation (serum hCG = negative) after two consecutive cycles of IVF,&#xD;
+             ICSI or FET where the cumulative number of transferred embryos was &gt;4 cleavage-stage&#xD;
+             embryos and &gt;2 blastocysts&#xD;
+&#xD;
+          -  Presence of hydrosalpinx that is not surgically treated&#xD;
+&#xD;
+          -  Endometrial abnormalities on scanning during ovarian stimulation, such as endometrial&#xD;
+             polyp(s), sub mucosal fibroid(s), endometrial hyperplasia, endometrial fluid&#xD;
+             accumulation, or endometrial adhesions&#xD;
+&#xD;
+          -  Participating in another clinical study at the same time&#xD;
+&#xD;
+          -  Known allergic reactions to dydrogesterone or other progestogens products&#xD;
+&#xD;
+          -  Any contraindication or other condition that precludes use of dydrogesterone in a&#xD;
+             particular patient, in accordance with the precautions listed in the locally approved&#xD;
+             label&#xD;
+&#xD;
+          -  Mental disability or any other lack of fitness, in the Investigator's opinion, to&#xD;
+             preclude subjects in or to complete the study&#xD;
+&#xD;
+          -  History of prior chemotherapy&#xD;
+&#xD;
+          -  Contraindication for pregnancy&#xD;
+&#xD;
+          -  Transfer of &gt;1 embryo&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christophe Blockeel</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CRG UZ Brussel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elsie Nulens</last_name>
+    <phone>00322477668</phone>
+    <email>studieverpleegkundigen_crg@uzbrussel.be</email>
+  </overall_contact>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 17, 2021</study_first_posted>
+  <last_update_submitted>February 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>CRG UZ Brussel</investigator_affiliation>
+    <investigator_full_name>Caroline Roelens</investigator_full_name>
+    <investigator_title>Co-investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infertility</mesh_term>
+    <mesh_term>Infertility, Female</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Progesterone</mesh_term>
+    <mesh_term>Dydrogesterone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

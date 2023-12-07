@@ -1,0 +1,775 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01164189</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EORTC-26091</org_study_id>
+    <secondary_id>2009-017422-39</secondary_id>
+    <nct_id>NCT01164189</nct_id>
+  </id_info>
+  <brief_title>Bevacizumab in Recurrent Grade II and III Glioma</brief_title>
+  <acronym>TAVAREC</acronym>
+  <official_title>Randomized Trial Assessing the Significance of Bevacizumab in Recurrent Grade II and Grade III Gliomas - The TAVAREC Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>European Organisation for Research and Treatment of Cancer - EORTC</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>European Organisation for Research and Treatment of Cancer - EORTC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy, such as temozolomide, work in different ways to stop&#xD;
+      the growth of tumor cells, either by killing the cells or by stopping them from dividing.&#xD;
+      Monoclonal antibodies, such as bevacizumab, can block tumor growth in different ways. Some&#xD;
+      block the ability of tumor cells to grow and spread. Others find tumor cells and help kill&#xD;
+      them or carry tumor-killing substances to them. It is not yet known whether temozolomide is&#xD;
+      more effective when given with or without bevacizumab in treating patients with recurrent&#xD;
+      glioma.&#xD;
+&#xD;
+      PURPOSE: This randomized clinical trial is studying how well temozolomide works with or&#xD;
+      without bevacizumab in treating patients with recurrent glioma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+      Primary&#xD;
+&#xD;
+        -  To document the activity of both combination temozolomide plus bevacizumab and&#xD;
+           temozolomide alone in patients with recurrent grade II or grade III glioma without&#xD;
+           1p/19q co-deletion.&#xD;
+&#xD;
+      Secondary&#xD;
+&#xD;
+        -  To characterize the safety of treatment in these patients.&#xD;
+&#xD;
+        -  To document the quality of life and cognitive functioning, as a measure of clinical&#xD;
+           benefit, of these patients.&#xD;
+&#xD;
+        -  To explore qualification or occurrence of prognostic and/or predictive biomarkers of&#xD;
+           activity or efficacy in these patients. (exploratory)&#xD;
+&#xD;
+        -  To document the discordances between RANO and Macdonald's criteria for the evaluation of&#xD;
+           response and progression. (exploratory)&#xD;
+&#xD;
+      OUTLINE: This is a multicenter study. Patients are stratified according to institution,&#xD;
+      initial histology (grade II vs grade III), WHO performance status (0-1 vs 2), and prior&#xD;
+      treatment (radiotherapy [RT] alone, temozolomide [TMZ] or procarbazine, lomustine and&#xD;
+      vincristine [PCV] alone vs TMZ/RT). Patients are randomized to 1 of 2 treatment arms.&#xD;
+&#xD;
+        -  Arm I: Patients receive oral temozolomide once daily on days 1-5. Treatment repeats&#xD;
+           every 28 days for 12 courses in the absence of disease progression or unacceptable&#xD;
+           toxicity.&#xD;
+&#xD;
+        -  Arm II: Patients receive oral temozolomide as in arm I and bevacizumab IV over 90&#xD;
+           minutes on days 1 and 15. Treatment repeats every 28 days for 12 courses in the absence&#xD;
+           of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      Patients complete neurocognitive questionnaires (i.e., the Hopkins Verbal Learning test, the&#xD;
+      Controlled Oral Word Association test, and the Trail Making tests A and B). Quality-of-life&#xD;
+      assessment questionnaires, including EORTC QLQ-C30 and EORTC-BN20, are completed by both&#xD;
+      patients and caregivers/relatives at baseline and then periodically.&#xD;
+&#xD;
+      Frozen tumor biopsies or paraffin blocks and blood specimens are collected for bio-banking&#xD;
+      and translational research.&#xD;
+&#xD;
+      After completion of study therapy, patients are followed up every 3 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2011</start_date>
+  <completion_date type="Actual">September 24, 2017</completion_date>
+  <primary_completion_date type="Actual">January 19, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Probability of survival at 1 year</measure>
+    <time_frame>From the date of randomization up to the date of death, assessed up to 12 months</time_frame>
+    <description>Patients alive at 12 months</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate and duration of response</measure>
+    <time_frame>From the date of randomization until disease progression</time_frame>
+    <description>Objective response includes best overall responses complete response and partial response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>From the date of randomization until the date of objective progression or the date of patient's death whichever occurs first</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival and survival at 24 months</measure>
+    <time_frame>From the date of randomization up to the date of death</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety</measure>
+    <time_frame>After the first ten patients in each arm have completed the first two cycles or have stopped treatment, an interim safety review of those patients will be conducted.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical/neurological deterioration-free survival</measure>
+    <time_frame>From the date of randomization until the date of neurological deterioration</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steroid use</measure>
+    <time_frame>At baseline and every 3 months untill lost to follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life of patients and caregivers/relatives</measure>
+    <time_frame>At baseline and every 3 months untill lost to follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive deterioration</measure>
+    <time_frame>At baseline and every 3 months untill lost to follow-up</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">155</enrollment>
+  <condition>Central Nervous System Tumors</condition>
+  <arm_group>
+    <arm_group_label>Temozolomide</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Administered orally on day 1-5, 150-200 mg/m(2), repeated every 4 weeks, up to 12 cycles</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Temozolomide + Bevacizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TMZ: Administered orally on day 1-5, 150-200 mg/m(2), repeated every 4 weeks, up to 12 cycles&#xD;
+Beva: 10 mg/kg bw IV in 90 minutes on day 1 and 14, 4 week cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <description>Bevacizumab (vial of 400mg/16mL) at a dose of 10 mg/kg bodyweight i.v. in 90 min on day 1 and day 14 of 4 week cycles</description>
+    <arm_group_label>Temozolomide + Bevacizumab</arm_group_label>
+    <other_name>Avastin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Temozolomide</intervention_name>
+    <description>Temozolomide (250, 100, 20 and 5 mg caps) will be administered orally on day 1-5, 150-200 mg/m², and will be repeated every 4 weeks. This will be repeated for up to 12 cycles.</description>
+    <arm_group_label>Temozolomide</arm_group_label>
+    <arm_group_label>Temozolomide + Bevacizumab</arm_group_label>
+    <other_name>Temodar</other_name>
+    <other_name>Temodal</other_name>
+    <other_name>Temcad</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  Histologically proven grade II or grade III astrocytoma, oligodendroglioma or&#xD;
+             oligoastrocytoma according to the WHO 2007 at initial diagnosis.&#xD;
+&#xD;
+          -  Demonstrated absence of 1p/19q co-deletion according to local diagnosis.&#xD;
+&#xD;
+          -  Availability of biological material for central review processes and translational&#xD;
+             research projects&#xD;
+&#xD;
+          -  First recurrence after initial treatment with either radiotherapy and/or chemotherapy.&#xD;
+&#xD;
+          -  Enhancing recurrence on MRI scan.&#xD;
+&#xD;
+          -  For non operated patients, recurrent disease must be at least one bi-dimensionally&#xD;
+             measurable contrast-enhancing lesion with clearly defined margins by MRI scan, with&#xD;
+             minimal diameters of 10 mm, visible on 2 or more axial slices 5 mm apart, based on MRI&#xD;
+             scan done within two weeks prior to start of randomisation.&#xD;
+&#xD;
+          -  Stable or decreasing dosage of steroids for 7 days prior to the baseline MRI scan.&#xD;
+&#xD;
+          -  No more than one line of chemotherapy (concurrent and adjuvant temozolomide&#xD;
+             chemotherapy is considered one line of chemotherapy)&#xD;
+&#xD;
+               -  If given, chemotherapy must have consisted of either temozolomide or PCV, and&#xD;
+                  patients must be off chemotherapy treatment for more than 6 months without&#xD;
+                  progression.&#xD;
+&#xD;
+          -  No radiotherapy within the three months prior to the diagnosis of progression&#xD;
+&#xD;
+          -  No radiotherapy with a dose over 65 Gy, stereotactic radiosurgery or brachytherapy&#xD;
+             unless the recurrence is histologically proven&#xD;
+&#xD;
+          -  No current or recent (within 4 weeks before randomization) treatment with another&#xD;
+             investigational drug&#xD;
+&#xD;
+          -  No prior treatment with Bevacizumab or other VEGF inhibitors or VEGF-Receptor&#xD;
+             signaling inhibitors&#xD;
+&#xD;
+          -  No invasive procedures (surgical resection, open biopsy, significant traumatic injury&#xD;
+             or any other major surgery involving entry into a body cavity) within 4 weeks prior to&#xD;
+             randomization, or anticipation of the need for major surgery during the course of the&#xD;
+             study treatment.&#xD;
+&#xD;
+          -  No core biopsy (excluding intracranial biopsy) or other minor surgical procedure&#xD;
+             within 7 days prior to randomization. Placement of a central vascular access device&#xD;
+             (CVAD) if performed at least 2 days prior to bevacizumab administration is allowed.&#xD;
+&#xD;
+          -  Patient may have undergone surgery for recurrence. If operated, residual and&#xD;
+             measurable disease after surgery is not required but histology must have confirmed the&#xD;
+             recurrence. Craniotomy or intracranial biopsy site must be adequately healed free of&#xD;
+             drainage or cellulitis, and the underlying cranioplasty must appear intact at the time&#xD;
+             of randomisation.&#xD;
+&#xD;
+          -  No previous other malignancies, except for any previous malignancy which was treated&#xD;
+             with curative intent more than 5 years prior to randomisation, and except for&#xD;
+             adequately controlled limited basal cell carcinoma of the skin, squamous carcinoma of&#xD;
+             the skin or carcinoma in situ of the cervix&#xD;
+&#xD;
+          -  Absence of any cardiovascular disorder, including but not limited to:&#xD;
+&#xD;
+               -  No history of myocardial infarction, unstable angina within 6 months prior to&#xD;
+                  randomisation&#xD;
+&#xD;
+               -  No &quot;New York Heart Association&quot; (NYHA) Grade II or greater congestive heart&#xD;
+                  failure, or serious cardiac arrhythmia requiring medication.&#xD;
+&#xD;
+               -  No significant vascular disease (e.g. aortic aneurysm requiring surgical repair&#xD;
+                  or recent peripheral arterial thrombosis) within 6 months prior to randomisation&#xD;
+&#xD;
+               -  No prior history of hypertensive crisis or hypertensive encephalopathy&#xD;
+&#xD;
+               -  No inadequately controlled hypertension (defined as systolic blood pressure &gt;150&#xD;
+                  mmHg and/or diastolic blood pressure &gt;100 m Hg)&#xD;
+&#xD;
+          -  Absence of any thrombotic or hemorrhagic event, including but not limited to:&#xD;
+&#xD;
+               -  No evidence of recent hemorrhage on MRI of the brain. However, patients with&#xD;
+                  clinically asymptomatic presence of hemosiderin, resolving hemorrhagic changes&#xD;
+                  related to surgery, and presence of punctate hemorrhage in the tumor are&#xD;
+                  permitted entry into the study&#xD;
+&#xD;
+               -  No history or evidence of inherited bleeding diathesis or coagulopathy with the&#xD;
+                  risk of bleeding.&#xD;
+&#xD;
+               -  No arterial or venous thrombosis ≤ 12 months prior to randomization&#xD;
+&#xD;
+               -  No history of stroke or TIAs within 6 months prior to randomization&#xD;
+&#xD;
+               -  No history of pulmonary haemorrhage/haemoptysis ≥ grade 2 according to the&#xD;
+                  NCI-CTCAE version 4.0 criteria within 1 month prior to randomization&#xD;
+&#xD;
+               -  Absence of current or recent (within 10 days of first dose of Bevacizumab) use of&#xD;
+                  aspirin (&gt; 325 mg/day) or other NSAID with anti-platelet activity or treatment&#xD;
+                  with dipyramidole, ticlopidine, clopidogrel or cilostaz.&#xD;
+&#xD;
+               -  International normalized ratio (INR) &gt; 1.5 ULN and activated partial&#xD;
+                  thromboplastin time (aPTT) &gt; 1.5 × the ULN. Patients using full-dose&#xD;
+                  anticoagulants at baseline are excluded from the study; but prevention of&#xD;
+                  thrombosis with low-dose anticoagulant is allowed&#xD;
+&#xD;
+          -  Absence of known hypersensitivity&#xD;
+&#xD;
+               -  to any part of the Bevacizumab or Temozolomide formulations.&#xD;
+&#xD;
+               -  to Chinese hamster ovary cell products or other recombinant human or humanized&#xD;
+                  antibody.&#xD;
+&#xD;
+          -  No underlying or previous conditions that could interfere with treatment, including&#xD;
+             but not limited to:&#xD;
+&#xD;
+               -  No history of intracranial abscess within 6 months prior to randomisation&#xD;
+&#xD;
+               -  No clinically serious (as judged by the investigator) non-healing wounds, active&#xD;
+                  skin ulcers or incompletely healed bone fracture.&#xD;
+&#xD;
+               -  No history of active gastroduodenal ulcer(s).&#xD;
+&#xD;
+               -  No history of abdominal fistula as well as non-GI fistula, gastrointestinal&#xD;
+                  perforation or intraabdominal abscess within 6 months prior to inclusion.&#xD;
+&#xD;
+               -  No evidence of active infection requiring hospitalization or antibiotics, within&#xD;
+                  2 weeks prior to randomisation.&#xD;
+&#xD;
+               -  No other diseases, interfering with follow up.&#xD;
+&#xD;
+          -  Normal hematological functions: neutrophils ≥ 1.5 x 109 cells/l, platelets ≥100 x 109&#xD;
+             cells/l and Hb ≥ 6.2 mmol/l (9.9 g/dl).&#xD;
+&#xD;
+          -  Normal liver function: bilirubin &lt; 1.5 x upper limit of the normal range (ULN),&#xD;
+             alkaline phosphatase and transaminases (ASAT) &lt; 2.5 x ULN, INR &lt; 1.5 ULN.&#xD;
+&#xD;
+          -  Normal renal function: calculated (Cockcroft-Gault) or measured creatinine clearance &gt;&#xD;
+             30 mL/min; Urine dipstick for proteinuria &lt; 2+. Patients with ≥2+ proteinuria on&#xD;
+             dipstick urinalysis at baseline should undergo 24 hours urine collection and must&#xD;
+             demonstrate ≤1 g of protein/24 hr.&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  WHO Performance status 0 - 2&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP) must be using an adequate method of&#xD;
+             contraception to avoid pregnancy throughout the study in such a manner that the risk&#xD;
+             of pregnancy is minimized. In general, the decision for appropriate methods to prevent&#xD;
+             pregnancy should be determined by discussions between the investigator and the study&#xD;
+             subject. WOCBP include any female who has experienced menarche and who has not&#xD;
+             undergone successful surgical sterilization (hysterectomy, bilateral tubal ligation,&#xD;
+             or bilateral oophorectomy) or is not postmenopausal.&#xD;
+&#xD;
+               -  Post menopause is defined as: amenorrhea ≥ 12 consecutive months without another&#xD;
+                  cause or for women with irregular menstrual periods and on hormone replacement&#xD;
+                  therapy (HRT), a documented serum follicle stimulating hormone (FSH) level &gt; 35&#xD;
+                  mIU/mL&#xD;
+&#xD;
+               -  Women who are using oral contraceptives, other hormonal contraceptives (vaginal&#xD;
+                  products, skin patches, or implanted or injectable products), or mechanical&#xD;
+                  products such as an intrauterine device or barrier methods (diaphragm, condoms,&#xD;
+                  spermicides) to prevent pregnancy, or are practicing abstinence or where their&#xD;
+                  partner is sterile (eg, vasectomy) should be considered to be of childbearing&#xD;
+                  potential.&#xD;
+&#xD;
+               -  Women of child bearing potential must have a negative serum or urine pregnancy&#xD;
+                  test (minimum sensitivity 25 IU/L or equivalent units of HCG) within 72 hours&#xD;
+                  prior to the start of investigational product.&#xD;
+&#xD;
+          -  Female patients within one year of entering the menopause as well as males must agree&#xD;
+             to use an effective non-hormonal method of contraception during the treatment period&#xD;
+             and for at least 6 months after the last study treatment.&#xD;
+&#xD;
+          -  Female should not be breast feeding&#xD;
+&#xD;
+          -  Absence of any psychological, familial, sociological or geographical factors&#xD;
+             potentially hampering compliance with the study protocol and follow-up schedule; such&#xD;
+             conditions should be assessed with the patient before randomization in the trial.&#xD;
+&#xD;
+          -  Before patient randomization and study related procedures (that would not have been&#xD;
+             performed as part as standard care), written informed consent must be given according&#xD;
+             to ICH/GCP, and national/local regulations. Informed consent should also be given for&#xD;
+             biological material to be stored and used for future research on brain tumors.&#xD;
+&#xD;
+          -  All indicated timelines and absolute values requested by the eligibility criteria must&#xD;
+             be adhered to. However, a maximum of +/- 10% of the reference value for laboratory&#xD;
+             parameters and a maximum of +/- 2 days for timelines may be acceptable. Discussion&#xD;
+             with Headquarters and study coordinator is encouraged.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Martin J. van Den Bent, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Daniel Den Hoed Cancer Center at Erasmus Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ahmed Idbaih</last_name>
+    <role>Study Chair</role>
+    <affiliation>CHU Pitie-Salpetriere</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Landesnervenklinik Wagner Jauregg</name>
+      <address>
+        <city>Linz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University Vienna - General Hospital AKH</name>
+      <address>
+        <city>Vienna</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Brussel</name>
+      <address>
+        <city>Brussel</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>U.Z. Leuven - Campus Gasthuisberg</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU de Lille</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Lyon - CHU Lyon - Hopital neurologique Pierre Wertheimer</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Assistance Publique - Hôpitaux de Marseille - Hôpital de La Timone</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Nice - Hopital Pasteur</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Pitie-Salpetriere</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Eugene Marquis</name>
+      <address>
+        <city>Rennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Cancerologie de l'Ouest (ICO) - Centre Rene Gauducheau</name>
+      <address>
+        <city>Saint - Herblain</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Paul Strauss</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Bonn</name>
+      <address>
+        <city>Bonn</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum - Essen</name>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Der J.W. Goethe Universitaet</name>
+      <address>
+        <city>Frankfurt am Main</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Heidelberg - UniversitaetsKlinikum Heidelberg - Head Hospital</name>
+      <address>
+        <city>Heidelberg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetskliniken Regensburg</name>
+      <address>
+        <city>Regensburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Bellaria</name>
+      <address>
+        <city>Bologna</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medisch Centrum Haaglanden - Westeinde</name>
+      <address>
+        <city>Den Haag</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center Groningen</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Academisch Ziekenhuis Maastricht</name>
+      <address>
+        <city>Maastricht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Radboud University Nijmegen Medical Centre</name>
+      <address>
+        <city>Nijmegen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Daniel Den Hoed Cancer Center at Erasmus Medical Center</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Medisch Centrum - Academisch Ziekenhuis</name>
+      <address>
+        <city>Utrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Vaudois</name>
+      <address>
+        <city>Lausanne</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UniversitaetsSpital Zurich - Division of Oncology</name>
+      <address>
+        <city>Zurich</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Bristol NHS Foundation Trust - Bristol Haematology And Oncology Centre</name>
+      <address>
+        <city>Bristol</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Dundee - Ninewells Hospital</name>
+      <address>
+        <city>Dundee</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NHS Lothian - Western General Hospital</name>
+      <address>
+        <city>Edinburgh</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NHS Greater Glasgow and Clyde - Beatson West of Scotland Cancer Centre - Gartnavel General Hospital</name>
+      <address>
+        <city>Glasgow</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Leeds Teaching Hospitals NHS Trust - St. James's University Hospital</name>
+      <address>
+        <city>Leeds</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Imperial College Healthcare NHS Trust - Charing Cross Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University College Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Christie NHS Foundation Trust</name>
+      <address>
+        <city>Manchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Freeman Hospital, Northern Centre For Cancer Care</name>
+      <address>
+        <city>Newcastle upon Tyne</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nottingham University Hospitals NHS Trust - City Hospital</name>
+      <address>
+        <city>Nottingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield Teaching Hospitals NHS Foundation Trust - Weston Park Hospital</name>
+      <address>
+        <city>Sheffield</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Marsden Hospital - Sutton, Surrey</name>
+      <address>
+        <city>Sutton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Switzerland</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <removed_countries>
+    <country>Israel</country>
+  </removed_countries>
+  <verification_date>February 2019</verification_date>
+  <study_first_submitted>July 15, 2010</study_first_submitted>
+  <study_first_submitted_qc>July 15, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 16, 2010</study_first_posted>
+  <last_update_submitted>February 27, 2019</last_update_submitted>
+  <last_update_submitted_qc>February 27, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 28, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adult anaplastic astrocytoma</keyword>
+  <keyword>adult diffuse astrocytoma</keyword>
+  <keyword>adult pilocytic astrocytoma</keyword>
+  <keyword>adult pineal gland astrocytoma</keyword>
+  <keyword>adult subependymal giant cell astrocytoma</keyword>
+  <keyword>adult oligodendroglioma</keyword>
+  <keyword>adult anaplastic oligodendroglioma</keyword>
+  <keyword>recurrent adult brain tumor</keyword>
+  <keyword>adult giant cell glioblastoma</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>adult gliosarcoma</keyword>
+  <keyword>adult mixed glioma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

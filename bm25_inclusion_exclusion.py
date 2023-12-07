@@ -10,9 +10,9 @@ import spacy
 
 # nltk.download('punkt')
 
-stemmer = PorterStemmer()
 
 def tokenize_and_stem(text):
+    stemmer = PorterStemmer()
     tokens = word_tokenize(text)
     filtered_tokens = [word for word in tokens if word.isalpha()]
     stems = [stemmer.stem(t) for t in filtered_tokens]
@@ -21,7 +21,8 @@ def tokenize_and_stem(text):
 def extract_components(content):
     inc_match = re.search(r'<textblock>.*?Inclusion Criteria:(.*?)Exclusion Criteria:(.*?)</textblock>', content, re.DOTALL)
     title_match = re.search(r'<brief_title>(.*?)</brief_title>', content)
-    desc_match = re.search(r'<brief_summary>.*?<textblock>(.*?)</textblock>.*?</brief_summary>', content, re.DOTALL)
+    summary_match = re.search(r'<brief_summary>.*?<textblock>(.*?)</textblock>.*?</brief_summary>', content, re.DOTALL)
+    # desc_match = re.search(r'<detailed_description>.*?<textblock>(.*?)</textblock>.*?</detailed_description>', content, re.DOTALL)
     mesh_match = re.findall(r'<mesh_term>(.*?)</mesh_term>', content)
     inc_criteria = inc_match.groups()[0] if inc_match else ''
     exc_criteria = inc_match.groups()[1] if inc_match else ''
@@ -29,10 +30,11 @@ def extract_components(content):
         inc_match = re.search(r'<textblock>.*?Inclusion Criteria:(.*?)</textblock>', content, re.DOTALL)
         inc_criteria = inc_match.groups()[0] if inc_match else ''
     title = title_match.group(1) if title_match else ''
-    desc = desc_match.group(1) if desc_match else ''
+    # desc = desc_match.group(1) if desc_match else ''
+    summary = summary_match.group(1) if summary_match else ''
     mesh_terms = ' '.join(mesh_match)
 
-    return inc_criteria, exc_criteria, f"{title} {desc} {mesh_terms}"
+    return inc_criteria, exc_criteria, f"{title} {summary} {mesh_terms}"
 
 def calculate_bm25(doc_length, avg_doc_length, term_freq, num_docs, doc_freq, k1=1.5, b=0.75):
     idf = math.log((num_docs - doc_freq + 0.5) / (doc_freq + 0.5) + 1)
@@ -78,7 +80,7 @@ if __name__ == "__main__":
     doc_ids = []
 
     # PATH_TO_TRIALS = 'C:\\Users\\Hp\\Documents\\CMPS M\\CMPS 365\\project\\trecs\\trials'
-    PATH_TO_TRIALS = 'topic1_trials'
+    PATH_TO_TRIALS = 'trials_query1'
 
     # get documents with relevence feedback
     with open('documents.json', 'r') as file:
@@ -86,27 +88,26 @@ if __name__ == "__main__":
     documents = set(docs)
 
     i = 1
-    for folder in os.listdir(PATH_TO_TRIALS):
-        for file in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
-            with open(os.path.join(PATH_TO_TRIALS, folder, file), 'r') as f:
-                if file.endswith('.xml') and file[:-4] in documents:
-                    try:
-                        content = f.read()
-                    except:
-                        continue
-                    inc, exc, tdm = extract_components(content)
-                    if inc !='':
-                        # inclusion_criteria.append(' '.join(filter_medical_terms(inc)))
-                        inclusion_criteria.append(inc)
-                    if exc != '':
-                        exclusion_criteria.append(exc)
-                        # exclusion_criteria.append(' '.join(filter_medical_terms(exc)))
-                    if tdm != '':
-                        title_desc_mesh.append(tdm)
-                        # title_desc_mesh.append(' '.join(filter_medical_terms(tdm)))
-                    doc_ids.append(file[:-4])  # Assuming file names are the document IDs
-                    print(f"Processed {i} files")  # Print progress
-                    i += 1
+    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
+        with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
+            if file.endswith('.xml') and file[:-4] in documents:
+                try:
+                    content = f.read()
+                except:
+                    continue
+                inc, exc, tdm = extract_components(content)
+                if inc !='':
+                    # inclusion_criteria.append(' '.join(filter_medical_terms(inc)))
+                    inclusion_criteria.append(inc)
+                if exc != '':
+                    exclusion_criteria.append(exc)
+                    # exclusion_criteria.append(' '.join(filter_medical_terms(exc)))
+                if tdm != '':
+                    title_desc_mesh.append(tdm)
+                    # title_desc_mesh.append(' '.join(filter_medical_terms(tdm)))
+                doc_ids.append(file[:-4])  # Assuming file names are the document IDs
+                print(f"Processed {i} files")  # Print progress
+                i += 1
 
     # Tokenize and stem
     tokenized_inclusion = [tokenize_and_stem(text) for text in inclusion_criteria]

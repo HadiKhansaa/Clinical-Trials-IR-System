@@ -1,0 +1,138 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04670250</url>
+  </required_header>
+  <id_info>
+    <org_study_id>non invasive markers in IBD</org_study_id>
+    <nct_id>NCT04670250</nct_id>
+  </id_info>
+  <brief_title>The Validity of Novel Non-invasive Inflammatory Markers for Monitoring of Patients With Ulcerative Colitis</brief_title>
+  <official_title>The Validity of Novel Non-invasive Inflammatory Markers for Monitoring of Patients With Ulcerative Colitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Ulcerative Colitis (UC) is a disease known for repeated relapses and remissions. So,&#xD;
+      meticulous follow-up is required to individualize treatment plans according to the status of&#xD;
+      each patient. The currently used investigations are invasive, costy, and carry the risk of&#xD;
+      several side effects, making it difficult for the patient to adhere to his continuous&#xD;
+      follow-up.&#xD;
+&#xD;
+      Aim: To evaluate the viability of fecal lactoferrin, serum ferritin, and IL6 as noninvasive&#xD;
+      markers for detecting the activity and follow-up the patients of ulcerative colitis during&#xD;
+      remission.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction: Ulcerative Colitis (UC) is a disease known for repeated relapses and&#xD;
+      remissions. So, meticulous follow-up is required to individualize treatment plans according&#xD;
+      to the status of each patient. The currently used investigations are invasive, costy, and&#xD;
+      carry the risk of several side effects, making it difficult for the patient to adhere to his&#xD;
+      continuous follow-up.&#xD;
+&#xD;
+      Aim: To evaluate the viability of fecal lactoferrin, serum ferritin, and IL6 as noninvasive&#xD;
+      markers for detecting the activity and follow-up the patients of ulcerative colitis during&#xD;
+      remission.&#xD;
+&#xD;
+      Patients and Methods:&#xD;
+&#xD;
+      This is a prospective cohort study will include 160 patients. The study will be&#xD;
+      aMulticenterthat will be held in different Egyptian governorates. The patient must be,&#xD;
+      firstly, confirmed to be an ulcerative colitis patient by complete physical examination,&#xD;
+      laboratory evaluation by fecal calprotectin and CRP. Also, colonoscopy will be done for all&#xD;
+      included patients and they will be classified according to the Modified Mayo Endoscopic Score&#xD;
+      (MMES). Biopsies will be taken to confirm the diagnosis with histopathological examination.&#xD;
+      Fecal lactoferrin, S ferritin, and IL6 (the investigated markers) will be conducted for&#xD;
+      patients with confirmed diagnosis with UC. . All investigations, including colonoscopy, will&#xD;
+      be done once again after 3 months to follow up the included patients. The results of all&#xD;
+      tests will be correlated to the clinical and endoscopic findings of included patients to&#xD;
+      detect a cut off values to be used during remission and activity.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>3 Months</target_duration>
+  <primary_outcome>
+    <measure>The Validity of Novel Noninvasive Inflammatory Markers for Monitoring of Patients with Ulcerative Colitis.</measure>
+    <time_frame>18 months</time_frame>
+    <description>the outcome will be to replace an invasive method used frequently to evaluate patients with ulcerative colitis like colonoscoy with a non invasive safe and hopfelly accurate method like fecal</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>IBD, Non Invasive Markers,IL6,Lactoferrin,Ferritin</condition>
+  <arm_group>
+    <arm_group_label>newly diagnosed patients with ulcerative colitis</arm_group_label>
+    <description>patients who are newly diagnosed to have ulcerative colitis who are above 18 years old,not pregnant and not known to have cancer colon</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>non invasive markers</intervention_name>
+    <description>non invasive markers (IL6, serum ferritin, fecal lactoferrin) used for monitoring of newly diagnosed patients with ulcerative colitis</description>
+    <arm_group_label>newly diagnosed patients with ulcerative colitis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All newly diagnosed patients with ulcerative colitis will be included in the study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Patients who are newly diagnosed to be ulcerative colitis. Patients &gt;18 years old.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who are &gt;18 years old. Pregnant patients . Patients with colonic&#xD;
+             malignancies.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+  </eligibility>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>December 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Ghada Mohammed Kamal Eldin Mohammed Ali</investigator_full_name>
+    <investigator_title>assistant lecturer</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colitis</mesh_term>
+    <mesh_term>Colitis, Ulcerative</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,284 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04673682</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A106_01BE2011</org_study_id>
+    <nct_id>NCT04673682</nct_id>
+  </id_info>
+  <brief_title>A Clinical Trial to Evaluate the Pharmacokinetic Profiles and Safety of CKD-845</brief_title>
+  <official_title>A Multicenter, Randomized, Single Blind, Single Dose, Crossover Study to Evaluate the Pharmacokinetic Profiles and Safety After Administration of CKD-845 in Males</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chong Kun Dang Pharmaceutical</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chong Kun Dang Pharmaceutical</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A clinical trial to evaluate the pharmacokinetic profiles and safety of CKD-845.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A phase 1 clinical trial to evaluate pharmacokinetics and safety in male after administration&#xD;
+      of CKD-845 and D309.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 16, 2020</start_date>
+  <completion_date type="Anticipated">December 25, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 11, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Baseline corrected AUCt of CKD-845</measure>
+    <time_frame>up to 70 days</time_frame>
+    <description>AUCt: Area under the concentration-time curve from time zero to time</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Baseline corrected Cmax of CKD-845</measure>
+    <time_frame>up to 70 days</time_frame>
+    <description>Cmax: Maximum plasma concentration of the drug</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Baseline corrected AUCinf of CKD-845</measure>
+    <time_frame>up to 70 days</time_frame>
+    <description>AUCinf: Area under the concentration-time curve from zero up to infinity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Baseline corrected Tmax of CKD-845</measure>
+    <time_frame>up to 70 days</time_frame>
+    <description>Tmax: Time to maximum plasma concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Baseline corrected t1/2 of CKD-845</measure>
+    <time_frame>up to 70 days</time_frame>
+    <description>t1/2: Terminal elimination half-life</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">46</enrollment>
+  <condition>Hypogonadism</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment A: Reference drug(D309(Testosterone) 1 vial, once, i.m. inj.)&#xD;
+Treatment B: Test drug(CKD-845(Testosterone) 1 vial, once, i.m. inj.)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment B: Test drug(CKD-845(Testosterone) 1 vial, once, i.m. inj.)&#xD;
+Treatment A: Reference drug(D309(Testosterone) 1 vial, once, i.m. inj.)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>D309</intervention_name>
+    <description>D309(Testosterone) 1 vial, Once, IM injection</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+    <other_name>Reference Drug</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CKD-845</intervention_name>
+    <description>CKD-845(Testosterone) 1 vial, Once, IM injection</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+    <other_name>Test Drug</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult Male over 19 years old and under 65 years old at screening.&#xD;
+&#xD;
+          2. Serum total testosterone level under 3.0 ng/mL at screening.&#xD;
+&#xD;
+          3. Subjects who had 18.5 kg/m2 ≤ Body Mass Index(BMI) &lt; 30.5 kg/m2 and a total body&#xD;
+             weight ≥ 55 kg.&#xD;
+&#xD;
+               -  Body Mass Index(BMI) = Weight(kg) / [Height(m)]2&#xD;
+&#xD;
+          4. Subjects without congenital/chronic diseases and without abnormal symptoms or&#xD;
+             diagnosis based on a medical examination within the last 3 years, except for&#xD;
+             hypogonadism.&#xD;
+&#xD;
+          5. Subjects who were deemed to be appropriate as study subjects in accordance with the&#xD;
+             screening results (laboratory tests, vital signs, ECG etc.).&#xD;
+&#xD;
+          6. Subjects who voluntarily signed an informed consent form approved by the Institutional&#xD;
+             Review Board(IRB) of each clinical study site and decided to participate in the study&#xD;
+             after being fully informed of the study prior to participation, including the&#xD;
+             objective, content of the clinical trial.&#xD;
+&#xD;
+          7. Subjects who consent to the use of reliable contraception during the clinical trial.&#xD;
+             Subjects who have no plan of pregnancy and agree to not donate his sperm during the&#xD;
+             study period and up until 180 days after the last administration of investigational&#xD;
+             product.&#xD;
+&#xD;
+          8. Subjects with the ability and willingness to participate during the study period.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects with a medical evidence or a history (excluding a hypogonadism, dental&#xD;
+             history of periodontal surgery, impacted wisdom teeth removal, etc.) of clinically&#xD;
+             significant hematological, renal, endocrine, pulmonary, gastrointestinal, urinary,&#xD;
+             cardiovascular, hepatic, psychiatric, neurologic or immune disease.&#xD;
+&#xD;
+             1-1. Subjects with a severe acute/chronic physical and mental conditions that can&#xD;
+             increase risk or interfere with the interpretation of the results of test.&#xD;
+&#xD;
+             1-2. Subjects who have a androgen-dependent tumor(e.g., prostate cancer, male breast&#xD;
+             cancer).&#xD;
+&#xD;
+             1-3. Subjects with hypercalcemia associated with malignant tumors.&#xD;
+&#xD;
+             1-4. Subjects with or with a history of liver tumors.&#xD;
+&#xD;
+             1-5. Subjects with bone metastasis of cancer.&#xD;
+&#xD;
+             1-6. Subjects being treated for an enlarged prostate.&#xD;
+&#xD;
+             1-7. Subjects who have severe alcohol and/or drug abuse history within a year from&#xD;
+             screening.&#xD;
+&#xD;
+             1-8. Insulin-dependent diabetes mellitus or uncontrolled non-insulin- dependent&#xD;
+             diabetes mellitus.&#xD;
+&#xD;
+          2. Subjects with the following laboratory test results at screening:&#xD;
+&#xD;
+             2-1. AST, ALT exceeding 2.5 times from the upper limit of normal.&#xD;
+&#xD;
+             2-2. Total bilirubin exceeding 2.5 times from the upper limit of normal.&#xD;
+&#xD;
+             2-3. Subjects had renal impairment(eGFR &lt; 60 mL/min/1.73 m2)&#xD;
+&#xD;
+             2-4. Positive results of virus/bacterial test and/or urine drug test at screening.&#xD;
+&#xD;
+             2-5. Systolic blood pressure &gt;150 mmHg or &lt;90 mmHg and/or diastolic blood pressure &gt;60&#xD;
+             mmHg or &gt;95 mmHg at sitting position.&#xD;
+&#xD;
+          3. History of regular alcohol consumption exceeding 210 g/week within 6 months prior to&#xD;
+             screening (1 drink (250 mL) of beer (5%) = 10 g, 1 drink (50 mL) of hard liquor (20%)&#xD;
+             = 8 g; 1 drink (125 mL of wine (12%) = 12 g).&#xD;
+&#xD;
+          4. Subjects who smoked more than 20 cigarettes per day within 6 months prior to&#xD;
+             screening.&#xD;
+&#xD;
+          5. Subjects who had been administered investigational product(s) from other clinical&#xD;
+             study or bioequivalence study within 180 days prior to the first dose of this&#xD;
+             study(except when subject have not taken investigational product(s)).&#xD;
+&#xD;
+          6. Subjects who had taken any drug(s) known as a strong inducer(s) or inhibitor(s) of&#xD;
+             drug-metabolizing enzymes within 30 days prior to the first dose of investigational&#xD;
+             product(s).&#xD;
+&#xD;
+          7. Subjects who had taken any contraindication drug(s)(Drug influencing the level of&#xD;
+             serum testosterone, modulating activity of testosterone and which have drug&#xD;
+             interaction) within 28 days prior to the first dose of investigational product(s).&#xD;
+&#xD;
+          8. Subjects who use of oral anticoagulants (with the exception of low-dose aspirin)&#xD;
+             within 28 days prior to the first dose of investigational product(s).&#xD;
+&#xD;
+          9. Subjects who use the testosterone pellet within 90 days prior to the first dose of&#xD;
+             investigational product(s).&#xD;
+&#xD;
+         10. Subjects who use of any injectable testosterone preparations within 28 days prior to&#xD;
+             the first dose of investigational product(s).&#xD;
+&#xD;
+         11. Subjects who use oral testosterone products within 7 days prior to the first dose of&#xD;
+             investigational product(s).&#xD;
+&#xD;
+         12. Subjects who use of supplements (e.g., saw palmetto, phytoestrogen, androstenedione,&#xD;
+             DHEA, niacin, fish oil etc.) prior to the first dose of investigational product(s).&#xD;
+&#xD;
+         13. Subjects who have hypersensitivity of investigational products and its components.&#xD;
+&#xD;
+         14. Subjects who donated whole blood within 60 days or blood components within 30 days&#xD;
+             prior to the first dose of the investigational product(s).&#xD;
+&#xD;
+         15. Subjects who were deemed inappropriate to participate in the study by the&#xD;
+             investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Min-gul Kim, M.D., PhD.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jeonbuk University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>An-Hye Kim, M.D., PhD.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHA Bundang Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Hyewon Chung, M.D., PhD.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Korea University Guro Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Jeonbuk University Hospital</name>
+      <address>
+        <city>Jeonju</city>
+        <state>Jeonbuk</state>
+        <zip>54907</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Min-gul Kim, MD, PhD</last_name>
+      <phone>+82-63-259-3480</phone>
+      <email>mgkim@jbcp.kr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>December 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CKD-845</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypogonadism</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

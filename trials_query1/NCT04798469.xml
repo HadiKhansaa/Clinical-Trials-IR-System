@@ -1,0 +1,355 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04798469</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021P000331</org_study_id>
+    <nct_id>NCT04798469</nct_id>
+  </id_info>
+  <brief_title>Pain Alleviation With Testosterone in Opioid-Induced Hypogonadism</brief_title>
+  <acronym>PATH</acronym>
+  <official_title>Androgen Replacement to Improve Patient-Important Outcomes in Men With Opioid-Induced Hypogonadism</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this trial is to evaluate whether testosterone replacement results in greater&#xD;
+      improvement in pain perception, pain tolerance, sexual function, fatigue, and quality of life&#xD;
+      when compared with placebo in men with chronic back pain treated with opioids who have&#xD;
+      opioid-induced hypogonadism (low testosterone).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This single-center, randomized, double-blind, placebo-controlled, parallel-group trial will&#xD;
+      evaluate pain and quality of life outcomes associated with 6 months of treatment with&#xD;
+      testosterone or placebo in men aged 18 years or older with chronic non-cancer back pain who&#xD;
+      are taking opioid analgesics for at least 6 months and have opioid-induced hypogonadism.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">April 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pain Interference Subscale score of the Brief Pain Inventory (BPI) questionnaire</measure>
+    <time_frame>6 months</time_frame>
+    <description>The Pain Interference Subscale of the BPI is specifically relevant to patients with chronic back pain who are using opioids and correlates strongly with the patient's quality of life.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quantitative sensory testing of pain under stimulus</measure>
+    <time_frame>6 months</time_frame>
+    <description>Quantitative sensory testing is a non-invasive psychophysical test that evaluates pressure, heat, and cold pain threshold.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in default mode network connectivity</measure>
+    <time_frame>6 months</time_frame>
+    <description>Patients with chronic pain show increased default mode network (DMN) connectivity to the anterior/mid-insula, a brain region that integrates multiple dimensions of pain, while reduced DMN connectivity to the insula has been significantly associated with pain reduction. In this trial, we plan to determine the influence of testosterone replacement on DMN connectivity by performing functional magnetic resonance imaging (MRI) before and after testosterone/placebo administration and correlate changes in pain with changes in DMN connectivity.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Quality of life assessed using the 36-Item Short-Form Survey (SF-36)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The SF-36 measures eight QOL domains: physical function, bodily pain, vitality, role limitations due to physical problems, general health perceptions, emotional well-being, social function, and role limitations due to emotional problems. The questionnaire also includes a single item that provides an indication of perceived change in health.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Depressive symptoms assessed with the Patient Health Questionnaire-9 (PHQ-9)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The PHQ-9 is a validated health questionnaire that will be administered in this trial to evaluate depression among the participants.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mood and well-being, assessed using the by Positive and Negative Affect Scale (PANAS) affectivity balance scale</measure>
+    <time_frame>6 months</time_frame>
+    <description>The PANAS affectivity balance scale includes 10 questions evaluating positive and negative affect.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Energy, assessed with the Hypogonadism Energy Diary (HED)</measure>
+    <time_frame>6 months</time_frame>
+    <description>The HED questionnaire is a self-administered instrument that evaluates energy levels in men with hypogonadism.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Sexual function, assessed with the Sexual Arousal, Interest, and Drive (SAID) questionnaire</measure>
+    <time_frame>6 months</time_frame>
+    <description>The SAID questionnaire is a five-item self-administered instrument that evaluates the level of thinking about sex, arousal, and rating the level of interest in sex and sex drive in men with hypogonadism.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Fatigue assessed with the Functional Assessment of Chronic Illness Therapy - Fatigue (FACIT-F) questionnaire</measure>
+    <time_frame>6 months</time_frame>
+    <description>The FACIT-F questionnaire is a self-reported instrument that evaluates fatigue and its impact on daily activities and function.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Catastrophizing assessed with the Pain Catastrophizing Scale (PCS) questionnaire</measure>
+    <time_frame>6 months</time_frame>
+    <description>The PCS is a measure of cognitive and affective responses to pain that consists of 13 items assessing the pain catastrophizing domains of rumination, magnification, and helplessness.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Opioid Use</condition>
+  <condition>Pain</condition>
+  <condition>Hypogonadism, Male</condition>
+  <arm_group>
+    <arm_group_label>Testosterone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Weekly injections of testosterone 125 mg.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Weekly injections of placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Testosterone cypionate</intervention_name>
+    <description>Weekly intramuscular administration at a dose of 125 mg</description>
+    <arm_group_label>Testosterone</arm_group_label>
+    <other_name>Testosterone</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Weekly intramuscular administration of placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men, age 18 years and older.&#xD;
+&#xD;
+          -  Chronic non-cancer back pain.&#xD;
+&#xD;
+          -  Use of opioid analgesics for at least 6 months.&#xD;
+&#xD;
+          -  Serum total testosterone (measured by mass spectrometry) &lt;348 ng/dL and/or free&#xD;
+             testosterone &lt;70 pg/mL.&#xD;
+&#xD;
+          -  Ability and willingness to provide informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of prostate cancer or breast cancer.&#xD;
+&#xD;
+          -  Known history of organic hypogonadism (e.g., due to hypothalamic, pituitary or&#xD;
+             testicular disease).&#xD;
+&#xD;
+          -  Use of testosterone within the past 6 months.&#xD;
+&#xD;
+          -  Baseline hematocrit &gt;48%.&#xD;
+&#xD;
+          -  Prostate-specific antigen (PSA) level &gt;4 ng/mL in Caucasians or &gt;3 ng/mL in&#xD;
+             African-Americans.&#xD;
+&#xD;
+          -  Presence of prostate nodule or induration on digital rectal examination.&#xD;
+&#xD;
+          -  Uncontrolled congestive heart failure.&#xD;
+&#xD;
+          -  Myocardial infarction, acute coronary syndrome, revascularization surgery or stroke&#xD;
+             within 3 months.&#xD;
+&#xD;
+          -  Serum creatinine &gt;2.5 mg/dL.&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) level 3 times above the upper limit of normal.&#xD;
+&#xD;
+          -  Diagnosis of bipolar disorder or schizophrenia.&#xD;
+&#xD;
+          -  Presence of metallic implants (pacemakers, aneurysm clips, etc.) that preclude the&#xD;
+             patient from undergoing functional magnetic resonance imaging (MRI). In subjects who&#xD;
+             are otherwise eligible and either do not qualify for MRI or are reluctant to undergo&#xD;
+             imaging, the investigators may consider enrolling such participants on a case-by-case&#xD;
+             basis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shehzad Basaria, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert R Edwards, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Richelle Bearup, MPH</last_name>
+    <phone>617-278-0722</phone>
+    <email>rbearup@bwh.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Richelle Bearup, MPH</last_name>
+      <phone>617-278-0722</phone>
+      <email>rbearup@bwh.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Shehzad Basaria, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Robert R Edwards, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Vitaly Napadow, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Thomas G Travison, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Grace Huang, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anna Goldman, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Chou R, Turner JA, Devine EB, Hansen RN, Sullivan SD, Blazina I, Dana T, Bougatsos C, Deyo RA. The effectiveness and risks of long-term opioid therapy for chronic pain: a systematic review for a National Institutes of Health Pathways to Prevention Workshop. Ann Intern Med. 2015 Feb 17;162(4):276-86. doi: 10.7326/M14-2559. Review.</citation>
+    <PMID>25581257</PMID>
+  </reference>
+  <reference>
+    <citation>Von Korff M, Kolodny A, Deyo RA, Chou R. Long-term opioid therapy reconsidered. Ann Intern Med. 2011 Sep 6;155(5):325-8. doi: 10.7326/0003-4819-155-5-201109060-00011.</citation>
+    <PMID>21893626</PMID>
+  </reference>
+  <reference>
+    <citation>Aloisi AM, Ceccarelli I, Fiorenzani P. Gonadectomy affects hormonal and behavioral responses to repetitive nociceptive stimulation in male rats. Ann N Y Acad Sci. 2003 Dec;1007:232-7.</citation>
+    <PMID>14993056</PMID>
+  </reference>
+  <reference>
+    <citation>Fillingim RB, Edwards RR, Powell T. The relationship of sex and clinical pain to experimental pain responses. Pain. 1999 Dec;83(3):419-425. doi: 10.1016/S0304-3959(99)00128-1.</citation>
+    <PMID>10568849</PMID>
+  </reference>
+  <reference>
+    <citation>Basaria S. Male hypogonadism. Lancet. 2014 Apr 5;383(9924):1250-63. doi: 10.1016/S0140-6736(13)61126-5. Epub 2013 Oct 10. Review.</citation>
+    <PMID>24119423</PMID>
+  </reference>
+  <reference>
+    <citation>Fillingim RB, Edwards RR. The association of hormone replacement therapy with experimental pain responses in postmenopausal women. Pain. 2001 May;92(1-2):229-34.</citation>
+    <PMID>11323144</PMID>
+  </reference>
+  <reference>
+    <citation>Daniell HW. Hypogonadism in men consuming sustained-action oral opioids. J Pain. 2002 Oct;3(5):377-84.</citation>
+    <PMID>14622741</PMID>
+  </reference>
+  <reference>
+    <citation>Rajagopal A, Vassilopoulou-Sellin R, Palmer JL, Kaur G, Bruera E. Symptomatic hypogonadism in male survivors of cancer with chronic exposure to opioids. Cancer. 2004 Feb 15;100(4):851-8.</citation>
+    <PMID>14770444</PMID>
+  </reference>
+  <reference>
+    <citation>Basaria S, Travison TG, Alford D, Knapp PE, Teeter K, Cahalan C, Eder R, Lakshman K, Bachman E, Mensing G, Martel MO, Le D, Stroh H, Bhasin S, Wasan AD, Edwards RR. Effects of testosterone replacement in men with opioid-induced androgen deficiency: a randomized controlled trial. Pain. 2015 Feb;156(2):280-288. doi: 10.1097/01.j.pain.0000460308.86819.aa.</citation>
+    <PMID>25599449</PMID>
+  </reference>
+  <reference>
+    <citation>Huang G, Travison TG, Edwards RR, Basaria S. Effects of Testosterone Replacement on Pain Catastrophizing and Sleep Quality in Men with Opioid-Induced Androgen Deficiency. Pain Med. 2017 Jun 1;18(6):1070-1076. doi: 10.1093/pm/pnw159.</citation>
+    <PMID>27550959</PMID>
+  </reference>
+  <reference>
+    <citation>Kregel J, Meeus M, Malfliet A, Dolphens M, Danneels L, Nijs J, Cagnie B. Structural and functional brain abnormalities in chronic low back pain: A systematic review. Semin Arthritis Rheum. 2015 Oct;45(2):229-37. doi: 10.1016/j.semarthrit.2015.05.002. Epub 2015 May 16. Review.</citation>
+    <PMID>26092329</PMID>
+  </reference>
+  <reference>
+    <citation>Meints SM, Mawla I, Napadow V, Kong J, Gerber J, Chan ST, Wasan AD, Kaptchuk TJ, McDonnell C, Carriere J, Rosen B, Gollub RL, Edwards RR. The relationship between catastrophizing and altered pain sensitivity in patients with chronic low-back pain. Pain. 2019 Apr;160(4):833-843. doi: 10.1097/j.pain.0000000000001461.</citation>
+    <PMID>30531308</PMID>
+  </reference>
+  <reference>
+    <citation>Katz N, Mazer NA. The impact of opioids on the endocrine system. Clin J Pain. 2009 Feb;25(2):170-5. doi: 10.1097/AJP.0b013e3181850df6. Review.</citation>
+    <PMID>19333165</PMID>
+  </reference>
+  <reference>
+    <citation>Edwards RR, Dolman AJ, Michna E, Katz JN, Nedeljkovic SS, Janfaza D, Isaac Z, Martel MO, Jamison RN, Wasan AD. Changes in Pain Sensitivity and Pain Modulation During Oral Opioid Treatment: The Impact of Negative Affect. Pain Med. 2016 Oct;17(10):1882-1891. Epub 2016 Mar 1.</citation>
+    <PMID>26933094</PMID>
+  </reference>
+  <reference>
+    <citation>Frye CA, Seliga AM. Testosterone increases analgesia, anxiolysis, and cognitive performance of male rats. Cogn Affect Behav Neurosci. 2001 Dec;1(4):371-81.</citation>
+    <PMID>12467088</PMID>
+  </reference>
+  <reference>
+    <citation>Forman LJ, Tingle V, Estilow S, Cater J. The response to analgesia testing is affected by gonadal steroids in the rat. Life Sci. 1989;45(5):447-54.</citation>
+    <PMID>2770410</PMID>
+  </reference>
+  <reference>
+    <citation>Daniell HW, Lentz R, Mazer NA. Open-label pilot study of testosterone patch therapy in men with opioid-induced androgen deficiency. J Pain. 2006 Mar;7(3):200-10.</citation>
+    <PMID>16516826</PMID>
+  </reference>
+  <reference>
+    <citation>Aloisi AM, Ceccarelli I, Carlucci M, Suman A, Sindaco G, Mameli S, Paci V, Ravaioli L, Passavanti G, Bachiocco V, Pari G. Hormone replacement therapy in morphine-induced hypogonadic male chronic pain patients. Reprod Biol Endocrinol. 2011 Feb 18;9:26. doi: 10.1186/1477-7827-9-26.</citation>
+    <PMID>21332999</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>March 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Shehzad Basaria, M.D.</investigator_full_name>
+    <investigator_title>Professor of Medicine, Harvard Medical School; Associate Director, Section on Men's Health, Aging &amp; Metabolism, Brigham and Women's Hospital</investigator_title>
+  </responsible_party>
+  <keyword>Pain</keyword>
+  <keyword>Opioid Analgesics</keyword>
+  <keyword>Testosterone</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypogonadism</mesh_term>
+    <mesh_term>Eunuchism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methyltestosterone</mesh_term>
+    <mesh_term>Testosterone</mesh_term>
+    <mesh_term>Testosterone undecanoate</mesh_term>
+    <mesh_term>Testosterone enanthate</mesh_term>
+    <mesh_term>Testosterone 17 beta-cypionate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,545 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02056756</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EMN09</org_study_id>
+    <secondary_id>2012-003938-17</secondary_id>
+    <nct_id>NCT02056756</nct_id>
+  </id_info>
+  <brief_title>Carfilzomib In Combination With Bendamustine And Dexamethasone In Refractory Or Relapsed Multiple Myeloma</brief_title>
+  <official_title>CARFILZOMIB IN COMBINATION WITH BENDAMUSTINE AND DEXAMETHASONE IN REFRACTORY OR RELAPSED MULTIPLE MYELOMA - A MULTICENTER PHASE IB/II TRIAL OF THE EUROPEAN MYELOMA NETWORK TRIALIST GROUP (EMNTG)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>European Myeloma Network</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fondazione EMN Italy Onlus</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>European Myeloma Network</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Open-label phase Ib/II, multicenter, international non-comparative trial. This study is&#xD;
+      designed to determine the safety and efficacy of the novel salvage regimen (CBd) followed by&#xD;
+      a carfilzomib maintenance in patients with relapsed or refractory multiple myeloma.&#xD;
+&#xD;
+      Patients will be evaluated at scheduled visits in up to 4 study periods:&#xD;
+&#xD;
+      pretreatment, treatment, maintenance and long-term follow-up (LTFU).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Multiple myeloma (MM) is one of the most common hematological diseases and besides the option&#xD;
+      of an allogeneic stem cell transplantation remains incurable.&#xD;
+&#xD;
+      Although autologous stem cell transplantation and new compounds such as bortezomib,&#xD;
+      thalidomide and lenalidomide have been implemented, treatment alternatives in patients who&#xD;
+      relapse or are refractory to these therapies are urgently needed. In addition, patients are&#xD;
+      often compromised by the toxicity of prior treatments not allowing further use of active&#xD;
+      drugs such as due to neurotoxicity when bortezomib was given. However, in contrast to&#xD;
+      bortezomib the investigative drug carfilzomib blocks, the proteasome irreversibly and shows&#xD;
+      minimal activity against off-target enzymes leading to more sustained proteasome inhibition&#xD;
+      with a distinctive toxicity profile [1-3]. Carfilzomib had promising single agent activity in&#xD;
+      a phase II trial with heavily pre-treated MM patients (overall response rate 24% [4]).&#xD;
+      Another drug with substantial activity in lymphoid malignancies is bendamustine, which was&#xD;
+      recently been found to be superior to chlorambucil in chronic lymphocytic leukemia (CLL) [5]&#xD;
+      as well as in Non-Hodgkin's lymphomas (NHL)[6]. In multiple myeloma, bendamustine combined&#xD;
+      with prednisone (BP) was superior to melphalan and prednisone (MP) as far as complete&#xD;
+      remission rate, time to treatment failure and life quality [7].&#xD;
+&#xD;
+      Therefore, bendamustine, an alkylating agent, was recently licensed in Europe for NHL, CLL&#xD;
+      and MM. The addition of bendamustine was able to overcome bortezomib resistance in an&#xD;
+      institutional treatment algorithm [8] in line with the observation that bortezomib enhanced&#xD;
+      the clinical activity of the alkylator melphalan in conventional doses as well as in the high&#xD;
+      dose setting [9-10]. Thus, there appears to be a rationale to combine both drugs in order to&#xD;
+      obtain clinical synergistic activity in relapsed and refractory MM patients.&#xD;
+&#xD;
+      STUDY OBJECTIVES&#xD;
+&#xD;
+      Primary objective:&#xD;
+&#xD;
+        -  The dose-limiting toxicity (DLT) and maximum tolerate dose (MTD) of carfilzomib,&#xD;
+           bendamustine and dexamethasone (CBd) association (phase Ib).&#xD;
+&#xD;
+        -  Determine the rate of very good partial response (VGPR) or more with the CBd&#xD;
+           association: a VGPR rate of 20% (p0) is considered not promising (H0) and a 40% (p1) as&#xD;
+           interesting (phase II).&#xD;
+&#xD;
+      Secondary objectives:&#xD;
+&#xD;
+        -  Determine the overall response rate (ORR) after completion of CBd&#xD;
+&#xD;
+        -  Determine the progression-free survival (PFS) after completion of CBd&#xD;
+&#xD;
+        -  Determine the time point of best response&#xD;
+&#xD;
+        -  Determine the time to progression (TTP)&#xD;
+&#xD;
+        -  Determine the disease free survival (DFS)&#xD;
+&#xD;
+        -  Determine the duration of response (DOR)&#xD;
+&#xD;
+        -  Determine the time to next therapy (TTNT)&#xD;
+&#xD;
+        -  Determine the overall survival (OS)&#xD;
+&#xD;
+        -  Determine whether tumor response and survival might significantly change in particular&#xD;
+           subgroups of patients defined on prognostic factors (B2- microglobulin, C-reactive&#xD;
+           protein, cytogenetic abnormalities as determined by FISH) STUDY POPULATION Relapsed or&#xD;
+           refractory multiple myeloma after failure of two or more treatment regimens. Up to 68&#xD;
+           patients will be enrolled from different centers. INCLUSION CRITERIA&#xD;
+&#xD;
+        -  Patient ≥ 18 years old.&#xD;
+&#xD;
+        -  Patient is, in the investigator(s) opinion, willing and able to comply with the protocol&#xD;
+           requirements.&#xD;
+&#xD;
+        -  Patient has given voluntary written informed consent before performance of any&#xD;
+           study-related procedure not part of normal medical care, with the understanding that&#xD;
+           consent may be withdrawn by the patient at any time without prejudice to their future&#xD;
+           medical care.&#xD;
+&#xD;
+        -  Female patient is either post-menopausal or surgically sterilized or commits continued&#xD;
+           abstinence from heterosexual intercourse during the duration of the study or is willing&#xD;
+           to use two methods of birth control, one highly effective method and one additional&#xD;
+           effective method at the same time, at least 4 weeks before starting carfilzomib and&#xD;
+           bendamustine therapy, during carfilzomib and bendamustine therapy and for at least 4&#xD;
+           weeks after stopping carfilzomib and bendamustine therapy. Highly effective methods are&#xD;
+           hormonal contraceptives (birth control pills, injections, and implants), intrauterine&#xD;
+           device, tubal ligation and partner's vasectomy. Additional effective methods are condom,&#xD;
+           diaphragm, and cervical cap. Women with child bearing potential must have two negative&#xD;
+           pregnancy tests (sensitivity at least 50 mIU/mL) prior starting carfilzomib and&#xD;
+           bendamustine therapy. The first pregnancy test must be performed 10 - 14 days and the&#xD;
+           second within 24 hours before starting carfilzomib and bendamustine therapy. Pregnancy&#xD;
+           testing for the first 4 weeks of study therapy must be performed weekly and thereafter&#xD;
+           every 4 weeks if menstrual cycles are regular or every 2 weeks if menstrual cycles are&#xD;
+           irregular.&#xD;
+&#xD;
+        -  Male patient agrees to use an acceptable method for contraception (i.e., condom or&#xD;
+           abstinence) for the duration of the study and for 6 months after stopping study therapy.&#xD;
+&#xD;
+        -  Patient with relapsed or/and refractory multiple myeloma after failure of two or more&#xD;
+           treatment regimens (previous bortezomib is allowed).&#xD;
+&#xD;
+        -  Patient has measurable disease, defined as follows: any quantifiable serum monoclonal&#xD;
+           protein (M-protein) value (generally, but not necessarily, ≥ 0.5 g/dL of M-protein) and,&#xD;
+           where applicable, urine light-chain excretion of &gt;200 mg/24 hours. For patients with&#xD;
+           oligo- or non-secretory MM, it is required that they have measurable plasmacytoma &gt; 2 cm&#xD;
+           as determined by clinical examination or applicable radiographs (i.e. MRI, CT-Scan) or&#xD;
+           an abnormal free light chain ratio (n.v.: 0.26-1.65). We anticipate that less than 10%&#xD;
+           of patients admitted to this study will be oligo- or non-secretory MM with free light&#xD;
+           chains only in order to maximize interpretation of benefit results.&#xD;
+&#xD;
+        -  Patient has a Karnofsky performance status ≥60%.&#xD;
+&#xD;
+        -  Patient has a life expectancy &gt;6 months.&#xD;
+&#xD;
+        -  Patient has the following laboratory values within 14 days before Baseline (day 1 of the&#xD;
+           Cycle 1, before study drug administration):&#xD;
+&#xD;
+             -  Platelet count ≥70 x 109/L (≥50 x 109 /L if myeloma involvement in the bone marrow&#xD;
+                is &gt; 50%) within 14 days prior to drug administration).&#xD;
+&#xD;
+             -  Absolute neutrophil count (ANC) ≥ 1 x 109/L without the use of growth factors.&#xD;
+&#xD;
+             -  Corrected serum calcium ≤14 mg/dL (3.5 mmol/L).&#xD;
+&#xD;
+             -  Alanine transaminase (ALT): ≤ 3 x the ULN.&#xD;
+&#xD;
+             -  Total bilirubin: ≤ 2 x the ULN.&#xD;
+&#xD;
+             -  Calculated or measured creatinine clearance ≥ 15 mL/min (or, as alternative serum&#xD;
+                creatinine &lt;2 mg/dL).&#xD;
+&#xD;
+             -  LVEF ≥ 40%. 2-D transthoracic echocardiogram (ECHO) is the preferred method of&#xD;
+                evaluation. Multigated Acquisition Scan (MUGA) is acceptable if ECHO is not&#xD;
+                available (not applicable in Germany). EXCLUSION CRITERIA&#xD;
+&#xD;
+        -  Pregnant or lactating females&#xD;
+&#xD;
+        -  Patient has active infectious hepatitis type B or C or HIV.&#xD;
+&#xD;
+        -  Patients with active congestive heart failure (New York Heart Association [NYHA] Class&#xD;
+           III to IV), symptomatic ischemia, or conduction abnormalities uncontrolled by&#xD;
+           conventional intervention.&#xD;
+&#xD;
+        -  Peripheral neuropathy (PN) &gt; CTCAE grade 2 and ≥ grade 2 painful PN (with the difference&#xD;
+           being in the exclusion of patients with Grade 2 painful PN).&#xD;
+&#xD;
+        -  Known history of allergy to Captisol (a cyclodextrin derivative used to solubilize&#xD;
+           carfilzomib)&#xD;
+&#xD;
+        -  Known history of intolerability to high dose dexamethasone&#xD;
+&#xD;
+        -  Contraindication to any of the required concomitant drugs or supportive treatments,&#xD;
+           including hypersensitivity to all anticoagulation and anti-platelet options, antiviral&#xD;
+           drugs, or intolerance to hydration due to preexisting pulmonary or cardiac impairment.&#xD;
+&#xD;
+        -  Subject with pleural effusions requiring thoracentesis or ascites requiring paracentesis&#xD;
+           within 14 days prior to baseline;&#xD;
+&#xD;
+        -  Patient has any other clinically significant illness that would, in the investigator's&#xD;
+           opinion, increase the patient's risk for toxicity.&#xD;
+&#xD;
+        -  Patient with a prior malignancy within the last 5 years (except for basal or squamous&#xD;
+           cell carcinoma of the skin, or in situ cancer of the cervix or breast, or localized&#xD;
+           prostate cancer of Gleason score &lt;7 with a stable PSA). The pre-treatment period&#xD;
+           includes screening visits, performed at study entry. After providing written informed&#xD;
+           consent to participate in the study, patients will be evaluated for study eligibility.&#xD;
+           The screening period includes the availability of inclusion criteria described above.&#xD;
+           The treatment period includes administration of CBd for 8 courses. In order to assess&#xD;
+           the toxicity of treatment, patients will attend the study center visits at each&#xD;
+           scheduled carfilzomib administration. The response will be assessed after each cycle.&#xD;
+           The maintenance period will start at the end of 8th course, if the patient achieved at&#xD;
+           least Stable Disease (SD), and will stop at progression or intolerance. Patients will&#xD;
+           attend the study center visits at each scheduled carfilzomib administration.&#xD;
+&#xD;
+      The response will be assessed after each cycle. The median expected duration of the&#xD;
+      maintenance treatment is approximately 1 year. The LTFU period will start after development&#xD;
+      of confirmed progressive disease (PD). All patients are to be followed for survival during&#xD;
+      the LTFU period every 3 months via telephone or office visit. STUDY TREATMENT Patients will&#xD;
+      start the savage treatment with CBd, as soon as the screening visits of the pre-treatment&#xD;
+      period have been terminated. Patients will receive 8 CBd cycles. PHASE I In the phase I part&#xD;
+      of the study, the following dose levels of carfilzomib and bendamustine will be studied with&#xD;
+      a constant dose of dexamethasone: Level -2 Carfilzomib = 20 mg/m2 IV once daily on days 1, 2&#xD;
+      of cycle 1 only followed by 27 mg/m2 days 8, 9, 15, 16 in cycle 1, then for all subsequent&#xD;
+      doses 27 mg/m2 once daily on days 1, 2, 8, 9, 15, 16 followed by 13-day rest period (day 17&#xD;
+      through 28). Bendamustine = 50 mg/m2 on days 1, 8 every 28 days Dexamethasone = 20 mg on days&#xD;
+      1, 2, 8, 9, 15, 16, 22, 23 every 28 days. Level -1 Carfilzomib = 20 mg/m2 IV once daily on&#xD;
+      days 1, 2 of cycle 1 only followed by 27 mg/m2 days 8, 9, 15, 16 in cycle 1, then for all&#xD;
+      subsequent doses 27 mg/m2 once daily on days 1, 2, 8, 9, 15, 16, followed by 13-day rest&#xD;
+      period (day 17 through 28). Bendamustine = 60 mg/m2 on days 1, 8 every 28 days Dexamethasone&#xD;
+      = 20 mg on days 1, 2, 8, 9, 15, 16, 22, 23 every 28 days . Level 0 Carfilzomib = 20 mg/m2 IV&#xD;
+      once daily on days 1, 2 of cycle 1 only followed by 27 mg/m2 days 8, 9, 15, 16 in cycle 1,&#xD;
+      then for all subsequent doses 27 mg/m2 IV once daily on days 1, 2, 8, 9, 15, 16 followed by&#xD;
+      13-day rest period (day 17 through 28). Bendamustine = 70 mg/m2 on days 1, 8 every 28 days&#xD;
+      Dexamethasone = 20 mg on days 1, 2, 8, 9, 15, 16, 22, 23. Level +1 Carfilzomib = 20 mg/m2 IV&#xD;
+      once daily on days 1, 2, of cycle 1 only followed by 36 mg/m2 days 8, 9, 15, 16 in cycle 1,&#xD;
+      then for all subsequent doses 36 mg/m2 IV once daily on days 1, 2, 8, 9, 15, 16, followed by&#xD;
+      13-day rest period (day 17 through 28). Bendamustine = 70 mg/m2 on days 1, 8 every 28 days&#xD;
+      Dexamethasone = 20 mg on days 1, 2, 8, 9, 15, 16, 22, 23. Level +2 Carfilzomib = 20 mg/m2 IV&#xD;
+      once daily on days 1, 2, of cycle 1 only followed by 45 mg/m2 days 8, 9, 15, 16 in cycle 1,&#xD;
+      then for all subsequent doses 45 mg/m2 IV once daily on days 1, 2, 8, 9, 15, 16, followed by&#xD;
+      13-day rest period (day 17 through 28). Bendamustine = 70 mg/m2 on days 1, 8 every 28 days&#xD;
+      Dexamethasone = 20 mg on days 1, 2, 8, 9, 15, 16, 22, 23. Patients will be observed during&#xD;
+      the first two cycles of therapy for the assessment of side effects and observation of DLTs.&#xD;
+&#xD;
+      Dose escalation will proceed as follows:&#xD;
+&#xD;
+        -  3 patients will be entered at dose level 0.&#xD;
+&#xD;
+        -  If none of the 3 experience DLT, dose escalation will continue.&#xD;
+&#xD;
+        -  If one of three patients experience DLT, three additional patients will be added to this&#xD;
+           cohort (max 6).&#xD;
+&#xD;
+        -  If two of three patients experience a DLT at any given dose, the MTD will have been&#xD;
+           exceeded and the MTD will be the preceding dose at which &lt; one of 6 patients experienced&#xD;
+           a DLT. If dose level zero is not tolerated, the next level will be level -1.&#xD;
+&#xD;
+        -  If no further patients experience DLT (1 of 6) dose escalation will continue.&#xD;
+&#xD;
+        -  If 2 patients experience DLT (2 of 6) the MTD will have been exceeded and the MTD will&#xD;
+           be the previous dose at which &lt;1 patient of 6 experienced DLT. PHASE II In the second&#xD;
+           part of the study, the MTD of the association CBd (or in absence of any MTD observed the&#xD;
+           doses of dose level 2) will be administered, if no dose level will be superior in phase&#xD;
+           Ib, to a total of 50 consecutive patients in order to assess response rate and clinical&#xD;
+           efficacy. MAINTENANCE PERIOD&#xD;
+&#xD;
+      At the end of 8 courses, maintenance phase will start. Patients will receive:&#xD;
+&#xD;
+      Carfilzomib = 27 mg/ m2 IV on days 1, 2, 15, 16 followed by 13-day rest period (day 17&#xD;
+      through 28). Dexamethasone = 20 mg on days 1, 2, 8, 9, 15, 16, 22, 23. Patients will be&#xD;
+      stopped at PD or intolerance. STUDY ENDPOINTS&#xD;
+&#xD;
+      Primary endpoints:&#xD;
+&#xD;
+      All patients will be included in the Intent-to-Treat (ITT) analysis.&#xD;
+&#xD;
+      DLTs are defined as the following:&#xD;
+&#xD;
+        -  Any CTCAE grade ≥3 non-hematologic event except the following:&#xD;
+&#xD;
+           1. Nausea or vomiting that responds symptomatic therapy.&#xD;
+&#xD;
+        -  Grade 4 neutropenia lasting more than 7 days.&#xD;
+&#xD;
+        -  Grade 4 hematologic toxicity except neutropenia&#xD;
+&#xD;
+        -  Development of febrile neutropenia defined as grade 3-4 neutropenia with fever 38.5°C&#xD;
+           and/or infection requiring antibiotic or antifungal treatment. Assessment of DLT&#xD;
+           defining adverse events will be performed after completion of the second cycle (only in&#xD;
+           phase Ib) according to the National Cancer Institute Common Terminology Criteria of&#xD;
+           Adverse Events (CTCAE version 4.0). Efficacy will be assessed by considering VGPR&#xD;
+           following the proposed regimen, according to the criteria of the International Myeloma&#xD;
+           Working Group&#xD;
+&#xD;
+      Secondary endpoints:&#xD;
+&#xD;
+        -  Determine the ORR.&#xD;
+&#xD;
+        -  Determine the PFS.&#xD;
+&#xD;
+        -  Determine the time point of best response.&#xD;
+&#xD;
+        -  Determine the TTP.&#xD;
+&#xD;
+        -  Determine the DFS.&#xD;
+&#xD;
+        -  Determine the DOR.&#xD;
+&#xD;
+        -  Determine TTNT.&#xD;
+&#xD;
+        -  Determine OS. Determine whether tumor response and survival might significantly change&#xD;
+           in particular subgroups of patients defined on prognostic factors (β2-microglobulin,&#xD;
+           C-reactive protein (CRP), cytogenetic abnormality or previous treatment). STATISTICAL&#xD;
+           METHODS The sample size of the first part of the study (Phase I) is based on the&#xD;
+           scenario that groups assuming CBd dose level -1/+2 are made of minimum 3 patients and&#xD;
+           maximum 6 patients. This brings a total of 18 patients, as maximum number of patients&#xD;
+           that will be recruited. The sample size of the second part of the study (Phase II) was&#xD;
+           estimated according to the Two-stage Simon phase II design, with early stopping rules,&#xD;
+           in case efficacy results lower than a predefined uninteresting response rate. A VGPR&#xD;
+           rate of 20% (p0) is considered not promising (H0) and a 40% (p1) VGPR rate as&#xD;
+           interesting; a probability of type I (α) error is set to be 0.05 and type II (β) error&#xD;
+           0.20. In the first stage, 13 patients will be accrued. If 3 or less response will be&#xD;
+           observed in stage I, the trial will be stopped for futility. Otherwise, 30 additional&#xD;
+           patients will be accrued in the second stage: if 12 or fewer responses will be observed&#xD;
+           by the end of the stage II, then no further investigation will be warranted. With this&#xD;
+           design, and if H0 would be true, the expected number of enrolled patients will be 43 and&#xD;
+           the probability of early termination 74.7%. Assuming 10-15% of patients lost to&#xD;
+           follow-up, an adequate sample size will be 50 patients. Therefore the maximum total&#xD;
+           number of patients that will be recruited in both phases will be 68.&#xD;
+&#xD;
+      STUDY DURATION:&#xD;
+&#xD;
+      Approximately 5 years&#xD;
+&#xD;
+      TOTAL SAMPLE SIZE:&#xD;
+&#xD;
+      Up to 68 patients&#xD;
+&#xD;
+      STUDY DRUG SUPPLIERS:&#xD;
+&#xD;
+      Mundipharma International Onyx Pharmaceuticals&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 2014</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Actual">September 2015</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Identification of dose-limiting toxicity (DLT)</measure>
+    <time_frame>1 year</time_frame>
+    <description>DLTs are defined as the following:&#xD;
+Any CTCAE grade ≥3 non-hematologic event except the following:&#xD;
+1. Nausea or vomiting that responds symptomatic therapy.&#xD;
+Grade 4 neutropenia lasting more than 7 days.&#xD;
+Grade 4 hematologic toxicity except neutropenia&#xD;
+Development of febrile neutropenia defined as grade 3-4 neutropenia with fever 38.5°C and/or infection requiring antibiotic or antifungal treatment. Assessment of DLT defining adverse events will be performed after completion of the second cycle (only in phase Ib) according to the National Cancer Institute Common Terminology Criteria of Adverse Events (CTCAE version 4.0). Efficacy will be assessed by considering VGPR following the proposed regimen, according to the criteria of the International Myeloma Working Group</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Determine the rate of very good partial response (VGPR) or more with the CBd association:</measure>
+    <time_frame>1 year</time_frame>
+    <description>Determine the rate of very good partial response (VGPR) or more with the CBd association: a VGPR rate of 20% (p0) is considered not promising (H0) and a 40% (p1) as interesting (phase II).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">63</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>CBD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carfilzomib</intervention_name>
+    <arm_group_label>CBD</arm_group_label>
+    <other_name>Krypolis</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient ≥ 18 years old.&#xD;
+&#xD;
+               -  Patient is, in the investigator(s) opinion, willing and able to comply with the&#xD;
+                  protocol requirements.&#xD;
+&#xD;
+               -  Patient has given voluntary written informed consent before performance of any&#xD;
+                  study-related procedure not part of normal medical care, with the understanding&#xD;
+                  that consent may be withdrawn by the patient at any time without prejudice to&#xD;
+                  their future medical care.&#xD;
+&#xD;
+               -  Female patient is either post-menopausal or surgically sterilized or commits&#xD;
+                  continued abstinence from heterosexual intercourse during the duration of the&#xD;
+                  study or is willing to use two methods of birth control, one highly effective&#xD;
+                  method and one additional effective method at the same time, at least 4 weeks&#xD;
+                  before starting carfilzomib and bendamustine therapy, during carfilzomib and&#xD;
+                  bendamustine therapy and for at least 4 weeks after stopping carfilzomib and&#xD;
+                  bendamustine therapy. Highly effective methods are hormonal contraceptives (birth&#xD;
+                  control pills, injections, and implants), intrauterine device, tubal ligation and&#xD;
+                  partner's vasectomy. Additional effective methods are condom, diaphragm, and&#xD;
+                  cervical cap. Women with child bearing potential must have two negative pregnancy&#xD;
+                  tests (sensitivity at least 50 mIU/mL) prior starting carfilzomib and&#xD;
+                  bendamustine therapy. The first pregnancy test must be performed 10 - 14 days and&#xD;
+                  the second within 24 hours before starting carfilzomib and bendamustine therapy.&#xD;
+                  Pregnancy testing for the first 4 weeks of study therapy must be performed weekly&#xD;
+                  and thereafter every 4 weeks if menstrual cycles are regular or every 2 weeks if&#xD;
+                  menstrual cycles are irregular.&#xD;
+&#xD;
+               -  Male patient agrees to use an acceptable method for contraception (i.e., condom&#xD;
+                  or abstinence) for the duration of the study and for 6 months after stopping&#xD;
+                  study therapy.&#xD;
+&#xD;
+               -  Patient with relapsed or/and refractory multiple myeloma after failure of two or&#xD;
+                  more treatment regimens (previous bortezomib is allowed).&#xD;
+&#xD;
+               -  Patient has measurable disease, defined as follows: any quantifiable serum&#xD;
+                  monoclonal protein (M-protein) value (generally, but not necessarily, ≥ 0.5 g/dL&#xD;
+                  of M-protein) and, where applicable, urine light-chain excretion of &gt;200 mg/24&#xD;
+                  hours. For patients with oligo- or non-secretory MM, it is required that they&#xD;
+                  have measurable plasmacytoma &gt; 2 cm as determined by clinical examination or&#xD;
+                  applicable radiographs (i.e. MRI, CT-Scan) or an abnormal free light chain ratio&#xD;
+                  (n.v.: 0.26-1.65). We anticipate that less than 10% of patients admitted to this&#xD;
+                  study will be oligo- or non-secretory MM with free light chains only in order to&#xD;
+                  maximize interpretation of benefit results.&#xD;
+&#xD;
+               -  Patient has a Karnofsky performance status ≥60%.&#xD;
+&#xD;
+               -  Patient has a life expectancy &gt;6 months.&#xD;
+&#xD;
+               -  Patient has the following laboratory values within 14 days before Baseline (day 1&#xD;
+                  of the Cycle 1, before study drug administration):&#xD;
+&#xD;
+          -  Platelet count ≥70 x 109/L (≥50 x 109 /L if myeloma involvement in the bone marrow is&#xD;
+             &gt; 50%) within 14 days prior to drug administration).&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) ≥ 1 x 109/L without the use of growth factors.&#xD;
+&#xD;
+          -  Corrected serum calcium ≤14 mg/dL (3.5 mmol/L).&#xD;
+&#xD;
+          -  Alanine transaminase (ALT): ≤ 3 x the ULN.&#xD;
+&#xD;
+          -  Total bilirubin: ≤ 2 x the ULN.&#xD;
+&#xD;
+          -  Calculated or measured creatinine clearance ≥ 15 mL/min (or, as alternative serum&#xD;
+             creatinine &lt;2 mg/dL).&#xD;
+&#xD;
+          -  LVEF ≥ 40%. 2-D transthoracic echocardiogram (ECHO) is the preferred method of&#xD;
+             evaluation. Multigated Acquisition Scan (MUGA) is acceptable if ECHO is not available&#xD;
+             (not applicable in Germany).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or lactating females&#xD;
+&#xD;
+               -  Patient has active infectious hepatitis type B or C or HIV.&#xD;
+&#xD;
+               -  Patients with active congestive heart failure (New York Heart Association [NYHA]&#xD;
+                  Class III to IV), symptomatic ischemia, or conduction abnormalities uncontrolled&#xD;
+                  by conventional intervention.&#xD;
+&#xD;
+               -  Peripheral neuropathy (PN) &gt; CTCAE grade 2 and ≥ grade 2 painful PN (with the&#xD;
+                  difference being in the exclusion of patients with Grade 2 painful PN).&#xD;
+&#xD;
+               -  Known history of allergy to Captisol (a cyclodextrin derivative used to&#xD;
+                  solubilize carfilzomib)&#xD;
+&#xD;
+               -  Known history of intolerability to high dose dexamethasone&#xD;
+&#xD;
+               -  Contraindication to any of the required concomitant drugs or supportive&#xD;
+                  treatments, including hypersensitivity to all anticoagulation and anti-platelet&#xD;
+                  options, antiviral drugs, or intolerance to hydration due to preexisting&#xD;
+                  pulmonary or cardiac impairment.&#xD;
+&#xD;
+               -  Subject with pleural effusions requiring thoracentesis or ascites requiring&#xD;
+                  paracentesis within 14 days prior to baseline;&#xD;
+&#xD;
+               -  Patient has any other clinically significant illness that would, in the&#xD;
+                  investigator's opinion, increase the patient's risk for toxicity.&#xD;
+&#xD;
+               -  Patient with a prior malignancy within the last 5 years (except for basal or&#xD;
+                  squamous cell carcinoma of the skin, or in situ cancer of the cervix or breast,&#xD;
+                  or localized prostate cancer of Gleason score &lt;7 with a stable PSA).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Schleswig-Holstein (UKSH) - Division of Stem Cell Transplantation and Immunotherapy, 2nd Department of Medicine</name>
+      <address>
+        <city>Kiel</city>
+        <zip>24105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione EMN Italy Onlus</name>
+      <address>
+        <city>Torino</city>
+        <state>TO</state>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Divisione di Ematologia A.O.U. Ospedali Riuniti Umberto I - G.M. Lancisi - G. Salesi di Ancona</name>
+      <address>
+        <city>Ancona</city>
+        <zip>60126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>February 5, 2014</study_first_submitted>
+  <study_first_submitted_qc>February 5, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 6, 2014</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>REFRACTORY OR RELAPSED</keyword>
+  <keyword>CBD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

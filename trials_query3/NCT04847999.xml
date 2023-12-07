@@ -1,0 +1,202 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04847999</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H20-02122</org_study_id>
+    <nct_id>NCT04847999</nct_id>
+  </id_info>
+  <brief_title>Dark Chocolate and Glucose Levels in Diabetes</brief_title>
+  <official_title>Impact of Dark Chocolate Consumption on Glucose Levels of People With Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of British Columbia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of British Columbia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Diabetes is a growing concern in the world with an estimated 9.3% of adults, ages 20-79, with&#xD;
+      it in 2019, type 2 diabetes accounting for 90% of this total. A common recommendation for&#xD;
+      individuals with diabetes is to limit sugars and sweets as it may cause a high blood glucose&#xD;
+      response. As a result, chocolate is often avoided due to the sugar content; though,&#xD;
+      high-polyphenol chocolate may have a beneficial effect on hyperglycaemia and vascular&#xD;
+      function. The sugar-free chocolate from Ross Chocolates is formulated with a blend of inulin,&#xD;
+      erythritol, and stevia. These alternatives to sugar are not expected to cause a significant&#xD;
+      change in blood glucose levels following consumption. The main objective of this study is to&#xD;
+      verify glucose levels before and after consumption of Ross Chocolates' blend of sweeteners&#xD;
+      dark chocolate and conventional chocolate in people with diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Individuals with type 1 or type 2 diabetes (10 participants each) will consume a Ross&#xD;
+      Chocolate or conventional sugar-sweetened dark chocolate bar on two occasions in a randomized&#xD;
+      crossover trial. Blood glucose levels will be measured by finger prick for 120 minutes after&#xD;
+      consumption to determine postprandial glucose excursions after consumption of each type of&#xD;
+      chocolate bar.&#xD;
+&#xD;
+      Due to the COVID-19 pandemic, the trial was converted to be completed remotely/virtually with&#xD;
+      participants completing the testing at their home under the supervision of a research team&#xD;
+      member who will describe the study procedures and monitor testing via video conferencing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 20, 2020</start_date>
+  <completion_date type="Anticipated">May 4, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 4, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Chocolate bars will be identical and wrapped equally and labeled as A and B, by Ross Chocolates (prepared in the same mold and packaged identically) who are not involved in any other aspects of the study, allowing for blinding of research team and participants.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Blood glucose incremental area under the curve</measure>
+    <time_frame>Throughout study completion: 0-120 min after consumption of chocolate bar</time_frame>
+    <description>A self-monitoring blood glucose device (OneTouch Verio IQ® kit Blood glucose monitoring system) will be used to measure blood glucose levels before and every 15-30 minutes after consumption of chocolates. Incremental area under the curve will calculate the glucose above baseline fasting values across 120 minutes.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Peak blood glucose concentration</measure>
+    <time_frame>Throughout study completion: 0-120 minutes after consumption of chocolate bar</time_frame>
+    <description>Highest blood glucose value measured after consumption of the chocolate bar</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak blood glucose concentration above baseline</measure>
+    <time_frame>Throughout study completion: 0-120 minutes after consumption of chocolate bar</time_frame>
+    <description>Highest blood glucose value above fasting baseline after consumption of the chocolate bar</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood glucose total area under the curve</measure>
+    <time_frame>Throughout study completion: 0-120 minutes</time_frame>
+    <description>A self-monitoring blood glucose device (OneTouch Verio IQ® kit Blood glucose monitoring system) will be used to measure blood glucose levels before and every 15-30 minutes after consumption of chocolates. Total area under the curve will calculate the glucose above zero across 120 minutes.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Taste Questionnaire</measure>
+    <time_frame>Throughout study completion:120 min after consumption of chocolate bar</time_frame>
+    <description>Self-reported taste of chocolate bars will be assessed by questionnaire</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <condition>Type 1 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>Conventional Dark Chocolate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A standard dark chocolate bar.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ross Dark Chocolate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A dark chocolate bar sweetened with stevia, erythritol, and inulin.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Dark chocolate</intervention_name>
+    <description>Dark chocolate</description>
+    <arm_group_label>Conventional Dark Chocolate</arm_group_label>
+    <arm_group_label>Ross Dark Chocolate</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  physician-diagnosed T1D or T2D of ≥1 year;&#xD;
+&#xD;
+          -  current HbA1c of 6.5-8.5%;&#xD;
+&#xD;
+          -  BMI: 25-40 kg/m2;&#xD;
+&#xD;
+          -  blood pressure of &lt;160/99 mm Hg assessed according to guidelines;&#xD;
+&#xD;
+          -  non-smoking;&#xD;
+&#xD;
+          -  not on hormone replacement therapy, corticosteroids, or anti-inflammatory medications;&#xD;
+&#xD;
+          -  18-75 years old.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Are taking more than 2 glucose lowering medications;&#xD;
+&#xD;
+          -  Are ongoing medical treatment for diseases such as cancer, auto-immune or inflammatory&#xD;
+             disease, liver or kidney disorders;&#xD;
+&#xD;
+          -  Have allergy, intolerance or aversion to cocoa, stevia, erythritol, inulin, or any&#xD;
+             other dietary restrictions (e.g., vegan) that will prevent them from following the&#xD;
+             standardized study diets;&#xD;
+&#xD;
+          -  Are unable to follow remote guidance by internet or smartphone;&#xD;
+&#xD;
+          -  Are unable to follow the controlled diet instructions;&#xD;
+&#xD;
+          -  Are unable to read or communicate in English.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of British Columbia Okanagan</name>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <zip>V1V 3G1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Little, PhD</last_name>
+      <phone>2508079876</phone>
+      <email>jonathan.little@ubc.ca</email>
+    </contact>
+    <contact_backup>
+      <phone>2508079876</phone>
+      <email>jonathan.little@ubc.ca</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>January 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 19, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of British Columbia</investigator_affiliation>
+    <investigator_full_name>Jonathan Little</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

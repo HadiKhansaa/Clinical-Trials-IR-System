@@ -1,0 +1,635 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01892644</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012/2139</org_study_id>
+    <nct_id>NCT01892644</nct_id>
+  </id_info>
+  <brief_title>Treatment of Iron Overload With Deferasirox (Exjade) in Hereditary Hemochromatosis and Myelodysplastic Syndrome</brief_title>
+  <acronym>DefeHEMY</acronym>
+  <official_title>Deferasirox Versus Venesection in Patients With Hemochromatosis and for Treatment of Transfusional Siderosis in Myelodysplastic Syndrome: Diagnostics and New Biomarkers.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Haukeland University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Haukeland University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hypothesis: Deferasirox can be used as a therapeutic agent to deplete the liver, heart and&#xD;
+      bone marrow of excess iron in patients with iron overload caused by myelodysplastic syndrome&#xD;
+      (MDS) and hemochromatosis (HC.&#xD;
+&#xD;
+      Assess the effect of new serum biomarkers (NTBI and hepcidin) and MRI as indicators of iron&#xD;
+      overload and their usefulness to monitor iron depletion treatment.&#xD;
+&#xD;
+      Study the effect of iron overload and iron depletion on intracellular signal transduction,&#xD;
+      trace metals concentrations in serum and urine and markers of oxidative stress in blood cells&#xD;
+      and urine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The two most important causes of iron overload disease in humans are the iron-loading&#xD;
+      disorder hereditary hemochromatosis (HC), and transfusional siderosis in patients with&#xD;
+      chronic hematological diseases like myelodysplastic syndrome (MDS), thalassemia, and&#xD;
+      leukemia.&#xD;
+&#xD;
+      Hemochromatosis. In HC the molecular regulation of iron uptake across the intestinal mucosa&#xD;
+      is disturbed, leading to hyperabsorption and accumulation of iron in parenchymal tissues such&#xD;
+      as the liver, pancreas, endocrine organs and heart. Hepcidin, a small peptide hormone&#xD;
+      synthesized in the liver, apparently functions as the master regulator of systemic iron&#xD;
+      homeostasis by its ability to control the efflux of iron from the enterocytes and macrophages&#xD;
+      into blood plasma. This happens by diminishing the iron transfer capacity through the&#xD;
+      basolateral, transmembrane protein, ferroportin. Expression of hepcidin is carefully adjusted&#xD;
+      by the iron status of the hepatocytes through a multimolecular signal transducing pathway&#xD;
+      which acts as a positive feedback mechanism with increased hepcidin synthesis in iron&#xD;
+      overload (and inflammation). Mutation of one of the signal molecules, leads to inadequate&#xD;
+      hepcidin synthesis. The most common are the classic C282Y and H63D point mutations of the&#xD;
+      hemochromatosis protein HFE, which disturbs its interaction with the transferrin receptor 1,&#xD;
+      the first step in the hepcidin signal cascade. Homozygosity for C282Y is the strongest risk&#xD;
+      factor for serious iron overload and disease which develops after a long-lasting,&#xD;
+      asymptomatic period. In Norway the prevalence of C283Y homozygosity is approximately 0.75 in&#xD;
+      both genders. The preclinical, biochemical phenotype of HC is disclosed by blood tests with&#xD;
+      elevated transferrin saturation as a marker of hyperabsorption of iron, and increasing&#xD;
+      ferritin concentration as a surrogate marker of a growing iron overload. As an alternative to&#xD;
+      liver biopsy, magnetic resonance imaging (MRI) seems to be a powerful non-invasive method to&#xD;
+      directly assess the iron content of the liver and heart.&#xD;
+&#xD;
+      Myelodysplastic syndrome and transfusional siderosis. Transfusional iron overload is the&#xD;
+      result of multiple blood transfusions supplied over a long time period, each of which adds&#xD;
+      approximately 220 to 250 mg of extra iron to the body. Because iron loading occurs via a&#xD;
+      parenteral route with the macrophages as the primary target cells, the normal homeostatic&#xD;
+      mechanisms are not responding adequately and the plasma hepcidin level can be normal or even&#xD;
+      increased. Even if excess iron is better tolerated in macrophages than in parenchymal cells,&#xD;
+      a life-threatening iron overload develops much faster with transfusional siderosis than&#xD;
+      HFE-associated HC. Myelodysplastic syndrome (MDS) is a heterogeneous group of stem cell&#xD;
+      disorders with inefficient hematopoiesis and increased risk of developing acute myeloid&#xD;
+      leukemia. The MDS International Prognostic Scoring System (IPSS) which is based on numbers of&#xD;
+      cytopenias, cytogenetic features and number of blasts in the bone marrow, enables separation&#xD;
+      of four risk groups with the following median survival years: low-risk patients, 5.7 years;&#xD;
+      intermediate-1, 3.5 years; intermediate-2, 1.2 years; and high-risk 0.4 years. Many patients&#xD;
+      become transfusion-dependent and get serious transfusional iron overload. Iron chelation is&#xD;
+      recommended to low-risk and intermediate-1 patients with probable need of lifelong&#xD;
+      transfusion therapy.&#xD;
+&#xD;
+      Consequences of iron overload. If not interrupted, continuous iron loading will at some point&#xD;
+      start to gradually damage vital organs such as liver, heart and endocrine organs, and lead to&#xD;
+      serious disease and a shortened lifetime. At the molecular level persistently increased&#xD;
+      amounts of reactive, small molecular weight iron complexes or the sporadic presence of free&#xD;
+      iron in blood and tissues, are probably the fundamental pathogenetic mechanism in iron&#xD;
+      overload. These substances are highly toxic due to their strong ability to catalyze the&#xD;
+      formation of free radicals such as Reactive Oxygen Species (ROS). The activity of free&#xD;
+      radicals with damage of native molecules (e.g. DNA) and cellular structures is considered to&#xD;
+      be the first step in organ and tissue injury. In blood, reactive iron exists as&#xD;
+      Non-Transferrin Bound Iron (NTBI), mainly in the form of small molecular weight iron-citrate&#xD;
+      complexes. NTBI is rapidly taken up by the liver and other organs where it adds to the&#xD;
+      intracellular, reactive labile iron pool (LIP). The presence of NTBI and LIP has been found&#xD;
+      to correlate with hepatic and cardiac damage in transfusional siderosis and HC. In addition,&#xD;
+      the homeostasis of other trace metals may be abnormal in iron overload. Little is known about&#xD;
+      this issue, which warrants a deeper study.&#xD;
+&#xD;
+      Treatment. In HC, the preferred iron removal therapy is venesection, whilst transfusional&#xD;
+      iron overload is treated with iron chelators.&#xD;
+&#xD;
+      Clinical aims of study. The major objective is to determine the efficacy of deferasirox to&#xD;
+      remove iron from the liver, heart and bone marrow in HC- and MDS-patients with iron overload.&#xD;
+&#xD;
+      Explorative aims. Determine the correlation between the novel biomarkers hepcidin and NTBI,&#xD;
+      and ferritin and transferrin saturation in serum; and liver iron concentration (LIC), heart&#xD;
+      iron concentration (HIC), and bone marrow iron.&#xD;
+&#xD;
+      Assess the effect of iron overload and iron depletion with either deferasirox or venesection,&#xD;
+      on the concentration of trace metals in serum and urine in HC and MDS patients.&#xD;
+&#xD;
+      Study the influence of iron overload and iron depletion with either deferasirox or&#xD;
+      venesection, on intracellular signal transduction in blood cells isolated from HC and MDS&#xD;
+      patients.&#xD;
+&#xD;
+      Study the influence of iron overload and iron depletion with either deferasirox or&#xD;
+      venesection on oxidative damage of DNA (examined in urine), and the antioxidant status in red&#xD;
+      blood cells isolated from HC and MDS patients.&#xD;
+&#xD;
+      Establish reference values for the investigational serum and urine tests in healthy control&#xD;
+      subjects.&#xD;
+&#xD;
+      Rationale of the study. The major rationale of the study is related to the need to assess the&#xD;
+      potential use of deferasirox to treat HC- and MDS-patients with iron overload. However,&#xD;
+      several &quot;learning objectives&quot; are included: the impact of iron overload and iron depleting&#xD;
+      treatment on NTBI, hepcidin, markers of oxidative stress, trace metals and intracellular&#xD;
+      signal transduction molecules.&#xD;
+&#xD;
+      Although venesection is a safe and effective means of depleting iron in HC patients, it may&#xD;
+      suppress hepcidin and thus increase iron absorption, particularly at the end of a long&#xD;
+      treatment period. Also, some HC patients not only feel the cumbersome impact of frequent&#xD;
+      phlebotomies in daily life, but also experience troublesome side effects.&#xD;
+&#xD;
+      The subjective perception of venesection side effects was recently communicated in a survey&#xD;
+      study among 210 HC patients across the United States and some european countries. Of these,&#xD;
+      52% of patients undergoing weekly venesections and 37% of the patients in the maintenance&#xD;
+      phase reported side effects &quot;always&quot; or &quot;most of the time&quot;, and 16% would &quot;definitely&quot; or&#xD;
+      &quot;probably&quot; refuse phlebotomy if they were offered an alternative treatment. Therefore,&#xD;
+      investigation of the effect of chelator as a potential alternative therapy in HC is&#xD;
+      warranted. Chelation therapy may not only remove excess iron from the body, but may also&#xD;
+      counteract formation of reactive, free radicals.&#xD;
+&#xD;
+      In MDS patients transfusion dependency worsens the survival due to development of damaging&#xD;
+      iron overload. With every 500 ng/mL increase of s ferritin above the threshold, the risk of&#xD;
+      death increases by 30%.&#xD;
+&#xD;
+      Traditionally, iron depletion therapy has been monitored by s-ferritin, which decreases as&#xD;
+      iron is progressively eliminated. However, s-ferritin is a non-specific parameter which is&#xD;
+      sensitive to acute phase reactions associated with inflammations, chronic diseases and tissue&#xD;
+      injury. Furthermore, s-ferritin does not offer information about the burden of free radical&#xD;
+      production stimulated by reactive iron. For this reason, one aim of this study will be to&#xD;
+      investigate whether new blood markers like NTBI and hepcidin, along with MRI assessment of&#xD;
+      LIC and HIC, will improve the diagnosis of iron overload and more accurately identify those&#xD;
+      patients who are at increased risk of iron induced damage and therefore will benefit from&#xD;
+      iron depletion therapy.&#xD;
+&#xD;
+      Iron overload can weaken the cellular antioxidant defence and result in oxidative DNA-damage&#xD;
+      as the first step in carcinogenesis. Examination of the influence of iron overload and iron&#xD;
+      depletion with either deferasirox or venesection on oxidative damage of DNA, and on the&#xD;
+      antioxidant status in red blood cells will be performed.&#xD;
+&#xD;
+      Increased knowledge of how intracellular signal transduction is influenced by cellular iron&#xD;
+      and use of deferasirox may provide new insights into the molecular pathogenesis of iron&#xD;
+      overload. This will be examined in single leukocyte cell flowcytometry assays of the&#xD;
+      following intracelluar signal parameters: stress sensor p53, mTOR and NFkB.&#xD;
+&#xD;
+      Finally, little is known about how iron overload interacts with the metabolism of other trace&#xD;
+      metals. The concentration of a broad spectrum of trace metals in serum (S) and urine (U) will&#xD;
+      be monitored throughout the study period by Inductively Coupled Plasma Mass Spectrometry&#xD;
+      (ICP-MS) (28) : boron (S,U), barium (S,U), beryllium (S,U), cadmium (S,U), cobalt (S,U),&#xD;
+      cesium (S,U), copper (S,U), mercury (U), lithium (U), manganese (S), molybdenum (S), nickel&#xD;
+      (S,U), lead (S,U), antimony (S,U), selenium (S,U), tin (S,U), strontium (S,U), thallium&#xD;
+      (S,U), tungsten (S), yttrium (S,U), zinc (S,U).&#xD;
+&#xD;
+      The tolerability of deferasirox will also be assessed throughout the study, either as sole&#xD;
+      treatment in MDS patients or compared to venesection in HC patients.&#xD;
+&#xD;
+      Healthy volunteers are used solely as controls to determine the normal blood concentration of&#xD;
+      the biomarkers and tests which will be performed in the patients. The controls will not be&#xD;
+      treated.&#xD;
+&#xD;
+      Previous clinical trials in HC and MDS. Deferasirox has been studied in a variety of diseases&#xD;
+      with transfusional iron overload, particularly in thalassemia. It has a favorable profile&#xD;
+      with respect to efficacy, safety and tolerability. However, controlled clinical studies with&#xD;
+      deferasirox in HC and MDS are limited.&#xD;
+&#xD;
+      The study by Phatak et al (2010) was the first clinical trial to demonstrate the safety and&#xD;
+      efficacy of deferasirox in patients with C282Y-homzygot hemochromatosis. They showed that&#xD;
+      serum ferritin levels were reduced similarly in two cohorts given respectively 10 mg/kg/day&#xD;
+      and 15 mg/kg/day of deferasirox. Since the dose of 15 mg/kg/day caused a higher frequency of&#xD;
+      adverse events (AEs), they recommended a staring dose of 10 mg/kg/day to be most appropriate&#xD;
+      in HC- patients. The most important AEs were associated with an increase in serum creatinine&#xD;
+      and liver enzymes. The study was limited by pretreatment of some patients with phlebotomy&#xD;
+      prior to the deferasirox study; in addition, many of the patients had only mild iron&#xD;
+      overload. For this reason, we see no argument to use a higher dose in our study, and&#xD;
+      therefore we choose a starting deferasirox dose of 10 mg/kg/day in HC- patients.&#xD;
+&#xD;
+      In a recent study, 24 heavily transfused MDS patients were enrolled to receive 52 weeks of&#xD;
+      deferasirox therapy. Deferasirox was well tolerated and effectively reduced LIC, labile&#xD;
+      plasma iron and s-ferritin in patients completing 24 to 52 weeks of therapy, despite ongoing&#xD;
+      receipt of red blood cell transfusions. In addition to reducing long-term toxicity of iron&#xD;
+      overload, chelation therapy has shown beneficial effects on hematopoiesis in a small&#xD;
+      proportion of MDS patients. One ongoing study comparing deferasirox with placebo was found in&#xD;
+      Cochrane search carried out in June 2010.&#xD;
+&#xD;
+      Pharmacokinetics of deferasirox. Deferasirox (Exjade®) is a bivalent iron chelator which is&#xD;
+      taken orally as a tablet, once per day. It is readily absorbed and reaches peak concentration&#xD;
+      in blood after 1 to 2 hours. The half-life is 12 to 17 hours, and effective levels of active&#xD;
+      chelator are maintained in the blood for more than 24 hours. The drug is eliminated via the&#xD;
+      hepatobiliary system. The dose varies from 10 mg/kg/day in patients with mild iron overload&#xD;
+      to 30 mg/kg/day in patients with overt iron toxicity.&#xD;
+&#xD;
+      Adverse events (AEs) of deferasirox. The most frequent adverse clinical events are&#xD;
+      gastrointestinal disturbances and skin rash. The most frequent laboratory side effects are&#xD;
+      mild increase in serum creatinine and liver transaminases. The adverse events have for the&#xD;
+      most part been reported in patients with transfusional iron overload. In HC patients the data&#xD;
+      are more scarce due to the very few studies that have been performed in this group. Other&#xD;
+      common AEs include headache, constipation, abdominal distension, dyspepsia, pruritus, and&#xD;
+      proteinuria. Less common AEs include anxiety, sleep disorder, dizziness, early cataract,&#xD;
+      maculopathy, hearing loss, pharyngolaryngeal pain, gastrointestinal hemorrhage, gastric&#xD;
+      ulcer, duodenal ulcer, gastritis, oesophagitis, hepatitis, cholelithiasis, pigmentation&#xD;
+      disorder, renal tubulopathy, glycosuria, pyrexia, edema, and fatigue.&#xD;
+&#xD;
+      Adverse reactions reported during post-marketing experience include pancytopenia,&#xD;
+      hypersensitivity reaction, hepatic failure, leukocytoclastic vasculitis, urticaria, erythema&#xD;
+      multiforme, alopecia, acute renal failure, and tubulointerstitial nephritis, gallstones and&#xD;
+      related biliary disorders, elevations of liver transaminases, and hepatic failure. Any such&#xD;
+      adverse events will be recorded in the subject's Case Report Form (CRF).&#xD;
+&#xD;
+      Study design.&#xD;
+&#xD;
+      The study incorporates 4 arms, which will recruit in parallel:&#xD;
+&#xD;
+      Arm 1: (open, randomized, comparative) will consist of 10 patients with confirmed HC, who&#xD;
+      will be randomized to receive standard treatment with venesection (withdrawal of 450 mL blood&#xD;
+      every 8 to 10 days).&#xD;
+&#xD;
+      Arm 2: (open, randomized, comparative) will consist of 10 patients with confirmed HC, who&#xD;
+      will be randomized to receive investigational treatment with deferasirox (10 mg/kg orally&#xD;
+      given once daily) for a period of 12 months;&#xD;
+&#xD;
+      Arm 3: (open, non-comparative) will consist of 20 patients with confirmed MDS, all of whom&#xD;
+      will receive investigational treatment with deferasirox (initially 10 mg/kg orally given once&#xD;
+      daily, can be increased to max 40 mg/kg) for a period of 12 months;&#xD;
+&#xD;
+      Arm 4: will consist of 10 healthy volunteers who will undergo the same screening assessments&#xD;
+      (i.e. with respect to relevant exclusion criteria) and will act as non-treated normal&#xD;
+      controls for comparison of investigational blood tests.&#xD;
+&#xD;
+      The study will be non-blinded. Subjects and investigators will be aware of their subject and&#xD;
+      treatment arm.&#xD;
+&#xD;
+      Subjects will undergo assessments at screening (within 1-14 days prior to baseline), and for&#xD;
+      patients at baseline Day 0, and at 2,4,6,8 weeks, and thereafter monthly until 12 months, and&#xD;
+      at follow up 4-6 weeks after treatment has been completed. Healthy controls will be examined&#xD;
+      at screening, 2,6 and 12 months. Study-specific assessments will include physical&#xD;
+      examinations/vital signs, sampling of blood, urine, and for patients only: bone marrow and&#xD;
+      MRI to assess the effect of iron overload and iron reduction treatment on the following:&#xD;
+&#xD;
+        -  Conventional tests to indicate iron overload: ferritin and transferrin saturation in&#xD;
+           serum; LIC and HIC, bone marrow iron content using microscopy.&#xD;
+&#xD;
+        -  Hepcidin concentration in serum;&#xD;
+&#xD;
+        -  NTBI concentration in serum;&#xD;
+&#xD;
+        -  Intracellular signal transduction parameters: Analysis of the stress sensor p53, NFkB,&#xD;
+           and mTOR in leukocytes from peripheral blood;&#xD;
+&#xD;
+        -  Trace metal concentrations in serum and urine;&#xD;
+&#xD;
+        -  Antioxidant capability in blood hemolysate: Cu,Zn-SOD;&#xD;
+&#xD;
+        -  Free radical damage to DNA and RNA: 8-oxodG concentration in urine;&#xD;
+&#xD;
+        -  For MDS patients: number of transfusions;&#xD;
+&#xD;
+        -  For HC and MDS patients: number of hospitalizations and overall survival;&#xD;
+&#xD;
+        -  Safety and tolerability.&#xD;
+&#xD;
+      For patients and controls, samples of peripheral blood will be taken pre-dose, and at 24&#xD;
+      hours after dosing, for assessment of stress sensor p53, NFkB, and mTOR.&#xD;
+&#xD;
+      Interim assessments. Routine blood and urine tests will be performed for patients at 2,4,6,8&#xD;
+      weeks, and thereafter monthly until 12 months and at follow up 4-6 weeks after end of&#xD;
+      treatment for monitoring the disease, for safety reasons, and to obtain data for comparison&#xD;
+      traditional biomarkers with the new investigational biomarkers hepcidin and NTBI.&#xD;
+&#xD;
+      Volunteers will undergo all safety assessments plus investigational blood and urine tests.&#xD;
+      They will not undergo MRI, bone marrow examinations, registrations of transfusions, or active&#xD;
+      treatment with deferasirox or venesection.&#xD;
+&#xD;
+      Patients with HC or MDS will undergo a follow-up assessment 4 to 6 weeks after last dose. At&#xD;
+      this visit, all safety assessments and investigational blood and urine tests, including a&#xD;
+      pregnancy test, will be repeated, but MRI and bone marrow examination will not be performed.&#xD;
+      Volunteer controls will not attend for this visit.&#xD;
+&#xD;
+      This is an exploratory study with no sample size calculation and no minimum enrollment&#xD;
+      requirement. It is anticipated that a maximum of 40 patients will be enrolled in order to&#xD;
+      obtain at least 30 patients fulfilling the study criteria; 10 volunteers will also be&#xD;
+      enrolled.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Failure to recruit patients with hemochromatosis to the Deferasirox arm&#xD;
+  </why_stopped>
+  <start_date>May 2013</start_date>
+  <completion_date type="Actual">January 2017</completion_date>
+  <primary_completion_date type="Actual">January 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes from baseline in liver iron concentration (LIC) and heart iron concentration (HIC) determined by Magnetic Resonance Imaging (MRI), and in bone marrow iron content determined by microscopy after treatment with deferasirox.</measure>
+    <time_frame>0, 6 and 12 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of hepcidin concentration in serum</measure>
+    <time_frame>0, 6 and 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of non-transferrin bound iron (NTBI) concentration in serum</measure>
+    <time_frame>0, 6 and 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of multiple trace metals in serum</measure>
+    <time_frame>0, 6 and 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of intracellular signal molecules, mTOR, NFkB and stress sensor p53 in blood cells</measure>
+    <time_frame>0, 6 and 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of 8-oxodG in urine</measure>
+    <time_frame>0, 6 and 12 months</time_frame>
+    <description>Marker of oxidative DNA damage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Cu,Zn-SOD activity in erythrocyte hemolysate</measure>
+    <time_frame>0, 6 and 12 months</time_frame>
+    <description>Cu,Zn-Super Oxid Dismutase (SOD)is an antioxidant enzyme</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical chemistry: Na, K, Ca, Creatinine, creatinine kinase, CRP, alanine aminotransferase (ALAT), aspartate aminotransferase (ASAT), alkaline phosphatase (ALP), gamma-glutamyl transferase (GT), lactate dehydrogenase (LD), albumin, bilirubin.</measure>
+    <time_frame>0, 2,4,6,8 weeks, 3,4,5,6,7,8,9,10,11,12 months, 5 weeks posttreatment</time_frame>
+    <description>Serum analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urine routine test strip for detection of blood, protein, and nitrite</measure>
+    <time_frame>0,2,4,6,8 weeks and 3,4,5,6,7,8,9,10,11,12 months</time_frame>
+    <description>Morning spot urine sample.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin concentration in serum</measure>
+    <time_frame>0,2,4,6,8 weeks, 3,4,5,6,7,8,9,10,11,12 months, 5 weeks post treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transferrin saturation in serum</measure>
+    <time_frame>0,2,4,6,8 weeks, 3,4,5,6,7,8,9,10,11,12 months, 5 weeks post treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HbA1c</measure>
+    <time_frame>0, 2,6,12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>INR ( International normalized ratio)</measure>
+    <time_frame>0,2,6,12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Analysis of hemoglobin, reticulocytes, hematocrit, MCV, leukocyte count (total and differential), and platelets</measure>
+    <time_frame>0, 2,4,6,8 weeks, 3,4,5,6,7,8,9,10,11,12 months, 5 weeks posttreatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urine trace metals</measure>
+    <time_frame>0, 6 and 12 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bone marrow sample</measure>
+    <time_frame>0, 6 and 12 months</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pregnancy urin test (hCG)</measure>
+    <time_frame>0, 6 and 12 months, 5 weeks posttreatment</time_frame>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">50</enrollment>
+  <condition>Hemochromatosis</condition>
+  <condition>Myelodysplastic Syndromes</condition>
+  <arm_group>
+    <arm_group_label>Deferasirox HC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10 patients with hemochromatosis treated with Deferasirox</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Venesection HC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10 patients with hemochromatosis treated with venesection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Deferasirox MDS</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>20 patients with myelodysplastic syndrome treated with Deferasirox</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>10 healthy control persons to assess the normal level of investigational blood tests.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Deferasirox</intervention_name>
+    <description>Deferasirox tablets ( 250 mg or 500 mg) dispersed in a drinkable solution, 10 mg/kg/day, once daily for 12 months</description>
+    <arm_group_label>Deferasirox HC</arm_group_label>
+    <other_name>Exjade</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Venesection</intervention_name>
+    <description>Treated with venesection every 8-10 day for 12 months, or until serum-ferritin has been reduced to about 50 µg/L.</description>
+    <arm_group_label>Venesection HC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Deferasirox</intervention_name>
+    <description>Deferasirox tablets ( 250 mg or 500 mg) dispersed in a drinkable solution starting with 10 mg/kg/day, once daily for 2 weeks and thereafter 20 mg/kg/day for 11,5 months.</description>
+    <arm_group_label>Deferasirox MDS</arm_group_label>
+    <other_name>Exjade</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with hemochromatosis, aged &gt; 30 years, C282Y- homozygote, with serum-ferritin&#xD;
+             =/&gt; 1000 µg/L&#xD;
+&#xD;
+          -  Patients aged &gt; 18 years with verified low-risk or intermediate-1 risk of&#xD;
+             myelodysplastic syndrome, with normal cytogenetics and serum-ferritin &gt; 1500 µg/L, or&#xD;
+             with a transfusion history of =/&gt; red- blood-cell-transfusions.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous or current venesection&#xD;
+&#xD;
+          -  MDS patients eligible for hematopoietic stem cell transplantation&#xD;
+&#xD;
+          -  Subject complies with one or more of the following standard exclusion criteria for MRI&#xD;
+             examination;&#xD;
+&#xD;
+               -  If the patient has a pacemaker.&#xD;
+&#xD;
+               -  If the patient has a neurostimulator&#xD;
+&#xD;
+               -  If the patient has a &quot;aneurismeclips&quot;&#xD;
+&#xD;
+               -  If the patient has a foreign object in the eye. If yes, what object.&#xD;
+&#xD;
+               -  If the patient has a cochlea-/earimplant.&#xD;
+&#xD;
+               -  If the patient has a V/P shunt.&#xD;
+&#xD;
+               -  If the patient is claustrophobic.&#xD;
+&#xD;
+               -  If the patient has an artificial heart valve.&#xD;
+&#xD;
+               -  If the patient has known renal failure, eGFR &lt;30.&#xD;
+&#xD;
+               -  If the patient has or will have a liver transplantation.&#xD;
+&#xD;
+               -  Other: metal prostheses, metal implant&#xD;
+&#xD;
+          -  Presence of inflammation (CRP ≥ 5 mg/L)&#xD;
+&#xD;
+          -  Presence of proteinuria or creatinine &gt; 2 x UNL (Upper Normal Limit)&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (GFR) &lt; 60 mL/min&#xD;
+&#xD;
+          -  ALAT, ASAT, GT or ALP &gt; 2 x ULN ( Upper Normal Limit)&#xD;
+&#xD;
+          -  ALAT &gt; 90 U/L for women, ALAT &gt; 140 U/L for men&#xD;
+&#xD;
+          -  ASAT &gt; 70 U/L for women, ASAT &gt; 90 U/L for men&#xD;
+&#xD;
+          -  ALP &gt; 210 U/L for women and men&#xD;
+&#xD;
+          -  GT &gt; 90 U/L for women ≤ 40 years, GT &gt; 150 U/L for women &gt; 40 years&#xD;
+&#xD;
+          -  GT &gt; 160 U/L for men ≤ 40 years, GT &gt; 230 U/L for men &gt; 40 years&#xD;
+&#xD;
+          -  Acute or chronic hepatitis&#xD;
+&#xD;
+          -  Patients with chronic liver disease Child Pugh Class B and C&#xD;
+&#xD;
+          -  Chronic skin disease with rash&#xD;
+&#xD;
+          -  Estimated survival &lt; 6 months&#xD;
+&#xD;
+          -  Prior or concomitant treatment with other iron chelator therapies within 6 weeks of&#xD;
+             screening&#xD;
+&#xD;
+          -  History of non-compliance to medical regimens, or considered potentially unreliable&#xD;
+             and/or not cooperative&#xD;
+&#xD;
+          -  Uncontrolled diabetes, defined as glycolated hemoglobin (HbAlc) &gt; 8.5%&#xD;
+&#xD;
+          -  Presence of cataracts or hearing loss disease&#xD;
+&#xD;
+          -  Presence of a surgical or medical condition which might significantly alter&#xD;
+             absorption, distribution, metabolism or excretion of study drug&#xD;
+&#xD;
+          -  Planned in-hospital surgeries during the course of the study&#xD;
+&#xD;
+          -  Subjects who are pregnant, breast-feeding, or intending to become pregnant&#xD;
+&#xD;
+          -  Hypersensitivity to the active substance or the excipients in drug product&#xD;
+&#xD;
+          -  Any other reason why, in the opinion of the investigator, the patient should not&#xD;
+             participate (e.g. serious heart disease, infection, cancer, etc).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rune J Ulvik, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dept. of Clinical Science and Lab. of Clinical Biochemistry, Univ. of Bergen and Haukeland University Hospital, Bergen, N5021, Norway</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Haukeland University Hospital, Clinical Trial Unit</name>
+      <address>
+        <city>Bergen</city>
+        <zip>5021</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <reference>
+    <citation>Brittenham GM. Iron-chelating therapy for transfusional iron overload. N Engl J Med. 2011 Jan 13;364(2):146-56. doi: 10.1056/NEJMct1004810. Review.</citation>
+    <PMID>21226580</PMID>
+  </reference>
+  <reference>
+    <citation>Pietrangelo A. Hereditary hemochromatosis: pathogenesis, diagnosis, and treatment. Gastroenterology. 2010 Aug;139(2):393-408, 408.e1-2. doi: 10.1053/j.gastro.2010.06.013. Epub 2010 Jun 11. Review.</citation>
+    <PMID>20542038</PMID>
+  </reference>
+  <reference>
+    <citation>Thorstensen K, Kvitland MA, Irgens WØ, Hveem K, Asberg A. Screening for C282Y homozygosity in a Norwegian population (HUNT2): The sensitivity and specificity of transferrin saturation. Scand J Clin Lab Invest. 2010 Apr;70(2):92-7. doi: 10.3109/00365510903527838.</citation>
+    <PMID>20073670</PMID>
+  </reference>
+  <reference>
+    <citation>Tziomalos K, Perifanis V. Liver iron content determination by magnetic resonance imaging. World J Gastroenterol. 2010 Apr 7;16(13):1587-97. Review.</citation>
+    <PMID>20355237</PMID>
+  </reference>
+  <reference>
+    <citation>Greenberg P, Cox C, LeBeau MM, Fenaux P, Morel P, Sanz G, Sanz M, Vallespi T, Hamblin T, Oscier D, Ohyashiki K, Toyama K, Aul C, Mufti G, Bennett J. International scoring system for evaluating prognosis in myelodysplastic syndromes. Blood. 1997 Mar 15;89(6):2079-88. Erratum in: Blood 1998 Feb 1;91(3):1100.</citation>
+    <PMID>9058730</PMID>
+  </reference>
+  <reference>
+    <citation>Brissot P, Ropert M, Le Lan C, Loréal O. Non-transferrin bound iron: a key role in iron overload and iron toxicity. Biochim Biophys Acta. 2012 Mar;1820(3):403-10. doi: 10.1016/j.bbagen.2011.07.014. Epub 2011 Aug 9. Review.</citation>
+    <PMID>21855608</PMID>
+  </reference>
+  <reference>
+    <citation>Hori A, Mizoue T, Kasai H, Kawai K, Matsushita Y, Nanri A, Sato M, Ohta M. Body iron store as a predictor of oxidative DNA damage in healthy men and women. Cancer Sci. 2010 Feb;101(2):517-22. doi: 10.1111/j.1349-7006.2009.01394.x. Epub 2009 Oct 10.</citation>
+    <PMID>19895603</PMID>
+  </reference>
+  <reference>
+    <citation>Bárány E, Bergdahl IA, Bratteby LE, Lundh T, Samuelson G, Skerfving S, Oskarsson A. Iron status influences trace element levels in human blood and serum. Environ Res. 2005 Jun;98(2):215-23.</citation>
+    <PMID>15820728</PMID>
+  </reference>
+  <reference>
+    <citation>Phatak P, Brissot P, Wurster M, Adams PC, Bonkovsky HL, Gross J, Malfertheiner P, McLaren GD, Niederau C, Piperno A, Powell LW, Russo MW, Stoelzel U, Stremmel W, Griffel L, Lynch N, Zhang Y, Pietrangelo A. A phase 1/2, dose-escalation trial of deferasirox for the treatment of iron overload in HFE-related hereditary hemochromatosis. Hepatology. 2010 Nov;52(5):1671-779. doi: 10.1002/hep.23879.</citation>
+    <PMID>20814896</PMID>
+  </reference>
+  <reference>
+    <citation>Brissot P, Ball S, Rofail D, Cannon H, Jin VW. Hereditary hemochromatosis: patient experiences of the disease and phlebotomy treatment. Transfusion. 2011 Jun;51(6):1331-8. doi: 10.1111/j.1537-2995.2010.02997.x. Epub 2010 Dec 22.</citation>
+    <PMID>21175649</PMID>
+  </reference>
+  <reference>
+    <citation>Messa E, Carturan S, Maffè C, Pautasso M, Bracco E, Roetto A, Messa F, Arruga F, Defilippi I, Rosso V, Zanone C, Rotolo A, Greco E, Pellegrino RM, Alberti D, Saglio G, Cilloni D. Deferasirox is a powerful NF-kappaB inhibitor in myelodysplastic cells and in leukemia cell lines acting independently from cell iron deprivation by chelation and reactive oxygen species scavenging. Haematologica. 2010 Aug;95(8):1308-16. doi: 10.3324/haematol.2009.016824. Epub 2010 Jun 9.</citation>
+    <PMID>20534700</PMID>
+  </reference>
+  <verification_date>January 2017</verification_date>
+  <study_first_submitted>July 1, 2013</study_first_submitted>
+  <study_first_submitted_qc>July 1, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 4, 2013</study_first_posted>
+  <last_update_submitted>January 20, 2017</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2017</last_update_submitted_qc>
+  <last_update_posted type="Estimate">January 23, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hemochromatosis</keyword>
+  <keyword>Myelodysplastic syndromes</keyword>
+  <keyword>Iron overload</keyword>
+  <keyword>Deferasirox</keyword>
+  <keyword>Chelation therapy</keyword>
+  <keyword>Venesection</keyword>
+  <keyword>Phlebotomy</keyword>
+  <keyword>Ferritin</keyword>
+  <keyword>Transfusional siderosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Preleukemia</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Hemochromatosis</mesh_term>
+    <mesh_term>Iron Overload</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deferasirox</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

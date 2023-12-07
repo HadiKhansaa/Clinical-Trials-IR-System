@@ -1,0 +1,408 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01953679</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCN013</org_study_id>
+    <nct_id>NCT01953679</nct_id>
+  </id_info>
+  <brief_title>Efficacy Study of Two Continuous Regimens of Oral Daily 5 mg or 10 mg of Ulipristal Acetate (UPA), Versus a Dose of 5.0mg UPA for 24/4 Days</brief_title>
+  <acronym>CCN013</acronym>
+  <official_title>A Phase IIb Randomized, Double Blind, Comparative Study to Assess the Efficacy, Safety, Tolerability and Inhibition of Ovulation of Two Continuous Regimens of Oral Daily 5 mg or 10 mg of Ulipristal Acetate (UPA), Versus a Dose of 5.0mg UPA for 24/4 Days</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Health Decisions</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Health Decisions</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the pharmacodynamic effects of 2 continuous dose regimens of ulipristal acetate&#xD;
+      5.0 and 10.0 mg-only oral contraception, versus a 24/4 day regimen of UPA 5.0 mg.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2014</start_date>
+  <completion_date type="Actual">November 2015</completion_date>
+  <primary_completion_date type="Actual">August 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ovulation inhibition</measure>
+    <time_frame>Approximately 6.5 months</time_frame>
+    <description>Two consecutive serum progesterone values ≥10nMol/L (3ng/mL) within a four day window;&#xD;
+A follicle ≥13 mm followed by a single serum progesterone value ≥10nMol/L (3ng/mL) without a second high progesterone level but with follicle disappearance, suggestive of follicular rupture.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Bleeding profile</measure>
+    <time_frame>Approximately 6.5 months</time_frame>
+    <description>Total number of bleeding and spotting days per 28 day and 84 day interval, menses duration and intensity, bleeding-related AEs, hematocrit levels, subject's acceptability of treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Follicle growth and rupture</measure>
+    <time_frame>Approximately 6.5 months</time_frame>
+    <description>Follicle growth (≥13 mm and ≥15 mm) and rupture assessed using transvaginal ultrasound (TVUS) twice weekly during the 84 day treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Endometrial safety</measure>
+    <time_frame>Approximately 6.5 months</time_frame>
+    <description>Endometrial thickness by TVUS&#xD;
+Endometrial biopsies during the Baseline cycle at Visit BL2 (Proliferative phase), on Treatment at Visit 22 ± 1 visit (between days 70 -80) OR 7-10 days following any suspected ovulation that occurs after the first 28 days of treatment, and at the end of the recovery period after two full washout cycles during day 7 following start of second menses (Proliferative phase).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall subject satisfaction and safety</measure>
+    <time_frame>Approximately 6.5 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">180</enrollment>
+  <condition>Focus: Estrogen-free Oral Contraception</condition>
+  <arm_group>
+    <arm_group_label>5mg UPA</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Continuous regimen of oral daily 5 mg of ulipristal acetate (UPA) versus a cyclic regimen of 5 mg UPA for 24 days followed by a 4 day hormone free interval.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>10mg UPA</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Continuous regimen of oral daily 10 mg of ulipristal acetate (UPA) versus a cyclic regimen of 5 mg UPA for 24 days followed by a 4 day hormone free interval.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ulipristal Acetate</intervention_name>
+    <arm_group_label>10mg UPA</arm_group_label>
+    <arm_group_label>5mg UPA</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Women between 18 and 35 years old.&#xD;
+&#xD;
+          2. In good health, with regular menstrual cycles that occur every 21-35 days.&#xD;
+&#xD;
+               1. If subject is postpartum or post-abortal (with abortion in second trimester), she&#xD;
+                  will be required to have two normal menstrual cycles (3 menses) prior to&#xD;
+                  screening.&#xD;
+&#xD;
+               2. If subject had an abortion in the first trimester, she will be required to have&#xD;
+                  at least one menstrual cycle (two menses) prior to screening.&#xD;
+&#xD;
+          3. No current use of hormonal contraception or an intrauterine device and having had at&#xD;
+             least one complete menstrual cycle since having stopped hormonal contraception before&#xD;
+             starting the treatment.&#xD;
+&#xD;
+             a. No use of injectable contraceptives (e.g. cyclofem or depo-medroxyprogesterone&#xD;
+             acetate) during the 6 months prior to screening unless the subject has returned to&#xD;
+             normal menses since last injection.&#xD;
+&#xD;
+          4. Have a negative urine pregnancy test at the admission visit.&#xD;
+&#xD;
+          5. Will not be at risk for pregnancy. They will be consistently using a non-hormonal&#xD;
+             method, barrier method with every act of intercourse until the time of study exit OR&#xD;
+             have a surgically sterile male partner with a vasectomy, must have undergone previous&#xD;
+             tubal ligation, be abstinent, or be in a same-sex relationship from the control period&#xD;
+             through study exit (including recovery period).&#xD;
+&#xD;
+          6. In the opinion of the investigator, willing and able to follow all study requirements,&#xD;
+             including use of the study product and willing to record requested information on a&#xD;
+             daily diary.&#xD;
+&#xD;
+          7. Understand and sign an IRB approved inform consent form prior to screening activities&#xD;
+             (including fasting blood draws).&#xD;
+&#xD;
+          8. Will have diastolic blood pressure (BP) ≤95 mm Hg and systolic BP ≤145 mm Hg after 5&#xD;
+             minutes in sitting position.&#xD;
+&#xD;
+          9. BMI &lt; 40 kg/m2 and not having previously undergone bariatric surgery.&#xD;
+&#xD;
+         10. Agree not to participate in any other clinical trials during the course of this study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Women less than 18 and older than 35 years old.&#xD;
+&#xD;
+          2. Women with menstrual cycle length of less than 21 or more than 35 days; or with&#xD;
+             spontaneous irregular menstrual cycle length with intra-individual variations of more&#xD;
+             than 5 days.&#xD;
+&#xD;
+             a. If subject is postpartum or post-abortal (with abortion in second trimester) and&#xD;
+             not had two normal menstrual cycles (3 menses) prior to screening.&#xD;
+&#xD;
+             b. If subject had an abortion in the first trimester and not had at least one&#xD;
+             menstrual cycle (two menses) prior to screening.&#xD;
+&#xD;
+          3. Currently pregnant as confirmed by positive high-sensitivity urine pregnancy test.&#xD;
+&#xD;
+          4. Unwilling to use a barrier method with every act of intercourse until study exit OR&#xD;
+             not have a surgically sterile male partner with a vasectomy, not have undergone&#xD;
+             previous tubal ligation, not abstinent, or not in a same-sex relationship from the&#xD;
+             control period through study exit (including recovery period).&#xD;
+&#xD;
+          5. Women planning pregnancy within their months of study participation.&#xD;
+&#xD;
+          6. Currently breast-feeding or within 30 days of discontinuing breast feeding, unless the&#xD;
+             woman has already had a menses following discontinuation of breast feeding.&#xD;
+&#xD;
+          7. Current use of an IUD, or other hormonal contraception within last complete menstrual&#xD;
+             cycle prior to screening.&#xD;
+&#xD;
+             a. Use of injectable contraceptives (e.g. cyclofem or depo-medroxyprogesterone&#xD;
+             acetate) during the 6 months prior to screening without the subject returning to&#xD;
+             normal menses since last injection.&#xD;
+&#xD;
+          8. Undiagnosed abnormal genital bleeding.&#xD;
+&#xD;
+          9. Known hypersensitivity to the active substance UPA or any of the excipients of the&#xD;
+             study treatment.&#xD;
+&#xD;
+         10. Anomalies in endometrial appearance, TVUS or safety labs done at screening visit&#xD;
+             recognized as clinically significant by the investigator.&#xD;
+&#xD;
+         11. Subject with a previous history of endometrial ablation.&#xD;
+&#xD;
+         12. A clinically significant Pap test abnormality, as managed by current local or national&#xD;
+             guidelines. Women with a current abnormal Pap (within the last eighteen months):&#xD;
+&#xD;
+               1. In accordance with the Bethesda system of classification: smear suggestive of&#xD;
+                  high-grade pre-cancerous lesion(s), including high grade squamous intraepithelial&#xD;
+                  lesions (HGSILs), are excluded; • Women with low grade squamous intraepithelial&#xD;
+                  lesion (LGSIL) or atypical squamous cells of undetermined significance&#xD;
+                  (ASCUS)/high-risk human papillomavirus (HPV) positive, or Atypical squamous&#xD;
+                  cells, cannot rule out a high grade lesion (ASC-H) may participate if further&#xD;
+                  evaluated with colposcopy and biopsy determines no evidence of a lesion with a&#xD;
+                  severity greater than cervical intraepithelial neoplasia (CIN) I. • Women with a&#xD;
+                  biopsy finding of CIN I should have follow-up for this finding per standard of&#xD;
+                  care; women are excluded if treatment is indicated.&#xD;
+&#xD;
+               2. In accordance with other Pap class systems:&#xD;
+&#xD;
+                  • Women with high grade dysplasia are excluded.&#xD;
+&#xD;
+                  • Women with atypical glandular cells of undetermined significance (AGUS) are&#xD;
+                  excluded.&#xD;
+&#xD;
+                  • Women with low grade dysplasia or CIN I interpretation on Pap test may&#xD;
+                  participate following exclusion of a high grade lesion by colposcopic evaluation&#xD;
+                  based on Investigator discretion and provided there is appropriate follow up in&#xD;
+                  accordance with local standards.&#xD;
+&#xD;
+         13. Has any of the following known contraindication to progestin-only oral contraceptive&#xD;
+             (OC):&#xD;
+&#xD;
+               1. History or existing breast cancer, or other hormone sensitive neoplasia;&#xD;
+&#xD;
+               2. Current and history of ischemic heart disease or stroke while pregnant or taking&#xD;
+                  birth control pills;&#xD;
+&#xD;
+               3. Acute deep venous thrombosis or pulmonary embolism;&#xD;
+&#xD;
+               4. Systemic Lupus Erythematosus with positive or unknown antiphospholipid&#xD;
+                  antibodies;&#xD;
+&#xD;
+               5. Benign and malignant liver tumors;&#xD;
+&#xD;
+               6. Severe (decompensated) cirrhosis.&#xD;
+&#xD;
+         14. Hereditary galactose intolerance, Lapp lactase deficiency , or glucose-galactose&#xD;
+             malabsorption.&#xD;
+&#xD;
+         15. Known or suspected alcoholism or drug abuse.&#xD;
+&#xD;
+         16. Known HIV infection.&#xD;
+&#xD;
+         17. Smoking 15 cigarettes or more per day must be evaluated by the investigator or&#xD;
+             medically qualified designee for inclusion based on risk factors that would increase&#xD;
+             their risk for cardiovascular disease (CVD) and thromboembolism.&#xD;
+&#xD;
+         18. Current or past deep vein thrombophlebitis or thromboembolic disorders.&#xD;
+&#xD;
+         19. Current or past medically diagnosed severe depression, which, in the opinion of the&#xD;
+             investigator, could be exacerbated by use of a hormonal contraceptive, unless she is&#xD;
+             stable on antidepressant medication.&#xD;
+&#xD;
+         20. Concomitant use of medication thought to interact with UPA (per SPCs):&#xD;
+&#xD;
+               1. CYP3A4 inducers (rifampin, barbiturates, carbamazepine, bosentan, felbamate,&#xD;
+                  griseofulvin, oxcarbazepine, phenytoin, St John's Wort, topiramate),&#xD;
+&#xD;
+               2. Other hormonal contraceptives including emergency contraception.&#xD;
+&#xD;
+         21. Use of any medications that can interfere with the metabolism of hormone&#xD;
+             contraceptives, antibiotics that can interfere with metabolism of hormone&#xD;
+             contraceptives, and any drugs designated by the FDA as Pregnancy Category D or X.&#xD;
+&#xD;
+         22. Current participation in any other trial of an investigational medicine or device or&#xD;
+             participation in the past three months before start of first treatment phase.&#xD;
+&#xD;
+         23. Headaches with focal neurological symptoms only.&#xD;
+&#xD;
+         24. Have diastolic blood pressure (BP) &gt;95 mm Hg and systolic BP &gt;145 mm Hg after 5&#xD;
+             minutes in sitting position.&#xD;
+&#xD;
+               1. Hypertensive subjects who are treatment controlled and in the judgment of the&#xD;
+                  investigator are a good candidate require a waiver for participation.&#xD;
+&#xD;
+         25. BMI ≥40 kg/m² or having previously undergone bariatric surgery.&#xD;
+&#xD;
+         26. Have issues or concerns (in the judgment of the investigator) that may compromise the&#xD;
+             safety of the subject or confound the reliability of compliance and information&#xD;
+             acquired in this study.&#xD;
+&#xD;
+             -&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>California Family Health Council</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado - Denver Anschutz Medical Campus</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU School of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati-Holmes Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Sciences University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania Medical Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Virgina Medical School</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2016</verification_date>
+  <study_first_submitted>August 23, 2013</study_first_submitted>
+  <study_first_submitted_qc>September 26, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 1, 2013</study_first_posted>
+  <last_update_submitted>February 19, 2016</last_update_submitted>
+  <last_update_submitted_qc>February 19, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 22, 2016</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ulipristal acetate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

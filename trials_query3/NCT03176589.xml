@@ -1,0 +1,236 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03176589</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2017/195-31</org_study_id>
+    <nct_id>NCT03176589</nct_id>
+  </id_info>
+  <brief_title>Effect of PEP on Oxygen Saturation and Carbon Dioxide After Abdominal Surgery</brief_title>
+  <official_title>Effect of PEP on Oxygen Saturation and Carbon Dioxide After Abdominal Surgery</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Umeå University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Umeå University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Positive expiratory pressure( PEP) is routinely given to patients after surgery in order to&#xD;
+      improve lung function and oxygen saturation. There is, however, no evidence of effect on lung&#xD;
+      function, postoperative pneumonia or any other outcome (Guimarães MMF, Tyson AF). The&#xD;
+      investigators aim to test the immediate effects of PEP therapy on oxygen saturation and&#xD;
+      carbon dioxide after abdominal surgery. 80 patients will be investigated in RCT design with&#xD;
+      expiration using PEP or with expiration to a sham-PEP, a tube without resistance. At the end&#xD;
+      of the study we will also measure the effect of 10x3 deep breathing maneuvers without PEP or&#xD;
+      shamPEP. Primary outcome: Maximum and minimum levels of continuously measured oxygen&#xD;
+      saturation from pulse oximetry and transcutaneous carbon dioxide partial pressure during the&#xD;
+      trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background Hypoxia, reduced lung function and atelectais are common after abdominal surgery&#xD;
+      and can be hazardous in patients with chronic hypoxia. Positive expiratory pressure (PEP)&#xD;
+      therapy or incentive spirometry are routinely given to patients after abdominal surgery to&#xD;
+      counteract atelectasis and improve oxygen saturation. Patients are instructed by a&#xD;
+      physiotherapist to take deep inspiratory breaths and expire in a PEP-device or PEP bottle.&#xD;
+      The method is used routinely in Swedish hospital and the patient breathes against 10-15 cm&#xD;
+      water resistance. This is repeated 10x3 ie 10 deep breaths and exhalation towards PEP then&#xD;
+      rest, breath, rest and another 10 breaths. This procedure should be done once an hour after&#xD;
+      surgery. The idea is that this will widen alveoli and abolish atelectasis, thus increasing&#xD;
+      the oxygen uptake and reducing the risk of postoperative complications.&#xD;
+&#xD;
+      There is no evidence of effect of PEP and incentive spirometry on postoperative pulmonary&#xD;
+      complications after abdominal surgery (Guimarães MMF, Tyson AF). Nevertheless, PEP therapy is&#xD;
+      used in Sweden and internationally. There were no studies found reporting the immediate&#xD;
+      effect of PEP on continuous oxygen saturation and carbon dioxide partial pressure after&#xD;
+      surgery.&#xD;
+&#xD;
+      Aims&#xD;
+&#xD;
+      What effect does PEP have on oxygen saturation and carbon dioxide partial pressure? What is&#xD;
+      the effect of deep breathing maneuvers on oxygen saturation and carbon dioxide partial&#xD;
+      pressure?&#xD;
+&#xD;
+      Methods&#xD;
+&#xD;
+      Inclusion: 80 adult patients over 18 years of age who have undergone open or laparoscopic&#xD;
+      abdominal surgery. Patients receiving postoperative PEP are asked to participate in the study&#xD;
+      at one or two days after after abdominal surgery.&#xD;
+&#xD;
+      Exclusion: Patients who cannot participate in using PEP or who do not agree to participate in&#xD;
+      the study.&#xD;
+&#xD;
+      Power calculation:.It was estimated that 34 patients were needed to detect a mean (SD)&#xD;
+      difference in oxygen saturation of 1% (2%) and to detect a difference in transcutaneous PCO2&#xD;
+      of 0.5 kPa (1 kPa) with a significance of p &lt; 0.05 and a power of 80%.&#xD;
+&#xD;
+      Design / Randomization: RCT study with cross-over design. Patients are randomized using&#xD;
+      computer programs, handled by a person outside the study, to either start with either PEP&#xD;
+      breathing 10x3 or sham-PEP breathing 10x3.&#xD;
+&#xD;
+      Method: Starting with lung function assessment to determine PEF (Mini Wright Clement Clarke).&#xD;
+      Then, application of continuous transcutaneous PCO2 / SaO2 (SenTec Digital Monitoring System,&#xD;
+      ResMed) and a respiratory belt around the chest detecting the respiratory rate. Data is&#xD;
+      recorded with computer equipment (Noxturnal T3, ResMed).&#xD;
+&#xD;
+      The patients are randomized to initiate with either 10x3 breaths using PEP therapy or 10x3&#xD;
+      breaths using Sham PEP. After a rest period, patients switch to the second treatment&#xD;
+      (cross-over). At the end of the trial, all patients take 10X3 deep breaths without PEP or&#xD;
+      sham PEP.&#xD;
+&#xD;
+      At the start of the study, baseline level for SaO2 and TcPCO2 is recorded, and an arterial&#xD;
+      blood gas is recorded to calibrate the transcutaneous PCO2 measurement. Thereafter, the&#xD;
+      registration continues during breathing / blowing until the patient returns to its baseline&#xD;
+      values. New PEF examination is made after each study arm.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 12, 2017</start_date>
+  <completion_date type="Actual">December 31, 2018</completion_date>
+  <primary_completion_date type="Actual">December 31, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Positive expiratory pressure (PEP) therapy</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Care Provider, Outcomes Assessor)</masking>
+    <masking_description>tube without resistance is given to patients. Randomization order is given after the analysis.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Transcutaneous blood gas measurements: transcutaneous pCO2</measure>
+    <time_frame>once, within one hour</time_frame>
+    <description>transcutaneous pCO2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pulse oximetry: oxygen saturation (SaO2)</measure>
+    <time_frame>once, within one hour</time_frame>
+    <description>oxygen saturation (SaO2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung function: PEF</measure>
+    <time_frame>once, within one hour</time_frame>
+    <description>Peak expiratory flow</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">80</enrollment>
+  <condition>Blood Gas Monitoring, Transcutaneous</condition>
+  <arm_group>
+    <arm_group_label>sham PEP</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>3 cycles of 10 deep inspiration and expiration in a sham tube without expiratory resistance</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PEP</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>3 cycles of 10 deep inspiration followed by expiration with positive expiratory pressure (PEP) device or PEP bottle of 10-15 cm of water pressure</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>deep breathing maneuvers</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>3 cycled of 10 deep breathing maneuvers without PEP or sham PEP</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>positive expiratory pressure (PEP)</intervention_name>
+    <description>Patients take a deep inspiration followed by PEP expiration with an expiratory pressure of 10-15 cm H2O</description>
+    <arm_group_label>PEP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Placebo comparator, Deep inspiration and expression in a placebo tube without resistance</intervention_name>
+    <description>Deep inspirations 3 times 10 and expiration in a placebo tube without expiratory resistance</description>
+    <arm_group_label>sham PEP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Deep breathing maneuvers</intervention_name>
+    <description>deep breathing maneuvers 3 times 10 breahs without any device at expiration</description>
+    <arm_group_label>deep breathing maneuvers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients over 18 years of age who have undergone open or laparoscopic abdominal&#xD;
+             surgery.&#xD;
+&#xD;
+          -  Patients receiving postoperative PEP are asked the day after surgery if they want to&#xD;
+             participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who cannot participate in using PEP or who do not agree to participate in the&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karl Franklin, Ass Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Umea University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Dept of Surgery, Inst of Surgical and Perioperative sciences</name>
+      <address>
+        <city>Umeå</city>
+        <state>Umea</state>
+        <zip>901 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <reference>
+    <citation>Guimarães MM, El Dib R, Smith AF, Matos D. Incentive spirometry for prevention of postoperative pulmonary complications in upper abdominal surgery. Cochrane Database Syst Rev. 2009 Jul 8;(3):CD006058. doi: 10.1002/14651858.CD006058.pub2. Review. Update in: Cochrane Database Syst Rev. 2014;2:CD006058.</citation>
+    <PMID>19588380</PMID>
+  </reference>
+  <reference>
+    <citation>Tyson AF, Kendig CE, Mabedi C, Cairns BA, Charles AG. The effect of incentive spirometry on postoperative pulmonary function following laparotomy: a randomized clinical trial. JAMA Surg. 2015 Mar 1;150(3):229-36. doi: 10.1001/jamasurg.2014.1846.</citation>
+    <PMID>25607594</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>May 24, 2017</study_first_submitted>
+  <study_first_submitted_qc>June 2, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 5, 2017</study_first_posted>
+  <last_update_submitted>November 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Umeå University</investigator_affiliation>
+    <investigator_full_name>Karl A Franklin</investigator_full_name>
+    <investigator_title>Ass Prof</investigator_title>
+  </responsible_party>
+  <keyword>positive expiratory pressure</keyword>
+  <keyword>oxygen saturation</keyword>
+  <keyword>abdominal surgery</keyword>
+  <keyword>carbon dioxide</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

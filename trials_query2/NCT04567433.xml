@@ -1,0 +1,250 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04567433</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DAOHsepsis140920</org_study_id>
+    <nct_id>NCT04567433</nct_id>
+  </id_info>
+  <brief_title>Days Alive and Out of Hospital for Patients With Sepsis</brief_title>
+  <official_title>Days Alive and Out of Hospital for Patients With Sepsis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The George Institute for Global Health, Australia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The George Institute for Global Health, Australia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We will perform a retrospective cohort study to assess the construct validity and performance&#xD;
+      of days alive and out of hospital at day 90 (DAOH90) in cohorts of patients with sepsis and&#xD;
+      septic shock who have been included in recent clinical trials.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Design&#xD;
+&#xD;
+      We will conduct a retrospective cohort study. After obtaining all required ethics approvals,&#xD;
+      we will obtain data from the ARISE, CHEST, and ADRENAL studies. We will obtain from each&#xD;
+      dataset, for each trial participant with sepsis, data regarding; Demographic details,&#xD;
+      co-morbidities, pre-morbid living situation, baseline severity of illness, receipt of and&#xD;
+      duration of organ support during the index hospitalisation, Duration of ICU stay during index&#xD;
+      hospitalisation, ICU mortality, Hospital length of stay (LOS) and mortality for index&#xD;
+      hospitalisation, Discharge destination from index hospitalisation, readmissions to hospital&#xD;
+      up to 2 years, long term mortality, and quality of life as measured by the EQ5D at longest&#xD;
+      follow-up.&#xD;
+&#xD;
+      The primary objective of the study is to assess the association between Days Alive and Out of&#xD;
+      Hospital at day 90 and longer-term quality of life as measured by the EQ5D.&#xD;
+&#xD;
+      Secondary objectives include:&#xD;
+&#xD;
+        -  To describe the characteristics of DAOH90 in patients with sepsis and septic shock with&#xD;
+           respect to the distribution and the pattern of variability&#xD;
+&#xD;
+        -  To assess the construct validity of DAOH90, by testing the association between baseline&#xD;
+           variables and process of care variables and DAOH90, with the hypothesis that indicators&#xD;
+           for more &quot;sickness&quot; will be associated with fewer DAOH&#xD;
+&#xD;
+             -  Higher age&#xD;
+&#xD;
+             -  Higher APACHE II&#xD;
+&#xD;
+             -  Higher baseline lactate&#xD;
+&#xD;
+             -  Higher SOFA score at baseline&#xD;
+&#xD;
+             -  Premorbid accommodation in a long term care facility compared to independent living&#xD;
+&#xD;
+             -  More co-morbidities at baseline&#xD;
+&#xD;
+             -  Requirement for more organ support: requirement for 1, 2 or 3 (CVS, Resp, RRT)&#xD;
+                organ supports, and duration of organ support&#xD;
+&#xD;
+             -  Participants with septic shock compared to sepsis&#xD;
+&#xD;
+             -  Longer duration of admission for the index ICU admission&#xD;
+&#xD;
+             -  Longer duration of hospital admission for the index hospitalisation&#xD;
+&#xD;
+        -  To assess the extent to which DAOH90 captures long term mortality and resource use, by&#xD;
+           comparing the DAOH at day 90 to the DAOH at day 30, day 180 and day 365.&#xD;
+&#xD;
+      Sensitivity analysis For the primary analysis we will calculate the Days Alive and Out of&#xD;
+      Hospital with DAOH=0 for all patients who die prior to day 90, regardless of whether the&#xD;
+      death occurred in hospital or subsequent to discharge.&#xD;
+&#xD;
+      We will conduct a sensitivity analysis with Days Alive and Out of Hospital = the number of&#xD;
+      days alive and out of hospital prior to death. For example of a patient had a one week&#xD;
+      hospital admission and then spent 5 days at home prior to death the number of days alive and&#xD;
+      out of hospital = 5.&#xD;
+&#xD;
+      We will conduct a subgroup analysis based on:&#xD;
+&#xD;
+        -  The group of trial participants who were admitted to the ICU directly from the Emergency&#xD;
+           Department compared to those admitted from the Operating Theatre or ward&#xD;
+&#xD;
+        -  Sex&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 14, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Quality of Life as measured by the EQ5D</measure>
+    <time_frame>6 months</time_frame>
+    <description>Quality of Life as measured by the EQ5D</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">6200</enrollment>
+  <condition>Sepsis</condition>
+  <condition>Septic Shock</condition>
+  <arm_group>
+    <arm_group_label>CHEST Study</arm_group_label>
+    <description>Participants in the CHEST trial long term sepsis cohort</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ARISE Study</arm_group_label>
+    <description>Participants in the ARISE study long term follow-up cohort</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ADRENAL study</arm_group_label>
+    <description>Participants in the ADRENAL study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxyethyl starch</intervention_name>
+    <description>Hydroxyethyl starch compared to 0.9% saline</description>
+    <arm_group_label>CHEST Study</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydrocortisone</intervention_name>
+    <description>Hydrocortisone compared to Placebo</description>
+    <arm_group_label>ADRENAL study</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Early Goal Directed Therapy</intervention_name>
+    <description>Early Goal Directed Therapy compared to Usual Care</description>
+    <arm_group_label>ARISE Study</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants who have consented to enrolment into the ARISE, ADRENAL and CHEST trials&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  We will include data from all participants in the ARISE and ADRENAL trials where there&#xD;
+             is data available to calculate the number of days alive and out of hospital to Day 90,&#xD;
+             and data available with regards to quality of life at 6 months following recruitment.&#xD;
+&#xD;
+          -  We will include data from all participants in the CHEST trial who had a diagnosis of&#xD;
+             sepsis at baseline, and for whom there is data available to calculate the number of&#xD;
+             days alive and out of hospital to Day 90 and data available with regards to quality of&#xD;
+             life at 6 months following recruitment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Division of Critical Care, The George Institute for Global Health</name>
+      <address>
+        <city>Newtown</city>
+        <state>New South Wales</state>
+        <zip>2042</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <reference>
+    <citation>Thompson KJ, Taylor CB, Venkatesh B, Cohen J, Hammond NE, Jan S, Li Q, Myburgh J, Rajbhandari D, Saxena M, Kumar A, Finfer SR; The ADRENAL Management Committee and Investigators and the ANZICS Clinical Trials Group . The cost-effectiveness of adjunctive corticosteroids for patients with septic shock. Crit Care Resusc. 2020 Sep;22(3):191-199.</citation>
+    <PMID>32900325</PMID>
+  </reference>
+  <reference>
+    <citation>Hammond NE, Finfer SR, Li Q, Taylor C, Cohen J, Arabi Y, Bellomo R, Billot L, Harward M, Joyce C, McArthur C, Myburgh J, Perner A, Rajbhandari D, Rhodes A, Thompson K, Webb S, Venkatesh B; ADRENAL Trial Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group. Health-related quality of life in survivors of septic shock: 6-month follow-up from the ADRENAL trial. Intensive Care Med. 2020 Sep;46(9):1696-1706. doi: 10.1007/s00134-020-06169-1. Epub 2020 Jul 16.</citation>
+    <PMID>32676679</PMID>
+  </reference>
+  <reference>
+    <citation>Venkatesh B, Finfer S, Cohen J, Rajbhandari D, Arabi Y, Bellomo R, Billot L, Correa M, Glass P, Harward M, Joyce C, Li Q, McArthur C, Perner A, Rhodes A, Thompson K, Webb S, Myburgh J; ADRENAL Trial Investigators and the Australian-New Zealand Intensive Care Society Clinical Trials Group. Adjunctive Glucocorticoid Therapy in Patients with Septic Shock. N Engl J Med. 2018 Mar 1;378(9):797-808. doi: 10.1056/NEJMoa1705835. Epub 2018 Jan 19.</citation>
+    <PMID>29347874</PMID>
+  </reference>
+  <reference>
+    <citation>Thompson K, Taylor C, Jan S, Li Q, Hammond N, Myburgh J, Saxena M, Venkatesh B, Finfer S. Health-related outcomes of critically ill patients with and without sepsis. Intensive Care Med. 2018 Aug;44(8):1249-1257. doi: 10.1007/s00134-018-5274-x. Epub 2018 Jun 27.</citation>
+    <PMID>29951846</PMID>
+  </reference>
+  <reference>
+    <citation>Taylor C, Thompson K, Finfer S, Higgins A, Jan S, Li Q, Liu B, Myburgh J; Crystalloid versus Hydroxyethyl Starch Trial (CHEST) investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group. Hydroxyethyl starch versus saline for resuscitation of patients in intensive care: long-term outcomes and cost-effectiveness analysis of a cohort from CHEST. Lancet Respir Med. 2016 Oct;4(10):818-825. doi: 10.1016/S2213-2600(16)30120-5. Epub 2016 Jun 17.</citation>
+    <PMID>27324967</PMID>
+  </reference>
+  <reference>
+    <citation>Myburgh JA, Finfer S, Bellomo R, Billot L, Cass A, Gattas D, Glass P, Lipman J, Liu B, McArthur C, McGuinness S, Rajbhandari D, Taylor CB, Webb SA; CHEST Investigators; Australian and New Zealand Intensive Care Society Clinical Trials Group. Hydroxyethyl starch or saline for fluid resuscitation in intensive care. N Engl J Med. 2012 Nov 15;367(20):1901-11. doi: 10.1056/NEJMoa1209759. Epub 2012 Oct 17. Erratum in: N Engl J Med. 2016 Mar 31;374(13):1298.</citation>
+    <PMID>23075127</PMID>
+  </reference>
+  <reference>
+    <citation>Higgins AM, Peake SL, Bellomo R, Cooper DJ, Delaney A, Harris AH, Howe BD, Nichol AD, Webb SA, Williams PJ; Australasian Resuscitation in Sepsis Evaluation (ARISE) Investigators and the ANZICS Clinical Trials Group. Quality of Life and 1-Year Survival in Patients With Early Septic Shock: Long-Term Follow-Up of the Australasian Resuscitation in Sepsis Evaluation Trial. Crit Care Med. 2019 Jun;47(6):765-773. doi: 10.1097/CCM.0000000000003762.</citation>
+    <PMID>30985391</PMID>
+  </reference>
+  <reference>
+    <citation>ARISE Investigators; ANZICS Clinical Trials Group, Peake SL, Delaney A, Bailey M, Bellomo R, Cameron PA, Cooper DJ, Higgins AM, Holdgate A, Howe BD, Webb SA, Williams P. Goal-directed resuscitation for patients with early septic shock. N Engl J Med. 2014 Oct 16;371(16):1496-506. doi: 10.1056/NEJMoa1404380. Epub 2014 Oct 1.</citation>
+    <PMID>25272316</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 28, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The George Institute for Global Health, Australia</investigator_affiliation>
+    <investigator_full_name>Anthony Delaney</investigator_full_name>
+    <investigator_title>Professorial Fellow</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sepsis</mesh_term>
+    <mesh_term>Toxemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydrocortisone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Data sharing would be considered by the respective management committees of the constituent trials on a case by case basis</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

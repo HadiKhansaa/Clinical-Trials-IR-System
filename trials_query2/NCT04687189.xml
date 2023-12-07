@@ -1,0 +1,208 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04687189</url>
+  </required_header>
+  <id_info>
+    <org_study_id>008</org_study_id>
+    <nct_id>NCT04687189</nct_id>
+  </id_info>
+  <brief_title>Sonograms Enable Looking Forward - Home Examinations Led by Providers Validation Study</brief_title>
+  <acronym>SELF-HELP</acronym>
+  <official_title>SELF-HELP Validation Study: Sonograms Enable Looking Forward - Home Examinations Led by Providers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Turtle Health, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Turtle Health, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To demonstrate that clear, interpretable quality images of the ovaries and uterus can be&#xD;
+      generated using a portable transvaginal ultrasound scanner in the home environment, and that&#xD;
+      those images are interpretable by physicians with sufficient clarity to estimate approximate&#xD;
+      antral follicle count (i.e., appropriate for age) and to observe submucosal fibroids. Study&#xD;
+      aims to prove that images taken when ultrasound is performed by a woman herself (with HCP&#xD;
+      supervision via telemedicine) and images taken when ultrasound is administered by an HCP are&#xD;
+      of comparable quality. Study population reflects real-world patient characteristics and&#xD;
+      includes both general-population and submucosal fibroid positive controls.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Today, pro-fertility information is generally unavailable to healthy women; clinically&#xD;
+      meaningful in-clinic testing is limited by physician availability and patient willingness to&#xD;
+      undergo testing in-clinic, while home testing is limited to hormonal bloodwork which is&#xD;
+      insufficient on its own and has high false positives. Sponsor is developing home telemedicine&#xD;
+      transvaginal ultrasound as part of a home fertility assessment. Sponsor wishes to demonstrate&#xD;
+      the ability to obtain interpretable images, in women of varying body habitus, reproductive&#xD;
+      age, and reproductive status.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 27, 2021</start_date>
+  <completion_date type="Anticipated">May 2, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinically comparable video quality of supervised self-performed scan</measure>
+    <time_frame>Day 1 (self-performed scan)</time_frame>
+    <description>As assessed by two experienced, qualified independent raters on a 4 point scale for each organ visualized and each modality (supervised versus HCP). 4 point scale consists of: 4=excellent image quality; 3=acceptable image quality; 2=below clinical quality; 1=nondiagnostic. Scale is translated into binary outcome to assess if image is clinically comparable. 'Clinical-quality image' of an organ requires a score of '3' or greater on the scale.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinically comparable video quality of HCP-performed scan</measure>
+    <time_frame>Day 2 (HCP-performed scan)</time_frame>
+    <description>As assessed by two experienced, qualified independent raters on a 4 point scale for each organ visualized and each modality (supervised versus HCP). 4 point scale consists of: 4=excellent image quality; 3=acceptable image quality; 2=below clinical quality; 1=nondiagnostic. Scale is translated into binary outcome to assess if image is clinically comparable. 'Clinical-quality image' of an organ requires a score of '3' or greater on the scale.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in net promoter score (NPS) between supervised self-performed and HCP-performed scans</measure>
+    <time_frame>Day 1 (self-performed scan) and Day 2 (HCP-performed scan)</time_frame>
+    <description>Evaluated by survey post ultrasound administration. Calculated as a standard NPS: 9/10 scores = 1; 7/8 scores = 0; 0-6 scores = -1, missing = 0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in antral follicle count (AFC) between supervised self-performed and HCP-performed scans</measure>
+    <time_frame>Day 1 (self-performed scan) and Day 2 (HCP-performed scan)</time_frame>
+    <description>Difference between antral follicle count (AFC) identified in both ovaries among exams in two modalities (supervised self-performed and HCP-performed), conducted proximately (within 24-48 hours of each other)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in detection accuracy for major submucosal fibroids between supervised self-performed and HCP-performed scans in the known history of submucosal fibroids arm</measure>
+    <time_frame>Day 1 (self-performed scan) and Day 2 (HCP-performed scan)</time_frame>
+    <description>Difference between accurate identification of submucosal fibroids among exams in two modalities (supervised self-performed and HCP-performed), conducted proximately (within 24-48 hours of each other)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in all-cause false positive rate between supervised self-performed and HCP-performed scans in the general population arm</measure>
+    <time_frame>Day 1 (self-performed scan) and Day 2 (HCP-performed scan)</time_frame>
+    <description>Difference between false positive rate among exams in two modalities (supervised self-performed and HCP-performed), conducted proximately (within 24-48 hours of each other). An all-cause false positive will be defined as a subject where pathology requiring in-person follow-up is identified on the supervised self-performed exam, but not substantiated by identification by the HCP-administered exam.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">45</enrollment>
+  <condition>Fertility Risk</condition>
+  <arm_group>
+    <arm_group_label>Women with a known history of submucosal fibroids</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Women recruited from a general population subject to I/E criteria</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transvaginal ultrasound performed by a woman herself (with HCP supervision via telemedicine)</intervention_name>
+    <description>Imaging performed by woman on herself with remote healthcare professional (HCP) supervision compared to images taken when same ultrasound is administered in person by HCP. The ultrasound device used is cleared for HCP-supervised use in environments where healthcare is provided by trained HCPs. No changes to the design or manufacture have been made for this study.</description>
+    <arm_group_label>Women recruited from a general population subject to I/E criteria</arm_group_label>
+    <arm_group_label>Women with a known history of submucosal fibroids</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women between the ages of 18 and 38 inclusive&#xD;
+&#xD;
+          -  Women with BMI up to 40&#xD;
+&#xD;
+          -  Women able to freely give consent electronically, given COVID. For the purposes of&#xD;
+             this study, this is defined as women who speak native or fluent English; and have a&#xD;
+             high school degree or equivalent, and who are otherwise, in the professional judgement&#xD;
+             of the PI, able to give informed consent&#xD;
+&#xD;
+          -  N = 30 will be recruited from the general population, e.g., no known previous issues&#xD;
+&#xD;
+          -  N = 15 will be positive controls with submucosal fibroids&#xD;
+&#xD;
+          -  Women who are in driving distance from Boston (including Vermont and Connecticut);&#xD;
+             these states are covered by the PI's medical license during the COVID emergency&#xD;
+&#xD;
+          -  Women between cycle days 3 and 10 at the time of testing; or IUD users who do not have&#xD;
+             a menses&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Women with expert ultrasound experience, e.g., ultrasound technologists, radiologists,&#xD;
+             OB/GYNs, Reproductive Endocrinologists&#xD;
+&#xD;
+          -  Women with BMI over 40&#xD;
+&#xD;
+          -  Women who do not speak English natively or fluently&#xD;
+&#xD;
+          -  Women who have recently given birth, and have had fewer than 3 postpartum menstrual&#xD;
+             cycles&#xD;
+&#xD;
+          -  Women who have recently had a stillbirth or abortion more than 20 weeks (subject to&#xD;
+             the 3 postpartum menstrual cycles above). Miscarriages or abortions less than 20 weeks&#xD;
+             are subject to two wait cycles&#xD;
+&#xD;
+          -  Women who are currently pregnant or may be pregnant&#xD;
+&#xD;
+          -  Any woman the PI believes is not capable of giving independent, informed consent&#xD;
+&#xD;
+          -  Turtle Health employees&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>38 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aaron Styer</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amy Zwanziger</last_name>
+    <phone>508-251-9269</phone>
+    <email>study@turtlehealth.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Virtual metasite</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>study@turtlehealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>Aaron Styer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 29, 2020</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

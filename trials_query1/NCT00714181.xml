@@ -1,0 +1,327 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00714181</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000600329</org_study_id>
+    <secondary_id>UPCC-12907</secondary_id>
+    <nct_id>NCT00714181</nct_id>
+  </id_info>
+  <brief_title>Hydroxychloroquine and Temozolomide in Treating Patients With Metastatic or Unresectable Solid Tumors</brief_title>
+  <official_title>A Phase I Study of Hydroxychloroquine in Combination With Temozolomide in Patients With Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abramson Cancer Center of the University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Abramson Cancer Center of the University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy, such as hydroxychloroquine and temozolomide, work in&#xD;
+      different ways to stop the growth of tumor cells, either by killing the cells or by stopping&#xD;
+      them from dividing. Giving more than one drug (combination chemotherapy) may kill more tumor&#xD;
+      cells.&#xD;
+&#xD;
+      PURPOSE: This phase I trial is studying the side effects and best dose of hydroxychloroquine&#xD;
+      when given together with temozolomide in treating patients with metastatic or unresectable&#xD;
+      solid tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+      Primary&#xD;
+&#xD;
+        -  To determine the maximum tolerated dose (MTD) of hydroxychloroquine (HCQ) when&#xD;
+           administered in combination with temozolomide (TMZ) in patients with metastatic or&#xD;
+           unresectable solid tumors.&#xD;
+&#xD;
+      Secondary&#xD;
+&#xD;
+        -  To determine the toxicity and toxicity rate of HCQ when administered at the MTD in&#xD;
+           combination with TMZ in these patients.&#xD;
+&#xD;
+      Tertiary&#xD;
+&#xD;
+        -  To construct a population pharmacokinetic (PK) model using a limited sampling of whole&#xD;
+           blood to determine the drug exposure of HCQ and HCQ metabolites in these patients.&#xD;
+&#xD;
+        -  To measure changes in autophagic vesicle accumulation by immunoblotting against the&#xD;
+           autophagy marker LC3 in protein lysates prepared from peripheral blood mononuclear cells&#xD;
+           (PBMC) collected from patients treated with HCQ and TMZ.&#xD;
+&#xD;
+        -  To measure changes in median number of autophagic vesicles by electron microscopy in&#xD;
+           PBMC collected from patients treated with HCQ and TMZ.&#xD;
+&#xD;
+        -  To assess tumor changes in LC3 and caspase 3 cleavage by western blotting.&#xD;
+&#xD;
+        -  To assess tumor cell death characteristics by immunohistochemical methods (Ki67, TUNEL&#xD;
+           staining, cleaved caspase 3).&#xD;
+&#xD;
+        -  To evaluate autophagy by electron microscopy.&#xD;
+&#xD;
+        -  To define associations between changes in LC3 levels from baseline in PBMC with HCQ&#xD;
+           exposure.&#xD;
+&#xD;
+        -  To measure the levels of HMGB1 in the serum of patients treated with HCQ and TMZ.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of hydroxychloroquine (HCQ).&#xD;
+&#xD;
+      Patients receive oral HCQ alone once or twice daily for 14 days. Patients then receive oral&#xD;
+      HCQ once or twice daily on days 1-28 and oral temozolomide once daily on days 1-7 and 15-21.&#xD;
+      Treatment with HCQ and temozolomide repeats every 28 days in the absence of disease&#xD;
+      progression or unacceptable toxicity.&#xD;
+&#xD;
+      Patients undergo blood sample collection periodically for pharmacodynamic and pharmacokinetic&#xD;
+      correlative studies. Autophagic vesicles in blood samples are quantified by immunoblotting&#xD;
+      against the autophagy protein LC3 and by electron microscopy. Pharmacokinetics are analyzed&#xD;
+      by high-performance liquid chromatography with tandem mass spectrometry. Patients with tumors&#xD;
+      amenable to biopsy also undergo serial biopsies. Tumor tissue samples are assessed for tumor&#xD;
+      cell apoptosis and proliferation using Ki67 and TUNEL staining and for the number of&#xD;
+      autophagic vesicles and nuclear changes characteristic of apoptotic, autophagic, or necrotic&#xD;
+      cell death by western blotting and electron microscopy.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed periodically.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2008</start_date>
+  <completion_date type="Actual">June 2013</completion_date>
+  <primary_completion_date type="Actual">July 2011</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum tolerated dose of hydroxychloroquine</measure>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity rates</measure>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamic and pharmacokinetic correlative endpoints</measure>
+  </secondary_outcome>
+  <enrollment type="Actual">38</enrollment>
+  <condition>Unspecified Adult Solid Tumor, Protocol Specific</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hydroxychloroquine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>TdT-mediated dUTP nick end labeling assay</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>western blotting</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>electron microscopy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>high performance liquid chromatography</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>immunoenzyme technique</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>immunohistochemistry staining method</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>mass spectrometry</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>pharmacological study</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed solid tumor&#xD;
+&#xD;
+               -  Metastatic or unresectable disease&#xD;
+&#xD;
+               -  Refractory to standard therapy or no standard therapy exists&#xD;
+&#xD;
+          -  Measurable disease by RECIST criteria&#xD;
+&#xD;
+          -  Brain metastases allowed provided patient completed radiotherapy (if radiotherapy was&#xD;
+             clinically indicated at the time of diagnosis) AND discontinued steroids prior to&#xD;
+             study enrollment&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+          -  ECOG performance status 0-1&#xD;
+&#xD;
+          -  WBC ≥ 3,000/mm³&#xD;
+&#xD;
+          -  Absolute granulocyte count ≥ 1,500/mm³&#xD;
+&#xD;
+          -  Platelet count ≥ 100,000/mm³&#xD;
+&#xD;
+          -  Serum creatinine ≤ 2.0 times upper limit of normal (ULN)&#xD;
+&#xD;
+          -  Total bilirubin ≤ 1.5 times ULN (&lt; 3.0 times ULN in the presence of Gilbert's disease)&#xD;
+&#xD;
+          -  AST and ALT ≤ 2.5 times ULN (≤ 5.0 times ULN in the presence of liver metastases)&#xD;
+&#xD;
+          -  aPTT normal&#xD;
+&#xD;
+          -  INR ≤ 1.5 (if on anticoagulation, INR must be &lt; 1.5 prior to starting anticoagulation)&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+          -  No porphyria&#xD;
+&#xD;
+          -  No psoriasis, unless the disease is well controlled and patient is under the care of a&#xD;
+             specialist who agrees to monitor the patient for exacerbations&#xD;
+&#xD;
+          -  No previously documented macular degeneration or diabetic retinopathy&#xD;
+&#xD;
+          -  No concurrent serious illness including, but not limited to, any of the following:&#xD;
+&#xD;
+               -  Ongoing or active infection requiring parenteral antibiotics&#xD;
+&#xD;
+               -  Clinically significant cardiovascular disease (e.g., uncontrolled hypertension,&#xD;
+                  myocardial infarction, or unstable angina)&#xD;
+&#xD;
+               -  New York Heart Association class II-IV congestive heart failure&#xD;
+&#xD;
+               -  Serious cardiac arrhythmia requiring medication&#xD;
+&#xD;
+               -  Peripheral vascular disease ≥ grade 2 within the past year&#xD;
+&#xD;
+               -  Psychiatric illness/social situation that would limit compliance with study&#xD;
+                  requirements&#xD;
+&#xD;
+          -  No other concurrent malignancies, other than basal cell skin cancer, squamous cell&#xD;
+             skin cancer, carcinoma in situ of the cervix, or ductal or lobular carcinoma in situ&#xD;
+             of the breast&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  Recovered from all prior therapy&#xD;
+&#xD;
+          -  The following prior therapy is allowed in the adjuvant or metastatic disease setting:&#xD;
+&#xD;
+               -  Immunotherapy (interferon, aldesleukin, or sargramostim [GM-CSF])&#xD;
+&#xD;
+               -  Chemotherapy, either as a single-agent or as combination therapy&#xD;
+&#xD;
+               -  Vaccine therapy&#xD;
+&#xD;
+               -  Targeted or biological therapy&#xD;
+&#xD;
+               -  Chloroquine derivatives&#xD;
+&#xD;
+          -  At least 4 weeks since prior active immunotherapy (aldesleukin, interferon, or&#xD;
+             ipilimumab)&#xD;
+&#xD;
+          -  At least 4 weeks since prior chemotherapy&#xD;
+&#xD;
+          -  At least 2 weeks since prior oral targeted therapies&#xD;
+&#xD;
+          -  More than 4 weeks since prior and no other concurrent investigational anticancer&#xD;
+             therapy (except for vaccines)&#xD;
+&#xD;
+          -  No prior temozolomide&#xD;
+&#xD;
+          -  Prior radiotherapy allowed&#xD;
+&#xD;
+               -  If radiotherapy has been administered to a lesion, there must be radiographic&#xD;
+                  evidence of progression of that lesion in order for that lesion to constitute&#xD;
+                  measurable disease or to be included in the measured target lesions&#xD;
+&#xD;
+          -  No concurrent cytochrome P450 enzyme-inducing antiepileptic drugs (phenytoin,&#xD;
+             carbamazepine, phenobarbital, primidone, or oxcarbazepine), rifampin, or Hypericum&#xD;
+             perforatum (St. John's wort)&#xD;
+&#xD;
+          -  No other concurrent anticancer therapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ravi Amaravadi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Abramson Cancer Center of the University of Pennsylvania</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Abramson Cancer Center of the University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104-4283</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2016</verification_date>
+  <study_first_submitted>July 11, 2008</study_first_submitted>
+  <study_first_submitted_qc>July 11, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 14, 2008</study_first_posted>
+  <last_update_submitted>February 17, 2016</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 18, 2016</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>unspecified adult solid tumor, protocol specific</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

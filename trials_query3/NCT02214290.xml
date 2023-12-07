@@ -1,0 +1,762 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02214290</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSC2013.10514</org_study_id>
+    <nct_id>NCT02214290</nct_id>
+  </id_info>
+  <brief_title>Effect of Oral Caffeine and L-Citrulline Supplementation on Arterial Function in Healthy Males</brief_title>
+  <official_title>Effect of Oral Caffeine and L-Citrulline Supplementation on Arterial Function in Healthy Males</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Florida State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Florida State University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Caffeine is an exceedingly popular and consumed pharmacological agent. Although caffeine is&#xD;
+      primarily consumed from coffee and tea beverages, it is also available in other forms such as&#xD;
+      sodas, energy drinks, tablets and capsules. Nevertheless, caffeine acutely increases brachial&#xD;
+      and aortic systolic blood pressure (BP) and arterial stiffness. Arterial stiffness is an&#xD;
+      independent predictor of cardiovascular disease (CVD) and assessed through pulse wave&#xD;
+      velocity (PWV). Interestingly, previous studies have proposed that caffeine may increase&#xD;
+      aortic BP through increases in aortic PWV and augmentation index (AIx), a measurement of wave&#xD;
+      reflection. Yet, these effects were seen in middle-aged adults with treated hypertension and&#xD;
+      a wide age range. Therefore, it is imperative to consider that caffeine may cause different&#xD;
+      effects in young normotensive individuals than in older adults independently of BP levels.&#xD;
+      Importantly, oral supplementation of the amino-acid, L-citrulline has been shown to enhance&#xD;
+      the bioavailability of L-arginine levels and nitric oxide (NO) production and, therefore,&#xD;
+      improve arterial function. L-citrulline supplementation for 7 days given at 6 g/day has shown&#xD;
+      to increase NO levels while improving PWV. Previous studies by our group also demonstrated&#xD;
+      that L-citrulline supplementation reduces the BP response to cold exposure; a condition with&#xD;
+      an increased vasoconstriction. Therefore, the acute effects of caffeine on central and&#xD;
+      peripheral PWV and BP in healthy young men are yet to be fully evaluated. We hypothesized&#xD;
+      that acute caffeine intake would increase peripheral and aortic BP and PWV and that&#xD;
+      L-citrulline supplementation would attenuate the effects induced by acute caffeine ingestion.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The specific aims of this study are:&#xD;
+&#xD;
+      AIM 1: To examine the effects of the acute ingestion of 200mg caffeine (tablets) on arterial&#xD;
+      function in young adults. The working hypothesis is that acute caffeine intake would increase&#xD;
+      brachial, ankle and aortic BP, PWV (aortic and leg), and wave reflection. In order to test&#xD;
+      this hypothesis, the investigators will perform non-invasive measurements of arterial&#xD;
+      stiffness (aortic and leg PWV) and pulse wave analysis (aortic BP and AIx) using applanation&#xD;
+      tonometry of the radial artery 30, 45, and 60 minutes following caffeine ingestion.&#xD;
+&#xD;
+      AIM 2: To determine the effectiveness of L-citrulline supplementation to attenuate the acute&#xD;
+      cardiovascular effects of caffeine ingestion. The working hypothesis is that 7 days of&#xD;
+      L-citrulline supplementation will attenuate the unfavorable arterial responses (increases in&#xD;
+      BP, PWV, and wave reflection) to acute caffeine ingestion. In order to test this hypothesis,&#xD;
+      the investigators will perform the same procedures previously specified in AIM 1.&#xD;
+&#xD;
+      Description of the study:&#xD;
+&#xD;
+      Sixteen healthy young men 18-40 years of age will be enrolled in this study. Participants&#xD;
+      with CVD history, resting BP (&gt; 160/100 mmHg), recent history of smoking, or considered&#xD;
+      competitive athlete will be excluded from the study. All subjects will refrain from food and&#xD;
+      caffeine for &gt; 8 hours and from exercise for &gt; 24 hours before testing.&#xD;
+&#xD;
+      Study design:&#xD;
+&#xD;
+      Following an initial screening, arterial function measurements will be collected.&#xD;
+      Measurements will be assessed at baseline following 10 minutes of rest in the supine position&#xD;
+      and then again at 30, 45, and 60 minutes after 200 mg caffeine or placebo ingestion.&#xD;
+      Participants will receive caffeine or placebo supplementation on two separate visits with a&#xD;
+      minimum of 48 hours in between sessions. Following the acute phase of the study, subjects&#xD;
+      will be randomized to consume L-citrulline or placebo for 7 days given at 6 grams/day.&#xD;
+      Following the same protocol as the acute phase with 200 mg caffeine, measurements will be&#xD;
+      collected before and after the 7 day supplementation period.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2012</start_date>
+  <completion_date type="Actual">March 2014</completion_date>
+  <primary_completion_date type="Actual">March 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Aortic Blood Pressure</measure>
+    <time_frame>Baseline and Day 7 (Calculated change between rest and 30 minutes post-caffeine ingestion at these time points)</time_frame>
+    <description>Aortic blood pressure at rest and 30 minutes after acute ingestion of 200 mg of caffeine before and after 7 days of either 6g/day of Citrulline or 6 g/day of Placebo.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Reflected Wave Pressure (P2)</measure>
+    <time_frame>Baseline and Day 7 (Calculated change between rest and 30 minutes post-caffeine ingestion at these time points)</time_frame>
+    <description>Reflected wave pressure at rest and 30 minutes after ingestion of 200mg of caffeine after 7 days supplementation of 6g/day of either L-Citrulline or Placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Femoral-ankle Pulse Wave Velocity After 7 Days of Either L-Citrulline or Placebo (6g/Day)</measure>
+    <time_frame>Baseline and Day 7 (Calculated change between rest and 30 minutes post-caffeine ingestion at these time points)</time_frame>
+    <description>Femoral-ankle pulse wave velocity at rest and 30 minutes after ingestion of 200mg of caffeine after 7 days supplementation of 6g/day of either L-Citrulline or Placebo.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">16</enrollment>
+  <condition>Hypertension</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Caffeine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>200 mg caffeine tablet produced by CVS Pharmacy, USA</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo pill produced by NOW FOODS, USA</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>L-citrulline</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>L-citrulline capsule (750 mg) provided by NOW FOODS</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Caffeine</intervention_name>
+    <description>A 200 mg caffeine tablet was given to subject to examine the drugs effect on arterial function.</description>
+    <arm_group_label>Caffeine</arm_group_label>
+    <other_name>Caffeine tablet (CVS Pharmacy)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>A 750 mg placebo capsule (maltodextrin) was given to subjects to examine the effect of the drug on arterial function.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Placebo from NOW FOODS, USA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>L-citrulline</intervention_name>
+    <description>L-citrulline was used to examine the effect of the supplement on arterial function.</description>
+    <arm_group_label>L-citrulline</arm_group_label>
+    <other_name>L-citrulline (750 mg/capsule)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Young healthy males&#xD;
+&#xD;
+          -  Non smoker&#xD;
+&#xD;
+          -  Non endurance trained athlete&#xD;
+&#xD;
+          -  No previous history of cardiovascular disease&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  Blood pressure greater than 160/100&#xD;
+&#xD;
+          -  Smoker&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arturo Figueroa, M.D. Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Florida State University</affiliation>
+  </overall_official>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>August 4, 2014</study_first_submitted>
+  <study_first_submitted_qc>August 8, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 12, 2014</study_first_posted>
+  <results_first_submitted>November 30, 2018</results_first_submitted>
+  <results_first_submitted_qc>December 2, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 29, 2020</results_first_posted>
+  <last_update_submitted>December 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Florida State University</investigator_affiliation>
+    <investigator_full_name>Arturo Figueroa</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Cardiovascular</keyword>
+  <keyword>Caffeine</keyword>
+  <keyword>L-citrulline</keyword>
+  <keyword>Arterial Function</keyword>
+  <keyword>Hemodynamics</keyword>
+  <keyword>Blood Pressure</keyword>
+  <keyword>Pulse Wave Velocity</keyword>
+  <keyword>Pulse Wave Analysis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Caffeine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Sixteen young healthy men participated in this study. All subjects were non-smokers, recreationally active, and free of apparent cardiovascular-metabolic diseases based on medical history.</recruitment_details>
+      <pre_assignment_details>Of the 42 individuals screened, 16 individuals completed the intervention in its entirety.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Citrulline First, Then Placebo</title>
+          <description>Each participant received L-Citrulline (6g/day) for a 7 day period. This was followed by a 14 day washout period. Finally, the same participants then received a Placebo (6g/day maltodextrin) for a 7 day period.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo First, Then L-Citrulline</title>
+          <description>Each participant received a Placebo (6g/day maltodextrin) for a 7 day period. This was followed by a 14 day washout period. Finally, the same participants then received a L-Citrulline (6g/day) for a 7 day period.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>First Intervention (7 Days)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Washout (14 Days)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Second Intervention (7 Days)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>L-Citrulline or Placebo</title>
+          <description>Placebo and L-Citrulline pills produced by NOW FOODS, USA&#xD;
+Citrulline or Placebo (both 6g/day) were given for a 7 day supplementation period. This was followed by a 14 day washout period and crossover to the other supplement (L-Citrulline or Placebo) for 7 days. Measurements of arterial function were performed to determine if the supplements had any significant effect on blood pressure control/pressure wave reflection at rest and immediately after ingestion of 200 milligrams of caffeine.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="16"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <description>ages of 18 to 40 years</description>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23" spread="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Aortic Blood Pressure</title>
+        <description>Aortic blood pressure at rest and 30 minutes after acute ingestion of 200 mg of caffeine before and after 7 days of either 6g/day of Citrulline or 6 g/day of Placebo.</description>
+        <time_frame>Baseline and Day 7 (Calculated change between rest and 30 minutes post-caffeine ingestion at these time points)</time_frame>
+        <population>Young, apparently healthy individuals, aged 18-40 years old.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Citrulline</title>
+            <description>Participants received 6g/day of Citrulline for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received 6 g/day of Maltodextrin for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Aortic Blood Pressure</title>
+          <description>Aortic blood pressure at rest and 30 minutes after acute ingestion of 200 mg of caffeine before and after 7 days of either 6g/day of Citrulline or 6 g/day of Placebo.</description>
+          <population>Young, apparently healthy individuals, aged 18-40 years old.</population>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5" spread="1"/>
+                    <measurement group_id="O2" value="6" spread="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>7 Days</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4" spread="1"/>
+                    <measurement group_id="O2" value="4" spread="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>ANOVA</method>
+            <method_desc>post-hoc comparisons were used to determine within-group and between-group differences.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Reflected Wave Pressure (P2)</title>
+        <description>Reflected wave pressure at rest and 30 minutes after ingestion of 200mg of caffeine after 7 days supplementation of 6g/day of either L-Citrulline or Placebo.</description>
+        <time_frame>Baseline and Day 7 (Calculated change between rest and 30 minutes post-caffeine ingestion at these time points)</time_frame>
+        <population>Young, apparently healthy adults, aged 18-40 years.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Citrulline</title>
+            <description>Participants received 6g/day of Citrulline for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received 6 g/day of Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Reflected Wave Pressure (P2)</title>
+          <description>Reflected wave pressure at rest and 30 minutes after ingestion of 200mg of caffeine after 7 days supplementation of 6g/day of either L-Citrulline or Placebo.</description>
+          <population>Young, apparently healthy adults, aged 18-40 years.</population>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5" spread="1"/>
+                    <measurement group_id="O2" value="5" spread="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>7 Days</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4" spread="1"/>
+                    <measurement group_id="O2" value="5" spread="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>ANOVA</method>
+            <method_desc>post-hoc comparisons were used to determine within-group and between-group differences.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Femoral-ankle Pulse Wave Velocity After 7 Days of Either L-Citrulline or Placebo (6g/Day)</title>
+        <description>Femoral-ankle pulse wave velocity at rest and 30 minutes after ingestion of 200mg of caffeine after 7 days supplementation of 6g/day of either L-Citrulline or Placebo.</description>
+        <time_frame>Baseline and Day 7 (Calculated change between rest and 30 minutes post-caffeine ingestion at these time points)</time_frame>
+        <population>young, apparently healthy adults, aged 18-40 years</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Citrulline</title>
+            <description>Participants received a 6 g/day of Citrulline for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants received a 200 mg maltodextrin tablet, and femoral-ankle pulse wave velocity was taken at 60 minutes post-ingestion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Femoral-ankle Pulse Wave Velocity After 7 Days of Either L-Citrulline or Placebo (6g/Day)</title>
+          <description>Femoral-ankle pulse wave velocity at rest and 30 minutes after ingestion of 200mg of caffeine after 7 days supplementation of 6g/day of either L-Citrulline or Placebo.</description>
+          <population>young, apparently healthy adults, aged 18-40 years</population>
+          <units>m/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.6" spread="0.4"/>
+                    <measurement group_id="O2" value="0.7" spread="0.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>7 Days</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.4" spread="0.4"/>
+                    <measurement group_id="O2" value="0.6" spread="0.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.001</p_value>
+            <method>ANOVA</method>
+            <method_desc>post-hoc comparisons were used to determine within-group and between-group differences.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <desc>Adverse events were not monitored/assessed because the participants were young and healthy.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Citrulline</title>
+          <description>Participants received 6g/day of Citrulline for 7 days</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Participants received 6g/day of Placebo (Maltodextrin) for 7 days</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Arturo Figueroa</name_or_title>
+      <organization>Texas Tech University</organization>
+      <phone>8068345587</phone>
+      <email>arturo.figueroa@ttu.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

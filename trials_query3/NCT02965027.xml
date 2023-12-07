@@ -1,0 +1,392 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02965027</url>
+  </required_header>
+  <id_info>
+    <org_study_id>W81XWH-15-2-0060</org_study_id>
+    <nct_id>NCT02965027</nct_id>
+  </id_info>
+  <brief_title>Prazosin for Post-Concussive Headaches</brief_title>
+  <official_title>Prazosin for the Prophylaxis of Chronic Post-Traumatic Headaches in OEF/OIF/OND Service Members and Veterans With Mild TBI</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seattle Institute for Biomedical and Clinical Research</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>VA Puget Sound Health Care System</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Madigan Army Medical Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Seattle Institute for Biomedical and Clinical Research</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Mild traumatic brain injury (mTBI) caused by blast effects of explosive devices has been&#xD;
+      called the &quot;signature injury&quot; of soldiers who served in the Iraq and Afghanistan conflicts.&#xD;
+      mTBI can also occur from impact or hitting the head on an object or the ground. Although&#xD;
+      termed &quot;mild&quot; in comparison to major brain injuries, people with mTBI can have problems with&#xD;
+      their memory and concentration. People with mTBI can also find they are more irritable, have&#xD;
+      more anxiety, and have trouble with their mood and sleep.&#xD;
+&#xD;
+      The purpose of this study is to see if a medication called prazosin can help treat chronic&#xD;
+      headaches in people with mTBI. The Food and Drug Administration (FDA) has approved prazosin&#xD;
+      for treating people with high blood pressure. At this time, the FDA has not approved prazosin&#xD;
+      in the treatment of mTBI or headaches. Some people who have posttraumatic stress disorder&#xD;
+      (PTSD) and have been taking prazosin for their medical conditions or who have taken it in&#xD;
+      research studies have said they have fewer headaches.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background and Rationale: Headaches following mild traumatic brain injury (mTBI) are common,&#xD;
+      can be refractory to standard therapies, and may persist and worsen to become a debilitating&#xD;
+      chronic pain syndrome. The purpose of this study is to evaluate the centrally acting alpha-1&#xD;
+      adrenoreceptor (AR) antagonist drug prazosin as a prophylactic treatment for chronic&#xD;
+      posttraumatic headaches (PTHAs). The impetus for this study comes from a large open-label&#xD;
+      case series in Iraq and Afghanistan Veterans with mTBI and PTHAs and data from a&#xD;
+      placebo-controlled trial evaluating use of prazosin for posttraumatic stress disorder (PTSD)&#xD;
+      in active-duty Servicemembers (SMs). Findings from these studies showed that in addition to&#xD;
+      decreasing PTSD-related symptoms and improving sleep quality, prazosin decreased the&#xD;
+      frequency and severity of headaches, which were common in the study populations.&#xD;
+&#xD;
+      Study Objectives, Specific Aims, and Hypotheses: The objective of this study is to evaluate&#xD;
+      the efficacy of prazosin as a prophylactic treatment for persistent PTHAs, which will be&#xD;
+      accomplished by conducting a randomized placebo-controlled double blind trial of prazosin vs.&#xD;
+      placebo in active-duty SMs and Veterans who were in military service at any time from October&#xD;
+      7, 2001 to the present with persistent PTHAs.&#xD;
+&#xD;
+        -  Specific Aim 1: To determine the effect of prazosin compared to placebo on headache&#xD;
+           frequency, headache severity and duration, use of abortive/analgesic medications, and&#xD;
+           headache-related disability.&#xD;
+&#xD;
+        -  Specific Aim 2: To determine the effect of prazosin on sleep disturbance, PTSD symptoms,&#xD;
+           depressive symptoms, alcohol consumption, global cognitive function, health-related&#xD;
+           quality of life, and global clinical status.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2016</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in headache frequency</measure>
+    <time_frame>5 weeks before baseline, baseline, 4,8, and 12 weeks after steady dose</time_frame>
+    <description>Headache log to be filled out by participant</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall sleep quality as assessed by Pittsburgh Sleep Quality Index</measure>
+    <time_frame>baseline, 4, 8, 12 weeks after steady dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insomnia Severity Index</measure>
+    <time_frame>baseline, 4, 8, 12 weeks after steady dose</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">228</enrollment>
+  <condition>Post-Traumatic Headache</condition>
+  <arm_group>
+    <arm_group_label>Prazosin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Prazosin capsules beginning at 1 mg orally at bedtime. Titrate over 5 weeks to maximum dose of 5 mg in the morning and 20 mg at bedtime.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo capsules</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prazosin</intervention_name>
+    <arm_group_label>Prazosin</arm_group_label>
+    <other_name>Minipress</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebos</intervention_name>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male and female Active-duty SMs or Veterans aged 18 or older who are in good general&#xD;
+             health.&#xD;
+&#xD;
+          -  History of blast and/or impact head trauma mTBI meeting Defense and Veterans Brain&#xD;
+             Injury Center (DVBIC) mTBI criteria.&#xD;
+&#xD;
+             o Mild TBI is defined as an injury to the head causing at least one of the following:&#xD;
+             alteration in consciousness (for up to 24 hours after the injury), loss of&#xD;
+             consciousness (0-30 minutes), and/or post-traumatic amnesia (up to 1 day post-injury).&#xD;
+             If available, the Glasgow Coma Scale score must be 13-15, and head imaging findings&#xD;
+             (if imaging was performed) must be negative.&#xD;
+&#xD;
+          -  Frequent HAs that started within 3 months after a head injury or marked worsening (a&#xD;
+             two-fold or greater increase in frequency and/or severity) of pre-existing headaches&#xD;
+             within 3 months of head injury.&#xD;
+&#xD;
+               -  HAs either 1) must last 4 or more hours a day and reach a moderate to severe&#xD;
+                  intensity at any point during the headache, or 2) may be of any severity or&#xD;
+                  duration if the participant takes a medication or other agent in an effort to&#xD;
+                  stop or treat a headache.&#xD;
+&#xD;
+               -  HAs meeting these criteria must have been present on average at least 8 days per&#xD;
+                  4-week period, starting within 3 months after head injury and occurring by&#xD;
+                  self-report for at least 3 months prior to the Initial Screening Visit. The&#xD;
+                  4-week HA frequency/severity criteria must be confirmed during the Preliminary&#xD;
+                  Screening Period.&#xD;
+&#xD;
+          -  Women of childbearing potential must agree to abstain from sexual relations that could&#xD;
+             result in pregnancy or use an effective method of birth control acceptable to both&#xD;
+             participant and the clinician prescriber during the study. Men are not required to use&#xD;
+             contraception during the study.&#xD;
+&#xD;
+          -  Participants must have English fluency sufficient to complete study measures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participation in other interventional research.&#xD;
+&#xD;
+          -  History of penetrating head injury&#xD;
+&#xD;
+          -  History of TBI more severe than mild by DVBIC criteria&#xD;
+&#xD;
+          -  A primary non migraine and/or tension-type HA disorder (for example hemicrania&#xD;
+             continua; cluster) that accounts for the majority of current symptoms.&#xD;
+&#xD;
+          -  HAs of any kind of moderate or severe intensity on an average of more than 4 days per&#xD;
+             month preceding the concussive trauma&#xD;
+&#xD;
+          -  Acute or serious medical illness or unstable chronic medical illness (e.g., unstable&#xD;
+             angina, myocardial infarction within 6 months, congestive heart failure, clinically&#xD;
+             significant or concerning cardiac arrhythmias; preexisting hypotension [systolic blood&#xD;
+             pressure&lt;110] or orthostatic hypotension [systolic drop &gt;20 mm Hg after 2 min standing&#xD;
+             accompanied by lightheadedness], chronic renal or hepatic failure, or acute&#xD;
+             pancreatitis. The eligibility of potential participants having acute serious and/or&#xD;
+             chronic medical illnesses other than those listed will be evaluated on a case-by-case&#xD;
+             basis by a study physician, PA-C, or ARNP.&#xD;
+&#xD;
+          -  Use of prazosin or other alpha-1 antagonist (including but not limited to alfuzosin,&#xD;
+             doxazosin, silodosin, tamsulosin, terazosin) for any purpose in the 2 weeks prior to&#xD;
+             initial screen (P1) visit and prohibited throughout the study&#xD;
+&#xD;
+          -  Allergy or previous adverse reaction to prazosin or other alpha-1 antagonist&#xD;
+&#xD;
+          -  Active psychosis or psychotic disorder, severe depression (as determined per clinician&#xD;
+             prescriber judgment), severe psychiatric instability or severe situational life crisis&#xD;
+             (including evidence of being actively suicidal or homicidal).&#xD;
+&#xD;
+          -  Meets Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5)&#xD;
+             criteria for any Substance Use Disorder except caffeine-related disorders, or&#xD;
+             tobacco-related disorders.&#xD;
+&#xD;
+          -  History of delirium within the prior 3 months, epilepsy, stroke, dementia, psychotic&#xD;
+             disorder, or bipolar disorder&#xD;
+&#xD;
+          -  Structural brain abnormalities on any prior imaging with associated clinically evident&#xD;
+             manifestations&#xD;
+&#xD;
+          -  Current participation in transcranial magnetic stimulation studies&#xD;
+&#xD;
+          -  Women of childbearing potential must not be pregnant, planning to become pregnant&#xD;
+             during the study period, or nursing.&#xD;
+&#xD;
+          -  Participation in a HA support group or other activity such as meditation or yoga&#xD;
+             intended to mitigate HA or other chronic pain must be stable at least 4 weeks prior to&#xD;
+             beginning the initial screen (P1) visit and may not be started during the study&#xD;
+&#xD;
+          -  Failure to record HA data for at least 80% of days during the Screening Period&#xD;
+&#xD;
+          -  Not suitable for study per clinician judgement.&#xD;
+&#xD;
+        Medication-and other Treatment-Related Considerations:&#xD;
+&#xD;
+          -  The use of HA rescue or symptom-relieving medications will be allowed during the&#xD;
+             study. This includes triptans, ergotamines, opioids, simple analgesics (e.g.&#xD;
+             acetaminophen, aspirin, or non-steroidal anti-inflammatories [NSAIDS], and combination&#xD;
+             analgesics. Their use will be recorded on the concurrent medication CRF during the&#xD;
+             Preliminary Screening Period (P1) and throughout the remainder of the study.&#xD;
+             Randomization of participants will be stratified based on whether their use of HA&#xD;
+             medications meets ICHD-3 beta criteria for overuse of these medications, as described&#xD;
+             in section 5.5 below.&#xD;
+&#xD;
+          -  Opioid Medications: Use of opioids for treatment of HA or non-HA-related pain or for&#xD;
+             any other purpose is allowed during the study. Any opioid use would ideally be&#xD;
+             excluded due to potential confounding effects on interpretation of response to&#xD;
+             treatment. However, in this population, particularly in Veterans with chronic pain or&#xD;
+             undergoing minor orthopedic or dental procedures, opioid use is common. Use of&#xD;
+             opioids, including frequency and dose, will be recorded on the concurrent medication&#xD;
+             CRF.&#xD;
+&#xD;
+          -  Cannabis: The use of cannabis in any form is not excluded unless its use meets&#xD;
+             criteria for Cannabis Use Disorder. All use of cannabis will be documented.&#xD;
+&#xD;
+          -  Other Medications: Participants who are taking other medications on a routine basis&#xD;
+             must be on a stable dose for at least 4 weeks prior to the Preliminary Screening&#xD;
+             Period (P1), and must intend to continue the medication at the same regimen for the&#xD;
+             duration of the trial unless lack of efficacy, safety, or tolerability dictates&#xD;
+             otherwise. The following medications are not excluded:&#xD;
+&#xD;
+               -  Psychoactive drugs (for example, anticonvulsants, benzodiazepines,&#xD;
+                  antidepressants, sedative/hypnotics),&#xD;
+&#xD;
+               -  Antihypertensive medications (including beta-blockers, calcium channel blockers,&#xD;
+                  angiotensin converting enzyme [ACE] inhibitors, and angiotensin receptor&#xD;
+                  blockers),&#xD;
+&#xD;
+               -  The use of magnesium in any dose that is prescribed for the purpose of HA&#xD;
+                  prevention or treatment must be stable for at least 4 weeks. The incidental use&#xD;
+                  of magnesium in multi-vitamins, laxatives, etc. is permissible but must be&#xD;
+                  documented.&#xD;
+&#xD;
+               -  Hormones (for example, testosterone, estrogen, or progesterone) in any form.&#xD;
+&#xD;
+               -  The &quot;as-needed&quot; (prn) use of any non-exclusionary medications is allowed;&#xD;
+                  however, such use must be discussed with a clinician prescriber and documented.&#xD;
+&#xD;
+          -  The use of butalbital in any form within 4 weeks of beginning the Preliminary&#xD;
+             Screening Period (P1) through the end of the participant's study involvement is&#xD;
+             exclusionary.&#xD;
+&#xD;
+          -  Participants who have been taking trazodone will undergo a 2-week washout period&#xD;
+             before the Preliminary Screening Period (P1 visit). Combining prazosin and trazodone&#xD;
+             may increase the risk of priapism. We have decided to begin the washout period before&#xD;
+             the Preliminary Screening Period in order to remove any confounding variables while on&#xD;
+             the headache log and actigraphy.&#xD;
+&#xD;
+          -  Sildenafil (Viagra), tadalafil (Cialis), vardenafil (Levitra), and avanafil (Stendra)&#xD;
+             will not be permitted during the study drug dose Titration Period, because of&#xD;
+             increased risk of hypotension in combination with alpha-1 blockers, but will be&#xD;
+             allowed at half the usual starting dose following the study drug dose Titration&#xD;
+             Period, per VA prescribing guidelines.&#xD;
+&#xD;
+          -  Use of supplements containing nitrates and supplements containing stimulants (such as&#xD;
+             ephedra) are exclusionary in the two weeks prior to initial screen (P1) visit and&#xD;
+             prohibited throughout the study. Participants who take these supplements will be asked&#xD;
+             to discontinue them for a minimum of two weeks before the Preliminary Screening Period&#xD;
+             (P1 visit).&#xD;
+&#xD;
+          -  Use of prescribed stimulants (such as amphetamine or dextroamphetamine containing&#xD;
+             medications) is exclusionary in the 2 weeks prior to the initial screen (P1) visit and&#xD;
+             prohibited throughout the study. Participants who take these medications will be asked&#xD;
+             to discontinue them for a minimum of 2 weeks before the Preliminary Screening Period.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Murray A Raskind, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Puget Sound Health Care System</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Conner Engle</last_name>
+    <phone>206-277-3491</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Laura Crews, RN, BSN</last_name>
+    <phone>253-968-3161</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>VA Puget Sound Health Care System</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Conner Engle</last_name>
+      <phone>206-277-3491</phone>
+    </contact>
+    <investigator>
+      <last_name>Murray A Raskind, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Cynthia Mayer, DO</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Elaine R Peskind, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Madigan Army Medical Center</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura Crews, RN, BSN</last_name>
+      <phone>253-968-3161</phone>
+    </contact>
+    <investigator>
+      <last_name>Paul Savage, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>November 14, 2016</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 16, 2016</study_first_posted>
+  <last_update_submitted>April 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Chronic Headache</keyword>
+  <keyword>Post-Traumatic Stress Disorder</keyword>
+  <keyword>Iraq/Afghanistan Veteran</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Post-Traumatic Headache</mesh_term>
+    <mesh_term>Headache</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prazosin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
