@@ -19,7 +19,7 @@ stemmer = PorterStemmer()
 
 #fuction to find trial and load it
 def find_trial(trial_id):
-    PATH_TO_TRIALS = 'trials_query2'
+    PATH_TO_TRIALS = 'trials_query3'
     for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
         if file[:-4] == trial_id:
             with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
@@ -80,11 +80,11 @@ if __name__ == "__main__":
     # Extract queries
     extracted_queries = extract_queries("topics.xml")
 
-    with open("files_query2\\IC_tfidf_index.json", 'r') as file:
+    with open("files_query3\\IC_tfidf_index_SciSpacy_eis.json", 'r') as file:
         i_index = json.load(file)
-    with open("files_query2\\EC_tfidf_index.json", 'r') as file:
+    with open("files_query3\\EC_tfidf_index_SciSpacy_eis.json", 'r') as file:
         e_index = json.load(file)
-    with open("files_query2\\TSM_tfidf_index.json", 'r') as file:
+    with open("files_query3\\TSM_tfidf_index_SciSpacy_eis.json", 'r') as file:
         d_index = json.load(file)
     
     for i,query in enumerate(extracted_queries):
@@ -102,19 +102,19 @@ if __name__ == "__main__":
 
         # Combine scores with weights
         total_scores = combine_scores(i_scores, e_scores, d_scores, 0.33, 0.44, 0.23)
-        # sorted_scores = sorted(total_scores.items(), key=lambda x: x[1], reverse=True)
+        sorted_scores = sorted(total_scores.items(), key=lambda x: x[1], reverse=True)
         
-        '''to filter trials based on age and gender'''
+        '''to filter trials based on age and gender
         final_scores = defaultdict(float)
         for trial_xml,trial_score in total_scores.items():
             # Check if the trial is eligible for the topic
             if not is_eligible_for_trial(query, find_trial(trial_xml)):
                 # print(f"Trial {trial_id} is not eligible for topic {topic_id}")
-                continue
+                trial_score-=0.005 #penalty
             final_scores[trial_xml] = trial_score
 
         sorted_scores = sorted(final_scores.items(), key=lambda x: x[1], reverse=True)
-        
+        '''
         # Print combined scores for each document
         for doc, score in sorted_scores[:10]:
             print(f"Document: {doc}, Score: {score}")
@@ -130,7 +130,7 @@ if __name__ == "__main__":
         document_ids = [doc for doc, _ in sorted_scores[:10]]
 
         # Create an array of relevance scores for the retrieved documents
-        relevance_array = [relevance_scores.get(f"2_{doc_id}", 0) for doc_id in document_ids]
+        relevance_array = [relevance_scores.get(f"3_{doc_id}", 0) for doc_id in document_ids]
 
         # compute ndcg
         print(relevance_array)
