@@ -1,0 +1,182 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04811495</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19/03/2021</org_study_id>
+    <nct_id>NCT04811495</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of a Physiotherapy Treatment for Temporomandibular Hyperlaxity</brief_title>
+  <official_title>Effectiveness of a Physiotherapy Treatment for Temporomandibular Hyperlaxity: a Case Report.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Católica de Ávila</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad Católica de Ávila</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A 14-day physiotherapy treatment for temporomandibular joint hyperlaxity is established.&#xD;
+      Pre-intervention measurements and intermediate and end-of-treatment measurements are taken.&#xD;
+      Range of movement, algometry and muscle balance are assessed.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 5, 2021</start_date>
+  <completion_date type="Actual">March 19, 2021</completion_date>
+  <primary_completion_date type="Actual">March 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Range motion</measure>
+    <time_frame>14 days</time_frame>
+    <description>The range of movement in the temporomandibular joint is assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>VAS</measure>
+    <time_frame>14 days</time_frame>
+    <description>Pain in the temporomandibular artiuclation measured with an algometer and VAS is assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Strength</measure>
+    <time_frame>14 days</time_frame>
+    <description>The strength of the temporomandibular joint musculature measured with an algometer is assessed.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">1</enrollment>
+  <condition>Disorders, Temporomandibular Joint</condition>
+  <condition>Range of Motion, Articular</condition>
+  <arm_group>
+    <arm_group_label>patient with temporomandibular joint disorders</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physiotherapy treatment</intervention_name>
+    <description>A treatment plan is carried out which aims to improve pain, muscle balance and range of motion of the temporomandibular joint.</description>
+    <arm_group_label>patient with temporomandibular joint disorders</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Woman with temporomandicular joint pain for six months and diagnosed with hyperlaxity&#xD;
+             in the joint.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Men&#xD;
+&#xD;
+          -  No temporomandibular joint pain or hyperlaxity&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Universidad Católica de Ávila</name>
+      <address>
+        <city>Ávila</city>
+        <zip>05005</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <results_reference>
+    <citation>Buvinic S, Balanta-Melo J, Kupczik K, Vásquez W, Beato C, Toro-Ibacache V. Muscle-Bone Crosstalk in the Masticatory System: From Biomechanical to Molecular Interactions. Front Endocrinol (Lausanne). 2021 Mar 1;11:606947. doi: 10.3389/fendo.2020.606947. eCollection 2020. Review.</citation>
+    <PMID>33732211</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Al-Jewair T, Shibeika D, Ohrbach R. Temporomandibular Disorders and Their Association with Sleep Disorders in Adults: A Systematic Review. J Oral Facial Pain Headache. 2021 Winter;35(1):41-53. doi: 10.11607/ofph.2780.</citation>
+    <PMID>33730126</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kaya DI, Ataoglu H. Botulinum toxin treatment of temporomandibular joint pain in patients with bruxism: A prospective and randomized clinical study. Niger J Clin Pract. 2021 Mar;24(3):412-417. doi: 10.4103/njcp.njcp_251_20.</citation>
+    <PMID>33723117</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ângelo DF, Moreira A, Sanz D, São João R. Hearing changes after temporomandibular joint arthroscopy: a prospective study. Int J Oral Maxillofac Surg. 2021 Mar 11. pii: S0901-5027(21)00054-0. doi: 10.1016/j.ijom.2021.02.013. [Epub ahead of print]</citation>
+    <PMID>33714614</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cândido Dos Reis A, Theodoro de Oliveira T, Vidal CL, Borsatto MC, Lima da Costa Valente M. Effect of Auricular Acupuncture on the Reduction of Symptoms Related to Sleep Disorders, Anxiety and Temporomandibular Disorder (TMD). Altern Ther Health Med. 2021 Mar;27(2):22-26.</citation>
+    <PMID>33711819</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Asquini G, Rushton A, Pitance L, Heneghan N, Falla D. The effectiveness of manual therapy applied to craniomandibular structures in the treatment of temporomandibular disorders: protocol for a systematic review. Syst Rev. 2021 Mar 8;10(1):70. doi: 10.1186/s13643-021-01623-7.</citation>
+    <PMID>33685496</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Memmedova F, Emre U, Yalın OÖ, Doğan OC. Evaluation of temporomandibular joint disorder in headache patients. Neurol Sci. 2021 Feb 18. doi: 10.1007/s10072-021-05119-z. [Epub ahead of print]</citation>
+    <PMID>33604763</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Castien RF, Scholten-Peeters GG. Letter to the Editor concerning 'Effects of physical therapy for temporomandibular disorders on headache pain intensity: A systematic review' by van der Meer et al. Musculoskelet Sci Pract. 2021 Feb 15:102324. doi: 10.1016/j.msksp.2021.102324. [Epub ahead of print]</citation>
+    <PMID>33602632</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wu M, Cai J, Yu Y, Hu S, Wang Y, Wu M. Therapeutic Agents for the Treatment of Temporomandibular Joint Disorders: Progress and Perspective. Front Pharmacol. 2021 Jan 29;11:596099. doi: 10.3389/fphar.2020.596099. eCollection 2020. Review.</citation>
+    <PMID>33584275</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Oliveira Peixoto K, da Silva Bezerra A, Albuquerque Melo R, Maria Bastos Machado de Resende C, De Almeida EO, Augusto Seabra Barbosa G. Short-term effect of scalp acupuncture on pain, sleep disorders and quality of life in patients with temporomandibular disorders: a randomized clinical trial. Pain Med. 2021 Feb 9. pii: pnab048. doi: 10.1093/pm/pnab048. [Epub ahead of print]</citation>
+    <PMID>33561277</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Onoda N, Mikami T, Saito N, Kobayashi T. Evaluation of oral health-related quality of life in patients with temporomandibular disorders. Cranio. 2021 Feb 8:1-8. doi: 10.1080/08869634.2021.1883378. [Epub ahead of print]</citation>
+    <PMID>33554774</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nahian A, ÜNAL M, Mathew Jr J. Osteopathic Manipulative Treatment: Facial Muscle Energy, Direct MFR, and BLT Procedure - for TMJ Dysfunction. 2021 Feb 7. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2021 Jan-. Available from http://www.ncbi.nlm.nih.gov/books/NBK564310/</citation>
+    <PMID>33231980</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 23, 2021</study_first_posted>
+  <last_update_submitted>March 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad Católica de Ávila</investigator_affiliation>
+    <investigator_full_name>JORGE VELAZQUEZ SAORNIL</investigator_full_name>
+    <investigator_title>Clinical Professor</investigator_title>
+  </responsible_party>
+  <keyword>range of motion, articular</keyword>
+  <keyword>disorders, temporomandibular joint</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Temporomandibular Joint Disorders</mesh_term>
+    <mesh_term>Temporomandibular Joint Dysfunction Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,835 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02706691</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB14-1447</org_study_id>
+    <secondary_id>NCI-2016-01121</secondary_id>
+    <nct_id>NCT02706691</nct_id>
+  </id_info>
+  <brief_title>BGJ398 in Treating Patients With FGFR Positive Recurrent Head and Neck Cancer</brief_title>
+  <official_title>Phase IIa Study of the Efficacy of Single Agent BGJ398 (Infigratinib) in FGFR1-3 Translocated, Mutated, or Amplified Squamous Cell Carcinoma of the Head and Neck</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Chicago</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase IIa trial studies how well the experimental drug, BGJ398 (infigratinib), works in&#xD;
+      treating patients with fibroblast growth factor receptor (FGFR) 1-3 translocated, mutated, or&#xD;
+      amplified head and neck cancer that has returned after a period of improvement. BGJ398 may&#xD;
+      stop the growth of tumor cells by blocking some of the enzymes needed for cell growth.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Study stopped due to poor enrollment.&#xD;
+  </why_stopped>
+  <start_date type="Actual">June 1, 2018</start_date>
+  <completion_date type="Actual">February 11, 2019</completion_date>
+  <primary_completion_date type="Actual">February 11, 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective Response Rate (Complete or Partial Response) Assessed by RECIST 1.1</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events and Serious Adverse Events Assessed by National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0</measure>
+    <time_frame>Through 30 days after end of study treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free Survival</measure>
+    <time_frame>Up to 5 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">1</enrollment>
+  <condition>FGFR Gene Amplification</condition>
+  <condition>FGFR1 Gene Amplification</condition>
+  <condition>FGFR2 Gene Amplification</condition>
+  <condition>FGFR2 Gene Mutation</condition>
+  <condition>FGFR3 Gene Mutation</condition>
+  <condition>Head and Neck Squamous Cell Carcinoma</condition>
+  <condition>Human Papillomavirus Infection</condition>
+  <condition>Recurrent Head and Neck Carcinoma</condition>
+  <condition>Recurrent Nasopharynx Carcinoma</condition>
+  <condition>Recurrent Oropharyngeal Squamous Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>BGJ398 (infigratinib) Dosing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive BGJ398 (125 mg) by mouth once daily on a three weeks on, one week off schedule. Courses repeat every 28 days until disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BGJ398</intervention_name>
+    <description>Given by mouth (oral)</description>
+    <arm_group_label>BGJ398 (infigratinib) Dosing</arm_group_label>
+    <other_name>infigratinib</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically documented diagnosis of squamous cell carcinoma of the head/neck&#xD;
+             including nasopharyngeal carcinomas (lymphepithelioma histology is ok if criteria 2 is&#xD;
+             met)&#xD;
+&#xD;
+               -  Patients must have progressed on prior platinum based therapy (or have become&#xD;
+                  intolerant) prior to enrollment on this study&#xD;
+&#xD;
+               -  Prior anti-PD-1 or other immunotherapy is acceptable&#xD;
+&#xD;
+          -  Known FGFR genetic alterations (specifically FGFR1-3 mutation, amplification, or&#xD;
+             translocation) via deoxyribonucleic acid (DNA) or ribonucleic acid (RNA) based assay.&#xD;
+&#xD;
+               -  The following genetic aberrations will be screened for:&#xD;
+&#xD;
+                    -  FGFR1 amplification, FGFR1 somatic mutations, FGFR1 translocations&#xD;
+&#xD;
+                    -  FGFR2 somatic mutations, FGFR2 translocations, FGFR2 amplification&#xD;
+&#xD;
+                    -  FGFR3 somatic mutations, FGFR3 translocations, FGFR3 amplification&#xD;
+&#xD;
+               -  Other genetic FGF/FGFR pathway aberrations may be acceptable should such genetic&#xD;
+                  changes be observed to emerge and require approval per the lead investigator for&#xD;
+                  enrollment.&#xD;
+&#xD;
+               -  The number of enrolled patients with each type of genetic aberration may be&#xD;
+                  limited at the discretion of the lead investigator.&#xD;
+&#xD;
+          -  Consent to undergo a fresh biopsy in case of benefit from therapy and subsequent&#xD;
+             progression&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 1&#xD;
+&#xD;
+          -  Patients must provide written informed consent prior to any screening procedures&#xD;
+&#xD;
+          -  Aged 18 years or older&#xD;
+&#xD;
+          -  Willing and able to comply with scheduled visits, treatment plan and laboratory tests&#xD;
+&#xD;
+          -  Patient is able to swallow and retain oral medication, unless approval per the&#xD;
+             manufacturer of other administration routes/methods is provided&#xD;
+&#xD;
+          -  Recovery from adverse events of previous systemic anti-cancer therapies to baseline or&#xD;
+             grade 1, except for:&#xD;
+&#xD;
+               -  Alopecia&#xD;
+&#xD;
+               -  Stable neuropathy of =&lt; grade 2 due to prior cancer therapy&#xD;
+&#xD;
+          -  HPV status in oropharyngeal carcinomas; while HPV status (e.g. via p16) does not have&#xD;
+             to be known prior to consenting, the HPV status (e.g. using p16 immunohistochemistry&#xD;
+             [IHC]) needs to be established prior to start of therapy&#xD;
+&#xD;
+          -  Presence of measurable disease by Response Evaluation Criteria in Solid Tumors&#xD;
+             (RECIST) 1.1&#xD;
+&#xD;
+          -  Availability of tumor tissue (e.g. formalin-fixed, paraffin-embedded [FFPE]) for&#xD;
+             genomic profile (typically 12 unstained FFPE 5-10 micron slides, minimum of 10)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of another primary malignancy except adequately treated in situ carcinoma of&#xD;
+             the cervix or non-melanoma carcinoma of the skin or any other curatively treated&#xD;
+             malignancy that has not been treated in the prior 3 months or expected to require&#xD;
+             treatment for recurrence during the course of the study&#xD;
+&#xD;
+          -  Patients with metastatic central nervous system (CNS) tumors are allowed provided that&#xD;
+             they are clinically stable for a period of 30 days prior to study entry and there is&#xD;
+             not a requirement for steroid (other than close to physiologic doses) or&#xD;
+             anti-convulsant therapy; patients with leptomeningeal involvement are excluded&#xD;
+&#xD;
+          -  Patients who received a prior selective FGFR inhibitor in the recurrent/metastatic&#xD;
+             disease setting; prior use of a multikinase inhibitor that includes anti-FGFR activity&#xD;
+             is acceptable after review by the lead investigator&#xD;
+&#xD;
+          -  History and/or current evidence of tissue calcification including, but not limited to,&#xD;
+             the soft tissue, kidneys, intestine, myocardium and lung with the exception of&#xD;
+             calcified lymph nodes and asymptomatic coronary calcification&#xD;
+&#xD;
+          -  Current evidence of corneal or retinal disorder/keratopathy including, but not limited&#xD;
+             to, bullous/band keratopathy, corneal abrasion, inflammation/ulceration,&#xD;
+             keratoconjuctivitis, confirmed by ophthalmologic examination&#xD;
+&#xD;
+          -  Impairment of gastrointestinal (GI) function or GI disease that may significantly&#xD;
+             alter the absorption of oral BGJ398 (e.g., ulcerative diseases, uncontrolled nausea,&#xD;
+             vomiting, diarrhea, malabsorption syndrome, small bowel resection)&#xD;
+&#xD;
+          -  History and/or current evidence of endocrine alterations of calcium/phosphate&#xD;
+             homeostasis, e.g., parathyroid disorders, history of parathyroidectomy, tumor lysis,&#xD;
+             tumoral calcinosis, etc unless approval from lead investigator/ collaborator is&#xD;
+             obtained&#xD;
+&#xD;
+          -  Treatment with any of the following anti-cancer therapies prior to the first dose of&#xD;
+             BGJ398 within the stated timeframes&#xD;
+&#xD;
+               -  Cyclical chemotherapy (intravenous) within a period of 2 weeks unless there are&#xD;
+                  ongoing side effects &gt; grade 2&#xD;
+&#xD;
+               -  Biological therapy (including small molecules, and/or) within a period of time&#xD;
+                  that is =&lt; 2 weeks prior to starting study drug unless there are ongoing side&#xD;
+                  effects &gt; grade 2&#xD;
+&#xD;
+               -  Any other investigational agents within a period =&lt; 2 weeks prior to starting&#xD;
+                  study drug unless there are ongoing side effects &gt; grade 2&#xD;
+&#xD;
+               -  Wide field radiotherapy (including radioisotopes) =&lt; 2 weeks prior to starting&#xD;
+                  study drug unless there are ongoing side effects &gt; grade 2&#xD;
+&#xD;
+          -  Patients who are currently receiving treatment with agents that are known strong&#xD;
+             inducers or inhibitors of cytochrome P450 family 3, subfamily A, polypeptide 4&#xD;
+             (CYP3A4) are prohibited&#xD;
+&#xD;
+          -  Enzyme inducing anti-epileptic drugs&#xD;
+&#xD;
+          -  Consumption of grapefruit, grapefruit juice, pomegranates, star fruits, Seville&#xD;
+             oranges or products within 7 days prior to first dose&#xD;
+&#xD;
+          -  Use of medications that are known to prolong the QT interval and/or are associated&#xD;
+             with a risk of torsades de pointes 7 days prior to first dose&#xD;
+&#xD;
+          -  Use of amiodarone within 90 days prior to first dose&#xD;
+&#xD;
+          -  Use of medications that increase serum levels of phosphorus and/or calcium&#xD;
+&#xD;
+          -  Current use of therapeutic doses of warfarin sodium or any other coumadin-derivative&#xD;
+             anticoagulants; heparin and/or low molecular weight heparins or other anticoagulants&#xD;
+             are allowed&#xD;
+&#xD;
+          -  Insufficient bone marrow function&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) &lt; 1,000/mm^3 [1.0 x 10^9/L]&#xD;
+&#xD;
+               -  Platelets &lt; 75,000/mm^3 [75 x 10^9/L]&#xD;
+&#xD;
+               -  Hemoglobin &lt; 10.0 g/dL&#xD;
+&#xD;
+          -  Insufficient hepatic and renal function&#xD;
+&#xD;
+               -  Total bilirubin &gt; 1.5 x upper limit of normal (ULN) (unless evidence of Gilbert's&#xD;
+                  disease)&#xD;
+&#xD;
+               -  Aspartate aminotransferase (AST)/serum glutamic oxaloacetic transaminase (SGOT)&#xD;
+                  and alanine aminotransferase (ALT)/serum glutamate pyruvate transaminase (SGPT) &gt;&#xD;
+                  2.5 x ULN&#xD;
+&#xD;
+               -  Serum creatinine &gt;= ULN and/or calculated or measured creatinine clearance &lt; 75%&#xD;
+                  lower limit of normal (LLN)&#xD;
+&#xD;
+          -  Calcium-phosphate homeostasis&#xD;
+&#xD;
+               -  Inorganic phosphorus outside of normal limits&#xD;
+&#xD;
+               -  Total and ionized serum calcium outside of normal limits&#xD;
+&#xD;
+          -  Clinically significant cardiac disease including any of the following:&#xD;
+&#xD;
+               -  Congestive heart failure requiring treatment (New York Heart Association [NYHA]&#xD;
+                  grade &gt;= 2)&#xD;
+&#xD;
+               -  Left ventricular ejection fraction (LVEF) &lt; 50% as determined by multigated&#xD;
+                  acquisition (MUGA) scan or electrocardiogram (ECHO), or uncontrolled hypertension&#xD;
+                  (refer to World Health Organization-International Society of Hypertension&#xD;
+                  [WHO-ISH] guidelines)&#xD;
+&#xD;
+               -  History or presence of clinically significant ventricular arrhythmias, atrial&#xD;
+                  fibrillation, resting bradycardia, or conduction abnormality&#xD;
+&#xD;
+               -  Unstable angina pectoris or acute myocardial infarction =&lt; 3 months prior to&#xD;
+                  starting study drug&#xD;
+&#xD;
+               -  Corrected QT Interval Fridericia (QTcF) &gt; 450 msec (both genders)&#xD;
+&#xD;
+               -  History of congenital long QT syndrome&#xD;
+&#xD;
+          -  Pregnant or nursing (lactating) women&#xD;
+&#xD;
+          -  Known positive serology for human immunodeficiency virus (HIV), active hepatitis B,&#xD;
+             and/or active hepatitis C infection&#xD;
+&#xD;
+          -  Study medication cannot be administered through gastric (G)-tube, unless additional&#xD;
+             information from the manufacturer becomes available in the future&#xD;
+&#xD;
+          -  Women of child-bearing potential, defined as all women physiologically capable of&#xD;
+             becoming pregnant, unless they are using highly effective methods of contraception&#xD;
+             during dosing and for 3 months following the discontinuation of study treatment must&#xD;
+             be used by both sexes (= female patients and their male partners)&#xD;
+&#xD;
+               -  Post-menopausal women are allowed to participate in this study; women are&#xD;
+                  considered post-menopausal and not of child bearing potential if they have had 12&#xD;
+                  months of natural (spontaneous) amenorrhea with an appropriate clinical profile&#xD;
+                  (e.g. age appropriate, history of vasomotor symptoms) or have had surgical&#xD;
+                  bilateral oophorectomy (with or without hysterectomy) or tubal ligation at least&#xD;
+                  six weeks ago; in the case of oophorectomy alone, only when the reproductive&#xD;
+                  status of the woman has been confirmed by follow up hormone level assessment is&#xD;
+                  she considered not of child bearing potential&#xD;
+&#xD;
+          -  Sexually active males unless they use a condom during intercourse while taking drug&#xD;
+             and for 3 months after the last dose of the study drug and should not father a child&#xD;
+             in this period; a condom is required to be used also by vasectomized men in order to&#xD;
+             prevent delivery of the drug via seminal fluid&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tanguy Seiwert</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Chicago Comprehensive Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2019</verification_date>
+  <study_first_submitted>March 1, 2016</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 11, 2016</study_first_posted>
+  <results_first_submitted>March 18, 2019</results_first_submitted>
+  <results_first_submitted_qc>March 18, 2019</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 10, 2019</results_first_posted>
+  <last_update_submitted>April 9, 2019</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 16, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Papillomavirus Infections</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Squamous Cell Carcinoma of Head and Neck</mesh_term>
+    <mesh_term>Nasopharyngeal Carcinoma</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 23, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/91/NCT02706691/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>BGJ398 (Infigratinib) Dosing</title>
+          <description>Patients receive BGJ398 (125 mg) by mouth once daily on a three weeks on, one week off schedule. Courses repeat every 28 days until disease progression or unacceptable toxicity.&#xD;
+BGJ398: Given by mouth (oral)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>BGJ398 (Infigratinib) Dosing</title>
+          <description>Patients receive BGJ398 (125 mg) by mouth once daily on a three weeks on, one week off schedule. Courses repeat every 28 days until disease progression or unacceptable toxicity.&#xD;
+BGJ398: Given by mouth (oral)</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="1"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Objective Response Rate (Complete or Partial Response) Assessed by RECIST 1.1</title>
+        <time_frame>Up to 5 years</time_frame>
+        <population>Study stopped after 1 patient enrolled. Endpoint could not be analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGJ398 (Infigratinib) Dosing</title>
+            <description>Patients receive BGJ398 (125 mg) by mouth once daily on a three weeks on, one week off schedule. Courses repeat every 28 days until disease progression or unacceptable toxicity.&#xD;
+BGJ398: Given by mouth (oral)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Objective Response Rate (Complete or Partial Response) Assessed by RECIST 1.1</title>
+          <population>Study stopped after 1 patient enrolled. Endpoint could not be analyzed.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Incidence of Adverse Events and Serious Adverse Events Assessed by National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0</title>
+        <time_frame>Through 30 days after end of study treatment</time_frame>
+        <population>Study stopped after 1 patient enrolled. Endpoint could not be analyzed.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGJ398 (Infigratinib) Dosing</title>
+            <description>Patients treated with study drug.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Incidence of Adverse Events and Serious Adverse Events Assessed by National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.0</title>
+          <population>Study stopped after 1 patient enrolled. Endpoint could not be analyzed.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival</title>
+        <time_frame>Up to 5 years</time_frame>
+        <population>BGJ398 (Infigratinib) Dosing</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGJ398 (Infigratinib) Dosing</title>
+            <description>Patients treated with study drug.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival</title>
+          <population>BGJ398 (Infigratinib) Dosing</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Progression-free Survival</title>
+        <time_frame>Up to 5 years</time_frame>
+        <population>BGJ398 (Infigratinib) Dosing</population>
+        <group_list>
+          <group group_id="O1">
+            <title>BGJ398 (Infigratinib) Dosing</title>
+            <description>Patients treated with study drug.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression-free Survival</title>
+          <population>BGJ398 (Infigratinib) Dosing</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events collected over entire treatment period (2 months)</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>BGJ398 (Infigratinib) Dosing</title>
+          <description>Patients receive BGJ398 (125 mg) by mouth once daily on a three weeks on, one week off schedule. Courses repeat every 28 days until disease progression or unacceptable toxicity.&#xD;
+BGJ398: Given by mouth (oral)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE (4.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Stroke</sub_title>
+                <description>Grade 4</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>CTCAE (4.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dry mouth</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+              <event>
+                <sub_title>Tarry Stool</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+              <event>
+                <sub_title>Lip Bleeding</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+              <event>
+                <sub_title>Mucositis oral</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+              <event>
+                <sub_title>Bilateral ankle soreness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Bruising</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Elevated inorganic phosphaste</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Tremor</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hand-foot Syndrome</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Study stopped enrollment due to poor accrual. Outcomes measures could not be analyzed due to lack of enrollment.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Technical Director</name_or_title>
+      <organization>University of Chicago Comprehensive Cancer Center</organization>
+      <phone>773-702-0819</phone>
+      <email>pccc_regulatory@bsd.uchicago.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

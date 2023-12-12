@@ -1,0 +1,250 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04504227</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ThickeningHRIM</org_study_id>
+    <secondary_id>K23DK127251</secondary_id>
+    <nct_id>NCT04504227</nct_id>
+  </id_info>
+  <brief_title>Effect of Thickened Feeds on Swallow Physiology in Children With Dysphagia</brief_title>
+  <official_title>Effect of Thickened Feeds on Swallow Physiology in Children With Dysphagia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will examine the effects of varying liquid viscosity on swallow physiology in&#xD;
+      infants with oropharyngeal dysphagia and brief resolved unexplained event (BRUE) and other&#xD;
+      children with dysphagia that would be at risk for symptoms of swallow dysfunction.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Infants with oropharyngeal dysphagia and in particular brief resolved unexplained events&#xD;
+      (BRUE) are a significant driver of pediatric health care expenditure since the mechanism for&#xD;
+      their swallow dysfunction is incompletely understood and therefore frequently goes&#xD;
+      unrecognized and untreated. We hypothesize that infants with oropharyngeal dysphagia and BRUE&#xD;
+      have measurable differences in swallowing physiology to explain their symptoms of cyanotic&#xD;
+      choking spells, that these differences can be quantified using pharyngeal high resolution&#xD;
+      impedance-manometry compared to videofluoroscopic swallow study results, and that this&#xD;
+      swallowing dysfunction can be safely corrected with a change of formula viscosity. Through&#xD;
+      this research project, we will systematically investigate the effects of thickened feedings&#xD;
+      on swallow function in infants with dysphagia and BRUE and perform detailed physiology&#xD;
+      studies on pharyngeal and esophageal motility as critical mediators of improved outcomes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>4-test consistency, randomized, crossover, single-blinded swallow physiology study comparing effects of different liquid viscosities on swallow coordination in infants and children</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Swallow risk indices for thin vs mildly thick vs slightly thick liquids</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>We will calculate swallow risk index (SRI) from impedance-manometry results to compare mean SRI with thin liquids and thickened liquids for subjects with aspiration compared to mean SRI for thin liquids and thickened liquids in subjects without aspiration.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Impedance-Manometry Swallow Physiology Metrics</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>We will measure swallow physiology metrics from impedance-manometry results, including post-swallow impedance ratio, to compare these parameters with thin liquids between subjects with and without aspiration and with varied liquid consistencies within subjects.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Dysphagia</condition>
+  <condition>Aspiration</condition>
+  <condition>Brief Resolved Unexplained Event (BRUE)</condition>
+  <condition>Apparent Life Threatening Event (ALTE)</condition>
+  <arm_group>
+    <arm_group_label>Thin liquid swallows</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Thin liquid swallows of formula or breastmilk or other liquid</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Slightly thick liquid swallows</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Slightly thick liquid swallows of formula thickened with rice cereal or breastmilk or other liquid thickened with Gelmix</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mildly thick liquid swallows</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mildly thick liquid swallows of formula thickened with rice cereal or breastmilk or other liquid thickened with Gelmix</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderately thick liquid swallows</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Moderately thick liquid swallows of formula thickened with rice cereal or breastmilk or other liquid thickened with Gelmix</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Thin liquid swallows</intervention_name>
+    <description>Thin liquid swallows of formula or breastmilk or other liquid</description>
+    <arm_group_label>Thin liquid swallows</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Slightly thickened liquid swallows</intervention_name>
+    <description>Slightly thick liquid swallows of formula thickened with rice cereal or breastmilk or other liquid thickened with Gelmix</description>
+    <arm_group_label>Slightly thick liquid swallows</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Mildly thickened liquid swallows</intervention_name>
+    <description>Mildly thick liquid swallows of formula thickened with rice cereal or breastmilk or other liquid thickened with Gelmix</description>
+    <arm_group_label>Mildly thick liquid swallows</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Moderately thickened liquid swallows</intervention_name>
+    <description>Moderately thick liquid swallows of formula thickened with rice cereal or breastmilk or other liquid thickened with Gelmix</description>
+    <arm_group_label>Moderately thick liquid swallows</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 0 to 21 years&#xD;
+&#xD;
+          -  Admitted to Boston Children's Hospital after experiencing first lifetime BRUE, or with&#xD;
+             dysphagia symptoms such that they would be at risk for BRUE or other symptoms of&#xD;
+             swallowing difficulty&#xD;
+&#xD;
+          -  Have had videofluoroscopic swallow study performed or might have future&#xD;
+             videofluoroscopic swallow study performed.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any pre-existing medical diagnoses that exclude brief resolved unexplained event&#xD;
+             diagnosis including seizure disorders and cyanotic congenital heart disease&#xD;
+&#xD;
+          -  Any nasal/pharyngeal/esophageal anomalies that might affect safe placement of the&#xD;
+             pharyngeal motility catheter&#xD;
+&#xD;
+          -  Children fed exclusively by enteral tube&#xD;
+&#xD;
+          -  Allergy to rice cereal or Gelmix thickener, which will be used to adjust liquid&#xD;
+             viscosity&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel R Duncan, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston Children's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rachel Rosen, MD, MPH</last_name>
+    <role>Study Director</role>
+    <affiliation>Boston Children's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sudarshan Jadcherla, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Nationwide Children's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Taher Omari, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Flinders University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Samuel Nurko, MD, MPH</last_name>
+    <role>Study Director</role>
+    <affiliation>Boston Children's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Daniel R Duncan, MD, MPH</last_name>
+    <phone>617-355-0897</phone>
+    <email>daniel.duncan@childrens.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel R Duncan, MD, MPH</last_name>
+      <phone>617-355-0897</phone>
+      <email>daniel.duncan@childrens.harvard.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Duncan DR, Amirault J, Mitchell PD, Larson K, Rosen RL. Oropharyngeal Dysphagia Is Strongly Correlated With Apparent Life-Threatening Events. J Pediatr Gastroenterol Nutr. 2017 Aug;65(2):168-172. doi: 10.1097/MPG.0000000000001439.</citation>
+    <PMID>27741062</PMID>
+  </reference>
+  <reference>
+    <citation>Duncan DR, Larson K, Rosen RL. Clinical Aspects of Thickeners for Pediatric Gastroesophageal Reflux and Oropharyngeal Dysphagia. Curr Gastroenterol Rep. 2019 May 16;21(7):30. doi: 10.1007/s11894-019-0697-2. Review.</citation>
+    <PMID>31098722</PMID>
+  </reference>
+  <reference>
+    <citation>Duncan DR, Growdon AS, Liu E, Larson K, Gonzalez M, Norris K, Rosen RL. The Impact of the American Academy of Pediatrics Brief Resolved Unexplained Event Guidelines on Gastrointestinal Testing and Prescribing Practices. J Pediatr. 2019 Aug;211:112-119.e4. doi: 10.1016/j.jpeds.2019.04.007. Epub 2019 May 15.</citation>
+    <PMID>31103259</PMID>
+  </reference>
+  <reference>
+    <citation>Rommel N, Selleslagh M, Hoffman I, Smet MH, Davidson G, Tack J, Omari TI. Objective assessment of swallow function in children with suspected aspiration using pharyngeal automated impedance manometry. J Pediatr Gastroenterol Nutr. 2014 Jun;58(6):789-94. doi: 10.1097/MPG.0000000000000337.</citation>
+    <PMID>24552674</PMID>
+  </reference>
+  <reference>
+    <citation>Omari TI, Dejaeger E, Van Beckevoort D, Goeleven A, De Cock P, Hoffman I, Smet MH, Davidson GP, Tack J, Rommel N. A novel method for the nonradiological assessment of ineffective swallowing. Am J Gastroenterol. 2011 Oct;106(10):1796-802. doi: 10.1038/ajg.2011.143. Epub 2011 May 10.</citation>
+    <PMID>21556039</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>August 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 7, 2020</study_first_posted>
+  <last_update_submitted>April 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Boston Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Daniel Duncan</investigator_full_name>
+    <investigator_title>Assistant Professor of Pediatrics</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deglutition Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

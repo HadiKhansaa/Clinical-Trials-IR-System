@@ -1,0 +1,440 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04764110</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO-FY2021-6</org_study_id>
+    <nct_id>NCT04764110</nct_id>
+  </id_info>
+  <brief_title>Short-term Impact of Cyplexinol® on Self-reported Joint Pain</brief_title>
+  <official_title>Short-term Impact of Cyplexinol® on Inflammatory Status and Related Measures in Men and Women With Self-reported Joint Pain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Memphis</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ZyCal Bioceuticals</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Memphis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, the impact of 900 mg Cyplexinol® taken daily on joint pain over a period of 15&#xD;
+      days in comparison with a placebo will be determined using a cross-over double blind design&#xD;
+      with a 13 day wash out period. In addition, we will measure cytokine production and related&#xD;
+      variables during the two hour after subjects ingest a single dosage of Cyplexinol® or placebo&#xD;
+      on days 1 and 15.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Chronic inflammation can induce joint pain, which is a common problem among adult men and&#xD;
+      women. ZyCal Bioceuticals is a manufacturer of natural ingredients and finished nutritional&#xD;
+      supplements to support bone and joint health in humans. The core ingredient in all ZyCal&#xD;
+      products is Cyplexinol® (a Bone Morphogenetic Protein [BMP] Complex). BMP complexes have been&#xD;
+      shown to activate mesenchymal stem cells to help the body regenerate osteoblasts and&#xD;
+      chondrocytes. BMPs were initially identified in the 1970's as osteogenic factors which&#xD;
+      stimulate activation, proliferation, and differentiation of osteoprogenitor cells by binding&#xD;
+      BMP receptors and subsequent signaling through the SMAD pathway. BMPs have also been shown to&#xD;
+      reduce inflammation and promote healthy inflammatory signaling in joints and other tissues.&#xD;
+&#xD;
+      Cyplexinol® is delivered in the dietary supplement called Ostinol™, which has been safely&#xD;
+      used in oral form by thousands of people since 2007 for bone and joint health. Currently&#xD;
+      Cyplexinol® is considered a dietary supplement ingredient and has been awarded GRAS&#xD;
+      (generally recognized as safe).&#xD;
+&#xD;
+      Studies have been conducted to evaluate the safety and efficacy of Cyplexinol® as a dietary&#xD;
+      supplement for joint health (Garian, 2012; Scaffidi, 2017). Dosages of 150mg Cyplexinol® have&#xD;
+      been compared to a placebo (negative control) alone or in combination with glucosamine&#xD;
+      /chondroitin in randomized controlled trials for 4 -12 weeks. Endpoints examined have&#xD;
+      included joint stiffness, inflammation, pain, and overall quality of life. However, to date,&#xD;
+      no short-term studies have been conducted using Cyplexinol®, nor have any acute studies&#xD;
+      evaluated the impact of this agent on immune function.&#xD;
+&#xD;
+      In this study, the impact of 900 mg Cyplexinol® taken daily on joint pain over a period of 15&#xD;
+      days in comparison with a placebo will be determined using a cross-over double blind design&#xD;
+      with a 13 day wash out period. In addition, we will measure cytokine production and related&#xD;
+      variables during the two hour post ingestion period after subjects ingest a single dosage of&#xD;
+      Cyplexinol® or placebo on days 1 and 15.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">February 22, 2021</start_date>
+  <completion_date type="Anticipated">May 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Double-blind, randomized, control</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Double-blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>TNF-alpha</measure>
+    <time_frame>baseline of day 1</time_frame>
+    <description>TNF-alpha measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TNF-alpha</measure>
+    <time_frame>baseline of day 15</time_frame>
+    <description>TNF-alpha measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TNF-alpha</measure>
+    <time_frame>60 min after treatment ingestion of day 1</time_frame>
+    <description>TNF-alpha measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TNF-alpha</measure>
+    <time_frame>60 min after treatment ingestion of day 15</time_frame>
+    <description>TNF-alpha measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TNF-alpha</measure>
+    <time_frame>120 min after treatment ingestion of day 1</time_frame>
+    <description>TNF-alpha measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TNF-alpha</measure>
+    <time_frame>120 min after treatment ingestion of day 15</time_frame>
+    <description>TNF-alpha measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-6</measure>
+    <time_frame>baseline of day 1</time_frame>
+    <description>IL-6 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-6</measure>
+    <time_frame>baseline of day 15</time_frame>
+    <description>IL-6 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-6</measure>
+    <time_frame>60 min after treatment ingestion of day 1</time_frame>
+    <description>IL-6 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-6</measure>
+    <time_frame>60 min after treatment ingestion of day 15</time_frame>
+    <description>IL-6 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-6</measure>
+    <time_frame>120 min after treatment ingestion of day 1</time_frame>
+    <description>IL-6 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-6</measure>
+    <time_frame>120 min after treatment ingestion of day 15</time_frame>
+    <description>IL-6 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-10</measure>
+    <time_frame>baseline of day 1</time_frame>
+    <description>IL-10 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-10</measure>
+    <time_frame>baseline of day 15</time_frame>
+    <description>IL-10 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-10</measure>
+    <time_frame>60 min after treatment ingestion of day 1</time_frame>
+    <description>IL-10 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-10</measure>
+    <time_frame>60 min after treatment ingestion of day 15</time_frame>
+    <description>IL-10 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-10</measure>
+    <time_frame>120 min after treatment ingestion of day 1</time_frame>
+    <description>IL-10 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-10</measure>
+    <time_frame>120 min after treatment ingestion of day 15</time_frame>
+    <description>IL-10 measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-1beta</measure>
+    <time_frame>baseline of day 1</time_frame>
+    <description>IL-1beta measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-1beta</measure>
+    <time_frame>baseline of day 15</time_frame>
+    <description>IL-1beta measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-1beta</measure>
+    <time_frame>60 min after treatment ingestion of day 1</time_frame>
+    <description>IL-1beta measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-1beta</measure>
+    <time_frame>60 min after treatment ingestion of day 15</time_frame>
+    <description>IL-1beta measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-1beta</measure>
+    <time_frame>120 min after treatment ingestion of day 1</time_frame>
+    <description>IL-1beta measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL-1beta</measure>
+    <time_frame>120 min after treatment ingestion of day 15</time_frame>
+    <description>IL-1beta measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>osteocalcin</measure>
+    <time_frame>baseline day 1</time_frame>
+    <description>osteocalcin measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>osteocalcin</measure>
+    <time_frame>baseline day 15</time_frame>
+    <description>osteocalcin measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>osteocalcin</measure>
+    <time_frame>60 min after treatment ingestion of day 1</time_frame>
+    <description>osteocalcin measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>osteocalcin</measure>
+    <time_frame>60 min after treatment ingestion of day 15</time_frame>
+    <description>osteocalcin measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>osteocalcin</measure>
+    <time_frame>120 min after treatment ingestion of day 1</time_frame>
+    <description>osteocalcin measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>osteocalcin</measure>
+    <time_frame>120 min after treatment ingestion of day 15</time_frame>
+    <description>osteocalcin measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>alkaline phosphatase</measure>
+    <time_frame>baseline day 1</time_frame>
+    <description>alkaline phosphatase measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>alkaline phosphatase</measure>
+    <time_frame>baseline day 15</time_frame>
+    <description>alkaline phosphatase measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>alkaline phosphatase</measure>
+    <time_frame>60 min after treatment ingestion of day 1</time_frame>
+    <description>alkaline phosphatase measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>alkaline phosphatase</measure>
+    <time_frame>60 min after treatment ingestion of day 15</time_frame>
+    <description>alkaline phosphatase measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>alkaline phosphatase</measure>
+    <time_frame>120 min after treatment ingestion of day 1</time_frame>
+    <description>alkaline phosphatase measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>alkaline phosphatase</measure>
+    <time_frame>120 min after treatment ingestion of day 15</time_frame>
+    <description>alkaline phosphatase measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone Morphogenetic Protein</measure>
+    <time_frame>baseline day 1</time_frame>
+    <description>Bone Morphogenetic Protein measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone Morphogenetic Protein</measure>
+    <time_frame>baseline day 15</time_frame>
+    <description>Bone Morphogenetic Protein measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone Morphogenetic Protein</measure>
+    <time_frame>60 min after treatment ingestion of day 1</time_frame>
+    <description>Bone Morphogenetic Protein measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone Morphogenetic Protein</measure>
+    <time_frame>60 min after treatment ingestion of day 15</time_frame>
+    <description>Bone Morphogenetic Protein measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone Morphogenetic Protein</measure>
+    <time_frame>120 min after treatment ingestion of day 1</time_frame>
+    <description>Bone Morphogenetic Protein measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Bone Morphogenetic Protein</measure>
+    <time_frame>120 min after treatment ingestion of day 15</time_frame>
+    <description>Bone Morphogenetic Protein measured in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Joint pain visual analog scale</measure>
+    <time_frame>Day 1 of treatment</time_frame>
+    <description>A 100mm visual analog scale will be used to assess joint pain. Scores range from 0 (subject strongly disagreeing with prompt) to 100 (strongly agree).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Joint pain visual analog scale</measure>
+    <time_frame>Day 15 of treatment</time_frame>
+    <description>A 100mm visual analog scale will be used to assess joint pain. Scores range from 0 (subject strongly disagreeing with prompt) to 100 (strongly agree).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC)</measure>
+    <time_frame>Day 1 of treatment</time_frame>
+    <description>The WOMAC measures five items for pain (score range 0-20), two for stiffness (score range 0-8), and 17 for functional limitation (score range 0-68) with 0 being none and high values being most.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC)</measure>
+    <time_frame>Day 15 of treatment</time_frame>
+    <description>The WOMAC measures five items for pain (score range 0-20), two for stiffness (score range 0-8), and 17 for functional limitation (score range 0-68) with 0 being none and high values being most.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Dietary intake</measure>
+    <time_frame>Day 1 of treatment</time_frame>
+    <description>Dietary intake of subjects for 3-days prior to testing days analyzed using Food Processor Pro software for total calories, macro- and micro-nutrient composition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dietary intake</measure>
+    <time_frame>Day 15 of treatment</time_frame>
+    <description>Dietary intake of subjects for 3-days prior to testing days analyzed using Food Processor Pro software for total calories, macro- and micro-nutrient composition</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Joint Pain</condition>
+  <arm_group>
+    <arm_group_label>Cyplexinol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>900 mg daily (2 capsules) for 15 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 capsules daily for 15 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Cyplexinol</intervention_name>
+    <description>partially hydrolyzed Collagen and its associated proteins including Bone Morphogenetic Proteins (BMPs)</description>
+    <arm_group_label>Cyplexinol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Maltodextrin</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  body mass index (BMI) between 18-29.9 kg/m2 (not obese)&#xD;
+&#xD;
+          -  no consumption of alcohol-containing beverages within 48 hours of testing&#xD;
+&#xD;
+          -  experiencing self-reported joint pain with a minimum pain rating of 3/10 for at least&#xD;
+             the past 30 days&#xD;
+&#xD;
+          -  engaged in structured exercise 2 or more days per week for the past 6 months or longer&#xD;
+&#xD;
+          -  a negative verbal pre-study drug screen (alcohol abuse, amphetamines, benzodiazepines,&#xD;
+             cocaine, opioids, phencyclidine, barbiturates, cotinine), no history of use of illicit&#xD;
+             drugs or other substances of abuse within 12 months of the screening visit&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  pregnant&#xD;
+&#xD;
+          -  tobacco user&#xD;
+&#xD;
+          -  active infection or illness of any kind&#xD;
+&#xD;
+          -  rheumatic or osteoarthritic diagnosis&#xD;
+&#xD;
+          -  Using anti-inflammatory medicines, pain medications, or dietary supplements (or not&#xD;
+             willing to cease for one-month prior to participation and throughout study)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Bloomer, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Memphis</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jacquelyn Pence, PhD</last_name>
+    <phone>901-678-1547</phone>
+    <email>jpence1@memphis.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Center for Nutraceutical and Dietary Supplement Reseach</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38152</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jackie Pence, PhD</last_name>
+      <phone>901-678-1547</phone>
+      <email>jpence1@memphis.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2021</study_first_posted>
+  <last_update_submitted>February 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Memphis</investigator_affiliation>
+    <investigator_full_name>Richard Bloomer</investigator_full_name>
+    <investigator_title>Dean of the College of Health Sciences</investigator_title>
+  </responsible_party>
+  <keyword>Cyplexinol</keyword>
+  <keyword>Inflammation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arthralgia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

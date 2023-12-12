@@ -1,0 +1,286 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01614522</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ASLAN001-001</org_study_id>
+    <nct_id>NCT01614522</nct_id>
+  </id_info>
+  <brief_title>A Clinical Trial Evaluating the Effect of ASLAN001 in Patients With Recurrent/Metastatic Gastric Cancer Whose Tumors Are Either HER-2 Amplified or Co-expressing HER-1 and HER-2</brief_title>
+  <official_title>Phase II Open Label Study to Evaluate the Biological Activity of ASLAN001 (ARRY 334543) in Patients With Recurrent/Metastatic Gastric, Gastro-oesophageal Junction, and Oesophageal Carcinoma Whose Tumours Are Epidermal Growth Factor Receptor-2 (HER 2) Amplified or Co-expressing Epidermal Growth Factor Receptor-1 (HER-1) and HER-2.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aslan Pharmaceuticals</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Aslan Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether ASLAN001 has an effect in patients with&#xD;
+      recurrent or metastatic adenocarcinoma of the stomach, gastrooesophageal junction, or lower&#xD;
+      third of the oesophagus whose tumours over-express HER-1 and HER-2, or whose tumours are&#xD;
+      HER-2 gene-amplified.&#xD;
+&#xD;
+      Maximum of 26 patients will participate in South Korea and the patients will be assigned to&#xD;
+      either group A or group B according to the results of tests done on tumor tissue obtained by&#xD;
+      biopsy to determine HER-1 and HER-2 status.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      About 1 million new cases of gastric cancer were estimated to have occurred in 2008 (988,000&#xD;
+      cases, 7.8% of the total), making it currently the fourth most common malignancy in the&#xD;
+      world, behind cancers of the lung, breast, and colo-rectum. Gastric cancer is also the second&#xD;
+      leading cause of cancer-related death in both sexes worldwide with 700,000 deaths occurring&#xD;
+      annually. The incidence and mortality rates for gastric cancer vary widely in different&#xD;
+      regions of the world. The incidence has dramatically declined in the United States where it&#xD;
+      ranks seventh as a cause of cancer- related deaths. In the Asia-Pacific region, the highest&#xD;
+      incidences of gastric cancer can be found in China, Japan, and Korea, where the age&#xD;
+      standardized incidence rate (ASR) is greater than 20 per 100,000 populations. Intermediate&#xD;
+      risk countries (ASR 11-19/100,000 population) include Malaysia, Singapore, and Taiwan, while&#xD;
+      low-risk countries (ASR &lt; 10/100,000 population) include Australia, New Zealand, India, and&#xD;
+      Thailand.&#xD;
+&#xD;
+      Approximately 95% of all malignant gastric neoplasms are adenocarcinomas. One of the most&#xD;
+      striking epidemiologic observations has been the increasing incidence of adenocarcinomas&#xD;
+      involving the proximal stomach and distal oesophagus including the oesophagogastric junction.&#xD;
+      These tumours are thought to have different etiologic factors; gastric body and antral&#xD;
+      lesions are associated with low acid production and Helicobacter pylori infection, whereas&#xD;
+      cardiac lesions are not associated with either.&#xD;
+&#xD;
+      The treatment for advanced and un-resectable disease has remained essentially unchanged for&#xD;
+      the past 2 decades, with platinum and fluoro-pyridine-based combination chemotherapy being&#xD;
+      the mainstay of therapy. The molecular biology responsible for carcinogenesis, tumour&#xD;
+      biology, and response to therapy in gastric cancer are active areas of investigation.&#xD;
+      Amplification and/or over-expression of epidermal growth factor receptor-2 (HER 2) have been&#xD;
+      found to promote tumourigenesis and to be involved in the pathogenesis of gastric cancer.&#xD;
+      Recently, data from randomised studies of trastuzumab (Herceptin®) in patients with HER 2&#xD;
+      amplification demonstrated significant improvement in outcome in comparison to chemotherapy&#xD;
+      alone. Studies on a number other molecularly targeted agents used alone or in combination&#xD;
+      with chemotherapy have been undertaken, or are ongoing. Translational research, undertaken as&#xD;
+      part of these studies, demonstrates the great molecular heterogeneity of the disease, with&#xD;
+      multiple growth factor and survival pathways being implicated.&#xD;
+&#xD;
+      In view of this, successful therapeutic intervention is likely to require both the&#xD;
+      identification of molecularly defined subsets of disease, and the evaluation of&#xD;
+      rationally-selected combinations of targeted agents.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2012</start_date>
+  <completion_date type="Actual">March 2013</completion_date>
+  <primary_completion_date type="Actual">March 2013</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The percentage of patients demonstrating clear evidence of inhibition of receptor auto-phosphorylation in HER-2 amplified patients on Day 29.</measure>
+    <time_frame>Day 29</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The percentage of patients demonstrating clear evidence of inhibition of receptor auto-phosphorylation in HER-1 and HER-2 co-expressing patients on Day 29.</measure>
+    <time_frame>Day 29</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of patients showing inhibition of AKT phosphorylation on Day 29.</measure>
+    <time_frame>Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of patients showing inhibition of MAPK phosphorylation on Day 29.</measure>
+    <time_frame>Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of patients showing inhibition of Ki67 on Day 29.</measure>
+    <time_frame>Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percentage of patients showing induction of apoptosis as measured by TUNEL on Day 29.</measure>
+    <time_frame>Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate</measure>
+    <time_frame>Day 57</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Stomach Neoplasms</condition>
+  <condition>Cancer of Stomach</condition>
+  <condition>Cancer of the Stomach</condition>
+  <condition>Gastric Cancer</condition>
+  <condition>Gastric Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>HER-2 Amplified</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HER-1 &amp; HER-2 Co-expression</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ASLAN001</intervention_name>
+    <description>ASLAN001 500mg BID</description>
+    <arm_group_label>HER-1 &amp; HER-2 Co-expression</arm_group_label>
+    <arm_group_label>HER-2 Amplified</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female patients 21 years of age or older at the time written informed consent&#xD;
+             is obtained.&#xD;
+&#xD;
+          -  Patients with histologically confirmed adenocarcinoma of the stomach,&#xD;
+             gastro-oesophageal junction or distal oesophagus with inoperable locally-advanced&#xD;
+             metastatic disease.&#xD;
+&#xD;
+          -  Patients with tumours with immunohistochemical evidence of expression of HER-1 (at&#xD;
+             level of + or ++ or +++) and HER-2 (at level of + or ++ or +++) using standard&#xD;
+             criteria OR tumours with gene-amplification of HER-2 by standard FISH.&#xD;
+&#xD;
+          -  Patient has received 1 or more prior chemotherapy for the treatment of adenocarcinoma&#xD;
+             of the stomach, gastro-oesophageal junction or distal oesophagus with metastatic&#xD;
+             disease.&#xD;
+&#xD;
+          -  Patients with prior partial gastrectomy if they can take oral medications, and can&#xD;
+             undergo gastroendoscopic biopsies and meet all other inclusion/exclusion criteria.&#xD;
+&#xD;
+          -  Patients with measurable and non-measurable disease per modified RECIST guidelines.&#xD;
+             All scans and x-rays used to document measurable or non-measurable disease must be&#xD;
+             done within a 28-day period prior to enrollment.&#xD;
+&#xD;
+          -  Patient with Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1&#xD;
+             (within 14 days prior to enrolment).&#xD;
+&#xD;
+          -  Patient with adequate organ and haematological function as evidenced by the following&#xD;
+             laboratory studies within 14 days prior to enrollment:&#xD;
+&#xD;
+          -  Haematological function, as follows:&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) ≥ 1.5 x 109/L&#xD;
+&#xD;
+          -  Platelet count ≥ 75 x 109/L&#xD;
+&#xD;
+          -  Haemoglobin ≥ 9 g/dL&#xD;
+&#xD;
+          -  Coagulation functions, as follows:&#xD;
+&#xD;
+          -  Partial thromboplastin time (PTT) or activated partial thromboplastin time (aPTT) ≤&#xD;
+             1.5 x upper limits of normal (ULN) per institutional laboratory normal range&#xD;
+&#xD;
+          -  International normalized ratio (INR) ≤ 1.5&#xD;
+&#xD;
+          -  Renal functions, as follows:&#xD;
+&#xD;
+          -  Serum creatinine ≤ 1.5 x ULN&#xD;
+&#xD;
+          -  Urea ≤ 1.5 x ULN&#xD;
+&#xD;
+          -  Hepatic function, as follows:&#xD;
+&#xD;
+          -  Total bilirubin ≤ 1.5 x ULN&#xD;
+&#xD;
+          -  Serum glutamic oxaloacetic transaminase (SGOT)/aspartate transaminase (AST) and serum&#xD;
+             glutamic pyruvic transaminase (SGPT)/ alanine transaminase (ALT) ≤ 2.5 x ULN (≤ 5 x&#xD;
+             ULN if liver metastases are present)*.&#xD;
+&#xD;
+               -  Except where due to direct disease involvement of the liver at the discretion of&#xD;
+                  the investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients unable to swallow oral medications&#xD;
+&#xD;
+          -  Patients with persistent gastric outlet obstruction, complete dysphagia or feeding&#xD;
+             jejunostomy.&#xD;
+&#xD;
+          -  Patients who underwent radiotherapy to the gastric remnant ≤ 14 days prior to&#xD;
+             enrolment. Patients must have recovered from all radiotherapy-related toxicities.&#xD;
+&#xD;
+          -  Patients with total gastrectomy.&#xD;
+&#xD;
+          -  Patients who have uncontrolled, clinically significant symptomatic cardiovascular&#xD;
+             diseases within 6 months prior to enrolment, including myocardial infarction, unstable&#xD;
+             angina, grade 2 or greater peripheral vascular disease, cerebrovascular accident,&#xD;
+             transient ischemic attack, congestive heart failure or arrhythmias not controlled by&#xD;
+             outpatient medication.&#xD;
+&#xD;
+          -  Patients with ongoing or clinically significant active infection as judged by the&#xD;
+             Investigator.&#xD;
+&#xD;
+          -  Pregnant (i.e., positive beta-human chorionic gonadotropin test) or is breast-feeding&#xD;
+             women.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Seock-Ah Im, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seoul National University Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Bundang</city>
+        <state>Seoul</state>
+        <zip>463-707</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>110-744</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2015</verification_date>
+  <study_first_submitted>May 22, 2012</study_first_submitted>
+  <study_first_submitted_qc>June 6, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 8, 2012</study_first_posted>
+  <last_update_submitted>January 13, 2015</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">January 14, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Metastatic gastro-oesophageal carcinoma</keyword>
+  <keyword>Recurrent gastro-oesophageal carcinoma</keyword>
+  <keyword>Gastric cancer</keyword>
+  <keyword>HER-1</keyword>
+  <keyword>HER-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

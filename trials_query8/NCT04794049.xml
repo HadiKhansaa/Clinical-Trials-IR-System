@@ -1,0 +1,174 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04794049</url>
+  </required_header>
+  <id_info>
+    <org_study_id>074-1</org_study_id>
+    <nct_id>NCT04794049</nct_id>
+  </id_info>
+  <brief_title>Comparison of Oral Lactulose Versus Polyethylene Glycol for Bowel Preparation</brief_title>
+  <official_title>Oral Lactulose is Not Inferior to The Standard Bowel Preparation Regimen for Bowel Preparation Prior Colonoscopy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>First People's Hospital of Hangzhou</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>First People's Hospital of Hangzhou</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Adequate quality of bowel preparation(BP) is essential for colonoscopy. Several guidelines&#xD;
+      recommend that split-dose of 4L PEG should be used as a standard regime for BP. However, the&#xD;
+      high-volume PEG caused lower compliance to the regime and increased cost.&#xD;
+&#xD;
+      Oral lactulose is a treatment for constipation. It tastes sweet and has no obvious&#xD;
+      gastrointestinal side effects. Previous study shows 200ml lactulose oral solution plus 2L&#xD;
+      water has been proven superior BP compared to 2L PEG. However, there is a lack of research&#xD;
+      describing bowel cleansing and colonoscopy outcomes using lactulose oral solution compared&#xD;
+      with the standard split dose of 4L PEG. Here we compared the use of a lactulose oral solution&#xD;
+      (300ml+1.5 L) with a PEG formulation (2 L) for colonoscopy preparation using the following&#xD;
+      metrics: quality of cleansing, colonoscopy outcomes, patient/physician satisfaction, and&#xD;
+      patient tolerability.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Bowel preparation</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Boston bowel preparation score (BBPS)：cleanliness of each part of the colon: 0=unprepared colon segment with mucosa not seen because of solid stool that cannot be cleared; 1=portion of mucosa of the colon segment seen, but other areas of the colon segment not well seen because of staining, residual stool, and/or opaque liquid; 2=minor amount of residual staining, small fragments of stool and/or opaque liquid, but mucosa of colon segment seen well; 3=entire mucosa of colon segment seen well with no residual staining, small fragments of stool, or opaque liquid.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>2 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Willingness to repeat bowel preparation (BP)</measure>
+    <time_frame>2 hours</time_frame>
+    <description>We will ask patients in the form of questionnaire whether they are willing to repeat the same bowel preparation method if they need colonoscopy examination again.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adenoma detection rate</measure>
+    <time_frame>2 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insertion time</measure>
+    <time_frame>2 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Withdrawal time</measure>
+    <time_frame>2 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cecal intubation rate</measure>
+    <time_frame>2 hours</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Colon Disease</condition>
+  <arm_group>
+    <arm_group_label>Experiment cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>4-6 hours before colonoscopy, patients in experiment cohort began to drink the first 150ml lactulose and half hour later, drink other 150ml lactulose dissolved in 1.5 L of water at a rate of 250ml every 15 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control cohort</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The participants in control cohort began to drink the first 2 L of PEG at 7:00-9 PM on the day before colonoscopy at a rate of 250 mL every 15 minutes. On the day of the procedure, patients took the remaining 2 L 4-6 hours before colonoscopy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lactulose</intervention_name>
+    <description>In experiment cohort, patients do not use standard bowel preparation regimen, they totally drink 300ml lactulose.</description>
+    <arm_group_label>Experiment cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Polyethylene Glycol (PEG)</intervention_name>
+    <description>In control cohort, patients use the standard split-dose bowel preparation regimen,</description>
+    <arm_group_label>Control cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age 18-80 patients with intact colon and rectum&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  prior finding of severe colorectal stricture&#xD;
+&#xD;
+          -  without the requirement of reaching cecum&#xD;
+&#xD;
+          -  suspected colonic stricture or perforation&#xD;
+&#xD;
+          -  use of prokinetic agents or purgatives within 7 days&#xD;
+&#xD;
+          -  toxic colitis or megacolon&#xD;
+&#xD;
+          -  pregnant women&#xD;
+&#xD;
+          -  hemodynamically unstable&#xD;
+&#xD;
+          -  patients who cannot give informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hui Jia, MD</last_name>
+    <phone>86-0571-56006821</phone>
+    <email>JIAHUIFMMU@163.COM</email>
+  </overall_contact>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>January 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 11, 2021</study_first_posted>
+  <last_update_submitted>March 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>First People's Hospital of Hangzhou</investigator_affiliation>
+    <investigator_full_name>ZhangXiaofeng</investigator_full_name>
+    <investigator_title>Director of Department of Gastroenterology</investigator_title>
+  </responsible_party>
+  <keyword>colonoscopy</keyword>
+  <keyword>bowel preparation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colonic Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lactulose</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

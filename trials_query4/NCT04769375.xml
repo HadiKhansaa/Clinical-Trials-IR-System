@@ -1,0 +1,221 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04769375</url>
+  </required_header>
+  <id_info>
+    <org_study_id>31</org_study_id>
+    <nct_id>NCT04769375</nct_id>
+  </id_info>
+  <brief_title>Pelvic Girdle Pain in Pregnant Women</brief_title>
+  <official_title>Investigation of the Effect of Gestational Diabetes Mellitus on the Pelvic Girdle Pain and Symptom Severity in Pregnant Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sultan Abdulhamid Han Training and Research Hospital, Istanbul, Turkey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sultan Abdulhamid Han Training and Research Hospital, Istanbul, Turkey</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pelvic girdle pain and gestational diabetes mellitus are experienced in similar trimesters of&#xD;
+      pregnancy. The aim of this study is to examine the effect of gestational diabetes mellitus on&#xD;
+      the occurrence of pelvic girdle pain and the severity of symptoms of pelvic girdle pain in&#xD;
+      pregnant women.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Evaluation of pain</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measuring of the presence of pain and severity level of pain with body chart and vısual analog scale</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of test of pelvic girdle</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measuring of the presence of pain and severity level of pain with pelvic girdle provocation and palpation tests</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of pelvic girdle questionnaire</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measuring of the pelvic girdle questionnaire (PGQ) in pregnant women with pelvic girdle pain</description>
+  </primary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Gestational Diabetes</condition>
+  <condition>Pelvic Girdle Pain</condition>
+  <condition>Pregnant Woman</condition>
+  <arm_group>
+    <arm_group_label>Group 1: Pregnant women diagnosed with GDM (first pregnancy)</arm_group_label>
+    <description>This group will consist of women with gestational diabetes mellitus according to routine control tests in their first pregnancy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2:Pregnant women diagnosed with GDM (2nd or 3rd pregnancy)</arm_group_label>
+    <description>This group will consist of women with gestational diabetes mellitus according to routine control tests in their second or third pregnancy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: Healthy pregnant women (first pregnancy)</arm_group_label>
+    <description>This group will consist of women who do not have gestational diabetes mellitus according to routine control tests in their first pregnancy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4:Healthy pregnant women (2nd or 3rd pregnancy)</arm_group_label>
+    <description>This group will consist of women who do not have gestational diabetes mellitus according to routine control tests in their second or third pregnancy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Evaluation of pain</intervention_name>
+    <description>The presence of pain localization pelvic girdle pain will be questioned in the body chart. Inaddition to this, the level of the pelvic girdle pain will be evaluated by visual analog scale.</description>
+    <arm_group_label>Group 1: Pregnant women diagnosed with GDM (first pregnancy)</arm_group_label>
+    <arm_group_label>Group 2:Pregnant women diagnosed with GDM (2nd or 3rd pregnancy)</arm_group_label>
+    <arm_group_label>Group 3: Healthy pregnant women (first pregnancy)</arm_group_label>
+    <arm_group_label>Group 4:Healthy pregnant women (2nd or 3rd pregnancy)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Application of pelvic girdle pain tests</intervention_name>
+    <description>The tests will be applied sequentially to investigate the presence and severity of the pain (Tests: Posterior Pelvic Pain Provocation, Patriarch FABER, Long Dorsal Sacroiliac Ligament Pain Provocation, Simpsis Palpation, Modified Trendelenburg and Active Straight Leg Raise)</description>
+    <arm_group_label>Group 1: Pregnant women diagnosed with GDM (first pregnancy)</arm_group_label>
+    <arm_group_label>Group 2:Pregnant women diagnosed with GDM (2nd or 3rd pregnancy)</arm_group_label>
+    <arm_group_label>Group 3: Healthy pregnant women (first pregnancy)</arm_group_label>
+    <arm_group_label>Group 4:Healthy pregnant women (2nd or 3rd pregnancy)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Application of pelvic girdle questionnaire</intervention_name>
+    <description>Pelvic girdle questionnaire will be filled by pregnant women with pelvic girdle pain.</description>
+    <arm_group_label>Group 1: Pregnant women diagnosed with GDM (first pregnancy)</arm_group_label>
+    <arm_group_label>Group 2:Pregnant women diagnosed with GDM (2nd or 3rd pregnancy)</arm_group_label>
+    <arm_group_label>Group 3: Healthy pregnant women (first pregnancy)</arm_group_label>
+    <arm_group_label>Group 4:Healthy pregnant women (2nd or 3rd pregnancy)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Pegnant women with gestational diabetes mellitus (first pregnancy) Pegnant women with&#xD;
+        gestational diabetes mellitus (second or third pregnancy) Pegnant women without gestational&#xD;
+        diabetes mellitus (first pregnancy) Pegnant women without gestational diabetes mellitus&#xD;
+        (second or third pregnancy)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Pregnant women diagnosed with GDM in the 2nd and 3rd trimesters Pregnant women without GDM&#xD;
+        diagnosis in 2nd and 3rd trimester First pregnancy Second or third pregnancy 20-40 years&#xD;
+        old&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Diabetes mellitus before pregnancy The presence of an orthopedic or neurological problem&#xD;
+        that may cause musculoskeletal disorder and biomechanical sequence deviations from normal&#xD;
+        Pre-pregnancy chronic lumbar-pelvic pain description History of spine, pelvis or lower&#xD;
+        extremity surgery or fracture in the past 6 months&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>pregnant women</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Istanbul Saglık Bilimleri University</name>
+      <address>
+        <city>İstanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nilufer KABLAN, PHD</last_name>
+      <phone>05067638556</phone>
+      <email>niluferkablan@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Merve CAN, MsC</last_name>
+      <phone>05388397713</phone>
+      <email>mervecaann@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <results_reference>
+    <citation>Vleeming A, Albert HB, Ostgaard HC, Sturesson B, Stuge B. European guidelines for the diagnosis and treatment of pelvic girdle pain. Eur Spine J. 2008 Jun;17(6):794-819. doi: 10.1007/s00586-008-0602-4. Epub 2008 Feb 8. Review.</citation>
+    <PMID>18259783</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Eberhard-Gran M, Eskild A. Diabetes mellitus and pelvic girdle syndrome in pregnancy--is there an association? Acta Obstet Gynecol Scand. 2008;87(10):1015-9. doi: 10.1080/00016340802345944.</citation>
+    <PMID>18763174</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Eivazi M, Abadi L. Low back pain in diabetes mellitus and importance of preventive approach. Health Promot Perspect. 2012 Jul 1;2(1):80-8. doi: 10.5681/hpp.2012.010. eCollection 2012.</citation>
+    <PMID>24688921</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Plows JF, Stanley JL, Baker PN, Reynolds CM, Vickers MH. The Pathophysiology of Gestational Diabetes Mellitus. Int J Mol Sci. 2018 Oct 26;19(11). pii: E3342. doi: 10.3390/ijms19113342. Review.</citation>
+    <PMID>30373146</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wuytack F, O'Donovan M. Outcomes and outcomes measurements used in intervention studies of pelvic girdle pain and lumbopelvic pain: a systematic review. Chiropr Man Therap. 2019 Nov 5;27:62. doi: 10.1186/s12998-019-0279-2. eCollection 2019.</citation>
+    <PMID>31700607</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Stuge B, Garratt A, Krogstad Jenssen H, Grotle M. The pelvic girdle questionnaire: a condition-specific instrument for assessing activity limitations and symptoms in people with pelvic girdle pain. Phys Ther. 2011 Jul;91(7):1096-108. doi: 10.2522/ptj.20100357. Epub 2011 May 19.</citation>
+    <PMID>21596959</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Palsson TS, Beales D, Slater H, O'Sullivan P, Graven-Nielsen T. Pregnancy is characterized by widespread deep-tissue hypersensitivity independent of lumbopelvic pain intensity, a facilitated response to manual orthopedic tests, and poorer self-reported health. J Pain. 2015 Mar;16(3):270-82. doi: 10.1016/j.jpain.2014.12.002. Epub 2014 Dec 23.</citation>
+    <PMID>25540938</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Molsted S, Tribler J, Snorgaard O. Musculoskeletal pain in patients with type 2 diabetes. Diabetes Res Clin Pract. 2012 May;96(2):135-40. doi: 10.1016/j.diabres.2011.12.022. Epub 2012 Jan 12.</citation>
+    <PMID>22244365</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Martins RF, Pinto e Silva JL. Treatment of pregnancy-related lumbar and pelvic girdle pain by the yoga method: a randomized controlled study. J Altern Complement Med. 2014 Jan;20(1):24-31. doi: 10.1089/acm.2012.0715. Epub 2013 Mar 18.</citation>
+    <PMID>23506189</PMID>
+  </results_reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 24, 2021</study_first_posted>
+  <last_update_submitted>February 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>gestational diabetes mellitus, pregnancy pelvic girdle pain</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes, Gestational</mesh_term>
+    <mesh_term>Pelvic Girdle Pain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

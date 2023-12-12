@@ -1,0 +1,249 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03329027</url>
+  </required_header>
+  <id_info>
+    <org_study_id>300CLD</org_study_id>
+    <nct_id>NCT03329027</nct_id>
+  </id_info>
+  <brief_title>A Pilot Study to Assess the Efficacy and Safety of Various Vibrating Capsule Modes</brief_title>
+  <official_title>A Prospective, Multicenter, Randomized, Double-blind, Sham-controlled Pilot Study to Assess the Efficacy and Safety of Various Vibrating Capsule Modes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vibrant Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vibrant Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a prospective, adaptive, multicenter, randomized, double-blind, Sham-controlled&#xD;
+      pilot study, to evaluate the efficacy and safety of the Vibrant Capsule in relieving&#xD;
+      constipation in subjects with functional constipation.&#xD;
+&#xD;
+      Three arms will be assessed:&#xD;
+&#xD;
+        -  Vibrant Capsule with vibrating mode 1 administered 5 times per week&#xD;
+&#xD;
+        -  Vibrant Capsule with vibrating mode 2 administered 5 times per week&#xD;
+&#xD;
+        -  Sham Capsule administered 5 times per week&#xD;
+&#xD;
+      Subjects will be followed continuously for at least a 2 weeks run-in period and then be&#xD;
+      randomized to either Vibrant or Sham capsules for a treatment period of 8 weeks. The first 2&#xD;
+      weeks of treatment will be considered as a subjects' training period.&#xD;
+&#xD;
+      Data reporting will be done on an electronic Case Report Form and an eDiary. Subjects will be&#xD;
+      asked to refrain from taking any medication or supplement to relieve their constipation,&#xD;
+      during the entire study period.&#xD;
+&#xD;
+      After the run-in period, the subjects will return and eligibility will be re-assessed.&#xD;
+      Subjects will be trained on how to use the base unit and will swallow the first capsule on&#xD;
+      site the day of baseline visit. They will activate and ingest the rest of the capsules at&#xD;
+      home by themselves, using the base unit.&#xD;
+&#xD;
+      Subjects will be instructed to complete a simple subject eDiary each day throughout the&#xD;
+      duration of the study. A final visit will take place at the end of the 8 week treatment&#xD;
+      period.&#xD;
+&#xD;
+      Subjects will receive phone calls at least once a week and subject compliance will be&#xD;
+      monitored during the 8 weeks of the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 14, 2017</start_date>
+  <completion_date type="Actual">March 30, 2018</completion_date>
+  <primary_completion_date type="Actual">March 30, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Complete Spontaneous Bowel Movement 1 success rate, and Complete Spontaneous Bowel Movement 2 success rate</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Complete Spontaneous Bowel Movement 1 success rate is defined as an increase from the run-in period of at least one weekly Complete Spontaneous Bowel Movement during at least 6 of the 8 weeks of treatment, and Complete Spontaneous Bowel Movement 2 success rate is defined as an increase from the run-in period of at least two weekly Complete Spontaneous Bowel Movement during at least 6 of the 8 weeks of treatment.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">63</enrollment>
+  <condition>Constipation</condition>
+  <arm_group>
+    <arm_group_label>Vibrating Mode 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive vibrating capsule for 8 weeks of treatment (5 capsules/week)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vibrating Mode 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive vibrating capsule for 8 weeks of treatment (5 capsules/week)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Patients will receive sham capsule for 8 weeks of treatment (5 capsules/week)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Vibrating Capsule</intervention_name>
+    <description>Patients will receive vibrating capsule for 8 weeks of treatment (5 capsules/week)</description>
+    <arm_group_label>Vibrating Mode 1</arm_group_label>
+    <arm_group_label>Vibrating Mode 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham capsule</intervention_name>
+    <description>Patients will receive vibrating capsule for 8 weeks of treatment (5 capsules/week)</description>
+    <arm_group_label>Sham</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects aged 22 years and older&#xD;
+&#xD;
+          -  Subjects with Chronic Idiopathic Constipation according to Rome III criteria and who&#xD;
+             have not experienced relief of their symptoms from available therapies&#xD;
+&#xD;
+          -  Subjects with an average of &lt;3 Spontaneous Bowel Movements per week and ≥1 Spontaneous&#xD;
+             Bowel Movements per week&#xD;
+&#xD;
+          -  Normal colonoscopy performed within 10 years prior to study participation, unless the&#xD;
+             subjects are &lt;50 years old and without alarm signs and/or symptoms&#xD;
+&#xD;
+          -  Subject signed the Informed Consent Form&#xD;
+&#xD;
+          -  Female subjects must have a negative pregnancy test&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of complicated/obstructive diverticular disease&#xD;
+&#xD;
+          -  History of intestinal or colonic obstruction, or suspected intestinal obstruction.&#xD;
+&#xD;
+          -  History of significant gastrointestinal disorder, including any form of inflammatory&#xD;
+             bowel disease or gastrointestinal malignancy&#xD;
+&#xD;
+          -  History of gastroparesis&#xD;
+&#xD;
+          -  Use of any of the following medications:&#xD;
+&#xD;
+          -  Medications that may affect intestinal motility, prokinetics, anti-Parkinsonian&#xD;
+             medications, opiates, opioids, calcium-channel blockers, aluminum/magnesium hydroxide&#xD;
+&#xD;
+          -  With the exception of antidepressants, thyroid or hormonal replacement therapy, when&#xD;
+             the subject has been on a stable dose for at least 3 months prior to enrollment.&#xD;
+&#xD;
+          -  Clinical evidence of significant respiratory, cardiovascular, renal, hepatic, biliary,&#xD;
+             endocrine, psychiatric or neurologic disease.&#xD;
+&#xD;
+          -  Presence of cardiac pacemaker or gastric electrical stimulator.&#xD;
+&#xD;
+          -  History of, or current eating disorders, such as anorexia, bulimia, or compulsory&#xD;
+             overeating.&#xD;
+&#xD;
+          -  Diagnosis of mega-rectum or colon, congenital anorectal malformation, clinically&#xD;
+             significant rectocele, history of intestinal resection (with an exception for&#xD;
+             appendectomy, cholecystectomy and inguinal hernia repair), history of bariatric&#xD;
+             surgery or evidence of any structural abnormality of the gastrointestinal tract that&#xD;
+             might affect transit&#xD;
+&#xD;
+          -  History of Zenker's diverticulum, dysphagia, Barrett's esophagus, esophageal stricture&#xD;
+             or achalasia&#xD;
+&#xD;
+          -  Chronic use of non-steroidal anti-inflammatory drugs (NSAIDs)&#xD;
+&#xD;
+          -  Subjects with pelvic floor dysfunction/defecatory disorder&#xD;
+&#xD;
+          -  Participation in another clinical study within one month prior to screening.&#xD;
+&#xD;
+          -  Women who are pregnant or lactating&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Hope Clinical Research</name>
+      <address>
+        <city>Canoga Park</city>
+        <state>California</state>
+        <zip>91303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Albuquerque Neuroscience</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Medical Research</name>
+      <address>
+        <city>Willoughby</city>
+        <state>Ohio</state>
+        <zip>44094</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Health Research of Hampton Roads</name>
+      <address>
+        <city>Newport News</city>
+        <state>Virginia</state>
+        <zip>23606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2018</verification_date>
+  <study_first_submitted>October 29, 2017</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 1, 2017</study_first_posted>
+  <last_update_submitted>May 21, 2018</last_update_submitted>
+  <last_update_submitted_qc>May 21, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 22, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Constipation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,743 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03330457</url>
+  </required_header>
+  <id_info>
+    <org_study_id>15-507</org_study_id>
+    <nct_id>NCT03330457</nct_id>
+  </id_info>
+  <brief_title>A Healthy Volunteer PK/PD, Safety and Tolerability Study of Andexanet After Betrixaban Dosing</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-Controlled Study to Assess the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Intravenously Administered Andexanet After Dosing to Steady-State With Oral Betrixaban in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Portola Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Portola Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, double-blind, single center study in healthy volunteers dosed to steady&#xD;
+      state with betrixaban, designed to (1) Determine an andexanet dosing regimen required to&#xD;
+      reverse anticoagulant activity of betrixaban in healthy subjects, (2) Assess the safety and&#xD;
+      tolerability of andexanet vs. placebo (3) Determine the PK properties of andexanet and&#xD;
+      betrixaban (4) Determine the PD properties of betrixaban before, during, and after receiving&#xD;
+      andexanet or placebo and (5) Investigate the immunogenicity of andexanet in the presence of&#xD;
+      betrixaban.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Ended prematurely&#xD;
+  </why_stopped>
+  <start_date type="Actual">August 6, 2015</start_date>
+  <completion_date type="Actual">February 22, 2016</completion_date>
+  <primary_completion_date type="Actual">February 22, 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Double Blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Anti-Fxa Activity From Baseline to End of Bolus</measure>
+    <time_frame>Baseline to end of bolus, approximately 2.5 hours</time_frame>
+    <description>Change in Anti-Fxa Activity from baseline to end of bolus</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Thrombin Generation From Baseline to End of Bolus</measure>
+    <time_frame>Baseline to end of bolus, approximately 2.5 hours</time_frame>
+    <description>Change in Thrombin Generation from baseline to end of bolus</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">18</enrollment>
+  <condition>Bleeding</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 Bertrixaban/Andexanet</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Andexanet 800 mg, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 1 Bertrixaban/Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Placebo, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 Bertrixaban/Andexanet</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>andexanet 800 mg administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 Bertrixaban/Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Placebo administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Andexanet alfa (bolus)</intervention_name>
+    <description>fXa inhibitor antidote</description>
+    <arm_group_label>Cohort 1 Bertrixaban/Andexanet</arm_group_label>
+    <arm_group_label>Cohort 1 Bertrixaban/Placebo</arm_group_label>
+    <arm_group_label>Cohort 2 Bertrixaban/Andexanet</arm_group_label>
+    <arm_group_label>Cohort 2 Bertrixaban/Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Betrixaban 80 mg PO QD</intervention_name>
+    <description>fXa inhibitor</description>
+    <arm_group_label>Cohort 1 Bertrixaban/Andexanet</arm_group_label>
+    <arm_group_label>Cohort 1 Bertrixaban/Placebo</arm_group_label>
+    <arm_group_label>Cohort 2 Bertrixaban/Andexanet</arm_group_label>
+    <arm_group_label>Cohort 2 Bertrixaban/Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Andexanet alfa (infusion IV)</intervention_name>
+    <description>fXa inhibitor antidote</description>
+    <arm_group_label>Cohort 1 Bertrixaban/Placebo</arm_group_label>
+    <arm_group_label>Cohort 2 Bertrixaban/Andexanet</arm_group_label>
+    <arm_group_label>Cohort 2 Bertrixaban/Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. The subject is a healthy man or woman between the ages of 18 and 45 years old,&#xD;
+             inclusive, who agrees to comply with the contraception and reproduction restrictions&#xD;
+             of the study:&#xD;
+&#xD;
+             Men must be using two acceptable methods of contraception, at least one of which must&#xD;
+             be a barrier method (e.g., spermicidal gel plus condom) for the entire duration of the&#xD;
+             study and for at least three months following last study drug administration, and&#xD;
+             refrain from attempting to father a child or donating sperm in the three (3) months&#xD;
+             following the last study drug administration. Periodic abstinence (e.g., calendar,&#xD;
+             ovulation, symptothermal, post-ovulation methods) and withdrawal are not acceptable&#xD;
+             methods of contraception.&#xD;
+&#xD;
+             OR Men who report surgical sterilization (e.g., bilateral vasectomy) must have had the&#xD;
+             procedure at least six (6) months prior to initial dosing. Surgical sterilization&#xD;
+             procedures should be supported with clinical documentation and noted in the Relevant&#xD;
+             Medical History/Current Medical Conditions section of the Case report forms (CRFs).&#xD;
+&#xD;
+             Women of childbearing potential must be using two medically acceptable methods of&#xD;
+             contraception, at least one of which must be a barrier method, (e.g., intra-uterine&#xD;
+             device plus condom, spermicidal gel plus condom, diaphragm plus condom, etc.), from&#xD;
+             the time of screening and for the duration of the study, through at least three months&#xD;
+             following last study drug administration. NOTE: Oral contraceptive use is not&#xD;
+             permitted due to their increased risk of thromboembolism. Periodic abstinence (e.g.,&#xD;
+             calendar, ovulation, symptothermal, post-ovulation methods) and withdrawal are not&#xD;
+             acceptable methods of contraception.&#xD;
+&#xD;
+             OR Postmenopausal women must have had no regular menstrual bleeding for at least one&#xD;
+             (1) year prior to initial dosing. Menopause will be confirmed by an elevated plasma&#xD;
+             Follicle-stimulating hormone (FSH) level &gt; 40mIU/mL at screening for women not in&#xD;
+             receipt of hormone replacement therapy (HRT); OR Women who report surgical&#xD;
+             sterilization (i.e., hysterectomy and/or bilateral oophorectomy) must have had the&#xD;
+             procedure at least six (6) months prior to initial dosing. Surgical sterilization&#xD;
+             procedures should be supported with clinical documentation and noted in the Relevant&#xD;
+             Medical History/Current Medical Conditions section of the CRF.&#xD;
+&#xD;
+             AND All women must have a documented negative pregnancy test result at screening and&#xD;
+             at baseline.&#xD;
+&#xD;
+          2. The subject has clinically unremarkable medical history, physical examination, ECG,&#xD;
+             and vital signs, as determined by the Investigator. Laboratory values must also be&#xD;
+             clinically unremarkable as determined by the Investigator, with the exception of the&#xD;
+             following labs which must be strictly within the normal range:&#xD;
+&#xD;
+               1. Coagulation labs - PT, aPTT, ACT;&#xD;
+&#xD;
+               2. Hematology lab - Hematocrit/Hemoglobin;&#xD;
+&#xD;
+               3. Liver function labs - Aspartate aminotransferase (AST)/alanine aminotransferase&#xD;
+                  (ALT) (may be below lower limit of normal [LLN], but not above upper limit of&#xD;
+                  normal [ULN]).&#xD;
+&#xD;
+          3. The subject has a body mass index 19 to 30 kg/m2, inclusive, and weighs at least 60&#xD;
+             kg.&#xD;
+&#xD;
+          4. The subject agrees to abstain from alcohol consumption for 48 hours prior to dosing&#xD;
+             and for the duration of the in-house study period.&#xD;
+&#xD;
+          5. The subject smokes &lt;4 cigarettes/day (or equivalent: ≤0.5 can of chewing tobacco/week,&#xD;
+             1 cigar/day) and agrees to abstain from smoking while domiciled.&#xD;
+&#xD;
+          6. The subject is able to read and give written informed consent and has signed a consent&#xD;
+             form approved by the Investigator's Institutional Review Board (IRB) or Ethics&#xD;
+             Committee (EC).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. The subject has a known history (including family history) of, symptoms of, or risk&#xD;
+             factors for bleeding (e.g., prior gastrointestinal bleeding, known berry aneurysm/&#xD;
+             vascular malformation) or a stool specimen within 6 months of randomization that is&#xD;
+             positive for occult blood.&#xD;
+&#xD;
+          2. The subject has an absolute/relative contraindication to anticoagulation.&#xD;
+&#xD;
+          3. The subject has a history (including family history) of or risk factors for a&#xD;
+             hypercoagulable or thrombotic condition (e.g., deep vein thrombosis/pulmonary&#xD;
+             embolism, Factor V Leiden carrier).&#xD;
+&#xD;
+          4. The subject has a history of any clinically significant (as determined by the&#xD;
+             Investigator) cardiac, endocrinologic, hematologic, hepatic, immunologic, metabolic,&#xD;
+             urologic, pulmonary, neurologic, dermatologic, psychiatric, renal, or other major&#xD;
+             disease or condition which is known to make the subject susceptible to volume&#xD;
+             overload.&#xD;
+&#xD;
+          5. The subject has taken any prescription drugs (including oral contraceptives/HRT) or&#xD;
+             illicit drugs in the 30 days prior to randomization. The subject is also excluded if&#xD;
+             he/she has taken over the counter drugs, including dietary supplements and herbal&#xD;
+             products, in the 2 weeks prior to randomization. Furthermore, the subject agrees not&#xD;
+             to take any such drugs throughout the study (if it becomes medically necessary to do&#xD;
+             so, the Investigator and Portola Medical Monitor must be informed immediately).&#xD;
+&#xD;
+          6. The subject has a history of major surgery, severe trauma or bone fracture within 3&#xD;
+             months prior to dosing; or planned surgery within 1 month after dosing.&#xD;
+&#xD;
+          7. The subject has a history of blood donation of more than 500 mL within 3 months prior&#xD;
+             to dosing.&#xD;
+&#xD;
+          8. The subject has participated in an investigational drug study within 30 days or 5&#xD;
+             half-lives of the investigational compound, whichever is greater, of Day -1.&#xD;
+&#xD;
+          9. The subject has a positive screen for drugs of abuse at Day -1.&#xD;
+&#xD;
+         10. The subject has a medical or surgical condition which may impair drug absorption.&#xD;
+&#xD;
+         11. The subject is allergic to any of the vehicle ingredients: tris, arginine,&#xD;
+             hydrochloric acid, sucrose and polysorbate 80.&#xD;
+&#xD;
+         12. Subject is breastfeeding.&#xD;
+&#xD;
+         13. The subject has any condition which could interfere with or for which the treatment&#xD;
+             might interfere with the conduct of the study, or which would, in the opinion of the&#xD;
+             Investigator increase the risk of the subject's participation in the study. This would&#xD;
+             include, but is not limited to alcoholism, drug dependency or abuse, psychiatric&#xD;
+             disease, epilepsy or any unexplained blackouts.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>WCCT Global</name>
+      <address>
+        <city>Cypress</city>
+        <state>California</state>
+        <zip>90630</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>September 27, 2017</study_first_submitted>
+  <study_first_submitted_qc>October 30, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 6, 2017</study_first_posted>
+  <results_first_submitted>July 17, 2020</results_first_submitted>
+  <results_first_submitted_qc>August 7, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 19, 2020</results_first_posted>
+  <disposition_first_submitted>April 7, 2020</disposition_first_submitted>
+  <disposition_first_submitted_qc>April 7, 2020</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">April 13, 2020</disposition_first_posted>
+  <last_update_submitted>August 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Betrixaban</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>healthy subjects</recruitment_details>
+      <pre_assignment_details>18 subjects met the inclusion/exclusion criteria; 18 subjects were randomized to two cohorts (6 andexanet and 3 placebo each cohort)</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Cohort 1 Bertrixaban/Andexanet</title>
+          <description>Andexanet 800 mg, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+        </group>
+        <group group_id="P2">
+          <title>Cohort 1 Bertrixaban/Placebo</title>
+          <description>Placebo, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+        </group>
+        <group group_id="P3">
+          <title>Cohort 2 Bertrixaban/Andexanet</title>
+          <description>Andexanet 800 mg administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+        </group>
+        <group group_id="P4">
+          <title>Cohort 2 Bertrixaban/Placebo</title>
+          <description>Placebo administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="6"/>
+                <participants group_id="P4" count="3"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="6"/>
+                <participants group_id="P4" count="3"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>The safety population will consist of all subjects randomized and treated with at least one dose of study medication (andexanet, andexanet placebo, or betrixaban). All safety analyses will be performed by actual treatment received.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Cohort 1 Bertrixaban/Andexanet</title>
+          <description>Andexanet 800 mg, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+        </group>
+        <group group_id="B2">
+          <title>Cohort 1 Bertrixaban/Placebo</title>
+          <description>Placebo, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+        </group>
+        <group group_id="B3">
+          <title>Cohort 2 Bertrixaban/Andexanet</title>
+          <description>Andexanet 800 mg administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+        </group>
+        <group group_id="B4">
+          <title>Cohort 2 Bertrixaban/Placebo</title>
+          <description>Placebo administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="6"/>
+            <count group_id="B2" value="3"/>
+            <count group_id="B3" value="6"/>
+            <count group_id="B4" value="3"/>
+            <count group_id="B5" value="18"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="6"/>
+                    <count group_id="B2" value="3"/>
+                    <count group_id="B3" value="6"/>
+                    <count group_id="B4" value="3"/>
+                    <count group_id="B5" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38.3" spread="3.6"/>
+                    <measurement group_id="B2" value="37.3" spread="10.8"/>
+                    <measurement group_id="B3" value="30.0" spread="3.7"/>
+                    <measurement group_id="B4" value="36.3" spread="10.8"/>
+                    <measurement group_id="B5" value="35.1" spread="7.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="6"/>
+                    <count group_id="B2" value="3"/>
+                    <count group_id="B3" value="6"/>
+                    <count group_id="B4" value="3"/>
+                    <count group_id="B5" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39.5" lower_limit="33.0" upper_limit="42.0"/>
+                    <measurement group_id="B2" value="42.0" lower_limit="25.0" upper_limit="45.0"/>
+                    <measurement group_id="B3" value="31.0" lower_limit="25.0" upper_limit="34.0"/>
+                    <measurement group_id="B4" value="41.0" lower_limit="24.0" upper_limit="44.0"/>
+                    <measurement group_id="B5" value="34.5" lower_limit="24.0" upper_limit="45.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="6"/>
+                    <count group_id="B2" value="3"/>
+                    <count group_id="B3" value="6"/>
+                    <count group_id="B4" value="3"/>
+                    <count group_id="B5" value="18"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="0"/>
+                    <count group_id="B5" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Anti-Fxa Activity From Baseline to End of Bolus</title>
+        <description>Change in Anti-Fxa Activity from baseline to end of bolus</description>
+        <time_frame>Baseline to end of bolus, approximately 2.5 hours</time_frame>
+        <population>The PD analysis populations will consist of all subjects who have received the requisite treatments and have data at any required time points.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 1 Bertrixaban/Andexanet</title>
+            <description>Andexanet 800 mg, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 1 Bertrixaban/Placebo</title>
+            <description>Placebo, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+          </group>
+          <group group_id="O3">
+            <title>Cohort 2 Bertrixaban/Andexanet</title>
+            <description>Andexanet 800 mg administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+          </group>
+          <group group_id="O4">
+            <title>Cohort 2 Bertrixaban/Placebo</title>
+            <description>Placebo administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Anti-Fxa Activity From Baseline to End of Bolus</title>
+          <description>Change in Anti-Fxa Activity from baseline to end of bolus</description>
+          <population>The PD analysis populations will consist of all subjects who have received the requisite treatments and have data at any required time points.</population>
+          <units>ug/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-23.45" spread="7.453"/>
+                    <measurement group_id="O2" value="-1.67" spread="10.090"/>
+                    <measurement group_id="O3" value="-26.17" spread="16.661"/>
+                    <measurement group_id="O4" value="-2.17" spread="4.065"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Thrombin Generation From Baseline to End of Bolus</title>
+        <description>Change in Thrombin Generation from baseline to end of bolus</description>
+        <time_frame>Baseline to end of bolus, approximately 2.5 hours</time_frame>
+        <population>The PD analysis populations will consist of all subjects who have received the requisite treatments and have data at any required time points.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 1 Bertrixaban/Andexanet</title>
+            <description>Andexanet 800 mg, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 1 Bertrixaban/Placebo</title>
+            <description>Placebo, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+          </group>
+          <group group_id="O3">
+            <title>Cohort 2 Bertrixaban/Andexanet</title>
+            <description>Andexanet 800 mg administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+          </group>
+          <group group_id="O4">
+            <title>Cohort 2 Bertrixaban/Placebo</title>
+            <description>Placebo administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Thrombin Generation From Baseline to End of Bolus</title>
+          <description>Change in Thrombin Generation from baseline to end of bolus</description>
+          <population>The PD analysis populations will consist of all subjects who have received the requisite treatments and have data at any required time points.</population>
+          <units>RFU</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+                <count group_id="O2" value="3"/>
+                <count group_id="O3" value="6"/>
+                <count group_id="O4" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="129984.5" spread="39858.49"/>
+                    <measurement group_id="O2" value="28646.7" spread="43991.66"/>
+                    <measurement group_id="O3" value="116834.7" spread="49006.72"/>
+                    <measurement group_id="O4" value="15998.7" spread="18081.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Study day 1 to 48(+3)</time_frame>
+      <desc>AEs, both serious and non-serious, occurring between signing informed consent and through the Termination Visit will be recorded on the eCRFs. All AEs/SAEs should be monitored until they are resolved, are not expected to improve further, or are determined to be due to a stable or chronic condition or intercurrent illness. Any AE/SAE that occurs with an onset date &gt; 30 days after study completion and that the Investigator considers to be related to study medication, must be reported to Portola.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Cohort 1 Bertrixaban/Andexanet</title>
+          <description>Andexanet 800 mg, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+        </group>
+        <group group_id="E2">
+          <title>Cohort 1 Bertrixaban/Placebo</title>
+          <description>Placebo, administered as a slow IV bolus after having been dosed to steady-state with betrixaban 80 mg PO once daily (QD) for 7 days</description>
+        </group>
+        <group group_id="E3">
+          <title>Cohort 2 Bertrixaban/Andexanet</title>
+          <description>Andexanet 800 mg administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+        </group>
+        <group group_id="E4">
+          <title>Cohort 2 Bertrixaban/Placebo</title>
+          <description>Placebo administered as a slow IV bolus at a target rate of approximately 30 mg/min followed by a continuous infusion of up to 8 mg/min for 120 min (960 mg) starting 4 h after the last dose of betrixaban</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 21.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Toothache</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vessel Puncture Site Haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Infusion Related Reaction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="6"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There IS an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Head of Clinical Development</name_or_title>
+      <organization>Portola Pharmaceuticals</organization>
+      <phone>650-246-7000</phone>
+      <email>ClinicalTrials@Portola.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

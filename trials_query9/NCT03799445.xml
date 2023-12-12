@@ -1,0 +1,439 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03799445</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018-0381</org_study_id>
+    <secondary_id>NCI-2018-03260</secondary_id>
+    <secondary_id>2018-0381</secondary_id>
+    <nct_id>NCT03799445</nct_id>
+  </id_info>
+  <brief_title>Ipilimumab, Nivolumab, and Radiation Therapy in Treating Patients With HPV Positive Advanced Oropharyngeal Squamous Cell Carcinoma</brief_title>
+  <official_title>Phase 2 Study (With Safety Lead in) of the Safety, Tolerability and Efficacy of Anti-CTLA4 (Ipilimumab) and Anti-PD-1 (Nivolumab) in Combination With Radiation Therapy to 50-66 Gy in Low-Intermediate Volume, Local-Regionally Advanced HPV-Positive Oropharyngeal Squamous Cell Carcinoma (OPSCC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies the side effects and best dose of ipilimumab, nivolumab, and&#xD;
+      radiation therapy and how well they work in treating patients with advanced human&#xD;
+      papillomavirus (HPV) positive oropharyngeal squamous cell carcinoma. Immunotherapy with&#xD;
+      monoclonal antibodies, such as ipilimumab and nivolumab, may help the body's immune system&#xD;
+      attack the cancer, and may interfere with the ability of tumor cells to grow and spread.&#xD;
+      Radiation therapy uses high energy x-rays to kill tumor cells and shrink tumors. Giving&#xD;
+      ipilimumab, nivolumab, and radiation therapy may work better in treating patients with HPV&#xD;
+      positive oropharyngeal squamous cell carcinoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate the safety, tolerability and feasibility of ipilimumab and nivolumab when&#xD;
+      administered concurrently with reduced-field radiotherapy (intensity-modulated radiation&#xD;
+      therapy [IMRT]).&#xD;
+&#xD;
+      II. To evaluate the clinical complete response rate to ipilimumab, nivolumab and IMRT with&#xD;
+      reduced field at six months as indicated by fluorodeoxyglucose - positron emission&#xD;
+      tomography/computed tomography (FDG-PET/CT) post completion of radiation therapy (RT).&#xD;
+&#xD;
+      III. To evaluate the 2-year progression-free survival (PFS) rate of subjects with&#xD;
+      low-intermediate volume, local-regionally advanced, human papilloma virus (HPV)-positive&#xD;
+      squamous cell carcinoma of the head and neck (SCCHN) treated with ipilimumab, nivolumab and&#xD;
+      reduced-field IMRT.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate overall response rate to six weeks of induction immunotherapy (IO).&#xD;
+&#xD;
+      II. To evaluate the frequency of pharyngeal dysphasia as measured by Dynamic Imaging (Dynamic&#xD;
+      Imaging Grade of Swallowing Toxicity [DIGEST]) grade on modified barium swallow (MBS) and&#xD;
+      patient-reported symptoms (MD Anderson Dysphagia Inventory [MDADI]) at 6 month, 1 and 2 years&#xD;
+      after radiotherapy ([IMRT].&#xD;
+&#xD;
+      III. To measure acute and chronic toxicities per Patient-Reported Outcomes Common Terminology&#xD;
+      Criteria for Adverse Events (CTCAE PRO).&#xD;
+&#xD;
+      IV. To measure acute toxicity profiles at the end of radiation therapy and IO and at 6&#xD;
+      months.&#xD;
+&#xD;
+      V. To measure late toxicity profiles at 1 and 2 years. VI. To determine local and regional&#xD;
+      control at 6 and 12 months. VII. To determine patterns of failure (local-regional relapse vs.&#xD;
+      distant) at 1 and 2 years.&#xD;
+&#xD;
+      VIII. To determine overall survival (OS) at 1 and 2 years.&#xD;
+&#xD;
+      CORRELATIVE OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate associations between total mutational load, interferon (INF) gamma score, T&#xD;
+      cell clonality at diagnosis with clinical response to induction, combination CTLA-4 PD-1&#xD;
+      checkpoint blockade.&#xD;
+&#xD;
+      II. To evaluate changes in the tumor immune microenvironment (CD8 + INF gamma score, T cell&#xD;
+      clonality, in tumor biopsy specimens pre and post induction immunotherapy (IO).&#xD;
+&#xD;
+      III. To evaluate dynamic changes in and clearance of oral HPV and cell-free deoxyribonucleic&#xD;
+      acid (cfDNA) viral load during therapy and to investigate associations with PFS and OS.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate changes in peripheral blood lymphocyte phenotypes and serum cytokine profiles&#xD;
+      before and after induction IO.&#xD;
+&#xD;
+      II. To evaluate changes in the T cell receptor repertoire in tumor-infiltrating lymphocyte&#xD;
+      (TIL) and the peripheral blood in tumor biopsy specimens pre and post induction IO.&#xD;
+&#xD;
+      III. To determine the negative and positive predictive values (NPV and PPV) of FDG-PET/CT&#xD;
+      12-14 weeks after end of RT for 1 year and 2 year PFS and OS.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      Patients receive nivolumab intravenously (IV) over 30 minutes on days 1, 15, and 29 and&#xD;
+      ipilimumab IV over 30 minutes on day 1. Treatment repeats every for 6 weeks for 2 cycles in&#xD;
+      the absence of disease progression or unacceptable toxicity. Beginning on day 1 of cycle 2,&#xD;
+      patients also undergo IMRT 5 days a week (Monday-Friday) for 6 weeks in the absence of&#xD;
+      disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up at 2 weeks, every 3 months for&#xD;
+      2 years, every 6 months for 3 years, and then annually thereafter.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 25, 2019</start_date>
+  <completion_date type="Anticipated">August 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose limiting toxicity (DLT) (safety lead-in)</measure>
+    <time_frame>Up to 28 days post-completion of radiation therapy</time_frame>
+    <description>Defined as any &gt;= grade 3 adverse event (Common Terminology Criteria for Adverse Events [CTCAE], version [v.] 4) that is related to immunotherapy (IO) that does not resolve to grade 1 or less within 28 days.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete response rate (Phase II)</measure>
+    <time_frame>At 6 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS) (Phase II)</measure>
+    <time_frame>From start of therapy to progression or disease or death from any cause, assessed up to 2 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients who experience a &gt;= grade 3 treatment-related adverse event (safety lead-in)</measure>
+    <time_frame>Up to 28 days post-completion of radiation therapy</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients who tolerated protocol therapy (safety lead-in)</measure>
+    <time_frame>Up to 12 weeks (end of cycle 2)</time_frame>
+    <description>The number of patients who tolerated protocol therapy, including completion of radiotherapy without a treatment break and who were administered immunotherapy (IO) will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients who achieve a clinical complete response (safety lead-in)</measure>
+    <time_frame>Up to 28 weeks after radiation therapy</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of acute and chronic adverse events (Phase II)</measure>
+    <time_frame>Up to 3 months from the end of intensity-modulated radiation therapy (IMRT)</time_frame>
+    <description>Incidence of adverse events (acute and chronic toxicities) will be assessed per CTCAE Patient Reported Outcome (PRO).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute toxicity profiles (Phase II)</measure>
+    <time_frame>At the end of radiation therapy, end of IO, and 6 months</time_frame>
+    <description>Will be assessed by CTCAE v 4.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients who experience &gt;= grade 3 treatment-related adverse event (Phase II)</measure>
+    <time_frame>At the end of radiation therapy, end of IO, and 6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Late toxicity profiles (Phase II)</measure>
+    <time_frame>At 1 and 2 years</time_frame>
+    <description>Will be assessed per CTCAE v 4.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported swallowing outcomes (Phase II)</measure>
+    <time_frame>At 1 and 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patterns of failure (local-regional relapse versus [vs] distant) (Phase II)</measure>
+    <time_frame>At 1 and 2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (Phase II)</measure>
+    <time_frame>At 1 and 2 years</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Clinical Stage I HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8</condition>
+  <condition>Clinical Stage II HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8</condition>
+  <condition>Human Papillomavirus Positive Oropharyngeal Squamous Cell Carcinoma</condition>
+  <condition>Oropharyngeal Basaloid Carcinoma</condition>
+  <condition>Pathologic Stage I HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8</condition>
+  <condition>Pathologic Stage II HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8</condition>
+  <condition>Posterior Tongue Squamous Cell Carcinoma</condition>
+  <condition>Soft Palate Squamous Cell Carcinoma</condition>
+  <condition>Stage III Oropharyngeal Squamous Cell Carcinoma AJCC v7</condition>
+  <condition>Stage IVA Oropharyngeal Squamous Cell Carcinoma AJCC v7</condition>
+  <condition>Tonsillar Squamous Cell Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (nivolumab, ipilimumab, IMRT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive nivolumab IV over 30 minutes on days 1, 15, and 29 and ipilimumab IV over 30 minutes on day 1. Treatment repeats every for 6 weeks for 2 cycles in the absence of disease progression or unacceptable toxicity. Beginning on day 1 of cycle 2, patients also undergo IMRT 5 days a week (Monday-Friday) for 6 weeks in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Intensity-Modulated Radiation Therapy</intervention_name>
+    <description>Undergo IMRT</description>
+    <arm_group_label>Treatment (nivolumab, ipilimumab, IMRT)</arm_group_label>
+    <other_name>IMRT</other_name>
+    <other_name>Intensity Modulated RT</other_name>
+    <other_name>Intensity-Modulated Radiotherapy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Ipilimumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (nivolumab, ipilimumab, IMRT)</arm_group_label>
+    <other_name>Anti-Cytotoxic T-Lymphocyte-Associated Antigen-4 Monoclonal Antibody</other_name>
+    <other_name>BMS-734016</other_name>
+    <other_name>MDX-010</other_name>
+    <other_name>MDX-CTLA4</other_name>
+    <other_name>Yervoy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Nivolumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (nivolumab, ipilimumab, IMRT)</arm_group_label>
+    <other_name>BMS-936558</other_name>
+    <other_name>MDX-1106</other_name>
+    <other_name>NIVO</other_name>
+    <other_name>ONO-4538</other_name>
+    <other_name>Opdivo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Quality-of-Life Assessment</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Treatment (nivolumab, ipilimumab, IMRT)</arm_group_label>
+    <other_name>Quality of Life Assessment</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Treatment (nivolumab, ipilimumab, IMRT)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically or cytologically newly confirmed diagnosis of squamous cell carcinoma&#xD;
+             (including the histological variants of papillary or basaloid) of the oropharynx&#xD;
+             (tonsil, base of tongue, soft palate, or oropharyngeal walls)&#xD;
+&#xD;
+          -  Clinical American Joint Committee on Cancer (AJCC) 7th edition stage T1N2a-N2CM0,&#xD;
+             T2N1-N2CM0, T3N0-N2CM0, equivalent to AJCC 8th edition stage 1 and 2 (T1 N2, T2 N1-N2,&#xD;
+             T3 N0-N2) excluding T1N0-N1 and T2N0 (Brian O'Sullivan et al. 2016)&#xD;
+&#xD;
+          -  Tumor positive for p16 immunohistochemistry (IHC) (defined as greater than 70% strong&#xD;
+             nuclear or nuclear and cytoplasmic staining of tumor cells) and HPV DNA in situ&#xD;
+             hybridization or HPV messenger ribonucleic acid (mRNA) RNAScope. Repeat samples may be&#xD;
+             required if adequate diagnostic tissue is unavailable for testing&#xD;
+&#xD;
+          -  Zubrod Performance Status of 0-1&#xD;
+&#xD;
+          -  Patients must have radiographically evident measurable disease at the primary site or&#xD;
+             at nodal stations per response evaluation criteria in solid tumors (Response&#xD;
+             Evaluation Criteria in Solid Tumors [RECIST]) 1.1 documented by diagnostic quality CT&#xD;
+             or magnetic resonance imaging (MRI) of the neck with contrast within 28 days prior to&#xD;
+             registration; a FDG-PET/CT of the neck performed for the purposes of radiation&#xD;
+             planning is acceptable as a substitute if the CT is of diagnostic quality&#xD;
+&#xD;
+          -  Diagnostic quality cross sectional imaging of the thorax within 28 days prior to&#xD;
+             registration. A 18-FDG-PET/CT or conventional CT are acceptable&#xD;
+&#xD;
+          -  FDG-PET/CT of the neck is required within 28 days prior to registration for comparison&#xD;
+             to post treatment FDG-PET/CT. Note: Repeat imaging for variability within 96 hours of&#xD;
+             this time frame should be allowed to avoid unnecessary re-imaging and its financial&#xD;
+             and potential physical consequences for patients&#xD;
+&#xD;
+          -  History and physical exam within 1 month prior to registration&#xD;
+&#xD;
+          -  Fiberoptic exam with laryngopharyngoscopy (mirror and/or fiberoptic and/or direct&#xD;
+             procedure) by radiation oncologist, medical oncologist or ear, nose, throat (ENT)/head&#xD;
+             and neck surgeons within 28 days prior to registration&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &gt;= 1,500 cells/mm^3 (within 2 weeks prior to&#xD;
+             registration)&#xD;
+&#xD;
+          -  Platelets &gt;= 100,000 cells/mm^3 (within 2 weeks prior to registration)&#xD;
+&#xD;
+          -  Hemoglobin &gt;= 8.0 g/dl (within 2 weeks prior to registration); Note: The use of&#xD;
+             transfusion or other intervention to achieve Hgb &gt;= 8.0 g/dl is acceptable&#xD;
+&#xD;
+          -  Serum creatinine &lt; 1.5 mg/dl or creatinine clearance (CC) &gt;= 50 ml/min determined by&#xD;
+             24-hour collection or estimated by Cockcroft-Gault formula (within 2 weeks prior to&#xD;
+             registration)&#xD;
+&#xD;
+          -  Bilirubin &lt; 2 mg/dl (within 2 weeks prior to registration)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) &lt; 3 x the upper&#xD;
+             limit of normal (within 2 weeks prior to registration)&#xD;
+&#xD;
+          -  Sodium (Na), potassium (K), chloride (Cl), glucose, calcium (Ca), magnesium (Mg),&#xD;
+             albumin, amylase, lipase, thyroid stimulating hormone (TSH) within 2 weeks prior to&#xD;
+             registration&#xD;
+&#xD;
+          -  Negative serum pregnancy test within 2 weeks prior to registration for women of&#xD;
+             childbearing potential&#xD;
+&#xD;
+          -  Seronegative for active hepatitis-B or hepatitis-C infection and seronegative for&#xD;
+             human immunodeficiency virus (HIV)&#xD;
+&#xD;
+          -  Mandatory submission of hematoxylin and eosin (H&amp;E) and paraffin-embedded tumor block&#xD;
+             or unstained slides&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cancers of the oral cavity (oral tongue, floor mouth, alveolar ridge, buccal or lip),&#xD;
+             or the nasopharynx, hypopharynx, or larynx, even if p16 positive&#xD;
+&#xD;
+          -  Carcinoma of the neck of unknown primary site origin (even if p16 positive)&#xD;
+&#xD;
+          -  Definitive clinical or radiologic evidence of metastatic disease or adenopathy below&#xD;
+             the clavicles&#xD;
+&#xD;
+          -  Gross total excision of both primary and nodal disease with curative intent; this&#xD;
+             includes tonsillectomy, local excision of primary site, and nodal excision that&#xD;
+             removes all clinically and radiographically evident disease&#xD;
+&#xD;
+          -  Simultaneous primary cancers or separate bilateral primary tumor sites&#xD;
+&#xD;
+          -  Prior invasive malignancy (except non-melanomatous skin cancer) unless disease free&#xD;
+             for a minimum of 1095 days (3 years) (for example, carcinoma in situ of the breast,&#xD;
+             oral cavity, or cervix are all permissible)&#xD;
+&#xD;
+          -  Prior systemic chemotherapy for the study cancer; note that prior chemotherapy for a&#xD;
+             different cancer is allowable; patients who have received PD-1/PD-L1 or CTLA4 therapy&#xD;
+             for a previous malignancy are not eligible&#xD;
+&#xD;
+          -  Prior RT to the region of the study cancer that would result in overlap of radiation&#xD;
+             therapy fields&#xD;
+&#xD;
+          -  Severe, active co-morbidity defined as any of the following: Unstable angina and/or&#xD;
+             congestive heart failure requiring hospitalization within the last 6 months; acute&#xD;
+             bacterial or fungal infection requiring intravenous antibiotics at the time of&#xD;
+             registration; chronic obstructive pulmonary disease exacerbation or other respiratory&#xD;
+             illness requiring hospitalization or precluding study therapy within 30 days of&#xD;
+             registration; hepatic insufficiency resulting in clinical jaundice and/or coagulation&#xD;
+             defects; a diagnosis of immunodeficiency or use of any form of systemic&#xD;
+             immunosuppressive therapy. The use of physiologic doses of corticosteroids may be&#xD;
+             approved after consultation with the sponsor&#xD;
+&#xD;
+          -  Active autoimmune disease that has required systemic treatment in past 2 years (i.e.&#xD;
+             with use of disease modifying agents, corticosteroids or immunosuppressive drugs).&#xD;
+             Replacement therapy (e.g., thyroxine, insulin, or physiologic corticosteroid&#xD;
+             replacement therapy for adrenal or pituitary insufficiency, etc.) is not considered a&#xD;
+             form of systemic treatment. Steroid premedications for contrast allergy allowed&#xD;
+&#xD;
+          -  Has evidence of active, non-infectious pneumonitis&#xD;
+&#xD;
+          -  Has received a live vaccine within 30 days of planned start of study therapy&#xD;
+&#xD;
+          -  Pregnancy or breast-feeding; this exclusion is necessary because the treatment&#xD;
+             involved in this study may be significantly teratogenic&#xD;
+&#xD;
+          -  History of severe hypersensitivity or contraindication to CT or PET contrast material&#xD;
+             uncontrolled with pre-medications (steroids, antihistamines)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maura L Gillison</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maura Gillison</last_name>
+    <phone>713-792-6363</phone>
+    <email>mgillison@mdanderson.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maura L. Gillison</last_name>
+      <phone>713-792-6363</phone>
+    </contact>
+    <investigator>
+      <last_name>Maura L. Gillison</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>MD Anderson Cancer Center Website</description>
+  </link>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>December 13, 2018</study_first_submitted>
+  <study_first_submitted_qc>January 7, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 10, 2019</study_first_posted>
+  <last_update_submitted>February 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Oropharyngeal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nivolumab</mesh_term>
+    <mesh_term>Ipilimumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

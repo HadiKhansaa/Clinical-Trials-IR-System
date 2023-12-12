@@ -1,0 +1,704 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04614337</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LUM-201-01</org_study_id>
+    <nct_id>NCT04614337</nct_id>
+  </id_info>
+  <brief_title>Phase 2 Study of LUM-201 in Children With Growth Hormone Deficiency (OraGrowtH210 Trial)</brief_title>
+  <acronym>OraGrowtH210</acronym>
+  <official_title>A Multicenter, 6-Month, Randomized, Open-Label, Active Control, Parallel Arm, Phase 2b Study of Daily Oral LUM-201 in Naïve to Treatment, Prepubertal Children With Growth Hormone Deficiency (GHD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lumos Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lumos Pharma</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-national trial. The goals of the trial are to study LUM-201 as a possible&#xD;
+      treatment for Pediatric Growth Hormone Deficiency (PGHD) and investigate a predictive&#xD;
+      enrichment marker (PEM) strategy to select subjects likely to respond to therapy with&#xD;
+      LUM-201.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This trial will have two screening visits over about a month with tests to assess if subjects&#xD;
+      are eligible to start study therapy. Once subjects have completed screening, and if they are&#xD;
+      determined to be eligible, they will be randomized to receive one of three oral daily doses&#xD;
+      of LUM-201 or daily injections of recombinant human growth hormone (rhGH). All subjects will&#xD;
+      have an equal chance of being placed in any of the four groups.&#xD;
+&#xD;
+      The trial consists of 6 months of treatment. After screening, subjects will return to clinic&#xD;
+      for 5 visits. At each clinic visit subjects will have a physical exam, blood and urine&#xD;
+      collections. There will also be 3 phone calls with study staff that will take place between&#xD;
+      the clinic visits.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 31, 2020</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of subjects selected by PEM strategy who meet target growth</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Annualized height velocity (AHV) measured as standing height with stadiometer</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of 6-month, AHVs achieved by daily rhGH and three dose levels of LUM-201</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>6-month Annualized Height Velocity (AHV) measured as standing height with stadiometer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Degree of concordance between the first and second assessment with the PEM strategy.</measure>
+    <time_frame>Screening to Day 1</time_frame>
+    <description>Peak serum concentration of GH in response to a single provocative dose of LUM-201</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events in children with GHD</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Number of events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Height standard deviation score (SDS)</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Change in HT-SDS from Baseline to Month 6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Weight</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Change in Weight from Baseline to Month 6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Weight SDS</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Change in Weight-SDS from Baseline to Month 6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in BMI</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Change in BMI from Baseline to Month 6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in BMI SDS</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Change in BMI SDS from Baseline to Month 6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bone Age</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Change in bone age, measured by X-ray of left hand and wrist using Greulich &amp; Pyle atlas</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of LUM-201</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Serum concentrations (Cmax/Steady State)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GH Concentration on maintenance treatment</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Serum GH concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insulin-like growth factor 1</measure>
+    <time_frame>Day 1 to Month 6</time_frame>
+    <description>Serum concentrations of insulin-like growth factor 1</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Growth Hormone Deficiency</condition>
+  <arm_group>
+    <arm_group_label>LUM-201 (0.8 mg/kg/day)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LUM-201 (1.6 mg/kg/day)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LUM-201 (3.2 mg/kg/day)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>rhGH (34 µg/kg/day)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LUM-201</intervention_name>
+    <description>Administered orally once daily</description>
+    <arm_group_label>LUM-201 (0.8 mg/kg/day)</arm_group_label>
+    <arm_group_label>LUM-201 (1.6 mg/kg/day)</arm_group_label>
+    <arm_group_label>LUM-201 (3.2 mg/kg/day)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>rhGH Norditropin® FlexPro® pen (34 µg/kg)</intervention_name>
+    <description>Administered subcutaneously (s.c., under the skin) once daily.</description>
+    <arm_group_label>rhGH (34 µg/kg/day)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have an established diagnosis of PGHD as determined by standard diagnostic criteria.&#xD;
+             Eligible subjects must be naïve-to-treatment and be prepubertal.&#xD;
+&#xD;
+          -  Morning cortisol ≥ 8 mcg/dL or stimulated cortisol ≥ 16 µg/dL.&#xD;
+&#xD;
+          -  At Screening, be ≥ 3.0 years and &lt; 10.0 years for girls and &lt; 11.0 years for boys.&#xD;
+&#xD;
+          -  Have HT-SDS &lt; -2.0.&#xD;
+&#xD;
+          -  Have a bone age &lt; 9.0 years for girls and &lt; 10.0 years for boys.&#xD;
+&#xD;
+          -  Have prepubertal status as evidenced by Tanner Stage I breast development in girls and&#xD;
+             testicular volume &lt; 4.0 mL in boys.&#xD;
+&#xD;
+          -  In girls, have genetic testing results to rule out Turner syndrome. If SHOX genetic&#xD;
+             testing results are available, they need to be negative.&#xD;
+&#xD;
+          -  Have normal thyroid function. Subjects diagnosed with hypothyroidism must have&#xD;
+             documented successful treatment for at least 30 days prior to Day 1.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any medical or genetic condition which, in the opinion of the Investigator or Medical&#xD;
+             Monitor (MM), can be an independent cause of short stature and/or limit the response&#xD;
+             to exogenous growth factor treatment. (Examples: diabetes, named syndromes).&#xD;
+&#xD;
+          -  A medical or genetic condition that, in the opinion of the Investigator and/or MM,&#xD;
+             adds unwarranted risk to use of LUM-201 or rhGH.&#xD;
+&#xD;
+          -  Use of any medication that, in the opinion of the Investigator and/or MM, can&#xD;
+             independently cause short stature or limit the response to exogenous growth factors&#xD;
+             (Example: glucocorticoids).&#xD;
+&#xD;
+          -  Evidence or history of an intracranial mass (e.g., pituitary tumor,&#xD;
+             craniopharyngioma).&#xD;
+&#xD;
+          -  Suspicion of absent pituitary function as evidenced by a maximal stimulated GH ≤ 3&#xD;
+             ng/mL on two prior standard of care GH stimulation tests, or pituitary deficiencies&#xD;
+             beyond GH and thyroid function.&#xD;
+&#xD;
+          -  Malnutrition as evidenced by medical history or a body weight &lt; 5th percentile for&#xD;
+             current height.&#xD;
+&#xD;
+          -  BMI &gt; 95th percentile.&#xD;
+&#xD;
+          -  Gestational age-adjusted birth weight &lt; 5th percentile (small for gestational age).&#xD;
+&#xD;
+          -  History of spinal, cranial, or total body irradiation.&#xD;
+&#xD;
+          -  A diagnosis of Attention Deficit Hyperactivity Disorder (ADHD) and/or use of&#xD;
+             medications to treat ADHD.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>10 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lumos Pharma</last_name>
+    <phone>515-598-2921</phone>
+    <email>clinical.trials@lumos-pharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Dr. Jul Huong Nguyen, MD</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shaunna Shortes</last_name>
+      <phone>559-289-1063</phone>
+      <email>Shaunna.Shortes@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jil Huong Nguyen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center of Excellence in Diabetes and Endocrinology</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95821</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mila Melnik</last_name>
+      <phone>916-570-2750</phone>
+      <email>cedelead@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Gnanagurudasan Prakasam, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rady Children's Hospital</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marla Hashiguchi, RN, BSN</last_name>
+      <phone>858-966-8940</phone>
+      <email>mhashiguchi@rchsd.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Everett Gottschalk, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pediatric Endocrine Associates</name>
+      <address>
+        <city>Greenwood Village</city>
+        <state>Colorado</state>
+        <zip>80111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judy Bonnette</last_name>
+      <phone>303-783-3883</phone>
+      <email>judy.denverpedendo@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sunil Nayak, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kimberly Boucher</last_name>
+      <phone>202-476-1403</phone>
+      <email>kboucher@childrensnational.org</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Dauber, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Orlando Health Inc.</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linda Tilme</last_name>
+      <phone>321-843-5278</phone>
+      <email>Linda.Tilme@orlandohealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>Penelope Pauley, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Shriners Hospital for Children (USF)</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margaret Gross-King</last_name>
+      <phone>813-972-2250</phone>
+      <phone_ext>7538</phone_ext>
+      <email>mgking@shrinenet.org</email>
+    </contact>
+    <investigator>
+      <last_name>Dorothy Shulman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Van Meter Pediatric Endocrinology, P.C.</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary Bertossi</last_name>
+      <phone>678-961-2100</phone>
+      <email>mbertossi@pediatricendo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Quentin Van Meter, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University School of Medicine</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Megan Legge</last_name>
+      <phone>317-278-2551</phone>
+      <email>mlegge@iu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>John Fuqua, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joanne Cabbage</last_name>
+      <phone>319-335-7434</phone>
+      <email>joanne-cabbage@uiowa.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Tansey, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Barry J Reiner, MD, LLC</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lee Bromberger, BS</last_name>
+      <phone>410-646-4009</phone>
+      <email>reinerstudy.lee@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Barry J Reiner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UMass Memorial Medical Center</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kaethe Gianquintou</last_name>
+      <phone>508-856-2828</phone>
+      <email>Kaethe.Giaquinto@umassmed.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Leslie Soyka, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>M Health, Fairview Pediatric Specialty Clinics- Discovery Clinic</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55454</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alisha Olson</last_name>
+      <phone>612-301-0197</phone>
+      <email>olso9919@umn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Bradley Miller, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Minnesota</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brittany Machus, MA, CCRP</last_name>
+      <phone>651-220-5730</phone>
+      <email>Brittany.Machus@childrensmn.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jennifer Abuzzahab, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Mercy Hospital</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kelsye Howell</last_name>
+      <phone>816-960-8877</phone>
+      <email>klhowell@cmh.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Matthew Feldt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Goryeb Children's Hospital</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07962</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marie Fox</last_name>
+      <phone>973-971-6308</phone>
+      <email>Marie.Fox@atlantichealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Lawrence A Silverman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma Health Sciences Center, Pediatric Diabetes and Endocrinology</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linda Weber</last_name>
+      <phone>405-271-6764</phone>
+      <email>linda-weber@ouhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Monica Marin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State College of Medicine</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kerry Keitrick</last_name>
+      <phone>717-531-0003</phone>
+      <phone_ext>322261</phone_ext>
+      <email>kdeitrick1@pennstatehealth.psu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Hale, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh of UPMC</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ana Diaz, RN</last_name>
+      <phone>412-692-6862</phone>
+      <email>Ana.Diaz@chp.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Oscar Escobar, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Diabetes &amp; Glandular Disease Clinic, P.A.</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benilde Perez</last_name>
+      <phone>210-614-8612</phone>
+      <phone_ext>1574</phone_ext>
+      <email>benilde.perez@dgdclinic.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Kipnes, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Health System</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jordan McCoy, BS, CCRC</last_name>
+      <phone>434-297-5132</phone>
+      <email>jo4u@virginia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David Repaske, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>October 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2020</study_first_posted>
+  <last_update_submitted>April 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>GHD</keyword>
+  <keyword>PGHD</keyword>
+  <keyword>LUM-201</keyword>
+  <keyword>Growth hormone secretagogue</keyword>
+  <keyword>Height</keyword>
+  <keyword>Catch-up growth</keyword>
+  <keyword>PEM</keyword>
+  <keyword>Oral</keyword>
+  <keyword>Predictive Enrichment Marker</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dwarfism, Pituitary</mesh_term>
+    <mesh_term>Endocrine System Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,376 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04675398</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18649</org_study_id>
+    <nct_id>NCT04675398</nct_id>
+  </id_info>
+  <brief_title>Adaptive Deep Brain Stimulation to Improve Motor and Gait Functions in Parkinson's Disease</brief_title>
+  <official_title>Adaptive Cortical and Subcortical Brain Stimulation to Improve Motor Behaviors and Gait in Parkinson's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Michael J. Fox Foundation for Parkinson's Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Burroughs Wellcome</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-center phase I clinical study aiming to improve gait functions in patients&#xD;
+      with Parkinson's disease (PD) by using adaptive neurostimulation to the pallidum. The&#xD;
+      investigators will use a bidirectional deep brain stimulation device with sensing and&#xD;
+      stimulation capabilities to 1) decode the physiological signatures of gait and gait&#xD;
+      adaptation by recording neural activities from the motor cortical areas and the globus&#xD;
+      pallidus during natural walking and a gait adaptation task, and 2) develop an adaptive deep&#xD;
+      brain stimulation (DBS) paradigm to selectively stimulate the pallidum during different&#xD;
+      phases of the gait cycle and measure improvements in gait parameters. This is the first&#xD;
+      exploration of network dynamics of gait in PD using chronically implanted cortical and&#xD;
+      subcortical electrodes. In addition to providing insights into a fundamental process, the&#xD;
+      proposed therapy will deliver personalized neurostimulation based on individual physiological&#xD;
+      biomarkers to enhance locomotor skills in patients with PD. Ten patients with idiopathic&#xD;
+      Parkinson's disease undergoing evaluation for DBS implantation will be enrolled in this&#xD;
+      single treatment arm study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will allow the investigators to evaluate the efficacy of an adaptive stimulation&#xD;
+      paradigm in deep brain stimulation (DBS) to treat motor-related behaviours and motor skill&#xD;
+      learning in Parkinson's disease (PD). Parkinson's disease patients will be implanted&#xD;
+      unilaterally or bilaterally with a totally internalized bidirectional neural interface,&#xD;
+      Medtronic Summit RC+S.&#xD;
+&#xD;
+      While current DBS therapy improves motor symptoms of PD, it does not address problems with&#xD;
+      acquiring additional motor skills (i.e. adapting gait patterns to avoid falls)) in PD,&#xD;
+      therefore, limiting benefits of physical rehabilitation programs aimed at improving mobility.&#xD;
+      Motor skill learning is critical in acquiring any new behaviors related to motor function.&#xD;
+      The overall objective is to identify personalized electrophysiological signatures of motor&#xD;
+      skill learning in PD patients and use adaptive control algorithms to enhance these&#xD;
+      signatures. The study will discover new ways to rehabilitate the disease brain circuits using&#xD;
+      adaptive neuromodulation.&#xD;
+&#xD;
+      In a small, double-blinded trial, ten patients with idiopathic PD and motor fluctuations will&#xD;
+      be implanted with unilateral or bilateral RC+S devices, each connected to a standard&#xD;
+      quadripolar DBS lead implanted in the basal ganglia, along with a 4-contact paddle type&#xD;
+      electrode placed subdurally over the motor cortex. The investigators will compare the overall&#xD;
+      efficacy of closed-loop and open-loop paradigms in terms of behavioral performance&#xD;
+      improvements in validated motor skill learning tasks and measurements from wearable devices.&#xD;
+      During this chronic adaptive DBS phase, adaptive DBS and open-loop stimulation settings will&#xD;
+      be randomized for 30-day periods and motor skill and gait related measurements will be&#xD;
+      obtained from a combination of computerized motor tasks and wearable devices that track&#xD;
+      movement kinematics. Patients will participate in daily, if possible, motor learning and gait&#xD;
+      tasks at home with triggered stimulation settings and recordings.&#xD;
+&#xD;
+      The investigators expect to successfully develop a prototype adaptive DBS algorithm based on&#xD;
+      cortical and / or basal ganglia LFPs (local field potentials). The investigators hypothesize&#xD;
+      that an adaptive paradigm will provide improvements in motor skilled learning compared to the&#xD;
+      conventional, open-loop paradigm, in which stimulation parameters remain constant until&#xD;
+      changed by the patient or clinician using an external programmer.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>In a small, double-blinded trial, the investigators will compare the overall efficacy of closed-loop and open-loop paradigms in terms of behavioral performance improvements in validated motor skill learning tasks and measurements from wearable devices. During this chronic aDBS phase, aDBS and open-loop stimulation settings will be randomized for 30-day periods and motor skill and gait related measurements will be obtained from a combination of computerized motor tasks and wearable devices that track movement kinematics. Patients will participate in daily, if possible, motor learning and gait tasks at home with triggered stimulation settings and recordings. Data will be collected and reviewed from the wearable monitors, Summit RC+S, and home motor learning tasks remotely. Researchers will have weekly check-in sessions with patients by video conferencing or in-person meetings. At minimum, researchers will have in-person sessions with patients every 4 weeks during Phase 3.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in motor learning task completion with closed-loop compared to open-loop deep brain stimulation (DBS)</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in percentage of motor learning task trials that were completed with closed-loop compared to open-loop deep brain stimulation (DBS). The task is made up of 840 trials, completion will be measured by percent of trials completed (e.g. 750/840 trials completed would be 89%). The task has a built in function which logs completed trials in a CSV document.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in motor learning task reaction times with closed-loop compared to open-loop deep brain stimulation (DBS)</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in gait sequence motor learning task reaction times (measured in milliseconds) with closed-loop compared to open-loop deep brain stimulation (DBS).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in motor learning task mean accuracy with closed-loop compared to open-loop deep brain stimulation (DBS).</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in motor learning task mean accuracy with closed-loop compared to open-loop deep brain stimulation (DBS). Accuracy will be measured as a percent using the tasks proprietary output log which records which trials out of the 840 total trials were target hits (i.e. correct trials). Mean accuracy will be calculated by taking the average of each patient's accuracy score across all attempts of the task done by said patient.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Gait</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in gait measurements using the 10-meter walk timed test. The 10-Meter Walk Test (10MWT) is a performance measure used to assess walking speed in meters per second over a short distance of 10 meters. It is employed to determine functional mobility and gait. The gait speed is used as the outcome by which to compare change in performance capacity. Lower times indicate higher levels of physical functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Balance</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in balance measurements using:&#xD;
+Mini-Best Test: Clinical balance assessment tool. The score range is 0-2 with high score indicating higher levels of physical functioning.&#xD;
+Activities-Specific Balance Confidence Scale (ABC): Measures of confidence in performing various ambulatory activities without falling or experiencing a sense of unsteadiness. The score range is 0-100 with higher scores indicating higher levels of physical functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in MDS-UPDRS III scores</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in Movement Disorders Society Unified Parkinson Disease Rating Scale (MDS-UPDRS) III score. The scale consists of 18 items that are each scored 0 to 3, making the total score out of 72 points, with higher scores indicating higher impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in NIHTB Cognition Battery Test</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in National Institute of Health Toolbox (NIHTB) Cognition battery test (during adaptive stimulation compared to open loop stimulation). A score known as a theta score is calculated for each participant; it represents the relative overall ability or performance of the participant. The theta score is converted to a Computed Score which ranges from roughly 0 to 2000 depending on the age-adjusted averages, with higher scores indicating higher levels of cognitive functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Five-Times Sit to Stand Test Results</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Five-Times Sit to Stand Test: Assesses functional lower extremity strength, transitional movements, balance, and fall risk in older adults. Scoring based on amount of time a patient is able to transfer from a seated to a standing position and back to sitting five times, with lower times indicating higher levels of physical functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Stride Length</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in stride length measured by Rover (a gait measurement device) and Xsens (a kinematic measurement device) with closed-loop compared to open-loop deep brain stimulation (DBS). Stride length is measured in meters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Stride Time</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in stride time measured by Rover (a gait measurement device) and Xsens (a kinematic measurement device) with closed-loop compared to open-loop deep brain stimulation (DBS). Stride time is measured in seconds.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in double support time</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Change in double support time measured by Rover (a gait measurement device). Each gait cycle consists of two phases, where both feet are in contact with the ground, called Double Support. Double support time will be measured in seconds (i.e. amount of time both feet are in contact with the ground).</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Parkinson Disease</condition>
+  <arm_group>
+    <arm_group_label>Open-loop deep brain stimulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Parkinson's disease patients implanted with Summit RC+S and brain lead implanted in the pallidal/striatal region receiving open-loop deep brain stimulation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Randomized deep brain stimulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Parkinson's disease patients implanted with Summit RC+S and brain lead implanted in the pallidal/striatal region receiving closed-loop stimulation at random time points.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Deep brain stimulation during contralateral limb movement</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Parkinson's disease patients implanted with Summit RC+S and brain lead implanted in the pallidal/striatal region receiving closed-loop stimulation during time of contralateral limb movement.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Deep brain stimulation during contralateral limb rest</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Parkinson's disease patients implanted with Summit RC+S and brain lead implanted in the pallidal/striatal region receiving closed-loop stimulation during time of no movement for contralateral limb.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Summit RC+S</intervention_name>
+    <description>Using the RC+S pulse generator, patients receive clinically-optimized open loop DBS stimulation to the pallidum.</description>
+    <arm_group_label>Open-loop deep brain stimulation</arm_group_label>
+    <other_name>continuous deep brain stimulation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Summit RC+S</intervention_name>
+    <description>Using the RC+S pulse generator, the patients will receive closed-loop stimulation at random time points. These random stimulation times will in total equal the total amount of time of active movement.</description>
+    <arm_group_label>Randomized deep brain stimulation</arm_group_label>
+    <other_name>random stimulation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Summit RC+S</intervention_name>
+    <description>Using the RC+S pulse generator, the patients will receive closed-loop stimulation during time of contralateral limb movement (e.g. left brain stimulation during right leg/arm movement).</description>
+    <arm_group_label>Deep brain stimulation during contralateral limb movement</arm_group_label>
+    <other_name>adaptive stimulation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Summit RC+S</intervention_name>
+    <description>Using the RC+S pulse generator, the patients will receive closed-loop stimulation during time of no movement for the contralateral limb (e.g. left brain stimulation while right leg/arm is not moving).</description>
+    <arm_group_label>Deep brain stimulation during contralateral limb rest</arm_group_label>
+    <other_name>adaptive stimulation</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to give informed consent for the study&#xD;
+&#xD;
+          -  Movement disorder symptoms that are sufficiently severe, in spite of best medical&#xD;
+             therapy, to warrant surgical implantation of deep brain stimulators according to&#xD;
+             standard clinical criteria&#xD;
+&#xD;
+          -  Patient has requested surgical intervention with deep brain stimulation for their&#xD;
+             disorder&#xD;
+&#xD;
+          -  No movement -elated abnormalities that suggest an alternative diagnosis or&#xD;
+             contraindicate surgery&#xD;
+&#xD;
+          -  Absence of significant cognitive impairment (score of 21 or greater on the Montreal&#xD;
+             Cognitive Assessment (MoCA),&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+          -  Ability to comply with study follow-up visits for brain recording, testing of adaptive&#xD;
+             stimulation, and clinical assessment.&#xD;
+&#xD;
+          -  Age 21-75&#xD;
+&#xD;
+          -  Diagnosis of idiopathic PD with duration of motor symptoms for 3 years or greater&#xD;
+&#xD;
+          -  Patient has undergone appropriate therapy with oral medications with inadequate relief&#xD;
+             as determined by a movement disorders neurologist.&#xD;
+&#xD;
+          -  UPDRS-III score off medication between 20 and 80 and an improvement of at least 30% in&#xD;
+             the baseline UPDRS-III on medication score, compared to the baseline off-medication&#xD;
+             score, and motor fluctuations with at least 2 hours per day of on time without&#xD;
+             dyskinesia or with non-bothersome dyskinesia. OR Patients with tremor-dominant PD (a&#xD;
+             tremor score of at least 2 on a UPDRS-III sub-score for tremor), treatment resistant,&#xD;
+             with significant functional disability despite maximal medical management&#xD;
+&#xD;
+          -  Patients with gait impairments: slowed gait, shuffling steps, postural instability, or&#xD;
+             freezing of gait off medication.&#xD;
+&#xD;
+          -  Ability of patient and/or caregivers to recharge the system evaluated by all&#xD;
+             clinicians and study personnel.&#xD;
+&#xD;
+          -  Geographical proximity and/or ability to travel to study sites for patient to receive&#xD;
+             re-programming via investigational devices (e.g. Summit Research Laboratory&#xD;
+             Programmer).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Coagulopathy, anticoagulant medications, uncontrolled hypertension, history of&#xD;
+             seizures, heart disease, or other medical conditions considered to place the patient&#xD;
+             at elevated risk for surgical complications&#xD;
+&#xD;
+          -  Evidence of a psychogenic movement disorder: Motor symptoms that remit with suggestion&#xD;
+             or &quot;while unobserved&quot;, symptoms that are inconsistent over time or incongruent with&#xD;
+             clinical condition, plus other manifestation such as &quot;false&quot; signs, multiple&#xD;
+             somatizations, or obvious psychiatric disturbance.&#xD;
+&#xD;
+          -  Pregnancy: all women of child bearing potential will have a negative urine pregnancy&#xD;
+             test prior to undergoing their surgical procedure.&#xD;
+&#xD;
+          -  Significant untreated depression (BDI-II score &gt;20). History of suicidal attempt or&#xD;
+             active suicidal ideation (Yes to #2-5 on C-SSRS)&#xD;
+&#xD;
+          -  Any personality or mood symptoms that study personnel believe will interfere with&#xD;
+             study requirements.&#xD;
+&#xD;
+          -  Subjects who require electroconvulsive therapy (ECT), repetitive transcranial magnetic&#xD;
+             stimulation (rTMS) or diathermy&#xD;
+&#xD;
+          -  Implanted stimulation systems such as; cochlear implant, pacemaker, defibrillator, or&#xD;
+             neurostimulator&#xD;
+&#xD;
+          -  Previous cranial surgery&#xD;
+&#xD;
+          -  Drug or alcohol abuse&#xD;
+&#xD;
+          -  Meets criteria for Parkinson's disease with mild cognitive impairment (PD-MCI). These&#xD;
+             criteria are: performance of more than two standard deviations below appropriate&#xD;
+             norms, for tests from two or more of these five cognitive domains: attention,&#xD;
+             executive function, language, memory, and visuospatial tests.&#xD;
+&#xD;
+          -  Known allergies to the implantable device components including titanium, polyurethane,&#xD;
+             silicone, and nylon.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Doris Wang, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Doris Wang, MD, PhD</last_name>
+    <phone>415-514-7333</phone>
+    <email>doris.wang@ucsf.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maria Yaroshinsky, BA</last_name>
+    <phone>415-514-0855</phone>
+    <email>maria.yaroshinsky@ucsf.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UCSF</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Doris Wang, MD, PhD</last_name>
+      <phone>415-514-7333</phone>
+      <email>doris.wang@ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maria Yaroshinsky, BA</last_name>
+      <phone>4155140855</phone>
+      <email>maria.yaroshinsky@ucsf.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Swann NC, de Hemptinne C, Miocinovic S, Qasim S, Ostrem JL, Galifianakis NB, Luciano MS, Wang SS, Ziman N, Taylor R, Starr PA. Chronic multisite brain recordings from a totally implantable bidirectional neural interface: experience in 5 patients with Parkinson's disease. J Neurosurg. 2018 Feb;128(2):605-616. doi: 10.3171/2016.11.JNS161162. Epub 2017 Apr 14.</citation>
+    <PMID>28409730</PMID>
+  </reference>
+  <reference>
+    <citation>Little S, Pogosyan A, Neal S, Zavala B, Zrinzo L, Hariz M, Foltynie T, Limousin P, Ashkan K, FitzGerald J, Green AL, Aziz TZ, Brown P. Adaptive deep brain stimulation in advanced Parkinson disease. Ann Neurol. 2013 Sep;74(3):449-57. doi: 10.1002/ana.23951. Epub 2013 Jul 12.</citation>
+    <PMID>23852650</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 19, 2020</study_first_posted>
+  <last_update_submitted>December 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>neuromodulation</keyword>
+  <keyword>closed-loop deep brain stimulation</keyword>
+  <keyword>gait impairments</keyword>
+  <keyword>motor learning</keyword>
+  <keyword>parkinson's disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

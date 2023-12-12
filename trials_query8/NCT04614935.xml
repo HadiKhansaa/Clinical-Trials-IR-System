@@ -1,0 +1,193 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04614935</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-300005480</org_study_id>
+    <nct_id>NCT04614935</nct_id>
+  </id_info>
+  <brief_title>Adherence and Outcomes in Functional Constipation With a Constipation Action Plan</brief_title>
+  <official_title>Adherence and Outcomes in Functional Constipation With a Constipation Action Plan</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We will be assessing for improvement in reported symptoms as well as reported quality of life&#xD;
+      in pediatric patients with functional constipation using a constipation action plan and an&#xD;
+      adherence log.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Functional Constipation is one of the most common chief complaints for both the general&#xD;
+      pediatrician and the pediatric gastroenterologist. Treatment for this disorder is&#xD;
+      multifactorial, and usually involves different medications combined with behavioral&#xD;
+      techniques, depending on the severity of the underlying constipation. Studies have shown that&#xD;
+      medication compliance is one of the strongest predictors of successful treatment, but&#xD;
+      maintaining good medication adherence at home is uncommon for a variety of reasons. In this&#xD;
+      study, the investigators are aiming to improve home medication adherence for functional&#xD;
+      constipation to improve treatment outcomes. The investigators will be administering surveys&#xD;
+      for all enrolled participants to determine the child's and family's overall quality of life&#xD;
+      related to functional constipation. For the treatment group, the investigators will be&#xD;
+      providing tools to help with medication adherence. This will include a daily log to determine&#xD;
+      symptom severity, along with an &quot;action plan&quot; with instructions for how to adjust medicines,&#xD;
+      if necessary, depending on symptoms. By empowering families with this knowledge and&#xD;
+      medication roadmap, the investigators hypothesize that there will be overall symptomatic&#xD;
+      improvement in functional constipation, along with improved quality of life for both the&#xD;
+      patient and their family. The investigators will measure adherence (by reviewing symptom log&#xD;
+      and action plan at 2-month and 4-month follow up appointments.) with the treatment group. The&#xD;
+      investigators will be measuring overall quality of life and symptom improvement using a&#xD;
+      validated pediatric constipation quality of life survey (PedsQL GI) with both the treatment&#xD;
+      group and the control group at follow up appointments.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Medication and behavioral modification adherence</measure>
+    <time_frame>4 months</time_frame>
+    <description>Calendar where families place a colored sticker (green, yellow, or red, depending on how symptoms correlate to the constipation action plan), measured as a ratio of total number of days logged/total number of days possible to log. Adherence log will be reviewed at each follow appointment (2 month and 4 month).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life survey results</measure>
+    <time_frame>4 months</time_frame>
+    <description>Parent report of child constipation symptoms using validated Pediatric Quality of Life (PedsQL) survey for functional constipation in the past month, using the Likert scale responses, with raw scores transformed to a 0 to 100 scale, with 0 being severe impairment and 100 being no impairment. This survey will be given on initial visit and repeated at 2 month and 4 month follow up visits.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>Adherence, Medication</condition>
+  <condition>Functional Constipation</condition>
+  <condition>Pediatric ALL</condition>
+  <condition>Survey, Family Life</condition>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Pediatric patients with functional constipation who are treated with medications and/or behavioral therapies as they would be if they were not enrolled in the study. In addition to standard of care treatment, these families will fill out a brief quality of life survey.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Action Plan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pediatric patients with functional constipation who are treated with standard of care medications and/or behavioral therapies and are also provided with a medication adherence log along with a constipation action plan. These families will also fill out a brief quality of life survey.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Action Plan</intervention_name>
+    <description>See arm description.</description>
+    <arm_group_label>Action Plan</arm_group_label>
+    <other_name>Adherence Log</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have been potty-trained for stool at some point&#xD;
+&#xD;
+          -  Chief complaint constipation or encopresis&#xD;
+&#xD;
+          -  Meets Rome IV criteria for functional constipation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Preexisting diagnoses of autism, cerebral palsy, developmental delay, and/or thyroid&#xD;
+             disease&#xD;
+&#xD;
+          -  Prior gastrointestinal surgery&#xD;
+&#xD;
+          -  Presence of &quot;red flag&quot; symptoms for organic etiology:&#xD;
+&#xD;
+          -  Passage of meconium &gt;48 hours after birth in a term newborn&#xD;
+&#xD;
+          -  Family history of Hirschsprung's Disease&#xD;
+&#xD;
+          -  &quot;Ribbon&quot; stools&#xD;
+&#xD;
+          -  Blood in stools (in absence of anal fissure)&#xD;
+&#xD;
+          -  Coexisting diagnosis of malnutrition, bilious vomiting, abnormal anal positioning,&#xD;
+             absent anal reflex, decreased lower extremity strength/tone, sacral dimple, and/or&#xD;
+             tuft of hair on spine&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>8 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Carter Wallace, MD</last_name>
+    <phone>205-638-9918</phone>
+    <email>carterwallace@uabmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rachel Kassel, MD, PhD</last_name>
+    <phone>205-638-9918</phone>
+    <email>rkassel@peds.uab.edu</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Felt B, Wise CG, Olson A, Kochhar P, Marcus S, Coran A. Guideline for the management of pediatric idiopathic constipation and soiling. Multidisciplinary team from the University of Michigan Medical Center in Ann Arbor. Arch Pediatr Adolesc Med. 1999 Apr;153(4):380-5.</citation>
+    <PMID>10201721</PMID>
+  </reference>
+  <reference>
+    <citation>Hyams, Jeffrey S., et al. &quot;Childhood Functional Gastrointestinal Disorders: Child/Adolescent.&quot; Gastroenterology, vol. 150, no. 6, 2016, doi:10.1053/j.gastro.2016.02.015.</citation>
+  </reference>
+  <reference>
+    <citation>Koppen IJN, van Wassenaer EA, Barendsen RW, Brand PL, Benninga MA. Adherence to Polyethylene Glycol Treatment in Children with Functional Constipation Is Associated with Parental Illness Perceptions, Satisfaction with Treatment, and Perceived Treatment Convenience. J Pediatr. 2018 Aug;199:132-139.e1. doi: 10.1016/j.jpeds.2018.03.066. Epub 2018 May 10.</citation>
+    <PMID>29754864</PMID>
+  </reference>
+  <reference>
+    <citation>Steiner SA, Torres MR, Penna FJ, Gazzinelli BF, Corradi CG, Costa AS, Ribeiro IG, de Andrade EG, do Carmo Barros de Melo M. Chronic functional constipation in children: adherence and factors associated with drug treatment. J Pediatr Gastroenterol Nutr. 2014 May;58(5):598-602. doi: 10.1097/MPG.0000000000000255.</citation>
+    <PMID>24345842</PMID>
+  </reference>
+  <reference>
+    <citation>Varni JW, Bendo CB, Denham J, Shulman RJ, Self MM, Neigut DA, Nurko S, Patel AS, Franciosi JP, Saps M, Yeckes A, Langseder A, Saeed S, Pohl JF. PedsQL™ Gastrointestinal Symptoms Scales and Gastrointestinal Worry Scales in pediatric patients with functional and organic gastrointestinal diseases in comparison to healthy controls. Qual Life Res. 2015 Feb;24(2):363-78. doi: 10.1007/s11136-014-0781-x. Epub 2014 Aug 23.</citation>
+    <PMID>25148757</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2020</study_first_posted>
+  <last_update_submitted>November 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>Carter D. Wallace</investigator_full_name>
+    <investigator_title>Fellow, Pediatric Gastroenterology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Constipation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

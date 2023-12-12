@@ -1,0 +1,207 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01614717</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR-11-030-EU-HF</org_study_id>
+    <nct_id>NCT01614717</nct_id>
+  </id_info>
+  <brief_title>Triple Chamber Pacing in Hypertrophic Obstructive Cardiomyopathy (HOCM) Patients - TRICHAMPION STUDY</brief_title>
+  <acronym>TRICHAMPION</acronym>
+  <official_title>Triple Chamber Pacing in HOCM Patients - TRICHAMPION STUDY</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abbott Medical Devices</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Abbott Medical Devices</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This investigation is a prospective, randomized, single-blinded and multicenter design.&#xD;
+&#xD;
+      The purpose of this study is to evaluate the benefit of atrial-synchronous biventricular&#xD;
+      (BiV) pacing in severely symptomatic hypertrophic obstructive cardiomyopathy (HOCM) patients&#xD;
+      with severe Left Ventricular Outflow Tract (LVOT) obstruction implanted with a Cardiac&#xD;
+      Resynchronization Therapy - Pacing (CRT-P) device.&#xD;
+&#xD;
+      Randomization&#xD;
+&#xD;
+        -  Implant will be performed (CRT-P).&#xD;
+&#xD;
+        -  Patients will be randomized 1:1 to either Treatment Group (Optimized Biventricular (DDD)&#xD;
+           pacing) or Control Group (Back-up Atrial (AAI) pacing) during the first 12 months:&#xD;
+&#xD;
+        -  Treatment Group. The patient´s device is programmed to optimized DDD BiV pacing&#xD;
+&#xD;
+        -  Control Group. The patient´s device is programmed to back-up pacing AAI.&#xD;
+&#xD;
+        -  After 12 months, the patients initially randomized to the Treatment Group (Optimized DDD&#xD;
+           Pacing) will continue in the same group. The patients initially randomized to Control&#xD;
+           Group (AAI Back-up Pacing) will be changed to the Treatment Group (Optimized DDD&#xD;
+           Pacing). And all the patients will be followed 12 months more.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Data collection&#xD;
+&#xD;
+        -  In clinic Follow ups (FU): Enrollment, Baseline, Implant, Pre-discharge, 3 months (M),&#xD;
+           12 M, 15 M and 24 M.&#xD;
+&#xD;
+        -  Phone call FU: 6 M, 9 M, 18 M and 21 M.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 2014</start_date>
+  <completion_date type="Actual">September 2020</completion_date>
+  <primary_completion_date type="Actual">September 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the percentage of HOCM patients with severe LVOT obstruction implanted with a CRT-P device that have symptomatic improvement at 12 months.</measure>
+    <time_frame>12 months</time_frame>
+    <description>The primary endpoint of the study is to evaluate the percentage of HOCM patients with severe LVOT obstruction implanted with a CRT-P device that have symptomatic improvement at 12 months post-implant.&#xD;
+The symptomatic improvement is a combined endpoint defined as:&#xD;
+An improvement of at least one New Yorl Heart Association (NYHA) functional class and&#xD;
+An improvement of 10 points in the Quality of Life (QoL) Questionnaire score and&#xD;
+An increase &gt;10% in bike exercise time in the steady state Cardiopulmonary Exercise Test (CPET).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">25</enrollment>
+  <condition>Hypertrophic Cardiomyopathy With Obstruction</condition>
+  <arm_group>
+    <arm_group_label>Treatment Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>CRT-P Implant. Patients randomized in Treatment Group will have the device programmed to optimized DDD pacing</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>CRT-P Implant. Patients randomized in the control Group will have the device programmed to back-up pacing AAI</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CRT-P Implant</intervention_name>
+    <description>All patients will be implanted with a CRT-P device, then randomized to Treatment or Control Group</description>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>Treatment Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Unequivocal diagnosis of hypertrophic cardiomyopathy (HCM), on the basis of&#xD;
+             2-dimensional echocardiographic demonstration of a hypertrophied (wall thickness ≥15&#xD;
+             mm) and nondilated Left Ventricle (Left Ventricle End Diastolic Diameter (LVEDD) &lt;&#xD;
+             55mm) confirmed by a Core Lab Echo (Appendix I).&#xD;
+&#xD;
+          2. Significant resting (not provoked) LV outflow tract obstruction, on the basis of peak&#xD;
+             LVOT gradient ≥50 mmHg, estimated by continuous wave Doppler and confirmed by a Core&#xD;
+             Lab Echo (Appendix I).&#xD;
+&#xD;
+          3. Presence of refractory symptoms (exertional dyspnea or chest pain) despite of optimal&#xD;
+             treatment with betablockers and/or verapamil for at least 3 months (NYHA class &gt;II).&#xD;
+&#xD;
+          4. Patients that refuse or have contraindication for septal myectomy or septal ablation&#xD;
+             (i.e., comorbidity, inappropriate coronary anatomy for septal ablation), that prefer&#xD;
+             cardiac pacing, or that are at high risk for developing heart block following septal&#xD;
+             myectomy or septal ablation.&#xD;
+&#xD;
+        6. Patient's age is 18 years or greater. 7. Patients must indicate their understanding of&#xD;
+        the study and willingness to participate by signing the appropriate informed consent form.&#xD;
+&#xD;
+        8. Patients must be willing and able to comply with all study requirements.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Known causes of cardiac hypertrophy as infiltrative cardiomyopathy, aortic stenosis&#xD;
+             and severe uncontrolled hypertension.&#xD;
+&#xD;
+          2. Permanent or persistent atrial fibrillation.&#xD;
+&#xD;
+          3. Previous septal myectomy or septal ablation.&#xD;
+&#xD;
+          4. Any indication for permanent pacing, except for HOCM.&#xD;
+&#xD;
+          5. Any indication for an Implantable Cardioverter Defibrillator (ICD).&#xD;
+&#xD;
+          6. Systemic disease that would preclude completion of the protocol.&#xD;
+&#xD;
+          7. Any disability or limitations to correctly understand or complete the study (physical,&#xD;
+             intellectual, logistical).&#xD;
+&#xD;
+          8. Patients with a life expectancy &lt;24 months (based on investigator assessment).&#xD;
+&#xD;
+          9. Patients who are or may potentially be pregnant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Josep Brugada, Proffesor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Clinic I Provincial, Barcelona, Spain</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Antonio Berruezo, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Clinic I Provincial, Barcelona, Spain</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Universitario Clinic I Provincial</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>June 6, 2012</study_first_submitted>
+  <study_first_submitted_qc>June 6, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 8, 2012</study_first_posted>
+  <last_update_submitted>December 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hypertrophic Obstructive Cardiomyopathy</keyword>
+  <keyword>Cardiac Resynchronization Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiomyopathies</mesh_term>
+    <mesh_term>Cardiomyopathy, Hypertrophic</mesh_term>
+    <mesh_term>Hypertrophy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

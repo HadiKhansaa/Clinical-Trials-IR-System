@@ -1,0 +1,197 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04605419</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BEHGD-10-2020</org_study_id>
+    <nct_id>NCT04605419</nct_id>
+  </id_info>
+  <brief_title>Calcium Electroporation in Patients With Cell Changes in the Esophagus</brief_title>
+  <official_title>Calcium Electroporation in Patients With Barrett's Esophagus High-grade Dysplasia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Michael Patrick Achiam</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Danish Cancer Society</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this first-in-man study is to evaluate the safety of calcium electroporation used&#xD;
+      in patients with Barrett's esophagus high-grade dysplasia through an endoscopic system.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After being informed about the study and potential risks, all patients give written informed&#xD;
+      consent. Thereafter, patient will get calcium electroporation with biopsies and digital&#xD;
+      photographs on day 0. We expect to discharge all patients same evening. Between day 3-7 an&#xD;
+      examination is followed by gastroscopy with biopsies and digital photographs. On day 14 the&#xD;
+      patients are followed in our outpatient clinic. 6 weeks after treatment the patients will&#xD;
+      undergo endoscopic mucosa resection (EMR) or endoscopic submucosa dissection (ESD) surgery&#xD;
+      and thereby the standard care of treatment for Barrett's esophagus high-grade dysplasia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 7, 2020</start_date>
+  <completion_date type="Anticipated">September 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Patients with Barrett's esophagus high-grade dysplasia will get calcium electroporation</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Registration of treatment related side effects assessed by CTCAE V 5.0</measure>
+    <time_frame>Day 0 to 6 weeks after treatment</time_frame>
+    <description>This is part of a safety evaluation and will be registered by CTCAE into Adverse Events (AE) and Serious Adverse Events (SAE)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Registration of treatment related pain through a Visual Analogue Score (VAS)</measure>
+    <time_frame>Day 0 to 6 weeks after treatment</time_frame>
+    <description>Second part of safety evaluation which will be registered by VAS score. The VAS score is a scale with values from 0-10, where 0 is no pain and 10 is the worst possible pain.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The rate of patient's that have gained from the treatment</measure>
+    <time_frame>Day 0 to 6 weeks after treatment</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">6</enrollment>
+  <condition>Barretts Esophagus With High Grade Dysplasia</condition>
+  <arm_group>
+    <arm_group_label>Calcium electroporation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Calcium chloride</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Calcium electroporation</intervention_name>
+    <description>Areas with Barrett's esophagus high-grade dysplasia will get an injection of calcium chloride in submucosa through an endoscopic system before getting electroporation</description>
+    <arm_group_label>Calcium electroporation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female ≥18 years old.&#xD;
+&#xD;
+          2. Histological verified Barrett's esophagus high-grade dysplasia (BE HGD)&#xD;
+&#xD;
+          3. Expected survival &gt; 3 months.&#xD;
+&#xD;
+          4. Performance status Eastern Cooperative Oncology Group (ECOG)/World Health Organization&#xD;
+             (WHO) ≤ 2.&#xD;
+&#xD;
+          5. Platelets ≥ 50 billion/l, International Normalized Ratio (INR) &lt; 1.5. Medical&#xD;
+             correction is allowed, e.g. correction of a high International Normalized Ratio (INR)&#xD;
+             using vitamin K.&#xD;
+&#xD;
+          6. Subjects must be willing and able to comply with the procedure, such as agreed&#xD;
+             follow-up visits.&#xD;
+&#xD;
+          7. Sexually active men and fertile women must use adequate contraception during this&#xD;
+             trial&#xD;
+&#xD;
+          8. Subjects must give written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Coagulation disorder that cannot be corrected.&#xD;
+&#xD;
+          2. Subjects with a clinically significant cardiac arrhythmia.&#xD;
+&#xD;
+          3. Concurrent treatment with an investigational medicinal product&#xD;
+&#xD;
+          4. Patients with any other clinical condition or prior therapy that, in the opinion of&#xD;
+             the investigator, would make the patient unsuitable for the study or unable to comply&#xD;
+             with the study requirements.&#xD;
+&#xD;
+          5. Pregnancy or lactation&#xD;
+&#xD;
+        A medical doctor will always be responsible for final inclusion of the subject.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Achiam, MD., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rigshospitalet, Department of Surgical Gastroenterology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael Achiam, MD., Ph.D.</last_name>
+    <phone>+45 35 45 04 41</phone>
+    <email>Michael.Patrick.Achiam.01@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Laser Bazancir, Med. student</last_name>
+    <phone>+45 60 63 20 48</phone>
+    <email>laser.arif.bazancir@regionh.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <state>Region Hovedstaden</state>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Achiam, Md., Ph.D.</last_name>
+      <phone>+45 35 45 04 41</phone>
+      <email>Michael.Patrick.Achiam.01@regionh.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 28, 2020</study_first_posted>
+  <last_update_submitted>October 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Michael Patrick Achiam</investigator_full_name>
+    <investigator_title>Consultant, MD, DMSci, Ph.D., FEBS-OG, Ass. Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Barrett Esophagus</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Calcium</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

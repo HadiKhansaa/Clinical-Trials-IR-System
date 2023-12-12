@@ -1,0 +1,235 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02192138</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IPU-DIMPA-WUM14(1)</org_study_id>
+    <nct_id>NCT02192138</nct_id>
+  </id_info>
+  <brief_title>Pathophysiological Effects of Intrapleural Pressure Changes During Therapeutic Thoracentesis</brief_title>
+  <official_title>Ventilation, Gas Exchange and Cardiac Function in Relation to Intrapleural Pressure Changes in Patients Undergoing Therapeutic Thoracentesis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Warsaw</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Nalecz Institute of Biocybernetics and Biomedical Engineering, Polish Academy of Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical University of Warsaw</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Research project objectives.&#xD;
+&#xD;
+      The project includes eight research hypotheses and eight corresponding study objectives. The&#xD;
+      most relevant objectives are:&#xD;
+&#xD;
+        -  Analysis of lung function and gas exchange parameters in relation to the removed pleural&#xD;
+           fluid volume and intrapleural pressure changes.&#xD;
+&#xD;
+        -  Evaluation of changes in lung and chest wall compliance and related changes in work of&#xD;
+           breathing during therapeutic thoracentesis and pleural fluid withdrawal.&#xD;
+&#xD;
+        -  Study of the relationship between intrapleural pressure changes and cardiac function&#xD;
+           assessed by echocardiography and alterations in serum natriuretic peptide A and B&#xD;
+           concentration.&#xD;
+&#xD;
+        -  Comparative analysis of the reliability of the volume-pressure curve slope prediction&#xD;
+           based on different variables measured before thoracentesis and real measurements of&#xD;
+           ventilation and intrapleural pressure during thoracentesis.&#xD;
+&#xD;
+           2. Research methodology The study will be performed in 60 patients with pleural effusion&#xD;
+           planned for therapeutic thoracentesis.&#xD;
+&#xD;
+      Studies before thoracentesis: body plethysmography, spirometry, lung diffusion capacity&#xD;
+      (DLCO), arterial blood gases, 6 minute walk test, echocardiography, serum natriuretic peptide&#xD;
+      concentration.&#xD;
+&#xD;
+      Evaluation during thoracentesis: continuous measurement of tidal breathing and respiratory&#xD;
+      rate, measurement of removed pleural fluid volume and intrapleural pressure, transcutaneous&#xD;
+      measurement of PO2 and PCO2. Pleural catheter will be retained for the next 48hours to enable&#xD;
+      fluid drainage and intrapleural pressure measurement after completion of thoracentesis.&#xD;
+&#xD;
+      Monitoring during 48-hrs after thoracentesis: pre-thoracentesis measurements will be repeated&#xD;
+      in specific time points and compared in two subgroups (active physiotherapy to improve lung&#xD;
+      re-expansion and passive lung re-expansion).&#xD;
+&#xD;
+      Intrapleural pressure will be measured 24 and 48 hours after thoracentesis. Then, the&#xD;
+      catheter will be removed.&#xD;
+&#xD;
+      Analysis.Signal analysis and visual multidimensional analysis performed with the use of own&#xD;
+      computer programs will be the first step of the analysis. The identified relationships&#xD;
+      between the analyzed parameters should allow to form physiological, medical, and statistical&#xD;
+      hypotheses, as well to verify the analysis of previously obtained data .&#xD;
+&#xD;
+      Expected impact of the research project The study results will allow to define lung function,&#xD;
+      blood gases and cardiovascular function in relation to changes in intrapleural pressure. Some&#xD;
+      of these correlations had not been previously investigated. Our results may influence&#xD;
+      management standards in patients who require therapeutic thoracentesis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 2014</start_date>
+  <completion_date type="Actual">January 2019</completion_date>
+  <primary_completion_date type="Actual">January 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in intrapleural pressure</measure>
+    <time_frame>Continuous measurement as a function of withdrawn pleural fluid during therapeutic thoracentesis - up to 60 minutes</time_frame>
+    <description>1) baseline measurement before pleural fluid withdrawal, 2) continuous measurement during pleural fluid withdrawal, 3) measurement 1 minute after termination of pleural fluid withdrawal (the end of the procedure),</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intrapleural pressure</measure>
+    <time_frame>6 hrs after completion of therapeutic thoracentesis</time_frame>
+    <description>Pleural manometer was connected to intrapleural catheter for intrapleural pressure measurement after therapeutic thoracetnesis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Volume of withdrawn pleural fluid</measure>
+    <time_frame>Continuous measurement during therapeutic thoracentesis - up to 60 minutes</time_frame>
+    <description>Continuous measurement during pleural fluid withdrawal, up to the end of the procedure, i.e. approximately 60 minutes</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in arterial blood gases and transcutaneous carbon dioxide tension (tcPCO2) and transcutaneous oxygen tension (tcPO2) measurements</measure>
+    <time_frame>Continuous measurement during therapeutic thoracentesis - up to 60 minutes</time_frame>
+    <description>1) baseline measurement 5 minutes before pleural fluid withdrawal, 2) continuous measurement during pleural fluid withdrawal, 3) measurement 1 minute after termination of pleural fluid withdrawal (the end of the procedure),</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Respiratory pattern including respiratory rate and tidal volume</measure>
+    <time_frame>Continuous measurement during therapeutic thoracentesis - up to 60 minutes</time_frame>
+    <description>1) baseline measurement 5 minutes before pleural fluid withdrawal, 2) continuous measurement during pleural fluid withdrawal, 3) measurement 1 minute after termination of pleural fluid withdrawal (the end of the procedure),</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in lung function</measure>
+    <time_frame>Baseline (approximately 1 hour before thoracentesis) and 6 hrs after therapeutic thoracentesis</time_frame>
+    <description>Lung function parameters measured by spirometry and body plethysmography</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in atrial natriuretic peptide (ANP) and brain natriuretic peptide (BNP)</measure>
+    <time_frame>Baseline (approximately 15 minutes before thoracentesis) and at the end of therapeutic thoracentesis (10 minutes after completion of the procedure, i.e approximately 85 minutes after baseline measurement)</time_frame>
+    <description>Venous blood samples were collected for natriuretic peptides measurements.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Arterial blood gases and transcutaneous carbon dioxide tension (tcPCO2) and transcutaneous oxygen tension (tcPO2) measurements</measure>
+    <time_frame>6 hrs after the completion of therapeutic thoracentesis</time_frame>
+    <description>Transcutaneous PO2 and PCO2 were measured in accordance with the manual supplied by the manufacturer of the transcutaneous O2/CO2 monitoring system.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Atrial natriuretic peptide (ANP) and brain natriuretic peptide (BNP)</measure>
+    <time_frame>6 hrs after the completion of the therapeutic thoracentesis</time_frame>
+    <description>Venous blood samples were collected for natriuretic peptides measurements.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">61</enrollment>
+  <condition>Pleural Effusion</condition>
+  <condition>Exudative Pleuritis</condition>
+  <arm_group>
+    <arm_group_label>Therapeutic thoracentesis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with pleural effusion who require therapeutic thoracentesis will be enrolled into the study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Therapeutic thoracentesis</intervention_name>
+    <description>Therapeutic thoracentesis with pleural fluid withdrawal</description>
+    <arm_group_label>Therapeutic thoracentesis</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Pleural catheter</intervention_name>
+    <arm_group_label>Therapeutic thoracentesis</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Pleural manometer</intervention_name>
+    <arm_group_label>Therapeutic thoracentesis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. age 18 - 85 years,&#xD;
+&#xD;
+          2. pleural effusion occupying more than one third of the hemithorax on the&#xD;
+             posteroanterior chest radiograph,&#xD;
+&#xD;
+          3. therapeutic thoracentesis planned on the basis of signs and symptoms as well as&#xD;
+             imaging and functional studies,&#xD;
+&#xD;
+          4. no contraindications for thoracentesis,&#xD;
+&#xD;
+          5. signed informed consent for participation in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. poor performance status requiring maximal shortening of the procedure,&#xD;
+&#xD;
+          2. instable hemodynamic or respiratory status unrelated to pleural effusion,&#xD;
+&#xD;
+          3. respiratory failure requiring mechanical ventilation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rafal M Krenke, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of Warsaw</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical University of Warsaw</name>
+      <address>
+        <city>Warsaw</city>
+        <zip>02-097</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>July 1, 2014</study_first_submitted>
+  <study_first_submitted_qc>July 14, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 16, 2014</study_first_posted>
+  <last_update_submitted>November 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pleural effusion</keyword>
+  <keyword>Pleural fluid</keyword>
+  <keyword>Thoracentesis</keyword>
+  <keyword>Intrapleural pressure</keyword>
+  <keyword>Pleural manometry</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pleural Effusion</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

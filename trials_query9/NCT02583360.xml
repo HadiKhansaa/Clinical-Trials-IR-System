@@ -1,0 +1,715 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02583360</url>
+  </required_header>
+  <id_info>
+    <org_study_id>14-00794</org_study_id>
+    <secondary_id>P01DK068051</secondary_id>
+    <nct_id>NCT02583360</nct_id>
+  </id_info>
+  <brief_title>Mechanisms and Management of Infant Dysphagia</brief_title>
+  <official_title>Neonatal Esophagus and Airway Interactions in Health and Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sudarshan Jadcherla</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ohio State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical College of Wisconsin</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nationwide Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the investigator's study is to evaluate the causes of feeding difficulty in&#xD;
+      infants. New treatments can be possible only if the cause is known. In this study, the&#xD;
+      investigator plans to evaluate the movement of the muscles in an infant's mouth, throat&#xD;
+      (pharynx) and food pipe (esophagus) that are responsible for moving the food down into the&#xD;
+      stomach and that help protect an infants airway.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Infants with chronic feeding difficulties exhibit inadequacy of suck-swallow and breathe&#xD;
+      coordination, regurgitation or vomiting, gastroesophageal reflux disease, and airway&#xD;
+      aspiration. Often these infants must rely on feeding tubes, either inserted through the nose&#xD;
+      or surgically placed, to meet their nutrition and hydration needs until they are able to&#xD;
+      orally feed safely, effectively, and efficiently. The process of assessment and treatment of&#xD;
+      swallowing disorders is often stressful for the infants and their providers, including&#xD;
+      parents. The goal of this study is to combine two commonly used diagnostic techniques (video&#xD;
+      fluoroscopy swallow studies and esophageal manometry) to more comprehensively evaluate&#xD;
+      feeding from the mouth to the stomach in infants. The hope is that by doing so treatment&#xD;
+      strategies can be improved.&#xD;
+&#xD;
+      : Eligible subjects (study) will undergo diagnostic VFSS in combination with manometry,&#xD;
+      either concurrent or sequential. They will have parental choice of preferred feeding therapy.&#xD;
+      The data is from single center prospective observational study. The controls are those who&#xD;
+      had VFSS alone with provider recommendations from the same single center.&#xD;
+&#xD;
+      In addition, we are also embarking on alternate strategies to achieve the original stated&#xD;
+      aims: 1) Mechanisms of dysphagia is ascertained by studying concurrent recordings of VFSS and&#xD;
+      manometry. 2) Feeding outcomes of Dysphagic infants are ascertained by evaluating the&#xD;
+      discharge outcomes and 1-year feeding outcomes among those that had evaluation of dysphagia&#xD;
+      using VFSS. 3) Dysphagic infants that had sequential VFSS and manometry studies are evaluated&#xD;
+      to test which method is a better predictor of stated outcomes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2015</start_date>
+  <completion_date type="Actual">August 30, 2020</completion_date>
+  <primary_completion_date type="Actual">August 30, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Eligible consented subjects (study) from a single center will undergo standard of care diagnostic VFSS in combination with the research intervention of utilizing manometry procedures to measure pharyngo-esophageal motility to aid with precise diagnosis, either concurrent or sequential. They will then have parental choice of preferred feeding therapy based on combined testing methods rather than therapy being prescribed by the VFSS results. The controls are those who had VFSS alone (standard of care) with treatment based solely on VFSS guided provider recommendations from the same single center.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Successful Safe Oral Feeding</measure>
+    <time_frame>Up to 4 weeks after enrollment</time_frame>
+    <description>The primary endpoint is the feeding success defined as full oral feeding (no tube feeds feeds) without symptoms that require interventions</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Weight Growth Velocity in Grams/Day</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The investigators will measure and track growth velocity (grams/day) during this time period. This will be completed through chart reviews of weight from subsequent clinic visits and parent interviews.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Length of Stay From Admission to Discharge in Days</measure>
+    <time_frame>from hospital admission until discharge</time_frame>
+    <description>The investigators will track the subjects length of hospitalization which included their initial study procedure.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">109</enrollment>
+  <condition>Dysphagia</condition>
+  <condition>Airway Aspiration</condition>
+  <condition>Airway Penetration</condition>
+  <arm_group>
+    <arm_group_label>Study</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Eligible subjects (study) will undergo diagnostic VFSS in combination with manometry, either concurrent or sequential. They will have parental choice of preferred feeding therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Eligible subjects who had VFSS alone with provider recommendations from the same single center.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Combined testing (diagnostic VFSS + research HRM) + Parent Preferred Therapy</intervention_name>
+    <description>Addition of research HRM along with diagnostic VFSS with parental choice of therapy</description>
+    <arm_group_label>Study</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Infants with feeding-related aero-digestive symptoms&#xD;
+&#xD;
+          -  ≤60 weeks PMA (both pre-term and full term)&#xD;
+&#xD;
+          -  History of orally feeding ≥ 25% of least 50% of prescribed feeding volume&#xD;
+&#xD;
+          -  Room air or supplemental oxygen of ≤1liter/minute (LPM)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Direct breast feeding exclusively&#xD;
+&#xD;
+          -  Known genetic, metabolic or syndromic disease&#xD;
+&#xD;
+          -  Neurological diseases such as Grade 3 or 4 intraventricular hemorrhage (IVH) or&#xD;
+             intracranial hemorrhage (ICH), moderate to severe perinatal asphyxia or stroke&#xD;
+&#xD;
+          -  Craniofacial, airway or foregut malformations&#xD;
+&#xD;
+          -  History of craniofacial, foregut, ears, nose and throat (ENT) or neurosurgery&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>38 Weeks</minimum_age>
+    <maximum_age>60 Weeks</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sudarshan R Jadcherla, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Research Institute at Nationwide Children's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Reza Shaker, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Medical College of Wisconsin</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The Research Institute at Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Jadcherla SR, Stoner E, Gupta A, Bates DG, Fernandez S, Di Lorenzo C, Linscheid T. Evaluation and management of neonatal dysphagia: impact of pharyngoesophageal motility studies and multidisciplinary feeding strategy. J Pediatr Gastroenterol Nutr. 2009 Feb;48(2):186-92. doi: 10.1097/MPG.0b013e3181752ce7.</citation>
+    <PMID>19179881</PMID>
+  </reference>
+  <reference>
+    <citation>Jadcherla SR, Peng J, Moore R, Saavedra J, Shepherd E, Fernandez S, Erdman SH, DiLorenzo C. Impact of personalized feeding program in 100 NICU infants: pathophysiology-based approach for better outcomes. J Pediatr Gastroenterol Nutr. 2012 Jan;54(1):62-70. doi: 10.1097/MPG.0b013e3182288766.</citation>
+    <PMID>21694638</PMID>
+  </reference>
+  <reference>
+    <citation>Jadcherla SR, Gupta A, Stoner E, Fernandez S, Shaker R. Pharyngeal swallowing: defining pharyngeal and upper esophageal sphincter relationships in human neonates. J Pediatr. 2007 Dec;151(6):597-603. Epub 2007 Aug 23.</citation>
+    <PMID>18035137</PMID>
+  </reference>
+  <reference>
+    <citation>Jadcherla SR, Shubert TR, Gulati IK, Jensen PS, Wei L, Shaker R. Upper and lower esophageal sphincter kinetics are modified during maturation: effect of pharyngeal stimulus in premature infants. Pediatr Res. 2015 Jan;77(1-1):99-106. doi: 10.1038/pr.2014.147. Epub 2014 Oct 3.</citation>
+    <PMID>25279989</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 20, 2015</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 22, 2015</study_first_posted>
+  <results_first_submitted>October 25, 2020</results_first_submitted>
+  <results_first_submitted_qc>November 20, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 16, 2020</results_first_posted>
+  <last_update_submitted>November 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Nationwide Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Sudarshan Jadcherla</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Infant</keyword>
+  <keyword>Feeding difficulties</keyword>
+  <keyword>Dysphagia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deglutition Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 2, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/60/NCT02583360/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Study</title>
+          <description>Eligible subjects (study) will undergo diagnostic VFSS in combination with manometry, either concurrent or sequential. They will have parental choice of preferred feeding therapy.&#xD;
+Combined Diagnostic testing (VFSS + HRM) + Parent Preferred Therapy: HRM along with diagnostic VFSS with parental choice of therapy</description>
+        </group>
+        <group group_id="P2">
+          <title>Control</title>
+          <description>Eligible subjects who had VFSS alone with provider recommendations from the same single center.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+                <participants group_id="P2" count="49"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="60"/>
+                <participants group_id="P2" count="49"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Study</title>
+          <description>Eligible subjects (study) will undergo diagnostic VFSS in combination with manometry, either concurrent or sequential. They will have parental choice of preferred feeding therapy.&#xD;
+Combined Diagnostic testing (VFSS + HRM) + Parent Preferred Therapy: HRM along with diagnostic VFSS with parental choice of therapy</description>
+        </group>
+        <group group_id="B2">
+          <title>Control</title>
+          <description>Eligible subjects who had VFSS alone with provider recommendations from the same single center.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="60"/>
+            <count group_id="B2" value="49"/>
+            <count group_id="B3" value="109"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="49"/>
+                    <measurement group_id="B3" value="109"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <description>Postmenstrual age at time of study</description>
+          <units>weeks</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="45.7" lower_limit="36.4" upper_limit="60.7"/>
+                    <measurement group_id="B2" value="45.7" lower_limit="38.4" upper_limit="57"/>
+                    <measurement group_id="B3" value="45.7" lower_limit="36.4" upper_limit="60.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="56"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50"/>
+                    <measurement group_id="B2" value="31"/>
+                    <measurement group_id="B3" value="81"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="60"/>
+                    <measurement group_id="B2" value="49"/>
+                    <measurement group_id="B3" value="109"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Successful Safe Oral Feeding</title>
+        <description>The primary endpoint is the feeding success defined as full oral feeding (no tube feeds feeds) without symptoms that require interventions</description>
+        <time_frame>Up to 4 weeks after enrollment</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Study</title>
+            <description>Eligible subjects (study) will undergo diagnostic VFSS in combination with manometry, either concurrent or sequential. They will have parental choice of preferred feeding therapy.&#xD;
+Combined Diagnostic testing (VFSS + HRM) + Parent Preferred Therapy: HRM along with diagnostic VFSS with parental choice of therapy</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Eligible subjects who had VFSS alone with provider recommendations from the same single center.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Successful Safe Oral Feeding</title>
+          <description>The primary endpoint is the feeding success defined as full oral feeding (no tube feeds feeds) without symptoms that require interventions</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="60"/>
+                <count group_id="O2" value="49"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="51"/>
+                    <measurement group_id="O2" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.008</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Weight Growth Velocity in Grams/Day</title>
+        <description>The investigators will measure and track growth velocity (grams/day) during this time period. This will be completed through chart reviews of weight from subsequent clinic visits and parent interviews.</description>
+        <time_frame>4 weeks</time_frame>
+        <population>Unable to get growth velocity on all patients as they were not all hospitalized or weight at 4 weeks after study</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study</title>
+            <description>Eligible subjects (study) will undergo diagnostic VFSS in combination with manometry, either concurrent or sequential. They will have parental choice of preferred feeding therapy.&#xD;
+Combined Diagnostic testing (VFSS + HRM) + Parent Preferred Therapy: HRM along with diagnostic VFSS with parental choice of therapy</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Eligible subjects who had VFSS alone with provider recommendations from the same single center.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Weight Growth Velocity in Grams/Day</title>
+          <description>The investigators will measure and track growth velocity (grams/day) during this time period. This will be completed through chart reviews of weight from subsequent clinic visits and parent interviews.</description>
+          <population>Unable to get growth velocity on all patients as they were not all hospitalized or weight at 4 weeks after study</population>
+          <units>grams/day</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="46"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27" spread="11.1"/>
+                    <measurement group_id="O2" value="26.7" spread="11.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.907</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hospital Length of Stay From Admission to Discharge in Days</title>
+        <description>The investigators will track the subjects length of hospitalization which included their initial study procedure.</description>
+        <time_frame>from hospital admission until discharge</time_frame>
+        <population>Some patients in study group were outpatient</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Study</title>
+            <description>Eligible subjects (study) will undergo diagnostic VFSS in combination with manometry, either concurrent or sequential. They will have parental choice of preferred feeding therapy.&#xD;
+Combined Diagnostic testing (VFSS + HRM) + Parent Preferred Therapy: HRM along with diagnostic VFSS with parental choice of therapy</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Eligible subjects who had VFSS alone with provider recommendations from the same single center.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hospital Length of Stay From Admission to Discharge in Days</title>
+          <description>The investigators will track the subjects length of hospitalization which included their initial study procedure.</description>
+          <population>Some patients in study group were outpatient</population>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="49"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="43.6" spread="49.7"/>
+                    <measurement group_id="O2" value="49.9" spread="58.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.592</p_value>
+            <method>t-test, 2 sided</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 year</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Study</title>
+          <description>Eligible subjects (study) will undergo diagnostic VFSS in combination with manometry, either concurrent or sequential. They will have parental choice of preferred feeding therapy.&#xD;
+Combined Diagnostic testing (VFSS + HRM) + Parent Preferred Therapy: HRM along with diagnostic VFSS with parental choice of therapy</description>
+        </group>
+        <group group_id="E2">
+          <title>Control</title>
+          <description>Eligible subjects who had VFSS alone with provider recommendations from the same single center.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="49"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="49"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="60"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="49"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Sudarshan Jadcherla MD</name_or_title>
+      <organization>The Research Institute at Nationwide Children's Hospital</organization>
+      <phone>614-355-6433</phone>
+      <email>sudarshan.jadcherla@nationwidechildrens.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

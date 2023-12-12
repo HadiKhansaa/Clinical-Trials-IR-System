@@ -1,0 +1,242 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04791956</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20018m-jhr</org_study_id>
+    <nct_id>NCT04791956</nct_id>
+  </id_info>
+  <brief_title>Prebiotic EffecT InfanTs</brief_title>
+  <acronym>PETIT</acronym>
+  <official_title>Double-blind, Randomized Placebo-controlled Trial Investigating the Effect of Prebiotic Inulin-type Fructans on Bowel Habits of Infants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beneo-Institute</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Universitari Sant Joan de Reus</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital de Tarragona Joan XXIII</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institut Investigacio Sanitaria Pere Virgili</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Beneo-Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to confirm the effectiveness of chicory-derived prebiotic inulin-type fructans&#xD;
+      on stool consistency in infants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The fermentation of prebiotic inulin-type fructans leads to a modulation of the gut&#xD;
+      microbiota composition, in particular to a growth stimulation of bifidobacteria, and the&#xD;
+      production of organic acids like lactate and short-chain fatty acids (SCFA). The introduction&#xD;
+      of solid foods is frequently associated with harder stools which are more difficult to pass&#xD;
+      and can cause painful defecations. Subsequently, the changes in bowel habits associated with&#xD;
+      weaning and the introduction of complementary foods could be minimized by the addition of&#xD;
+      prebiotics to complementary foods and, thus, the transition from milk-feeding to family food&#xD;
+      could be facilitated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Stool consistency</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Assessed by the parents in a continuous daily bowel diary over the study period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stool frequency</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Assessed by daily parental reporting</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stool colour</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Assessed by the parents in a continuous daily bowel diary over the study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stool amount</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Assessed by the parents in a continuous daily bowel diary over the study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Change in sleep behavior assessed by parental questionnaire (Brief Infant Sleep Questionnaire) at the beginning and end of the trial</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stool pH</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>change in stool pH over a four week period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>stool short-chain fatty acids</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>change in amount and relative distribution of short-chain fatty acids in stool over a four week period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tolerance and acceptability</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Tolerance and acceptability of the study products assessed by customized parental questionnaire at the end of the trial</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body weight</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>changes in body weight (kg) assessed by an investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body height</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>changes in body height (m) assessed by an investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Faecal Microbiota</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Stool samples will be analysed by appropriate molecular biological methods like 16S rRNA gene sequencing to gain insight into the composition of the gut microbiota.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">140</enrollment>
+  <condition>Infant Development</condition>
+  <condition>Healthy</condition>
+  <condition>Diet, Healthy</condition>
+  <arm_group>
+    <arm_group_label>Prebiotic</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inulin-type fructans</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Maltodextrin</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Prebiotic</intervention_name>
+    <description>Daily intake of Inulin-type fructans from chicory</description>
+    <arm_group_label>Prebiotic</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Daily intake of maltodextrin</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Child is healthy at the time of pre-examination&#xD;
+&#xD;
+          -  Child was born on term or preterm (≥ 32 weeks of gestation)&#xD;
+&#xD;
+          -  Child is aged 6-12 months at the time of pre-examination (for preterm born children&#xD;
+             (32-37 weeks of gestation), corrected age will be applied)&#xD;
+&#xD;
+          -  Normal growth (weight and length for age between 10th and 90th percentiles, Fenton and&#xD;
+             Kim 2013)&#xD;
+&#xD;
+          -  Child receives at least one meal per day as complementary feeding&#xD;
+&#xD;
+          -  Child and legal guardian are able and willing to follow the study instructions&#xD;
+&#xD;
+          -  Child is suitable for participation in the study according to the&#xD;
+             investigator/physician/study personnel&#xD;
+&#xD;
+          -  Written informed consent is given by parent or legal guardian&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No legal guardian's command of any local language&#xD;
+&#xD;
+          -  Organic causes of defecation disorders incl. Hirschsprung disease, Spina bifida,&#xD;
+             hypothyroidism etc.&#xD;
+&#xD;
+          -  Other metabolic or renal abnormalities or psychomotor retardation (e.g. hypotonia)&#xD;
+&#xD;
+          -  Child has allergy to cow's milk protein or lactose intolerance&#xD;
+&#xD;
+          -  Child has been or is currently breast-fed more than once daily (6 weeks before&#xD;
+             intervention)&#xD;
+&#xD;
+          -  Child has mostly loose or watery stools in ≥ 50% of defecations&#xD;
+&#xD;
+          -  Use of drugs (e.g. antibiotics) influencing gastrointestinal function (6 weeks before&#xD;
+             intervention)&#xD;
+&#xD;
+          -  Use of laxatives or pre- or probiotic supplements in the previous 4 weeks before&#xD;
+             intervention&#xD;
+&#xD;
+          -  Child is currently involved or will be involved in another clinical or food study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>12 Months</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ricardo Closa Monasterolo, Phd, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Paediatrics Unit, University Hospital Joan XXIII, Tarragona, Spain. Paediatrics Research Unit on Nutrition and Human Development, Universitat Rovira i Virgili, Reus, Spain</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Joaquin Escribano Subias, PhD, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Paediatrics Unit, University Hospital Sant Joan, Reus, Spain. Paediatrics Research Unit on Nutrition and Human Development, Universitat Rovira i Virgili, Reus, Spain</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stephan Theis, PhD</last_name>
+    <phone>+49 6359 803 287</phone>
+    <email>stephan.theis@beneo.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Closa-Monasterolo R, Ferré N, Castillejo-DeVillasante G, Luque V, Gispert-Llaurado M, Zaragoza-Jordana M, Theis S, Escribano J. The use of inulin-type fructans improves stool consistency in constipated children. A randomised clinical trial: pilot study. Int J Food Sci Nutr. 2017 Aug;68(5):587-594. doi: 10.1080/09637486.2016.1263605. Epub 2016 Dec 8.</citation>
+    <PMID>27931142</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 10, 2021</study_first_posted>
+  <last_update_submitted>March 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Microbiota, gastrointestinal health</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

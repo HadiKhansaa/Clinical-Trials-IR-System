@@ -1,0 +1,223 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04640805</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/2493</org_study_id>
+    <nct_id>NCT04640805</nct_id>
+  </id_info>
+  <brief_title>Targeted Fortification of Pasteurized Donor Human Milk</brief_title>
+  <official_title>Targeted Fortification of Pasteurized Donor Human Milk to Improve Growth in Very Low Birth Weight Infants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>KK Women's and Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>KK Women's and Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized controlled trial aims to evaluate a modified targeted fortification method of&#xD;
+      pasteurized donor human milk (PDHM) in very low birth weight infants (VLBWs). Pools of PDHM&#xD;
+      will be analyzed for macronutrient content using the Miris Human Milk Analyzer. The control&#xD;
+      arm will receive standard of care, which is PDHM without additional protein fortification.&#xD;
+      The intervention arm will receive PDHM with a fat content of 3.8g/dL or more, with additional&#xD;
+      protein fortification of 0.67g/dL. Primary outcome will be rate of malnutrition at hospital&#xD;
+      discharge or 37 weeks, whichever earlier. Secondary outcomes include body composition, feed&#xD;
+      tolerance, and morbidity outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Our hospital milk bank provides pasteurized donor human milk (PDHM) to very low birth weight&#xD;
+      (VLBW) infants without sufficient mother's milk, with the overall aim of lowering the risk of&#xD;
+      necrotizing enterocolitis in this population. However, with the introduction of PDHM in our&#xD;
+      setting, rates of suboptimal weight gain have increased (60.2% to 65.7%). This is likely due&#xD;
+      to the fact that PDHM is often lower in energy and protein than preterm mother's own milk.&#xD;
+      One solution to delivery adequate nutrition in this VLBWs receiving PDHM, is targeted&#xD;
+      fortification, which involves measurement of the macronutrient content of human milk, and&#xD;
+      adding extra macronutrients to reach nutrient goals. In this proposed study, we will conduct&#xD;
+      a pilot randomized controlled trial of a modified targeted fortification versus standard&#xD;
+      care. This study will include preterm VLBW infants (&lt;1500g), without congenital conditions&#xD;
+      resulting in growth restriction, and receiving &gt;25% of PDHM use in the first week of life. 40&#xD;
+      patients in each arm will be recruited over a period of 2 years. The intervention group will&#xD;
+      receive a modified targeted fortification, consisting of selection of high fat PDHM (3.8g/dL&#xD;
+      or more) with the addition of protein fortification of 0.67g/dL from week 2 of life until a&#xD;
+      gestational age of 37 weeks or hospital discharge, whichever earlier. The control group will&#xD;
+      receive usual regular PDHM with standard fortification using human milk fortifier as per&#xD;
+      current practice. The primary outcome is the rate of suboptimal growth (drop in weight&#xD;
+      z-score from birth ≥0.8) at discharge or 37 weeks. Secondary outcomes include body&#xD;
+      composition, feed tolerance, and morbidity outcomes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">January 2, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Assignment to study group will be done in a 1:1 ratio. Twins/triplets will be randomized to the same group.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Malnutrition rate</measure>
+    <time_frame>Hospital discharge or 37 weeks gestation, whichever earlier</time_frame>
+    <description>Malnutrition is defined as a decline in weight z-score from birth of 0.8 or more</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Linear growth</measure>
+    <time_frame>Hospital discharge or 37 weeks post menstrual age, whichever earlier</time_frame>
+    <description>Linear growth will be assessed using z-score changes from birth</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body composition</measure>
+    <time_frame>Hospital discharge or 37 weeks gestation, whichever earlier</time_frame>
+    <description>Percent fat mass and fat-free mass measured using air displacement plethysmography</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Head circumference growth</measure>
+    <time_frame>Hospital discharge or 37 weeks gestation, whichever earlier</time_frame>
+    <description>Head circumference will be assessed using z-score changes from birth</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>High calorie formula use</measure>
+    <time_frame>Hospital discharge or 35 weeks gestation, whichever earlier</time_frame>
+    <description>Proportion of high calorie formula use (e.g. 27kcal/oz or 30kcal/oz formula)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bronchopulmonary dysplasia</measure>
+    <time_frame>Hospital discharge or 37 weeks gestation, whichever earlier</time_frame>
+    <description>Proportion of patients with bronchopulmonary dysplasia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Retinopathy of prematurity</measure>
+    <time_frame>Hospital discharge or 37 weeks gestation, whichever earlier</time_frame>
+    <description>Proportion of patients with retinopathy of prematurity</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Neurodevelopmental scores</measure>
+    <time_frame>18 to 24 months post menstrual age</time_frame>
+    <description>Bayley Scales of Infant and Toddler Development scale scores</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Infant motor performance</measure>
+    <time_frame>Hospital discharge or 37 weeks gestation, whichever earlier</time_frame>
+    <description>Test of Infant Motor Performance scores measured by trained physiotherapists</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Duration of hospital stay</measure>
+    <time_frame>Hospital discharge, assessed up to 180 days post menstrual age</time_frame>
+    <description>Days of hospital stay</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Very Low Birth Weight Infant</condition>
+  <condition>Growth Failure</condition>
+  <condition>Donor Breast Milk</condition>
+  <arm_group>
+    <arm_group_label>Control group (standard fortification)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Pasteurized Donor Human Milk (PDHM) will be fortified as per unit protocols, at 1 packet of Human Milk Fortifier (Similac) to every 25ml PDHM at a feed volume of 80ml/kg/day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention group (modified targeted fortification)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pasteurized Donor Human Milk (PDHM) will be analyzed using the Miris Human Milk Analyzer, and PDHM with a fat content of 3.8g/dL or higher will be selected. Additional protein will be added using liquid protein fortifier (Similac) at 1ml to every 25ml PDHM to give an additional 0.67g/dL protein.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Protein supplementation</intervention_name>
+    <description>Liquid protein fortifier (Similac) will be added at 1ml per 25ml of PDHM at 130ml/kg/day of feed volume.</description>
+    <arm_group_label>Intervention group (modified targeted fortification)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Analysis with Miris Human Milk Analyzer</intervention_name>
+    <description>PDHM macronutrient content will be analyzed using the Miris Human Milk Analyzer and PDHM with fat content of 3.8g/dL or higher will be selected and provided.</description>
+    <arm_group_label>Intervention group (modified targeted fortification)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Birth weight less than or equal to 1500g&#xD;
+&#xD;
+          -  Born at our study hospital or transferred to study hospital within first week of life&#xD;
+&#xD;
+          -  Achieving at least 40ml/kg/day of enteral feeds by day 7 of life&#xD;
+&#xD;
+          -  Receiving at least 25% of pasteurized donor human milk within first 7 days of life&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed or suspected inborn errors of metabolism&#xD;
+&#xD;
+          -  Acute or chronic renal impairment&#xD;
+&#xD;
+          -  Congenital disease associated with significant growth impairment (including, but not&#xD;
+             limited to, Trisomy 21, neonatal encephalopathy and seizures, neonatal tumours,&#xD;
+             achondroplasia, complex congenital heart disease, anorectal malformations,&#xD;
+             gastrointestinal disorders)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>37 Weeks</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chengsi Ong</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>KK Women's and Children's Hospital, Singapore</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Chengsi Ong</last_name>
+    <phone>6394 1646</phone>
+    <email>ong.chengsi@kkh.com.sg</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>KK Women's and Children's Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>229899</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>November 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2020</study_first_posted>
+  <last_update_submitted>February 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Birth Weight</mesh_term>
+    <mesh_term>Failure to Thrive</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,272 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03792503</url>
+  </required_header>
+  <id_info>
+    <org_study_id>XQonc-011</org_study_id>
+    <nct_id>NCT03792503</nct_id>
+  </id_info>
+  <brief_title>Pemetrexed Plus Apatinib Maintenance Treatment in Patients With Non-squamous Non-small Cell Lung Cancer Patients Who Have Not Progressed After 4 Cycles of Induction Chemotherapy of Pemetrexed in Combination With Platinum-based Regimen</brief_title>
+  <official_title>Pemetrexed Plus Apatinib Maintenance Treatment in Patients With Non-squamous Non-small Cell Lung Cancer Patients Who Have Not Progressed After 4 Cycles of Induction Chemotherapy of Pemetrexed in Combination With Platinum-based Regimen: A Prospective, Open, One-arm Clinical Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xinqiao Hospital of Chongqing</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Xinqiao Hospital of Chongqing</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In order to further improve the therapeutic efficacy of advanced no-squamous non-small cell&#xD;
+      lung cancer patients, improve the life cycle, this study will take the standard after&#xD;
+      treatment pemetrexed combined other anti-angiogenesis drugs to maintain as the direction, so&#xD;
+      as to provide more over the evidence for the treatment of advanced NSCLC.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In patients with advanced non-squamous non-small cell lung cancer, patients receiving&#xD;
+      pemetrexed and platinum-based chemotherapy after 4 cycles of non-progressive evaluation were&#xD;
+      treated with pemetrexed plus apatinib. Until the disease progresses, there are intolerable&#xD;
+      side effects or the patient requests to withdraw from the study. It is planned to include 20&#xD;
+      subjects.&#xD;
+&#xD;
+      Dosing regimen： Apatinib 500mg po qd (If there is a 3-4 degree toxic side reaction after 14&#xD;
+      days of administration, the dose can be lowered to 250mg qd); Pemetrexed 500 mg/m2 d1×q3w;&#xD;
+      Until the patient progresses, the toxicity is intolerable, the patient withdraws his&#xD;
+      knowledge, or the investigator judges that the medication must be discontinued.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2019</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression free survival（PFS）</measure>
+    <time_frame>Up to three years</time_frame>
+    <description>From date of randomization until the date of first documented progression or date of death from any cause, whichever came first, assessed up to three years</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Up to three years</time_frame>
+    <description>From date of randomization until the date of death from any cause, assessed up to three years</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate</measure>
+    <time_frame>Up to three years</time_frame>
+    <description>Investigators will assess treatment response according to Response Evaluation Criteria in Solid Tumors 1.1（RECIST1.1）.DCR includes CR, PR, SD.Complete remission (CR): All target lesions disappeared completely except for nodular disease. All target nodules must be reduced to normal size (short axis &lt;10 mm). All target lesions must be evaluated.Partial Remission (PR): The sum of the diameters of all measurable target lesions is ≥30% below baseline. The sum of the target nodules uses a short diameter, and the sum of all other target lesions uses the longest diameter. All target lesions must be evaluated.Stable disease (SD): The extent of target lesion reduction did not reach PR, and the degree of increase did not reach PD level. Between the two, the minimum value of the sum of diameters could be used as a reference.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>Up to three years</time_frame>
+    <description>ORR is defined as the percentage of subjects having achieved confirmed Complete Response + Partial Response as best overall response according to radiological assessments.ORR includes CR,PR.Stable disease (SD): The extent of target lesion reduction did not reach PR, and the degree of increase did not reach PD level. Between the two, the minimum value of the sum of diameters could be used as a reference.Stable disease (SD): The extent of target lesion reduction did not reach PR, and the degree of increase did not reach PD level. Between the two, the minimum value of the sum of diameters could be used as a reference.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health related quality of life</measure>
+    <time_frame>Up to three years</time_frame>
+    <description>HRQoL will be evaluated based on the patient's response to the FACT-L questionnaire. The FACT-L questionnaire was validated to assess the quality of life of patients with lung cancer. The 36-item questionnaire consists of four aspects: physical status, functional status, emotional status, and social/family status. The answer consists of &quot;none&quot; to &quot;very&quot; different levels of choice. The FACT-L questionnaire has a total score of 0 to 136 points. Higher scores indicate poor patient quality of life.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Advanced Non-squamous Non-small-cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Apatinib，Pemetrexe</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pemetrexe 500 mg/m2 d1×q3w; Apatinib 500 mg Po qd</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Apatinib</intervention_name>
+    <description>Apatinib 500 mg Po qd</description>
+    <arm_group_label>Apatinib，Pemetrexe</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed</intervention_name>
+    <description>Pemetrexe 500 mg/m2 d1×q3w</description>
+    <arm_group_label>Apatinib，Pemetrexe</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Stage IV non-squamous non-small cell lung cancer diagnosed by pathology.&#xD;
+&#xD;
+          2. At least one measurable lesion.&#xD;
+&#xD;
+          3. If the genetic test (EGFR/ALK) is an EGFR-sensitive mutation or an ALK fusion&#xD;
+             gene-positive patient, it is necessary to receive targeted therapy for the first-line&#xD;
+             treatment; if there is no mutation, it is necessary to be a first-line patient.&#xD;
+&#xD;
+          4. Pemetrexed combined platinum induction chemotherapy after 4 cycles of RECIST curative&#xD;
+             effect evaluation of patients who were not progress.&#xD;
+&#xD;
+          5. Gender is not limited, age: ≥ 18 years old.&#xD;
+&#xD;
+          6. ECOG PS: 0-2 points.&#xD;
+&#xD;
+          7. Estimated lifetime ≥3 months&#xD;
+&#xD;
+          8. Organ function levels meet the following criteria:&#xD;
+&#xD;
+               -  Blood routine examination standards must meet: ANC≥1.5×109/L, PLT≥100×109/L,&#xD;
+                  Hb≥100g/L (No blood transfusion and blood products within 14 days, not corrected&#xD;
+                  by G-CSF and other hematopoietic stimulating factors).&#xD;
+&#xD;
+               -  Biochemical examination must be in accordance with the following criteria:&#xD;
+                  TBIL&lt;1.5×ULN, ALT, AST and ALP&lt;2.5×ULN, BUN and Cr≤1×ULN or Endogenous creatinine&#xD;
+                  clearance≥50ml/min (Cockcroft-Gault formula).&#xD;
+&#xD;
+          9. Women of childbearing age must have reliable contraceptive measures, or in the group&#xD;
+             of 7 days before the pregnancy test (serum or urine), and the results were negative,&#xD;
+             and willing to during the test and the last for 8 weeks after experimental drug using&#xD;
+             appropriate methods of contraception.For men, must be agreed to at the end of the&#xD;
+             experiments and tests of giving drugs after 8 weeks using appropriate methods of&#xD;
+             contraception or has sterilization surgery.&#xD;
+&#xD;
+         10. Subjects were willing to join in this study, signed informed consent, good adherence,&#xD;
+             cooperate with the follow-up.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Squamous cell carcinoma (including adenosquamous carcinoma), small cell lung cancer&#xD;
+             (including small cell carcinoma and non-small cell mixed lung cancer).&#xD;
+&#xD;
+          2. Patient gene detection is EGFR sensitive mutation, or positive for ALK fusion gene.&#xD;
+&#xD;
+          3. Symptomatic brain metastasis (a patient with brain metastases who completed treatment&#xD;
+             and had stable symptoms 21 days before enrollment can be enrolled, but need to be&#xD;
+             confirmed by brain MRI, CT or venography to have no cerebral hemorrhage symptoms).&#xD;
+&#xD;
+          4. Imaging (CT or MRI) showed tumor lesions ranging from ≤ 5 mm to large vessels, or&#xD;
+             central tumors that invaded local large blood vessels; or showed significant pulmonary&#xD;
+             cavitary or necrotizing tumors.&#xD;
+&#xD;
+          5. Hypertension (systolic blood pressure ≥140 mmHg or diastolic blood pressure ≥90 mmHg)&#xD;
+             that is still uncontrollable using a combination of two antihypertensive drugs.&#xD;
+&#xD;
+          6. Have the following cardiovascular diseases: myocardial ischemia or myocardial&#xD;
+             infarction above grade II, poorly controlled arrhythmias (including men with QTc&#xD;
+             interval ≥ 450 ms, women ≥ 470 ms); according to NYHA criteria, grade III to IV&#xD;
+             cardiac insufficiency, Or cardiac color Doppler ultrasound examination indicates left&#xD;
+             ventricular ejection fraction (LVEF) &lt;50%.&#xD;
+&#xD;
+          7. Patients with a history of pulmonary interstitial disease or a patient with pulmonary&#xD;
+             interstitial disease.&#xD;
+&#xD;
+          8. Abnormal coagulation (INR &gt; 1.5 or prothrombin time (PT) &gt; ULN + 4 seconds or APTT &gt;&#xD;
+             1.5 ULN), with bleeding tendency or undergoing thrombolysis or anticoagulant therapy.&#xD;
+&#xD;
+          9. There is obvious cough blood in the 2 months before enrollment, or the daily&#xD;
+             hemoptysis amount is 2.5ml or more.&#xD;
+&#xD;
+         10. Into the group of the first 3 months there have been significant clinical significance&#xD;
+             of bleeding symptoms or have definite bleeding tendency.&#xD;
+&#xD;
+         11. Events of arterial/venous thrombosis occurring within 12 months prior to enrollment,&#xD;
+             such as cerebrovascular accidents (including transient ischemic attacks, cerebral&#xD;
+             hemorrhage, cerebral infarction), deep vein thrombosis, and pulmonary embolism,etc.&#xD;
+&#xD;
+         12. Known hereditary or acquired bleeding and thrombophilia (such as hemophilia patients,&#xD;
+             coagulopathy, thrombocytopenia, hypersplenism, etc.)&#xD;
+&#xD;
+         13. Long-term unhealed wound or fracture.&#xD;
+&#xD;
+         14. Major surgery or severe traumatic injury, fracture or ulceration within 4 weeks of&#xD;
+             enrollment.&#xD;
+&#xD;
+         15. Factors that have a significant impact on oral drug absorption, such as inability to&#xD;
+             swallow, chronic diarrhea, and intestinal obstruction.&#xD;
+&#xD;
+         16. Abdominal fistula, gastrointestinal perforation or abdominal abscess occurred within 6&#xD;
+             months prior to enrollment.&#xD;
+&#xD;
+         17. Urine routine indicates urinary protein ≥ ++, or confirmed 24-hour urine protein ≥ 1.0&#xD;
+             g.&#xD;
+&#xD;
+         18. Has a history of psychiatric drugs abuse and can't quit or have a mental disorder.&#xD;
+&#xD;
+         19. Participated in other clinical trials of anti-tumor drugs within 4 weeks prior to&#xD;
+             enrollment.&#xD;
+&#xD;
+         20. Previous or concurrent with other unhealed malignant tumors, except for cured skin&#xD;
+             basal cell carcinoma, cervical carcinoma in situ, and superficial bladder cancer.&#xD;
+&#xD;
+         21. Pregnant or lactating women; those who have fertility are unwilling or unable to take&#xD;
+             effective contraceptive measures.&#xD;
+&#xD;
+         22. The investigator judges other conditions that may affect the conduct of the clinical&#xD;
+             study and the determination of the results of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jianguo Sun, Doctor</last_name>
+    <phone>8613983155736</phone>
+    <email>Sunjg@aliYun.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Xinqiao Hospital of Chongqing</name>
+      <address>
+        <city>Chongqing</city>
+        <zip>400000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sun Jianguo</last_name>
+      <email>yanmaizhixiang@sina.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2019</verification_date>
+  <study_first_submitted>January 2, 2019</study_first_submitted>
+  <study_first_submitted_qc>January 2, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 3, 2019</study_first_posted>
+  <last_update_submitted>January 11, 2019</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 15, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Xinqiao Hospital of Chongqing</investigator_affiliation>
+    <investigator_full_name>Jianguo Sun</investigator_full_name>
+    <investigator_title>Deputy director</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pemetrexed</mesh_term>
+    <mesh_term>Apatinib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

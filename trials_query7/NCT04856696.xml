@@ -1,0 +1,290 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04856696</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KSVGH20-CT12-16</org_study_id>
+    <nct_id>NCT04856696</nct_id>
+  </id_info>
+  <brief_title>Clinical Application of Non-invasive PGT-A</brief_title>
+  <official_title>Clinical Application of Non-invasive Preimplantation Genetic Testing for Aneuploidies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kaohsiung Veterans General Hospital.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sofiva Genomics Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Kaohsiung Veterans General Hospital.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to investigate the difference of in vitro fertilization (IVF) outcomes among&#xD;
+      non-invasive PGT-A, PGT-A and combined non-invasive PGT-A and PGT-A.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background Chromosome abnormality is a leading cause of implantation failure and miscarriage.&#xD;
+      Chromosome abnormality increases with age, resulting in reduced pregnancy rate. Nowadays,&#xD;
+      preimplantation genetic testing for aneuploidies (PGT-A) could be used for detection of&#xD;
+      aneuploidy. However, PGT-A needs embryo biopsy which is invasive and may cause embryo damage.&#xD;
+      It was found that cell free DNA could be isolated from culture media. The cell free DNA from&#xD;
+      culture media also could be used to detect embryo ploidy, called non-invasive PGT-A.&#xD;
+&#xD;
+      Objective The study aims to investigate the difference of in vitro fertilization (IVF)&#xD;
+      outcomes among non-invasive PGT-A, PGT-A and combined non-invasive PGT-A and PGT-A. Another&#xD;
+      aim of this study is to check the concordance rate between non-invasive PGT-A and PGT-A.&#xD;
+&#xD;
+      Methods The prospective cohort study will be performed at the reproductive medical center of&#xD;
+      Kaohsiung Veterans General Hospital, in Kaohsiung, Taiwan. Participants who plan to receive&#xD;
+      an IVF cycle and preimplantation genetic testing for aneuploidies will be enrolled in this&#xD;
+      study. The investigators will divide the participants into 3 groups: (1) combined&#xD;
+      non-invasive PGT-A and PGT-A; (2) PGT-A; (3) non-invasive PGT-A. Basal characteristics,&#xD;
+      infertility history, ovarian reserve and embryo development of the three groups will be&#xD;
+      recorded. The samples will be detected ploidy by using next generation sequencing (NGS).&#xD;
+      Then, the investigators will choose embryo to transfer according to the embryo ploidy and&#xD;
+      follow the pregnancy outcomes after embryo transfer.&#xD;
+&#xD;
+      Outcome&#xD;
+&#xD;
+        1. Concordance rate between non-invasive PGT-A and PGT-A&#xD;
+&#xD;
+        2. The relationship between morphological grade and ploidy of non-invasive PGT-A&#xD;
+&#xD;
+        3. IVF outcomes among non-invasive PGT-A, PGT-A and combined non-invasive PGT-A and PGT-A&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 24, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ongoing pregnancy rate</measure>
+    <time_frame>through study completion, an average of 1.5 year</time_frame>
+    <description>continuous presence of a fetal heartbeat over 12 weeks of a pregnancy</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical pregnancy rate</measure>
+    <time_frame>through study completion, an average of 1.5 year</time_frame>
+    <description>the presence of a fetal heartbeat at 6-7 weeks of a pregnancy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Miscarriage rate</measure>
+    <time_frame>through study completion, an average of 1.5 year</time_frame>
+    <description>pregnancy loss before 24 weeks of gestation</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Genetic Testing</condition>
+  <arm_group>
+    <arm_group_label>combined non-invasive PGT-A &amp; PGT-A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Infertility women who underwent both non-invasive PGT-A and PGT-A</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>non-invasive PGT-A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Infertility women who underwent non-invasive PGT-A only</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PGT-A</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Infertility women who underwent PGT-A only</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>PGT-A</intervention_name>
+    <description>trophectoderm biopsy in blastocyst stage for euploidy testing using next generation sequencing platform</description>
+    <arm_group_label>PGT-A</arm_group_label>
+    <arm_group_label>combined non-invasive PGT-A &amp; PGT-A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>non-invasive PGT-A</intervention_name>
+    <description>cell-free DNA collected from spent culture media for euploidy testing using next generation sequencing platform</description>
+    <arm_group_label>combined non-invasive PGT-A &amp; PGT-A</arm_group_label>
+    <arm_group_label>non-invasive PGT-A</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Infertile women who undergo IVF with PGT&#xD;
+&#xD;
+          -  BMI:18~30 kg/m2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Primary ovarian insufficiency&#xD;
+&#xD;
+          -  Congenital uterine anomaly&#xD;
+&#xD;
+          -  Severe male infertility (azoospermia)&#xD;
+&#xD;
+          -  One of the couples with chromosome abnormality&#xD;
+&#xD;
+          -  Malignancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>44 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kuan-Hao Tsui</last_name>
+    <role>Study Director</role>
+    <affiliation>Kaohsiung Veterans General Hospital.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Li-Te Lin</last_name>
+    <phone>+88673464027</phone>
+    <email>litelin1982@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Kaohsiung Veterans General Hospital</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>81362</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kuan-Hao Tsui, PhD</last_name>
+      <phone>+886-7-3422121</phone>
+      <phone_ext>4014</phone_ext>
+      <email>khtsui60@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Li-Te Lin, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <reference>
+    <citation>Fesahat F, Montazeri F, Hoseini SM. Preimplantation genetic testing in assisted reproduction technology. J Gynecol Obstet Hum Reprod. 2020 May;49(5):101723. doi: 10.1016/j.jogoh.2020.101723. Epub 2020 Feb 26. Review.</citation>
+    <PMID>32113002</PMID>
+  </reference>
+  <reference>
+    <citation>Sciorio R, Dattilo M. PGT-A preimplantation genetic testing for aneuploidies and embryo selection in routine ART cycles: Time to step back? Clin Genet. 2020 Aug;98(2):107-115. doi: 10.1111/cge.13732. Epub 2020 Apr 6. Review.</citation>
+    <PMID>32141057</PMID>
+  </reference>
+  <reference>
+    <citation>Homer HA. Preimplantation genetic testing for aneuploidy (PGT-A): The biology, the technology and the clinical outcomes. Aust N Z J Obstet Gynaecol. 2019 Apr;59(2):317-324. doi: 10.1111/ajo.12960. Epub 2019 Feb 27.</citation>
+    <PMID>30811595</PMID>
+  </reference>
+  <reference>
+    <citation>Fragouli E, Munne S, Wells D. The cytogenetic constitution of human blastocysts: insights from comprehensive chromosome screening strategies. Hum Reprod Update. 2019 Jan 1;25(1):15-33. doi: 10.1093/humupd/dmy036. Review.</citation>
+    <PMID>30395265</PMID>
+  </reference>
+  <reference>
+    <citation>Sullivan-Pyke C, Dokras A. Preimplantation Genetic Screening and Preimplantation Genetic Diagnosis. Obstet Gynecol Clin North Am. 2018 Mar;45(1):113-125. doi: 10.1016/j.ogc.2017.10.009. Review.</citation>
+    <PMID>29428279</PMID>
+  </reference>
+  <reference>
+    <citation>Rubio C, Navarro-Sánchez L, García-Pascual CM, Ocali O, Cimadomo D, Venier W, Barroso G, Kopcow L, Bahçeci M, Kulmann MIR, López L, De la Fuente E, Navarro R, Valbuena D, Sakkas D, Rienzi L, Simón C. Multicenter prospective study of concordance between embryonic cell-free DNA and trophectoderm biopsies from 1301 human blastocysts. Am J Obstet Gynecol. 2020 Nov;223(5):751.e1-751.e13. doi: 10.1016/j.ajog.2020.04.035. Epub 2020 May 26.</citation>
+    <PMID>32470458</PMID>
+  </reference>
+  <reference>
+    <citation>Rubio C, Rienzi L, Navarro-Sánchez L, Cimadomo D, García-Pascual CM, Albricci L, Soscia D, Valbuena D, Capalbo A, Ubaldi F, Simón C. Embryonic cell-free DNA versus trophectoderm biopsy for aneuploidy testing: concordance rate and clinical implications. Fertil Steril. 2019 Sep;112(3):510-519. doi: 10.1016/j.fertnstert.2019.04.038. Epub 2019 Jun 11.</citation>
+    <PMID>31200971</PMID>
+  </reference>
+  <reference>
+    <citation>Leaver M, Wells D. Non-invasive preimplantation genetic testing (niPGT): the next revolution in reproductive genetics? Hum Reprod Update. 2020 Jan 1;26(1):16-42. doi: 10.1093/humupd/dmz033. Review.</citation>
+    <PMID>31774124</PMID>
+  </reference>
+  <reference>
+    <citation>Kuznyetsov V, Madjunkova S, Abramov R, Antes R, Ibarrientos Z, Motamedi G, Zaman A, Kuznyetsova I, Librach CL. Minimally Invasive Cell-Free Human Embryo Aneuploidy Testing (miPGT-A) Utilizing Combined Spent Embryo Culture Medium and Blastocoel Fluid -Towards Development of a Clinical Assay. Sci Rep. 2020 Apr 29;10(1):7244. doi: 10.1038/s41598-020-64335-3.</citation>
+    <PMID>32350403</PMID>
+  </reference>
+  <reference>
+    <citation>Liang B, Gao Y, Xu J, Song Y, Xuan L, Shi T, Wang N, Hou Z, Zhao YL, Huang WE, Chen ZJ. Raman profiling of embryo culture medium to identify aneuploid and euploid embryos. Fertil Steril. 2019 Apr;111(4):753-762.e1. doi: 10.1016/j.fertnstert.2018.11.036. Epub 2019 Jan 22.</citation>
+    <PMID>30683589</PMID>
+  </reference>
+  <reference>
+    <citation>Jiao J, Shi B, Sagnelli M, Yang D, Yao Y, Li W, Shao L, Lu S, Li D, Wang X. Minimally invasive preimplantation genetic testing using blastocyst culture medium. Hum Reprod. 2019 Jul 8;34(7):1369-1379. doi: 10.1093/humrep/dez075.</citation>
+    <PMID>31251795</PMID>
+  </reference>
+  <reference>
+    <citation>Huang L, Bogale B, Tang Y, Lu S, Xie XS, Racowsky C. Noninvasive preimplantation genetic testing for aneuploidy in spent medium may be more reliable than trophectoderm biopsy. Proc Natl Acad Sci U S A. 2019 Jul 9;116(28):14105-14112. doi: 10.1073/pnas.1907472116. Epub 2019 Jun 24.</citation>
+    <PMID>31235575</PMID>
+  </reference>
+  <reference>
+    <citation>Fang R, Yang W, Zhao X, Xiong F, Guo C, Xiao J, Chen L, Song X, Wang H, Chen J, Xiao X, Yao B, Cai LY. Chromosome screening using culture medium of embryos fertilised in vitro: a pilot clinical study. J Transl Med. 2019 Mar 8;17(1):73. doi: 10.1186/s12967-019-1827-1.</citation>
+    <PMID>30849973</PMID>
+  </reference>
+  <reference>
+    <citation>Vera-Rodriguez M, Diez-Juan A, Jimenez-Almazan J, Martinez S, Navarro R, Peinado V, Mercader A, Meseguer M, Blesa D, Moreno I, Valbuena D, Rubio C, Simon C. Origin and composition of cell-free DNA in spent medium from human embryo culture during preimplantation development. Hum Reprod. 2018 Apr 1;33(4):745-756. doi: 10.1093/humrep/dey028.</citation>
+    <PMID>29471395</PMID>
+  </reference>
+  <reference>
+    <citation>Belandres D, Shamonki M, Arrach N. Current status of spent embryo media research for preimplantation genetic testing. J Assist Reprod Genet. 2019 May;36(5):819-826. doi: 10.1007/s10815-019-01437-6. Epub 2019 Mar 21. Review.</citation>
+    <PMID>30895497</PMID>
+  </reference>
+  <reference>
+    <citation>Farra C, Choucair F, Awwad J. Non-invasive pre-implantation genetic testing of human embryos: an emerging concept. Hum Reprod. 2018 Dec 1;33(12):2162-2167. doi: 10.1093/humrep/dey314. Review. Erratum in: Hum Reprod. 2019 Mar 1;34(3):590.</citation>
+    <PMID>30357338</PMID>
+  </reference>
+  <reference>
+    <citation>Xu J, Fang R, Chen L, Chen D, Xiao JP, Yang W, Wang H, Song X, Ma T, Bo S, Shi C, Ren J, Huang L, Cai LY, Yao B, Xie XS, Lu S. Noninvasive chromosome screening of human embryos by genome sequencing of embryo culture medium for in vitro fertilization. Proc Natl Acad Sci U S A. 2016 Oct 18;113(42):11907-11912. Epub 2016 Sep 29.</citation>
+    <PMID>27688762</PMID>
+  </reference>
+  <reference>
+    <citation>Shamonki MI, Jin H, Haimowitz Z, Liu L. Proof of concept: preimplantation genetic screening without embryo biopsy through analysis of cell-free DNA in spent embryo culture media. Fertil Steril. 2016 Nov;106(6):1312-1318. doi: 10.1016/j.fertnstert.2016.07.1112. Epub 2016 Aug 24.</citation>
+    <PMID>27565258</PMID>
+  </reference>
+  <reference>
+    <citation>Youssef MM, Mantikou E, van Wely M, Van der Veen F, Al-Inany HG, Repping S, Mastenbroek S. Culture media for human pre-implantation embryos in assisted reproductive technology cycles. Cochrane Database Syst Rev. 2015 Nov 20;(11):CD007876. doi: 10.1002/14651858.CD007876.pub2. Review.</citation>
+    <PMID>26585317</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 23, 2021</study_first_posted>
+  <last_update_submitted>April 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kaohsiung Veterans General Hospital.</investigator_affiliation>
+    <investigator_full_name>Li-Te Lin</investigator_full_name>
+    <investigator_title>Attending doctor, Department of Obstetrics and Gynecology, Principal Investigator, Assistant professor</investigator_title>
+  </responsible_party>
+  <keyword>PGT</keyword>
+  <keyword>PGT-A</keyword>
+  <keyword>non-invasive PGT-A</keyword>
+  <keyword>embryo biopsy</keyword>
+  <keyword>spent media</keyword>
+  <keyword>cell free DNA</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

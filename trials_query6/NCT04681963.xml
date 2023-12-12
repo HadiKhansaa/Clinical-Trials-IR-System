@@ -1,0 +1,270 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04681963</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHS-ED-11e-2020</org_study_id>
+    <nct_id>NCT04681963</nct_id>
+  </id_info>
+  <brief_title>Clinical Characteristics of Acutely Hospitalized Adults With Community-acquired- Pneumonia</brief_title>
+  <official_title>Clinical Characteristics of Hospitalized Adults With Community-acquired- Pneumonia at the Emergency Department: A Cross-sectional Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Southern Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Southern Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There is no gold standard when diagnosing of pneumonia. The variability of clinical signs and&#xD;
+      symptoms make it difficult to distinguish pneumonia from other causes of respiratory&#xD;
+      conditions. Well defined characteristics upon arrival to the emergency department will&#xD;
+      contribute to the better and quicker diagnosis of community-acquired pneumonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Currently, pneumonia diagnosis is primarily based on clinical symptoms such as cough,&#xD;
+      shortness of breath, chest pain, fever and sputum production, combined with X-ray of the&#xD;
+      lungs, relevant blood tests and microbiological analysis of sputum samples. The X-ray is an&#xD;
+      imprecise diagnostic tool, and results from sputum assays are first available after 2 days.&#xD;
+      In the elderly, pneumonia presents with clinically differing signs such as delirium,&#xD;
+      malnutrition, and there may be an absence of fever, cough and dyspnea. The physical&#xD;
+      examination is also challenged by a broad variety of atypical symptoms like headache, dry&#xD;
+      cough and gastrointestinal symptoms in the form of nausea, vomiting or diarrhea. Our&#xD;
+      hypothesis is that well-defined clinical characteristics upon arrival to the emergency&#xD;
+      department will contribute to the better and quicker diagnosis of pneumonia.&#xD;
+&#xD;
+      The aim is to identify the information available upon arrival to the Emergency Department&#xD;
+      that contributes to diagnosis and prognosis of community-acquired-pneumonia.&#xD;
+&#xD;
+      The objectives are:&#xD;
+&#xD;
+        1. Identify the information available upon arrival that correlates to the diagnosis of&#xD;
+           community-acquired pneumonia&#xD;
+&#xD;
+        2. Identify the information available upon arrival that correlates to severity of&#xD;
+           community-acquired pneumonia&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnosis of community acquired pneumonia</measure>
+    <time_frame>expert assessment within 3 months after patient discharge from the hospital</time_frame>
+    <description>The percentage of patients diagnosed with community-acquired pneumonia determined by an expert panel. This outcome measure is a binary variable - verified pneumonia or no pneumonia.&#xD;
+The expert panel consists of two independent consultants from the emergency department with experience in infection and emergency medicine, who individually will determine whether or not the patient admitted with suspected community-acquired pneumonia had the diagnosis. The diagnosis will be based on all available relevant information from the patient medical record within 48 hours from admission including computed tomography. A standardized template will be used. Disagreement will be discussed until a consensus is reached.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Intensive care unit (ICU) treatment:</measure>
+    <time_frame>within 60 days from admission to the emergency department</time_frame>
+    <description>Transfer to the intensive care unit will be recorded during the current hospitalization as a binary variable (transferred/not-transferred)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>within 60 days from current admission to the emergency department</time_frame>
+    <description>Defined as the time (in days) spent in hospital during the current admission. Measured in days from admission to hospital discharge. Discharge date minus admission date</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>30-days mortality</measure>
+    <time_frame>30 days from the admission to the emergency department</time_frame>
+    <description>Mortality within 30 days from admission to the Emergency Department</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Readmission</measure>
+    <time_frame>within 30 days from the discharge to the hospital</time_frame>
+    <description>If a subject is admitted over a 30 day period after the current hospitalization discharge measured as a binary outcome Re-admissions/not re-admissions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In-hospital mortality</measure>
+    <time_frame>within 60 days from admission to the emergency department</time_frame>
+    <description>Patient mortality during the current hospitalization. Binary outcome - Died/ Not died</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>90 days mortality</measure>
+    <time_frame>within 90 days from admission to emergency department</time_frame>
+    <description>binary</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>CURB-65 score for predicting mortality in community-acquired-pneumonia</measure>
+    <time_frame>within 4 hours from admission</time_frame>
+    <description>CURB-65 score consists of: Confusion of new onset, Blood Urea nitrogen greater than 7 mmol/L (19 mg/dL), respiratory rate of 30 breaths per minute or greater, blood pressure less than 90 mmHg systolic or diastolic blood pressure 60 mmHg or less and age 65 or older. The score stratify patients to groups 1 (mild pneumonia), 2 (moderate pneumonia) and 3-5 (severe pneumonia).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pneumonia severity index (PSI)</measure>
+    <time_frame>: within 4 hours from admission</time_frame>
+    <description>Risk classes to predict the severity of pneumonia. Scores are given based on demographics, comorbidity, clinical measurements and physical Exam Findings (&lt;70 = Risk Class II, 71-90 = Risk Class III, 91-130 = Risk Class IV, &gt;130 = Risk Class V)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Microbial agents</measure>
+    <time_frame>results within 7 days from sputum sample collection</time_frame>
+    <description>Microbial agents (bacteria and viruses) identified in standard culture, PCR and multiplex PCR. Sputum samples are collected within 1 hour from patient admission. Descriptive findings in percentage will be registered.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Level of infection markers</measure>
+    <time_frame>results within 4 hour from admission</time_frame>
+    <description>Concentration of serum PCT and suPAR are collected in connection to routine blood tests within 1 hour from admission.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Level of markers of lung injury</measure>
+    <time_frame>within 4 hours from admission</time_frame>
+    <description>Concentration of serum surfactant protein D, KL-6 and YKL-40</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Bacteriuria</measure>
+    <time_frame>within 4 hours from admission</time_frame>
+    <description>Binary outcome defined by the microbiologist on urine culture analysis</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Suspected pneumonia diagnosis</arm_group_label>
+    <description>Acutely admitted patients suspected having pneumonia.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Clinical Assessment within 4 hours of admission</intervention_name>
+    <description>Demographics, Symptoms, Severity scores (Triage at admission, confusion, urea, respiration, blood pressure, age (CURB 65) and pneumonia severity score (PSI), clinical parameters, blood testing, chest x-rays, comorbidities, electro-cardiogram</description>
+    <arm_group_label>Suspected pneumonia diagnosis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Acutely admitted patients suspected of community-acquired pneumonia at three hospitals in&#xD;
+        The Region of Southern Denmark (Hospital Sønderjylland, Hospital Lillebaelt and Odense&#xD;
+        University Hospital).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients &gt; 18 years old&#xD;
+&#xD;
+          -  Patients suspected with CAP by the attending physician. The physician will base&#xD;
+             his/her suspicion on e.g. clinical symptoms such as cough, increased sputum&#xD;
+             production, chest tights, dyspnea and fever&gt;38C, and indication for x-ray.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  If the attending physician considers that participation will delay a life-saving&#xD;
+             treatment or patient needs direct transfer to the intensive care unit.&#xD;
+&#xD;
+          -  Admission within the last 14 days&#xD;
+&#xD;
+          -  Verified COVID-19 disease within 14 days before admission&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Severe immunodeficiencies: Primary immunodeficiencies and secondary immunodeficiencies&#xD;
+             (HIV positive CD4 &lt;200, Patients receiving immunosuppressive treatment (ATC L04A),&#xD;
+             Corticosteroid treatment (&gt;20 mg/day prednisone or equivalent for &gt;14 days within the&#xD;
+             last 30 days), Chemotherapy within 30 days)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christian Backer Mogensen</last_name>
+    <role>Study Chair</role>
+    <affiliation>University Hospital of Southern Denmark</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mariana Cartuliares</last_name>
+    <phone>+45 23434441</phone>
+    <email>Mariana.Cartuliares@rsyd.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Helene Skjøt-Arkil</last_name>
+    <phone>+ 45 7997 1113</phone>
+    <email>Helene.Skjoet-Arkil@rsyd.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital of Southern Jutland</name>
+      <address>
+        <city>Aabenraa</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian B Mogensen, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <reference>
+    <citation>Torres A, Blasi F, Peetermans WE, Viegi G, Welte T. The aetiology and antibiotic management of community-acquired pneumonia in adults in Europe: a literature review. Eur J Clin Microbiol Infect Dis. 2014 Jul;33(7):1065-79. doi: 10.1007/s10096-014-2067-1. Epub 2014 Feb 15. Review.</citation>
+    <PMID>24532008</PMID>
+  </reference>
+  <reference>
+    <citation>Marti C, Garin N, Grosgurin O, Poncet A, Combescure C, Carballo S, Perrier A. Prediction of severe community-acquired pneumonia: a systematic review and meta-analysis. Crit Care. 2012 Jul 27;16(4):R141. doi: 10.1186/cc11447. Review.</citation>
+    <PMID>22839689</PMID>
+  </reference>
+  <reference>
+    <citation>Musher DM, Roig IL, Cazares G, Stager CE, Logan N, Safar H. Can an etiologic agent be identified in adults who are hospitalized for community-acquired pneumonia: results of a one-year study. J Infect. 2013 Jul;67(1):11-8. doi: 10.1016/j.jinf.2013.03.003. Epub 2013 Mar 19.</citation>
+    <PMID>23523447</PMID>
+  </reference>
+  <reference>
+    <citation>Garau J, Baquero F, Pérez-Trallero E, Pérez JL, Martín-Sánchez AM, García-Rey C, Martín-Herrero JE, Dal-Ré R; NACER Group. Factors impacting on length of stay and mortality of community-acquired pneumonia. Clin Microbiol Infect. 2008 Apr;14(4):322-9. doi: 10.1111/j.1469-0691.2007.01915.x. Epub 2008 Jan 8.</citation>
+    <PMID>18190569</PMID>
+  </reference>
+  <reference>
+    <citation>Metlay JP, Kapoor WN, Fine MJ. Does this patient have community-acquired pneumonia? Diagnosing pneumonia by history and physical examination. JAMA. 1997 Nov 5;278(17):1440-5.</citation>
+    <PMID>9356004</PMID>
+  </reference>
+  <reference>
+    <citation>McLaughlin JM, Khan FL, Thoburn EA, Isturiz RE, Swerdlow DL. Rates of hospitalization for community-acquired pneumonia among US adults: A systematic review. Vaccine. 2020 Jan 22;38(4):741-751. doi: 10.1016/j.vaccine.2019.10.101. Epub 2019 Dec 13.</citation>
+    <PMID>31843272</PMID>
+  </reference>
+  <reference>
+    <citation>Søgaard M, Nielsen RB, Schønheyder HC, Nørgaard M, Thomsen RW. Nationwide trends in pneumonia hospitalization rates and mortality, Denmark 1997-2011. Respir Med. 2014 Aug;108(8):1214-22. doi: 10.1016/j.rmed.2014.05.004. Epub 2014 May 20.</citation>
+    <PMID>24898129</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>November 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 23, 2020</study_first_posted>
+  <last_update_submitted>March 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>risk factors</keyword>
+  <keyword>Community acquired pneumonia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

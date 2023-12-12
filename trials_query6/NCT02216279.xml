@@ -1,0 +1,343 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02216279</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PulmoBind II safety Trial</org_study_id>
+    <nct_id>NCT02216279</nct_id>
+  </id_info>
+  <brief_title>Phase-II Study of the Use of PulmoBind for Molecular Imaging of Pulmonary Hypertension</brief_title>
+  <acronym>PB-02</acronym>
+  <official_title>Phase-II Study of the Use of PulmoBind for Molecular Imaging of Pulmonary Hypertension</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Montreal Heart Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Montreal Heart Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pulmonary hypertension or elevation of the pressure in the pulmonary vessels, results from&#xD;
+      various clinical conditions. It may be idiopathic (of unknown cause) or associated with&#xD;
+      numerous diseases including cardiovascular and lung disorders. Affected individuals suffer&#xD;
+      from progressive shortness of breath and, in its most sever forms; pulmonary hypertension&#xD;
+      carries a worse prognosis than many types of cancer. There is no test currently that can&#xD;
+      easily and non-invasively detect abnormalities of the pulmonary circulation. Presently there&#xD;
+      is no cure for pulmonary hypertension and substantial research efforts are dedicated to the&#xD;
+      development of new drugs that will stop progression or better yet, reverse the disease&#xD;
+      process. The investigators do not know if any of the drugs currently commercialized for&#xD;
+      pulmonary hypertension directly improve the status of the pulmonary vessels since no test&#xD;
+      currently provides this information. Direct earlier detection of lung vessel abnormalities&#xD;
+      associated with pulmonary hypertension using a sensitive and non-invasive test would allow&#xD;
+      not only earlier testing of these and of new drugs, but would provide a much better surrogate&#xD;
+      of disease severity allowing more efficient pre-clinical drug testing. The aim of this phase&#xD;
+      II study is to evaluate the safety of PulmoBind in participants with pulmonary hypertension&#xD;
+      and its potential to detect abnormal pulmonary circulation associated within pulmonary&#xD;
+      hypertension.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Currently there is only one radiopharmaceutical agent approved in Canada (and the world) for&#xD;
+      clinical imaging of the pulmonary circulation, metastable isotope 99 of technetium. This&#xD;
+      agent is exclusively used for the diagnosis of physical defects of the circulation due to&#xD;
+      pulmonary embolus. There is imperative need for new lung tracers that will provide a greater&#xD;
+      safety profile while enabling functional as well as anatomical imaging of the pulmonary&#xD;
+      circulation. A novel adrenomedullin derivative has been developed, for molecular imaging of&#xD;
+      the pulmonary circulation. PulmoBind is labelled with metastable isotope 99 of technetium,&#xD;
+      the most commonly used imaging isotope in clinical nuclear medicine. PulmoBind is a&#xD;
+      adrenomedullin derivative specifically designed to bind to the adrenomedullin receptor while&#xD;
+      avoiding any hemodynamic effects. This novel tracer has the potential to help in the&#xD;
+      diagnosis and follow-up of various disorders of the pulmonary circulation for which there is&#xD;
+      currently no alternative. In PulmoBind I three escalating doses were administered and safety&#xD;
+      was assessed. The product was well tolerated and there were no safety concerns. Imaging&#xD;
+      revealed predominant lung uptake.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2014</start_date>
+  <completion_date type="Actual">September 2015</completion_date>
+  <primary_completion_date type="Actual">September 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To determine the absence of allergic reaction after repeated exposures to PulmoBind in healthy participants</measure>
+    <time_frame>Static lung uptake 10 minutes duration post injection</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the safety of PulmoBind in participants diagnosed with pulmonary hypertension.</measure>
+    <time_frame>Static lung uptake 10 minutes duration post injection</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the capacity of PulmoBind lung scan for the detection of abnormal pulmonary circulation associated with pulmonary hypertension.</measure>
+    <time_frame>Status lung uptake 10 minutes duration post injection</time_frame>
+    <description>This is an efficacy outcome</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine the intra-subject variability for quantification of PulmoBind lung uptake in control participants</measure>
+    <time_frame>Status lung uptake 10 minutes duration post injection</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine the capacity of PulmoBind lung scan to diagnose pulmonary perfusion defects in participants with chronic thromboembolic pulmonary hypertension.</measure>
+    <time_frame>Status lung uptake 10 minutes duration post injection</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To correlate lung PulmoBind scan results with parameters of the severity of pulmonary hypertension: 6 minutes walking distance, New York Heart Association functional class, pulmonary artery pressure measured by echo, pulmonary artery pressure measured by</measure>
+    <time_frame>Status lung uptake 10 minutes duration post injection</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">45</enrollment>
+  <condition>Pulmonary Hypertension</condition>
+  <arm_group>
+    <arm_group_label>Pulmonary Hypertension Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PulmoBind is a peptide derived from human adrenomedullin (hAM1-52), labelled with 99mTc (imaging isotope used in clinical medicine).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Non-Smoking Participants</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>PulmoBind is a peptide derived from human adrenomedullin (hAM1-52), labelled with 99mTc (imaging isotope used in clinical medicine).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PulmoBind</intervention_name>
+    <description>PulmoBind is a peptide derived from human adrenomedullin (hAM1-52), labelled with 99mTc (imaging isotope used in clinical medicine).</description>
+    <arm_group_label>Control Non-Smoking Participants</arm_group_label>
+    <arm_group_label>Pulmonary Hypertension Patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        HEALTHY VOLUNTEERS:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male of female participants greater than 18 years of age,&#xD;
+&#xD;
+          -  Female participants must be post-menopausal (defined as two year after last menstrual&#xD;
+             cycle) or surgically sterilized or use 1 form of contraception with a urine negative&#xD;
+             pregnancy test (commercial brand: first response kit) within 2 hours of study drug&#xD;
+             injection,&#xD;
+&#xD;
+          -  Baseline measurements must be within limits of normal or judged non-clinically&#xD;
+             significant by the investigator:&#xD;
+&#xD;
+               -  Blood pressure systolic 90 mmHg to 140 mmHg,and diastolic 50 mmHg to 90 mmHg;&#xD;
+&#xD;
+               -  Heart rate: 50 to 100 beats per minute;&#xD;
+&#xD;
+               -  Oral temperature: less than 37.6C;&#xD;
+&#xD;
+               -  Respiratory rate: 12 to 20 breaths per minute;&#xD;
+&#xD;
+               -  Lung function testing within 6 months;&#xD;
+&#xD;
+               -  Electrocardiogram in the past three years;&#xD;
+&#xD;
+               -  Chest X-Ray in the past three years;&#xD;
+&#xD;
+               -  Electrocardiogram.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any known chronic or acute medical condition with or without the need for chronic&#xD;
+             pharmacologic therapy or any condition that may interfere with normal biodistribution&#xD;
+             of PulmoBind. This includes but is not restricted to: lung parenchymal or lung&#xD;
+             vascular diseases such as chronic obstructive pulmonary disease, bronchitis, lung&#xD;
+             cancer, pleural effusion, emphysema, asthma, pulmonary fibrosis, occupational lung&#xD;
+             disease,pulmonary hypertension (primary or secondary), systemic hypertension,&#xD;
+             diabetes, cancer, kidney disease, liver disease, heart failure or previous myocardial&#xD;
+             infarction, coronary artery disease, peripheral vascular disease or inflammatory&#xD;
+             disease,&#xD;
+&#xD;
+          -  Participants requiring chronic administration of any substance for a medical&#xD;
+             condition,&#xD;
+&#xD;
+          -  Active smoking or history of smoking within 6 months,&#xD;
+&#xD;
+          -  Alcoholism or known substance abuse,&#xD;
+&#xD;
+          -  Psychotic,addictive or other disorder limiting the ability to provide informed consent&#xD;
+             or to comply with study requirements,&#xD;
+&#xD;
+          -  Unable to tolerate study procedures (e.g. venipuncture, movement restrictions during&#xD;
+             imaging),&#xD;
+&#xD;
+          -  Previous nuclear medicine study within one week (to avoid cross-contamination).&#xD;
+&#xD;
+        PULMONARY HYPERTENSION PARTICIPANTS:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male of female participants greater than 18 years of age and upper age 70,&#xD;
+&#xD;
+          -  Female participants must be post-menopausal (defined as two year after last menstrual&#xD;
+             cycle) or surgically sterilized or use 1 form of contraception with a urine negative&#xD;
+             pregnancy test (commercial brand: first response kit) within 2 hours of study drug&#xD;
+             injection,&#xD;
+&#xD;
+          -  Diagnosis of pulmonary hypertension (PH) according to the Dana Point PH classification&#xD;
+             of the following types:&#xD;
+&#xD;
+               -  Type I: idiopathic, heritable or scleroderma spectrum of disease,&#xD;
+&#xD;
+               -  Type IV: unoperated chronic thromboembolic PH.&#xD;
+&#xD;
+          -  Participants with chronic thromboembolic pulmonary hypertension (CTEPH) must have a&#xD;
+             previous positive V/Q scan and multiple chronic/organised occlusive thrombi/emboli in&#xD;
+             the pulmonary arteries (main, lobar, segmental, subsegmental) on CT angiogram or&#xD;
+             conventional pulmonary angiography,&#xD;
+&#xD;
+          -  Documented hemodynamic diagnosis of significant PH by right heart catheterization -&#xD;
+             performed at any time prior to Screening showing:&#xD;
+&#xD;
+               -  Resting mean pulmonary arterial pressure (mPAP) &gt; 25 mmHg and&#xD;
+&#xD;
+               -  Resting pulmonary vascular resistance (PVR) &gt; 240 dyn/s.cm5 and&#xD;
+&#xD;
+               -  Resting capillary wedge pressure (PCWP) or left ventricular end diastolic&#xD;
+                  pressure (LVDEP) ≤ 15 mmHg (if available),&#xD;
+&#xD;
+          -  New York Heart Association (NYHA) functional class II-III,&#xD;
+&#xD;
+          -  Six minutes walking distance test of ≥ 250 meters, and ≤ 450 meters within 6 months,&#xD;
+&#xD;
+          -  Echocardiogram documented in the participants medical history (including an agitated&#xD;
+             saline study),&#xD;
+&#xD;
+          -  Computed tomography of the chest documented in the participants medical history.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with impaired renal function defined as estimated creatinine clearance ≤&#xD;
+             30 ml/min (eGFR with modification of diet in renal disease (MDRD) calculator formula),&#xD;
+&#xD;
+          -  Significant liver impairment:&#xD;
+&#xD;
+               -  Aspartate alanine transferase ( ALT) and/or Aspartate transaminase (AST) ≥ 3 x&#xD;
+                  upper limit of normal (ULN)&#xD;
+&#xD;
+               -  Bilirubin ≥ 1.5x ULN ( &gt; 35% direct bilirubin)&#xD;
+&#xD;
+          -  Unstable pulmonary arterial hypertension defined as recent syncope or World Health&#xD;
+             Organization (WHO) functional class IV,&#xD;
+&#xD;
+          -  Participants with CTEPH not on anticoagulant therapy,&#xD;
+&#xD;
+          -  Echocardiographic restrictive lung disease (total lung capacity &lt; 70% of predicted) or&#xD;
+             obstructive (FEC1/Forced Vital Capacity &lt; 70%),&#xD;
+&#xD;
+          -  Systemic blood pressure &lt; 90 mmHG systolic or less than 50 mmHG diastolic,&#xD;
+&#xD;
+          -  Patient foramen ovale with significant right to left shunting with hypoxia (room air&#xD;
+             saturation &lt; 88%),&#xD;
+&#xD;
+          -  Active smoking within six months,&#xD;
+&#xD;
+          -  More than minimal pulmonary fibrosis on high resolution computed tomography of the&#xD;
+             chest,&#xD;
+&#xD;
+          -  The subject's clinical condition is such that they are not expected to remain&#xD;
+             clinically stable for the duration of the study,&#xD;
+&#xD;
+          -  Active coronary artery disease or stable coronary artery disease that has required an&#xD;
+             intervention or any change of therapy within 6 months,&#xD;
+&#xD;
+          -  Alcoholism or known substance abuse,&#xD;
+&#xD;
+          -  Psychotic,addictive or other disorder limiting the ability to provide informed consent&#xD;
+             or to comply with study requirements,&#xD;
+&#xD;
+          -  Participants who have participated in a clinical study involving another&#xD;
+             investigational drug or devise within four weeks before screening,&#xD;
+&#xD;
+          -  Female participants who are pregnant or breastfeeding,&#xD;
+&#xD;
+          -  Previous nuclear medicine study within one week,&#xD;
+&#xD;
+          -  Unable to tolerate study procedures (e.g. venipuncture, movement restrictions during&#xD;
+             imaging).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jocelyn Dupuis, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Montreal Heart Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Montreal Heart Institute</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H1T 1C8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sir Mortimer B.Davis Jewish General Hospital</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Universitaire de Cardiologie et de Pneumologie de Quebec</name>
+      <address>
+        <city>Quebec city</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2015</verification_date>
+  <study_first_submitted>June 27, 2014</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 13, 2014</study_first_posted>
+  <last_update_submitted>September 28, 2015</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pulmonary</keyword>
+  <keyword>Hypertension</keyword>
+  <keyword>PH</keyword>
+  <keyword>PulmoBind</keyword>
+  <keyword>Imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension, Pulmonary</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

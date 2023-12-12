@@ -1,0 +1,353 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02168205</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CC-4047-CP-011</org_study_id>
+    <nct_id>NCT02168205</nct_id>
+  </id_info>
+  <brief_title>Food Effect and CYP1A2 Induction Study in Healthy Subjects</brief_title>
+  <official_title>Hase I Open-Label Two-Part Study To Evaluate The Effect Of Food and Of CYP1A2 Induction On Pomalidomide (CC-4047) Pharmacokinetics in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celgene</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Celgene</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the effect of food and smoking on healthy older subjects taking&#xD;
+      pomalidomide.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will be conducted in two parts. Parts 1 and 2 may be conducted in parallel and&#xD;
+      subjects are only allowed to participate in one part.&#xD;
+&#xD;
+      In Part 1, subjects will be randomly assigned to receive a single oral dose of 4 mg&#xD;
+      pomalidomide on Day 1 under fed (standard high fat breakfast) or fasted conditions. After a&#xD;
+      washout period of at least 3 and no more than 7 days, subjects will receive a single oral&#xD;
+      dose of 4 mg pomalidomide under the opposite condition to what they received in the first&#xD;
+      period.&#xD;
+&#xD;
+      In Part 2, healthy male smoker subjects must smoke approximately 20 cigarettes per day for a&#xD;
+      total of 10 days. Non-smokers will neither smoke nor be in the presence of smokers. All&#xD;
+      subjects will receive orally a 200-mg caffeine capsule on Day 6, and on Day 8, subjects will&#xD;
+      receive a single oral dose of 4 mg pomalidomide.&#xD;
+&#xD;
+      For both Parts 1 and 2, serial blood samples will be collected for determination of plasma&#xD;
+      pomalidomide concentrations.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 30, 2014</start_date>
+  <completion_date type="Actual">September 19, 2014</completion_date>
+  <primary_completion_date type="Actual">September 19, 2014</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>Yes</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Cmax</measure>
+    <time_frame>Up to 8 days for Part 1; up to 10 days for Part 2</time_frame>
+    <description>Maximum observed concentration in plasma</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Tmax</measure>
+    <time_frame>Up to 8 days for Part 1; up to 10 days for Part 2</time_frame>
+    <description>Time to maximum observed concentration in plasma</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - AUC</measure>
+    <time_frame>Up to 8 days for Part 1; up to 10 days for Part 2</time_frame>
+    <description>Area under the plasma concentration-time curve</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - T1/2</measure>
+    <time_frame>Up to 8 days for Part 1; up to 10 days for Part 2</time_frame>
+    <description>Terminal half-life</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Vz/f</measure>
+    <time_frame>Up to 8 days for Part 1; up to 10 days for Part 2</time_frame>
+    <description>Apparent volume of distribution</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - CL/F</measure>
+    <time_frame>Up to 8 days for Part 1; up to 10 days for Part 2</time_frame>
+    <description>Apparent total body clearance</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Approximately 1 month</time_frame>
+    <description>Number of participants with adverse events</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">55</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>4 mg Pomalidomide - Fed</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>On Day 1, participants will receive a single oral dose of 4 mg pomalidomide under fed conditions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4 mg Pomalidomide - Fasted</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>On Day 1, participants will receive a single oral dose of 4 mg pomalidomide under fasted conditions</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4 mg Pomalidomide + caffeine - Non-smoking</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will remain in the clinical site for a total of 10 days. They will receive orally a 200-mg caffeine capsule on Day 6, and on Day 8, participants will receive a single oral dose of 4 mg pomalidomide.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4 mg Pomalidomide + caffeine - Smoking</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be required to smoke approximately 20 cigarettes a day for 10 days. They will receive orally a 200-mg caffeine capsule on Day 6, and on Day 8, participants will receive a single oral dose of 4 mg pomalidomide.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pomalidomide</intervention_name>
+    <description>Capsules</description>
+    <arm_group_label>4 mg Pomalidomide + caffeine - Non-smoking</arm_group_label>
+    <arm_group_label>4 mg Pomalidomide + caffeine - Smoking</arm_group_label>
+    <arm_group_label>4 mg Pomalidomide - Fasted</arm_group_label>
+    <arm_group_label>4 mg Pomalidomide - Fed</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Caffeine</intervention_name>
+    <description>Capsules</description>
+    <arm_group_label>4 mg Pomalidomide + caffeine - Non-smoking</arm_group_label>
+    <arm_group_label>4 mg Pomalidomide + caffeine - Smoking</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Tobacco</intervention_name>
+    <description>Cigarettes</description>
+    <arm_group_label>4 mg Pomalidomide + caffeine - Smoking</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Part 1: 1.Must understand and voluntarily sign a written Informed Consent prior to any&#xD;
+             study-related procedures being performed.&#xD;
+&#xD;
+             2.Must be able to communicate with the Investigator, understand and comply with the&#xD;
+             requirements of the study, and agree to adhere to restrictions and examination&#xD;
+             schedules.&#xD;
+&#xD;
+             3.Must be male or postmenopausal* women of any race between ≥61 to ≤85 years of age&#xD;
+             (inclusive) at the time of signing the Informed Consent, and in good health as&#xD;
+             determined by a physical exam, clinical laboratory safety test results, vital signs,&#xD;
+             and 12 lead Electrocardiogram.&#xD;
+&#xD;
+             * =Naturally postmenopausal for at least 24 consecutive months (ie, who has not had&#xD;
+             menses at any time in the preceding 24 consecutive months) 4.Subjects must be a non&#xD;
+             smoker. 5.Clinical laboratory tests must be within normal limits or acceptable to the&#xD;
+             Principal Investigator (PI).&#xD;
+&#xD;
+             6.Must have a normal or clinically acceptable 12-lead Electrocardiogram. 7.Must be&#xD;
+             afebrile (febrile is defined as ≥ 38.0ºC or 100.4 Fahrenheit), with supine systolic&#xD;
+             blood pressure (BP): 90 to 150 mmHg, supine diastolic blood pressure: 60 to 95 mmHg,&#xD;
+             and pulse rate: 40 to 110 bpm and controlled on medications if they are indicated&#xD;
+             (especially for blood pressure).&#xD;
+&#xD;
+               1. If a subject has a diagnosis of hypertension, the range for BP and pulse rate&#xD;
+                  will be the one that is considered well controlled on medication.&#xD;
+&#xD;
+                  8.Must practice true abstinence* or agree to use a condom during sexual contact&#xD;
+                  with a pregnant female or a female that can get pregnant while participating in&#xD;
+                  the study, during dose interruptions and for at least 28 days following study&#xD;
+                  drug discontinuation, even if he has undergone a successful vasectomy.&#xD;
+&#xD;
+                  * = True abstinence is acceptable when this is in line with the preferred and&#xD;
+                  usual lifestyle of the subject. Period abstinence (e.g., calendar, ovulation,&#xD;
+                  symptothermal, post ovulation methods) and withdrawal are not acceptable methods&#xD;
+                  of contraception 9.Must agree to refrain from donating sperm or semen while&#xD;
+                  participating in this study and for at least 28 days following the last dose of&#xD;
+                  study drug.&#xD;
+&#xD;
+                  10.Must agree to refrain from donating blood or plasma (other than for this&#xD;
+                  study) while participating in this study and for at least 28 days following the&#xD;
+                  last dose of study drug.&#xD;
+&#xD;
+                  11.Must agree to comply with the conditions described in the counseling document&#xD;
+                  (part of the pomalidomide Pregnancy Prevention Risk Management Plan.&#xD;
+&#xD;
+                  Part 2&#xD;
+&#xD;
+                    1. Must understand and voluntarily sign a written informed consent prior to any&#xD;
+                       study-related procedures being performed.&#xD;
+&#xD;
+                    2. Must be able to communicate with the Investigator, understand and comply&#xD;
+                       with the requirements of the study, and agree to adhere to restrictions and&#xD;
+                       examination schedules.&#xD;
+&#xD;
+                    3. Must be male of any race between 40 to 80 years of age (inclusive) at the&#xD;
+                       time of signing the Informed Consent, and in good health as determined by a&#xD;
+                       physical exam, clinical laboratory safety test results, vital signs, and 12&#xD;
+                       lead electrocardiogram.&#xD;
+&#xD;
+                    4. Cohort A subjects (smokers) must have a history of smoking for &gt;5 years and&#xD;
+                       currently smoke ≥1 pack (20-25) cigarettes per day; and urine cotinine level&#xD;
+                       at screening and baseline (Day -1) indicate subject is heavy smoker.&#xD;
+&#xD;
+                    5. Cohort B subjects (non-smokers) must have not smoked for &gt;5 years (Cohort&#xD;
+                       B).&#xD;
+&#xD;
+                    6. Clinical laboratory tests must be within normal limits or acceptable to the&#xD;
+                       Principal Investigator.&#xD;
+&#xD;
+                    7. Must have a normal or clinically acceptable 12-lead Electrocardiogram, with&#xD;
+                       a QTcF value ≤ 450 msec.&#xD;
+&#xD;
+                    8. Must be afebrile (febrile is defined as ≥ 38.0ºC or 100.4 Fahrenheit), with&#xD;
+                       supine systolic blood pressure (BP): 90 to 150 mmHg, supine diastolic blood&#xD;
+                       pressure: 60 to 95 mmHg, and pulse rate: 40 to 110 bpm and controlled on&#xD;
+                       medications if they are indicated (especially for blood pressure).&#xD;
+&#xD;
+                    9. Must practice true abstinence or agree to use a condom during sexual contact&#xD;
+                       with a pregnant female or a female that can get pregnant while participating&#xD;
+                       in the study, during dose interruptions and for at least 28 days following&#xD;
+                       study drug discontinuation, even if he has undergone a successful vasectomy.&#xD;
+&#xD;
+                   10. Must agree to refrain from donating sperm or semen while participating in&#xD;
+                       this study and for at least 28 days following the last dose of study drug.&#xD;
+&#xD;
+                   11. Must agree to refrain from donating blood or plasma (other than for this&#xD;
+                       study) while participating in this study and for at least 28 days following&#xD;
+                       the last dose of study drug.&#xD;
+&#xD;
+                   12. Must agree to comply with the conditions described in the counseling&#xD;
+                       document (part of the pomalidomide Pregnancy Prevention Risk Management&#xD;
+                       Plan.&#xD;
+&#xD;
+                  Exclusion Criteria:&#xD;
+&#xD;
+          -  Both Parts:&#xD;
+&#xD;
+               1. History of any clinically significant and relevant neurological,&#xD;
+                  gastrointestinal, renal, hepatic, cardiovascular, psychological, pulmonary,&#xD;
+                  metabolic, endocrine, hematological, allergic disease, drug allergies, known&#xD;
+                  hypersensitivity to a member of the class of drugs that can modulate the immune&#xD;
+                  system, or other major disorders.&#xD;
+&#xD;
+                    1. Subjects with well-controlled hypertension, hyperlipidemia, gout,&#xD;
+                       asthma/chronic obstructive pulmonary disease, hypothyroidism and other&#xD;
+                       common age-related disorders, requiring treatment and being well-controlled&#xD;
+                       on concomitant prescription medication(s) will be eligible for inclusion in&#xD;
+                       the study.&#xD;
+&#xD;
+                    2. Subjects with diabetes, significant gastrointestinal diseases or hematologic&#xD;
+                       disorders should not be included in the study.&#xD;
+&#xD;
+               2. Any condition, including the presence of laboratory abnormalities, which places&#xD;
+                  the subject at unacceptable risk if he were to participate in the study, or&#xD;
+                  confounds the ability to interpret data from the study.&#xD;
+&#xD;
+               3. Used any prescribed systemic or topical medication within 30 days of the first&#xD;
+                  dose administration, unless these medications are chronically administered and&#xD;
+                  Sponsor agreement is obtained.&#xD;
+&#xD;
+               4. Used any non-prescribed systemic or topical medication (including vitamin/mineral&#xD;
+                  supplements, and herbal medicines) within 14 days of the first dose&#xD;
+                  administration, unless these medications are chronically administered and Sponsor&#xD;
+                  agreement is obtained.&#xD;
+&#xD;
+               5. Has any surgical or medical conditions possibly affecting drug absorption,&#xD;
+                  distribution, metabolism and excretion, e.g., bariatric procedure.&#xD;
+&#xD;
+               6. Donated blood or plasma within 8 weeks before the first dose administration to a&#xD;
+                  blood bank or blood donation center.&#xD;
+&#xD;
+               7. History of drug abuse (as defined by the current version of the Diagnostic and&#xD;
+                  Statistical Manual within 2 years before dosing, or positive drug screening test&#xD;
+                  reflecting consumption of illicit drugs.&#xD;
+&#xD;
+               8. History of alcohol abuse (as defined by the current version of the DSM) within 2&#xD;
+                  years before dosing, or positive alcohol screen.&#xD;
+&#xD;
+               9. Known to have serum hepatitis or known to be a carrier of the hepatitis B surface&#xD;
+                  antigen, or hepatitis C antibody, or have a positive result to the test for Human&#xD;
+                  Immunodeficiency Virus antibodies at Screening.&#xD;
+&#xD;
+              10. Exposed to an investigational drug (new chemical entity) within 30 days preceding&#xD;
+                  the first dose administration, or 5 half-lives of that investigational drug, if&#xD;
+                  known (whichever is longer).&#xD;
+&#xD;
+              11. Received vaccination (excluding seasonal flu vaccination) within 90 days of the&#xD;
+                  study drug administration.&#xD;
+&#xD;
+              12. Subjects who are part of the staff personnel or family members of the&#xD;
+                  investigational study staff.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward O'Mara, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Celgene</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Covance Clinical Research Unit</name>
+      <address>
+        <city>Daytona Beach</city>
+        <state>Florida</state>
+        <zip>32117</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://us.testwiththebest.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>November 2018</verification_date>
+  <study_first_submitted>June 18, 2014</study_first_submitted>
+  <study_first_submitted_qc>June 18, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 20, 2014</study_first_posted>
+  <last_update_submitted>November 14, 2018</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 15, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy volunteer</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <keyword>Pomalyst</keyword>
+  <keyword>Pomalidomide</keyword>
+  <keyword>Food effect</keyword>
+  <keyword>smoker</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pomalidomide</mesh_term>
+    <mesh_term>Caffeine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

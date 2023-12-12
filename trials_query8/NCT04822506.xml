@@ -1,0 +1,257 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04822506</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019XZZX-ZJ0011</org_study_id>
+    <nct_id>NCT04822506</nct_id>
+  </id_info>
+  <brief_title>PEA Promote Gastrointestinal Function Recovered After Colorectal Cancer Operation</brief_title>
+  <official_title>Perioperative Electroacupuncture Promotes Early Gastrointestinal Function Rehabilitation After Radical Resection of Colorectal Cancer: a Pilot Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Yueyang Integrated Medicine Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Yueyang Integrated Medicine Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate whether perioperative electroacupuncture is more effective than postoperative&#xD;
+      electroacupuncture in improving gastrointestinal function after colorectal cancer operation&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Although there are large intestine cancer postoperative clinical research of acupuncture, but&#xD;
+      fewer sample size, whether perioperative acupuncture intervention is superior to the&#xD;
+      postoperative acupuncture intervention, remains to be seen, so investigators proposed to&#xD;
+      carry out the preliminary experiment, the data can be collected according to the different&#xD;
+      characteristics of perioperative, perioperative choose different acupoints compatibility,&#xD;
+      give full play to the needle medicine compound anesthesia in colorectal cancer surgery play a&#xD;
+      unique function of viscera protection, to explore the curative in colorectal cancer surgery&#xD;
+      perioperative intervened to promote the role of gastrointestinal function after surgery for&#xD;
+      early rehabilitation provides evidence-based medical evidence, develop and optimize the&#xD;
+      acupuncture and drugs combined anesthesia in colorectal cancer surgery perioperative&#xD;
+      application of specification, It promoted the establishment of the first treatment mode of&#xD;
+      &quot;accelerated recovery in perioperative period of colorectal cancer operation based on&#xD;
+      combined acupuncture and drug anesthesia&quot;&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 30, 2021</start_date>
+  <completion_date type="Anticipated">July 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 18, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>time to first flatus (TFF)</measure>
+    <time_frame>Day 3</time_frame>
+    <description>time to first flatus</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Recovery time of postoperative bowel sounds</measure>
+    <time_frame>Day 3</time_frame>
+    <description>The enteric voice continuous auscultation recorder was used to monitor immediately after operation, and the time to the end of operation was calculated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of first postoperative defecation</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Patients self-report their defecation and doctors record the time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dietary recovery</measure>
+    <time_frame>Day 3</time_frame>
+    <description>First time of water intake, tolerance to liquid diet time, tolerance to solid diet time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Postoperative gastrointestinal dysfunction</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Duration and frequency of postoperative appearance: nausea, emesis,ventosity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life scale 1</measure>
+    <time_frame>&quot;Day 0&quot;，&quot;Day 3&quot;，&quot;Day 7&quot;</time_frame>
+    <description>EORTC QLQ-C30（Version 3.0 European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core 30 (standard score, SS, range from 0 to 100, higher scores mean a better outcome);</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life scale 2</measure>
+    <time_frame>&quot;Day 0&quot;，&quot;Day 3&quot;，&quot;Day 7&quot;</time_frame>
+    <description>SF-36(Chinese version),The Short Form (36) Health Survey,( The SF-36 consists of eight scaled scores, which are the weighted sums of the questions in their section. Each scale is directly transformed into a 0-100 scale on the assumption that each question carries equal weight. The lower the score the more disability. The higher the score the less disability)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Postperation pain</measure>
+    <time_frame>Day 3</time_frame>
+    <description>VAS,Visual analogy score (0 to 10,higher scores mean a worse outcome)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Motor function</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Walking independently after surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LOS(length of stay)</measure>
+    <time_frame>Day 7</time_frame>
+    <description>From admission to discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical indexes</measure>
+    <time_frame>&quot;Day 0&quot;，&quot;Day 3&quot;</time_frame>
+    <description>C-reactive protein(CRP)，motilin(MTL).Gastrin(GAS),vasoactive peptide(VIP)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical indexes 1</measure>
+    <time_frame>&quot;Day 0&quot;，&quot;Day 3&quot;</time_frame>
+    <description>C-reactive protein(CRP, ug/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical indexes 2</measure>
+    <time_frame>&quot;Day 0&quot;，&quot;Day 3&quot;</time_frame>
+    <description>Motilin(MTL, ng/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical indexes 3</measure>
+    <time_frame>&quot;Day 0&quot;，&quot;Day 3&quot;</time_frame>
+    <description>Gastrin(GAS, ng/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical indexes 4</measure>
+    <time_frame>&quot;Day 0&quot;，&quot;Day 3&quot;</time_frame>
+    <description>vasoactive peptide(VIP, pg/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Event Assessment</measure>
+    <time_frame>&quot;Day 0&quot;，&quot;Day 3&quot;，&quot;Day 7&quot;</time_frame>
+    <description>Any adverse events in the study</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Routine perioperative management and PEA</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Routine perioperative management and perioperative electroacupuncture (preoperative, intraoperative, postoperative)；</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Routine perioperative management and postEA</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Routine perioperative management and postoperative electroacupuncture</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Routine perioperative management and PEA</intervention_name>
+    <description>Routine perioperative management： All patients were given perioperative fluid rehydration and nutritional support to correct acid-base imbalance, electrolyte disturbance, anti-infection, hemostasis and other symptomatic treatment； electroacupuncture protocol： Preoperation:RN 6 + RN 4 +ST30 + ST 36+ Hegu (bilateral),De qi, electroacupuncture, continuous wave, 5Hz, 30min before surgery at 19:00 PM Inoperatively: LI 4+ PC 6 + ST36 + GB 34 (bilateral) ,Deqi, electroacupuncture with density wave, 2/100Hz, 30 minutes before operation to the end of the operation Postoperative: LI 4 +SJ 6 + ST 6 + ST 37(Left);LI 4 +SJ 6 + ST 6 + ST 37(Right)(alternated on both sides per 12h) Deqi, electroacupuncture, continuous wave, 5Hz, 30min,19:00 on the left side and 07:00 on the next day after surgery,until to first flatus (FF)</description>
+    <arm_group_label>Routine perioperative management and PEA</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Routine perioperative management and postEA</intervention_name>
+    <description>Routine perioperative management： All patients were given perioperative fluid rehydration and nutritional support to correct acid-base imbalance, electrolyte disturbance, anti-infection, hemostasis and other symptomatic treatment； electroacupuncture protocol： Postoperative: LI 4 +SJ 6 + ST 6 + ST 37(Left);LI 4 +SJ 6 + ST 6 + ST 37(Right)(alternated on both sides per 12h) Deqi, electroacupuncture, continuous wave, 5Hz, 30min,19:00 on the left side and 07:00 on the next day after surgery,until to first flatus (FF)</description>
+    <arm_group_label>Routine perioperative management and postEA</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients who meet the diagnostic criteria of colorectal cancer and need elective&#xD;
+             radical resection of colorectal cancer;&#xD;
+&#xD;
+          2. 18≤ age≤79, gender is not limited;&#xD;
+&#xD;
+          3. Understand and agree to participate in the study and sign the informed consent;&#xD;
+&#xD;
+          4. No previous history of abdominal surgery and no abdominal adhesion;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with mental illness;&#xD;
+&#xD;
+          2. Patients requiring combined resection of other organs;&#xD;
+&#xD;
+          3. Participated in or is participating in other clinical researchers in the previous 3&#xD;
+             months&#xD;
+&#xD;
+          4. People who have received acupuncture (including electroacupuncture) in the past;&#xD;
+&#xD;
+          5. Other treatment options are being used (chemotherapy, radiotherapy, etc.) Those who&#xD;
+             meet any of the above criteria will be excluded from the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jia Zhou, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Yueyang Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai University of TCM</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ke Wang, PhD</last_name>
+    <phone>021-65161782</phone>
+    <phone_ext>+86</phone_ext>
+    <email>wangke8430@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Xuqiang Wei, PhD</last_name>
+    <phone>15871123824</phone>
+    <phone_ext>+86</phone_ext>
+    <email>wxqzdyx123@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Yueyang Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai University of Traditional Chinese Medicine</name>
+      <address>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 30, 2021</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>electroacupuncture</keyword>
+  <keyword>ERAS</keyword>
+  <keyword>Gastrointesinal function</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Through the article publication</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>6 month later for one year</ipd_time_frame>
+    <ipd_access_criteria>contact with the principal investigator</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

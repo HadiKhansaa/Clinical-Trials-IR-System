@@ -1,0 +1,206 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04739033</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UCH-86</org_study_id>
+    <nct_id>NCT04739033</nct_id>
+  </id_info>
+  <brief_title>Lifestyle Online Intervention On EB and BMI On Obese Hypertensive Adults</brief_title>
+  <acronym>LOIEB</acronym>
+  <official_title>Lifestyle Online Intervention On Eating Behaviour and Body Mass Index On Obese Hypertensive Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cardenal Herrera University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cardenal Herrera University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to analyze the effects of a online program focused on promoting healthy&#xD;
+      lifestyle habits (healthy eating and increased physical activity), on obese or overweight&#xD;
+      adults with hypertension. Participants will be recruited from a hypertension unit of a public&#xD;
+      hospital. These patients will be randomized allocated into two interventional groups:&#xD;
+      experimental group will receive audiovisual instructions from their hypertension specialist&#xD;
+      doctor, and the control group from a doctor outside the patient. Assessment will include:&#xD;
+      body composition (BMI), blood pressure, and eating behaviour.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hypertension incidence and overweight or obesity related, constitute a worrying public health&#xD;
+      problem nowadays. Evidence indicates that, despite the existence of several factors involved&#xD;
+      in their etiology, diet and physical activity play a particularly important role in the&#xD;
+      treatment and prevention of obesity and associated disorders. However, interventions for the&#xD;
+      treatment of obesity encounter some environmental and personal barriers, specifically&#xD;
+      problems or deficits in motivation. These barriers sometimes make it difficult to implement&#xD;
+      intervention strategies. In this sense, there is an important agreement about the need to&#xD;
+      generate alternatives and strategies which promote intrinsic motivation, self-regulation and&#xD;
+      self-efficacy as fundamental variables which have a direct relationship with the adherence&#xD;
+      and success of obesity treatments. To achieve this, Information and Communication&#xD;
+      Technologies (ICTs) are a very promising alternative, as they can provide personalised&#xD;
+      feedback and can be flexibly adapted to each user. In addition, ICTs also present other&#xD;
+      important advantages, especially their excellent cost-benefit ratio, and the possibility of&#xD;
+      increasing the efficiency of the interventions, since they allow to reach a greater number of&#xD;
+      users at a lower cost.&#xD;
+&#xD;
+      Therefore, this study aims to analyze the effects of a 3 months duration self-applied online&#xD;
+      program, composed of 9 modules focused on promoting healthy lifestyle habits (healthy eating&#xD;
+      and increased physical activity), on obese or overweight adults with hypertension.&#xD;
+      Participants will be recruited from a hypertension unit of a public hospital. These patients&#xD;
+      will be randomized allocated into two interventional groups: experimental group will receive&#xD;
+      audiovisual instructions from their hypertension specialist doctor, and the control group&#xD;
+      from a doctor outside the patient. Assessment will include: body composition (BMI), blood&#xD;
+      pressure, and eating behaviour.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 3, 2021</start_date>
+  <completion_date type="Anticipated">June 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 3, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Eating Behaviour, as measured with the DEBQ (Dutch Eating Behaviour Questionnaire).</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Dutch Eating Behaviour Questionnaire has 33 items, 13 of which refer to the emotional eating scale (eg, 'Desire to eat when irritated') and 10 of which refer to the external (eg, 'Eating when you feel lonely') and restrictive (eg, 'Difficult to resist delicious food') scales. The items can be rated on a five-point Likert-type scale, with a score of 1 indicating 'never' and 5 indicating 'very often (range 33-165). The lower the scores are, the lower the problematic eating behaviours are.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>BMI</measure>
+    <time_frame>3 months</time_frame>
+    <description>Body Mass Index</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Hypertension</condition>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Experimental group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will receive access to the web-based lifestyle intervention (exercise and nutritional education), supported by audiovisual instructions given by their hypertension specialist doctor.&#xD;
+The self-applied online program will comprise a three months behavioural intervention composed by 9 modules seeking to develop gradually achieving the goals of changing eating and physical activity habits, supported by audiovisual instructions. This group will receive access to the web-based lifestyle intervention (exercise and nutritional education), supported by audiovisual instructions given by their hypertension specialist doctor.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The control group will receive the same webbased lifestyle intervention (exercise and nutritional education), but in this case supported by audiovisual instructions given by a doctor outside the patient.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>VIVIR MEJOR EXPERIMENTAL</intervention_name>
+    <description>This group will receive access to the web-based lifestyle intervention (exercise and nutritional education), supported by audiovisual instructions given by their hypertension specialist doctor.&#xD;
+The self-applied online program will comprise a three months behavioural intervention composed by 9 modules seeking to develop gradually achieving the goals of changing eating and physical activity habits, supported by audiovisual instructions. This group will receive access to the web-based lifestyle intervention (exercise and nutritional education), supported by audiovisual instructions given by their hypertension specialist doctor.</description>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>Experimental group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hypertension&#xD;
+&#xD;
+          -  Overweight or obesity (25 ≤ BMI ≤ 35 kg/m2)&#xD;
+&#xD;
+          -  Aged between 18-75 years&#xD;
+&#xD;
+          -  Being a participant of the program 5 years ago&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not having access to the Internet or lack of information about it.&#xD;
+&#xD;
+          -  Treatment with more than 3 antihypertensive drugs.&#xD;
+&#xD;
+          -  Meet the criteria of the DSM-IV-TR of a Food Disorder.&#xD;
+&#xD;
+          -  Presenting some type of severe psychiatric disorder.&#xD;
+&#xD;
+          -  Disability that prevents or hinders physical exercise.&#xD;
+&#xD;
+          -  Receiving some treatment for weight loss.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>JUAN FRANCISCO L PÁRRAGA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cardenal Herrera University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ENRIQUE RODILLA, PhD</last_name>
+    <phone>961369000</phone>
+    <email>enrique.rodilla@uchceu.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>JUAN FRANCISCO L PÁRRAGA</last_name>
+    <phone>618055092</phone>
+    <email>juanfran@uchceu.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Juan Francisco Lisón Párraga</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Lisón JF, Palomar G, Mensorio MS, Baños RM, Cebolla-Martí A, Botella C, Benavent-Caballer V, Rodilla E. Impact of a Web-Based Exercise and Nutritional Education Intervention in Patients Who Are Obese With Hypertension: Randomized Wait-List Controlled Trial. J Med Internet Res. 2020 Apr 14;22(4):e14196. doi: 10.2196/14196.</citation>
+    <PMID>32286232</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 31, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 4, 2021</study_first_posted>
+  <last_update_submitted>February 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cardenal Herrera University</investigator_affiliation>
+    <investigator_full_name>Juan F. Lisón Párraga, Dr</investigator_full_name>
+    <investigator_title>Professor of the Deparment of Biomedical Sciences</investigator_title>
+  </responsible_party>
+  <keyword>Hypertension</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>Internet</keyword>
+  <keyword>Exercise</keyword>
+  <keyword>Nutrition</keyword>
+  <keyword>Eating Behaviour</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

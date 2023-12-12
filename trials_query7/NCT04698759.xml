@@ -1,0 +1,253 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04698759</url>
+  </required_header>
+  <id_info>
+    <org_study_id>No.026/VR.RTT/IV/202</org_study_id>
+    <nct_id>NCT04698759</nct_id>
+  </id_info>
+  <brief_title>Immune and Scfa Profile of Stunting Children</brief_title>
+  <official_title>Differences in Immune Status and Fecal SCFA Between Indonesian Stunted Children and Children With Normal Nutritional Status</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bina Nusantara University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Yayasan Rumah Sakit Islam (YARSI) University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universitas Kristen Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Maastricht University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bina Nusantara University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      1. Type and Research Design A cross-sectional study design with a quantitative approach&#xD;
+           will be conducted. Cross-sectional research design is one-time research to find a&#xD;
+           relationship between the independent variable (risk factor) and the dependent variable&#xD;
+           (effect).&#xD;
+&#xD;
+        2. Time and Location of Research The research will be conducted for approximately six&#xD;
+           months in 2020 at Banten Regency (namely Tegal Ongok and Pasirkarang) and Sumedang&#xD;
+           Regency.&#xD;
+&#xD;
+        3. Population and Research Sample The population is children between three and five years&#xD;
+           old in the village of stunting locus.&#xD;
+&#xD;
+      The sampling method to be used in this research was quota sampling, namely 50 stunting and 50&#xD;
+      healthy children from each Regency.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The variables studied will be the nutritional status of children between three and five years&#xD;
+      old, the characteristics of these children (age, sex, LBW, birth length, history of&#xD;
+      immunization, history of diarrhea, history of upper respiratory tract infection, food&#xD;
+      intake), mother and family characteristics (mother's age, mother's education, mother's&#xD;
+      occupation, father's occupation), home environment (aspects of the components of the house,&#xD;
+      aspects of sanitation facilities, aspects of occupant behavior), the composition of the&#xD;
+      intestinal microbiota. Data will be obtained through measurements, interviews using a&#xD;
+      questionnaire, and direct observation using a checklist.&#xD;
+&#xD;
+      Stunting anthropometric measurements are measured based on parameters of length/height&#xD;
+      according to age compared to the WHO anthropometric standards 2005 and the Indonesian&#xD;
+      Minister of Health Decree No. 1995 / MENKES / SK / XII / 2010.&#xD;
+&#xD;
+      The nutritional status of each child included in this study will be quantified using the WHO&#xD;
+      recommended three nutritional Z-scores namely, height for age (referred to in this study as&#xD;
+      Zscore&#xD;
+&#xD;
+        1. weight for age (referred as Z-score&#xD;
+&#xD;
+        2. and weight for height (referred as Z-score&#xD;
+&#xD;
+        3. .A structured questionnaire was used for face-to-face interviews with the respective&#xD;
+           child mother to collect sociodemographic information. In addition, age and&#xD;
+           anthropometric measurements (height, weight) based on the Department of Health Ministry&#xD;
+           of Indonesia The regulation will be recorded. For stunting, the thresholds for&#xD;
+           height-for-age are: 'severely stunted' (&lt;-3 SD); 'stunted' (-3 SD to &lt; -2 SD); 'normal'&#xD;
+           (-2 SD to +3 SD); 'tall' (&gt; +3 SD). Furthermore, in order to obtain an overall measure&#xD;
+           of the nutritional status of these children, the children will be classified into&#xD;
+           weight-for-height categories: 'severely wasted' (&lt;-3 SD); 'wasted' (-3 SD to &lt; -2 SD);&#xD;
+           'normal' (-2 SD to +1 SD); 'possible risk of overweight' (+1 SD to +2 SD); 'overweight'&#xD;
+           (&gt; +2 SD to +3 SD); 'obese' (&gt; +3 SD)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 9, 2020</start_date>
+  <completion_date type="Actual">November 11, 2020</completion_date>
+  <primary_completion_date type="Actual">October 11, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>TGF beta</measure>
+    <time_frame>1 week analysis</time_frame>
+    <description>Unit : pg/mL from serum</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>sIgA</measure>
+    <time_frame>1 week analysis</time_frame>
+    <description>Unit : ul/ml from feses extract</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IL -10</measure>
+    <time_frame>1 week analysis</time_frame>
+    <description>unit pg/ml from serum</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TNF alfa</measure>
+    <time_frame>1 week analysis</time_frame>
+    <description>unit pg/mL from serum</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>LBP</measure>
+    <time_frame>1 week analysis</time_frame>
+    <description>Unit ul/ml from serum</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Short Chain Fatty Acid</measure>
+    <time_frame>1 months</time_frame>
+    <description>Acetate, Propionate, Butyrate, Isobutyric, Isopropionic , unit mM</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Microbiota profile</measure>
+    <time_frame>2 months</time_frame>
+    <description>relative abundance microbiota profile</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">131</enrollment>
+  <condition>Immune Deficiency</condition>
+  <condition>Stunting</condition>
+  <condition>Fatty Acid</condition>
+  <arm_group>
+    <arm_group_label>Stunted subject</arm_group_label>
+    <description>Children with stunted status condition based on Z score criteria</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal subject</arm_group_label>
+    <description>Children with normal status condition based on Z score criteria</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No Intervention</intervention_name>
+    <description>no Intervention</description>
+    <arm_group_label>Normal subject</arm_group_label>
+    <arm_group_label>Stunted subject</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood sample with plasma and serum preparation Fecal sample with DNA extraction Fecal sample&#xD;
+      with SCFA preparation&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        .A cross-sectional study design with a quantitative approach will be conducted.&#xD;
+        Cross-sectional research design is one-time research to find a relationship between the&#xD;
+        independent variable (risk factor) and the dependent variable (effect).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Children age : 3 - 5 years old (36-60 months)&#xD;
+&#xD;
+          -  Live in the research area&#xD;
+&#xD;
+          -  Apparently healthy children, after examination by a physician&#xD;
+&#xD;
+          -  Involved in a research study (informed consent signed by parent or guardian)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Children age &lt; 36 month and &gt; 60 month&#xD;
+&#xD;
+          -  Live outside research area&#xD;
+&#xD;
+          -  Unhealthy, after examination by a physician&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>5 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ingrid S Surono, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Bina Nusantara University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University</name>
+      <address>
+        <city>Jakarta</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <reference>
+    <citation>Grantham-McGregor S, Cheung YB, Cueto S, Glewwe P, Richter L, Strupp B; International Child Development Steering Group. Developmental potential in the first 5 years for children in developing countries. Lancet. 2007 Jan 6;369(9555):60-70.</citation>
+    <PMID>17208643</PMID>
+  </reference>
+  <results_reference>
+    <citation>Titaley CR, Ariawan I, Hapsari D, Muasyaroh A, Dibley MJ. Determinants of the Stunting of Children Under Two Years Old in Indonesia: A Multilevel Analysis of the 2013 Indonesia Basic Health Survey. Nutrients. 2019 May 18;11(5). pii: E1106. doi: 10.3390/nu11051106.</citation>
+    <PMID>31109058</PMID>
+  </results_reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 7, 2021</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Bina Nusantara University</investigator_affiliation>
+    <investigator_full_name>Ingrid S Surono</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>immune status</keyword>
+  <keyword>stunting</keyword>
+  <keyword>Normal Nutritional Status</keyword>
+  <keyword>Indonesian Children</keyword>
+  <keyword>Gut Microbiota</keyword>
+  <keyword>SCFA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+    <mesh_term>Growth Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

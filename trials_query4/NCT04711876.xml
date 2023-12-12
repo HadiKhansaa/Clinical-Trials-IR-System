@@ -1,0 +1,225 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04711876</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020 ARCHIMBAUD Bledi-Cytokine</org_study_id>
+    <nct_id>NCT04711876</nct_id>
+  </id_info>
+  <brief_title>Characterization of Cytokines Expression During Enterovirus Meningitis in Paediatric Populations.</brief_title>
+  <acronym>Bledi-Cytokine</acronym>
+  <official_title>Study of the Inflammatory Response to Enterovirus Meningitis in Newborns, Infants and Children, as Assessed by Cytokine Levels in Blood and Cerebrospinal Fluid. Case-control Comparison Using an Existing Cohort.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Clermont-Ferrand</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Laboratory of virology, National Enterovirus and parechovirus Reference Center, University Hospital of Clermont-Ferrand</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Clermont-Ferrand</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Enteroviruses (EV) are the most frequent cause of acute meningitis in the paediatric&#xD;
+      population. Detection of enterovirus in cerebrospinal fluid (CSF) specimens by Polymerase&#xD;
+      Chain Reaction (PCR) is the gold standard diagnostic test. Recently, our laboratory published&#xD;
+      the BLEDI study which highlighted the interest of detecting EV in the blood of the paediatric&#xD;
+      population : (i) EV was found in more than a quarter of cases in the blood of infants&#xD;
+      admitted to hospital with isolated fever and (ii) detection of EV was more frequent in the&#xD;
+      blood than in CSF in neonates and infants with isolated fever, sepsis or meningitis. However,&#xD;
+      the pathophysiology of EV infections is poorly understood and little work has been done on&#xD;
+      the inflammatory response to these infections. In EV meningitis, the inflammatory response&#xD;
+      has been studied primarily in children infected with enterovirus A71 (EV-A71). Indeed, in&#xD;
+      these children, inappropriate cytokine secretion (cytokine storm) leads to severe&#xD;
+      neurological and cardiopulmonary damage, which can progress to death. The study of the&#xD;
+      inflammatory response during meningitis due to other types of EV remains poorly&#xD;
+&#xD;
+      The objective of BLEDI-CYTOKINES (ancillary study of the BLEDI study) is to study the&#xD;
+      inflammatory response during EV meningitis in neonates, infants and children, as assessed by&#xD;
+      cytokine levels in blood and cerebrospinal fluid, by comparing case-controls from an existing&#xD;
+      cohort.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      EVs are characterized by their high genetic variability, with more than 120 types described&#xD;
+      to date. They are involved in mild infections, such as febrile syndromes that may be&#xD;
+      associated with respiratory and cutaneous manifestations. However, these viruses are also&#xD;
+      involved in more severe infections of the nervous system. In children infected with EV-A71,&#xD;
+      which causes mild epidemics of foot-and-mouth disease, inappropriate cytokine secretion&#xD;
+      (cytokine storm) leads to severe neurological and cardiopulmonary complications that can&#xD;
+      progress to death in children (&lt;5 years of age) in Asia. Many studies have focused on the&#xD;
+      inflammatory response to EV-A71 infections: some cytokines (Tumor Necrose Factor (TNF),&#xD;
+      INterFeron (INF), InterLeukine (IL)1, IL6, IL10, eotaxin,...) dosed in CSF have been&#xD;
+      associated with severe EV-A71 infections (2,5,6). Recently, a Japanese study showed an&#xD;
+      overexpression of IL-6 in the blood of children with EV-A71 foot-hand-mouth syndrome. The&#xD;
+      authors defined that a level of IL-6 ≥ 66 pg/mL could be a prognostic marker of progression&#xD;
+      to aseptic meningitis (6). In EV (other than EV-A71) meningitis, pro-inflammatory cytokines&#xD;
+      such as IL6, IL8, and INF are produced in the acute phase in CSF to control the infection,&#xD;
+      and then they decline and anti-inflammatory cytokines such as IL10 are synthesized (7). In&#xD;
+      addition, studies have shown that the production of some cytokines is greater in severe EV&#xD;
+      infections: for example, the production of IL4 and IL5 is greater in EV encephalitis than in&#xD;
+      EV skin infections (8).&#xD;
+&#xD;
+      However, there are very few comparative studies of cytokine expression in blood and CSF. In&#xD;
+      addition, little work has been done to study cytokine expression in meningitis due to EV&#xD;
+      other than EV-A71. In young children, these meningitis may also be complicated by&#xD;
+      encephalitis, myelitis, and even flaccid paralysis (including poliomyelitis) (2-4). The&#xD;
+      pathophysiology of these severe EV infections is currently unknown. In addition, no&#xD;
+      preventive vaccine is available against these infections (other than polio vaccine), nor are&#xD;
+      there effective curative antivirals for severe EV infections.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Expression of cytokine in blood</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Level of cytokine in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Expression of cytokine in cerebrospinal fluid</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Level of cytokine in cerebrospinal fluid</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Meningitis Enterovirus</condition>
+  <arm_group>
+    <arm_group_label>Test group with enterovirus meningitis</arm_group_label>
+    <description>Level of Cytokine in blood and CSF for Patient with RT-PCR-EV +</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group with no enterovirus meningitis</arm_group_label>
+    <description>Level of Cytokine in blood and CSF for Patient with RT-PCR-EV -</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Cytokine level in blood and CSF</intervention_name>
+    <description>Measure of cytokine level</description>
+    <arm_group_label>Control group with no enterovirus meningitis</arm_group_label>
+    <arm_group_label>Test group with enterovirus meningitis</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood and CSF taken from paediatric patient during hospitalisation for suspicion of&#xD;
+      meningitis (Sample taken from 2015 and 2016 according to the BLEDI Study)&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Paediatric patient with suspicion of meningitis&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with proven enterovirus meningitis (RT- PCR EV positive)&#xD;
+&#xD;
+          -  Control patients admitted for suspected meningitis infection but for whom the&#xD;
+             bacteriological (LCS culture/ blood culture negative) and virological diagnosis&#xD;
+             (testing for enteroviruses (RT-PCR negative) and parechoviruses (viruses responsible&#xD;
+             for symptoms similar to those of EVs) is negative&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        For patients with EV meningitis, we will exclude:&#xD;
+&#xD;
+          -  patients with co-infection&#xD;
+&#xD;
+          -  haemorrhagic CSF samples&#xD;
+&#xD;
+          -  samples (CSF or blood) for which we do not have access to EV viral load results&#xD;
+&#xD;
+          -  samples (CSF or blood) for which we do not have access to the EV genotyping results&#xD;
+&#xD;
+        For patients in the control group (without EV meningitis), we will exclude :&#xD;
+&#xD;
+          -  Samples from patients with an infection (viral or bacterial) in the control group.&#xD;
+&#xD;
+          -  haemorrhagic CSF samples&#xD;
+&#xD;
+          -  CSF samples with pleocytosis (presence of CSF leucocytes).&#xD;
+&#xD;
+          -  Blood samples with high CRP (CRP&gt;15mg/L).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>16 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lise Laclautre</last_name>
+    <phone>0473754963</phone>
+    <email>promo_interne_drci@chu-clermontferrand.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital, Clermont Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <state>Aura</state>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Christine ARCHIMBAUD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Lafolie J, Labbé A, L'Honneur AS, Madhi F, Pereira B, Decobert M, Adam MN, Gouraud F, Faibis F, Arditty F, Marque-Juillet S, Guitteny MA, Lagathu G, Verdan M, Rozenberg F, Mirand A, Peigue-Lafeuille H, Henquell C, Bailly JL, Archimbaud C; Blood Enterovirus Diagnosis Infection (BLEDI) in paediatric population study team. Assessment of blood enterovirus PCR testing in paediatric populations with fever without source, sepsis-like disease, or suspected meningitis: a prospective, multicentre, observational cohort study. Lancet Infect Dis. 2018 Dec;18(12):1385-1396. doi: 10.1016/S1473-3099(18)30479-1. Epub 2018 Oct 30.</citation>
+    <PMID>30389482</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 15, 2021</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Enterovirus infection</keyword>
+  <keyword>Cytokine expression</keyword>
+  <keyword>Paediatric population</keyword>
+  <keyword>Blood</keyword>
+  <keyword>Cerebrospinal fluid</keyword>
+  <keyword>Inflammatory</keyword>
+  <keyword>Meningitis viral</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Enterovirus Infections</mesh_term>
+    <mesh_term>Meningitis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

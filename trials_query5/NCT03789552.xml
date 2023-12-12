@@ -1,0 +1,391 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03789552</url>
+  </required_header>
+  <id_info>
+    <org_study_id>T89-08-ORESA</org_study_id>
+    <nct_id>NCT03789552</nct_id>
+  </id_info>
+  <brief_title>Outcome Research to Confirm the Anti-anginal Effect of T89 in Patients With Stable Angina</brief_title>
+  <official_title>A Multi-center, Double-blind, Randomized, Placebo-controlled, Parallel-group Phase 3 Study to Confirm the Safety and Efficacy of T89 in Patients With Stable Angina Pectoris, With an Extended Open-label Period to Evaluate the Long-term Safety</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tasly Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tasly Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-center, double-blind, randomized, placebo-controlled, parallel-group phase 3&#xD;
+      clinical study to confirm the safety and efficacy of T89 in patients with stable angina&#xD;
+      pectoris, with an extended open-label period to evaluate the long-term safety of T89. This&#xD;
+      study includes three main periods: the first study period is a 3-week single-blind qualifying&#xD;
+      run-in period to screen eligible stable angina patients by exercise tolerance test (ETT). The&#xD;
+      second study period is a 8-week double-blind treatment period to evaluate the efficacy and&#xD;
+      safety of T89 in patients with stable angina by ETT. And, the last study period is a 44-week&#xD;
+      open-label period to observe long-term use safety of T89.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After signing the consent, patients will enter the single blind qualifying run-in period for&#xD;
+      3 weeks. All prophylactic anti-anginal medications will be withdrawn except no more than one&#xD;
+      beta blocker or one calcium channel blocker (CCB) to remain. If patients can tolerate the&#xD;
+      withdrawal of the multiple anti-anginal medications, the dose of the remained one beta&#xD;
+      blocker or one CCB will be kept unchanged until the double-blind treatment period ends. In&#xD;
+      this study period, patients will have two exercise tolerance tests (ETTs) on standard Bruce&#xD;
+      protocol, conducted one week apart. Sublingual nitroglycerin is allowed for symptomatic&#xD;
+      relief of angina attack.&#xD;
+&#xD;
+      After screening, eligible patients will be randomly assigned to receive one of the three&#xD;
+      double-blind treatments: high dose T89 of 300 mg, bid, low dose T89 of 225 mg, bid, or&#xD;
+      placebo, in a 1:1:1 ratio. Each patient will be instructed to administer assigned treatment&#xD;
+      twice daily for 8 weeks. ETTs will be performed at the end of week 6 and 8 of treatment, or&#xD;
+      end of treatment (EOT) if study patient discontinues study prematurely.&#xD;
+&#xD;
+      Seattle Angina Questionnaire (SAQ) will be used to record patients' quality of life. Clinical&#xD;
+      evaluations and adverse event monitoring will be assessed throughout the study. Laboratory&#xD;
+      tests will be performed at screening and the designated visits.&#xD;
+&#xD;
+      Once the treatment period is completed, patients will enter the extended open label safety&#xD;
+      assessment period for a further 44 weeks. During this period, all patients will receive T89&#xD;
+      at a daily dose of 600 mg, and they can resume their original anti-anginal medications as&#xD;
+      needed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2019</start_date>
+  <completion_date type="Anticipated">September 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in symptom-limited total exercise duration (TED) at trough drug levels on standard Bruce protocol from baseline to Day 57</measure>
+    <time_frame>Day 57 (post drug administration from randomization)</time_frame>
+    <description>Exercise, a common physiological stress, can elicit cardiovascular abnormalities that are not present at rest, and it can be used to determine the adequacy of cardiac function. Clinical exercise tolerance test (ETT) is an established non-invasive procedure that provides diagnostic and prognostic information for the evaluation of several pathologies, the most common of which is coronary heart disease. Total exercise duration (TED) is the time from starting ETT to terminating ETT, usually presented by minutes and seconds. Standard Bruce protocol, one of the protocols used for the conduction of an ETT as a pre-defined speed and gradient in different time interval, will be applied in this study. The TED at each ETT will be collected and recorded as primary parameter, and the change from baseline of symptom-limited TED at trough drug levels on standard Bruce protocol to Day 57 of treatment in high-dose and low-dose groups will be compared with that in placebo group.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The trend of TED changes over time (Slop) from Day 1 to Day 57</measure>
+    <time_frame>Day 57 (post drug administration from randomization)</time_frame>
+    <description>The trend of TED changes from Day 1 to Day 57 double-blind treatment period will be compared among high dose group, low dose group and placebo group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in the average frequency of angina episodes (average over 14 days) from baseline [Day -14 to 1] to end of double-blind treatment period [Day 43 to 57]</measure>
+    <time_frame>Day 57 (post drug administration from randomization)</time_frame>
+    <description>A Wearable Cardiac Monitor (WCM) is a device similar to a Holter but quite smaller in size. This is a FDA-approved device used for recording the ECG up to for 7 days when patients may suffer from transient symptoms such as palpitations, dizziness, anxiety, fatigue, syncope, pre-syncope, light-headedness, shortness of breath. The WCM device is safe and easy for patients to use even when they are taking a short shower. Angina episodes during the past 7 days will be mainly collected from this device and recorded by site staff at due visit until Day 57. And percent change in the average frequency of angina episodes (average over 14 days) from baseline [Day -14 to 1] to end of double-blind treatment period [Day 43 to 57] in high-dose and low-dose groups will be compared with that in placebo group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in the average on-demand consumption of short-acting nitroglycerin (average over 14 days) from baseline [Day -14 to 1] to end of double-blind treatment period [Day 43 to 57].</measure>
+    <time_frame>Day 57 (post drug administration from randomization)</time_frame>
+    <description>The amount of used short-acting nitroglycerin since last visit will be counted and recorded at each visit (except for the first visit), and percent change in the average on-demand consumption of short-acting nitroglycerin (average over 14 days) from baseline [Day -14 to 1] to end of double-blind treatment period [Day 43 to 57] in high-dose and low-dose groups will be compared with that in placebo group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in symptom-limited total exercise duration (TED) at trough drug levels on standard Bruce protocol from baseline to Day 43</measure>
+    <time_frame>Day 43(post drug administration from randomization)</time_frame>
+    <description>The TED at each ETT will be collected and recorded as primary parameter, and change in symptom-limited total exercise duration (TED) at trough drug levels on standard Bruce protocol from baseline to Day 43 in high-dose and low-dose groups will be compared with that in placebo group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in the average frequency of angina episodes (average over 14 days) from baseline [Day -14 to 1] to Week-6 visit of double-blind treatment period [Day 29 to 43]</measure>
+    <time_frame>Day 43 (post drug administration from randomization)</time_frame>
+    <description>A Wearable Cardiac Monitor (WCM) is a device similar to a Holter but quite smaller in size. This is a FDA-approved device used for recording the ECG up to for 7 days when patients may suffer from transient symptoms such as palpitations, dizziness, anxiety, fatigue, syncope, pre-syncope, light-headedness, shortness of breath. The WCM device is safe and easy for patients to use even when they are taking a short shower. Angina episodes during the past 7 days will be mainly collected from this device and recorded by site staff at due visit until Day 57. And percent change in the average frequency of angina episodes (average over 14 days) from baseline [Day -14 to 1] to Week-6 visit of double-blind treatment period [Day 29 to 43] in high-dose and low-dose groups will be compared with that in placebo group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in time to onset of angina during ETT from baseline to Day 57</measure>
+    <time_frame>Day 57 (post drug administration from randomization)</time_frame>
+    <description>Commonly, exercise will make heart pump harder and faster, and further cause angina event during ETT as a result of myocardial ischemia. The time from the beginning of ETT to onset of angina during ETT will be collected and recorded at each ETT, and change in time to onset of angina during ETT from baseline to Day 57 in high-dose and low-dose groups will be compared with that in placebo group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in time to 1 mm ST depression during ETT from baseline to Day 57</measure>
+    <time_frame>Day 57 (post drug administration from randomization)</time_frame>
+    <description>Commonly, exercise will make heart pump harder and faster, and further cause angina event during ETT as a result of myocardial ischemia, sometimes accompanied by horizontal or down-slopping ST segment depression in electrocardiograph (ECG) in some patients with stable angina. The time from the beginning of ETT to onset of at least of 1 millimeter (mm) horizontal or down-slopping ST segment depression during ETT will be collected and recorded at each ETT, and the change in time to onset of at least of 1 mm horizontal or down-slopping ST segment depression during ETT from baseline to Day 57 of treatment in high-dose and low-dose groups will be compared with that in placebo group.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Frequency and severity of adverse events and serious adverse events</measure>
+    <time_frame>Day 57 (post drug administration from randomization)</time_frame>
+    <description>A safety endpoint to compare frequency and severity of adverse events and frequency and severity of serious adverse events among high dose, low dose and placebo group.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Notable laboratory abnormalities which are treatment-emergent</measure>
+    <time_frame>Day 57 (post drug administration from randomization)</time_frame>
+    <description>A safety endpoint to compare the rate of notable laboratory abnormalities among high dose, low dose and placebo group.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">765</enrollment>
+  <condition>Chronic Stable Angina Pectoris</condition>
+  <arm_group>
+    <arm_group_label>T89 low-dose group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>T89 capsule is a botanical drug containing 75mg active substance which is the water extract of Danshen and Sanqi. Placebo capsule does not contain any amount of active substance.&#xD;
+Subjects in this group will use three T89 capsules and one Placebo capsule each time by oral administration twice daily for 8 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>T89 high-dose group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>T89 capsule is a botanical drug containing 75mg active substance which is the water extract of Danshen and Sanqi.&#xD;
+Subjects in this group will use four T89 capsules each time by oral administration twice daily for 8 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo capsule does not contain any amount of active substance. Subjects in this group will use four Placebo capsules each time by oral administration twice daily for 8 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>T89 capsule</intervention_name>
+    <description>T89 capsules (75mg)</description>
+    <arm_group_label>T89 high-dose group</arm_group_label>
+    <arm_group_label>T89 low-dose group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo capsule</intervention_name>
+    <description>Placebo capsules (0mg)</description>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_label>T89 low-dose group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Willing to participate and sign a written informed consent&#xD;
+&#xD;
+          2. Males and females ≥ 18 and ≤90 years old.&#xD;
+&#xD;
+          3. Medical history of chronic stable angina triggered by physical effort and relieved by&#xD;
+             rest or sublingual nitroglycerin.&#xD;
+&#xD;
+          4. Patients who agree and in the opinion of the investigator are able to withdraw all&#xD;
+             non-beta blocker and all non-calcium channel blocker anti-anginal medications. For&#xD;
+             those subjects who are on beta blockers and/or calcium channel blockers, they are able&#xD;
+             to keep only one beta blocker or one calcium channel blocker (acceptable calcium&#xD;
+             channel blocker: amlodipine, diltiazem, verapamil or nicardipine), but not both, and&#xD;
+             subjects agree and are expected to be able to remain on this treatment regimen from&#xD;
+             Day -21 until the completion of the double-blind period in the opinion of the&#xD;
+             investigator.&#xD;
+&#xD;
+             4.1) For patients who have to modify their anti-anginal treatment regimen to meet the&#xD;
+             above qualification criteria, health care provider who is responsible for the&#xD;
+             patient's cardiac care (if this is not the study doctor) must provide a form of&#xD;
+             agreement (verbal conversation, phone call, in writing or shown as referral) to the PI&#xD;
+             before the treatment modification.&#xD;
+&#xD;
+             4.2) For patients who are not on beta blocker or calcium channel blocker or other&#xD;
+             antianginal medications, there is no requirement to start on antianginal medication.&#xD;
+&#xD;
+             *nitroglycerin tablets, only those provided by sponsor, are allowed to be used for&#xD;
+             on-demand symptomatic relief of angina during the qualifying and treatment periods to&#xD;
+             ensure an accurate calculation of consumption.&#xD;
+&#xD;
+          5. Documented history of coronary artery disease with one or more of the following&#xD;
+             conditions:&#xD;
+&#xD;
+             5.1) History of previous myocardial infarction (previous MI that occurred and was&#xD;
+             diagnosed at least 3 months prior to start of screening).&#xD;
+&#xD;
+             5.2) Ischemic heart disease determined by stress myocardial imaging examination&#xD;
+             (including nuclear stress test, cardiac stress MRI and echocardiography stress test).&#xD;
+&#xD;
+             5.3) Clinically significant coronary stenosis ≥50% in any vessel detected by coronary&#xD;
+             angiography (or coronary CT angiography).&#xD;
+&#xD;
+          6. Understand and be willing, able and likely to comply with all study procedures and&#xD;
+             restrictions and comprehends the Seattle Angina Questionnaire rating scales and diary&#xD;
+             cards.&#xD;
+&#xD;
+          7. Women of child bearing potential: Female patients of child-bearing potential or male&#xD;
+             patients with partners of child-bearing potential must use appropriate birth control&#xD;
+             from the start of screening, until 3 months after the last dose of study medication.&#xD;
+             Female patients of child bearing potential must have negative pregnancy tests at&#xD;
+             screening visit [Day -21, quantitative serum human chorionic gonadotropin (β-hCG&#xD;
+             test)] and randomization visit (Day 1, urine pregnancy test).&#xD;
+&#xD;
+          8. Patient must experience two or more angina episodes from Day-14 to Day 1, as the&#xD;
+             baseline frequency of angina. At least two of the angina episodes must be recorded by&#xD;
+             WCM (Other written forms of recording/reporting angina episodes may be acceptable only&#xD;
+             in situations and times that recording by WCM is impractical. In addition, patients&#xD;
+             are allowed to use short acting nitroglycerin for relief of angina).&#xD;
+&#xD;
+          9. To be qualified, patients must have two qualifying ETTs on standard Bruce protocol on&#xD;
+             Day- 7 and Day 1. The qualifying ETTs are:&#xD;
+&#xD;
+               1. ETTs must meet the positive ETT criteria;&#xD;
+&#xD;
+               2. Total exercise duration (TED) of the positive ETT is between 3-12 minutes of&#xD;
+                  exercise;&#xD;
+&#xD;
+               3. The difference in TED between the two ETTs must not exceed 15% of the longer one.&#xD;
+&#xD;
+                    -  For the qualifying ETTs, in patients with permitted baseline ST-segment&#xD;
+                       depression at rest (&lt;1 mm at 80 msec after the J point), qualifying&#xD;
+                       ST-segment depression during ETT will be defined as additional ST-segment&#xD;
+                       depression ≥1 mm (at 80 msec after the J point) below the resting value.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with only non-cardiac chest pain or cardiac chest pain not related to angina.&#xD;
+&#xD;
+          2. Patients with contraindication to, unable to, or with other co-morbidities that may&#xD;
+             prevent or interfere with the ability to perform ETT, in the opinion of investigator,&#xD;
+             including but not limited to: hospitalization for acute exacerbation of chronic lung&#xD;
+             disease within 4 weeks prior to the start of screening, current home oxygen use, needs&#xD;
+             for cardiac glycoside therapy, functionally limiting peripheral arterial disease,&#xD;
+             physical disability or other intercurrent illness such as acute respiratory&#xD;
+             infection/illness that, in the opinion of the Investigator or Sub-investigator, may&#xD;
+             interfere with the ability to perform ETT.&#xD;
+&#xD;
+          3. Patients with presence of electrographic or other abnormalities/factors that could&#xD;
+             interfere with exercise ECG interpretation or may lead to a false positive stress test&#xD;
+             (including but not limited to, Lown-Ganong-Levine Syndrome (LGL),&#xD;
+             Wolff-Parkinson-White Syndrome (WPW), left bundle branch block, ≥1 mm ST segment&#xD;
+             depression at rest, pacemaker rhythm etc.).&#xD;
+&#xD;
+             *Left ventricular hypertrophy (LVH) without repolarization abnormalities is not&#xD;
+             considered an exclusion criterion.&#xD;
+&#xD;
+          4. Patients with history of any coronary revascularization procedure (e.g. PCI or CABG)&#xD;
+             within 2 months prior to the start of screening.&#xD;
+&#xD;
+          5. Patients who had unstable angina, or myocardial infarction within the recent 3 months&#xD;
+             prior to the start of screening.&#xD;
+&#xD;
+          6. Patients with ongoing NYHA Classes III-IV congestive heart failure.&#xD;
+&#xD;
+          7. Patients with angina pectoris at rest at screening.&#xD;
+&#xD;
+          8. Patients with rapid atrial fibrillation at screening (rest heart rate &gt;120/min) or any&#xD;
+             time prior to randomization from Day -21.&#xD;
+&#xD;
+          9. Patients with ongoing myocarditis, pericarditis, thrombophlebitis or pulmonary&#xD;
+             embolism or who have recovered from these conditions &lt;1 month prior to screening.&#xD;
+             Note: Patients who are on anticoagulant prophylaxis just for a pulmonary embolism or&#xD;
+             thrombophlebitis will not be subject to the one-month restriction.&#xD;
+&#xD;
+         10. Patient with uncontrolled hypertension characterized by seated systolic blood pressure&#xD;
+             &gt;180mm Hg or diastolic blood pressure &gt;100mm Hg, within 2 months prior to, or during,&#xD;
+             the Single Blind Qualifying Period. Or patients with severe congenital cardiac&#xD;
+             defects, severe valvular disease, suspected or known dissecting aortic aneurysm and&#xD;
+             hypertrophic cardiomyopathy should be excluded.&#xD;
+&#xD;
+         11. Patients with hemoglobin (HGB) &lt;10 g/dL, aspartate aminotransferase (AST) or alanine&#xD;
+             aminotransferase (ALT) &gt;2×upper limit of normal (ULN), hemoglobin A1C (HbA1C) &gt;10%, or&#xD;
+             glomerular filtration rate (GFR) &lt;30cc/min, in any of the single blind qualifying lab&#xD;
+             tests.&#xD;
+&#xD;
+         12. Patient with history of bleeding diathesis or cerebral hemorrhage or seizure disorder&#xD;
+             that need anticonvulsant.&#xD;
+&#xD;
+         13. Patients who have to be on ranolazine, ivabradine or calcium channel blockers other&#xD;
+             than, amlodipine, verapamil, nicardipine or diltiazem, and patients who have to be on&#xD;
+             more than one beta blockers and/or calcium channel blockers, or other anti-anginal&#xD;
+             agent other than only sublingual nitroglycerin for on-demand angina relief.&#xD;
+&#xD;
+         14. Patients who have to be on digoxin, digitalis, or other herbal products containing&#xD;
+             Danshen (Radix Salviae Miltiorrhizae, RSM), Sanqi (Radix Notoginseng, RN) or Ginkgo&#xD;
+             biloba during the single-blind screening and/or double-blind treatment period.&#xD;
+&#xD;
+         15. Patients on antiplatelet drugs (except aspirin or clopidogrel), statins, ACE&#xD;
+             inhibitor, angiotensin II receptor blocker (ARB), warfarin or other direct acting oral&#xD;
+             anticoagulants (DOACs) need to be stable at current dose for at least 2 weeks prior to&#xD;
+             the start of screening.&#xD;
+&#xD;
+         16. Clinical trials/experimental medication: participation in any other clinical trial or&#xD;
+             receipt of an investigational drug or device within 30 days prior to the start of&#xD;
+             screening.&#xD;
+&#xD;
+         17. Female patients with known, suspected or planned pregnancy, or lactation.&#xD;
+&#xD;
+         18. Patients with a recent (within the last 2 years) history of substance abuse (alcohol,&#xD;
+             marijuana, or known drug dependence). Or patients who have a positive urine substance&#xD;
+             screening test at the Day -21 initial visit.&#xD;
+&#xD;
+         19. Any family member or relative of the study site staff, sponsor or CRO.&#xD;
+&#xD;
+         20. Patients with any other severe or serious condition that, in the opinion of the&#xD;
+             investigator is likely to prevent compliance with the study protocol or pose a safety&#xD;
+             concern if the patient participates in the study.&#xD;
+&#xD;
+         21. Patients whose QTcF (Fridericia's method corrected QT interval) is &gt;460 ms in male and&#xD;
+             &gt;470 ms in female during supine 12-lead ECG at rest at screening or any time prior to&#xD;
+             randomization from Day -21. And patients who are currently taking any medication that&#xD;
+             are known to prolong the QTcF interval at screening or any time prior to randomization&#xD;
+             from Day -21.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Henry H Sun, PhD, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Tasly Pharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Henry H Sun, PhD, MD</last_name>
+    <phone>301-978-3905</phone>
+    <email>HSun@taslyUS.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ruoling Guo, PhD</last_name>
+    <email>RGuo@taslyUS.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Southwest Florida Research LLC</name>
+      <address>
+        <city>Naples</city>
+        <state>Florida</state>
+        <zip>34102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James V Talano, PhD</last_name>
+      <email>jvtalano@comcast.net</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>December 25, 2018</study_first_submitted>
+  <study_first_submitted_qc>December 25, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2018</study_first_posted>
+  <last_update_submitted>January 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>angina pectoris</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Angina Pectoris</mesh_term>
+    <mesh_term>Angina, Stable</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

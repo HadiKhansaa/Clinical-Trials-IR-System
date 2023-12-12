@@ -1,0 +1,273 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04805112</url>
+  </required_header>
+  <id_info>
+    <org_study_id>848410</org_study_id>
+    <nct_id>NCT04805112</nct_id>
+  </id_info>
+  <brief_title>Acceptability, Feasibility and Impact of Oral HIV Self-testing for Partner Testing Among Kenyan Adolescent Girls Aged 15-19 Years: A Randomized Controlled Trial</brief_title>
+  <official_title>Acceptability, Feasibility and Impact of Oral HIV Self-testing for Partner Testing Among Kenyan Adolescent Girls Aged 15-19 Years: A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Impact Research &amp; Development Organization</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized controlled trial will assess the feasibility, acceptability and impact of the&#xD;
+      provision of multiple oral-fluid based HIV self-test kits to HIV-negative adolescents aged&#xD;
+      15-19 years to promote HIV testing among their sexual partners and couples testing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will recruit HIV-negative adolescents girls (AG) aged 15-19 years in Siaya County,&#xD;
+      western Kenya. The study will evaluate the impact of the provision of oral HIV self-testing&#xD;
+      on uptake of testing among partners of adolescent girls. We will randomize about 300 sexually&#xD;
+      active AG to either an intervention group that receives multiple oral self-test kits that&#xD;
+      they can choose to offer to their sexual partner(s) or to a control group that will be given&#xD;
+      multiple referral coupons that their partners can use for HIV testing at pre-selected HIV&#xD;
+      testing services (HTS) sites. We will collect data on whether the kits were offered, to whom&#xD;
+      they were offered, if they were accepted, if they were used and with what results, if known,&#xD;
+      and if the partners who obtained HIV-positive results sought confirmatory testing. We will&#xD;
+      also conduct in-depth interviews with a sub-set adolescents to explore their experiences in&#xD;
+      offering HIV self-testing to their male partners.&#xD;
+&#xD;
+      This study has 4 specific aims: i) determine whether adolescent girls can safely offer oral&#xD;
+      HIV self-tests to their partners; ii) assess whether oral self-testing improves uptake of HIV&#xD;
+      testing among partners of adolescent girls; iii) document adverse events associated with&#xD;
+      offering oral self-testing to sexual partners of adolescent girls; and iv) qualitatively&#xD;
+      explore the experiences of adolescent girls when offering self-test kits to their partners.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 15, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be recruited through the DREAMS (Determined, Resilient, Empowered, AIDS-Free, Mentored, Safe) program being implemented in Siaya County, western Kenya, as well as other community groups and venues, by the host institution (Impact Research and Development Organization, IRDO). Participants will be randomized in a 1:1 ratio to either an intervention group (receive multiple oral HIV self-test kits) or control (receive referral vouchers for clinic based testing). About 300 women will be recruited to patriciate in this study.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>uptake of partner HIV testing</measure>
+    <time_frame>3 months</time_frame>
+    <description>proportion of partners that complete HIV testing</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Introduce testing</measure>
+    <time_frame>3 months</time_frame>
+    <description>proportion of participants who introduce testing to their partners</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Partner accept testing</measure>
+    <time_frame>3 months</time_frame>
+    <description>proportion of partners who were offered HIVST or referral coupon and accepted</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Partner testing</measure>
+    <time_frame>3 months</time_frame>
+    <description>proportion of participants who report their partner tested alone</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Couples testing</measure>
+    <time_frame>3 months</time_frame>
+    <description>proportion of participants who report testing with their partner</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive partner</measure>
+    <time_frame>3 months</time_frame>
+    <description>proportion of participants who report their partner test result was positive</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>linked to care</measure>
+    <time_frame>3 months</time_frame>
+    <description>Proportion of participants who report their partners was linked to care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intimate partner violence</measure>
+    <time_frame>3 months</time_frame>
+    <description>proportion of participants in each study group who report intimate partner violence related to HIV testing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmatory testing for positive HIV self-test</measure>
+    <time_frame>3 months</time_frame>
+    <description>proportion of participants in the intervention group who report their partner tested positive and went for confirmatory testing</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Human Immunodeficiency Virus</condition>
+  <arm_group>
+    <arm_group_label>Provision of multiple self-tests</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to the intervention group will be given 2-3 HIV oral self-tests to offer to their sexual partner(s). The participant will be instructed to encourage their partner to test himself alone [partner testing] or with the participant [couple testing]; the partner will also be given a card with information on testing and a list of facilities where he can go for confirmatory testing. All participants will be encouraged to call a study helpline/hotline in the event of any adverse events that they or their sexual partners experience or if they need further instructions or information</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Referral vouchers for clinic testing</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants randomized to the control group will be given multiple referral coupons for HIV testing at pre-selected HIV testing services (HTS) sites. The participant will be instructed to give the coupon to their sexual partner(s) and encourage him to go for HIV testing at pre-selected HTS sites, either alone [partner testing] or together with the participant [couple testing]. The coupon will also have information on testing and a list of facilities where he can go for HTS. All participants will be encouraged to call a study helpline/hotline in the event of any adverse events that they or their sexual partners experience or if they need further instructions or information</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Provision of multiple self-tests</intervention_name>
+    <description>Participants will be given multiple Oraquick Advance HIV-1/2 test kits to distribute to their sexual partners for partner testing or couple testing. Phone interviews will be conducted with the participants to assess whether they provided a HIV self-test to their partner, if the test was used, how it was used (partner testing or couple testing), if the partner disclosed his results, the partner's reaction to the results, and if the partner went for confirmatory testing</description>
+    <arm_group_label>Provision of multiple self-tests</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  Aged 15-19 years&#xD;
+&#xD;
+          -  HIV-negative (willing to self-test onsite in the presence of the Research Assistant&#xD;
+             who is also a trained HIV counselor)&#xD;
+&#xD;
+          -  Has at least one current sexual partner she expects to meet at least twice in the next&#xD;
+             3 months (not necessarily to have sex); this will provide opportunity for the&#xD;
+             participant to suggest/offer testing.&#xD;
+&#xD;
+          -  Resides in Siaya County and does not intend to relocate within 6 months from&#xD;
+             enrollment, to allow follow up to be completed and to conduct IDI with those selected.&#xD;
+&#xD;
+          -  Willing to be randomized into the partner self-testing or HTS referral groups.&#xD;
+&#xD;
+          -  Reporting no incident of sexual, physical, emotional, or economic abuse in the last 12&#xD;
+             months from the partner she intends to offer (Appendix 4) or refer for testing&#xD;
+             (Appendix 3) in the next 3 months and does not believe the partner will abuse her if&#xD;
+             she offers the self-test kits or HTS referral coupon.&#xD;
+&#xD;
+          -  Has a male partner who has not tested for 6 months or whose HIV status is unknown to&#xD;
+             her.&#xD;
+&#xD;
+          -  Agrees to give consent to participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Male&#xD;
+&#xD;
+          -  HIV-positive&#xD;
+&#xD;
+          -  Not willing to self-test onsite under in the presence of the Research Assistant&#xD;
+&#xD;
+          -  Aged &lt;15 years or &gt;19 years&#xD;
+&#xD;
+          -  Does not have a current sexual partner or does not expect to meet the partner at least&#xD;
+             twice in the next 3 months&#xD;
+&#xD;
+          -  Does not reside in Siaya County or intends to relocate within the next 6 months&#xD;
+&#xD;
+          -  Not interested in obtaining HIV self-tests or HTS referral coupon for purposes of&#xD;
+             suggesting testing to their sexual partners&#xD;
+&#xD;
+          -  Reporting an incidence of sexual, physical, emotional or economic abuse in the last 12&#xD;
+             months from the partner she would have offered self-test kit or referred for testing,&#xD;
+             or believes the partner may subject her to sexual, physical, emotional, or economic&#xD;
+             abuse if she offered them self-test kit or HTS coupon.&#xD;
+&#xD;
+          -  Has a male partner who tested within the last 6 months.&#xD;
+&#xD;
+          -  Does not give consent to participate in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>19 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kawango Agot, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Impact Organization &amp; Research Development</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Harsha Thirumurthy, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Noora Marcus, MA</last_name>
+    <phone>215-746-4491</phone>
+    <email>noora.marcus@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Harsha Thirumurthy, PhD</last_name>
+    <phone>919-966-9756</phone>
+    <email>hthirumu@upenn.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Impact Research &amp; Development Organization</name>
+      <address>
+        <city>Kisumu</city>
+        <country>Kenya</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Risper MA Bosire</last_name>
+      <email>bosirerisper@impact-rdo.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kawango PhD Agot</last_name>
+      <email>kawango@impact-rdo.org</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Kenya</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HIV self-testing</keyword>
+  <keyword>partner testing</keyword>
+  <keyword>couples testing</keyword>
+  <keyword>transactional sex</keyword>
+  <keyword>young women</keyword>
+  <keyword>adolescent girls</keyword>
+  <keyword>female sex workers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

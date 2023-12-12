@@ -1,0 +1,243 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02906293</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00045465</org_study_id>
+    <nct_id>NCT02906293</nct_id>
+  </id_info>
+  <brief_title>AbStats: Assessing Post-Prandial Intestinal Event Rates in Healthy Individuals</brief_title>
+  <official_title>AbStats: Assessing Post-Prandial Intestinal Event Rates in Healthy Individuals</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cedars-Sinai Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cedars-Sinai Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study seeks to: Assess &quot;normal&quot; intestinal event rates for healthy subjects, to&#xD;
+      determine the effect of meal size on an individual's intestinal rate, and to determine&#xD;
+      whether there are differences between individuals in the fasting and post-prandial setting.&#xD;
+&#xD;
+      The investigators hypothesize the following:&#xD;
+&#xD;
+        1. Fasting intestinal rate will be consistently less than 14 events per minute, similar to&#xD;
+           previously documented bowel sound frequency.&#xD;
+&#xD;
+        2. There will a uniform increase in intestinal rate in the immediate post-prandial setting.&#xD;
+           There will be direct correlation between maximal and average post-prandial intestinal&#xD;
+           rates and meal size. Likewise, meal size will correlate with time to baseline fasting&#xD;
+           intestinal rate.&#xD;
+&#xD;
+        3. Males and those with lower body mass index (BMI) will experience higher maximal and&#xD;
+           average post-prandial intestinal rates and shorter time to baseline fasting levels&#xD;
+           compared to females and those with higher BMI, respectively.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will complete a baseline demographic and medical data sheet comprising of age,&#xD;
+      gender, race, ethnicity, height, weight, education, employment status, past medical history,&#xD;
+      and current prescription and over-the-counter medications. An AbStats device along with a log&#xD;
+      sheet will be provided to each subject, both of which will be returned upon completion of&#xD;
+      participation.&#xD;
+&#xD;
+      Upon waking, prior to oral intake, participants will place the AbStats disposable sensor on&#xD;
+      their abdomen and secure it using adhesive tape. The sensor is connected to a monitor which&#xD;
+      records the sounds collected by the sensors and interprets them to create and intestinal rate&#xD;
+      reading, measured as acoustic events per minute. The device will display a numerical&#xD;
+      intestinal rate reading, measured as acoustic events per minute. The device will display a&#xD;
+      numerical intestinal rate that participants will record on their personal log sheet. The&#xD;
+      purpose of this value is to assess the intestinal rate during fasting.&#xD;
+&#xD;
+      Participants will then eat a small standardized breakfast comprised of a thinkThin oatmeal&#xD;
+      single serve bowl, toasted English muffin with butter, and an 11oz iced coffee. No additions&#xD;
+      or substitutions are permitted in order to standardize the meal. The percent of food eaten&#xD;
+      will be recorded on the log sheet.&#xD;
+&#xD;
+      Lunch on Day 1 will be a &quot;small meal&quot; consisting of half of a turkey and Swiss Corner Bakery&#xD;
+      sandwich, cup of fruit, and 12oz can of diet soda. It will be eaten four to five hours after&#xD;
+      breakfast. No snacks are permitted between breakfast and lunch. Again, a pre-meal intestinal&#xD;
+      rate reading will be obtained 30 minutes prior to eating lunch; participants will secure the&#xD;
+      device onto the abdomen multiple times in order to gather post-prandial data. The intestinal&#xD;
+      rate will be recorded on the log sheet. The subject will record intestinal rate every 30&#xD;
+      minutes for 5 hours after completion of the meal (e.g., lunch at 12 pm, then place sensors on&#xD;
+      abdomen for 10 minutes at 12:30 pm, 1:00 pm, 1:30 pm, 2:00 pm, 2:30 pm, 3:00 pm, 3:30 pm, 4:&#xD;
+      00 pm, 4:30 pm, and 5:00 pm). Afterwards, participants can eat freely once these data points&#xD;
+      have been obtained. Dinner will be a meal of their choosing.&#xD;
+&#xD;
+      Day 2 of the study will be largely similar to Day 1: participants will measure fasting&#xD;
+      intestinal rate upon waking and will eat a standardized breakfast (see above). The main&#xD;
+      difference in Day 2 is that participants will eat a &quot;large meal&quot; for lunch consisting of a&#xD;
+      full turkey and Swiss Corner Bakery sandwich, cup of fruit, small bag of potato chips, small&#xD;
+      cookie, and a 12oz can of diet soda. The same pre- and post-lunch measurements notes above&#xD;
+      will be measured and recorded. By performing the above, investigators will assess preliminary&#xD;
+      intestinal rate measurements in the fasting state, after a small lunch (Day 1), and after a&#xD;
+      large lunch (Day 2).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2017</start_date>
+  <completion_date type="Actual">July 17, 2017</completion_date>
+  <primary_completion_date type="Actual">July 17, 2017</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Baseline fasting intestinal rate</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>Prior to any oral intake, participants will record intestinal rate for 10 minutes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pre-meal intestinal rate</measure>
+    <time_frame>30 minutes prior to eating lunch participants will secure the device and record for 10 minutes</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-prandial intestinal rate</measure>
+    <time_frame>Every 30 minutes for 5 hours after completion of meal</time_frame>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">25</enrollment>
+  <condition>Post-prandial Intestinal Rates</condition>
+  <arm_group>
+    <arm_group_label>Healthy Participants</arm_group_label>
+    <description>Potential participants will self-refer.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Abdominal acoustic measurement</intervention_name>
+    <description>On Day 1 participants will record their intestinal rate at baseline fasting, pre-&quot;small meal,&quot; and upon completion of the meal. On Day 2 participants will record their intestinal rate at baseline fasting, pre-&quot;large meal,&quot; and upon completion of meal.</description>
+    <arm_group_label>Healthy Participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthy subjects&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy adults aged 18 to 65 years&#xD;
+&#xD;
+          -  Able to provide consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age younger than 18 or older than 65 years&#xD;
+&#xD;
+          -  Unable to provide consent&#xD;
+&#xD;
+          -  Vegetarian or vegan&#xD;
+&#xD;
+          -  Pregnant&#xD;
+&#xD;
+          -  Prior intestinal surgery&#xD;
+&#xD;
+          -  Recent gastroenteritis, diverticulitis or stool infection within past 3 months&#xD;
+&#xD;
+          -  Diagnosis of irritable bowel syndrome&#xD;
+&#xD;
+          -  Diagnosis of inflammatory bowel disorder (Crohn's disease, ulcerative colitis,&#xD;
+             indeterminate colitis, microscopic colitis, gastritis or enterocolitis).&#xD;
+&#xD;
+          -  Diagnosis of a malabsorption disorder: Celiac disease, protein losing enteropathy,&#xD;
+             pancreatic insufficiency, etc.&#xD;
+&#xD;
+          -  Diagnosis of autoimmune disorder: diabetes mellitus, scleroderma, undifferentiated&#xD;
+             connective tissue disorder, etc.&#xD;
+&#xD;
+          -  Diagnosis of motility disorder: achalasia, esophageal spasm, outlet obstruction,&#xD;
+             gastroparesis, chronic constipation, etc.&#xD;
+&#xD;
+          -  History of acute pancreatitis within past 3 months&#xD;
+&#xD;
+          -  History of GI malignancy (stomach, small or large intestine, pancreatic,&#xD;
+             neuroendocrine tumor, etc.)&#xD;
+&#xD;
+          -  Current or recent treatment with chemotherapy within past 3 months&#xD;
+&#xD;
+          -  History of radiation treatment&#xD;
+&#xD;
+          -  Current or recent use (within past month) of medications that either promote or&#xD;
+             decrease motility: opioids, cholinergic agonists, opioid antagonists, anti-diarrheals,&#xD;
+             pro-kinetic medications (e.g., metoclopramide, domperidone, erythromycin), etc.&#xD;
+&#xD;
+          -  Antibiotic use within 3 months&#xD;
+&#xD;
+          -  Diabetes mellitus with HgA1C &gt;6.0&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher V. Almario, MD, MSHPM</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cedars-Sinai Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cedars-Sinai</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Baid H. A critical review of auscultating bowel sounds. Br J Nurs. 2009 Oct 8-21;18(18):1125-9. Review.</citation>
+    <PMID>19966732</PMID>
+  </reference>
+  <reference>
+    <citation>Felder S, Margel D, Murrell Z, Fleshner P. Usefulness of bowel sound auscultation: a prospective evaluation. J Surg Educ. 2014 Sep-Oct;71(5):768-73. doi: 10.1016/j.jsurg.2014.02.003. Epub 2014 Apr 24.</citation>
+    <PMID>24776861</PMID>
+  </reference>
+  <reference>
+    <citation>Spiegel BM, Kaneshiro M, Russell MM, Lin A, Patel A, Tashjian VC, Zegarski V, Singh D, Cohen SE, Reid MW, Whitman CB, Talley J, Martinez BM, Kaiser W. Validation of an acoustic gastrointestinal surveillance biosensor for postoperative ileus. J Gastrointest Surg. 2014 Oct;18(10):1795-803. doi: 10.1007/s11605-014-2597-y. Epub 2014 Aug 5.</citation>
+    <PMID>25091837</PMID>
+  </reference>
+  <reference>
+    <citation>Kaneshiro M, Kaiser W, Pourmorady J, Fleshner P, Russell M, Zaghiyan K, Lin A, Martinez B, Patel A, Nguyen A, Singh D, Zegarski V, Reid M, Dailey F, Xu J, Robbins K, Spiegel B. Postoperative Gastrointestinal Telemetry with an Acoustic Biosensor Predicts Ileus vs. Uneventful GI Recovery. J Gastrointest Surg. 2016 Jan;20(1):132-9; discussion 139. doi: 10.1007/s11605-015-2956-3. Epub 2015 Sep 25.</citation>
+    <PMID>26408329</PMID>
+  </reference>
+  <verification_date>February 2019</verification_date>
+  <study_first_submitted>September 7, 2016</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 20, 2016</study_first_posted>
+  <last_update_submitted>February 19, 2019</last_update_submitted>
+  <last_update_submitted_qc>February 19, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 20, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cedars-Sinai Medical Center</investigator_affiliation>
+    <investigator_full_name>Christopher Almario</investigator_full_name>
+    <investigator_title>Health Services Research Scientist</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

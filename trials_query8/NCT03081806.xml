@@ -1,0 +1,368 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03081806</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TF-X0002-31</org_study_id>
+    <nct_id>NCT03081806</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Efficacy and Safety of X0002 Spray in Subjects With Osteoarthritis of the Knee</brief_title>
+  <official_title>A Phase 3, Multicenter, 22-Week, Double-Blind and 30-Week Open Label Study to Evaluate the Efficacy and Safety of X0002 Spray in Relief of the Signs and Symptoms of Subjects With Osteoarthritis of the Knee</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Techfields Pharma Co. Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Techfields Pharma Co. Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3, Multicenter, 22-Week, double-blind and 30-Week open label Study to&#xD;
+      Evaluate the Efficacy and Safety of X0002 Spray in relief of the signs and symptoms of&#xD;
+      subjects with Osteoarthritis of the Knee.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study comprises a 14-day Screening Period, a 22-week Double-blind Treatment Period, and a&#xD;
+      30-week Open-label Treatment Period, with an additional 4-week Follow-up Visit.&#xD;
+&#xD;
+      During the Screening Period, eligibility will be assessed, including radiographic evaluation&#xD;
+      of the target knee joint space. All subjects who provide informed consent and who meet&#xD;
+      preliminary eligibility criteria will be treated with placebo spray in a subject blind manner&#xD;
+      for 14±3 days from Screening Visit to the Day 1 Visit. Subjects with a placebo response&#xD;
+      exceeding 25% improvement in the averaged Western Ontario and McMaster Osteoarthritis Index&#xD;
+      [WOMAC] pain subscale score from Screening Visit to Day 1 will be excluded; those who do not&#xD;
+      have this magnitude of placebo response and have Kellgren-Lawrence (K-L) Grade 2, or 3 on&#xD;
+      radiograph of their target knee per the central radiologist will be eligible for&#xD;
+      randomization into the Double-blind Treatment Period. These eligible subjects will be&#xD;
+      randomly assigned in a 1:1 ratio to 1 of 2 active treatment groups (A or B) with a 1:1 ratio&#xD;
+      of active:placebo within each treatment group (i.e., 1 subject to active treatment and 1&#xD;
+      subject to placebo), and stratified based on K-L Grade 2, or 3 and bilateral or unilateral&#xD;
+      knee OA.&#xD;
+&#xD;
+      The WOMAC version 3.1 using the NRS will be used for the primary and secondary efficacy&#xD;
+      endpoints. Efficacy endpoints will be assessed at the Screening Visit and at Baseline (Day&#xD;
+      1), Weeks 2, 4, 8, 12, 22, 32, 42, and 52.&#xD;
+&#xD;
+      Safety assessments will include assessment of AEs, vital signs (blood pressure, respiratory&#xD;
+      rate, pulse rate, and oral temperature), clinical laboratory tests, physical examination,&#xD;
+      skin irritation, and electrocardiograms (ECGs). In addition, site telephone calls to the&#xD;
+      subject will happen on a routine basis for assessment of AEs between visits.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 7, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>WOMAC pain subscale score in the target knee at Week 12</measure>
+    <time_frame>Week 12</time_frame>
+    <description>To evaluate the effect of X0002 spray compared to placebo for relief of knee pain in subjects with OA of the knee as measured by the WOMAC pain subscale score in the target knee at Week 12.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Subject's Global Assessment of Disease Status at Week 12.</measure>
+    <time_frame>Week 12 of treatment</time_frame>
+    <description>To evaluate the effect of X0002 spray for Subject's Global Assessment of Disease Status in subjects with OA of the knee in the target knee.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WOMAC fuctional subscale score in the target knee at Week 12</measure>
+    <time_frame>Week 12 of treatment</time_frame>
+    <description>To evaluate the effect of X0002 spray for relief of fuctional subscale in subjects with OA of the knee as measured by the WOMAC pain subscale score in the target knee at Week 12.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of responders based on OMERACT-OARSI Responder Criteria definition for pain at Week 12.</measure>
+    <time_frame>Week 12 of treatment</time_frame>
+    <description>To evaluate the effect of X0002 spray on Proportion of responders based on the Outcome Measures in Rheumatology (OMERACT) Osteoarthritis Research Society International (OARSI) Responder Criteria definition for pain (improvement from Baseline of at least 20% and absolute change from Baseline of at least 1 point in the averaged WOMAC pain subscale score) at Week 12</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WOMAC (NRS) pain subscale in the target knee at Week 2, 4, 8, and 22</measure>
+    <time_frame>Week 2, 4, 8 , and 22 of treatment</time_frame>
+    <description>To evaluate the efficacy of X0002 spray in average WOMAC (NRS) pain subscale in the target knee at Weeks 2, 4, 8, and 22</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WOMAC function subscale score</measure>
+    <time_frame>Week 2, 4, 8 , and 22 of treatment</time_frame>
+    <description>To evaluate the efficacy of X0002 spray in changes of WOMAC function subscale score of subjects with osteoarthritis (OA) of the target knee at Week 2, 4, 8 and 22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Average eDiary daily (NRS) score in the target knee</measure>
+    <time_frame>Week 2, 4, 8, 12 and 22 of treatment</time_frame>
+    <description>To evaluate the change from Baseline in average eDiary daily (NRS) score in the target knee for the 7 days prior to Weeks 2, 4, 8, 12, and 22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of responders based on OMERACT-OARSI Responder Criteria definition for pain</measure>
+    <time_frame>Week 2, 4, 8, 12 and 22 of treatment</time_frame>
+    <description>To evaluate the efficacy of X0002 spray in change Subject's Global Assessment of To evaluate the efficacy of X0002 spray in change Proportion of responders based on OMERACT-OARSI Responder Criteria definition for pain of subjects with osteoarthritis (OA) of the target knee at Weeks 2, 4,8,12 and 22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WOMAC overall score</measure>
+    <time_frame>Week 2, 4, 8, 12 and 22 of treatment</time_frame>
+    <description>To evaluate the efficacy of X0002 spray in change WOMAC overall score of subjects with osteoarthritis (OA) of the target knee at Weeks 2, 4,8,12 and 22.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WOMAC stiffness subscale</measure>
+    <time_frame>Week 2, 4, 8, 12 and 22 of treatment</time_frame>
+    <description>To evaluate the efficacy of X0002 spray in change WOMAC stiffness subscale of subjects with osteoarthritis (OA) of the target knee at Weeks 2, 4,8,12 and 22.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">410</enrollment>
+  <condition>Osteoarthritis of the Knee</condition>
+  <arm_group>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High dose group: X0002, BID (approximately every 12 hours; n=102); Placebo, BID(approximately every 12 hours; n=102)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Low dose group: X0002, BID (approximately every 12 hours; n=102); Placebo, BID(approximately every 12 hours; n=102)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>X0002</intervention_name>
+    <description>Before the first screening visit, there is a pre-Screening Telephone Call or email interview, the Screening Period of at least 14 days up to 3 weeks will consist of two visits for the assessment of eligibility including radiographic evaluation of the target knee joint space, all screening visits and double-blind treatment visit (week 2, 4, 8, 12 visits) are show in Study Flow Chart of Double-blind Period, and the open label period will be started from the Week 12 visit (see Table 2). All subjects treated with active drug or placebo complete the 12-week double-blind study will enter this Open-label study and will be treated with active drug, X0002.</description>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Ability to read and provide written, personally signed, and dated informed consent to&#xD;
+             participate in the study, in accordance with the ICH GCP Guideline E6 and applicable&#xD;
+             regulations, before completing any study related procedures.&#xD;
+&#xD;
+          2. An understanding, ability, and willingness to fully comply with study procedures and&#xD;
+             restrictions.&#xD;
+&#xD;
+          3. Subject must be a male or female between 35 and 85 years of age, inclusive.&#xD;
+&#xD;
+          4. Female subjects must either not be of childbearing potential (defined as&#xD;
+             postmenopausal for at least 1 year or surgically sterile [bilateral tubal ligation,&#xD;
+             bilateral oophorectomy, or hysterectomy]) or be willing to Practice at least 1 of the&#xD;
+             following medically acceptable methods of birth control.&#xD;
+&#xD;
+          5. Subject must have a body mass index (BMI) between 18.5 and 40 kg/m2, inclusive.&#xD;
+&#xD;
+          6. Subject must have a diagnosis of idiopathic OA according to the American College of&#xD;
+             Rheumatology clinical and radiographic criteria with knee pain, osteophytes, and&#xD;
+             fulfillment of at least one of the 3 criteria:&#xD;
+&#xD;
+               -  age of ≥50 years&#xD;
+&#xD;
+               -  stiffness lasting &lt;30 minutes after getting up in the morning&#xD;
+&#xD;
+               -  crepitus&#xD;
+&#xD;
+          7. A subject must have a Kellgren Lawrence Grade of 2 or 3 as determined by a central&#xD;
+             radiologist at the first screening visit.&#xD;
+&#xD;
+          8. Subject must have a history of clinically symptomatic OA of the knee for ≥6 months.&#xD;
+&#xD;
+          9. Subject must have had knee pain while standing, walking, and/or in motion for at least&#xD;
+             14 days during the month prior to Screening.&#xD;
+&#xD;
+         10. Subject must have a knee pain score ≥4 and &lt;9 on 0-10 pain intensity NRS (without&#xD;
+             analgesic medication) on at least 7 of the 10 days prior to randomization.&#xD;
+&#xD;
+         11. Subject must be willing to discontinue any NSAIDs or other analgesic (eg, aspirin,&#xD;
+             acetaminophen) or potentially confounding concomitant treatments (eg, physiotherapy,&#xD;
+             acupuncture) starting on the first screening visit until completing participation in&#xD;
+             the study. (The use of ≤325 mg acetylsalicylic acid per day as cardiac prophylaxis is&#xD;
+             permitted.) The subject will be allowed to take rescue medication (acetaminophen) for&#xD;
+             pain during the study except during the 24 hours prior to the Second Screening Visit,&#xD;
+             Baseline (Day1), Week 2, Week 4, Week 8, Week 12, Week 22, Week 32, Week 42, and Week&#xD;
+             52/EOS.&#xD;
+&#xD;
+         12. Subject must be willing to discontinue applying any topical preparations containing&#xD;
+             Vitamin A acids (including all trans retinoic acid (tretinoin), 13 cis retinoic acid&#xD;
+             [isotretinoin], 9 cis retinoic acid [alitretinoin], vitamin A [retinol], retinal, and&#xD;
+             their derivatives) to the lower limbs starting on the first screening visit until&#xD;
+             completing participation in the study. (Topical preparations containing Vitamin A&#xD;
+             acids or retinol may be applied to areas of the skin above the waist, but should not&#xD;
+             be applied to areas of the skin exposed to study medication.)&#xD;
+&#xD;
+         13. Subject must be willing to avoid unaccustomed physical activity (eg, starting a new&#xD;
+             weight lifting routine) for the duration of the study starting on the first screening&#xD;
+             visit.&#xD;
+&#xD;
+         14. With the exception of OA of the knee, the subject must be in good general health with&#xD;
+             no clinically significant findings from medical history, vital signs, physical&#xD;
+             examination, ECG, and routine laboratory tests that could interfere with subject&#xD;
+             safety, or pain and functional assessments, as determined by the Investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Has worker's compensation injuries affecting the knee or back.&#xD;
+&#xD;
+          2. Has a history of or is currently in litigation regarding joint injuries.&#xD;
+&#xD;
+          3. Has secondary OA of the target knee or OA of lower limb joints other than the knee&#xD;
+             that, in the investigator's opinion, could interfere with pain and functional&#xD;
+             assessments related to the target knee.&#xD;
+&#xD;
+          4. Has a history of total or partial knee replacement, arthroplasty, or other knee&#xD;
+             surgery on the target knee.&#xD;
+&#xD;
+          5. In the investigator's opinion, has had significant injury involving the target knee&#xD;
+             within the 6 months before Screening.&#xD;
+&#xD;
+          6. Has skin lesions or wounds on or near the target knee at Screening or at Baseline (Day&#xD;
+             1) that, in the investigator's opinion, would affect absorption of the medication.&#xD;
+&#xD;
+          7. Has used opiates (including tramadol or tapentadol) or systemic corticosteroids within&#xD;
+             30 days before Screening or requires treatment with chronic opiates or systemic&#xD;
+             corticosteroids.&#xD;
+&#xD;
+          8. Subjects with a placebo response exceeding 25% improvement in the average Western&#xD;
+             Ontario and McMaster Osteoarthritis Index [WOMAC] pain subscale score from Screening&#xD;
+             Visit to Day 1 will be excluded.&#xD;
+&#xD;
+          9. Has used gabapentin, pregabalin, antiepileptics, or specific antidepressants (i.e.,&#xD;
+             tricyclics, serotonin norepinephrine reuptake inhibitors, or selective serotonin&#xD;
+             reuptake inhibitors) to treat pain in the 14 days before Screening. Other uses not&#xD;
+             related to the pain treatment may be permitted at the medical monitor's discretion&#xD;
+             provided they have been at a stable dose for at least 90 days.&#xD;
+&#xD;
+         10. Has had intra articular (IA) injections of corticosteroids, hyaluronic acid, or&#xD;
+             viscosupplements (e.g., Synvisc®) to the target knee within the 12 weeks before&#xD;
+             Screening&#xD;
+&#xD;
+         11. Has had IA or intravenous (IV) stem cell therapy in the 6 months prior to Screening&#xD;
+&#xD;
+         12. Is receiving or is planning to receive concomitant nonpharmacologic treatments (e.g.,&#xD;
+             physiotherapy, acupuncture) that in the investigator's opinion could confound efficacy&#xD;
+             assessments within 14 days of Day 1.&#xD;
+&#xD;
+         13. Has a history of significant hypersensitivity, intolerance, or allergy to ibuprofen or&#xD;
+             any other NSAIDs, aspirin, or acetaminophen.&#xD;
+&#xD;
+         14. Has had an active gastrointestinal (GI) ulceration in the 6 months prior to Screening&#xD;
+             or a history of GI bleeding within 5 years of Screening.&#xD;
+&#xD;
+         15. Has used an anticoagulant or antiplatelet agent (except aspirin up to 325 mg/day for&#xD;
+             cardiac prophylaxis) in the 30 days prior to Screening.&#xD;
+&#xD;
+         16. Has positive results on fecal occult blood testing at Screening or on Day 1.&#xD;
+&#xD;
+         17. Has a documented history of chronic inflammatory disease (e.g., rheumatoid arthritis,&#xD;
+             psoriatic arthritis, inflammatory bowel disease, gouty arthritis) OR chronic pain&#xD;
+             condition (e.g., fibromyalgia), OR has other conditions that may affect the target&#xD;
+             joint for the functional and pain assessments (e.g., osteonecrosis,&#xD;
+             chondrocalcinosis).&#xD;
+&#xD;
+         18. Has uncontrolled depression or other uncontrolled psychiatric disorder (subjects with&#xD;
+             controlled depression or other psychiatric disorder, if using medication, must be on a&#xD;
+             stable dose of a medication other than an epileptic, tricyclic, serotonin&#xD;
+             norepinephrine reuptake inhibitor, or selective reuptake inhibitor for ≥12 weeks prior&#xD;
+             to Screening to participate in the study).&#xD;
+&#xD;
+         19. Has asthma requiring treatment with systemic corticosteroids in the last year prior to&#xD;
+             Screening. Asthmatic subjects using inhaled corticosteroids are eligible.&#xD;
+&#xD;
+         20. Has uncontrolled hypertension defined as systolic blood pressure &gt;170 mmHg or&#xD;
+             diastolic blood pressure &gt;90 mmHg at the Screening or Baseline Visit (may be repeated&#xD;
+             after 5 minutes rest to verify).&#xD;
+&#xD;
+         21. Is receiving systemic chemotherapy, has an active malignancy, lymphoproliferative&#xD;
+             disorder, or blood dyscrasia of any type, or has been diagnosed with cancer within 5&#xD;
+             years before Screening. Subjects with completely excised squamous or basal cell&#xD;
+             carcinoma of the skin will be allowed.&#xD;
+&#xD;
+         22. Has any clinically significant unstable cardiac, respiratory, neurological,&#xD;
+             immunological, hematological, hepatic, or renal disease, or any other condition that,&#xD;
+             in the Investigator's opinion, could confound the study results, compromise the&#xD;
+             subject's welfare, interfere with the ability to communicate with the study staff, or&#xD;
+             otherwise contraindicate study participation.&#xD;
+&#xD;
+         23. Has an abnormal clinical laboratory assessment at Screening for any of the following:&#xD;
+&#xD;
+               -  Aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline&#xD;
+                  phosphatase or lactate dehydrogenase (LDH) ≥3× the upper limit of normal (ULN)&#xD;
+&#xD;
+               -  Total bilirubin or creatinine ≥1.5× ULN&#xD;
+&#xD;
+               -  Creatinine ≥1.5 × ULN&#xD;
+&#xD;
+               -  Hemoglobin &lt;10 g/dL&#xD;
+&#xD;
+         24. Subject has any other clinically significant laboratory finding at Screening that in&#xD;
+             the investigator's opinion contraindicates study participation.&#xD;
+&#xD;
+         25. Has clinically significant abnormality at Screening or Baseline (Day 1) on 12-lead&#xD;
+             ECG, including a QT interval calculated using Fridericia's correction (QTcF) interval&#xD;
+             &gt;450 milliseconds (msec) for males and 470 msec for females.&#xD;
+&#xD;
+         26. Is pregnant, planning to become pregnant during the study, or lactating. Has a&#xD;
+             positive serum and urine pregnancy test at Screening Visit, or a positive urine&#xD;
+             pregnancy test at Baseline (Day 1).&#xD;
+&#xD;
+         27. Has a positive urine drug screen for a nonprescribed drug prohibited by the protocol&#xD;
+             at Screening.&#xD;
+&#xD;
+         28. Has known alcohol or other substance abuse in the investigator's opinion.&#xD;
+&#xD;
+         29. Has participated in a previous clinical study with X0002.&#xD;
+&#xD;
+         30. Has participated in any other clinical trial within the past 30 days or within 5&#xD;
+             half-lives of the study drug prior to Screening, whichever is longer.&#xD;
+&#xD;
+         31. Is a participating investigator, sub-investigator, study coordinator, or employee of a&#xD;
+             participating investigator, or is an immediate family member of the aforementioned.&#xD;
+&#xD;
+         32. Has any factor that, in the investigator's opinion, would jeopardize the evaluation or&#xD;
+             safety or be associated with poor adherence to the protocol.&#xD;
+&#xD;
+         33. Is without access to telephone and/or ability to gain technology access.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 10, 2017</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2017</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Phase 3</keyword>
+  <keyword>Efficacy</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Osteoarthritis, Knee</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

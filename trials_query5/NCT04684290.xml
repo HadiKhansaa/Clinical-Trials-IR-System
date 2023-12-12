@@ -1,0 +1,315 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04684290</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL73176.100.20</org_study_id>
+    <nct_id>NCT04684290</nct_id>
+  </id_info>
+  <brief_title>Surgical Septal Myectomy vs Percutaneous Transluminal Alcohol Septal Ablation in Patients With Hypertrophic Obstructive Cardiomyopathy</brief_title>
+  <acronym>AMARONE</acronym>
+  <official_title>Surgical Septal Myectomy Versus Percutaneous Transluminal Alcohol Septal Ablation in Patients With Hypertrophic Obstructive Cardiomyopathy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Antonius Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Erasmus Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>St. Antonius Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this randomized trial is to compare the improvement in exercise capacity among&#xD;
+      patients with highly symptomatic hypertrophic obstructive cardiomyopathy despite optimal&#xD;
+      medical treatment who undergo alcohol septal ablation (ASA) or surgical septal myectomy&#xD;
+      (SSM).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, multicentre, open label, randomized controlled, non-inferiority trial&#xD;
+      (RCT) with a 1:1 randomization to alcohol septal ablation or surgical septal myectomy in&#xD;
+      patients with hypertrophic obstructive cardiomyopathy (HOCM) between 40-75 year of age with&#xD;
+      symptoms and/or syncope due to HOCM despite medical therapy. A total of 100 patients will be&#xD;
+      included. All patients will be evaluated with bicycle ergometry exercise test, MRI and&#xD;
+      2D-echo before and 1 year after invasive treatment. Follow-up will be at 1,3 and 5 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2021</start_date>
+  <completion_date type="Anticipated">May 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Metabolic Equivalent (METs) assessed with a bicycle ergometry exercise test</measure>
+    <time_frame>1 year after the invasive treatment</time_frame>
+    <description>The primary endpoint is the improvement of the exercise capacity in the form of Metabolic Equivalent (METs) which will be assessed with a bicycle ergometry exercise test (difference in exercise capacity in Metabolic Equivalents) performed before and 1 year after invasive treatment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with all-cause mortality</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with cardiovascular mortality</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with transient Ischemic Attack</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with hospital Readmittance</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with with occurrence of atrial fibrillation</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with ventricular arrhythmias</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with with complete heart block requiring permanent pacemaker implantation</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with major bleeding</measure>
+    <time_frame>First 30 days</time_frame>
+    <description>Bleeding rate will be analysed using Bleeding Academic Research Consortium (type 3,4 or 5), TIMI major and VARC major criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with re-intervention</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>One more time need for Alcohol septal ablation or surgical septal myectomy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood sample results</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Troponin T (in ug/l)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood sample results</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>N-terminal prohormone of brain natriuretic peptide (NT-pro-BNP in pg/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood sample results</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Creatine-kinase (CK in U/l)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life evaluation using the The Kansas City Cardiomyopathy Questionnaire (KCCQ)</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>In the KCCQ, an overall summary score can be derived from the physical function, symptom (frequency and severity), social function and quality of life domains. For each domain, the validity, reproducibility, responsiveness and interpretability have been independently established. Scores are transformed to a range of 0-100, in which higher scores reflect better health status. For brevity, only the performance characteristics of the overall summary score are presented in this discussion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac Magnetic Resonance Imaging (CMR) parameters</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Interventricular septal thickness (mm), atrial diameter (mm) , left and right ventricular diameter (mm), left ventricle end diastolic volume (ml), left ventricle systolic volume (ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac Magnetic Resonance Imaging (CMR) parameters</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Left ventricle end diastolic volume (ml), left ventricle systolic volume (ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transthoracic echocardiogram</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Left ventricle ejection fraction (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transthoracic echocardiogram</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Left ventricle outflow tract gradient (mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transthoracic echocardiogram</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Left ventricular internal systolic and diastolic dimension (cm)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transthoracic echocardiogram</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Atrial diameter (ml/m2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transthoracic echocardiogram</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Valvular function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transthoracic echocardiogram</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Right ventricular systolic pressure (mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transthoracic echocardiogram</measure>
+    <time_frame>Follow up will be 1,3 and 5 years</time_frame>
+    <description>Interventricular septal thickness (mm)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Hypertrophic Cardiomyopathy</condition>
+  <arm_group>
+    <arm_group_label>Alcohol Septal Ablation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Surgical Septal Myectomy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Alcohol Septal Ablation</intervention_name>
+    <description>Participants will be treated with alcohol septal ablation.</description>
+    <arm_group_label>Alcohol Septal Ablation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Surgical Septal Myectomy</intervention_name>
+    <description>Participants will be treated with surgical septal myectomy.</description>
+    <arm_group_label>Surgical Septal Myectomy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age between 40-75 years including 40 and 75 years of age&#xD;
+&#xD;
+          2. HOCM eligible for both SSM and ASA by a heart team (multidisciplinary team) and core&#xD;
+             lab.&#xD;
+&#xD;
+          3. Left ventricle outflow tract (LVOT) obstruction &gt; 30mmHg at rest or during&#xD;
+             physiological provocation by transthoracic echocardiogram&#xD;
+&#xD;
+          4. Symptomatic (New York Heart Association classification (NYHA) &gt;1 or Canadian&#xD;
+             Cardiovascular Society (CCS) class &gt;1) and/or syncope due to HOCM&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Unable to give informed consent&#xD;
+&#xD;
+          2. A life expectancy of less than 1 year&#xD;
+&#xD;
+          3. Concomitant (structural valve disease, aorta, rhythm, CABG) surgery during the same&#xD;
+             session&#xD;
+&#xD;
+          4. Not able to perform bicycle ergometry exercise test&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Wigle ED. Cardiomyopathy: The diagnosis of hypertrophic cardiomyopathy. Heart. 2001 Dec;86(6):709-14. Review.</citation>
+    <PMID>11711479</PMID>
+  </reference>
+  <reference>
+    <citation>Sherrid MV, Wever-Pinzon O, Shah A, Chaudhry FA. Reflections of inflections in hypertrophic cardiomyopathy. J Am Coll Cardiol. 2009 Jul 14;54(3):212-9. doi: 10.1016/j.jacc.2009.03.052. Review.</citation>
+    <PMID>19589433</PMID>
+  </reference>
+  <reference>
+    <citation>Authors/Task Force members, Elliott PM, Anastasakis A, Borger MA, Borggrefe M, Cecchi F, Charron P, Hagege AA, Lafont A, Limongelli G, Mahrholdt H, McKenna WJ, Mogensen J, Nihoyannopoulos P, Nistri S, Pieper PG, Pieske B, Rapezzi C, Rutten FH, Tillmanns C, Watkins H. 2014 ESC Guidelines on diagnosis and management of hypertrophic cardiomyopathy: the Task Force for the Diagnosis and Management of Hypertrophic Cardiomyopathy of the European Society of Cardiology (ESC). Eur Heart J. 2014 Oct 14;35(39):2733-79. doi: 10.1093/eurheartj/ehu284. Epub 2014 Aug 29.</citation>
+    <PMID>25173338</PMID>
+  </reference>
+  <reference>
+    <citation>Gersh BJ, Maron BJ, Bonow RO, Dearani JA, Fifer MA, Link MS, Naidu SS, Nishimura RA, Ommen SR, Rakowski H, Seidman CE, Towbin JA, Udelson JE, Yancy CW; American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines; American Association for Thoracic Surgery; American Society of Echocardiography; American Society of Nuclear Cardiology; Heart Failure Society of America; Heart Rhythm Society; Society for Cardiovascular Angiography and Interventions; Society of Thoracic Surgeons. 2011 ACCF/AHA guideline for the diagnosis and treatment of hypertrophic cardiomyopathy: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. Circulation. 2011 Dec 13;124(24):e783-831. doi: 10.1161/CIR.0b013e318223e2bd. Epub 2011 Nov 8.</citation>
+    <PMID>22068434</PMID>
+  </reference>
+  <reference>
+    <citation>Veselka J, Faber L, Liebregts M, Cooper R, Januska J, Krejci J, Bartel T, Dabrowski M, Hansen PR, Almaas VM, Seggewiss H, Horstkotte D, Adlova R, Bundgaard H, Ten Berg J, Stables RH, Jensen MK. Outcome of Alcohol Septal Ablation in Mildly Symptomatic Patients With Hypertrophic Obstructive Cardiomyopathy: A Long-Term Follow-Up Study Based on the Euro-Alcohol Septal Ablation Registry. J Am Heart Assoc. 2017 May 16;6(5). pii: e005735. doi: 10.1161/JAHA.117.005735.</citation>
+    <PMID>28512112</PMID>
+  </reference>
+  <reference>
+    <citation>Jensen MK, Faber L, Liebregts M, Januska J, Krejci J, Bartel T, Cooper RM, Dabrowski M, Hansen PR, Almaas VM, Seggewiss H, Horstkotte D, Adlova R, Berg JT, Bundgaard H, Veselka J. Effect of impaired cardiac conduction after alcohol septal ablation on clinical outcomes: insights from the Euro-ASA registry. Eur Heart J Qual Care Clin Outcomes. 2019 Jul 1;5(3):252-258. doi: 10.1093/ehjqcco/qcy049.</citation>
+    <PMID>30304395</PMID>
+  </reference>
+  <reference>
+    <citation>Veselka J, Jensen MK, Liebregts M, Januska J, Krejci J, Bartel T, Dabrowski M, Hansen PR, Almaas VM, Seggewiss H, Horstkotte D, Tomasov P, Adlova R, Bundgaard H, Steggerda R, Ten Berg J, Faber L. Long-term clinical outcome after alcohol septal ablation for obstructive hypertrophic cardiomyopathy: results from the Euro-ASA registry. Eur Heart J. 2016 May 14;37(19):1517-23. doi: 10.1093/eurheartj/ehv693. Epub 2016 Jan 7.</citation>
+    <PMID>26746632</PMID>
+  </reference>
+  <reference>
+    <citation>Veselka J, Jensen M, Liebregts M, Cooper RM, Januska J, Kashtanov M, Dabrowski M, Hansen PR, Seggewiss H, Hansvenclova E, Bundgaard H, Ten Berg J, Hilton Stables R, Faber L. Alcohol septal ablation in patients with severe septal hypertrophy. Heart. 2020 Mar;106(6):462-466. doi: 10.1136/heartjnl-2019-315422. Epub 2019 Aug 30.</citation>
+    <PMID>31471463</PMID>
+  </reference>
+  <reference>
+    <citation>Veselka J, Faber L, Liebregts M, Cooper R, Januska J, Krejci J, Dabrowski M, Hansen PR, Seggewiss H, Horstkotte D, Hansvenclova E, Bundgaard H, Ten Berg J, Jensen MK. Long-term outcome of repeated septal reduction therapy after alcohol septal ablation for hypertrophic obstructive cardiomyopathy: insight from the Euro-ASA registry. Arch Med Sci. 2020 Aug 10;16(5):1239-1242. doi: 10.5114/aoms.2020.97969. eCollection 2020.</citation>
+    <PMID>32864015</PMID>
+  </reference>
+  <reference>
+    <citation>Veselka J, Tomašov P, Zemánek D. Long-term effects of varying alcohol dosing in percutaneous septal ablation for obstructive hypertrophic cardiomyopathy: a randomized study with a follow-up up to 11 years. Can J Cardiol. 2011 Nov-Dec;27(6):763-7. doi: 10.1016/j.cjca.2011.09.001. Epub 2011 Oct 14.</citation>
+    <PMID>22000583</PMID>
+  </reference>
+  <reference>
+    <citation>Liebregts M, Vriesendorp PA, Mahmoodi BK, Schinkel AF, Michels M, ten Berg JM. A Systematic Review and Meta-Analysis of Long-Term Outcomes After Septal Reduction Therapy in Patients With Hypertrophic Cardiomyopathy. JACC Heart Fail. 2015 Nov;3(11):896-905. doi: 10.1016/j.jchf.2015.06.011. Epub 2015 Oct 7. Review.</citation>
+    <PMID>26454847</PMID>
+  </reference>
+  <reference>
+    <citation>Liebregts M, Faber L, Jensen MK, Vriesendorp PA, Januska J, Krejci J, Hansen PR, Seggewiss H, Horstkotte D, Adlova R, Bundgaard H, Ten Berg JM, Veselka J. Outcomes of Alcohol Septal Ablation in Younger Patients With Obstructive Hypertrophic Cardiomyopathy. JACC Cardiovasc Interv. 2017 Jun 12;10(11):1134-1143. doi: 10.1016/j.jcin.2017.03.030.</citation>
+    <PMID>28595881</PMID>
+  </reference>
+  <reference>
+    <citation>Liebregts M, Steggerda RC, Vriesendorp PA, van Velzen H, Schinkel AF, Willems R, van Cleemput J, van den Berg MP, Michels M, ten Berg JM. Long-Term Outcome of Alcohol Septal Ablation for Obstructive Hypertrophic Cardiomyopathy in the Young and the Elderly. JACC Cardiovasc Interv. 2016 Mar 14;9(5):463-9. doi: 10.1016/j.jcin.2015.11.036.</citation>
+    <PMID>26965935</PMID>
+  </reference>
+  <reference>
+    <citation>Liebregts M, Vriesendorp PA, Steggerda RC, Schinkel AF, Balt JC, Ten Cate FJ, Michels M, Ten Berg JM. Effect of alcohol dosage on long-term outcomes after alcohol septal ablation in patients with hypertrophic cardiomyopathy. Catheter Cardiovasc Interv. 2016 Nov 15;88(6):945-952. doi: 10.1002/ccd.26448. Epub 2016 Mar 4.</citation>
+    <PMID>26946355</PMID>
+  </reference>
+  <reference>
+    <citation>Arslan F, Akdim F, Ten Berg JM. Reverse remodeling after percutaneous transluminal septal myocardial ablation in severe but asymptomatic LVOT obstruction (RASTA) study: Rationale and design of transcatheter septal reduction in asymptomatic patients with severe hypertrophic obstructive cardiomyopathy. Catheter Cardiovasc Interv. 2021 Feb 15;97(3):488-492. doi: 10.1002/ccd.29178. Epub 2020 Aug 18.</citation>
+    <PMID>32808736</PMID>
+  </reference>
+  <results_reference>
+    <citation>Wigle ED, Sasson Z, Henderson MA, Ruddy TD, Fulop J, Rakowski H, Williams WG. Hypertrophic cardiomyopathy. The importance of the site and the extent of hypertrophy. A review. Prog Cardiovasc Dis. 1985 Jul-Aug;28(1):1-83. Review.</citation>
+    <PMID>3160067</PMID>
+  </results_reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 24, 2020</study_first_posted>
+  <last_update_submitted>December 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>St. Antonius Hospital</investigator_affiliation>
+    <investigator_full_name>J.M. ten Berg</investigator_full_name>
+    <investigator_title>Clinical Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiomyopathies</mesh_term>
+    <mesh_term>Cardiomyopathy, Hypertrophic</mesh_term>
+    <mesh_term>Hypertrophy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

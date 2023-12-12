@@ -1,0 +1,319 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01263340</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SCO115217</org_study_id>
+    <nct_id>NCT01263340</nct_id>
+  </id_info>
+  <brief_title>Characterisation of People With COPD</brief_title>
+  <acronym>CoCO</acronym>
+  <official_title>Observational, Multi-centre, Retrospective Cohort Study to Evaluate Prevalence, Incidence, Severity, Co-morbidities and Burden of Disease in Patients With a Diagnosis of Chronic Obstructive Pulmonary Disease (COPD) by Close Scrutiny of the Patient Journey</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Services for Health Improvement Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Services for Health Improvement Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators will describe the characteristics, prevalence, incidence, severity&#xD;
+      co-morbidity and management of patients with chronic obstructive pulmonary disease (COPD) in&#xD;
+      the UK. 100 practices will be sampled amounting to a total study population of about 10 000&#xD;
+      patients. Information will be collected electronically and, where necessary, by a hand search&#xD;
+      of patient records.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Research questions:&#xD;
+&#xD;
+        1. What is the recorded prevalence of COPD in the UK? [numerator: the prevalence of COPD&#xD;
+           defined as ANY current READ code for COPD or inclusion in a COPD register denominator:&#xD;
+           the whole population]&#xD;
+&#xD;
+             -  What proportion of this population has documented spirometry to confirm the&#xD;
+                diagnosis?&#xD;
+&#xD;
+             -  What proportion has documented spirometry in the last year?&#xD;
+&#xD;
+             -  What proportion has ever had a documented history of asthma?&#xD;
+&#xD;
+             -  What proportion currently has a documented history of asthma?&#xD;
+&#xD;
+             -  What proportion currently smokes?&#xD;
+&#xD;
+             -  What proportion of smokers has a record of receiving smoking cessation advice?&#xD;
+&#xD;
+             -  What proportion of smokers has had a prescription for smoking cessation therapy?&#xD;
+&#xD;
+             -  What proportion of people with COPD has a READ code for exception reporting?&#xD;
+&#xD;
+             -  What are their demographic features? (height weight, BMI, age, smoking status,&#xD;
+                forced expiratory flow in 1st second (FEV1_, DOSE)&#xD;
+&#xD;
+             -  What proportion of people with COPD has a READ code for exception reporting from&#xD;
+                spirometry?&#xD;
+&#xD;
+             -  What are their demographic features? (height, weight, body mass index (BMI), age,&#xD;
+                smoking status, FEV1, DOSE)&#xD;
+&#xD;
+           Sub analysis: descriptions and comparison of prevalence by • Age&#xD;
+&#xD;
+           • geographical location of participating practices&#xD;
+&#xD;
+           • primary care training practice&#xD;
+&#xD;
+           • number of performing general practitioners (GPs) in practice (&lt;3 v &gt;/= 3)&#xD;
+&#xD;
+        2. What is the incidence of COPD in the UK&#xD;
+&#xD;
+           • number of people with a new diagnosis of COPD in the last year as a proportion of the&#xD;
+           whole population&#xD;
+&#xD;
+        3. What is the distribution of severities of COPD?&#xD;
+&#xD;
+           • Description of severity of airflow obstruction by FEV1 measurement:&#xD;
+&#xD;
+           Mild (FEV1 ≥ 80% predicted):&#xD;
+&#xD;
+           Moderate (FEV1 50% to 79% predicted) Severe (FEV1 30% to 49% predicted) Very severe&#xD;
+           (FEV1 ≤ 30% predicted)&#xD;
+&#xD;
+           • And by DOSE&#xD;
+&#xD;
+           Compare the severity of disease (exacerbation rate) according to DOSE &quot;high risk&quot; and&#xD;
+           &quot;low risk&quot; and compare this to the stratification of severity in the study population by&#xD;
+           degree of airflow limitation.&#xD;
+&#xD;
+           • And by COPD Assessment Test (CAT)&#xD;
+&#xD;
+           Explore the use of CAT in clinical practice and the availability and spread of data&#xD;
+&#xD;
+        4. What is the exacerbation rate?&#xD;
+&#xD;
+             -  In the last year in people with a diagnosis of COPD &gt; 1 year&#xD;
+&#xD;
+             -  In the last three years in people with a diagnosis of COPD &gt; 3years (as a&#xD;
+                proportion of the population with COPD).&#xD;
+&#xD;
+             -  What is the seasonal variation of COPD exacerbations: what proportion of&#xD;
+                exacerbations occurs in each month of the year?&#xD;
+&#xD;
+             -  Do recurrent primary care managed exacerbations predict hospital admissions? What&#xD;
+                is the prior exacerbation rate in patients admitted to hospital? Population of&#xD;
+                interest: those with hospital admissions for COPD: what is the exacerbation rate&#xD;
+                (and time frame of exacerbations) prior to a hospital admission?&#xD;
+&#xD;
+                4a. What proportion of the COPD population had at least one exacerbation?&#xD;
+&#xD;
+           Hospital attendance: Any documented visit to any secondary care (not primary care out of&#xD;
+           hours) site with no overnight stay&#xD;
+&#xD;
+           Hospital admission: Any documented visit to any secondary care site with an overnight&#xD;
+           stay with a principal diagnosis of COPD or chest infection or pneumonia or exacerbation&#xD;
+           of asthma ICU admission: Any documented admission to any high dependency unit (note, AN&#xD;
+           EXPLORATORY EXERCISE. Validity of this data in primary care record is questionable)&#xD;
+&#xD;
+           Death: Any death with COPD documented as the primary cause or within 14 days of the&#xD;
+           onset of an exacerbation (EXPLORATORY)&#xD;
+&#xD;
+             -  Does DOSE predict undesirable outcomes (death, hospital admission, exacerbation&#xD;
+                rate)?&#xD;
+&#xD;
+             -  Does FEV1 predict undesirable outcomes (death, hospital admission, exacerbation&#xD;
+                rate)?&#xD;
+&#xD;
+             -  Does medical research council dyspnoea (MRC) score (or other component of DOSE)&#xD;
+                predict undesirable outcomes?&#xD;
+&#xD;
+             -  Possible exploratory analysis: does ADO index (Age, Dyspnoea (MRC score)&#xD;
+                Obstruction (FEV1 % pred)) predict undesirable outcomes?&#xD;
+&#xD;
+             -  Does number of patients in a practice receiving a Tiotropium prescription predict&#xD;
+                hospital admission at a practice level?&#xD;
+&#xD;
+        5. Therapy:&#xD;
+&#xD;
+             -  What proportion of patients (without a diagnosis of asthma) receives inhaled&#xD;
+                glucocorticosteroids at unlicensed doses (any steroid (fluticasone, budesonide,&#xD;
+                beclometasone, ciclesonide) or combination Seretide, Symbicort, Fostair) EXCEPT&#xD;
+                Seretide Accuhaler 50/500 or Symbicort?&#xD;
+&#xD;
+             -  What proportion of patients with FEV1&gt; 50 and no diagnosis of asthma receive any&#xD;
+                steroid preparation? (Note: Seretide Accuhaler 50/500 is licensed for use in&#xD;
+                patients with COPD and (pre-bronchodilator) FEV1 &lt; 60% predicted and is therefore&#xD;
+                not subject to off label use in this instance). The approach outlined here is a&#xD;
+                consensus for the purposes of identifying a pragmatic approach to data collection.&#xD;
+&#xD;
+             -  What proportion of patients with FEV&lt;50 do not receive any inhaled steroid?&#xD;
+&#xD;
+             -  What proportion of patients with 1 or more exacerbation in the last year does not&#xD;
+                receive any inhaled steroid?&#xD;
+&#xD;
+             -  What proportion of patients with FEV1 &lt;50 do not receive Seretide 50/500 or&#xD;
+                Symbicort?&#xD;
+&#xD;
+             -  What proportion of patients are on &quot;triple therapy&quot; i.e. Seretide or Symbicort PLUS&#xD;
+                Tiotropium, classified by severity (FEV1)&#xD;
+&#xD;
+             -  What is the refill rate for prescriptions by class (all above and SABA) in the&#xD;
+                previous year?&#xD;
+&#xD;
+             -  What proportion of patients have an MRC dyspnoea score &gt;/= 3?&#xD;
+&#xD;
+             -  What proportion of these patients has been referred for pulmonary rehabilitation?&#xD;
+&#xD;
+             -  What proportion has received pulmonary rehabilitation?&#xD;
+&#xD;
+             -  What proportion has documented evidence of receiving a self management plan?&#xD;
+&#xD;
+        6. Co-morbidities:&#xD;
+&#xD;
+           What proportion of patients with COPD have any READ code ever for the following&#xD;
+           co-morbidities:&#xD;
+&#xD;
+             -  Cardiovascular disease&#xD;
+&#xD;
+             -  Cerebrovascular disease&#xD;
+&#xD;
+             -  Diabetes Mellitus&#xD;
+&#xD;
+             -  Cancer&#xD;
+&#xD;
+             -  Lung cancer&#xD;
+&#xD;
+             -  Depression&#xD;
+&#xD;
+             -  Osteoporosis What proportion of patients with at least one comorbidity has attended&#xD;
+                a specialist chest service / clinic in the last year? What is the exacerbation rate&#xD;
+                in this group v patients without comorbidity? What is the hospital admission rate&#xD;
+                in this group v the rest? What proportion of the population has a record of NEVER&#xD;
+                smoking? What are the features of this group (age, sex, geography, exacerbation&#xD;
+                rate, medication, comorbidities&#xD;
+&#xD;
+        7. Newly diagnosed patients&#xD;
+&#xD;
+             -  What are the characteristics (demographics: height weight, BMI, age, smoking&#xD;
+                status, FEV1, DOSE) of newly diagnosed patients (first READ code for COPD within&#xD;
+                the last year)?&#xD;
+&#xD;
+             -  What proportion of these patients received a prescription for Tiotropium within 1&#xD;
+                month of diagnosis?&#xD;
+&#xD;
+             -  What proportion of these patients received a prescription for an inhaled&#xD;
+                corticosteroid / longa acting beta-agonist fixed dose (ICS / LABA) combination&#xD;
+                within 1 month of diagnosis?&#xD;
+&#xD;
+             -  In patients FEV1 &lt;50% predicted, what proportion receive a) Tiotropium and b) an&#xD;
+                ICS / LABA combination first&#xD;
+&#xD;
+             -  What proportion of these patients with FEV1&gt;50 received a prescription for ICS /&#xD;
+                LABA combination within 1 month of diagnosis?&#xD;
+&#xD;
+        8. General Practice Research database (GPRD)&#xD;
+&#xD;
+             -  What proportion of our sample currently contributes to the GPRD database?&#xD;
+&#xD;
+             -  Are their differences in the features of the two groups: Age geographical location&#xD;
+                of participating practices, primary care training practice, number of performing&#xD;
+                GPs in practice (&lt;3 v &gt;/= 3), disease severity (DOSE, FEV1) exacerbation rate&#xD;
+&#xD;
+        9. What changes have there been at practice level to the above parameters in the last year?&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2010</start_date>
+  <completion_date type="Actual">April 2013</completion_date>
+  <primary_completion_date type="Actual">April 2013</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence and characterisation of people with COPD</measure>
+    <time_frame>1 year</time_frame>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Chronic Obstructive Pulmonary Disease</condition>
+  <arm_group>
+    <arm_group_label>People with COPD</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        People with a Read code diagnosis of COPD&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  people with a read code diagnosis of COPD&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  none&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Haughney, FRCPE FRCGP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NSHI Ltd</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>NHS primary care centres</name>
+      <address>
+        <city>Nationwide</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>December 2013</verification_date>
+  <study_first_submitted>December 16, 2010</study_first_submitted>
+  <study_first_submitted_qc>December 17, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 20, 2010</study_first_posted>
+  <last_update_submitted>December 4, 2013</last_update_submitted>
+  <last_update_submitted_qc>December 4, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 5, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COPD</keyword>
+  <keyword>observational study</keyword>
+  <keyword>prevalence</keyword>
+  <keyword>characterisation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

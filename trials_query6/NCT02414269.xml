@@ -1,0 +1,459 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02414269</url>
+  </required_header>
+  <id_info>
+    <org_study_id>15-007</org_study_id>
+    <nct_id>NCT02414269</nct_id>
+  </id_info>
+  <brief_title>Malignant Pleural Disease Treated With Autologous T Cells Genetically Engineered to Target the Cancer-Cell Surface Antigen Mesothelin</brief_title>
+  <official_title>A Phase I/II Clinical Trial of Malignant Pleural Disease Treated With Autologous T Cells Genetically Engineered to Target the Cancer-Cell Surface Antigen Mesothelin</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bellicum Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <brief_summary>
+    <textblock>
+      The purpose of this Phase I study is to test the safety of different doses of specially&#xD;
+      prepared immune cells (called &quot;T cells&quot;) collected from blood. The Investigators want to find&#xD;
+      a safe dose of these modified T cells for patients who have malignant pleural disease. They&#xD;
+      want to find out what effects these T cells have on the patient and the cancer (MPD).&#xD;
+&#xD;
+      Phase 2 part of the study, the investigators will test the dose in combination with another&#xD;
+      drug, pembrolizumab, to see what effects the study treatment has on malignant pleural&#xD;
+      mesothelioma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label, dose-escalating, non randomized, single-center, phase I/II study of&#xD;
+      mesothelin-targeted T cells administered intrapleurally as an infusion in patients with a&#xD;
+      diagnosis (histologically or cytologically documented) of MPD from mesothelioma, lung cancer,&#xD;
+      or breast cancer. Patients receiving pembrolizumab in cohort 9 only includes patients with a&#xD;
+      diagnosis of mesothelioma. The total number of patients studied will depend on the number of&#xD;
+      dose levels tested, up to a maximum dose of 6×10^7 mesothelin-targeted T cells/kg or until&#xD;
+      the maximum tolerated dose (MTD) is reached. In Phase I of this study, we anticipate infusing&#xD;
+      a minimum of 4 and a maximum of 54 evaluable patients. The total number of enrolled patients&#xD;
+      in Phase II of this study depends on the number of observed responses and ranges from 13-21&#xD;
+      evaluable patients, including 6 patients treated at the final dose in Phase I.&#xD;
+&#xD;
+      For patients who were treated and were removed from study, duplicate enrollment is permitted&#xD;
+      if it is determined the patients could receive benefit. If the patients meet all eligibility&#xD;
+      criteria, they may receive treatment in a higher dose level cohort. Patients who are&#xD;
+      re-treated with CAR T cell therapy will not be considered new accruals. Outcomes of&#xD;
+      re-treated patients will be analyzed separately.&#xD;
+&#xD;
+      Patients may receive palliative radiotherapy for symptom management prior to or following the&#xD;
+      CAR T cell infusion. If a patient receives palliative radiotherapy, the study PI, treating&#xD;
+      Radiation Oncologist, and treating Medical Oncologist will decide whether to proceed with the&#xD;
+      infusion. Palliative radiotherapy must be completed at least 2 days prior to the&#xD;
+      administration of cyclophosphamide.&#xD;
+&#xD;
+      Patients in cohort 9 and in the Phase II portion of the study will begin treatment with&#xD;
+      pembrolizumab 4 weeks (+3/-1 week window) after completing CAR T cell administration.&#xD;
+      Patients will receive 3 doses of pembrolizumab given on a recurring schedule followed by&#xD;
+      reassessment. Patients responding or deriving clinical benefit, without unacceptable&#xD;
+      toxicity, will be followed for up to 6 months after the first dose of pembrolizumab and may&#xD;
+      continue pembrolizumab. Patients who cannot receive all 6 doses of pembrolizumab at MSK will&#xD;
+      be followed and medical records including images will be obtained from the treating&#xD;
+      physician.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 2015</start_date>
+  <completion_date type="Anticipated">April 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite measure of severity and number of adverse events (AEs); changes in (clinical laboratory test findings (hematologic and chemistry); and physical examination. (Phase I)</measure>
+    <time_frame>1 year</time_frame>
+    <description>All AEs and laboratory toxicities will be graded using version 4 of the CTCAE.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>clinical benefit rate (phase II)</measure>
+    <time_frame>at 12 weeks following the first dose of pembrolizumab</time_frame>
+    <description>rate will be defined as the proportion of patients with a response of complete response (CR), partial response (PR), and stable disease (SD) as measured by mRECIST criteria.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in serum levels of the biomarker soluble mesothelin related peptide (SMRP) (Phase I)</measure>
+    <time_frame>60 days (+/-5 days) after treatment</time_frame>
+    <description>Mesothelin is an immunogenic cell surface antigen, that is expressed at high levels in MPD and mesothelioma pleural fluid will be drained from the chest by thoracentesis or through a pleural catheter and will be preserved for analysis .</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">179</enrollment>
+  <condition>Malignant Pleural Disease</condition>
+  <condition>Mesothelioma</condition>
+  <condition>Metastases</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>modified T cells alone (without chemotherapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Following enrollment, leukapheresis product will be obtained in the blood donor facility at MSKCC and cryopreserved in the Cell Therapy and Cell Engineering Facility (CTCEF). Before protocol treatment, the leukapheresis product will be thawed, and T cell isolation, transduction, and expansion of iCasp928z T cells will be performed in the MSKCC CTCEF Facility. It is estimated that it will take approximately 3 to 6 weeks to generate T cells for treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>modified T cells with cyclophosphamide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive cyclophosphamide intravenously (at 1.5 g/m^2) , 2 - 7 (Day (-7) -(-2) days before T cell infusion. On Day 1 , patients will be admitted to the MSKCC Inpatient Service (if not already inpatients) for intravenous hydration, clinical monitoring, and blood work for immune monitoring. Standard MSKCC antiemetic therapy will be administered prior to chemotherapy to prevent nausea/vomiting. Administration of corticosteroids will be avoided as steroids may impede the efficacy of CAR T cells.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CAR T cell and pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pembrolizumab 4 weeks (+3/-1 week window) after completing CAR T cell administration. Patients will receive 3 doses of pembrolizumab given on a recurring schedule followed by reassessment. Those responding or deriving clinical benefit, without unacceptable toxicity, will continue pembrolizumab. Patients will be followed weekly for the first four weeks. Patients in cohorts 9 and in Phase II will receive pembrolizumab 4 weeks(+3/- 1 week window) following CAR T cell administration.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>iCasp9M28z T cell infusions</intervention_name>
+    <description>Administration through the pleural catheter- On day 0 patients will be treated with genetically modified T cells. Thirty to 60 minutes before T cell infusion, patients will be given 650 mg of acetaminophen orally and 25- 50 mg of diphenhydramine orally or intravenously, to prevent infusion-related reactions. The genetically modified T cells will be infused for at least 15 minutes and no more than 2 hours through the indwelling pleural catheter depending on the volume of the T cells. A physician will be available during the infusion. Please note, during formulation of iCasp9M28z T cells, under or over estimation of CAR modified T Cells may occur. Patient may receive an altered fractionation of the total dose or up to 35% over or under total cell dose with approval of the PI. Patients who do not have enough cells to match the current dose cohort will be treated in the cohort in which they have cells available</description>
+    <arm_group_label>modified T cells alone (without chemotherapy)</arm_group_label>
+    <arm_group_label>modified T cells with cyclophosphamide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+    <description>Patients will receive cyclophosphamide intravenously (at 1.5 g/m^2)</description>
+    <arm_group_label>modified T cells with cyclophosphamide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>pembrolizumab</intervention_name>
+    <description>Pembrolizumab will be given as 200 mg flat dose infusion intravenously.</description>
+    <arm_group_label>CAR T cell and pembrolizumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with MPD aged ≥18 years&#xD;
+&#xD;
+          -  Karnofsky performance status ≥70%&#xD;
+&#xD;
+          -  Patients with malignant pleural disease (MPD), pathologically confirmed at MSKCC&#xD;
+             (radiographic confirmation is acceptable for screening phase eligibility), and defined&#xD;
+             as one of the following (patients who have not yet received treatment may enroll in&#xD;
+             the screening portion only):&#xD;
+&#xD;
+               1. Malignant pleural mesothelioma - previously treated with at least one prior&#xD;
+                  treatment regimen.&#xD;
+&#xD;
+               2. Non-small cell lung cancer metastatic to the pleura-previously treated with at&#xD;
+                  least one prior treatment regimen (chemotherapy or targeted agent) and documented&#xD;
+                  progression of disease. Patients with disease outside of the pleura will be&#xD;
+                  discussed among study PI and Co-PIs prior to considered eligible for the study.&#xD;
+                  Disease outside of the pleura must not require any immediate therapy per PI's&#xD;
+                  discretion.&#xD;
+&#xD;
+               3. Breast cancer metastatic to the pleura- previously treated with at least one&#xD;
+                  prior treatment regimen (chemotherapy or targeted agent) and documented&#xD;
+                  progression of disease. Patients with disease outside of the pleura will be&#xD;
+                  discussed among study PI and Co-PIs prior to be considered eligible for the&#xD;
+                  study. Disease outside of the pleura must not require any immediate therapy per&#xD;
+                  PI's discretion.&#xD;
+&#xD;
+          -  Only patients with a diagnosis of malignant pleural mesothelioma will be included in&#xD;
+             cohort 9 and in the Phase II portion of the study&#xD;
+&#xD;
+          -  Expression of mesothelin must be confirmed by meeting one of the following criteria.&#xD;
+&#xD;
+               1. Mesothelin expression (&gt;10% of the tumor expressing mesothelin) by&#xD;
+                  immunohistochemical (IHC) analysis&#xD;
+&#xD;
+               2. Elevated serum SMRP levels (&gt;1.0 nM/L).&#xD;
+&#xD;
+          -  Free flowing pleural effusion requiring management by placement of a pleural catheter.&#xD;
+             Patients with a functional pleural catheter already in place are eligible for the&#xD;
+             study, as long as there are no clinical concerns of infection.&#xD;
+&#xD;
+        OR&#xD;
+&#xD;
+          -  No free-flowing pleural effusion: an Interventional Radiologist has agreed that&#xD;
+             radiology-guided intrapleural or peritumoral injection of the CAR T cells is feasible.&#xD;
+&#xD;
+          -  Chemotherapy, targeted therapy (such as a tyrosine kinase inhibitor) or therapeutic&#xD;
+             radiotherapy must have been completed at least 14 days prior to administration of T&#xD;
+             cells. Continuation of hormonal therapy (ie for breast cancer) is acceptable. Prior&#xD;
+             immunotherapy with checkpoint blockade (i.e. PD1 inhibitor, PDL1 inhibitor or&#xD;
+             CTL4-antagonist or similar agent) must have been completed more than 1 month1prior to&#xD;
+             the T cell infusion.&#xD;
+&#xD;
+          -  Chemotherapy must have been completed at least 7 days prior to leukapheresis&#xD;
+&#xD;
+          -  Palliative radiotherapy must be completed at least 2 days prior to administration of&#xD;
+             cyclophosphamide&#xD;
+&#xD;
+          -  Any major thoracic (thoracotomy with lung or esophageal resection) or abdominal&#xD;
+             (laparotomy with organ resection) operation must have occurred at least 28 days before&#xD;
+             study enrollment. Patients who have undergone diagnostic VATS or laparoscopy can be&#xD;
+             included in the study.&#xD;
+&#xD;
+          -  All acute toxic effects of any previous therapeutic or palliative radiotherapy,&#xD;
+             chemotherapy, or surgical procedures must have resolved to grade I or lower according&#xD;
+             to CTCAE (version 4.0).&#xD;
+&#xD;
+          -  Lab requirements (hematology)&#xD;
+&#xD;
+          -  White blood cell (WBC) count ≥3000 cells/mm3&#xD;
+&#xD;
+          -  Absolute neutrophil count ≥1500 neutrophils/mm3&#xD;
+&#xD;
+          -  Platelet count ≥100,000 platelets/mm3 Lab requirements (serum chemistry)&#xD;
+&#xD;
+          -  Bilirubin ≤ 1.5x upper limit of normal (ULN)&#xD;
+&#xD;
+          -  Serum alanine aminotransferase and serum aspartate aminotransferase (ALT/AST) ≤.5x ULN&#xD;
+&#xD;
+          -  Serum creatinine ≤ 1.5x ULN or Cr &gt; 1.5x ULN, but calculated clearances of &gt;60&#xD;
+&#xD;
+          -  Negative screen for human immunodeficiency virus (HIV), hepatitis B virus (HBV)&#xD;
+             antigen, and hepatitis C virus (HCV). If testing was performed during the previous 3&#xD;
+             months, there is no need to repeat testing, as long as documentation of results is&#xD;
+             provided to the study site. Subjects must receive counseling and sign a separate&#xD;
+             informed consent form for HIV testing.&#xD;
+&#xD;
+          -  Subjects and their partners with reproductive potential must agree to use an effective&#xD;
+             form of contraception during the period of drug administration and for 4 weeks after&#xD;
+             completion of the last administration of the study drug. An effective form of&#xD;
+             contraception is defined as oral contraceptives plus 1 form of barrier or&#xD;
+             double-barrier method contraception (condom with spermicide or condom with diaphragm).&#xD;
+&#xD;
+          -  Subjects must be able to understand the potential risks and benefits of the study and&#xD;
+             must be able to read and provide written, informed consent for the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Untreated or active CNS metastases (progressing or requiring anticonvulsants or&#xD;
+             corticosteroids for symptomatic control); patients with a history of treated CNS&#xD;
+             metastases are eligible, provided that all of the following criteria are met:&#xD;
+&#xD;
+               -  Presence of measurable or evaluable disease outside of the CNS;&#xD;
+&#xD;
+               -  Radiographic demonstration of improvement upon completion of CNS-directed therapy&#xD;
+                  and no evidence of interim progression between completion of CNS-directed therapy&#xD;
+                  and the screening radiographic study;&#xD;
+&#xD;
+               -  Completion of radiotherapy ≥8 weeks prior to the screening radiographic study;&#xD;
+&#xD;
+               -  Discontinuation of corticosteroids and anticonvulsants ≥4 weeks prior to the&#xD;
+                  screening radiographic study.&#xD;
+&#xD;
+          -  Non-small cell lung cancer metastatic to the pleura that extends outside of the pleura&#xD;
+             requiring immediate therapy&#xD;
+&#xD;
+          -  Breast cancer metastatic to the pleura that extends outside of the pleura requiring&#xD;
+             immediate therapy&#xD;
+&#xD;
+          -  Prior history of seizure disorder&#xD;
+&#xD;
+          -  Patients currently receiving treatment for concurrent active malignancy Continuation&#xD;
+             of hormonal therapy (i.e. for breast cancer) is acceptable. Prior immunotherapy with&#xD;
+             checkpoint blockade (i.e. PD1 inhibitor, PDL1 inhibitor or CTL4-antagonist or similar&#xD;
+             agent) must have been completed more than 1 month prior to the T cell infusion.&#xD;
+&#xD;
+          -  Autoimmune or antibody-mediated disease, including but not limited to systemic lupus&#xD;
+             erythematosus, rheumatoid arthritis, ulcerative colitis, Crohn's disease, and temporal&#xD;
+             arteritis (Patients with a history of hypothyroidism will not be excluded)&#xD;
+&#xD;
+          -  History of myocarditis or congestive heart failure (as defined by New York Heart&#xD;
+             Association Functional Classification III or IV), as well as unstable angina, serious&#xD;
+             uncontrolled cardiac arrhythmia, uncontrolled infection, or myocardial infarction 6&#xD;
+             months prior to study entry&#xD;
+&#xD;
+          -  Subjects with left ventricular ejection fraction (LVEF) less than 50%&#xD;
+&#xD;
+          -  Patients with active interstitial lung disease (ILD)/pneumonitis or a history of&#xD;
+             ILD/pneumonitis requiring treatment with systemic steroids&#xD;
+&#xD;
+          -  Baseline pulse oximetry is less than 92% on Room air&#xD;
+&#xD;
+          -  Pregnant or lactating women&#xD;
+&#xD;
+          -  An infection requiring antibiotic treatment within 7 days before the start of&#xD;
+             treatment (day 0)&#xD;
+&#xD;
+          -  A requirement for daily systemic corticosteroids for any reason or a requirement for&#xD;
+             other immunosuppressive or immunomodulatory agents. Topical, nasal, and inhaled&#xD;
+             steroids are permitted.&#xD;
+&#xD;
+          -  Administration of live, attenuated vaccine within 8 weeks before the start of&#xD;
+             treatment (day 0) and throughout the study&#xD;
+&#xD;
+          -  Any other medical condition that, in the opinion of the PI, may interfere with a&#xD;
+             subject's participation in or compliance with the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marjorie Zauderer, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marjorie Zauderer, MD</last_name>
+    <phone>646-888-4656</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Roisin O'Cearbhaill, MD</last_name>
+    <phone>646-888-4227</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memoral Sloan Kettering Basking Ridge (Consent and Follow-Up)</name>
+      <address>
+        <city>Basking Ridge</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marjorie Zauderer, MD</last_name>
+      <phone>646-888-4656</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Monmouth (Consent and Follow-Up)</name>
+      <address>
+        <city>Middletown</city>
+        <state>New Jersey</state>
+        <zip>07748</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marjorie Zauderer, MD</last_name>
+      <phone>646-888-4656</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Bergen (Consent and Follow-Up)</name>
+      <address>
+        <city>Montvale</city>
+        <state>New Jersey</state>
+        <zip>07645</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marjorie Zauderer, MD</last_name>
+      <phone>646-888-4656</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Commack (Consent and Follow-Up)</name>
+      <address>
+        <city>Commack</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marjorie S Zauderer, MD</last_name>
+      <phone>646-888-4656</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Westchester (Consent and Follow-Up)</name>
+      <address>
+        <city>Harrison</city>
+        <state>New York</state>
+        <zip>10604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marjorie S Zauderer, MD</last_name>
+      <phone>646-888-4656</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center (Consent and Follow-Up)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marjorie Zauderer, MD</last_name>
+      <phone>646-888-4656</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Roisin O'Cearbhaill, MD</last_name>
+      <phone>646-888-4227</phone>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/</url>
+    <description>Memorial Sloan Kettering Cancer Center</description>
+  </link>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>April 2, 2015</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 10, 2015</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>modified T cells</keyword>
+  <keyword>cyclophosphamide</keyword>
+  <keyword>CAR T cells</keyword>
+  <keyword>15-007</keyword>
+  <keyword>CAR</keyword>
+  <keyword>immunotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mesothelioma</mesh_term>
+    <mesh_term>Pleural Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

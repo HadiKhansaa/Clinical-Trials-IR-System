@@ -1,0 +1,155 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04525248</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MISC-Constipation-Rectum</org_study_id>
+    <nct_id>NCT04525248</nct_id>
+  </id_info>
+  <brief_title>Resection Location of Rectum in Laparoscopic Surgery for Slow Transit Constipation</brief_title>
+  <official_title>High Resection vs. Low Resection of Rectum in Laparoscopic Total Colectomy for Slow Transit Constipation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai Minimally Invasive Surgery Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai Minimally Invasive Surgery Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study the recurrence rate of constipation after laparoscopic total colectomy with high&#xD;
+      resection or low resection of rectum&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators are going to study the recurrence rate of constipation after laparoscopic&#xD;
+      total colectomy with high resection or low resection of rectum. High resection is defined as&#xD;
+      resection at 12~15cm from anus and low resection as 6~8cm.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">August 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>1-year recurrence rate of constipation</measure>
+    <time_frame>1 year</time_frame>
+    <description>1-year recurrence rate of constipation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>1-year rate of diarrhea</measure>
+    <time_frame>1 year</time_frame>
+    <description>1-year rate of diarrhea</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>perioperative complications</measure>
+    <time_frame>1 year</time_frame>
+    <description>perioperative complications</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">78</enrollment>
+  <condition>Slow Transit</condition>
+  <condition>Constipation</condition>
+  <arm_group>
+    <arm_group_label>High resection</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Laparoscopic total colectomy + High resection of rectum</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low resection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Laparoscopic total colectomy + Low resection of rectum</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Laparoscopic total colectomy + low resection of rectum</intervention_name>
+    <description>Laparoscopic total colectomy + low resection of rectum</description>
+    <arm_group_label>Low resection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Laparoscopic total colectomy + High resection of rectum</intervention_name>
+    <description>Laparoscopic total colectomy + High resection of rectum</description>
+    <arm_group_label>High resection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed as constipation according to Rome IV criteria&#xD;
+&#xD;
+          -  Diagnosed as slow transit constipation&#xD;
+&#xD;
+          -  With more than 2 years' drug treatment or with outlet obstruction or with surgical&#xD;
+             history&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Colon cancer&#xD;
+&#xD;
+          -  History of colon, rectum, anus surgery&#xD;
+&#xD;
+          -  With severe cardio, renal, neural disease&#xD;
+&#xD;
+          -  Pregnant patients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Minhua Zheng</last_name>
+    <role>Study Chair</role>
+    <affiliation>Shanghai MISC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Junjun Ma, Dr</last_name>
+    <phone>+86 13917283686</phone>
+    <email>marsnew1997@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Xuan Zhao, Dr</last_name>
+    <phone>+86 15900826056</phone>
+    <email>patrickzhao_sjtu@163.com</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2020</study_first_posted>
+  <last_update_submitted>August 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Constipation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

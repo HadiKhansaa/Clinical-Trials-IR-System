@@ -1,0 +1,255 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04790058</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CRF 2589</org_study_id>
+    <nct_id>NCT04790058</nct_id>
+  </id_info>
+  <brief_title>Implementation of CSRS Based Practice Recommendations for Emergency Department Syncope Management</brief_title>
+  <official_title>Implementation of Canadian Syncope Risk Score Based Practice Recommendations for Emergency Department Syncope Management - A Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ottawa Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Queensway Carleton Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ottawa Hospital Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Syncope is a common reason for emergency department (ED) presentation. While often benign,&#xD;
+      some patients have serious and life-threatening underlying causes, both cardiac and&#xD;
+      non-cardiac, which may or may not be apparent at the time of the initial ED assessment.&#xD;
+      Identifying which patients will benefit from further investigation, ongoing monitoring and/or&#xD;
+      hospital admission is essential to reduce both adverse outcomes and the high costs. Our group&#xD;
+      has spent over a decade developing the evidence base for a risk stratification tool directed&#xD;
+      at optimizing the accuracy of ED decisions: the Canadian Syncope Risk Score (CSRS). This tool&#xD;
+      is now ready for the final phase of its introduction into clinical practice, namely a robust,&#xD;
+      multicentre implementation trial of the CSRS based practice recommendations to demonstrate&#xD;
+      its real-world effectiveness. Prior to the launch of the large-scale implementation trial, a&#xD;
+      pilot study to assess primarily the feasibility and secondarily the effectiveness is needed.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ED crowding limits the ability of the emergency providers to provide quality care, is a&#xD;
+      growing crisis in North America and Europe, and leads to unsafe and rushed disposition&#xD;
+      decisions which compromise patient care. On the other hand, hospital admission is expensive,&#xD;
+      and an increasing awareness of nosocomial morbidity and the harms of unnecessary testing and&#xD;
+      hospitalization exert countervailing pressure on low-yield admissions from the ED. Therefore,&#xD;
+      improved accuracy in ED disposition decision-making is more important than ever, and syncope&#xD;
+      typifies a common, high stakes condition in which improvements in efficiency are badly&#xD;
+      needed.&#xD;
+&#xD;
+      Identifying which patients will benefit from further cardiac rhythm monitoring and/or&#xD;
+      hospital admission is essential to reduce both adverse outcomes and high costs. A&#xD;
+      comprehensive literature review of risk-tools and international guidelines concede that&#xD;
+      previously published tools lack or have failed external validation, are excessively complex,&#xD;
+      include as outcomes obvious conditions readily identified during the index ED evaluation, or&#xD;
+      lacked power and specificity. These tools also do not offer specific clinical actions and are&#xD;
+      not supported by the guidelines. The CSRS addresses each of the above weaknesses and coupled&#xD;
+      with outpatient live cardiac monitoring is an innovative and standardized approach to ED&#xD;
+      syncope management to expedite ED care, improve patient safety and reduce healthcare costs.&#xD;
+      The investigators have identified the barriers and facilitators to effectively adapt&#xD;
+      knowledge into local contexts as per the Knowledge to Action cycle, and have selected&#xD;
+      implementation strategies accordingly. The proposed pilot study is a right step before&#xD;
+      widescale implementation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 22, 2021</start_date>
+  <completion_date type="Anticipated">February 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of implementing the practice recommendations.</measure>
+    <time_frame>1-year from the index ED visit</time_frame>
+    <description>To assess the reach of the intervention. We will adopt a pragmatic application of the RE-AIM (Reach Effectiveness Adoption Implementation Maintenance) framework to evaluate the pilot study outcomes. The primary feasibility outcome is the Reach or penetration, the proportion of eligible patients who had the intervention applied.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of hospitalization</measure>
+    <time_frame>At time of ED disposition, an average timeframe is 6 hours</time_frame>
+    <description>To assess the impact on hospitalizations.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of consultation</measure>
+    <time_frame>1-year from the index ED visit</time_frame>
+    <description>To assess the effectiveness of intervention on consultation performed in the ED</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>within 30-days and 1-year of the index ED visit</time_frame>
+    <description>To assess mortality within 30-days and 1-year of the index ED visit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of adoption</measure>
+    <time_frame>Before ED disposition, average of 6 hours</time_frame>
+    <description>To assess the adoption of CSRS practice recommendation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of return ED visits</measure>
+    <time_frame>within 30-days and 1-year</time_frame>
+    <description>To assess return ED visits within 30-days and 1-year of the index ED visit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of adherence</measure>
+    <time_frame>Before ED disposition, average of 6 hours</time_frame>
+    <description>To assess the adherence of the CSRS practice recommendation in the ED</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of acceptability</measure>
+    <time_frame>Before ED disposition, average of 6 hours</time_frame>
+    <description>To assess the acceptability of the CSRS practice recommendation in the ED</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ED disposition time</measure>
+    <time_frame>At time of ED disposition, an average timeframe is 6 hours</time_frame>
+    <description>The ED disposition time more accurately reflects the active phase of ED physician care for collecting clinical information, work-up of patients and resolution of diagnostic uncertainty. The longer interval of ED length of stay includes wait times both before and after, which are often determined by triage acuity as well as extraneous system factors (e.g. ED and hospital crowding, staffing patterns, sudden influx of patients, availability of inpatient beds and overcapacity protocols, and availability of transportation for a subgroup patients for whom a decision to discharge has been made).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Degree of satisfaction of the use of CSRS practice recommendation</measure>
+    <time_frame>Before ED disposition, average of 6 hours</time_frame>
+    <description>To assess the satisfaction for the intervention received including support and resources</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Syncope</condition>
+  <arm_group>
+    <arm_group_label>Physicians using CSRS practice recommendation to treat syncope patients in ED.</arm_group_label>
+    <description>During the control period, there will be no interventions. The intervention is the knowledge translation of the CSRS practice recommendations.The components of the practice recommendations include: 1) evidence-informed systematic clinical evaluation with appropriate history, physical examination and in-ED investigations for detecting serious underlying conditions and predicting 30-day serious outcomes; 2) application of the CSRS for risk-stratification at the end of ED visit after no serious underlying conditions for the syncope were identified; 3) use of patient information materials to aid in disposition; and 4) the use of 15-day outpatient cardiac monitoring for CSRS medium and high-risk patients upon ED discharge. The ED physician or non-ED physician performing consultation on the patient can apply all the components of the practice recommendation and decide disposition of the patients who are eligible to be studied.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Knowledge translation of the CSRS practice recommendations</intervention_name>
+    <description>The intervention is knowledge translation of the CSRS practice recommendations. The first month of the intervention period will be designated as a transition period during which we will undertake intense educational efforts. The practice recommendations will be available online to physicians involved in ED syncope care. The practice recommendations and the online calculator will either be integrated into the electronic medical records (EMR) platforms or a hyperlink provided to physicians at the two hospitals for easy reference and score calculation. The intervention which is the application of the practice recommendations will occur during the patient's ED visit and patients who are eligible for 15-day cardiac rhythm monitoring will have their device applied either at the time of ED discharge or the next day morning.</description>
+    <arm_group_label>Physicians using CSRS practice recommendation to treat syncope patients in ED.</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The investigator will study the effect of Knowledge Translation on physicians involved in&#xD;
+        ED syncope care and the effect of the practice recommendations on patients, ED management&#xD;
+        and safety in 30-days and in 1-year. As the unit of randomization is the ED, all patients&#xD;
+        presenting to the ED with syncope among whom no serious condition was identified during the&#xD;
+        index ED evaluation and who did not require consultation/ hospitalization for a non-syncope&#xD;
+        related reason will be included in the study for analysis. The investigator will use the&#xD;
+        Canadian Emergency Department Information System presenting complaints suggestive of&#xD;
+        syncope/pre-syncope or an ED discharge diagnosis of syncope using discharge diagnoses&#xD;
+        fields or ICD-10 code R.55 for syncope to identify patients.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        1. Physician: physicians involved in ED syncope care&#xD;
+&#xD;
+          2. Patients:&#xD;
+&#xD;
+               -  Inclusion Criteria: adult (aged &gt; 18 years) patients who present within 24 hours&#xD;
+                  of syncope&#xD;
+&#xD;
+               -  Exclusion Criteria:&#xD;
+&#xD;
+                    -  non-syncope (prolonged LOC &gt;5 minutes, change in the mental status from&#xD;
+                       baseline, patients with witnessed obvious seizure, or head trauma preceding&#xD;
+                       the LOC),&#xD;
+&#xD;
+                    -  those unable to provide proper details - e.g., intoxication, and those with&#xD;
+                       significant trauma requiring admission as per international consensus.&#xD;
+&#xD;
+                    -  patients who had a serious underlying condition identified during the index&#xD;
+                       ED evaluation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Venkatesh Thiruganasambandamoorthy, CCFP-EM, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ottawa Hospital Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bahareh Ghaedi, MSc, CCRA</last_name>
+    <phone>6137985555</phone>
+    <phone_ext>19347</phone_ext>
+    <email>bghaedi@ohri.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>PhuongAnh (Iris) Nguyen, BSc</last_name>
+    <phone>6137985555</phone>
+    <phone_ext>17766</phone_ext>
+    <email>pnguyen@ohri.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Queensway-Carleton hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K2H 8P4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bahareh Ghaedi, MSc</last_name>
+      <phone>6137985555</phone>
+      <phone_ext>19347</phone_ext>
+      <email>bghaedi@ohri.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Keller, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>December 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 10, 2021</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ottawa Hospital Research Institute</investigator_affiliation>
+    <investigator_full_name>Venkatesh Thiruganasambandamoorthy</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Syncope</keyword>
+  <keyword>Emergency Department</keyword>
+  <keyword>Risk Stratification</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syncope</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No plan to share IPD</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

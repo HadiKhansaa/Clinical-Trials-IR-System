@@ -1,0 +1,192 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04678050</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB 000-6379</org_study_id>
+    <nct_id>NCT04678050</nct_id>
+  </id_info>
+  <brief_title>Dexmedetomidine Compared to Ketofol for Sedation in Paediatrics</brief_title>
+  <official_title>Dexmedetomidine Compared to Ketofol for Sedation in Paediatrics Undergoing Dental Procedures: a Comparative Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ain Shams University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ain Shams University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dental fear and anxiety remain common problems that should be managed by both the dentist and&#xD;
+      the anesthetist. The currently available evidence for safe and effective sedative drugs for&#xD;
+      children undergoing the dental procedure is scarce The aim of this study was to compare the&#xD;
+      safety and efficacy of intravenous ketofol versus dexmedetomidine (Dex) as premedications a&#xD;
+      sedative in anxious children undergoing dental pulp therapy&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This double-blind, parallel-group, randomized clinical study will recruiter anxious children&#xD;
+      who will undergo dental pulp therapy. The study participants will be allocated into two equal&#xD;
+      groups. Subjects in group I will receive ketofol solution (ketamine/propofol mixture, each mL&#xD;
+      contains 5 mg of ketamine plus 10 mg of propofol). A loading dose of 0.125 mL/kg will be&#xD;
+      administered intravenously (IV) over 10 min, followed by maintenance infusion at a rate of&#xD;
+      0.05-0.125 mL/kg/h. Subjects in group II will receive the Dex solution (4 µg/mL). A loading&#xD;
+      dose of 2 µg/kg will be administered IV over 10 min, followed by a maintenance infusion of&#xD;
+      0.1-1 µg/kg/h. Non-invasive blood pressure (mean ABP), peripheral oxygen saturation, heart&#xD;
+      rate, and respiratory rate will be assessed at baseline, at 2 minutes, then at 5 minutes&#xD;
+      intervals till 60 minutes. Ramsay sedation and Aldrete's recovery rating scores will be&#xD;
+      assessed before, during, and after the procedure.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 10, 2020</start_date>
+  <completion_date type="Anticipated">January 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 10, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study participants will be allocated into two equal groups. Subjects in group I will receive ketofol solution (ketamine/propofol mixture, each mL contains 5 mg of ketamine plus 10 mg of propofol). A loading dose of 0.125 mL/kg will be administered intravenously (IV) over 10 min, followed by maintenance infusion at a rate of 0.05-0.125 mL/kg/h. Subjects in group II will receive the Dex solution (4 µg/mL). A loading dose of 2 µg/kg will be administered IV over 10 min, followed by a maintenance infusion of 0.1-1 µg/kg/h. Non-invasive blood pressure (mean ABP) peripheral oxygen saturation, heart rate, and respiratory rate will be assessed at baseline, at 2 minutes, then at 5 minutes intervals till 60 minutes. Ramsay sedation and Aldrete's recovery rating scores were assessed before, during, and after the procedure.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The pedo-dentist, the independent observer/data collector, and participants will be blind to the type of intervention. The study drugs will be prepared by an anesthesiologist who will not participate in the observation of the data. All the lines and syringes will be wrapped to mask colors of the sedative drugs, and the syringes will be label coded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>the Number of interruptions</measure>
+    <time_frame>through study completion, an average of 3 month</time_frame>
+    <description>the Number of interruptions that occurred during the procedure</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>total dose of rescue drug</measure>
+    <time_frame>through study completion, an average of 3 month</time_frame>
+    <description>total dose of rescue propofol in mg</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Vital Signs</condition>
+  <arm_group>
+    <arm_group_label>group I received ketamine/propofol (ketofol) solution</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>ketamine/propofol mixture, each mL contains 5 mg of ketamine plus 10 mg of propofol). A loading dose of 0.125 mL/kg will be administered intravenously (IV) over 10 min, followed by maintenance infusion at a rate of 0.05-0.125 mL/kg/h.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>group II received the Dex solution (4 µg/mL</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>A loading dose of 2 µg/kg will be administered IV over 10 min, followed by a maintenance infusion of 0.1-1 µg/kg/h.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ketamine/ propofol</intervention_name>
+    <description>ketamine/propofol mixture, each mL contains 5 mg of ketamine plus 10 mg of propofol). A loading dose of 0.125 mL/kg will be administered intravenously (IV) over 10 min, followed by maintenance infusion at a rate of 0.05-0.125 mL/kg/h.</description>
+    <arm_group_label>group I received ketamine/propofol (ketofol) solution</arm_group_label>
+    <other_name>Ketofol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexmedetomidine</intervention_name>
+    <description>Dex solution (4 µg/mL). A loading dose of 2 µg/kg will be administered IV over 10 min, followed by a maintenance infusion of 0.1-1 µg/kg/h</description>
+    <arm_group_label>group II received the Dex solution (4 µg/mL</arm_group_label>
+    <other_name>precedex</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ASA-I children,&#xD;
+&#xD;
+          -  aged 5-10 years-old,&#xD;
+&#xD;
+          -  requiring dental pulp therapy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  ASA class ≥ II;&#xD;
+&#xD;
+          -  previous experience with GA or Conscious sedation (CS);&#xD;
+&#xD;
+          -  dental treatment expected to exceed 45 minutes;&#xD;
+&#xD;
+          -  history of allergy to local anesthetics, Dex, propofol, ketamine, eggs, or soya;&#xD;
+&#xD;
+          -  respiratory tract infections&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>10 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alaa Ismail, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Head of research ethics committee</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rania M Hussien, MD</last_name>
+    <phone>026213948</phone>
+    <email>drrania_maamon@med.asu.edu.eg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alaa M Ismail, MD</last_name>
+    <phone>01222142526</phone>
+    <phone_ext>202</phone_ext>
+    <email>ahismail2002@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ain Shams University</name>
+      <address>
+        <city>Cairo</city>
+        <state>Abassia</state>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alaa Ismail, MD</last_name>
+      <phone>01222142526</phone>
+      <phone_ext>202</phone_ext>
+      <email>ahismail@yahoo.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 21, 2020</study_first_posted>
+  <last_update_submitted>December 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ain Shams University</investigator_affiliation>
+    <investigator_full_name>Rania Maher Hussien, MD</investigator_full_name>
+    <investigator_title>Lecturer of Anaesthesia and intensive care</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexmedetomidine</mesh_term>
+    <mesh_term>Ketamine</mesh_term>
+    <mesh_term>Propofol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

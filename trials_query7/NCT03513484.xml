@@ -1,0 +1,443 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03513484</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NU 17H04</org_study_id>
+    <secondary_id>NCI-2018-00483</secondary_id>
+    <secondary_id>STU00206525</secondary_id>
+    <secondary_id>NU 17H04</secondary_id>
+    <secondary_id>P30CA060553</secondary_id>
+    <nct_id>NCT03513484</nct_id>
+  </id_info>
+  <brief_title>Nintedanib and Azacitidine in Treating Participants With HOX Gene Overexpression Relapsed or Refractory Acute Myeloid Leukemia</brief_title>
+  <official_title>Phase Ib, Open Label, Combination Study of Nintedanib With 5-Azacitidine in Acute Myeloid Leukemia Characterized by HOX Gene Overexpression, That Are Not Candidates of Intensive Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Robert H. Lurie Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to find the appropriate dose of the study drug nintedanib when&#xD;
+      combined with azacitidine and the associated side effects of the combination in older adults&#xD;
+      with AML characterized by HOX gene overexpression who are not interested in or not considered&#xD;
+      fit for standard intensive chemotherapy. The use of the study drug nintedanib in this study&#xD;
+      is investigational. Investigational means that this medication has not yet been approved by&#xD;
+      the FDA to treat this type of cancer. Azacitidine received FDA Approval in 2004 for&#xD;
+      myelodysplastic syndrome (a blood cancer related to AML) and has a National Comprehensive&#xD;
+      Cancer Network (NCCN) guideline recommendation for treatment of older adults who are not&#xD;
+      candidates for or decline intensive remission induction therapy. We expect participation to&#xD;
+      continue in this study based on each participant's response to the drug, and ability to&#xD;
+      tolerate treatment. Participants may continue to receive study treatments for 6 cycles (one&#xD;
+      cycle is 28 days long). If the 6 cycles of treatment is completed, participants may be moved&#xD;
+      on to a maintenance phase of treatment. Treatment will continue until the participant's&#xD;
+      leukemia gets worse, or they experience serious side effects, have a break in treatment for&#xD;
+      more than 56 days or the study doctor feels it is best for study treatments to stop.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To identify maximum tolerated dose (MTD) of nintedanib for combination treatment of&#xD;
+      nintedanib and azacytidine (5-azacitidine) in the treatment of newly diagnosed and&#xD;
+      relapsed/refractory acute myeloid leukemia with HOX overexpression and who are ineligible for&#xD;
+      intensive chemotherapy.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. Adverse events (AEs) including dose limiting toxicities (DLTs) will be assessed according&#xD;
+      to the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE)&#xD;
+      4.03.&#xD;
+&#xD;
+      II. To determine median overall survival. III. To determine complete remission (CR) rate.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine composite CR rate (CR + complete remission with incomplete platelet recovery&#xD;
+      [CRp] + complete remission with incomplete hematological recovery [Cri]).&#xD;
+&#xD;
+      II. To determine duration of confirmed response. III. To determine event free survival. IV.&#xD;
+      To determine leukemia free survival. V. To establish correlation between response and&#xD;
+      pre-treatment Fgf2 levels and change in Fgf-2 levels during treatment.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of azacitidine.&#xD;
+&#xD;
+      Participants receive nintedanib orally (PO) twice daily (BID) on days 1-28 and azacitidine&#xD;
+      intravenously (IV) or subcutaneously (SC) on days 1-7. Treatment repeats every 28 days for up&#xD;
+      to 6 courses in the absence of disease progression or unacceptable toxicity. After completion&#xD;
+      of 6 courses, participants may discontinue treatment, receive nintedanib every 4-8 weeks, or&#xD;
+      receive nintedanib and azacitidine every 4-8 weeks.&#xD;
+&#xD;
+      After completion of study treatment, participants are followed up at every 3 months for 12&#xD;
+      months and then every 6 months for up to 24 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 14, 2018</start_date>
+  <completion_date type="Anticipated">January 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum tolerated dose (MTD)</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Will be defined as the highest dose that causes dose limiting toxicities (DLTs) in &lt; 2 of 6 patients.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 24 months</time_frame>
+    <description>Adverse event assessments and laboratory tests will be performed at baseline, and continuously throughout the study at the beginning of each subsequent cycle.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Up to 24 months</time_frame>
+    <description>Will be summarized using Kaplan-Meier curves. Median overall survival with 95% confidence interval will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete remission (CR) rate</measure>
+    <time_frame>Up to 24 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>Acute Myeloid Leukemia With t(9;11)(p22.3;q23.3); MLLT3-KMT2A</condition>
+  <condition>Fibroblast Growth Factor Basic Form Measurement</condition>
+  <condition>FLT3 Internal Tandem Duplication</condition>
+  <condition>Recurrent Adult Acute Myeloid Leukemia</condition>
+  <condition>Refractory Acute Myeloid Leukemia</condition>
+  <arm_group>
+    <arm_group_label>Treatment (nintedanib, azacitidine)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive nintedanib PO BID on days 1-28 and azacitidine IV or SC on days 1-7. Treatment repeats every 28 days for up to 6 courses in the absence of disease progression or unacceptable toxicity. After completion of 6 courses, participants may discontinue treatment, receive nintedanib every 4-8 weeks, or receive nintedanib and azacitidine every 4-8 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azacitidine</intervention_name>
+    <description>Given IV or SC</description>
+    <arm_group_label>Treatment (nintedanib, azacitidine)</arm_group_label>
+    <other_name>5 AZC</other_name>
+    <other_name>5-AC</other_name>
+    <other_name>5-Azacytidine</other_name>
+    <other_name>5-AZC</other_name>
+    <other_name>Azacytidine</other_name>
+    <other_name>Azacytidine, 5-</other_name>
+    <other_name>Ladakamycin</other_name>
+    <other_name>Mylosar</other_name>
+    <other_name>U-18496</other_name>
+    <other_name>Vidaza</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (nintedanib, azacitidine)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nintedanib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (nintedanib, azacitidine)</arm_group_label>
+    <other_name>BIBF 1120</other_name>
+    <other_name>BIBF-1120</other_name>
+    <other_name>Intedanib</other_name>
+    <other_name>Multitargeted Tyrosine Kinase Inhibitor BIBF 1120</other_name>
+    <other_name>tyrosine kinase inhibitor BIBF 1120</other_name>
+    <other_name>Vargatef</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ESCLATION COHORT: Patients must have a diagnosis of newly diagnosed and/ or&#xD;
+             relapsed/refractory AML with any of the following:&#xD;
+&#xD;
+               -  Confirmed translocation involving 11q23&#xD;
+&#xD;
+               -  Partial tandem duplication(PTD) of the MLL gene (on 11q23)&#xD;
+&#xD;
+               -  FLT3-ITD (internal tandem duplication)&#xD;
+&#xD;
+               -  Increased Fgf2 in serum (2 standard deviations above control serum samples)&#xD;
+&#xD;
+               -  HOX(A9/A10) over-expression in bone marrow ( 2 standard deviations above control&#xD;
+                  values in CD34+ cells from normal subjects)&#xD;
+&#xD;
+               -  Note: Relapsed or refractory AML is defined as either:&#xD;
+&#xD;
+                    -  Recurrence of disease after a complete remission (CR), or&#xD;
+&#xD;
+                    -  Failure to achieve CR with initial therapy&#xD;
+&#xD;
+          -  EXPANSION COHORT: Patients must have a diagnosis of newly diagnosed AML with any of&#xD;
+             the following:&#xD;
+&#xD;
+               -  Confirmed translocation involving 11q23&#xD;
+&#xD;
+               -  Partial tandem duplication (PTD) of the MLL gene (on 11q23)&#xD;
+&#xD;
+               -  FLT3-ITD (internal tandem duplication)&#xD;
+&#xD;
+               -  Increased Fgf2 in serum (2 standard deviations above control serum samples)&#xD;
+&#xD;
+               -  HOX(A9/A10) over-expression in bone marrow (2 standard deviations above control&#xD;
+                  values in CD34+ cells from normal subjects)&#xD;
+&#xD;
+               -  Note: Patients with secondary AML are eligible for enrollment into the trial (in&#xD;
+                  both cohorts); secondary AML is defined as AML that has developed in a person&#xD;
+                  with a history of antecedent blood count abnormalities, or myelodysplastic&#xD;
+                  syndromes (MDS), or a myeloproliferative disorder (excluding chronic myeloid&#xD;
+                  leukemia); or a history of prior chemotherapy or radiation therapy for a disease&#xD;
+                  other than AML&#xD;
+&#xD;
+          -  Patients who are not candidates for, or decline, intensive therapy&#xD;
+&#xD;
+          -  Patients must exhibit an ECOG performance status 0-3&#xD;
+&#xD;
+          -  International normalized ratio (INR) ? 2 (If coagulopathy is related to disease, this&#xD;
+             criterion does not apply) within14 days prior to registration&#xD;
+&#xD;
+          -  Prothrombin time (PT) and partial thromboplastin time (PTT) ? 1.5 x of institutional&#xD;
+             upper limit of normal (ULN) (Note: If coagulopathy is related to disease, this&#xD;
+             criteria do not apply) within14 days prior to registration&#xD;
+&#xD;
+          -  Total bilirubin ? 1.5 x of institutional ULN within14 days prior to registration&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase&#xD;
+             [SGOT])/alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SPGT])&#xD;
+             1.5 X institutional upper limit of normal (ULN) within14 days prior to registration&#xD;
+&#xD;
+          -  Creatinine 2 x ULN OR creatinine clearance &gt; 30 mL/min based on the Cockroft-Gault&#xD;
+             glomerular filtration rate (GFR) estimation&#xD;
+&#xD;
+          -  Females of child-bearing potential (FOCBP) and males must agree to use medically&#xD;
+             acceptable method of contraception (e.g. a method which results in a low failure rate&#xD;
+             of less than 1% per year when used consistently and correctly such as implants,&#xD;
+             injectables, combined oral contraceptives, some intrauterine devices or vasectomized&#xD;
+             partner for participating females, latex condoms for participating males, sexual&#xD;
+             abstinence) prior to study entry, for the duration of study participation, and for 3&#xD;
+             months following completion of therapy; should a female patient become pregnant or&#xD;
+             suspect she is pregnant while participating in this study, she should inform her&#xD;
+             treating physician immediately; if the female partner of a male participant becomes&#xD;
+             pregnant he should inform the treating physician and the female partner should contact&#xD;
+             her treating physician immediately&#xD;
+&#xD;
+               -  NOTE: A FOCBP is any woman (regardless of sexual orientation, having undergone a&#xD;
+                  tubal ligation, or remaining celibate by choice) who meets the following&#xD;
+                  criteria:&#xD;
+&#xD;
+                    -  Has not undergone a hysterectomy or bilateral oophorectomy&#xD;
+&#xD;
+                    -  Has had menses at any time in the preceding 12 consecutive months (and&#xD;
+                       therefore has not been naturally postmenopausal for &gt; 12 months)&#xD;
+&#xD;
+          -  FOCBP must have a negative pregnancy test (beta-human chorionic gonadotropin [HCG]&#xD;
+             test in urine or serum) within 7 days prior to registration on study (Note: The test&#xD;
+             will have to be repeated if cycle 1 day1 is more than 3 days from registration)&#xD;
+&#xD;
+          -  Patients must have the ability to understand and the willingness to sign a written&#xD;
+             informed consent prior to registration on study&#xD;
+&#xD;
+          -  Patients must agree/be able to comply with all protocol specific requirements&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who have received chemo-, hormone-, radio or immunotherapy or therapy with&#xD;
+             monoclonal antibodies or small tyrosine kinase inhibitors within the past 14 days&#xD;
+             prior to start of treatment or those who have not recovered from adverse events&#xD;
+             attributed to the agent to grade 1 or baseline&#xD;
+&#xD;
+               -  Exceptions for prior treatments are:&#xD;
+&#xD;
+                    -  Hydroxyurea for increased blast count (no washout period required; it can be&#xD;
+                       continued throughout the first cycle of therapy)&#xD;
+&#xD;
+                    -  Leukapheresis for leukocytosis (no wash out period required; it can be&#xD;
+                       continued during the study)&#xD;
+&#xD;
+                         -  Note: If patient is registered prior to completion of washout, start&#xD;
+                            date of treatment will need to be confirmed prior to registration;&#xD;
+                            please see assigned quality assurance monitor (QAM) with questions&#xD;
+&#xD;
+          -  Patients who have received any other investigational product within14 days of&#xD;
+             treatment are not eligible for this study; a wash out period ? 14 days or 5 half-&#xD;
+             lives (whichever is greater) is required from investigational treatment, prior to&#xD;
+             start of study treatment; please Note:&#xD;
+&#xD;
+               -  If patient is registered prior to completion of washout, start date of treatment&#xD;
+                  will need to be confirmed prior to registration; please see assigned QAM with&#xD;
+                  questions&#xD;
+&#xD;
+               -  The ?5 half-lives? time period will be determined by investigational pharmacy&#xD;
+&#xD;
+               -  If half life is not known and cannot be predicted, then wash out of ? 14 days is&#xD;
+                  required&#xD;
+&#xD;
+          -  Patients who have had major injuries and/or surgery within the past 4 weeks (&lt; 28&#xD;
+             days) prior to registration with incomplete wound healing and/or planned surgery while&#xD;
+             the patient is on study treatment&#xD;
+&#xD;
+          -  Patients who have proteinuria CTCAE version (v)4.03 grade 2 or greater within &lt; 30&#xD;
+             days of registration&#xD;
+&#xD;
+          -  Patients who have significant cardiovascular diseases are not eligible; these are:&#xD;
+&#xD;
+               -  Uncontrolled hypertension&#xD;
+&#xD;
+               -  Unstable angina&#xD;
+&#xD;
+               -  History of infarction within the past 12 months prior to start of study treatment&#xD;
+&#xD;
+               -  Congestive heart failure &gt; New York Heart Association (NYHA) II&#xD;
+&#xD;
+               -  Serious uncontrolled cardiac arrhythmia&#xD;
+&#xD;
+               -  Pericardial effusion&#xD;
+&#xD;
+          -  Patients requiring therapeutic anticoagulation with drugs requiring INR monitoring or&#xD;
+             anti-platelet therapy, except for acetylsalicylic acid (aspirin) ? 325 mg per day, are&#xD;
+             not eligible&#xD;
+&#xD;
+          -  Patients with acute promyelocytic leukemia (APL) are not eligible&#xD;
+&#xD;
+          -  Patients with known or suspected central nervous system (CNS) leukemia are not&#xD;
+             eligible&#xD;
+&#xD;
+          -  Patients with known extramedullary leukemia are not eligible&#xD;
+&#xD;
+          -  Patients who have received prior treatment with nintedanib or any other VEGFR&#xD;
+             inhibitor are not eligible&#xD;
+&#xD;
+          -  Patients with known hypersensitivity to nintedanib or 5-azacitidine or who have a&#xD;
+             history of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to nintedanib or 5-azacitidine are not eligible&#xD;
+&#xD;
+          -  Patients with hypersensitivity to mannitol are not eligible; patients who have known&#xD;
+             hypersensitivity to peanut or soya, any other trial drug, or their excipients, or to&#xD;
+             contrast media are not eligible&#xD;
+&#xD;
+          -  Patients with known active or history of chronic hepatitis C and/or B infection, known&#xD;
+             HIV infection and active alcohol or drug abuse are not eligible.&#xD;
+&#xD;
+          -  Patient with HIV who require anti-viral or supportive care that interacts with the&#xD;
+             study drugs are not eligible&#xD;
+&#xD;
+          -  Patients must not have a concurrent active malignancy for which they are receiving&#xD;
+             treatment&#xD;
+&#xD;
+          -  Patients who have an uncontrolled intercurrent illness including, but not limited to&#xD;
+             any of the following, are not eligible:&#xD;
+&#xD;
+               -  Active uncontrolled infection&#xD;
+&#xD;
+               -  Serious illness or concomitant non-oncological disease such as neurologic,&#xD;
+                  psychiatric, infectious disease or active ulcers (gastrointestinal tract, skin)&#xD;
+                  or laboratory abnormality that may increase the risk associated with study&#xD;
+                  participation or study drug administration and in the judgment of the&#xD;
+                  investigator would make the patient inappropriate for entry into the study&#xD;
+&#xD;
+               -  Psychiatric illness/social situations that would limit compliance with study&#xD;
+                  requirements&#xD;
+&#xD;
+               -  Any other illness or condition that the treating investigator feels would&#xD;
+                  interfere with study compliance or would compromise the patient?s safety or study&#xD;
+                  endpoints&#xD;
+&#xD;
+          -  Female patients who are pregnant or nursing are not eligible&#xD;
+&#xD;
+          -  Patients who are unable to swallow oral gel capsules are not eligible&#xD;
+&#xD;
+          -  Patients who have gastrointestinal disorders or abnormalities that would interfere&#xD;
+             with absorption of the study drug are not eligible&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jessica Altman</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica K. Altman</last_name>
+      <phone>312-695-6180</phone>
+      <email>j-altman@northwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jessica K. Altman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2020</verification_date>
+  <study_first_submitted>April 19, 2018</study_first_submitted>
+  <study_first_submitted_qc>April 30, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 1, 2018</study_first_posted>
+  <last_update_submitted>February 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>February 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Leukemia, Myeloid</mesh_term>
+    <mesh_term>Leukemia, Myeloid, Acute</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azacitidine</mesh_term>
+    <mesh_term>Nintedanib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

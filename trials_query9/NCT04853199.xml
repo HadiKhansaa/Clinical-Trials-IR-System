@@ -1,0 +1,238 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04853199</url>
+  </required_header>
+  <id_info>
+    <org_study_id>QUERCOV</org_study_id>
+    <nct_id>NCT04853199</nct_id>
+  </id_info>
+  <brief_title>Quercetin In The Treatment Of SARS-COV 2</brief_title>
+  <acronym>QUERCOV</acronym>
+  <official_title>Effectiveness of Quercetin In The Treatment of SARS-COV 2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hôpital Universitaire Sahloul</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hôpital Universitaire Sahloul</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In 1937, Albert Szent-Gyorgyi received a Nobel Prize for discovering vitamin C and&#xD;
+      flavonoids, as well as for exploring their biochemical properties. Originally, he gave the&#xD;
+      flavonoids the name &quot;vitamin P&quot; because of their effectiveness in reducing the permeability&#xD;
+      of blood vessels. This name was abandoned when it was realized that these substances were not&#xD;
+      really vitamins.&#xD;
+&#xD;
+      Quercetin is extracted from a variety of plant sources, including the onion peel and the&#xD;
+      seeds and pods of Dimorphandra mollis, a legume tree native to South America.&#xD;
+&#xD;
+      Although we are far from knowing everything about quercetin, its antioxidant,&#xD;
+      anti-inflammatory, and antihistamine (antiallergic) properties have been observed in numerous&#xD;
+      in vitro and animal studies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Properties&#xD;
+&#xD;
+        -  Anti-oxidant, vascular protector&#xD;
+&#xD;
+        -  Inhibition of platelet aggregation, vasorelaxant , arterial relaxant&#xD;
+&#xD;
+        -  Anti-hypertensive , especially by certain derivatives (quercetin-3-glucuronic acid)&#xD;
+&#xD;
+        -  Nephroprotective in rats, protects against the nephrotoxicity of gentamicin&#xD;
+&#xD;
+        -  Anticancer , with immunostimulatory activity and inducer of apoptosis, with activity on&#xD;
+           the shock proteins HSP (heat shock proteins) hsp27 and hsp70&#xD;
+&#xD;
+        -  Antitumor activity against prostate cancer and certain breast cancer cells&#xD;
+&#xD;
+        -  Prevention of cardiac toxicity from doxorubicin, with resveratrol&#xD;
+&#xD;
+        -  Protection against gastric inflammation associated with Helicobacter pylori infection by&#xD;
+           activity on MAPK, BCL-2, BAX.&#xD;
+&#xD;
+        -  Increases the antitoxic activity of the liver&#xD;
+&#xD;
+        -  Pancreatic lipase inhibitor, potential action in weight gain&#xD;
+&#xD;
+        -  Anti-inflammatory&#xD;
+&#xD;
+        -  Anti-allergic, inhibition of mast cell degranulation, with a preventive effect,&#xD;
+           reduction of inflammation linked to eosinophils (such as isoquercitrin regulates the Th1&#xD;
+           / Th2 balance&#xD;
+&#xD;
+        -  Antiviral (dose-dependent reduction of infectivity, decreases intracellular replication)&#xD;
+&#xD;
+        -  Inhibition of rhinovirus replication&#xD;
+&#xD;
+        -  Influenza prophylaxis by quercetin or its derivatives&#xD;
+           (quercetin-3-O-α-L-rhamnopyranoside), opposes the pro-oxidant effects induced by the&#xD;
+           influenza virus, antioxidant therapy could be used to prevent serious complications&#xD;
+           associated with influenza&#xD;
+&#xD;
+        -  In vitro inhibition of the penetration of the Ebola virus by quercetin-3-O-glucoside&#xD;
+&#xD;
+        -  Antiviral activity against Zika virus, hepatitis B virus, hepatitis C, Epstein-Barr&#xD;
+           virus EBV and antitumor against human gastric carcinoma&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 25, 2021</start_date>
+  <completion_date type="Anticipated">August 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 30, 2021</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>a randomized double-blind study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The Efficacy measurment</measure>
+    <time_frame>10 and 30 days</time_frame>
+    <description>To study the effectiveness of a herbal medicine supplement in the treatment of COVID 19</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>DEATH</measure>
+    <time_frame>one month</time_frame>
+    <description>The composite of death or need due to COVID-19 infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HOSPITALISATION</measure>
+    <time_frame>one month</time_frame>
+    <description>The need for hospitalization due to COVID-19 infection</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <arm_group>
+    <arm_group_label>Quercetin group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each patient included, after signing the consent, will have a treatment for ten days: one tablet twice a day 30 minutes before the meal</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Each patient included, after signing the consent, will have a treatment for ten days: one tablet twice a day 30 minutes before the meal</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Quercetin</intervention_name>
+    <description>Each patient should receive one tablet twice a day 30 minutes before the meal</description>
+    <arm_group_label>Quercetin group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Each placebo capsule contains 150 mg of microcrystalline cellulose and 1.5 mg of magnesium stearate.</description>
+    <arm_group_label>Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  • Clinical score greater than 6&#xD;
+&#xD;
+               -  Patients with clinical symptoms less than 5 days old.&#xD;
+&#xD;
+               -  Men and women at least 40 years old, able and willing to give informed consent;&#xD;
+&#xD;
+               -  Any patient over the age of 18 with a CT scan in favor of COVID-19;&#xD;
+&#xD;
+               -  Ambulatory or hospitalized environment;&#xD;
+&#xD;
+               -  Patient with dyspnea or with a positive gait test;&#xD;
+&#xD;
+               -  The patient must have at least one of the following high risk criteria: 70 years&#xD;
+                  or older, obesity (BMI ≥ 30 kg / m2), diabetes mellitus, uncontrolled&#xD;
+                  hypertension (systolic blood pressure ≥ 150 mm Hg), respiratory disease known&#xD;
+                  (including asthma or chronic obstructive pulmonary disease), known heart failure,&#xD;
+                  known coronary artery disease, fever ≥ 38.4 ° C within the last 48 hours, dyspnea&#xD;
+                  at the time of presentation, bicytopenia, pancytopenia or a combination of a&#xD;
+                  number high neutrophils and low lymphocytes count;&#xD;
+&#xD;
+               -  The patient is not of childbearing age, defined as postmenopausal for at least 1&#xD;
+                  year or surgically sterile, or is of childbearing age and uses at least one&#xD;
+                  method of contraception and preferably two complementary forms of contraception&#xD;
+                  comprising a method of barrier throughout the study and for 30 days after the end&#xD;
+                  of the study;&#xD;
+&#xD;
+               -  The patient must be able and willing to comply with the requirements of this&#xD;
+                  study protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  • Patient currently in shock or exhibiting hemodynamic instability;&#xD;
+&#xD;
+               -  Patient with inflammatory bowel disease (Crohn's disease or ulcerative colitis),&#xD;
+                  chronic diarrhea or malabsorption;&#xD;
+&#xD;
+               -  Pregnant or breastfeeding patient&#xD;
+&#xD;
+               -  Patient with a history of allergic reaction or significant sensitivity to&#xD;
+                  Nigella;&#xD;
+&#xD;
+               -  The patient is considered by the investigator, for whatever reason, to be an&#xD;
+                  unsuitable candidate for the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Riadh Boukef, professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Sahloul, Sousse, Tunisia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Boukef Riadh, professor</last_name>
+    <phone>98676745</phone>
+    <phone_ext>00216</phone_ext>
+    <email>riadboukef@gmail.com</email>
+  </overall_contact>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 21, 2021</study_first_posted>
+  <last_update_submitted>April 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Quercetin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Two study groups will be included: 100 patients in the herbal medicine group and 100 patients in the Placebo group.&#xD;
+For each patient included in the study, a PCR test for the detection of SARS-COV2 was performed with the prescription of a prescription containing: antibiotic therapy, paracetamol, cough syrup, mineral and vitamin supplements.&#xD;
+A follow-up will be carried out for each patient included in the study every two days to note the clinical signs present and to verify compliance and adverse events for each.&#xD;
+Data is entered on SPSS 21.0</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

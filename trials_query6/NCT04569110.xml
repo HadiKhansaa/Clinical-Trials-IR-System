@@ -1,0 +1,190 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04569110</url>
+  </required_header>
+  <id_info>
+    <org_study_id>248005</org_study_id>
+    <nct_id>NCT04569110</nct_id>
+  </id_info>
+  <brief_title>The Microbiology of Pleural Infection</brief_title>
+  <acronym>TORPIDS</acronym>
+  <official_title>The Bacteriology of Pleural Infection Using Next Generation Sequencing: The Oxford Pleural Infection Metagenomics Studies (TORPIDS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Oxford</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pleural Infection (PI) is a common, severe and complicated disease with considerable&#xD;
+      morbidity and mortality. (1,2) The knowledge of pleural infection microbiology remains&#xD;
+      incomplete. Sequencing of the bacterial 16S rRNA gene is a reliable methodology to discover&#xD;
+      the total microbiome of complex samples.&#xD;
+&#xD;
+      The investigators designed a translational metagenomics study to study the bacteriology of&#xD;
+      pleural infection. The investigators will use pleural fluid specimens from a) the&#xD;
+      &quot;Prospective validation of the RAPID clinical risk prediction score in adult patients with&#xD;
+      pleural infection: the PILOT study&quot; (3) clinical trial and b) non-pleural infection patients.&#xD;
+      The pleural fluid specimens will be subjected to 16S rRNA next generation sequencing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pleural Infection (PI) is a common, severe and complicated disease with considerable&#xD;
+      morbidity and mortality1,2. Patients develop pleural effusions of frankly infected fluid. The&#xD;
+      understanding of pleural infection microbiome could improve patient clinical management,&#xD;
+      however the knowledge remains incomplete. Sequencing of the bacterial 16S rRNA gene is a&#xD;
+      reliable methodology to discovery the total microbiome of complex samples.&#xD;
+&#xD;
+      The investigators designed a translational study to study the bacteriology of pleural&#xD;
+      infection. Pleural fluid specimens from a) the &quot;Prospective validation of the RAPID clinical&#xD;
+      risk prediction score in adult patients with pleural infection: the PILOT study&quot; (3) clinical&#xD;
+      trial and b) non-pleural infection patients will be subjected to bacterial DNA extraction&#xD;
+      followed by 16S rRNA next generation sequencing. Moreover, the investigators will study the&#xD;
+      association between bacterial patterns and important clinical outcomes including survival,&#xD;
+      duration of hospitalisation and need for surgery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 10, 2019</start_date>
+  <completion_date type="Actual">August 31, 2020</completion_date>
+  <primary_completion_date type="Actual">June 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Microbiome</measure>
+    <time_frame>Enrolement</time_frame>
+    <description>Discover the microbiome of each sample</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Association between bacterial patterns and clinical outcomes</measure>
+    <time_frame>12 months for survival and requirement for surgical drainage</time_frame>
+    <description>Study the association between the microbiome and clinical outcomes</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">251</enrollment>
+  <condition>Pleural Infection</condition>
+  <condition>Pleural Infection Bacterial</condition>
+  <arm_group>
+    <arm_group_label>Pleural infection</arm_group_label>
+    <description>Patients with clinically confirmed ongoing pleural infection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Negative control</arm_group_label>
+    <description>Patients without pleural infection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Not applicable. Observational study. Retrospective analysis of samples.</intervention_name>
+    <description>Not applicable. Observational study. Retrospective analysis of samples.</description>
+    <arm_group_label>Negative control</arm_group_label>
+    <arm_group_label>Pleural infection</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Pleural fluid specimens&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        -  Patients with pleural infection (PILOT cohort)&#xD;
+&#xD;
+          -  Patients with pleural effusion but without pleural infection (negative control group)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        The pleural fluid specimens were collected for the &quot;Prospective validation of the RAPID&#xD;
+        clinical risk prediction score in adult patients with pleural infection: the PILOT study&quot;.&#xD;
+        PMID: 32675200 DOI: 10.1183/13993003.00130-2020. The investigators analysed the samples&#xD;
+        retrospectively.&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  As per protocol of the &quot;Prospective validation of the RAPID clinical risk prediction&#xD;
+             score in adult patients with pleural infection: the PILOT study&quot;. PMID: 32675200 DOI:&#xD;
+             10.1183/13993003.00130-2020&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  As per protocol of the &quot;Prospective validation of the RAPID clinical risk prediction&#xD;
+             score in adult patients with pleural infection: the PILOT study&quot;. PMID: 32675200 DOI:&#xD;
+             10.1183/13993003.00130-2020&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Laboratory of Pleural Translational Research, Nuffield Department of Medicine, University of Oxford</name>
+      <address>
+        <city>Oxford</city>
+        <state>Oxfordshire</state>
+        <zip>OX3 7FZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Davies HE, Davies RJ, Davies CW; BTS Pleural Disease Guideline Group. Management of pleural infection in adults: British Thoracic Society Pleural Disease Guideline 2010. Thorax. 2010 Aug;65 Suppl 2:ii41-53. doi: 10.1136/thx.2010.137000. Review.</citation>
+    <PMID>20696693</PMID>
+  </reference>
+  <reference>
+    <citation>Corcoran JP, Wrightson JM, Belcher E, DeCamp MM, Feller-Kopman D, Rahman NM. Pleural infection: past, present, and future directions. Lancet Respir Med. 2015 Jul;3(7):563-77. doi: 10.1016/S2213-2600(15)00185-X. Review.</citation>
+    <PMID>26170076</PMID>
+  </reference>
+  <reference>
+    <citation>Corcoran JP, Psallidas I, Gerry S, Piccolo F, Koegelenberg CF, Saba T, Daneshvar C, Fairbairn I, Heinink R, West A, Stanton AE, Holme J, Kastelik JA, Steer H, Downer NJ, Haris M, Baker EH, Everett CF, Pepperell J, Bewick T, Yarmus L, Maldonado F, Khan B, Hart-Thomas A, Hands G, Warwick G, De Fonseka D, Hassan M, Munavvar M, Guhan A, Shahidi M, Pogson Z, Dowson L, Popowicz ND, Saba J, Ward NR, Hallifax RJ, Dobson M, Shaw R, Hedley EL, Sabia A, Robinson B, Collins GS, Davies HE, Yu LM, Miller RF, Maskell NA, Rahman NM. Prospective validation of the RAPID clinical risk prediction score in adult patients with pleural infection: the PILOT study. Eur Respir J. 2020 Nov 26;56(5). pii: 2000130. doi: 10.1183/13993003.00130-2020. Print 2020 Nov. Erratum in: Eur Respir J. 2020 Dec 17;56(6):.</citation>
+    <PMID>32675200</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>pleural</keyword>
+  <keyword>pleural infection</keyword>
+  <keyword>pleural effusion</keyword>
+  <keyword>microbiome</keyword>
+  <keyword>metagenomics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Bacterial Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

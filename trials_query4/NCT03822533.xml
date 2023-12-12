@@ -1,0 +1,410 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03822533</url>
+  </required_header>
+  <id_info>
+    <org_study_id>115841healthecon</org_study_id>
+    <nct_id>NCT03822533</nct_id>
+  </id_info>
+  <brief_title>A Cost-efficiency Analysis of Primary Assessors for Patients With Knee Pain in Primary Care</brief_title>
+  <official_title>A Cost-efficiency Analysis of Physiotherapist or Physicians as Primary Assessors for Patients With Knee Pain in Primary Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vastra Gotaland Region</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vastra Gotaland Region</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Almost half of the Swedish population are overweight or obese. This will probably&#xD;
+      affect the incidence of osteoarthritis since overweight is a strong risk factor.&#xD;
+      Osteoarthritis consultations is expected to increase with 30-50% within the next 20 years.&#xD;
+      Today, in Swedish primary care, both physicians and physical therapists are primary assessors&#xD;
+      for patients with suspected knee osteoarthritis. A task shifting with physiotherapists as the&#xD;
+      only primary assessor could increase the access rate to physicians in primary care for&#xD;
+      patients with more severe disorders. Yet, it is unclear what effects these different&#xD;
+      healthcare processes have and the costs of it.&#xD;
+&#xD;
+      Purpose: The overall purpose of this study is to perform an economic evaluation of two&#xD;
+      healthcare processes, where a healthcare process initiated by a physiotherapist is compared&#xD;
+      with when it is initiated with a physician for patients with suspected knee osteoarthritis.&#xD;
+&#xD;
+      Methods: 100 patients will be randomized either to a physical therapist or to a physician for&#xD;
+      first assessment, diagnosis and treatment. Measurements of health-related quality of life and&#xD;
+      costs for visits to physical therapist, physician or other healthcare provider, drug&#xD;
+      prescriptions and sick-leave will be collected. A cost-effectiveness analysis will be&#xD;
+      conducted, presenting incremental cost-effectiveness ratio (ICER) and a non-parametric&#xD;
+      bootstrapping will be conducted to demonstrate the uncertainties surrounding the ICER.&#xD;
+&#xD;
+      Expected results: It is expected that this randomized controlled study will show the effects&#xD;
+      on quality adjusted life years, cost-efficiency and cost-utility of two different primary&#xD;
+      assessors for patients with suspected knee osteoarthritis consulting primary care. The&#xD;
+      results could clarify which profession that is most appropriate to be the primary assessor&#xD;
+      for patients with suspected knee osteoarthritis in primary care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Problem statements:&#xD;
+&#xD;
+      What is the difference in cost efficiency between a healthcare process with a physical&#xD;
+      therapist as primary assessor and a physician as primary assessor for patients with suspected&#xD;
+      KOA?&#xD;
+&#xD;
+      Which effect does a clinical pathway with a physical therapist as primary assessor for&#xD;
+      patients with suspected knee osteoarthritis have on quality adjusted life years compared with&#xD;
+      a physician as primary assessor?&#xD;
+&#xD;
+      What are the differences in costs between the two healthcare processes initiated by either a&#xD;
+      physiotherapist or a physician set against the differences in effects?&#xD;
+&#xD;
+      Patient recruitment:&#xD;
+&#xD;
+      Some data has already been collected for another clinical trial (ID: NCT03715764), which will&#xD;
+      be used in this study too. The patient recruitment is finished, while data collection&#xD;
+      regarding cost variables has not started yet.&#xD;
+&#xD;
+      Patients were recruited from primary care centers and rehabilitation centers in southwestern&#xD;
+      Sweden.&#xD;
+&#xD;
+      Screening procedure:&#xD;
+&#xD;
+      Nurses and administration personnel at the recruitment units got information about the study&#xD;
+      and the screening protocol from the data collector and project leader. Each recruiting unit&#xD;
+      had a contact person that were responsible for the protocols and to contact the data&#xD;
+      collector when an eligible patient was found. It was regular contact between the project&#xD;
+      leader and the contact persons at the recruiting units. All screening protocols were sent to&#xD;
+      the data collector. All participants got orally and written information about the study from&#xD;
+      the data collector, and patients provided written informed consent.&#xD;
+&#xD;
+      Randomization:&#xD;
+&#xD;
+      A computer-generated list of random numbers was used, where participants were randomly&#xD;
+      assigned to being assessed, diagnosed and treated either by a physiotherapist or a physician&#xD;
+      first. The project coordinator managed the sequence generation, allocation concealment,&#xD;
+      enrolment and assignments of participants and kept the concealed randomization scheme and&#xD;
+      sequentially numbered, sealed envelopes in a locked cupboard (in the same building where the&#xD;
+      enrolment will be), only available for the project coordinator. The project coordinator&#xD;
+      revealed the allocation to the participant shortly after the baseline measurement and to the&#xD;
+      health care providers. Data collector, data analyst and statistician were blinded of&#xD;
+      allocation until completion of data collection for the primary outcome measures at the 12&#xD;
+      months follow up for the last recruited patient. Group allocation was revealed when analysing&#xD;
+      data for the other clinical trial (ID: NCT03715764).&#xD;
+&#xD;
+      The project coordinator was not involved in the screening procedure nor the data collection,&#xD;
+      and was included among the healthcare providers in the study. The blinded data collector and&#xD;
+      analyst, whom is a physical therapist, were not involved in assessing, diagnosing and&#xD;
+      treating patients with knee osteoarthritis while the first study (ID: NCT03715764) was&#xD;
+      conducted.&#xD;
+&#xD;
+      Data collection:&#xD;
+&#xD;
+      Demographic data and measurements of HrQoL has already been collected for another clinical&#xD;
+      trial (ID: NCT03715764). These data will also be used for the cost-efficiency analysis.&#xD;
+      Demographic data were collected at baseline. Measurements of HrQoL were measured with EuroQol&#xD;
+      5 dimensions 3 levels (EQ5D-3L) and collected at baseline (before randomization), 3- , 6- and&#xD;
+      12 months follow ups.&#xD;
+&#xD;
+      New data collection will be made for cost variables. Data regarding costs for the healthcare&#xD;
+      processes will be extracted from patient journals. The costs for visits to physical&#xD;
+      therapist, physician or other healthcare provider will be collected from the healthcare&#xD;
+      organization. The drug prices will be collected from the Swedish Association of Local&#xD;
+      Authorities and Regions for the time period the drugs were prescribed. Production loss due to&#xD;
+      sick-leave and health care visits will be valued according to mean gross salary (including&#xD;
+      taxes and social fees).&#xD;
+&#xD;
+      Calculating total costs (number of contacts per patient * costs ) for:&#xD;
+&#xD;
+        -  Physiotherapy contacts in primary care&#xD;
+&#xD;
+        -  Physician contacts in primary care&#xD;
+&#xD;
+        -  Referral to x-ray&#xD;
+&#xD;
+        -  Referrals to other healthcare givers&#xD;
+&#xD;
+        -  Drug prescription&#xD;
+&#xD;
+        -  Sick-leave days&#xD;
+&#xD;
+      Data management:&#xD;
+&#xD;
+      All data will be coded and managed according to the General Data Protection Regulation. All&#xD;
+      data will be confidential and only authorized will have access to the patient registry. No&#xD;
+      individual information can be identified since the results will be presented at group level.&#xD;
+      Data will be saved for at least 10 years to enable audit.&#xD;
+&#xD;
+      Sample size:&#xD;
+&#xD;
+      A sample size of 50 patients per group will be necessary to detect a minimal clinical&#xD;
+      improvement of 0.121(SD 0.2) on the EQ5D-3L-index, given an anticipated dropout rate of 14%.&#xD;
+      The sample size calculation was calculated with a two-sided 5% significance level and a power&#xD;
+      of 80%.&#xD;
+&#xD;
+      Statistical analysis plan:&#xD;
+&#xD;
+      Data will be analyzed descriptively and presented as numbers and percent, mean and standard&#xD;
+      deviation or median and 25th to 75th percentiles. Statistical analysis will be made in SPSS&#xD;
+      Windows and the analysis will be applied with intention-to-treat (ITT).&#xD;
+&#xD;
+      The economic evaluation will be developed together with a health economist. The method will&#xD;
+      be a cost-effectiveness analysis alongside the clinical trial comparing costs and effects for&#xD;
+      the two alternatives based on collected data from the trial. The EQ5D-3L measurements will be&#xD;
+      used for analyzing quality adjusted life years. The result will be presented as an&#xD;
+      incremental cost-effectiveness ratio (ICER) and a non-parametric bootstrapping will be&#xD;
+      conducted to demonstrate the uncertainties surrounding the ICER.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 7, 2019</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants with suspected knee osteoarthritis are either randomised to a physiotherapist or a physician as primary assessor for assessment and treatment. After the first assessment that the patients are assigned to, the patients can choose to seek the other health care provider if they want to.&#xD;
+This study focuses on analysing cost efficiency of the health care processes for patients with suspected knee osteoarthritis in primary care.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Health related quality of life</measure>
+    <time_frame>Baseline to one year after baseline.</time_frame>
+    <description>A Swedish version of Euroqol-5 dimensions-3 levels (EQ5D-3L) will be used to assess perceived self-rated health-related quality of life. EQ5D-index respectively EQ5D-VAS will be presented. The questionnaire contain five dimensions and results in an index ranging from -0,549 to 1 using the UK tariffs. An index of 1 indicate full health. The EQ5D-VAS is a visual analogue scale ranging from 0 to 100, where 0 is worst imaginable health state and 100 is best imaginable health state.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Costs for physiotherapy contacts</measure>
+    <time_frame>Baseline to one year after baseline.</time_frame>
+    <description>Number of visits registered in patients journal * cost</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Costs for physician contacts</measure>
+    <time_frame>Baseline to one year after baseline.</time_frame>
+    <description>Number of visits registered in patients journal * cost</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Costs for sick-leave</measure>
+    <time_frame>Baseline to one year after baseline.</time_frame>
+    <description>Number of sick-leave periods, including number of days with sick leave * costs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Costs for drug prescription</measure>
+    <time_frame>Baseline to one year after baseline.</time_frame>
+    <description>Number of drug prescriptions* costs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Costs for referral to x-ray</measure>
+    <time_frame>Baseline to one year after baseline.</time_frame>
+    <description>Number of referrals to an x-ray examination of the knee * costs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Costs for referral to other healthcare professionals</measure>
+    <time_frame>Baseline to one year after baseline.</time_frame>
+    <description>Number of referrals to other professionals for an examination of the knee * costs</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">69</enrollment>
+  <condition>Osteoarthritis, Knee</condition>
+  <arm_group>
+    <arm_group_label>Physiotherapist as primary assessor</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>The healthcare process will be started with a physiotherapist assessment and treatment. Treatments could involve individual or group treatment including patient education and physical exercise.&#xD;
+Patients can seek a physician anytime after the first assessment with the physiotherapist.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Physician as primary assessor</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>The Healthcare process will be started with a physician assessment and treatment. Treatments could involve drug prescription, referral to x-ray, referral to other healthcare providers and sick-leave.&#xD;
+Patients can seek a physiotherapist anytime after the first assessment with the physician.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physiotherapist as primary assessor</intervention_name>
+    <description>Physiotherapist diagnose and treat the patient.</description>
+    <arm_group_label>Physiotherapist as primary assessor</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physician as primary assessor</intervention_name>
+    <description>Physician diagnose and treat the patient.</description>
+    <arm_group_label>Physician as primary assessor</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Knee pain most of the days the last month&#xD;
+&#xD;
+          -  Over 38 years old&#xD;
+&#xD;
+          -  Crepitus on active motion&#xD;
+&#xD;
+          -  Morning stiffness less than 30 minutes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not been diagnosed for current knee pain&#xD;
+&#xD;
+          -  Non-traumatic cause due to current knee pain&#xD;
+&#xD;
+          -  No other rheumatic, severe somatic or psychological diseases that can affect the&#xD;
+             outcome measures.&#xD;
+&#xD;
+          -  Not pregnant&#xD;
+&#xD;
+          -  Does not know enough Swedish to answer questionnaires.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>38 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lena Nordeman, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Närhälsan Research and development center Södra Älvsborg</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medpro Clinic Brålanda-Torpa Vårdcentral</name>
+      <address>
+        <city>Brålanda</city>
+        <state>Vastra Gotaland</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medpro Clinic Lilla Edet Vårdcentral</name>
+      <address>
+        <city>Lilla Edet</city>
+        <state>Vastra Gotaland</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Närhälsan Lilla Edets Rehabmottagning</name>
+      <address>
+        <city>Lilla Edet</city>
+        <state>Vastra Gotaland</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Capio Läkarhus Hjortmossen</name>
+      <address>
+        <city>Trollhättan</city>
+        <state>Vastra Gotaland</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Närhälsan Trollhättan Rehabmottagning</name>
+      <address>
+        <city>Trollhättan</city>
+        <state>Vastra Gotaland</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Primapraktiken</name>
+      <address>
+        <city>Trollhättan</city>
+        <state>Vastra Gotaland</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medpro Clinic Torpa Vårdcentral</name>
+      <address>
+        <city>Vänersborg</city>
+        <state>Vastra Gotaland</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vårdcentralen Nordstan</name>
+      <address>
+        <city>Vänersborg</city>
+        <state>Vastra Gotaland</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Närhälsan Vänersborg Rehabmottagning</name>
+      <address>
+        <city>Vänersborg</city>
+        <state>VastraGotaland</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <reference>
+    <citation>Turkiewicz A, Petersson IF, Björk J, Hawker G, Dahlberg LE, Lohmander LS, Englund M. Current and future impact of osteoarthritis on health care: a population-based study with projections to year 2032. Osteoarthritis Cartilage. 2014 Nov;22(11):1826-32. doi: 10.1016/j.joca.2014.07.015. Epub 2014 Jul 30.</citation>
+    <PMID>25084132</PMID>
+  </reference>
+  <reference>
+    <citation>Walters SJ, Brazier JE. Comparison of the minimally important difference for two health state utility measures: EQ-5D and SF-6D. Qual Life Res. 2005 Aug;14(6):1523-32. Review.</citation>
+    <PMID>16110932</PMID>
+  </reference>
+  <reference>
+    <citation>Brazier JE, Harper R, Munro J, Walters SJ, Snaith ML. Generic and condition-specific outcome measures for people with osteoarthritis of the knee. Rheumatology (Oxford). 1999 Sep;38(9):870-7.</citation>
+    <PMID>10515649</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>January 28, 2019</study_first_submitted>
+  <study_first_submitted_qc>January 29, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 30, 2019</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Primary assessor</keyword>
+  <keyword>cost efficiency</keyword>
+  <keyword>physiotherapist</keyword>
+  <keyword>quality of life</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

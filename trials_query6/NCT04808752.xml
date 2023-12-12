@@ -1,0 +1,444 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04808752</url>
+  </required_header>
+  <id_info>
+    <org_study_id>YX-L-202107</org_study_id>
+    <nct_id>NCT04808752</nct_id>
+  </id_info>
+  <brief_title>Almonertinib as First-line Treatment in Patients With EGFR Mutations Positive in Advanced NSCLC With Brain Metastases</brief_title>
+  <acronym>ACHIEVE</acronym>
+  <official_title>High-dose Almonertinib(HS-10296) as First-line Treatment in Patients With EGFR-sensitive Mutations in Advanced NSCLC With Brain Metastases: Prospective, Open-label, Multi-center, Single-arm Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zhejiang Cancer Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Jiangsu Hansoh Pharmaceutical Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Zhejiang Cancer Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, open-label, multi-center, single-arm clinical trial&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, open-label, multi-center, single-arm clinical trial aimed at patients&#xD;
+      with advanced non-small cell lung cancer (NSCLC) with asymptomatic brain metastases with&#xD;
+      epidermal growth factor receptor sensitive mutations (EGFRm+) who have not received any&#xD;
+      systemic treatment To evaluate the effectiveness and safety of high-dose almonertinib&#xD;
+      mesylate.Eligible patients were included in the high-dose almonertinib treatment group and&#xD;
+      received oral almonertinib 165 mg once a day.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 15, 2021</start_date>
+  <completion_date type="Anticipated">July 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 15, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a open-label, multi-center, prospective, single-arm clinical trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PFS</measure>
+    <time_frame>26 months</time_frame>
+    <description>The PFS time is defined as time from enrollment to locoregional or systemic recurrence, second malignancy or death due to any cause; censored observations will be the last date of : &quot;death&quot;, &quot;last tumor assessment&quot;, &quot;last follow up date&quot; or &quot;last date in drug log&quot;</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>iPFS</measure>
+    <time_frame>26 months</time_frame>
+    <description>iPFS is defined as the time from randomization to the first recording of the progress of intracranial disease or death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>iORR</measure>
+    <time_frame>26 months</time_frame>
+    <description>The proportion of subjects whose intracranial lesions achieve Complete Response (CR) and Partial Response (PR) by the best response from the first dose of almonertinib to the end of study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>iDoR</measure>
+    <time_frame>26 months</time_frame>
+    <description>Number of days from the date that measurement criteria are first met for CR or PR (whichever status is recorded first) until the first subsequent date that progressive intracranial disease or death is documented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>iDCR</measure>
+    <time_frame>26 months</time_frame>
+    <description>Intracranial disease control rate (iDCR) defined as the percentage of participants with Intracranial Disease Control best overall response (complete response, partial response or stable disease).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ORR</measure>
+    <time_frame>26 months</time_frame>
+    <description>The proportion of subjects who achieve Complete Response (CR) and Partial Response (PR) by the best response from the first dose of almonertinib to the end of study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>Start of study drug to Survival Endpoint through study completion, an average of 4 years</time_frame>
+    <description>OS was defined as time from date of enrollment to date of death due to any cause. For participants still alive at the time of analysis, OS time was censored on last date that participants were known to be alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DoR</measure>
+    <time_frame>26 months</time_frame>
+    <description>Number of days from the date that measurement criteria are first met for CR or PR (whichever status is recorded first) until the first subsequent date that progressive disease or death is documented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DCR</measure>
+    <time_frame>26 months</time_frame>
+    <description>Disease Control Rate (DCR) defined as the percentage of participants with Disease Control best overall response (complete response, partial response or stable disease).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>26 months</time_frame>
+    <description>To evaluate the security of high-dose almonertinib treatment in patients with EGFR mutations positive in advanced NSCLC with brain metastases</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Explore gene mapping before and after the treatment.</measure>
+    <time_frame>26 months</time_frame>
+    <description>Collect blood/cerebrospinal fluid before and after treatment to explore gene mapping before and after the treatment by next generation sequencing.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Almonertinib high-dose group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who meet the criteria for inclusion and exclusion will be included in the high-dose almonertinib treatment group and receive oral almonertinib 165 mg once a day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Almonertinib</intervention_name>
+    <description>Patients meeting the criteria for inclusion and exclusion were included in the high-dose almonertinib treatment group and received oral almonertinib 165 mg once a day.</description>
+    <arm_group_label>Almonertinib high-dose group</arm_group_label>
+    <other_name>Investigational Product</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age from 18 to 75 years old.&#xD;
+&#xD;
+          2. Histology or cytology is confirmed to be NSCLC, imaging confirmed to be advanced NSCLC&#xD;
+             with brain metastasis (including relapsed or newly diagnosed advanced patients after&#xD;
+             previous surgical treatment; according to AJCC eighth edition lung cancer staging&#xD;
+             standards).&#xD;
+&#xD;
+          3. Tumor tissue samples or blood samples are confirmed to be EGFR sensitive mutations&#xD;
+             (including exon 19 deletion or L858R, both alone or coexist with other EGFR&#xD;
+             mutations). Tumor tissue is the first choice for examination; if the tumor tissue is&#xD;
+             not accessible or the patient cannot accept a tissue biopsy, a blood sample can be&#xD;
+             sent.&#xD;
+&#xD;
+          4. Have not received any systemic treatment. For patients who have received local&#xD;
+             treatment, the lesion within the scope of the local treatment cannot be used as the&#xD;
+             target lesion unless the lesion has progressed.&#xD;
+&#xD;
+          5. According to RECIST1.1, the patient has at least one intracranial target lesion and&#xD;
+             one extracranial target lesion. The requirements for target lesions are: measurable&#xD;
+             lesions that have not undergone local treatment such as irradiation or have clearly&#xD;
+             progressed after local treatment, with the longest diameter at baseline ≥10 mm (if it&#xD;
+             is a lymph node, the maximum short diameter is required to be ≥15 mm).&#xD;
+&#xD;
+          6. The brain condition is stable for at least 2 weeks before the study drug treatment,&#xD;
+             without any systemic (oral or parenteral) corticosteroid or anticonvulsant drug&#xD;
+             treatment. Non-absorbable corticosteroids can be used locally and inhaled according to&#xD;
+             the indications.&#xD;
+&#xD;
+          7. The Eastern Cooperative Oncology Group (ECOG) physical status score is 0 or 1, and has&#xD;
+             not deteriorated at least 2 weeks before the study drug treatment, and the expected&#xD;
+             survival period is not less than 12 weeks.&#xD;
+&#xD;
+          8. Female patients of childbearing age are willing to take appropriate contraceptive&#xD;
+             measures and should not breastfeed from signing the informed consent to 6 months after&#xD;
+             the last study drug treatment; male patients are willing to take appropriate&#xD;
+             contraceptive measures from signing the informed consent to 6 months after the last&#xD;
+             study drug treatment Use barrier contraception (ie condoms).&#xD;
+&#xD;
+          9. Female patients of childbearing age must have a negative serum or urine HCG test&#xD;
+             within 7 days before enrollment in the study, and they must be non-lactating.&#xD;
+&#xD;
+         10. The subject voluntarily participated and signed an informed consent form in writing.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Treatment with any of the following:&#xD;
+&#xD;
+               1. Previously received EGFR tyrosine kinase inhibitor (EGFR-TKI) treatment (such as&#xD;
+                  erlotinib, gefitinib, icotinib, afatinib, osimertinib, and almonertinib, etc.) );&#xD;
+&#xD;
+               2. Within 4 weeks before the first administration of the study drug, the patient has&#xD;
+                  undergone major surgery (such as craniotomy, thoracotomy, or laparotomy, etc.),&#xD;
+                  or underwent minor traumatic surgery (biopsy, bronchoscopy, and Thoracic&#xD;
+                  drainage). The definition of major surgery refers to the level 3 and level 4&#xD;
+                  surgery specified in the &quot;Administrative Measures for the Clinical Application of&#xD;
+                  Medical Technology&quot; in Appendix H, which was implemented on November 1, 2018;&#xD;
+&#xD;
+               3. Except for patients who have received local radiotherapy (palliative bone&#xD;
+                  radiotherapy for non-target lesions) within 2 weeks before the first&#xD;
+                  administration of the study drug; within 4 weeks before the first administration&#xD;
+                  of the study drug, more than 30% of the bone marrow has been irradiated&#xD;
+                  (calculated area of the bone marrow) See Annex I), or received extensive&#xD;
+                  radiotherapy; received whole brain radiotherapy due to this disease before&#xD;
+                  enrollment;&#xD;
+&#xD;
+               4. Recurrence within 6 months after adjuvant or neoadjuvant treatment for early lung&#xD;
+                  cancer; if there is both neoadjuvant therapy and adjuvant therapy, the adjuvant&#xD;
+                  treatment time will be calculated;&#xD;
+&#xD;
+               5. Within 14 days before the first administration of the research drug, Chinese&#xD;
+                  medicines and preparations with anti-tumor therapy or anti-tumor adjuvant therapy&#xD;
+                  have been used (see Appendix E for the list of drugs);&#xD;
+&#xD;
+               6. There is pleural effusion/peritoneal effusion that requires clinical intervention&#xD;
+                  (patients who do not need to drain the effusion or who are stable for 2 weeks or&#xD;
+                  more can be included in the group); there is pericardial effusion (a small amount&#xD;
+                  of pericardium that is stable for 2 weeks or more) Fluid effusion is allowed to&#xD;
+                  enter the group). If anti-tumor drugs have been used locally (such as chest&#xD;
+                  cavity perfusion) during drainage, at least 5 drug half-lives or 21 days&#xD;
+                  (whichever is shorter) must be eluted before the first administration of the&#xD;
+                  study treatment before they can be included in the group;&#xD;
+&#xD;
+               7. Within 7 days before the first administration of the study drug, have used CYP3A4&#xD;
+                  strong inhibitors, strong inducers, or narrow therapeutic window drugs with&#xD;
+                  sensitive substrates, or need to continue to receive these drugs during the study&#xD;
+                  period (see Appendix E for the list of drugs);&#xD;
+&#xD;
+               8. Are receiving drugs that are known to prolong the QT interval or may cause&#xD;
+                  torsades de pointes, or need to continue to receive these drugs during the study&#xD;
+                  period (see Appendix E for the drug list and washout time);&#xD;
+&#xD;
+               9. The 5 half-lives of the study drug that participates in other clinical trials as&#xD;
+                  a subject or is still in other clinical trials within 4 weeks before the first&#xD;
+                  administration of the study drug, whichever is longer (except for screening&#xD;
+                  failure).&#xD;
+&#xD;
+          2. Mixed SCLC and mixed NSCLC, large cell neuroendocrine carcinoma and sarcomatoid&#xD;
+             carcinoma confirmed by histology or cytology.&#xD;
+&#xD;
+          3. At the beginning of the study drug treatment, those with unresolved residual toxicity&#xD;
+             from previous anti-tumor therapy greater than CTCAE level 1, except for hair loss and&#xD;
+             level 2 neurotoxicity caused by previous anti-tumor. In the past, intracranial&#xD;
+             hemorrhage unrelated to the tumor occurred.&#xD;
+&#xD;
+          4. History of other primary malignant tumors, except for the following:&#xD;
+&#xD;
+               1. Malignant tumors that have been cured, have no activity for ≥5 years and have a&#xD;
+                  very low risk of recurrence before being selected for the study;&#xD;
+&#xD;
+               2. Non-melanoma skin cancer or malignant freckle-like nevus that has been adequately&#xD;
+                  treated and has no evidence of disease recurrence;&#xD;
+&#xD;
+               3. Carcinoma in situ with adequate treatment and no evidence of disease recurrence.&#xD;
+&#xD;
+          5. Diagnosis of meningeal metastasis through clinical symptoms or imaging or&#xD;
+             cerebrospinal fluid, or brain parenchymal metastasis combined with meningeal&#xD;
+             metastasis.&#xD;
+&#xD;
+          6. Patients who are allergic to MRI contrast agent gadolinium or who cannot tolerate MRI&#xD;
+             examinations (such as pacemakers, metals in the body, etc.).&#xD;
+&#xD;
+          7. As judged by the investigator, there are any serious or poorly controlled systemic&#xD;
+             diseases, such as poorly controlled hypertension, active bleeding-prone constitution,&#xD;
+             or active infection. No need to check for chronic diseases.&#xD;
+&#xD;
+          8. Clinically serious abnormal gastrointestinal function, which may affect the intake,&#xD;
+             transport or absorption of drugs, such as inability to take drugs orally,&#xD;
+             uncontrollable nausea or vomiting, history of extensive gastrointestinal resection,&#xD;
+             uncured recurrent diarrhea, atrophy Gastritis, uncured gastric diseases that require&#xD;
+             proton pump inhibitors for a long time, Crohn's disease, ulcerative colitis, etc.&#xD;
+&#xD;
+          9. Hepatic encephalopathy, hepatorenal syndrome or cirrhosis.&#xD;
+&#xD;
+         10. Meet any of the following cardiac examination results:&#xD;
+&#xD;
+               1. The average value of QT interval (QTcF) corrected by Fridericia's formula&#xD;
+                  obtained from 3 ECG examinations at rest&gt; 470 msec;&#xD;
+&#xD;
+               2. Resting ECG suggests that there are various clinically significant rhythms,&#xD;
+                  conduction or ECG morphological abnormalities that are judged by the investigator&#xD;
+                  (such as complete left bundle branch block, 3 degree atrioventricular block, 2&#xD;
+                  degree atrium Ventricular block and PR interval&gt; 250 msec, etc.);&#xD;
+&#xD;
+               3. There are any factors that increase the risk of QTc prolongation or arrhythmia&#xD;
+                  events, such as heart failure, hypokalemia, congenital long QT syndrome, family&#xD;
+                  history of long QT syndrome, or unexplained sudden death or prolonged QT of&#xD;
+                  immediate family members under 40 Any concomitant drugs in the interval;&#xD;
+&#xD;
+               4. Left ventricular ejection fraction (LVEF) &lt;50%.&#xD;
+&#xD;
+         11. Insufficient bone marrow reserve or organ function, reaching any one of the following&#xD;
+             laboratory limits (no corrective treatment within 1 week before laboratory examination&#xD;
+             of blood draw):&#xD;
+&#xD;
+               1. Absolute neutrophil count &lt;1.5×109 / L;&#xD;
+&#xD;
+               2. Platelet count &lt;100×109 / L;&#xD;
+&#xD;
+               3. Hemoglobin &lt;90 g/L (&lt;9 g/dL);&#xD;
+&#xD;
+               4. If there is no clear liver metastasis, alanine aminotransferase&gt; 2.5 times the&#xD;
+                  upper limit of normal (ULN); if there is liver metastasis, alanine&#xD;
+                  aminotransferase&gt; 5×ULN;&#xD;
+&#xD;
+               5. If there is no clear liver metastasis, aspartate aminotransferase&gt; 2.5×ULN; if&#xD;
+                  there is liver metastasis, aspartate aminotransferase&gt; 5×ULN;&#xD;
+&#xD;
+               6. If there is no clear liver metastasis, total bilirubin&gt; 1.5×ULN; or Gilbert&#xD;
+                  syndrome (unconjugated hyperbilirubinemia) or liver metastasis, total bilirubin&gt;&#xD;
+                  3×ULN;&#xD;
+&#xD;
+               7. Creatinine&gt;1.5×ULN and creatinine clearance rate&lt;50 mL/min (calculated by&#xD;
+                  Cockcroft-Gault formula); Only when creatinine&gt;1.5×ULN, creatinine clearance rate&#xD;
+                  needs to be confirmed;&#xD;
+&#xD;
+               8. Serum albumin (ALB) &lt;28 g/L;&#xD;
+&#xD;
+         12. Active fungal, bacterial and/or viral infections requiring systemic treatment.&#xD;
+&#xD;
+         13. Female subjects who are pregnant, lactating, or planning to become pregnant during the&#xD;
+             study period.&#xD;
+&#xD;
+         14. A history of interstitial lung disease, a history of drug-induced interstitial lung&#xD;
+             disease, a history of radiation pneumonitis requiring steroid therapy, or any evidence&#xD;
+             of clinically active interstitial lung disease.&#xD;
+&#xD;
+         15. Have a history of hypersensitivity to any active or inactive ingredients of&#xD;
+             almonertinib or to drugs with similar chemical structure to almonertinib or the same&#xD;
+             class of almonertinib.&#xD;
+&#xD;
+         16. Any serious or uncontrolled eye disease (especially severe dry eye syndrome, dry&#xD;
+             keratoconjunctivitis, severe exposure keratitis or other diseases that may increase&#xD;
+             epithelial damage) may increase the safety of the patient by the doctor's judgment&#xD;
+             Sexual risk; or those with eye abnormalities that require surgery or are expected to&#xD;
+             require surgical treatment during the study period.&#xD;
+&#xD;
+         17. Patients who may have poor compliance with the procedures and requirements of the&#xD;
+             study as judged by the investigator, such as patients who have a clear history of&#xD;
+             neurological or mental disorders (including epilepsy or dementia), and currently&#xD;
+             suffer from mental disorders.&#xD;
+&#xD;
+         18. The investigator judges that there are any patients with conditions that endanger the&#xD;
+             safety of the patient or interfere with the evaluation of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Qin Li Lu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Zhejiang Provincial People's Hospital，Hangzhou, China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jun Chen</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ningbo Yinzhou People's Hospital，Ningbo, China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ping Yu Li</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The First Affiliated Hospital of Wenzhou Medical University，Wenzhou，China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Fei J Zhu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Taizhou Central Hospital，Taizhou，China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Bin Wang</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Huzhou Central Hospital，Taizhou，China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Wu G Wu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Meizhou People's Hospital，Meizhou，China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rong R Zhou</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Xiangya Hospital of Central South University，Changsha，China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yan X Lin</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Union Hospital Affiliated to Fujian Medical University，Fujian，China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yan Yu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Heilongjiang Cancer Hospital，Heilongjiang，China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jun G Zhang</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The First Affiliated Hospital of Zhengzhou University，Zhengzhou,China</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Qiu Y Zhao</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Henan Cancer Hospital，Henan，China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>YUN FAN, doctor</last_name>
+    <phone>86-13858182310</phone>
+    <email>fanyun@zjcc.org.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cancer Hospital Affiliated to University of Chinese Academy of Sciences</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>YUN FAN, doctor</last_name>
+      <phone>86-13858182310</phone>
+      <email>fanyun@zjcc.org.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 22, 2021</study_first_posted>
+  <last_update_submitted>March 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>almonertinib</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

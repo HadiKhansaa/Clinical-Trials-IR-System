@@ -1,0 +1,233 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001579</url>
+  </required_header>
+  <id_info>
+    <org_study_id>970136</org_study_id>
+    <secondary_id>97-C-0136</secondary_id>
+    <nct_id>NCT00001579</nct_id>
+  </id_info>
+  <brief_title>A Phase I Trial of 5-Fluorouracil Given With 776C85 (GW776) and Low-Dose Leucovorin in Adult Patients With Solid Tumors</brief_title>
+  <official_title>A Phase I Trial of 5-Fluorouracil Given With 776C85 (GW776) and Low-Dose Leucovorin in Adult Patients With Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      This is a dose escalation study.&#xD;
+&#xD;
+      During the first period of this study, an initial pharmacological assessment of fluorouracil&#xD;
+      administered intravenously along with oral leucovorin calcium is made. Leucovorin calcium is&#xD;
+      given orally bid on days 1-3. Fluorouracil is given as a 24 hour infusion on day 2.&#xD;
+&#xD;
+      After a 2 week rest period and resolution of any toxicities experienced during the first&#xD;
+      period of treatment, patients are given an escalating dose of fluorouracil with fixed doses&#xD;
+      of leucovorin calcium and ethynyluracil. Ethynyluracil and leucovorin calcium are given bid&#xD;
+      orally on days 1-3 of each week. Fluorouracil is given bid orally on day 2 of each week.&#xD;
+      Treatment is repeated for three weeks followed by a one week rest period.&#xD;
+&#xD;
+      3 to 6 patients are enrolled at each dose level. Dose escalation proceeds until the maximum&#xD;
+      tolerated dose (MTD) is determined. MTD is defined as the dose preceding that at which 2 or&#xD;
+      more patients experience dose limiting toxicity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary purpose of this Phase I protocol is to develop an orally administered regimen of&#xD;
+      fluorouracil (5-FU) given with fixed doses of leucovorin (LV) and 776C85 (GW776), a&#xD;
+      mechanism-based inhibitor of dihydropyrimidine dehydrogenase (DPD), the rate-limiting enzyme&#xD;
+      involved in the catabolism of 5-FU. In the presence of 776C85, 5-FU is cleared by renal&#xD;
+      mechanisms. The schedule employed is intended to mimic the pharmacologic profile associated&#xD;
+      with a 24 hour weekly continuous infusion of 5-FU without the need for an indwelling central&#xD;
+      venous catheter. The target population is adult cancer patients with solid tumors.&#xD;
+&#xD;
+      The first week, each patient will receive a single dose of 5-FU given by 24 hour continuous&#xD;
+      IV infusion at its recommended Phase II dose with low-dose oral LV. In the third week, the&#xD;
+      patient will begin 776C85 (GW776) and LV PO on days 1, 2, 3 at fixed doses. Oral 5-FU will be&#xD;
+      given on day 2, and the dose will be escalated in successive cohorts of patients. Treatment&#xD;
+      will be repeated weekly for three weeks, followed by a one week break. The dose of 5-FU will&#xD;
+      be adjusted according to individual tolerance. Cohorts of three patients will be entered at&#xD;
+      each dose level of 5-FU, which will be escalated until dose-limiting toxicity is seen&#xD;
+      (guidelines are outlined in the following schema). Treatment will be continued indefinitely&#xD;
+      until evidence of disease progression, provided the patient is tolerating therapy and wishes&#xD;
+      to continue.&#xD;
+&#xD;
+      Biochemical monitoring suggests that there is profound and sustained inhibition of DPD with a&#xD;
+      single dose of 20 mg PO 776C85 days 1-3 each week for three of four weeks. Once the MTD has&#xD;
+      been defined for the once daily dosing on days 1, 2, 3 schedule, a simplified schedule will&#xD;
+      be evaluated in which a single dose of 776C85 on day 1 in the evening, with oral leucovorin&#xD;
+      days 1 and 2, and 5-FU given day 2 as a single dose.&#xD;
+&#xD;
+      Since the pharmaceutical company has decided to go with a combined tablet of eniluracil/5-FU&#xD;
+      for future studies, the new schedule will be oral leucovorin on days 1 &amp; 2, with 776C85 and&#xD;
+      5-FU both given day 2 as a single dose.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1997</start_date>
+  <completion_date>March 2001</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment>50</enrollment>
+  <condition>Lymphoma</condition>
+  <condition>Neoplasms</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>5-Fluorouracil</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ethynyluracil</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Leucovorin</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+        Histologically proven solid tumor that has failed standard therapy or for which no such&#xD;
+        therapy exists.&#xD;
+&#xD;
+        Tumor may be locally advanced and unresectable, recurrent and/or metastatic.&#xD;
+&#xD;
+        Lymphomas with minimal or no involvement of bone marrow are also eligible.&#xD;
+&#xD;
+        No primary malignancies or metastatic disease of the CNS.&#xD;
+&#xD;
+        No symptomatic pre-existing peripheral neuropathy.&#xD;
+&#xD;
+        PRIOR/CURRENT THERAPY:&#xD;
+&#xD;
+        BIOLOGIC THERAPY:&#xD;
+&#xD;
+        No immunotherapy within past 4 weeks.&#xD;
+&#xD;
+        Recovered from toxic effects.&#xD;
+&#xD;
+        CHEMOTHERAPY:&#xD;
+&#xD;
+        No chemotherapy within past 4 weeks (6 weeks for nitrosoureas).&#xD;
+&#xD;
+        No mitomycin within past 12 weeks.&#xD;
+&#xD;
+        Recovered from toxic effects.&#xD;
+&#xD;
+        ENDOCRINE THERAPY: Not specified.&#xD;
+&#xD;
+        RADIOTHERAPY:&#xD;
+&#xD;
+        No radiotherapy within past 2 weeks (8 weeks for strontium therapy).&#xD;
+&#xD;
+        Recovered from toxic effects.&#xD;
+&#xD;
+        SURGERY: Recovered from prior surgery.&#xD;
+&#xD;
+        OTHER: No concurrent cimetidine.&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        AGE: 18 and over.&#xD;
+&#xD;
+        PERFORMANCE STATUS: ECOG 0-2.&#xD;
+&#xD;
+        LIFE EXPECTANCY: Not specified.&#xD;
+&#xD;
+        HEMATOPOIETIC:&#xD;
+&#xD;
+        Absolute granulocyte count at least 2000/mm(3);&#xD;
+&#xD;
+        Platelet count at least 100,000/mm(3).&#xD;
+&#xD;
+        HEPATIC:&#xD;
+&#xD;
+        Bilirubin no greater than 2 times upper normal limit;&#xD;
+&#xD;
+        SGOT/SGPT no greater than 4 times upper normal limit.&#xD;
+&#xD;
+        RENAL:&#xD;
+&#xD;
+        Creatinine no greater than 1.6 mg/dL;&#xD;
+&#xD;
+        Creatinine clearance greater than 55 mL/min.&#xD;
+&#xD;
+        OTHER:&#xD;
+&#xD;
+        Not pregnant or nursing.&#xD;
+&#xD;
+        Fertile patients must use effective contraception.&#xD;
+&#xD;
+        Not HIV positive.&#xD;
+&#xD;
+        No active infections requiring intravenous antibiotic therapy.&#xD;
+&#xD;
+        No other serious concurrent illness.&#xD;
+&#xD;
+        No evidence of hemolytic uremic syndrome.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>National Cancer Institute (NCI)</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Evans RM, Laskin JD, Hakala MT. Assessment of growth-limiting events caused by 5-fluorouracil in mouse cells and in human cells. Cancer Res. 1980 Nov;40(11):4113-22.</citation>
+    <PMID>6162543</PMID>
+  </reference>
+  <reference>
+    <citation>Spears CP, Shani J, Shahinian AH, Wolf W, Heidelberger C, Danenberg PV. Assay and time course of 5-fluorouracil incorporation into RNA of L1210/0 ascites cells in vivo. Mol Pharmacol. 1985 Feb;27(2):302-7.</citation>
+    <PMID>2578605</PMID>
+  </reference>
+  <reference>
+    <citation>Calabro-Jones PM, Byfield JE, Ward JF, Sharp TR. Time-dose relationships for 5-fluorouracil cytotoxicity against human epithelial cancer cells in vitro. Cancer Res. 1982 Nov;42(11):4413-20.</citation>
+    <PMID>7127282</PMID>
+  </reference>
+  <verification_date>May 2000</verification_date>
+  <study_first_submitted>November 3, 1999</study_first_submitted>
+  <study_first_submitted_qc>December 9, 2002</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 10, 2002</study_first_posted>
+  <last_update_submitted>July 14, 2006</last_update_submitted>
+  <last_update_submitted_qc>July 14, 2006</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 17, 2006</last_update_posted>
+  <keyword>Biochemical Modulation</keyword>
+  <keyword>Dihydropyrimidine Dehydrogenase</keyword>
+  <keyword>Oral Administration</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leucovorin</mesh_term>
+    <mesh_term>Fluorouracil</mesh_term>
+    <mesh_term>Eniluracil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

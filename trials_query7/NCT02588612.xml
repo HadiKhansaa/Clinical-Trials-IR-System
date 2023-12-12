@@ -1,0 +1,303 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02588612</url>
+  </required_header>
+  <id_info>
+    <org_study_id>208749</org_study_id>
+    <secondary_id>ADP-0011-004</secondary_id>
+    <secondary_id>2016-002517-21</secondary_id>
+    <nct_id>NCT02588612</nct_id>
+  </id_info>
+  <brief_title>Letetresgene Autoleucel Engineered T Cells in NY-ESO -1 Positive Advanced Non-Small Cell Lung Cancer (NSCLC)</brief_title>
+  <official_title>A Pilot Open-Label Clinical Trial Evaluating the Safety and Efficacy of Autologous T Cells Expressing Enhanced TCRs Specific for NY-ESO-1 in Subjects With Stage IIIb or Stage IV Non-Small Cell Lung Cancer (NSCLC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial will evaluate safety and efficacy of letetresgene autoleucel (GSK3377794) in&#xD;
+      participants with metastatic NSCLC.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      New York esophageal antigen-1 (NY-ESO-1) and L antigen family member (LAGE)-1a antigens are&#xD;
+      tumor-associated proteins that have been found in several tumor types. Clinical trials using&#xD;
+      adoptively transferred T-cells directed against NY-ESO-1/LAGE-1a have shown objective&#xD;
+      responses. Letetresgene autoleucel (GSK3377794) is the first generation of NY-ESO-1 specific&#xD;
+      T-cell receptor engineered TCR T-cells. This protocol investigates letetresgene autoleucel&#xD;
+      treatment in Human Leukocyte Antigen (HLA)*-A*02+ participants with NY-ESO1+ advanced&#xD;
+      metastatic non-small cell lung cancer as second line treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 1, 2016</start_date>
+  <completion_date type="Actual">August 17, 2020</completion_date>
+  <primary_completion_date type="Actual">August 17, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with adverse events (AE), including serious adverse events (SAE)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>All AEs and SAEs will be collected.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal laboratory parameters</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Blood samples will be collected for the assessment of hematology, chemistry and coagulation parameters.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal electrocardiogram (ECG) findings</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Number of participants with abnormal ECG parameters will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal pulse oximetry findings</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Number of participants with abnormal pulse oximetry findings will be assessed.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response rate (ORR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Overall response rate is defined as the proportion of participants with a confirmed complete response (CR) or partial response (PR) based on Response Evaluation Criteria in Solid Tumors (RECIST) version (v)1.1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response (TTR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Time to Response is defined as the time from date of T-cell infusion dose and the first documented evidence of response (CR or PR) in the subset of participants with a confirmed PR or CR as the best overall response (BOR) as assessed by the RECIST 1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Duration of response is defined as the time from first documented evidence of CR or PR until first documented disease progression or death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate (DCR)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Disease control rate is defined as the percentage of participants with a confirmed stable disease (SD) or better as the BOR (PR, CR, or SD more than or equal to [&gt;=]12 weeks).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival (PFS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <description>Progression free survival is defined as the time from the date of T-cell infusion until the earliest date of disease progression or death due to any cause.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">10</enrollment>
+  <condition>Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>letetresgene autoleucel (GSK3377794)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible participants will be leukapheresed to manufacture engineered T-cells. Participants will then receive letetresgene autoleucel (GSK3377794), as a single intravenous (IV) infusion after completing lymphodepleting chemotherapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>letetresgene autoleucel (GSK3377794)</intervention_name>
+    <description>letetresgene autoleucel (GSK3377794) as an IV infusion.</description>
+    <arm_group_label>letetresgene autoleucel (GSK3377794)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Cyclophosphamide will be used as a lymphodepleting chemotherapy.</description>
+    <arm_group_label>letetresgene autoleucel (GSK3377794)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludarabine</intervention_name>
+    <description>Fludarabine will be used as a lymphodepleting chemotherapy.</description>
+    <arm_group_label>letetresgene autoleucel (GSK3377794)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant is &gt;=18 years of age on the day of signing informed consent.&#xD;
+&#xD;
+          -  Participant has a diagnosis of histologically or cytologically confirmed advanced&#xD;
+             non-small cell lung cancer (Stage IIIB or IV) or recurrent disease.&#xD;
+&#xD;
+          -  Participants with known epidermal growth factor receptor (EGFR) mutations or&#xD;
+             Anaplastic lymphoma kinase receptor (ALK) or ROS1 gene rearrangements must have failed&#xD;
+             (disease progression [PD] or unacceptable toxicity) prior EGFR or ALK or ROS1 tyrosine&#xD;
+             kinase inhibitor, respectively (PD or unacceptable toxicity). There is no limit to&#xD;
+             lines of prior anti-cancer therapy.&#xD;
+&#xD;
+          -  Participant has measurable disease according RECIST v1.1 criteria.&#xD;
+&#xD;
+          -  Participant is HLA-A*02:01, HLA-A*02:05 and/or HLA-A*02:06 positive.&#xD;
+&#xD;
+          -  Participant's tumor is positive for NYESO and/or LAGE-1a expression by a designated&#xD;
+             central laboratory.&#xD;
+&#xD;
+          -  Participant has Eastern Cooperative Oncology Group (ECOG) Performance Status 0-1.&#xD;
+&#xD;
+          -  Participant has an anticipated life expectancy &gt;3 months.&#xD;
+&#xD;
+          -  Participant has left ventricular ejection fraction &gt;=50 percent(%).&#xD;
+&#xD;
+          -  Participant is fit for leukapheresis and has adequate venous access for the cell&#xD;
+             collection.&#xD;
+&#xD;
+          -  Male or Female. Contraceptive use by men or women should be consistent with local&#xD;
+             regulations regarding the methods of contraception for those participating in clinical&#xD;
+             studies.&#xD;
+&#xD;
+          -  Participant must have adequate organ function.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current active liver or biliary disease (with the exception of Gilbert's syndrome or&#xD;
+             asymptomatic gallstones, liver metastases or otherwise stable chronic liver disease&#xD;
+             per Investigator assessment).&#xD;
+&#xD;
+          -  Washout periods for prior radiotherapy and chemotherapy and other systemic therapy&#xD;
+             must be followed.&#xD;
+&#xD;
+          -  Experimental anti-cancer vaccine within 2 months prior to leukapheresis in the absence&#xD;
+             of response or in the opinion of the Investigator is responding to an experimental&#xD;
+             vaccine given within 6 months prior to leukapheresis.&#xD;
+&#xD;
+          -  Any prior gene therapy using an integrating vector.&#xD;
+&#xD;
+          -  Toxicity from previous anti-cancer therapy that has not recovered to less than or&#xD;
+             equal to (&lt;=)Grade 1 prior to enrollment (with exceptions).&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to cyclophosphamide, fludarabine, or other agents used in the study.&#xD;
+&#xD;
+          -  Central nervous system (CNS) metastases.&#xD;
+&#xD;
+          -  Active brain metastases or leptomeningeal metastases.&#xD;
+&#xD;
+          -  History of chronic or recurrent (within the last year prior to enrollment) severe&#xD;
+             autoimmune or active immune-mediated disease requiring steroids or other&#xD;
+             immunosuppressive treatments.&#xD;
+&#xD;
+          -  Other active malignancies besides NSCLC within 3 years prior to Screening not in&#xD;
+             complete remission.&#xD;
+&#xD;
+          -  Unintended weight loss &gt;10% in 6 months preceding study entry.&#xD;
+&#xD;
+          -  Corrected QT interval (QTc) &gt;450 milliseconds (msec) or QTc &gt;480 msec for participants&#xD;
+             with Bundle Branch Block (BBB).&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness.&#xD;
+&#xD;
+          -  Participants who in the opinion of the Investigator will be unlikely to fully comply&#xD;
+             with protocol requirements.&#xD;
+&#xD;
+          -  Active infection with human immunodeficiency virus (HIV), hepatitis B virus (HBV),&#xD;
+             hepatitis C virus (HCV) or human T-cell lymphotropic virus (HTLV).&#xD;
+&#xD;
+          -  Participant is pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Major surgery within 4 weeks prior to lymphodepleting chemotherapy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 26, 2015</study_first_submitted>
+  <study_first_submitted_qc>October 26, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 28, 2015</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Letetresgene autoleucel</keyword>
+  <keyword>Adoptive TCR T-cell therapy</keyword>
+  <keyword>NY-ESO-1</keyword>
+  <keyword>T Cell Receptor</keyword>
+  <keyword>Non-Small Cell Lung Cancer</keyword>
+  <keyword>Leukapheresis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>IPD for this study will be made available via the Clinical Study Data Request site.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>IPD will be made available within 6 months of publishing the results of the primary endpoints, key secondary endpoints and safety data of the study.</ipd_time_frame>
+    <ipd_access_criteria>Access is provided after a research proposal is submitted and has received approval from the Independent Review Panel and after a Data Sharing Agreement is in place. Access is provided for an initial period of 12 months but an extension can be granted, when justified, for up to another 12 months.</ipd_access_criteria>
+    <ipd_url>http://clinicalstudydatarequest.com</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,467 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03681015</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WPD-01</org_study_id>
+    <nct_id>NCT03681015</nct_id>
+  </id_info>
+  <brief_title>Wearable Assessments in the Clinic and Home in PD</brief_title>
+  <acronym>WATCH-PD</acronym>
+  <official_title>A Multicenter, Prospective, Longitudinal, Digital Assessment Study of Disease Progression in Subjects With Early, Untreated Parkinson Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Rochester</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Biogen</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Takeda</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Rochester</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate disease progression in persons with early Parkinson&#xD;
+      disease, as assessed by digital and electronic sensor data collection to be correlated with&#xD;
+      typical clinical assessments.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects will be evaluated via both in-clinic and at-home assessments. The in-clinic&#xD;
+      assessments are designed to compare the ability of current Parkinson disease clinical trial&#xD;
+      measures with the ability of mobile and wearable devices to detect disease progression in the&#xD;
+      early stage of disease. The at-home assessments are designed to determine the feasibility of&#xD;
+      motor and non-motor assessments of disease progression using a commercially available&#xD;
+      wearable device/mobile application platform and to determine how this data compares with&#xD;
+      traditional clinical measures.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 24, 2019</start_date>
+  <completion_date type="Anticipated">May 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change and variability in inertial sensor-derived measures of motor function from baseline to 12 months during performance of the MDS-UPDRS part 3 motor exam.</measure>
+    <time_frame>12 months</time_frame>
+    <description>Features will be extracted from continuous accelerometer and gyroscope signals, obtained via a set of body-worn inertial sensors, during performance of the MDS-UPDRS part 3, and the change and variability of these features will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlations between inertial sensor-derived measures of motor function and clinician ratings during performance of the MDS-UPDRS part 3 and total exam at baseline, 1, 3, 6, 9, and 12 months.</measure>
+    <time_frame>12 months</time_frame>
+    <description>Features extracted from continuous accelerometer and gyroscope signals recorded during each relevant component of the UPDRS part 3 will be correlated with corresponding clinician ratings to quantify the relationship between these measures.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between sensor-derived measures of motor function (accelerometer, gyroscope) and patient-reported outcomes measured by MDS-UPDRS parts 1b and 2 at baseline, 1, 3, 6, 9, and 12 months.</measure>
+    <time_frame>12 months</time_frame>
+    <description>Features extracted from continuous accelerometer and gyroscope signals, recorded during the UPDRS part 3 will be correlated with scores on the UPDRS 1b and 2 subtests to examine how sensor-derived measures relate to patient reported activities of daily living and quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between sensor-derived measures of motor function (accelerometer, gyroscope) and patient-reported outcomes measured by PDQ-8 at baseline, 1, 3, 6, 9, and 12 months.</measure>
+    <time_frame>12 months</time_frame>
+    <description>Features extracted from continuous accelerometer and gyroscope signals, recorded during the UPDRS part 3 will be correlated with scores on the PDQ-8 to examine how sensor-derived measures relate to patient reported quality of life.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">135</enrollment>
+  <condition>Parkinson Disease</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 - Parkinson's Disease Participants</arm_group_label>
+    <description>Volunteers will be women and men with early, untreated Parkinson disease.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 - Control Participants</arm_group_label>
+    <description>Participants will be women and men without PD.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Cohort 1 (PD Participants): Male and female subjects with early, untreated Parkinson's&#xD;
+        disease, aged 30 years or older at time of disease diagnosis&#xD;
+&#xD;
+        Cohort 2 (Control Participants): Male and female subjects without Parkinson's disease, aged&#xD;
+        30 years or older.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Cohort 1 (PD Participants) Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to give written informed consent, as determined by the investigator.&#xD;
+&#xD;
+          2. Subjects must have at least two of the following: resting tremor, bradykinesia,&#xD;
+             rigidity (must have either resting tremor or bradykinesia as one of two symptoms); OR&#xD;
+             either asymmetric resting tremor or asymmetric bradykinesia.&#xD;
+&#xD;
+          3. Screening dopamine transporter (DAT) SPECT scan is consistent with dopamine&#xD;
+             transporter deficit.&#xD;
+&#xD;
+          4. A diagnosis of Parkinson disease for 2 years or less at screening.&#xD;
+&#xD;
+          5. Modified Hoehn and Yahr stage &lt;=II at screening.&#xD;
+&#xD;
+          6. Not expected to require PD medication for at least 6 months from baseline (includes&#xD;
+             dopaminergics, MAO-B inhibitors, and anti-cholinergics used to treat PD-related&#xD;
+             symptoms).&#xD;
+&#xD;
+          7. Male or female age 30 years or older at time of PD diagnosis.&#xD;
+&#xD;
+          8. Female subjects of childbearing potential must agree to be using highly effective&#xD;
+             contraception within 30 days prior to DaTscan (e.g., oral contraceptives, a barrier&#xD;
+             method of birth control (e.g., condoms with contraceptive foam, diaphragm with&#xD;
+             contraceptive jelly), intrauterine device, partner with vasectomy or sexual&#xD;
+             abstinence).&#xD;
+&#xD;
+          9. Male subjects who are fertile and have a partner of childbearing potential must agree&#xD;
+             to use reliable contraception for 14 days following the administration of DaTscanTM&#xD;
+             (e.g., condoms with contraceptive foam or sexual abstinence).&#xD;
+&#xD;
+         10. Fluent in English and able to read.&#xD;
+&#xD;
+         11. Able to perform all study activities (including walking tasks and timed up and go)&#xD;
+&#xD;
+         12. Willingness and ability to comply with study requirements.&#xD;
+&#xD;
+        Cohort 1 (PD Participants) Exclusion Criteria&#xD;
+&#xD;
+          1. A diagnosis of atypical parkinsonism, drug-induced parkinsonism, essential tremor,&#xD;
+             primary dystonia or other diagnoses that explain symptoms other than PD.&#xD;
+&#xD;
+          2. History of PD-related freezing episodes or falls.&#xD;
+&#xD;
+          3. A diagnosis of a significant CNS disease other than PD; history of repeated head&#xD;
+             injury; history of epilepsy or seizure disorder other than febrile seizures as a child&#xD;
+             that would interfere with ability to perform study assessments.&#xD;
+&#xD;
+          4. History of a brain magnetic resonance imaging (MRI) scan indicative of clinically&#xD;
+             significant abnormality as determined by the investigator.&#xD;
+&#xD;
+          5. Concomitant disease, condition, medication, or laboratory abnormality that, in the&#xD;
+             opinion of the investigator, could interfere with study conduct or analysis, or pose&#xD;
+             an unacceptable risk to the participant. This could include neurologic, orthopedic or&#xD;
+             cardiovascular diseases.&#xD;
+&#xD;
+          6. Has taken levodopa, dopamine agonists, MAO B inhibitors, amantadine, anticholinergics&#xD;
+             or other medication for the treatment of PD or tremor within 60 days prior to&#xD;
+             baseline, or for more than a total of 60 days.&#xD;
+&#xD;
+          7. Is taking medication for the treatment of tremor at the baseline visit. If taking&#xD;
+             medication for tremor at the screening visit, this medication must be stopped at least&#xD;
+             14 days prior to baseline. If taking a tremor medication for another indication (e.g.&#xD;
+&#xD;
+             hypertension, neuropathy), the medication can be continued during the study.&#xD;
+&#xD;
+          8. For subjects taking any drugs that might interfere with dopamine transporter SPECT&#xD;
+             imaging (modafinil, bupropion, methylphenidate, neuroleptics, metoclopramide, alpha&#xD;
+             methyldopa, reserpine, or amphetamine derivative) must be willing and able from a&#xD;
+             medical standpoint to withhold the medication for at least 14 days prior to screening&#xD;
+             DaTscan imaging.&#xD;
+&#xD;
+          9. Montreal Cognitive Assessment (MoCA) score &lt; 24 at screening.&#xD;
+&#xD;
+         10. Is pregnant (or is planning to become pregnant during the study period) or lactating&#xD;
+             (includes a negative urine (or serum if required by site) pregnancy test on day of&#xD;
+             screening scan prior to injection of DaTscanTM&#xD;
+&#xD;
+         11. Known hypersensitivity to DaTscanTM or any of its excipients&#xD;
+&#xD;
+         12. Body habitus that would impede completion of DaTscanTM (subject weight above 158 kg&#xD;
+             should be discussed with the Clinical Monitor)&#xD;
+&#xD;
+         13. Resides in a nursing home or assisted care facility.&#xD;
+&#xD;
+         14. Use of investigational drugs (other than imaging agents) or devices (other than&#xD;
+             mobile/wearable devices used in this study) within 60 days or 5 half-lives of study&#xD;
+             agent prior to baseline and during the study period.&#xD;
+&#xD;
+        Cohort 2 (Control Participants) Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to give written informed consent, as determined by the investigator.&#xD;
+&#xD;
+          2. Male or female age 30 years or older at time of PD diagnosis.&#xD;
+&#xD;
+          3. Fluent in English and able to read.&#xD;
+&#xD;
+          4. Able to perform all study activities (including walking tasks and timed up and go)&#xD;
+&#xD;
+          5. Willingness and ability to comply with study requirements.&#xD;
+&#xD;
+        Cohort 2 (Control Participants) Exclusion Criteria:&#xD;
+&#xD;
+          1. A diagnosis of atypical parkinsonism, drug-induced parkinsonism, essential tremor,&#xD;
+             primary dystonia or other diagnoses that explain symptoms other than PD.&#xD;
+&#xD;
+          2. History of PD-related freezing episodes or falls.&#xD;
+&#xD;
+          3. A diagnosis of a significant CNS disease other than PD; history of repeated head&#xD;
+             injury; history of epilepsy or seizure disorder other than febrile seizures as a child&#xD;
+             that would interfere with ability to perform study assessments.&#xD;
+&#xD;
+          4. History of a brain magnetic resonance imaging (MRI) scan indicative of clinically&#xD;
+             significant abnormality as determined by the investigator.&#xD;
+&#xD;
+          5. Concomitant disease, condition, medication, or laboratory abnormality that, in the&#xD;
+             opinion of the investigator, could interfere with study conduct or analysis, or pose&#xD;
+             an unacceptable risk to the participant. This could include neurologic, orthopedic or&#xD;
+             cardiovascular diseases.&#xD;
+&#xD;
+          6. Has taken levodopa, dopamine agonists, MAO B inhibitors, amantadine, anticholinergics&#xD;
+             or other medication for the treatment of PD or tremor within 60 days prior to&#xD;
+             baseline, or for more than a total of 60 days.&#xD;
+&#xD;
+          7. Is taking medication for the treatment of tremor at the baseline visit. If taking&#xD;
+             medication for tremor at the screening visit, this medication must be stopped at least&#xD;
+             14 days prior to baseline. If taking a tremor medication for another indication (e.g.&#xD;
+             hypertension, neuropathy), the medication can be continued during the study.&#xD;
+&#xD;
+          8. Montreal Cognitive Assessment (MoCA) score &lt; 24 at screening.&#xD;
+&#xD;
+          9. Resides in a nursing home or assisted care facility.&#xD;
+&#xD;
+         10. Use of investigational drugs (other than imaging agents) or devices (other than&#xD;
+             mobile/wearable devices used in this study) within 60 days or 5 half-lives of study&#xD;
+             agent prior to baseline and during the study period.&#xD;
+&#xD;
+         11. Is pregnant (or is planning to become pregnant during the study period) or lactating.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Earl R Dorsey, MD MBA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Rochester</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Banner Sun Research Institute</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Denver</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwell Health</name>
+      <address>
+        <city>Great Neck</city>
+        <state>New York</state>
+        <zip>11021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Cleveland Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23284</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sentara Clinical Research</name>
+      <address>
+        <city>Virginia Beach</city>
+        <state>Virginia</state>
+        <zip>23456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>September 10, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 21, 2018</study_first_posted>
+  <last_update_submitted>March 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Rochester</investigator_affiliation>
+    <investigator_full_name>Ray Dorsey</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

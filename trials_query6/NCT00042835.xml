@@ -1,0 +1,392 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00042835</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-02478</org_study_id>
+    <secondary_id>11432B</secondary_id>
+    <secondary_id>N01CM17102</secondary_id>
+    <secondary_id>N01CM62201</secondary_id>
+    <secondary_id>CDR0000069474</secondary_id>
+    <nct_id>NCT00042835</nct_id>
+  </id_info>
+  <brief_title>Erlotinib and Radiation Therapy Plus Combination Chemotherapy in Treating Patients With Inoperable Stage III Non-Small Cell Lung Cancer</brief_title>
+  <official_title>A Phase I Study Of OSI-774 (NSC #718781)-Based Multimodality Therapy For Inoperable Stage III Non Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      Erlotinib may stop the growth of tumor cells by blocking the enzymes necessary for their&#xD;
+      growth. Radiation therapy uses high-energy x-rays to damage tumor cells. Drugs used in&#xD;
+      chemotherapy work in different ways to stop tumor cells from dividing so they stop growing or&#xD;
+      die. Combining erlotinib and radiation therapy with combination chemotherapy may kill more&#xD;
+      tumor cells. Phase I trial to study the effectiveness of combining erlotinib and radiation&#xD;
+      therapy with combination chemotherapy in treating patients who have inoperable stage III&#xD;
+      non-small cell lung cancer&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. Determine the maximum tolerated dose of erlotinib that can be administered with chest&#xD;
+      radiotherapy in combination with cisplatin and etoposide or carboplatin and paclitaxel in&#xD;
+      patients with inoperable stage III non-small cell lung cancer.&#xD;
+&#xD;
+      II. Determine the dose-limiting toxicity of these regimens in these patients. III. Assess the&#xD;
+      clinical response (complete response, partial response, progressive disease, or stable&#xD;
+      disease) in patients treated with these regimens.&#xD;
+&#xD;
+      IV. Determine levels of tumor epidermal growth factor expression in patients treated with&#xD;
+      these regimens.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter, dose-escalation study of erlotinib. Patients are assigned to&#xD;
+      1 of 2 treatment groups.&#xD;
+&#xD;
+      GROUP 1: Patients receive cisplatin IV over 2 hours on days 1, 8, 29, and 36; etoposide IV&#xD;
+      over 1 hour on days 1-5 and 29-33; and oral erlotinib once daily on days 1-49. Patients&#xD;
+      undergo concurrent radiotherapy 5 days a week for 7 weeks beginning on day 1. Patients&#xD;
+      receive consolidation therapy comprising docetaxel IV over 1 hour on days 50, 71, and 92.&#xD;
+      Some patients may also receive oral erlotinib once daily on days 50-112.&#xD;
+&#xD;
+      GROUP 2: Patients receive induction chemotherapy comprising paclitaxel IV over 1 hour and&#xD;
+      carboplatin IV over 30 minutes on days 1 and 21. Patients receive consolidation therapy&#xD;
+      comprising paclitaxel IV over 1 hour and carboplatin IV over 30 minutes on days 43, 50, 57,&#xD;
+      64, 71, 78, and 85 and oral erlotinib once daily on days 43-91. Patients undergo radiotherapy&#xD;
+      concurrently with consolidation therapy 5 days a week for 7 weeks beginning on day 43.&#xD;
+&#xD;
+      In both groups, cohorts of 3-6 patients receive escalating doses of erlotinib during&#xD;
+      concurrent chemoradiotherapy until the maximum tolerated dose (MTD) is determined. The MTD is&#xD;
+      defined as the dose at which at least 2 of 6 patients experience dose-limiting toxicity. At&#xD;
+      least 12 patients from each group are treated at the MTD.&#xD;
+&#xD;
+      Patients are followed at 8 weeks.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 24-48 patients (12-24 per treatment group) will be accrued for&#xD;
+      this study within 6-12 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Administratively complete.&#xD;
+  </why_stopped>
+  <start_date>May 2002</start_date>
+  <primary_completion_date type="Actual">December 2008</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MTD defined as the dose at which at least 2 of 6 patients experience dose-limiting toxicity assessed using NCI CTCAE version 3.0</measure>
+    <time_frame>7 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Response assessed using RECIST</measure>
+    <time_frame>Up to 8 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of EGFR expression</measure>
+    <time_frame>Up to 8 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">48</enrollment>
+  <condition>Adenocarcinoma of the Lung</condition>
+  <condition>Bronchoalveolar Cell Lung Cancer</condition>
+  <condition>Large Cell Lung Cancer</condition>
+  <condition>Squamous Cell Lung Cancer</condition>
+  <condition>Stage IIIA Non-small Cell Lung Cancer</condition>
+  <condition>Stage IIIB Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Group I (cisplatin, etoposide, erlotinib, and docetaxel)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive cisplatin IV over 2 hours on days 1, 8, 29, and 36; etoposide IV over 1 hour on days 1-5 and 29-33; and oral erlotinib once daily on days 1-49. Patients undergo concurrent radiotherapy 5 days a week for 7 weeks beginning on day 1. Patients receive consolidation therapy comprising docetaxel IV over 1 hour on days 50, 71, and 92. Some patients may also receive oral erlotinib once daily on days 50-112.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group II (paclitaxel, carboplatin, and erlotinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive induction chemotherapy comprising paclitaxel IV over 1 hour and carboplatin IV over 30 minutes on days 1 and 21. Patients receive consolidation therapy comprising paclitaxel IV over 1 hour and carboplatin IV over 30 minutes on days 43, 50, 57, 64, 71, 78, and 85 and oral erlotinib once daily on days 43-91. Patients undergo radiotherapy concurrently with consolidation therapy 5 days a week for 7 weeks beginning on day 43.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Group I (cisplatin, etoposide, erlotinib, and docetaxel)</arm_group_label>
+    <other_name>CACP</other_name>
+    <other_name>CDDP</other_name>
+    <other_name>CPDD</other_name>
+    <other_name>DDP</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>etoposide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Group I (cisplatin, etoposide, erlotinib, and docetaxel)</arm_group_label>
+    <other_name>EPEG</other_name>
+    <other_name>VP-16</other_name>
+    <other_name>VP-16-213</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>erlotinib hydrochloride</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Group I (cisplatin, etoposide, erlotinib, and docetaxel)</arm_group_label>
+    <arm_group_label>Group II (paclitaxel, carboplatin, and erlotinib</arm_group_label>
+    <other_name>CP-358,774</other_name>
+    <other_name>erlotinib</other_name>
+    <other_name>OSI-774</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+    <description>Undergo radiotherapy</description>
+    <arm_group_label>Group I (cisplatin, etoposide, erlotinib, and docetaxel)</arm_group_label>
+    <arm_group_label>Group II (paclitaxel, carboplatin, and erlotinib</arm_group_label>
+    <other_name>irradiation</other_name>
+    <other_name>radiotherapy</other_name>
+    <other_name>therapy, radiation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>docetaxel</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Group I (cisplatin, etoposide, erlotinib, and docetaxel)</arm_group_label>
+    <other_name>RP 56976</other_name>
+    <other_name>Taxotere</other_name>
+    <other_name>TXT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>paclitaxel</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Group II (paclitaxel, carboplatin, and erlotinib</arm_group_label>
+    <other_name>Anzatax</other_name>
+    <other_name>Asotax</other_name>
+    <other_name>TAX</other_name>
+    <other_name>Taxol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carboplatin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Group II (paclitaxel, carboplatin, and erlotinib</arm_group_label>
+    <other_name>Carboplat</other_name>
+    <other_name>CBDCA</other_name>
+    <other_name>JM-8</other_name>
+    <other_name>Paraplat</other_name>
+    <other_name>Paraplatin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Group I (cisplatin, etoposide, erlotinib, and docetaxel)</arm_group_label>
+    <arm_group_label>Group II (paclitaxel, carboplatin, and erlotinib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed non-small cell lung cancer&#xD;
+&#xD;
+               -  Squamous cell carcinoma&#xD;
+&#xD;
+               -  Adenocarcinoma (including bronchoalveolar)&#xD;
+&#xD;
+               -  Large cell carcinoma (including giant and clear cell carcinomas)&#xD;
+&#xD;
+          -  Stage IIIA (T1 or T2, N2) or IIIB disease not amenable to resection or surgery&#xD;
+&#xD;
+          -  T3, N2 or T4, N0-N2 disease also allowed if based on the closeness to the carina,&#xD;
+             invasion of the mediastinum, or invasion of the chest wall&#xD;
+&#xD;
+          -  T3, N0-N1 disease allowed provided the disease is not amenable for surgical resection&#xD;
+&#xD;
+          -  No M1 disease&#xD;
+&#xD;
+          -  No disease invasion of a vertebral body&#xD;
+&#xD;
+               -  Tumors adjacent to a vertebral body allowed provided all gross disease can be&#xD;
+                  encompassed in the radiotherapy boost field and there is no bone invasion&#xD;
+&#xD;
+          -  Contralateral mediastinal disease (N3) allowed if all gross disease can be encompassed&#xD;
+             in the radiotherapy boost field&#xD;
+&#xD;
+          -  Pleural effusion that is transudative, cytologically negative, and non-bloody allowed&#xD;
+             if the tumor can be encompassed in a reasonable field of radiotherapy&#xD;
+&#xD;
+               -  No exudative, bloody, or cytologically malignant effusions&#xD;
+&#xD;
+               -  Effusions present on CT scans but not on chest x-ray (CXR) and too small for&#xD;
+                  thoracentesis are allowed&#xD;
+&#xD;
+          -  Measurable or evaluable disease&#xD;
+&#xD;
+               -  Pleural effusions are not considered measurable or evaluable&#xD;
+&#xD;
+               -  Measurable disease is defined as any mass in 2 perpendicular diameters by CXR, CT&#xD;
+                  scan, or MRI&#xD;
+&#xD;
+               -  Evaluable disease includes lesions apparent on CXR or CT scan that are:&#xD;
+&#xD;
+                    -  Ill-defined masses associated with post-obstructive changes&#xD;
+&#xD;
+                    -  Mediastinal or hilar adenopathy measurable in only one dimension&#xD;
+&#xD;
+          -  Performance status - ECOG 0-1&#xD;
+&#xD;
+          -  Performance status - Karnofsky 70-100%&#xD;
+&#xD;
+          -  More than 6 months&#xD;
+&#xD;
+          -  WBC at least 3,000/mm^3&#xD;
+&#xD;
+          -  Absolute neutrophil count at least 1,500/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  Bilirubin normal&#xD;
+&#xD;
+          -  AST and ALT no greater than 1.5 times upper limit of normal (ULN) and alkaline&#xD;
+             phosphatase normal&#xD;
+&#xD;
+          -  AST and ALT normal and alkaline phosphatase no greater than 2.5 times ULN&#xD;
+&#xD;
+          -  Creatinine normal&#xD;
+&#xD;
+          -  Creatinine clearance at least 50 mL/min&#xD;
+&#xD;
+          -  No symptomatic congestive heart failure&#xD;
+&#xD;
+          -  No unstable angina pectoris&#xD;
+&#xD;
+          -  No cardiac arrhythmia&#xD;
+&#xD;
+          -  No history of cornea abnormalities (e.g., dry-eye syndrome, Sjögren's syndrome)&#xD;
+&#xD;
+          -  No congenital abnormality (e.g., Fuch's dystrophy)&#xD;
+&#xD;
+          -  No abnormal slit-lamp examination using a vital dye (e.g., fluorescein, Bengal-Rose)&#xD;
+&#xD;
+          -  No abnormal corneal sensitivity test (e.g., Schirmer test or similar tear production&#xD;
+             test)&#xD;
+&#xD;
+          -  No gastrointestinal tract disease resulting in the inability to take oral medications&#xD;
+&#xD;
+          -  No required IV alimentation&#xD;
+&#xD;
+          -  No peptic ulcer disease&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  No history of allergy to compounds of similar chemical or biologic composition to&#xD;
+             erlotinib or other study agents&#xD;
+&#xD;
+          -  No significant traumatic injury within the past 21 days&#xD;
+&#xD;
+          -  No other uncontrolled concurrent illness&#xD;
+&#xD;
+          -  No ongoing or active infection&#xD;
+&#xD;
+          -  No psychiatric illness or social situation that would preclude study compliance&#xD;
+&#xD;
+          -  No other active malignancy within the past 6 months except non-melanoma skin cancer&#xD;
+&#xD;
+          -  No concurrent colony-stimulating factors (filgrastim [G-CSF] or sargramostim [GM-CSF])&#xD;
+             with radiotherapy&#xD;
+&#xD;
+          -  No prior chemotherapy for lung cancer&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  No prior chest radiotherapy&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  At least 7 days since prior mediastinoscopy&#xD;
+&#xD;
+          -  More than 3 weeks since prior formal exploratory thoracotomy&#xD;
+&#xD;
+          -  More than 3 weeks since prior major surgery&#xD;
+&#xD;
+          -  No prior surgical procedures affecting absorption&#xD;
+&#xD;
+          -  No prior epidermal growth factor receptor-targeting therapies&#xD;
+&#xD;
+          -  No other concurrent investigational or commercial agents or therapies directed at&#xD;
+             malignancy&#xD;
+&#xD;
+          -  No concurrent combination antiretroviral therapy for HIV-positive patients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ann Mauer</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Chicago Comprehensive Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637-1470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2013</verification_date>
+  <study_first_submitted>August 5, 2002</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>January 31, 2013</last_update_submitted>
+  <last_update_submitted_qc>January 31, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 1, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Adenocarcinoma of Lung</mesh_term>
+    <mesh_term>Adenocarcinoma, Bronchiolo-Alveolar</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Docetaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Erlotinib Hydrochloride</mesh_term>
+    <mesh_term>Etoposide phosphate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

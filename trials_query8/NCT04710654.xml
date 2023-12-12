@@ -1,0 +1,308 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04710654</url>
+  </required_header>
+  <id_info>
+    <org_study_id>01.12.2020-E.13987</org_study_id>
+    <nct_id>NCT04710654</nct_id>
+  </id_info>
+  <brief_title>Effects of Different Physiotherapy Programs on Functional Constipation</brief_title>
+  <official_title>Effects of Different Physiotherapy Programs on Symptoms and Quality of Life in Individuals With Functional Constipation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Muş Alparlan University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Muş Alparlan University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study compares the effectiveness of a more comprehensive behavioral treatment, physical&#xD;
+      activity and exercise program, as well as CTM and IF current stimulation approaches at&#xD;
+      different frequencies on functional constipation symptoms and quality of life, compared to&#xD;
+      their counterparts in the literature.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Functional constipation (FC), which is characterized by conditions such as excessive&#xD;
+      straining and difficulty in defecation, infrequent bowel movements, and incomplete&#xD;
+      defecation, is a common bowel disease that causes activity limitation and decrease in quality&#xD;
+      of life in children and adults, regardless of an organic etiology.&#xD;
+&#xD;
+      In the literature, there are studies showing the effectiveness of different physiotherapy&#xD;
+      approaches such as behavioral therapy, exercise, neuromodulation applications, kinesiotape,&#xD;
+      abdominal massage in FC, and investigate and compare the effectiveness of connective tissue&#xD;
+      manipulation (CTM) and interferential (IF) current stimulation applied in addition to&#xD;
+      behavioral therapy and exercise program. But there was any study which compare the&#xD;
+      effectiveness of these physiotherapy methods with each other and IF current stimulation at&#xD;
+      different frequencies (100 Hz and 0-100 Hz). In addition, there are no randomized controlled&#xD;
+      studies comparing the current effects of IF applied at 100 Hz and 0-100 Hz in individuals&#xD;
+      with FC.&#xD;
+&#xD;
+      The treatment methods to be applied in this study are behavioral therapy, physical activity&#xD;
+      and exercise program, CTM and IF current stimulation applied at a frequency of 100 Hz and&#xD;
+      0-100 Hz.&#xD;
+&#xD;
+      The diagnostic method to be used is based on the Rome IV FC Criteria and the Bristol Stool&#xD;
+      Form Scale.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">October 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>change in severity and symptoms of constipation</measure>
+    <time_frame>Participants will be applied intervention program for four weeks. Change in severity and symptoms of constipation will be assessed at the baseline, the end of the four-week intervention program and after one month intervention period.</time_frame>
+    <description>Turkish version of Constipation Severity Instrument (CSI) will be used to evaluate the severity of the constipation. The Constipation Severity Instrument is a 16-item patient-reported outcome measure that investigates symptoms of constipation based on frequency, severity, and bother of symptoms. CSI consists of three subscales: obstructive defecation, colonic inertia and pain.&#xD;
+Higher scores of CSI indicate more severe constipation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>change in quality of life</measure>
+    <time_frame>Participants will be applied intervention program for four weeks. Change in quality of life will be assessed at the baseline, the end of the four-week intervention program and after one month intervention period.</time_frame>
+    <description>Turkish version of Patient Assessment of Constipation Quality of Life Questionnaire (PAC-QOL) will be used to evaluate quality of life. PAC-QOL consists a total of 28 items in four subscales: worries and concerns (11 items), physical discomfort (4 items), psychosocial discomfort (8 items), and satisfaction (5 items). Higher scores of PAC-QOL indicate more negative effects of constipation on the quality of life.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>bowel diary</measure>
+    <time_frame>Participants will be applied intervention program for four weeks. Bowel diary will be assessed at the baseline, the end of the four-week intervention program and after one month intervention period.</time_frame>
+    <description>Before and after treatment, bowel habits will be evaluated with a seven-day Bowel Diary. Intestinal diary with date and time, food/drink consumed, medication (type + amount), bowel urgency? (Rate 1 mild - 3 strong), pain and discomfort (1: mild, 3: strong), voiding time, Bristol Stool Scale Type will be recorded if there is any accident / leak.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>physical activity level</measure>
+    <time_frame>Participants will be applied intervention program for four weeks. The physical activity level will be assessed at the baseline, the end of the four-week intervention program and after one month intervention period.</time_frame>
+    <description>Turkish-International Physical Activity Questionnaire-Short Form (IPAQ-SF) will be used to evaluate level of physcial activity of participants. The IPAQ-SF is a self-reported measure consists of seven items. It asks four intensity levels: vigorous-intensity activities, moderate-intensity activities, walking and sitting. The total score is the summation of the duration and frequency of walking, moderate-intensity, and vigorous-intensity activity. The total score was reported as &quot;Metabolic Equivalent of Task-min/week.&quot; The sitting time is reported separately as &quot;h/day.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>treatment satisfaction</measure>
+    <time_frame>The end of the four-week intervention program</time_frame>
+    <description>The level of satisfaction with the treatment will be evaluated with the Visual Analogue Scale (VAS). On the 10 cm long line, the starting point will be determined as 0 cm &quot;not at all satisfied&quot; and 10 cm poin indicated &quot;very satisfied&quot;. The distances of the points marked on the VAS to the 0 cm point will be measured and recorded with a ruler.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>stool consistency</measure>
+    <time_frame>At the baseline, the end of the four-week intervention program and after one month intervention period.</time_frame>
+    <description>The Bristol Stool Scale (BGS) will be used evaluate stool consistency. The stool form is sensitive to the change in transit time. Type 1=separate hard lumps, like nuts; Type 2= gnarled, hard sausage but lumpy; Type 3=cracks on the surface like sausage; Type 4=Soft, smooth, sausage-like; Type 5=separate soft parts; Type 7=classified as liquid without solid particles. While Types 1 and 2 indicate constipation, Types 6 and 7 inflammation, Type 3 and Type 4 are considered normal.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Functional Constipation</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Behavioural therapy&#xD;
+Exercise program</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>connective tissue manipulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Interferential current stimulation (100 Hz frequency)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Interferential current stimulation (0-100 Hz frequency)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>connective tissue manipulation</intervention_name>
+    <description>Individuals in CTM group, will sit on a stool with hips and knees flexed at 90° and their hands free on the thighs. The application will start from the basic area in the first session, and in the other sessions, the lower thoracic, scapular, inter-scapular and cervical regions will be included in the treatment as soon as possible according to the state of the vascular reaction. CTM will be applied three days a week, for four weeks.</description>
+    <arm_group_label>connective tissue manipulation</arm_group_label>
+    <other_name>behavioural therapy</other_name>
+    <other_name>exercise program</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Interferential current stimulation (100 Hz frequency)</intervention_name>
+    <description>The four electrodes (superficial, self-adhesive, 5x9 cm rectangular) coming out of the two channels will be used. Two of the electrodes will be placed bilaterally at the level of the spinal segment, T9-L2, where the sympathetic fibers of the gastrointestinal tract are innervated, in the posterior region, and the other two will be placed anteriorly on the umbilicus lateral to the abdomen. The current will be applied at the sensory level, increasing to the extent that the patient feels the current effectively but does not reveal pain, discomfort and visible muscle contractions. The application will be made to the individuals at 100 Hz frequency three days a week, for four weeks.</description>
+    <arm_group_label>Interferential current stimulation (100 Hz frequency)</arm_group_label>
+    <other_name>behavioural therapy</other_name>
+    <other_name>exercise program</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Interferential current stimulation (0-100 Hz frequency)</intervention_name>
+    <description>The four electrodes (superficial, self-adhesive, 5x9 cm rectangular) coming out of the two channels will be used. Two of the electrodes will be placed bilaterally at the level of the spinal segment, T9-L2, where the sympathetic fibers of the gastrointestinal tract are innervated, in the posterior region, and the other two will be placed anteriorly on the umbilicus lateral to the abdomen. The current will be applied at the sensory level, increasing to the extent that the patient feels the current effectively but does not reveal pain, discomfort and visible muscle contractions. The application will be made to the individuals at 0-100 Hz frequency three days a week, for four weeks.</description>
+    <arm_group_label>Interferential current stimulation (0-100 Hz frequency)</arm_group_label>
+    <other_name>behavioural therapy</other_name>
+    <other_name>exercise program</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>behavioural therapy</intervention_name>
+    <description>The behavioral therapy includes patient education (description of the disease, symptoms, risk factors, treatment, defecation mechanism and informing about negative attitudes and behaviors towards defecation), lifestyle advices (diet, water consumption, fiber food, etc.), teaching effective defecation posture, timed toilet training, self-abdominal massage.&#xD;
+&quot;Constipation Behavioral Therapy Booklet&quot; will be prepared within the scope of behavioral therapy.</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Interferential current stimulation (0-100 Hz frequency)</arm_group_label>
+    <arm_group_label>Interferential current stimulation (100 Hz frequency)</arm_group_label>
+    <arm_group_label>connective tissue manipulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>exercise program</intervention_name>
+    <description>Exercise program consisting of physical activity, core stabilization exercises and pelvic floor muscle exercises.&#xD;
+&quot;Exercise Program Booklet&quot; will be prepared within the exercise training.</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Interferential current stimulation (0-100 Hz frequency)</arm_group_label>
+    <arm_group_label>Interferential current stimulation (100 Hz frequency)</arm_group_label>
+    <arm_group_label>connective tissue manipulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  being able to read and write in Turkish,&#xD;
+&#xD;
+          -  being between 18 and 65 years of age&#xD;
+&#xD;
+          -  having a diagnosis of functional constipation according to Rome IV criteria&#xD;
+&#xD;
+          -  having body mass index &lt;35 kg/m2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  being pregnant&#xD;
+&#xD;
+          -  having comorbidities (chronic pelvic pain, neurological (Parkinson's, Multiple&#xD;
+             sclerosis, Spinal cord lesion, etc.), metabolic / endocrine (Diabetes Mellitus,&#xD;
+             hypercalcemia, hypothyroid, etc.), cardiorespiratory diseases&#xD;
+&#xD;
+          -  health problems which may prevent standing from sitting, walking (orthopedic,&#xD;
+             neurological, cardiorespiratory, etc.)&#xD;
+&#xD;
+          -  malignancy, acute inflammation, intestinal tumor&#xD;
+&#xD;
+          -  history of gastrointestinal and pelvic surgery or spinal surgery other than&#xD;
+             cholecystectomy, appendectomy, or hysterectomy&#xD;
+&#xD;
+          -  contraindications to Interferential Current (thrombosis, pacemaker, metal implant&#xD;
+             etc.)&#xD;
+&#xD;
+          -  visual, auditory or cognitive problems which may prevent participation to the study&#xD;
+&#xD;
+          -  tumor, presence of skin problems in the application area&#xD;
+&#xD;
+          -  presence of laxative use for functional constipation in the last four weeks&#xD;
+&#xD;
+          -  alarm symptoms (unexplained, more than 10% weight loss in 3 months, hemorrhoids and&#xD;
+             anal fissures, rectal bleeding, family history of colon cancer)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>SEMİHA YENİŞEHİR</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Muş Alparslan University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>SEMİHA YENİŞEHİR, PT,MSc</last_name>
+    <phone>+905467330675</phone>
+    <email>ysehir.semiha8@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>İLKİM ÇITAK KARAKAYA, PT. PhD. Prof.</last_name>
+    <email>ilkim74@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Semiha Yenişehir</name>
+      <address>
+        <city>Muş</city>
+        <zip>49000</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>SEMİHA YENİŞEHİR</last_name>
+      <phone>05467330675</phone>
+      <email>ysehir.semiha8@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <phone_ext>YENİŞEHİR</phone_ext>
+      <email>ysehir.semiha8@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>SEMİHA YENİŞEHİR</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>İLKİM ÇITAK KARAKAYA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Vriesman MH, Koppen IJN, Camilleri M, Di Lorenzo C, Benninga MA. Management of functional constipation in children and adults. Nat Rev Gastroenterol Hepatol. 2020 Jan;17(1):21-39. doi: 10.1038/s41575-019-0222-y. Epub 2019 Nov 5. Review.</citation>
+    <PMID>31690829</PMID>
+  </reference>
+  <reference>
+    <citation>Moore JS, Gibson PR, Burgell RE. Randomised clinical trial: transabdominal interferential electrical stimulation vs sham stimulation in women with functional constipation. Aliment Pharmacol Ther. 2020 Apr;51(8):760-769. doi: 10.1111/apt.15642. Epub 2020 Mar 3.</citation>
+    <PMID>32128859</PMID>
+  </reference>
+  <reference>
+    <citation>Sharifi-Rad L, Ladi-Seyedian SS, Manouchehri N, Alimadadi H, Allahverdi B, Motamed F, Fallahi GH. Effects of Interferential Electrical Stimulation Plus Pelvic Floor Muscles Exercises on Functional Constipation in Children: A Randomized Clinical Trial. Am J Gastroenterol. 2018 Feb;113(2):295-302. doi: 10.1038/ajg.2017.459. Epub 2017 Dec 19.</citation>
+    <PMID>29257143</PMID>
+  </reference>
+  <reference>
+    <citation>Gürsen C, Kerem Günel M, Kaya S, Kav T, Akbayrak T. Effect of Connective Tissue Manipulation on Symptoms and Quality of Life in Patients With Chronic Constipation: A Randomized Controlled Trial. J Manipulative Physiol Ther. 2015 Jun;38(5):335-43. doi: 10.1016/j.jmpt.2015.06.003. Epub 2015 Jun 20.</citation>
+    <PMID>26099205</PMID>
+  </reference>
+  <reference>
+    <citation>Silva CA, Motta ME. The use of abdominal muscle training, breathing exercises and abdominal massage to treat paediatric chronic functional constipation. Colorectal Dis. 2013 May;15(5):e250-5. doi: 10.1111/codi.12160.</citation>
+    <PMID>23375005</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 15, 2021</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Muş Alparlan University</investigator_affiliation>
+    <investigator_full_name>Semiha Yenişehir</investigator_full_name>
+    <investigator_title>Research Assistant</investigator_title>
+  </responsible_party>
+  <keyword>functional constipation</keyword>
+  <keyword>connective tissue manipulation</keyword>
+  <keyword>interferential current stimulation</keyword>
+  <keyword>exercise</keyword>
+  <keyword>behavioural therapy</keyword>
+  <keyword>conservative treatment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Constipation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

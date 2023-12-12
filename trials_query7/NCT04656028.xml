@@ -1,0 +1,353 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04656028</url>
+  </required_header>
+  <id_info>
+    <org_study_id>08-03/19</org_study_id>
+    <nct_id>NCT04656028</nct_id>
+  </id_info>
+  <brief_title>Genetic Testing and Motivational Counseling for FH</brief_title>
+  <acronym>GENMOTIV-FH</acronym>
+  <official_title>Impact of Genetic Testing and Motivational Counseling on the Adherence to Healthy Lifestyle and Hypolipidemic Therapy and Efficiency of Cascade Screening in Patients With Familial Hypercholesterolemia (GENMOTIV-FH)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Medical Research Center for Therapy and Preventive Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Moscow State University of Medicine and Dentistry</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Medical Research Center for Therapy and Preventive Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To date, there are highly effective lipid-lowering drugs, the combination of which makes it&#xD;
+      possible to achieve the target level of LDL-C in most patients with familial&#xD;
+      hypercholesterolemia (FH). However, the effectiveness of treatment of FH patients strongly&#xD;
+      depends on adherence to lipid-lowering therapy and to the healthy lifestyle, as well as the&#xD;
+      detection of the disease and the therapy prescription as early as possible, better in&#xD;
+      childhood. The aim of the study is to assess the impact of genetic testing and motivational&#xD;
+      counseling on the effectiveness of treatment and cascade screening in patients with FH.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There are several tasks of the study:&#xD;
+&#xD;
+        1. To assess the effect of knowledge of patients with FH about the result of their FH&#xD;
+           genetic testing on the adherence to a healthy lifestyle and hypolipidemic therapy.&#xD;
+&#xD;
+        2. To assess the impact of knowledge of patients with FH about the result of their FH&#xD;
+           genetic testing on the effectiveness of cascade screening.&#xD;
+&#xD;
+        3. To assess the influence of motivational counseling of patients with FH on the adherence&#xD;
+           to a healthy lifestyle and hypolipidemic therapy.&#xD;
+&#xD;
+        4. To assess the impact of motivational counseling of patients with FH on the effectiveness&#xD;
+           of cascade screening.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 15, 2020</start_date>
+  <completion_date type="Anticipated">October 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The trial is a randomized prospective cohort study. The study will include patients 18 years of age and older with a probable or definite diagnosis of FH according to the Dutch criteria (6 points or more). A total of 180 patients will be included in the study. All patients will be randomly divided into 2 groups for genetic testing. Randomization will be performed as block randomization with a 2:1 allocation ratio (2 with genetic testing : 1 without genetic testing). The allocation ratio 2:1 was chosen because in the group with genetic testing there will be cases where mutation(s) associated with FH will be identified and cases where the mutation(s) will not be identified. A separate analysis is planned in patients with genetic testing and identified mutation(s) and in patients with genetic testing but no identified mutation(s).&#xD;
+Each study group will be randomized into 2 subgroups depending on the conduct of motivational counseling with an 1:1 allocation ratio.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the proportion of people who have reached the target level of LDL-Cholesterol</measure>
+    <time_frame>3 months</time_frame>
+    <description>Change in the proportion of people who have reached the target level of LDL-Cholesterol (target values of LDL-C according to the ESC Dislipidaemia Guidelines 2019)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the number of relatives who underwent cascade screening</measure>
+    <time_frame>3 months</time_frame>
+    <description>Change in the number of relatives who underwent cascade screening (% of relatives out of all available relatives. Available relatives are those who are alive and live in the region of where the study is conducted (Moscow and Moscow region)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the proportion of people adhering to drug therapy</measure>
+    <time_frame>3 months</time_frame>
+    <description>Change in the proportion of people adhering to drug therapy according to the questionnaire MARS-5</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the proportion of people adhering to the recommended physical activity</measure>
+    <time_frame>3 months</time_frame>
+    <description>Change in the proportion of people adhering to the recommended physical activity (according to the Global Physical Activity Questionnaire (GPAQ))</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the proportion of individuals adhering to the recommended dietary recommendations</measure>
+    <time_frame>3 months</time_frame>
+    <description>Change in the proportion of individuals adhering to the recommended dietary recommendations (according to 24-hour Dietary Recall and Food Frequency Questionnaires)</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Hypercholesterolemia, Familial</condition>
+  <condition>Hypercholesterolemia, Familial, 1</condition>
+  <condition>Hypercholesterolemia, Familial, 2</condition>
+  <condition>Hypercholesterolemia, Familial, 3</condition>
+  <condition>Hypercholesterolemia, Familial, 4</condition>
+  <condition>Hypercholesterolemia, Familial, 4, Autosomal Recessive</condition>
+  <condition>Familial Hypercholesterolemia With Hyperlipemia</condition>
+  <condition>Hypercholesterolemia, Autosomal Dominant, Type B</condition>
+  <condition>Hypercholesterolemia, Autosomal Dominant</condition>
+  <condition>Hypercholesterolemia, Autosomal Dominant, 3</condition>
+  <condition>Apolipoprotein B-100, Familial Defective</condition>
+  <condition>Genetic Testing</condition>
+  <condition>Motivational Interviewing</condition>
+  <condition>Therapeutic Adherence</condition>
+  <condition>Therapeutic Adherence and Compliance</condition>
+  <condition>Treatment Adherence</condition>
+  <condition>Medication Adherence</condition>
+  <condition>Treatment Adherence and Compliance</condition>
+  <condition>Patient Adherence</condition>
+  <condition>Compliance</condition>
+  <condition>Patient Compliance</condition>
+  <condition>Familial Hypercholesterolemia</condition>
+  <condition>Familial Hypercholesterolemia - Heterozygous</condition>
+  <condition>Adherence, Patient</condition>
+  <condition>Adherence, Medication</condition>
+  <condition>Adherence</condition>
+  <arm_group>
+    <arm_group_label>Group 1 - without genetic testing; subgroup without motivational counseling</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Group 1 - without genetic testing; subgroup without motivational counseling</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 1 - without genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 1 - without genetic testing; subgroup with motivational counseling</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2 - with genetic testing; subgroup without motivational counseling</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 2 - genetic testing has been performed; subgroup without motivational counseling.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2 - with genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 2 - genetic testing has been performed; subgroup with motivational counseling.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Genetic Testing</intervention_name>
+    <description>DNA is extracted using the QIAamp® DNA Blood Mini Kit (Qiagen, Germany). The DNA concentration is measured on a Qubit 4.0 fluorometer (Thermo Fisher Scientific, USA (TFS)). NGS is performed on Ion S5 System (TFS). Ampliseq libraries were prepared on a Chef Instrument (TFS) using a custom panel developed in the Ion AmpliSeq Designer software (TFS). The panel includes 25 genes (ABCA1, ABCG5, ABCG8, ANGPTL3, APOA1, APOA5, APOB, APOC2, APOC3, APOE, CETP, GPD1, GPIHBP1, LCAT, LDLR, LDLRAP1, LIPC, LIPI, LMF1, LPL, MTTP, PCSK9, SAR1B, STAP1, USF1) and 280 SNPs, for which the association with lipid metabolism disorders was shown in the literature. All sequencing steps are carried out according to the manufacturer's protocols. For clinical interpretation, genetic variants with frequencies in the gnomAD database &lt;0.5% are selected. The pathogenicity of variants is assessed according to the ACMG / AMP2015 guidelines. The identified SNPs are validated by Sanger sequencing (3500 DNA Analyzer, TFS).</description>
+    <arm_group_label>Group 2 - with genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup without motivational counseling</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Motivational Counseling</intervention_name>
+    <description>Motivational counseling will be carried out during Visit 2 and in one month after Visit 2 by certified psychologist with taking into account the results of the psychodiagnostic survey conducted at the first and second visits.&#xD;
+The goals of motivational counseling:&#xD;
+Increasing motivation for a healthy lifestyle;&#xD;
+Increasing adherence to treatment;&#xD;
+Increased motivation to invite relatives for cascade screening. Motivational counseling will be carried out using methods of motivational interviewing, transtheoretical model of changes, cognitive-behavioral therapy, extended preventive counseling.</description>
+    <arm_group_label>Group 1 - without genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup with motivational counseling</arm_group_label>
+    <other_name>Motivational Interviewing</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Lipid analysis</intervention_name>
+    <description>Assessment of total cholesterol, low density lipoproteins, high density lipoproteins, triglycerides, alanine aminotransferase.</description>
+    <arm_group_label>Group 1 - without genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 1 - without genetic testing; subgroup without motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup without motivational counseling</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Consultation with a cardiologist-lipidologist (correction of therapy, lifestyle, diet)</intervention_name>
+    <description>All patients will be prescribed ezetimibe and statins (atorvastatin / rosuvastatin) at the maximum dosage. If somebody has an intolerance to atorvastatin, the drug will be replaced with rosuvastatin and vice versa. In case of intolerance to all drugs from the statin group, the patient will be prescribed ezetimibe with a PCSK9 inhibitor (alirocumab / evolocumab). After receiving the results of the lipid spectrum, ALT, if necessary, the lipid-lowering therapy may be corrected.</description>
+    <arm_group_label>Group 1 - without genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 1 - without genetic testing; subgroup without motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup without motivational counseling</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Visit 1</intervention_name>
+    <description>Visit 1: initially (on enrollment) - informed consents signing; lipid blood tests, patient data gathering, and consultation of cardiologist-lipidologist for optimization of lipid-lowering therapy and lifestyle; filling all questionnaires. After this visit patients are randomized to groups with or without genetic testing and then randomized to groups with or without motivational counseling.&#xD;
+Each visit consists of two patient's attendances to the medical center. At the first attendance, it is planned to take blood for analysis, fill out questionnaires; at the second attendance - to perform, a consultation with a cardiologist-lipidologist according to the results of blood analysis. The time interval between two attendances is ≤ 7 days.</description>
+    <arm_group_label>Group 1 - without genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 1 - without genetic testing; subgroup without motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup without motivational counseling</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Visit 2</intervention_name>
+    <description>Visit 2 (in 2-3 months): lipid blood tests, patient data gathering, and consultation of cardiologist-lipidologist for optimization of lipid lowering-therapy and lifestyle; filling all questionnaires. Patients from the group with genetic testing will get the result of this genetic testing. Patients from the group with motivational counseling will get two consultations with a psychologist (motivational counseling on lifestyle modification) during Visit 2 and in one month after Visit 2.&#xD;
+Each visit consists of two patient's attendances to the medical center. At the first attendance, it is planned to take blood for analysis, fill out questionnaires; at the second attendance - to perform a consultation with a cardiologist-lipidologist according to the results of blood analysis. The time interval between two attendances is ≤ 7 days</description>
+    <arm_group_label>Group 1 - without genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 1 - without genetic testing; subgroup without motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup without motivational counseling</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Visit 3</intervention_name>
+    <description>Visit 3 (in 3 months after Visit 2): lipid blood tests, patient data gathering, and consultation of cardiologist-lipidologist for optimization of lipid-lowering therapy and lifestyle; filling all questionnaires.&#xD;
+Each visit consists of two patient's attendances to the medical center. At the first attendance, it is planned to take blood for analysis, fill out questionnaires; at the second attendance - to perform a consultation with a cardiologist-lipidologist according to the results of blood analysis. The time interval between two attendances is ≤ 7 days.</description>
+    <arm_group_label>Group 1 - without genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 1 - without genetic testing; subgroup without motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup with motivational counseling</arm_group_label>
+    <arm_group_label>Group 2 - with genetic testing; subgroup without motivational counseling</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Probable or definite diagnosis of FH according to the Dutch criteria (6 points or&#xD;
+             more);&#xD;
+&#xD;
+          -  Signed informed consent;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy or lactation at the time of enrollment&#xD;
+&#xD;
+          -  Established active severe infectious disease or severe hematologic, metabolic,&#xD;
+             gastrointestinal or endocrine dysfunctions (for example, uncontrolled thyroid&#xD;
+             dysfunction or uncontrolled diabetes mellitus) in the opinion of the investigator&#xD;
+&#xD;
+          -  Active liver disease&#xD;
+&#xD;
+          -  Estimated GFR≤ 30 ml / min / 1.73m2&#xD;
+&#xD;
+          -  Any other conditions at Visit 1 that, according to the investigator's opinion, render&#xD;
+             the patient ineligible for inclusion in the study, may interfere with the patient's&#xD;
+             participation in the study or patient's completion of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexey Meshkov, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Medical Research Centre for Therapy and Preventive Medicine, Ministry of Health of Russia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alexandra Ershova, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>National Medical Research Centre for Therapy and Preventive Medicine, Ministry of Health of Russia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alexandra Ershova, MD, PhD</last_name>
+    <phone>+79165598536</phone>
+    <email>alersh@mail.ru</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alexey Meshkov, MD, PhD</last_name>
+    <phone>+79015121271</phone>
+    <email>meshkov@lipidclinic.ru</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>National Medical Research Centre for Therapy and Preventive Medicine of the Ministry of Health of Russia</name>
+      <address>
+        <city>Moscow</city>
+        <zip>101000</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexandra Ershova, MD, PhD</last_name>
+      <phone>+79165598536</phone>
+      <email>alersh@mail.ru</email>
+    </contact>
+    <contact_backup>
+      <last_name>Alexey Meshkov, MD, PhD</last_name>
+      <phone>+79015121271</phone>
+      <email>meshkov@lipidclinic.ru</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Alexey Meshkov, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alexandra Ershova, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>November 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2020</study_first_posted>
+  <last_update_submitted>March 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Familial Hypercholesterolemia</keyword>
+  <keyword>FH</keyword>
+  <keyword>genetic testing</keyword>
+  <keyword>motivational counseling</keyword>
+  <keyword>motivational interviewing</keyword>
+  <keyword>cascade screening</keyword>
+  <keyword>adherence</keyword>
+  <keyword>compliance</keyword>
+  <keyword>Hypercholesterolemia, Familial</keyword>
+  <keyword>Hypercholesterolemia, Familial, 1</keyword>
+  <keyword>Hypercholesterolemia, Familial, 2</keyword>
+  <keyword>Hypercholesterolemia, Familial, 3</keyword>
+  <keyword>Hypercholesterolemia, Familial, 4</keyword>
+  <keyword>Hypercholesterolemia, Familial, 4, Autosomal Recessive</keyword>
+  <keyword>Familial Hypercholesterolemia with Hyperlipemia</keyword>
+  <keyword>Hypercholesterolemia, Autosomal Dominant, Type B</keyword>
+  <keyword>Hypercholesterolemia, Autosomal Dominant</keyword>
+  <keyword>Hypercholesterolemia, Autosomal Dominant, 3</keyword>
+  <keyword>Apolipoprotein B-100, Familial Defective</keyword>
+  <keyword>Therapeutic Adherence</keyword>
+  <keyword>Therapeutic Adherence and Compliance</keyword>
+  <keyword>Patient Adherence</keyword>
+  <keyword>Familial Hypercholesterolemia - Heterozygous</keyword>
+  <keyword>psychological counseling</keyword>
+  <keyword>Adherence, Patient</keyword>
+  <keyword>Adherence, Medication</keyword>
+  <keyword>Treatment Adherence</keyword>
+  <keyword>Medication Adherence</keyword>
+  <keyword>Treatment Adherence and Compliance</keyword>
+  <keyword>Patient Compliance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arthrogryposis</mesh_term>
+    <mesh_term>Hyperlipoproteinemia Type II</mesh_term>
+    <mesh_term>Hyperlipoproteinemia Type III</mesh_term>
+    <mesh_term>Hypercholesterolemia</mesh_term>
+    <mesh_term>Hyperlipidemias</mesh_term>
+    <mesh_term>Hyperlipoproteinemias</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

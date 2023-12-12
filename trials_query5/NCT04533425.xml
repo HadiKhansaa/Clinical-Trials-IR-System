@@ -1,0 +1,233 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04533425</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO 19-0127</org_study_id>
+    <secondary_id>R01HL149680</secondary_id>
+    <nct_id>NCT04533425</nct_id>
+  </id_info>
+  <brief_title>Practical Approaches to Care in Emergency Syncope</brief_title>
+  <acronym>PACES</acronym>
+  <official_title>Practical Approaches to Care in Emergency Syncope</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Icahn School of Medicine at Mount Sinai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Syncope, or transient loss of consciousness, is a common reason for visit to the Emergency&#xD;
+      Department and often leads to extensive testing and hospitalization. Using objective risk&#xD;
+      scores to determine which patients with syncope will actually benefit from these&#xD;
+      interventions, and which can be safely discharged home with minimal testing, is critical to&#xD;
+      providing sensible medical care. This study will evaluate the validity of two syncope&#xD;
+      risk-stratification tools and investigate their impact on healthcare utilization and patient&#xD;
+      safety, thus improving the quality of care for the 1-2 million patients who experience&#xD;
+      syncope every year in the United States&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of this project is to improve risk-stratification for patients who present to the&#xD;
+      emergency department (ED) with syncope (transient loss of consciousness), in order to better&#xD;
+      delineate which patients require admission and which can be safely discharged home. Syncope&#xD;
+      and pre-syncope (the sensation of impending loss of consciousness) are common reasons to&#xD;
+      present to the ED, representing over 1.3 million visits per year in the United States.&#xD;
+&#xD;
+      Although syncope is most often benign, it can occasionally be caused by serious&#xD;
+      cardiopulmonary diseases such as cardiac arrhythmia, acute coronary syndrome, or pulmonary&#xD;
+      embolism. Despite thorough evaluation in the ED, the cause of syncope remains unknown in over&#xD;
+      50% of cases, which leads to a large number of syncope patients being admitted for&#xD;
+      observation and/or further testing. These admissions to the hospital or observation unit are&#xD;
+      low-yield, costly, and expose patients to the possibility of iatrogenic harm.&#xD;
+&#xD;
+      In response to this, two groups of researchers have developed distinct syncope&#xD;
+      risk-stratification tools: the US Syncope Risk Score (FAINT) and the Canadian Syncope Risk&#xD;
+      Score. These scores use a combination of clinical, electrocardiographic, and laboratory&#xD;
+      variables to predict the risk of serious clinical outcomes at 30 days. While promising, these&#xD;
+      two risk scores require external validation prior to widespread clinical implementation. The&#xD;
+      study team will prospectively collect data on ~1,270 ED patients with syncope/pre-syncope and&#xD;
+      follow them for 30 days to validate the predictive accuracy of these two risk scores. The&#xD;
+      study team will then assess the impact of implementing these scores by measuring their&#xD;
+      potential effect on healthcare utilization and costs.&#xD;
+&#xD;
+      If validated and shown to safely reduce healthcare utilization, these syncope risk scores&#xD;
+      could play a major role in improving emergency syncope care by reducing low-yield admissions&#xD;
+      and identifying patients who are unsafe for discharge from the ED. This study, entitled&#xD;
+      PACES: Practical Approaches to Care in Emergency Syncope, will help increase the quality and&#xD;
+      value of emergency care, and advance the field of syncope research.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 14, 2020</start_date>
+  <completion_date type="Anticipated">March 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>US Syncope Risk Score (The FAINT Score)</measure>
+    <time_frame>30 days</time_frame>
+    <description>A combination of clinical, electrocardiographic, and laboratory variables to predict the risk of serious clinical outcomes at 30 days. Full scale range from 0-6, higher score indicates higher risk of a serious cardiac event or death.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Canadian Syncope Risk Score</measure>
+    <time_frame>30 days</time_frame>
+    <description>A combination of clinical, electrocardiographic, and laboratory variables to predict the risk of serious clinical outcomes at 30 days. Full scale range from -3 to 11, higher score indicates higher risk of a serious clinical event or death.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1270</enrollment>
+  <condition>Syncope</condition>
+  <condition>Presyncope</condition>
+  <arm_group>
+    <arm_group_label>Patients with syncope</arm_group_label>
+    <description>Patients who present to the ED with syncope</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood for cardiac biomarker testing.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients who presents to the Emergency Department (ED) after an episode of syncope or&#xD;
+        pre-syncope and who do not have a new serious diagnosis found during the index ED&#xD;
+        evaluation. There are no exclusions based on sex/gender, race, or ethnicity. The Mount&#xD;
+        Sinai Health System serves a racially and ethnically diverse population of patients&#xD;
+        whichwill allow the study team to recruit a diverse study sample.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients 40 years of age or older who present to the Emergency Department with&#xD;
+             syncope or presyncope.&#xD;
+&#xD;
+          -  Subjects must read and speak English or Spanish.&#xD;
+&#xD;
+          -  Subjects must have a working phone number and fixed address.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient who have a syncope mimic such as seizure, stroke, head trauma with loss of&#xD;
+             consciousness, altered mental status, hypoglycemia, intoxication, or require an&#xD;
+             intervention to restore consciousness.&#xD;
+&#xD;
+          -  Patients who have a new serious diagnosis found in the Emergency Department, such as&#xD;
+             death, significant cardiac arrhythmia (see below), myocardial infarction, significant&#xD;
+             structural heart disease, stroke (both ischemic and hemorrhagic), pulmonary embolism,&#xD;
+             aortic dissection, hemorrhage or anemia requiring blood transfusion, subarachnoid&#xD;
+             hemorrhage, cardiopulmonary resuscitation, acute surgical illness, pregnancy, or major&#xD;
+             traumatic injury.&#xD;
+&#xD;
+          -  Significant cardiac arrhythmia includes Ventricular Fibrillation, Ventricular&#xD;
+             tachycardia (&gt;30 secs), Symptomatic ventricular tachycardia, (&lt;30 secs), Sick sinus&#xD;
+             disease with alternating sinus bradycardia and tachycardia, Sinus pause &gt; 3 seconds,&#xD;
+             Mobitz type II atrioventricular heart block, Complete heart block, Symptomatic&#xD;
+             supraventricular tachycardia (including PSVT, rapid atrial fibrillation/ flutter),&#xD;
+             Symptomatic bradycardia (pulse&lt;40), Pacemaker or implantable&#xD;
+             cardioverter-defibrillator malfunction with cardiac pauses.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marc Probst, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lauren Gordon, MPH</last_name>
+    <phone>646-901-8970</phone>
+    <email>lauren.gordon@mountsinai.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lauren Gordon, MPH</last_name>
+      <phone>646-901-8970</phone>
+      <email>lauren.gordon@mountsinai.org</email>
+    </contact>
+    <investigator>
+      <last_name>Marc Probst, MD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.ncbi.nlm.nih.gov/sites/myncbi/marc.probst.1/bibliography/47333221/public/?sort=date&amp;direction=ascending</url>
+    <description>Complete bibliography</description>
+  </link>
+  <reference>
+    <citation>Probst MA, Kanzaria HK, Gbedemah M, Richardson LD, Sun BC. National trends in resource utilization associated with ED visits for syncope. Am J Emerg Med. 2015 Aug;33(8):998-1001. doi: 10.1016/j.ajem.2015.04.030. Epub 2015 Apr 24.</citation>
+    <PMID>25943042</PMID>
+  </reference>
+  <reference>
+    <citation>Probst MA, Gibson T, Weiss RE, Yagapen AN, Malveau SE, Adler DH, Bastani A, Baugh CW, Caterino JM, Clark CL, Diercks DB, Hollander JE, Nicks BA, Nishijima DK, Shah MN, Stiffler KA, Storrow AB, Wilber ST, Sun BC. Risk Stratification of Older Adults Who Present to the Emergency Department With Syncope: The FAINT Score. Ann Emerg Med. 2020 Feb;75(2):147-158. doi: 10.1016/j.annemergmed.2019.08.429. Epub 2019 Oct 23.</citation>
+    <PMID>31668571</PMID>
+  </reference>
+  <reference>
+    <citation>Thiruganasambandamoorthy V, Kwong K, Wells GA, Sivilotti MLA, Mukarram M, Rowe BH, Lang E, Perry JJ, Sheldon R, Stiell IG, Taljaard M. Development of the Canadian Syncope Risk Score to predict serious adverse events after emergency department assessment of syncope. CMAJ. 2016 Sep 6;188(12):E289-E298. doi: 10.1503/cmaj.151469. Epub 2016 Jul 4.</citation>
+    <PMID>27378464</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 31, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Icahn School of Medicine at Mount Sinai</investigator_affiliation>
+    <investigator_full_name>Marc A. Probst, MD, MS</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Risk Score</keyword>
+  <keyword>Risk Stratification</keyword>
+  <keyword>External Validation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syncope</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

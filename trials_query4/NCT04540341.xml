@@ -1,0 +1,205 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04540341</url>
+  </required_header>
+  <id_info>
+    <org_study_id>60116787-020/48052</org_study_id>
+    <nct_id>NCT04540341</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of Mulligan Mobilization Technique and Core Stabilization Exercise With Knee Osteoarthritis</brief_title>
+  <official_title>Investigation of the Effectiveness of Mulligan Mobilization Technique and Core Stabilization Exercises in Female Patients With Knee Osteoarthritis: A Randomized Controlled Single-Blind Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pamukkale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pamukkale University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Osteoarthritis (OA) is a chronic disease process characterized by degeneration and&#xD;
+      inflammation in the joint cartilage and subchondral bone, synovial fluid and joint capsule.&#xD;
+      One of the most affected joints in OA is the knee joint, and the incidence of OA increases&#xD;
+      with age.&#xD;
+&#xD;
+      Different treatment approaches are used in the treatment of osteoarthritis. The aim of the&#xD;
+      study is to examine the effectiveness of Mulligan technique and core exercises applied to&#xD;
+      female patients with knee osteoarthritis. In addition, the investigators did not find any&#xD;
+      study examining the effect of Mulligan technique on static balance in the treatment of OA.&#xD;
+      This is the secondary aim of the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 14, 2020</start_date>
+  <completion_date type="Anticipated">September 14, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pain assessment</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>Visual Analog Scale: This scale consists of a straight line with the end points defining extreme limits such as 'no pain at all', which is 0 cm, and 'pain as bad as it could be', which is 10cm.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Range of motion assessment</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>Goniometric measurement</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>muscle strength assessment</measure>
+    <time_frame>10 minutes</time_frame>
+    <description>by handheld device (Commander Powertrack II brand)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>functional level assessment</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Western Ontario and McMaster Universities Arthritis Index (WOMAC)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>aerobic endurance assessment</measure>
+    <time_frame>6 minutes</time_frame>
+    <description>6 minute walk test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>balance assessment</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Stand on one leg test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Timed Up&amp; Go Test</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Timed Up&amp; Go Test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assessment of quality of life survey</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Nottingham Health Profile</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Exercise</condition>
+  <arm_group>
+    <arm_group_label>Mulligan mobilization group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Painless movement</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Core stabilization group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Abdominal drawing-in maneuver</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>conventional therapy group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Ultrasound TENS Hotpack</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Mulligan mobilization</intervention_name>
+    <description>Mulligan mobilization technique will be apply.</description>
+    <arm_group_label>Mulligan mobilization group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Core stabilization</intervention_name>
+    <description>Core stabilization technique will be apply.</description>
+    <arm_group_label>Core stabilization group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Conventional therapy</intervention_name>
+    <description>Conventional therapy exercise will be apply.</description>
+    <arm_group_label>conventional therapy group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Being diagnosed with knee osteoarthritis&#xD;
+&#xD;
+          -  To be in the age range of 40-70&#xD;
+&#xD;
+          -  No lower extremity surgery in the last 6 months.&#xD;
+&#xD;
+          -  Agree to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Having had hip-knee replacement surgery&#xD;
+&#xD;
+          -  Surgery planned in the last 6 months&#xD;
+&#xD;
+          -  Having received physical therapy in the last 6 months&#xD;
+&#xD;
+          -  Having uncontrollable hypertension and cardiac problems&#xD;
+&#xD;
+          -  Having been diagnosed with rheumatoid arthritis&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Meryem Buke</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pamukkale University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pamukkale University</name>
+      <address>
+        <city>Denizli</city>
+        <zip>20070</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 7, 2020</study_first_posted>
+  <last_update_submitted>January 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Pamukkale University</investigator_affiliation>
+    <investigator_full_name>Meryem BUKE</investigator_full_name>
+    <investigator_title>Research assistant</investigator_title>
+  </responsible_party>
+  <keyword>Pain, Joint</keyword>
+  <keyword>Mulligan</keyword>
+  <keyword>Core stabilization</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

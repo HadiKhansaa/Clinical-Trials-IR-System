@@ -1,0 +1,253 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04646772</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LACC Trial</org_study_id>
+    <nct_id>NCT04646772</nct_id>
+  </id_info>
+  <brief_title>Surgery for Locally Advanced Colon Cancer: is it Worth it? A Multicenter Retrospective Analysis.</brief_title>
+  <acronym>LACC</acronym>
+  <official_title>Surgery for Locally Advanced Colon Cancer: is it Worth it? A Multicenter Retrospective Analysis. (LACC Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Santo Spirito Hospital, Italy</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Santo Spirito Hospital, Italy</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the present study is to assess the post-operative outcomes (morbidity and&#xD;
+      mortality) in relation to preoperative data and the oncological outcomes (overall and&#xD;
+      disease-free survival) in patients with a locally advanced colon cancer (LACC) with the&#xD;
+      necessity of a multivisceral resection (MVR).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All patients that meet the inclusion criteria will be registered in a retrospective database&#xD;
+      from 2014 to 2019 (5 years) Data will be reported for every patients with colon cancer to&#xD;
+      have had either a resection of another organ or structure in addition to resection of the&#xD;
+      primary tumor, or to have had a T4 (a or b) tumour on postoperative histopathology.&#xD;
+&#xD;
+      Data included are patient demographics, ASA score, tumor localization, preoperative imaging,&#xD;
+      neoadjuvant treatments, type of bowel resection and adjacent organs resected, tecnique&#xD;
+      (laparoscopic/laparotomic), postoperative complications and 30-day mortality, histopathology&#xD;
+      data including TNM scoring, completeness of surgical procedure (R0 to R2) and infiltration of&#xD;
+      tumor cells in resected tissues, adjuvant oncological treatments, and long term follow-up&#xD;
+      data on local and distant recurrence and survival.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Postoperative morbidity</measure>
+    <time_frame>30 days</time_frame>
+    <description>I evaluate peri and post-operative surgical (e.g. intraabdominal collection, fistula, anastomotic leak) and medical (e.g. pneumoniae, deep vein thrombosis) complications</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Postoperative mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>I evaluate in-hospital and 30-day mortality correlate to the intervention</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>5 years</time_frame>
+    <description>The length of time from the intervention that patients diagnosed with a T4 colon cancer are still alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Free Survival</measure>
+    <time_frame>5 years</time_frame>
+    <description>The measure of time after treatment during which no sign of recurrence (local or metastatic) is found.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Malignant Neoplasm of Large Intestine TNM Staging Primary Tumor (T) T4</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Multivisceral resection</intervention_name>
+    <description>Multivisceral resection for locally advanced colon cancer.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with a locally advanced colon cancer (LACC) with the necessity of a multivisceral&#xD;
+        resection (MVR).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          -  &gt; 18 aa&#xD;
+&#xD;
+          -  Patients with a locally advanced colon cancer (LACC) with the necessity of a&#xD;
+             multivisceral resection (MVR).&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+          -  Stage IV&#xD;
+&#xD;
+          -  Rectal cancer&#xD;
+&#xD;
+          -  Emergency surgery (&lt;48 hours from admission)&#xD;
+&#xD;
+          -  ASA &gt; III&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Gebhardt C, Meyer W, Ruckriegel S, Meier U. Multivisceral resection of advanced colorectal carcinoma. Langenbecks Arch Surg. 1999 Apr;384(2):194-9.</citation>
+    <PMID>10328174</PMID>
+  </reference>
+  <reference>
+    <citation>Sugarbaker PH, Corlew S. Influence of surgical techniques on survival in patients with colorectal cancer. Dis Colon Rectum. 1982 Sep;25(6):545-57. Review.</citation>
+    <PMID>6749455</PMID>
+  </reference>
+  <reference>
+    <citation>Edge SB, Compton CC. The American Joint Committee on Cancer: the 7th edition of the AJCC cancer staging manual and the future of TNM. Ann Surg Oncol. 2010 Jun;17(6):1471-4. doi: 10.1245/s10434-010-0985-4.</citation>
+    <PMID>20180029</PMID>
+  </reference>
+  <reference>
+    <citation>Vieira RA, Lopes A, Almeida PA, Rossi BM, Nakagawa WT, Ferreira FO, Melo CA. Prognostic factors in locally advanced colon cancer treated by extended resection. Rev Hosp Clin Fac Med Sao Paulo. 2004 Dec;59(6):361-8. Epub 2005 Jan 11.</citation>
+    <PMID>15654490</PMID>
+  </reference>
+  <reference>
+    <citation>Pittam MR, Thornton H, Ellis H. Survival after extended resection for locally advanced carcinomas of the colon and rectum. Ann R Coll Surg Engl. 1984 Mar;66(2):81-4.</citation>
+    <PMID>6703633</PMID>
+  </reference>
+  <reference>
+    <citation>Courtney D, McDermott F, Heeney A, Winter DC. Clinical review: surgical management of locally advanced and recurrent colorectal cancer. Langenbecks Arch Surg. 2014 Jan;399(1):33-40. doi: 10.1007/s00423-013-1134-x. Epub 2013 Nov 19. Review.</citation>
+    <PMID>24249035</PMID>
+  </reference>
+  <reference>
+    <citation>Croner RS, Merkel S, Papadopoulos T, Schellerer V, Hohenberger W, Goehl J. Multivisceral resection for colon carcinoma. Dis Colon Rectum. 2009 Aug;52(8):1381-6. doi: 10.1007/DCR.0b013e3181ab580b.</citation>
+    <PMID>19617748</PMID>
+  </reference>
+  <reference>
+    <citation>Hoffmann M, Phillips C, Oevermann E, Killaitis C, Roblick UJ, Hildebrand P, Buerk CG, Wolken H, Kujath P, Schloericke E, Bruch HP. Multivisceral and standard resections in colorectal cancer. Langenbecks Arch Surg. 2012 Jan;397(1):75-84. doi: 10.1007/s00423-011-0854-z. Epub 2011 Oct 4.</citation>
+    <PMID>21968828</PMID>
+  </reference>
+  <reference>
+    <citation>Mohan HM, Evans MD, Larkin JO, Beynon J, Winter DC. Multivisceral resection in colorectal cancer: a systematic review. Ann Surg Oncol. 2013 Sep;20(9):2929-36. doi: 10.1245/s10434-013-2967-9. Epub 2013 May 11. Review.</citation>
+    <PMID>23666095</PMID>
+  </reference>
+  <reference>
+    <citation>Zoucas E, Frederiksen S, Lydrup ML, Månsson W, Gustafson P, Alberius P. Pelvic exenteration for advanced and recurrent malignancy. World J Surg. 2010 Sep;34(9):2177-84. doi: 10.1007/s00268-010-0637-7.</citation>
+    <PMID>20512493</PMID>
+  </reference>
+  <reference>
+    <citation>Chang GJ, Kaiser AM, Mills S, Rafferty JF, Buie WD; Standards Practice Task Force of the American Society of Colon and Rectal Surgeons. Practice parameters for the management of colon cancer. Dis Colon Rectum. 2012 Aug;55(8):831-43. doi: 10.1097/DCR.0b013e3182567e13.</citation>
+    <PMID>22810468</PMID>
+  </reference>
+  <reference>
+    <citation>Kapoor S, Das B, Pal S, Sahni P, Chattopadhyay TK. En bloc resection of right-sided colonic adenocarcinoma with adjacent organ invasion. Int J Colorectal Dis. 2006 Apr;21(3):265-8. Epub 2005 Jun 7.</citation>
+    <PMID>15940511</PMID>
+  </reference>
+  <reference>
+    <citation>Landmann RG, Weiser MR. Surgical management of locally advanced and locally recurrent colon cancer. Clin Colon Rectal Surg. 2005 Aug;18(3):182-9. doi: 10.1055/s-2005-916279.</citation>
+    <PMID>20011301</PMID>
+  </reference>
+  <reference>
+    <citation>Lehnert T, Methner M, Pollok A, Schaible A, Hinz U, Herfarth C. Multivisceral resection for locally advanced primary colon and rectal cancer: an analysis of prognostic factors in 201 patients. Ann Surg. 2002 Feb;235(2):217-25.</citation>
+    <PMID>11807361</PMID>
+  </reference>
+  <reference>
+    <citation>López-Cano M, Mañas MJ, Hermosilla E, Espín E. Multivisceral resection for colon cancer: analysis of prognostic factors. Dig Surg. 2010 Aug;27(3):238-45. doi: 10.1159/000276974. Epub 2010 Jun 22.</citation>
+    <PMID>20571272</PMID>
+  </reference>
+  <reference>
+    <citation>Eveno C, Lefevre JH, Svrcek M, Bennis M, Chafai N, Tiret E, Parc Y. Oncologic results after multivisceral resection of clinical T4 tumors. Surgery. 2014 Sep;156(3):669-75. doi: 10.1016/j.surg.2014.03.040. Epub 2014 Jun 19.</citation>
+    <PMID>24953279</PMID>
+  </reference>
+  <reference>
+    <citation>Cukier M, Smith AJ, Milot L, Chu W, Chung H, Fenech D, Herschorn S, Ko Y, Rowsell C, Soliman H, Ung YC, Wong CS. Neoadjuvant chemoradiotherapy and multivisceral resection for primary locally advanced adherent colon cancer: a single institution experience. Eur J Surg Oncol. 2012 Aug;38(8):677-82. doi: 10.1016/j.ejso.2012.05.001. Epub 2012 May 24.</citation>
+    <PMID>22632848</PMID>
+  </reference>
+  <reference>
+    <citation>Darakhshan A, Lin BP, Chan C, Chapuis PH, Dent OF, Bokey L. Correlates and outcomes of tumor adherence in resected colonic and rectal cancers. Ann Surg. 2008 Apr;247(4):650-8. doi: 10.1097/SLA.0b013e318163d264.</citation>
+    <PMID>18362628</PMID>
+  </reference>
+  <reference>
+    <citation>Hunter JA, Ryan JA Jr, Schultz P. En bloc resection of colon cancer adherent to other organs. Am J Surg. 1987 Jul;154(1):67-71.</citation>
+    <PMID>2440334</PMID>
+  </reference>
+  <reference>
+    <citation>Govindarajan A, Coburn NG, Kiss A, Rabeneck L, Smith AJ, Law CH. Population-based assessment of the surgical management of locally advanced colorectal cancer. J Natl Cancer Inst. 2006 Oct 18;98(20):1474-81.</citation>
+    <PMID>17047196</PMID>
+  </reference>
+  <reference>
+    <citation>Leijssen LGJ, Dinaux AM, Amri R, Kunitake H, Bordeianou LG, Berger DL. The Impact of a Multivisceral Resection and Adjuvant Therapy in Locally Advanced Colon Cancer. J Gastrointest Surg. 2019 Feb;23(2):357-366. doi: 10.1007/s11605-018-3962-z. Epub 2018 Oct 3.</citation>
+    <PMID>30284199</PMID>
+  </reference>
+  <reference>
+    <citation>Law WL, Chu KW, Choi HK. Total pelvic exenteration for locally advanced rectal cancer. J Am Coll Surg. 2000 Jan;190(1):78-83.</citation>
+    <PMID>10625236</PMID>
+  </reference>
+  <reference>
+    <citation>Hoppe RT, Advani RH, Ai WZ, Ambinder RF, Aoun P, Bello CM, Benitez CM, Bernat K, Bierman PJ, Blum KA, Chen R, Dabaja B, Forero A, Gordon LI, Hernandez-Ilizaliturri FJ, Hochberg EP, Huang J, Johnston PB, Kaminski MS, Kenkre VP, Khan N, Maloney DG, Mauch PM, Metzger M, Moore JO, Morgan D, Moskowitz CH, Mulroney C, Poppe M, Rabinovitch R, Seropian S, Smith M, Winter JN, Yahalom J, Burns J, Ogba N, Sundar H. Hodgkin Lymphoma Version 1.2017, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2017 May;15(5):608-638.</citation>
+    <PMID>28476741</PMID>
+  </reference>
+  <reference>
+    <citation>Amri R, Bordeianou LG, Sylla P, Berger DL. Association of Radial Margin Positivity With Colon Cancer. JAMA Surg. 2015 Sep;150(9):890-8. doi: 10.1001/jamasurg.2015.1525.</citation>
+    <PMID>26132363</PMID>
+  </reference>
+  <reference>
+    <citation>Klaver CEL, Kappen TM, Borstlap WAA, Bemelman WA, Tanis PJ. Laparoscopic surgery for T4 colon cancer: a systematic review and meta-analysis. Surg Endosc. 2017 Dec;31(12):4902-4912. doi: 10.1007/s00464-017-5544-7. Epub 2017 Apr 21. Review.</citation>
+    <PMID>28432461</PMID>
+  </reference>
+  <reference>
+    <citation>Clavien PA, Barkun J, de Oliveira ML, Vauthey JN, Dindo D, Schulick RD, de Santibañes E, Pekolj J, Slankamenac K, Bassi C, Graf R, Vonlanthen R, Padbury R, Cameron JL, Makuuchi M. The Clavien-Dindo classification of surgical complications: five-year experience. Ann Surg. 2009 Aug;250(2):187-96. doi: 10.1097/SLA.0b013e3181b13ca2.</citation>
+    <PMID>19638912</PMID>
+  </reference>
+  <results_reference>
+    <citation>Ferlay J, Soerjomataram I, Dikshit R, Eser S, Mathers C, Rebelo M, Parkin DM, Forman D, Bray F. Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012. Int J Cancer. 2015 Mar 1;136(5):E359-86. doi: 10.1002/ijc.29210. Epub 2014 Oct 9.</citation>
+    <PMID>25220842</PMID>
+  </results_reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 30, 2020</study_first_posted>
+  <last_update_submitted>November 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Santo Spirito Hospital, Italy</investigator_affiliation>
+    <investigator_full_name>Francesca Cravero</investigator_full_name>
+    <investigator_title>Dirigente Medico I livello Chirurgia Generale</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data will retrospectively collected from a maintained database in each center, created by the. A local study manager will be identified for each participating center.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

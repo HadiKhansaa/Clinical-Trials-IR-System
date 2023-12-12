@@ -1,0 +1,166 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527588</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Michigan2020.USZ</org_study_id>
+    <nct_id>NCT04527588</nct_id>
+  </id_info>
+  <brief_title>Italian Translation of the Michigan Hand Outcomes Questionnaire</brief_title>
+  <official_title>Italian Translation and Cross-cultural Adaptation of the Michigan Hand Outcomes Questionnaire</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Zurich</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Zurich</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patient-Reported Outcome Measures (PROMs) are important clinical items for evaluating&#xD;
+      injuries and recovery of the hand. Some of the most used Questionnaires, unfortunately, are&#xD;
+      not available in Italian.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patient-Reported Outcome Measures (PROMs) are important clinical items for evaluating&#xD;
+      injuries and recovery of the hand. Some of the most used Questionnaires, unfortunately, are&#xD;
+      not available in Italian. This poses a problem when evaluating Italian speaking patients. Our&#xD;
+      aim is to develop a culturally adapted Italian version of the Michigan Hand Questionnaire.&#xD;
+      There is no risk involved for the patients, as the task of the recruited patients is to&#xD;
+      answer a survey (online and in clinics).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Validity</measure>
+    <time_frame>3 months</time_frame>
+    <description>Validity will be assessed as structural validity, i.e., &quot;the degree to which the scores of the Health-Related Patient Reported Outcome (HR-PRO) are an adequate reflection of the dimensionality of the construct to be measured&quot; (Mokkink et al., 2010).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reliability</measure>
+    <time_frame>3 months</time_frame>
+    <description>Reliability will be assessed as internal consistency (i.e., &quot;the degree of the interrelatedness among the items&quot; [Mokkink et al., 2010]), test-retest reliability (i.e., &quot;the proportion of the total variance in the measurements which is due to 'true' differences between patients&quot; [Mokkink et al., 2010]), and measurement error (i.e., &quot;the systematic and random error of a patient's score that is not attributed to true changes in the construct to be measured&quot; [Mokkink et al., 2010]).</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Hand Fracture</condition>
+  <condition>Hand Osteoarthritis</condition>
+  <condition>Hand Injury Wrist</condition>
+  <condition>Hand Sprain</condition>
+  <condition>Wrist Injuries</condition>
+  <condition>Wrist Fracture</condition>
+  <condition>Wrist Arthritis</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionaire Michigan</intervention_name>
+    <description>Patient-Reported Outcome Measures (PROMs) are important clinical items for evaluating injuries and recovery of the hand. The Michigan Hand Questionnaire is one of the most important.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Native Italian speaking patients followed by the Hand Therapy of the University Hospital&#xD;
+        Zürich and the Handtherapy Fairplay center of Bologna, IT, with a pathology of the hand/s&#xD;
+        and or wrist/s.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age &gt; 18 years&#xD;
+&#xD;
+          -  native Italian speakers&#xD;
+&#xD;
+          -  wrist/hand pathology&#xD;
+&#xD;
+          -  trauma (fractures, tendon injuries, etc.)&#xD;
+&#xD;
+          -  chronic pathology, the pathology has been present for at least 1 month (tenosynovitis,&#xD;
+             chronic arthrosis pain, rheumatic hand or wrist disorders)&#xD;
+&#xD;
+          -  in case of hand/wrist surgery: at least 4 weeks have elapsed since surgery to avoid&#xD;
+             that the patient could not perform certain actions evaluated by the scale, for example&#xD;
+             lifting a pan or shopping bags, due to normal post-operative precautions.&#xD;
+&#xD;
+          -  full possession of mental capacity&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  age &lt; 18 years&#xD;
+&#xD;
+          -  non-native Italian speakers of Italian, thus also excluding second generation Swiss&#xD;
+             Italians (&quot;secundo&quot;)&#xD;
+&#xD;
+          -  mental incapacity&#xD;
+&#xD;
+          -  upper limb in cast/locked by splint (criterion in Chung's article 98) at the time of&#xD;
+             the evaluation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maurizio Calcagni, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>University Hospital, Zürich</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maurizio Calcagni, MD</last_name>
+    <phone>+41442551111</phone>
+    <email>maurizio.calcagni@usz.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nora Huber, MD</last_name>
+    <phone>+41442551111</phone>
+    <email>nora.huber@usz.ch</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>September 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Zurich</investigator_affiliation>
+    <investigator_full_name>Maurizio Calcagni</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wounds and Injuries</mesh_term>
+    <mesh_term>Fractures, Bone</mesh_term>
+    <mesh_term>Hand Injuries</mesh_term>
+    <mesh_term>Wrist Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Patient-Reported Outcome Measures (PROMs) are important clinical items for evaluating injuries and recovery of the hand. Some of the most used Questionnaires, unfortunately, are not available in Italian. This poses a problem when evaluating Italian speaking patients. Our aim is to develop a culturally adapted Italian version of the Michigan Hand Questionnaire. There is no risk involved for the patients, as the task of the recruited patients is to answer a survey (online and in clinics).</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

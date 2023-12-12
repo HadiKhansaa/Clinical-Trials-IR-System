@@ -1,0 +1,498 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03983161</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FEDR-CP-001</org_study_id>
+    <secondary_id>U1111-1233-7820</secondary_id>
+    <nct_id>NCT03983161</nct_id>
+  </id_info>
+  <brief_title>A Pharmacokinetics and Tolerability Study of Fedratinib in Subjects With Moderate and Severe Hepatic Impairment</brief_title>
+  <official_title>A Phase 1 Open-label, Single-dose Study to Assess the Pharmacokinetics, Safety, and Tolerability of Fedratinib in Subjects With Moderate and Severe Hepatic Impairment Compared With Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celgene</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Impact Biomedicines, Inc., a wholly owned subsidiary of Celgene Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Celgene</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1, multicenter, nonrandomized, open-label, single oral dose study to assess&#xD;
+      the PK of fedratinib in subjects with moderate and severe hepatic impairment, and in matched&#xD;
+      subjects with normal hepatic function.&#xD;
+&#xD;
+      Degrees of hepatic impairment will be determined during screening by the subject's score&#xD;
+      according to Pugh's Modification of Child's Classification of Severity of Liver Disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 15, 2019</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>Yes</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Fedratinib Pharmacokinetic (PK): AUC0-t</measure>
+    <time_frame>Up to approximately 8 days.</time_frame>
+    <description>Estimation of AUC from time zero to the last measured time point</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fedratinib Pharmacokinetic (PK): AUC0-∞</measure>
+    <time_frame>Up to approximately 8 days.</time_frame>
+    <description>Estimation of AUC from time zero extrapolated to infinity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fedratinib Pharmacokinetic (PK): Cmax</measure>
+    <time_frame>Up to approximately 8 days.</time_frame>
+    <description>Estimation of maximum observed plasma concentration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fedratinib Pharmacokinetic (PK): Tmax</measure>
+    <time_frame>Up to approximately 8 days.</time_frame>
+    <description>Estimation of time to reach Cmax</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fedratinib Pharmacokinetic (PK): t1/2</measure>
+    <time_frame>Up to approximately 8 days.</time_frame>
+    <description>Estimation of terminal elimination half-life</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fedratinib Pharmacokinetic (PK): CL/F</measure>
+    <time_frame>Up to approximately 8 days.</time_frame>
+    <description>Estimation of apparent total plasma clearance when dosed orally</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fedratinib Pharmacokinetic (PK): Vz/F</measure>
+    <time_frame>Up to approximately 8 days.</time_frame>
+    <description>Estimation of apparent volume of distribution when dosed orally</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events (AEs)</measure>
+    <time_frame>From enrollment until at least 30 days after completion of study treatment</time_frame>
+    <description>Number of participants with adverse event</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <condition>Hepatic Impairment</condition>
+  <arm_group>
+    <arm_group_label>Fedratinib in moderate hepatic impairment subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single oral dose of 300 mg of fedratinib will be given to subjects with moderate hepatic impairment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fedratinib in severe hepatic impairment subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single dose of 200 mg of fedratinib will be given to subjects with severe hepatic impairment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fedratinib in healthy vs moderate hepatic impairment subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single oral dose of 300 mg of fedratinib will be given to healthy subjects with normal hepatic function.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fedratinib in healthy vs severe hepatic impairment subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single oral dose of 200 mg of fedratinib will be given to healthy subjects with normal hepatic function.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fedratinib</intervention_name>
+    <description>Fedratinib</description>
+    <arm_group_label>Fedratinib in healthy vs moderate hepatic impairment subjects</arm_group_label>
+    <arm_group_label>Fedratinib in healthy vs severe hepatic impairment subjects</arm_group_label>
+    <arm_group_label>Fedratinib in moderate hepatic impairment subjects</arm_group_label>
+    <arm_group_label>Fedratinib in severe hepatic impairment subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Inclusion Criteria for all subjects (Groups 1 through 4)&#xD;
+&#xD;
+        Subjects must satisfy the following criteria to be enrolled in the study:&#xD;
+&#xD;
+          1. Subject must understand and voluntarily sign an ICF prior to any study-related&#xD;
+             assessments/procedures being conducted.&#xD;
+&#xD;
+          2. Subject is willing and able to adhere to the study visit schedule and other protocol&#xD;
+             requirements, including the restrictions&#xD;
+&#xD;
+          3. Subject is male, or non-pregnant and non-nursing female ≥ 18 and ≤ 75 years of age at&#xD;
+             the time of signing the Informed Consent Form (ICF).&#xD;
+&#xD;
+          4. Subject has body mass index (BMI) ≥ 18 and ≤ 40 kg/m2 at screening.&#xD;
+&#xD;
+          5. Female subjects NOT of childbearing potential must:&#xD;
+&#xD;
+             a. Have been surgically sterilized (hysterectomy or bilateral oophorectomy; proper&#xD;
+             documentation required) at least 6 months before Screening, or postmenopausal (defined&#xD;
+             as 24 consecutive months without menses before Screening, with a follicle-stimulating&#xD;
+             hormone [FSH] level in the post-menopausal range according to the laboratory used at&#xD;
+             Screening); FSH to be performed at the discretion of the Investigator in consultation&#xD;
+             with the Sponsor's Medical Monitor.&#xD;
+&#xD;
+          6. A female of childbearing potential (FCBP) must:&#xD;
+&#xD;
+               1. Have a negative pregnancy test as verified by the Investigator at Screening and&#xD;
+                  Baseline (prior to starting study treatment). She must agree to ongoing pregnancy&#xD;
+                  testing during the course of the study, as applicable, and after the end of study&#xD;
+                  treatment. This applies even if the subject practices true abstinence from&#xD;
+                  heterosexual contact.&#xD;
+&#xD;
+               2. Either commit to true abstinence from heterosexual contact (which must be&#xD;
+                  reviewed on a monthly basis, as applicable, and source documented) or agree to&#xD;
+                  use, and be able to comply with, any one of the following highly effective&#xD;
+                  contraception methods without interruption, beginning at least 14 days prior to&#xD;
+                  dosing, during the study treatment, and for at least 30 days after the last dose&#xD;
+                  of IP.&#xD;
+&#xD;
+                    -  Hormonal contraception (eg, birth control pills, intravaginal ring,&#xD;
+                       transdermal patch, injection, implant); intrauterine device (IUD); tubal&#xD;
+                       ligation; or a partner with a vasectomy. The chosen form of birth control&#xD;
+                       must be effective by the time the subject receives the first dose of IP.&#xD;
+&#xD;
+          7. Male subjects must:&#xD;
+&#xD;
+             a. Practice true abstinence (which must be reviewed monthly, as applicable, and source&#xD;
+             documented) or agree to use a barrier method of birth control (condoms not made from&#xD;
+             natural [animal] membrane [latex condoms are recommended]) during sexual contact with&#xD;
+             a pregnant female or FCBP while receiving study treatment, and for at least 30 days&#xD;
+             after the last dose of IP, even if he has undergone a successful vasectomy.&#xD;
+&#xD;
+          8. Subject has clinical laboratory safety test results that are within normal limits or&#xD;
+             acceptable to the Investigator.&#xD;
+&#xD;
+          9. Subject is afebrile (febrile is defined as ≥ 38°C or 100.3°F), with supine systolic&#xD;
+             blood pressure (BP) ≥ 90 and ≤ 160 mm Hg, supine diastolic BP ≥ 50 and ≤ 100 mm Hg,&#xD;
+             and pulse rate ≥ 40 and ≤ 100 beats per minute at Screening.&#xD;
+&#xD;
+             Inclusion Criteria for Subjects with Moderate or Severe Hepatic Impairment (Groups 1&#xD;
+             and 3)&#xD;
+&#xD;
+             Each subject with moderate or severe hepatic impairment must also meet all the&#xD;
+             criteria listed below for entry:&#xD;
+&#xD;
+         10. Subject has moderate or severe hepatic impairment or cirrhosis due to chronic hepatic&#xD;
+             disease and/or prior alcohol use.&#xD;
+&#xD;
+         11. Subject has moderate (Group 1) or severe (Group 3) hepatic impairment as defined by&#xD;
+             Child-Pugh Score.&#xD;
+&#xD;
+               -  Group 1 subjects (moderate hepatic impairment) are required to have documented&#xD;
+                  confirmation of the diagnosis of cirrhosis made by biopsy, laparoscopy, or&#xD;
+                  imaging study with a Child-Pugh score of ≥ 7 to ≤ 9 at Screening.&#xD;
+&#xD;
+               -  Group 3 subjects (severe hepatic impairment) are required to have documented&#xD;
+                  confirmation of the diagnosis of cirrhosis made by biopsy, laparoscopy, or&#xD;
+                  imaging study with a Child-Pugh score of ≥ 10 to ≤ 13 at Screening.&#xD;
+&#xD;
+             If biopsy or laparoscopy is not performed prior to Screening, subjects can be included&#xD;
+             only if they have chronic liver disease and objective evidence of portal hypertension&#xD;
+             (ascites diagnosis by imaging or varices), or current medication for consequences of&#xD;
+             portal hypertension.&#xD;
+&#xD;
+             Subjects should be enrolled into the group corresponding to the Child-Pugh&#xD;
+             classification score that most accurately reflects the most severe hepatic disease&#xD;
+             classification within the past 6 months (based on past medical history or physical&#xD;
+             examination observation).&#xD;
+&#xD;
+             *Note: If a Child-Pugh score was previously calculated and documented in the last 6&#xD;
+             months, and it is more severe than the one calculated at Screening, then that previous&#xD;
+             value will be used for study entry purposes. If the Screening Child-Pugh score is more&#xD;
+             severe, then it will be used. If no score was calculated in the 6 months prior to&#xD;
+             Screening, then the score obtained at Screening will be used. Adequate documentation&#xD;
+             should be provided to substantiate the Child-Pugh score assigned to each subject.&#xD;
+&#xD;
+         12. Subject must be medically stable for at least 1 month before Screening with clinically&#xD;
+             acceptable medical history, PE, clinical laboratory tests, vital signs, and 12-lead&#xD;
+             ECGs consistent with the underlying stable hepatic impairment condition, as judged by&#xD;
+             the Investigator.&#xD;
+&#xD;
+         13. Subject must be stable on a concomitant medication regimen (defined as not starting a&#xD;
+             new medication[s] or a change in the dosage or frequency of the concomitant&#xD;
+             medication[s] within 7 days or 5 half-lives [whichever is longer] before dosing with&#xD;
+             fedratinib).&#xD;
+&#xD;
+         14. Subject may be treated with diuretics for ascites. Subjects with severe ascites at&#xD;
+             time of enrollment may be included at the discretion of the Investigator.&#xD;
+&#xD;
+         15. Subject may have a history of encephalopathy; however, they must be on stable&#xD;
+             treatment for at least 1 month prior to Screening, and must not have had an acute&#xD;
+             encephalopathic episode in the 1 month prior to Screening.&#xD;
+&#xD;
+         16. Subjects must not have history of hepatorenal syndrome or hemolysis.&#xD;
+&#xD;
+         17. Subject has a normal or clinically acceptable 12-lead ECG at Screening (QTcF ≤ 480&#xD;
+             msec).&#xD;
+&#xD;
+         18. Subject must have estimated creatinine clearance ≥ 60 mL/min at Screening as&#xD;
+             calculated by the Cockcroft-Gault formula.&#xD;
+&#xD;
+             Inclusion Criteria for a Matched Healthy Subjects (Groups 2 and 4) Each matched&#xD;
+             healthy subject must meet all the criteria listed below for entry:&#xD;
+&#xD;
+         19. Subject is free of any clinically significant disease that would interfere with the&#xD;
+             study evaluations.&#xD;
+&#xD;
+         20. Subject has liver-related laboratory test results within the respective reference&#xD;
+             ranges or judged as clinically acceptable by the Investigator.&#xD;
+&#xD;
+         21. Subject must match a subject in Groups 1 or 3, as needed, with respect to sex, age (±&#xD;
+             10 years), and weight (± 13.6 kg [30 pounds]).&#xD;
+&#xD;
+         22. Subject is in good health as determined by past medical history, PE, vital signs, ECG,&#xD;
+             and clinical laboratory safety tests. Clinical laboratory safety tests (ie,&#xD;
+             hematology, chemistry, and urinalysis) and 12-lead ECGs must be within normal limits&#xD;
+             or clinically acceptable as judged by the Investigator.&#xD;
+&#xD;
+         23. Subject has a normal or clinically acceptable 12-lead ECG at Screening. In addition:&#xD;
+&#xD;
+               1. If male, subject has a QTcF value ≤ 450 msec at Screening.&#xD;
+&#xD;
+               2. If female, subject has a QTcF value ≤ 470 msec at Screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        The presence of any of the following will exclude a subject from enrollment:&#xD;
+&#xD;
+          1. Subject has prior history of Wernicke's encephalopathy (WE).&#xD;
+&#xD;
+          2. Subject has signs or symptoms of WE (eg, severe ataxia, ocular paralysis or cerebellar&#xD;
+             signs) without documented exclusion of WE by thiamine level and brain MRI.&#xD;
+&#xD;
+          3. Subject has thiamine deficiency, defined as thiamine levels in whole blood below&#xD;
+             normal range according to institutional standard and not demonstrated to be corrected&#xD;
+             prior to enrollment into the study.&#xD;
+&#xD;
+          4. Subject has any significant and relevant medical condition, laboratory abnormality, or&#xD;
+             psychiatric illness that would prevent the subject from participating in the study at&#xD;
+             the Investigator's discretion.&#xD;
+&#xD;
+          5. Subject has any condition that places the subject at an unacceptable risk if he or she&#xD;
+             were to participate in the study.&#xD;
+&#xD;
+          6. Subject has any condition that confounds the ability to interpret data from the study.&#xD;
+&#xD;
+          7. Subject is pregnant or breastfeeding.&#xD;
+&#xD;
+          8. Subject was exposed to an investigational drug (new chemical entity) within 30 days&#xD;
+             preceding the first dose administration, or 5 half-lives of that investigational drug,&#xD;
+             if known (whichever was longer).&#xD;
+&#xD;
+          9. Subject has used moderate or strong CYP3A4 and/or CYP2C19 inducers and/or inhibitors&#xD;
+             (including St. John's wort) within 14 days or 5 half-lives, whichever is longer, prior&#xD;
+             to the first dose administration. The Indiana University &quot;Cytochrome P450 Drug&#xD;
+             Interaction Table&quot; should be utilized to determine inhibitors and/or inducers of&#xD;
+             CYP3A4 (http://medicine.iupui.edu/clinpharm/ddis/table.aspx).&#xD;
+&#xD;
+         10. Subject has any surgical or medical condition(s) possibly affecting drug absorption,&#xD;
+             distribution, metabolism, and excretion, eg, bariatric procedure. Subjects with&#xD;
+             appendectomy and cholecystectomy may be included.&#xD;
+&#xD;
+         11. Subject donated blood or plasma within 2 weeks before dose administration to a blood&#xD;
+             bank or blood donation center.&#xD;
+&#xD;
+         12. Subject has a history of drug abuse (as defined by the current version of the&#xD;
+             Diagnostic and Statistical Manual) within 2 years before dose administration, or&#xD;
+             positive drug screening test reflecting consumption of illicit drugs.&#xD;
+&#xD;
+             a. If positive drug screen in a subject with hepatic impairment is due to prescription&#xD;
+             drug use, the specific drug and dosing regimen of the prescription drug must be&#xD;
+             reviewed with the Sponsor's Medical Monitor to ensure lack of interference with the PK&#xD;
+             assessments of this study, according to the protocol. The decision and its rationale&#xD;
+             will be documented in the Trial Master File.&#xD;
+&#xD;
+         13. Subject has a history of alcohol abuse (as defined by the current version of the&#xD;
+             Diagnostic and Statistical Manual) within 1 year before dose administration, or a&#xD;
+             positive alcohol screen.&#xD;
+&#xD;
+         14. Subject has had a positive result to the test for human immunodeficiency virus (HIV)&#xD;
+             antibodies at Screening.&#xD;
+&#xD;
+         15. Subject smokes more than 10 cigarettes per day, or the equivalent in other tobacco&#xD;
+             products (self-reported).&#xD;
+&#xD;
+         16. Subject has received live vaccination (excluding seasonal flu vaccination) within 90&#xD;
+             days of dosing.&#xD;
+&#xD;
+         17. Subject is part of the clinical staff personnel or a family member of the study site&#xD;
+             staff.&#xD;
+&#xD;
+         18. Subject is, for any reason, deemed by the investigator to be inappropriate for this&#xD;
+             study, including a subject who is unable to communicate or to cooperate with the&#xD;
+             Investigator or the clinical staff.&#xD;
+&#xD;
+         19. Subject has a hypersensitivity to ondansetron. 4.3.1. Exclusion Criteria for Subjects&#xD;
+             with Moderate or Severe Hepatic Impairment (Groups 1 and 3) The presence of any of the&#xD;
+             following will exclude a hepatically-impaired subject from enrollment:&#xD;
+&#xD;
+         20. Subject has any serious medical condition (excluding hepatic impairment and related&#xD;
+             complications), clinically significant laboratory abnormality not related to hepatic&#xD;
+             impairment and related complications, or psychiatric illness that would prevent the&#xD;
+             subject from signing the ICF and participating in the study per Investigator&#xD;
+             discretion.&#xD;
+&#xD;
+         21. Subject has current hepatic encephalopathy with time- or place- disorientation,&#xD;
+             somnolence, stupor, coma, no personality/behavior, rigidity, or hyperactive reflexes -&#xD;
+             or has had such within 1 month of Screening. Hepatic subjects with history of grade 3&#xD;
+             or 4 encephalopathy who are treated with concomitant medications to control&#xD;
+             encephalopathy will receive pre-treatment score for the Child-Pugh classification.&#xD;
+&#xD;
+         22. Subject has a history of incipient/planned liver transplantation within 6 months of&#xD;
+             Screening or has received a liver transplant.&#xD;
+&#xD;
+             Exclusion Criteria for a Matched Healthy Subject (Groups 2 and 4) Each matched healthy&#xD;
+             subject will be excluded from entry if any of the criteria listed below are met:&#xD;
+&#xD;
+         23. Subject has any clinically significant laboratory abnormality that, in the opinion of&#xD;
+             the Investigator, is considered to prevent the subject from safely completing the&#xD;
+             study.&#xD;
+&#xD;
+         24. Subject has any unstable clinically significant illness within 3 months prior to the&#xD;
+             study.&#xD;
+&#xD;
+         25. Subject has any significant medical condition, laboratory abnormality, or psychiatric&#xD;
+             illness that would prevent the subject from participating in the study.&#xD;
+&#xD;
+         26. Subject has used any prescribed systemic or topical medication (including but not&#xD;
+             limited to analgesics, anesthetics, etc) within 30 days or 5 drug half-lives&#xD;
+             (whichever is longer) prior to the first dose administration of fedratinib.&#xD;
+&#xD;
+             a. A subject who has used (or will have used) a prescribed medication less than 30&#xD;
+             days prior to (but at least 5 half-lives prior to) fedratinib dosing may be admitted&#xD;
+             into the study if such usage is not expected by the Investigator to have persistent PK&#xD;
+             effects at the time of fedratinib dosing. Such effects may include, but are not&#xD;
+             limited to, cytochrome induction or covalent cytochrome inhibition. These cases must&#xD;
+             be approved by Sponsor's Medical Monitor. The decision and its rationale will be&#xD;
+             documented in the Trial Master File.&#xD;
+&#xD;
+         27. Subject has used any nonprescribed systemic or topical medication (including&#xD;
+             vitamin/mineral supplements, and herbal medicines) within 14 days or 5 drug half-lives&#xD;
+             (whichever is longer) prior to the first dose administration of fedratinib.&#xD;
+&#xD;
+             a. A subject who has used (or will have used) a nonprescribed medication less than 14&#xD;
+             days prior to (but at least 5 half-lives prior to) fedratinib dosing may be admitted&#xD;
+             into the study if such usage is not expected by the Investigator to have persistent PK&#xD;
+             effects at the time of fedratinib dosing. Such effects may include, but are not&#xD;
+             limited to, cytochrome induction or covalent cytochrome inhibition. These cases must&#xD;
+             be approved by Sponsor's Medical Monitor. The decision and its rationale will be&#xD;
+             documented in the Trial Master File.&#xD;
+&#xD;
+         28. Subject is known to have a history of hepatitis B and/or hepatitis C, or have a&#xD;
+             positive result to the test for HIV antibodies at screening Note: Subjects who&#xD;
+             received hepatitis B vaccination and who test positive for hepatitis B surface&#xD;
+             antibody and negative for both hepatitis B surface antigen and hepatitis B core&#xD;
+             antibody remain eligible for study participation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leon Carayannopoulos, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Celgene Corporation</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Associate Director Clinical Trial Disclosure</last_name>
+    <phone>1-888-260-1599</phone>
+    <email>clinicaltrialdisclosure@celgene.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Miami Miller School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Orlando Clinical Research Center OCRC</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Volunteer Research Group and New Orleans Center for Clinical Research - Knoxville</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>June 10, 2019</study_first_submitted>
+  <study_first_submitted_qc>June 10, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 12, 2019</study_first_posted>
+  <last_update_submitted>December 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy Subjects</keyword>
+  <keyword>Fedratinib</keyword>
+  <keyword>Hepatic impairment</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Information relating to our policy on data sharing and the process for requesting data can be found at the following link:&#xD;
+https://www.celgene.com/research-development/clinical-trials/clinical-trials-data-sharing/</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>See Plan Description</ipd_time_frame>
+    <ipd_access_criteria>See Plan Description</ipd_access_criteria>
+    <ipd_url>https://www.celgene.com/research-development/clinical-trials/clinical-trials-data-sharing/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

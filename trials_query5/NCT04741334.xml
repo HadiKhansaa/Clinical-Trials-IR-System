@@ -1,0 +1,271 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04741334</url>
+  </required_header>
+  <id_info>
+    <org_study_id>36042/19 2721</org_study_id>
+    <nct_id>NCT04741334</nct_id>
+  </id_info>
+  <brief_title>Mild Head Injury, Antiplatelets, and Anticoagulants</brief_title>
+  <official_title>Mild Head Injury and Oral Anticoagulants: a Prospective Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Approximately 20% of MHI patients presenting in PS take antiplatelet agents and 10% take oral&#xD;
+      anticoagulant therapy.&#xD;
+&#xD;
+      Our study aim is to evaluate the prevalence of cerebral hemorrhage in patients arriving in ED&#xD;
+      with an MHI. Furthermore, we aim to establish whether the intake of antiplatelet and&#xD;
+      anticoagulants may represent a risk factor for the onset of cerebral hemorrhage and&#xD;
+      mortality. A prospective observational study that will include all patients who will refer to&#xD;
+      the Emergency Department of the Gemelli Polyclinic for an MHI for 2 years. Patients will be&#xD;
+      divided into four groups based on the use or less of anticoagulants and antiplatelet agents.&#xD;
+      We will compare the groups to assess the possible increased risk of complications in patients&#xD;
+      under treatment and between the various drugs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Mild head injury (MHI) is one of the leading causes of access to the emergency room.&#xD;
+      Approximately 20% of MHI patients presenting in PS with mild brain injury take antiplatelet&#xD;
+      agents and 10% take oral anticoagulant therapy. The data available to characterize the risk&#xD;
+      of adverse events in patients with MHI using DOAC are few and of poor quality.&#xD;
+&#xD;
+      Our study aim is to evaluate the prevalence of cerebral hemorrhage in patients arriving in ED&#xD;
+      with an MHI. Furthermore, we aim to establish whether the intake of antiplatelet and&#xD;
+      anticoagulants may represent a risk factor for the onset of cerebral hemorrhage and&#xD;
+      mortality. A prospective observational study that will include all patients who will refer to&#xD;
+      the Emergency Department of the Gemelli Polyclinic for an MHI for 2 years. Patients will be&#xD;
+      divided into four groups based on recruitment or less of anticoagulants and antiplatelet&#xD;
+      agents. We will then determine for each group the prevalence of cerebral hemorrhage,&#xD;
+      hospitalization, neurosurgical intervention, and mortality at different follow-up times. We&#xD;
+      will compare the groups to assess the possible increased risk in patients under treatment and&#xD;
+      between the various drugs.&#xD;
+&#xD;
+      We expect that in head trauma the use of dicumarol anticoagulants and antiplatelet agents is&#xD;
+      associated with a greater risk of cerebral bleeding compared to DOACs. We also expect that&#xD;
+      patients taking DOAC have a greater risk of bleeding than patients not undergoing any type of&#xD;
+      antiplatelet/anticoagulant treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 27, 2019</start_date>
+  <completion_date type="Anticipated">September 27, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 27, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>early Cerebral hemorrhage</measure>
+    <time_frame>24 hours</time_frame>
+    <description>evidence of cerebral hemorrhage at head CT scan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>skull fracture</measure>
+    <time_frame>24 hours</time_frame>
+    <description>evidence of skull fracture at head CT scan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hospital admission</measure>
+    <time_frame>48 hours</time_frame>
+    <description>Hospital admission for head trauma complicance</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>early mortality</measure>
+    <time_frame>24 hours</time_frame>
+    <description>all cause mortality at 1 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>late mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>all cause mortality at 30 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>late cerebral hemorrhage</measure>
+    <time_frame>30 days</time_frame>
+    <description>evidence of cerebral hemorrhage at head CT scan</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">1800</enrollment>
+  <condition>Craniocerebral Trauma</condition>
+  <condition>Cerebral Hemorrhage</condition>
+  <arm_group>
+    <arm_group_label>patients not in therapy with anticoagulants or antiplatelets drugs</arm_group_label>
+    <description>Patients presenting in ED with mild head trauma and not in therapy with antiplatelets and/or anticoagulants drugs</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients in therapy with direct anticoagulant</arm_group_label>
+    <description>Patients presenting in ED with mild head trauma and in therapy with direct anticoagulants drugs</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients in therapy with oral anticoagulant (dicumarolics)</arm_group_label>
+    <description>Patients presenting in ED with mild head trauma and in therapy with oral anticoagulants drugs (dicumarolics)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients in therapy with antiplatelet drugs</arm_group_label>
+    <description>Patients presenting in ED with mild head trauma and in therapy with antiplatelet drugs</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>direct anticoagulant</intervention_name>
+    <description>exposure to direct anticoagulant</description>
+    <arm_group_label>patients in therapy with direct anticoagulant</arm_group_label>
+    <other_name>DOAC,</other_name>
+    <other_name>NAO</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>antiplatelet drugs</intervention_name>
+    <description>exposure to antiplatelet drugs</description>
+    <arm_group_label>patients in therapy with antiplatelet drugs</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dicumarolics</intervention_name>
+    <description>exposure to dicumarolics</description>
+    <arm_group_label>patients in therapy with oral anticoagulant (dicumarolics)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        We enrolled all patients over 18 years of age presenting at the ED of the Fondazione&#xD;
+        Policlinico Gemelli of Rome, who will refer to minor head trauma (GCS&gt; 13) and who will&#xD;
+        give consent to participate in the study For all enrolled patients, we will collect blood&#xD;
+        chemistry tests, with particular reference to coagulation parameters, history of known risk&#xD;
+        factors present at the time of trauma, data on risk factors present at the physical&#xD;
+        examination, data relating to head CT scans performed during ED stay, data relating to drug&#xD;
+        therapy taken and finally data relating to hospitalization and surgery. Finally, the data&#xD;
+        of a possible one-month check-up visit will be collected. The follow-up visit will be&#xD;
+        recommended according to guidelines to a subgroup of these patients. The telephone number&#xD;
+        for an interview one month after the visit to the PS will be collected to evaluate the&#xD;
+        clinical outcome ar 30 days.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients presenting with head trauma within 6 hours from the trauma w&#xD;
+&#xD;
+          -  Age&gt; 17 years&#xD;
+&#xD;
+          -  GCS&gt; 13 (Glasgow Coma Scale)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of serious diseases with a potentially less than one-month prognosis (patient&#xD;
+             with trauma following syncope from severe cardiovascular disease such as pulmonary&#xD;
+             embolism, myocardial infarction, ventricular arrhythmias, aortic dissection, aortic&#xD;
+             aneurysm rupture)&#xD;
+&#xD;
+          -  Severe trauma in other body areas (identified in the ED by means of CT of other body&#xD;
+             areas such as chest CT, abdomen CT, total body CT).&#xD;
+&#xD;
+          -  history of congenital or acquired coagulation disorders (Haemophiliacs, patients with&#xD;
+             severe liver cirrhosis)&#xD;
+&#xD;
+          -  Patients undergoing dual antiplatelets drugs or combination therapy of antiplatelet&#xD;
+             and anticoagulant&#xD;
+&#xD;
+          -  Patients presenting with a GCS&gt;13 and with focal neurologic deficits, suspected sunken&#xD;
+             fracture, or clinical signs of skull base fracture&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marcello Candelli, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fondazione Policlinico Gemelli</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marcello Candelli, Dr</last_name>
+    <phone>+393472309190</phone>
+    <email>mcandelli@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Francesco Franceschi, Prof</last_name>
+    <phone>+390630153227</phone>
+    <email>francesco.franceschi@policlinicogemelli.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Fondazione Policlinico Universitario Agostino Gemelli - IRCCS</name>
+      <address>
+        <city>Roma</city>
+        <state>Rm</state>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marcello Candelli, Dr</last_name>
+      <phone>+393472309190</phone>
+      <email>mcandelli@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Francesco Franceschi, Prof</last_name>
+      <phone>+390630153227</phone>
+      <email>francesco.franceschi@policlinicogemelli.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 5, 2021</study_first_posted>
+  <last_update_submitted>February 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</investigator_affiliation>
+    <investigator_full_name>Marcello Candelli</investigator_full_name>
+    <investigator_title>Adjunct Professor</investigator_title>
+  </responsible_party>
+  <keyword>Mild head injury</keyword>
+  <keyword>Traumatic cerebral hemorrhage</keyword>
+  <keyword>Direct anticoagulants drugs</keyword>
+  <keyword>Antiplatelets drugs</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Craniocerebral Trauma</mesh_term>
+    <mesh_term>Cerebral Hemorrhage</mesh_term>
+    <mesh_term>Hemorrhage</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anticoagulants</mesh_term>
+    <mesh_term>Platelet Aggregation Inhibitors</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

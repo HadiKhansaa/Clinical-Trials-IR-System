@@ -1,0 +1,279 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04647448</url>
+  </required_header>
+  <id_info>
+    <org_study_id>274197</org_study_id>
+    <nct_id>NCT04647448</nct_id>
+  </id_info>
+  <brief_title>Multisensor Array for the Localisation of Coronary Artery Stenosis (MALCAS)</brief_title>
+  <acronym>MALCAS</acronym>
+  <official_title>Multisensor Array for the Localisation of Coronary Artery Stenosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Barts &amp; The London NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brunel University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Barts &amp; The London NHS Trust</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a proof of concept study involving a novel medical device, developed to investigate&#xD;
+      the potential for detecting and localising coronary artery stenosis. A prototype device will&#xD;
+      be used in the proposed clinical investigation. It is a stick-on patch containing sensors&#xD;
+      which measure the sound produced at and the movement of, the chest surface by flowing blood&#xD;
+      as it accelerates through the stenosis and becomes disturbed as it emerges downstream,&#xD;
+      allowing the blockage to be detected and localised non-invasively.&#xD;
+&#xD;
+      The proposed clinical investigation will involve a small number of patients and healthy&#xD;
+      volunteers. The patients will be drawn from those attending The BartsHeart Centre for&#xD;
+      suspected or diagnosed coronary artery disease and all clinical measurements will take place&#xD;
+      at Barts Health Trust. The patch to be used in the proposed clinical investigation&#xD;
+      incorporates commercially available sensors and will be tested by recording acoustic&#xD;
+      signatures in healthy volunteers, then in patients undergoing coronary CT angiography at&#xD;
+      Barts. Signals will be analysed initially by measuring their acoustic energy at various&#xD;
+      frequencies and in later iterations, by a machine-learning algorithm. Results will be&#xD;
+      validated against the CT angiography gold standard.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This project is a trial of a novel device, in the form of a stick-on patch containing&#xD;
+      miniature accelerometers and microphones, designed to detect sounds produced by disturbed&#xD;
+      blood flow in stenosed coronary arteries. Initially, acoustic data will be collected from a&#xD;
+      small group of healthy volunteers to confirm proof of concept. Recordings from the patch will&#xD;
+      then be made on up to 100 patients who, having presented with chest pain to the Barts Heart&#xD;
+      Clinic, are undergoing simultaneous CTa investigations to determine the presence or absence&#xD;
+      of occlusive CAD.&#xD;
+&#xD;
+      The purpose of the study is to determine if the nature of the signals recorded by the patch&#xD;
+      makes it possible to distinguish those patients who have identifiable CAD, as detected by CTa&#xD;
+      (the reference method) from those in whom no occlusive lesions can be seen in the CTa images.&#xD;
+      The measurements on patients will be preceded by a trial on 20 healthy volunteers to&#xD;
+      establish base line readings and to ensure the reliability of the patch and the associated&#xD;
+      data acquisition system, in the field.&#xD;
+&#xD;
+      Coronary artery disease (CAD) is the leading cause of death worldwide. In Europe alone in&#xD;
+      2014 the resulting cost of health care, and lost production was around €100 billion per year&#xD;
+      (Nichols. M et al. 2014). Existing diagnostic methods apart from ECG require skilled&#xD;
+      operators and expensive equipment.&#xD;
+&#xD;
+      Recent advances in cCTA make it possible to detect and localise occlusive lesions with high&#xD;
+      accuracy and precision, whilst minimising the use of contrast media, albeit at the cost of&#xD;
+      some exposure to ionising radiation. Of equal or greater concern is the fact that&#xD;
+      approximately 2/3 of symptomatic patients are found, on investigation, to be occlusion-free&#xD;
+      (Patel et al. 2010), representing a great waste of resources and thus a loss of productivity&#xD;
+      for the healthcare system and the patients themselves, to say nothing of their distress on&#xD;
+      facing a false positive diagnosis and the risks associated with contrast injection and&#xD;
+      exposure to unnecessary ionising radiation.&#xD;
+&#xD;
+      The non-invasive system proposed here would be applied to symptomatic patients with stable&#xD;
+      chest pain attending a cardiac outpatient clinic with the intention of screening out the 2/3&#xD;
+      mentioned above, resulting in large cost and time savings.&#xD;
+&#xD;
+      More generally, prevention of CAD, facilitated by routine screening in a primary care setting&#xD;
+      would also have the potential to relieve the economy of a major burden. Thus, there is scope&#xD;
+      for enormous life and cost saving in the early-days detection and mitigation of CHD. Apart&#xD;
+      from the immediate cost savings the longer term benefits include, for example, more&#xD;
+      appropriate allocation of imaging infrastructure, streamlining of patients in intermediate&#xD;
+      risk categories who require a more refined risk stratification; a novel technology with&#xD;
+      potential application to other near surface sites (e.g. carotid stenosis) and with potential&#xD;
+      development for deep sites (e.g. femoral stenosis); a sensing device suited to the&#xD;
+      localisation software being developed by co-workers arising from our previous EPSRC funding.&#xD;
+      There is also the potential for a 'take home' diagnostic kit which can collect and report&#xD;
+      data via domestic WiFi.&#xD;
+&#xD;
+      Current assessment of patients with symptoms of CAD who are referred to cardiac clinics is in&#xD;
+      most cases recommendation for a non-invasive imaging test, followed, if positive, by invasive&#xD;
+      coronary angiography. In 2010-2012 at Barts Health only 25% of coronary CT angiography scans&#xD;
+      were followed by invasive confirmation of advanced disease or treatment with either coronary&#xD;
+      angioplasty or bypass graft surgery (Villadsen et al. 2016). This was observed in a&#xD;
+      population of patients &quot;appropriately referred&quot; to testing, according to current NICE&#xD;
+      clinical guideline 95. www.nice.org.uk/guidance/CG95.&#xD;
+&#xD;
+      This percentage is in keeping with a large US multicentre registry where around 65% of the&#xD;
+      patients were found to be free of occlusive vascular disease following angiographic&#xD;
+      investigation (Patel et al. 2010). This study also showed that, although some demographic and&#xD;
+      clinical characteristics could be useful in determining the likelihood of obstructive&#xD;
+      coronary artery disease, the incremental value of non-invasive tests (resting ECG,&#xD;
+      echocardiography, imaging stress tests and coronary CT angiography) was limited. The&#xD;
+      implications are two-fold: whilst clinical assessment alone is insufficient to diagnose or&#xD;
+      exclude the presence of disease, imaging tests have an exceedingly low diagnostic yield. It&#xD;
+      was estimated that the volume of unnecessary non-invasive tests performed in the US in the&#xD;
+      decade between 2000 and 2010 cost the US economy more than $500m (Ladapo, Blecker, and&#xD;
+      Douglas 2014).&#xD;
+&#xD;
+      Despite impressive technological advances in medical imaging equipment introduced over the&#xD;
+      last years, translating into better accuracy and precision, we are witnessing a paradoxical&#xD;
+      increase in the number of imaging tests performed per year, which also includes multiple&#xD;
+      testing in the same patient (Andrus and Welch 2012).&#xD;
+&#xD;
+      Given the financial pressure on the healthcare system, large numbers of unnecessary imaging&#xD;
+      tests are unsustainable, as are the productivity losses related to hospital visits, the risks&#xD;
+      of false positive findings, and unnecessary referrals to invasive procedures which expose&#xD;
+      patients to the risk of complications (e.g. bleeding, contrast induced nephropathy, stroke,&#xD;
+      repeat radiation exposure).&#xD;
+&#xD;
+      We propose a non-invasive system to pre-screen symptomatic patients attending a cardiac&#xD;
+      outpatients' clinic. This approach is aimed at supporting a more appropriate use of imaging&#xD;
+      resources, refining the identification of patients requiring an imaging test and/or an&#xD;
+      invasive procedure, reducing the number of unnecessary imaging tests and angiographic&#xD;
+      investigations, resulting in large cost and time savings.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 11, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 29, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnostic accuracy</measure>
+    <time_frame>Through study completion, 1 year</time_frame>
+    <description>Diagnostic accuracy of the device (stick-on patch) for indicating the presence or absence of one or more coronary arterial stenoses as indicated by the reference method (CT angiography results)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stenosis severity</measure>
+    <time_frame>Through study completion, 1 year</time_frame>
+    <description>Comparison of the magnitude of the disturbed flow to the severity of the stenosis as measured from the CTa images.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of stenoses</measure>
+    <time_frame>Through study completion, 1 year</time_frame>
+    <description>To determine agreement between the number of stenoses detected by the reference method and the number suggested by the signal characteristics of the test device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stenosis position</measure>
+    <time_frame>Through study completion, 1 year</time_frame>
+    <description>To assess the degree of agreement between the position of each stenosis as determined by the reference method and the position suggested by the signal characteristics of the test device</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>CORONARY ARTERY DISEASE</condition>
+  <arm_group>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+    <description>Participants with no known cardiovascular disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chest pain</arm_group_label>
+    <description>Patients with symptoms of chest pain, undergoing elective coronary artery CT</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Application of sensor patch</intervention_name>
+    <description>Application of sensor patch to chest to record acoustic signals due to disturbed blood flow.</description>
+    <arm_group_label>Chest pain</arm_group_label>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Male and female, minimum age 18 years. Healthy volunteers selected by advertisement&#xD;
+        Patients selected from those attending Barts Heart Centre for elective coronary CT&#xD;
+        angiography.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (healthy volunteers):&#xD;
+&#xD;
+          -  Healthy&#xD;
+&#xD;
+          -  Not pregnant&#xD;
+&#xD;
+        Inclusion Criteria (patients):&#xD;
+&#xD;
+          -  Presenting with chest pain with possibility of coronary artery disease&#xD;
+&#xD;
+          -  No infectious disease or neoplasia&#xD;
+&#xD;
+        Exclusion Criteria (healthy volunteers):&#xD;
+&#xD;
+          -  Considered by the study clinician to be unsuitable to participate&#xD;
+&#xD;
+          -  Considered by the clinical research team to be incapable of providing written informed&#xD;
+             consent for any reason.&#xD;
+&#xD;
+        Exclusion Criteria (patients):&#xD;
+&#xD;
+          -  Considered by the clinical research team to be incapable of providing written informed&#xD;
+             consent for any reason.&#xD;
+&#xD;
+          -  Considered by their healthcare professional to be unsuitable to participate&#xD;
+&#xD;
+          -  Participation in another ongoing drug or medical device study&#xD;
+&#xD;
+          -  Participation in a drug study within the 3 months prior to the date of potential&#xD;
+             enrolment into this study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Andrus BW, Welch HG. Medicare services provided by cardiologists in the United States: 1999-2008. Circ Cardiovasc Qual Outcomes. 2012 Jan;5(1):31-6. doi: 10.1161/CIRCOUTCOMES.111.961813. Epub 2012 Jan 10.</citation>
+    <PMID>22235064</PMID>
+  </reference>
+  <reference>
+    <citation>Ladapo JA, Blecker S, Douglas PS. Physician decision making and trends in the use of cardiac stress testing in the United States: an analysis of repeated cross-sectional data. Ann Intern Med. 2014 Oct 7;161(7):482-90. doi: 10.7326/M14-0296.</citation>
+    <PMID>25285541</PMID>
+  </reference>
+  <reference>
+    <citation>Nichols M, Townsend N, Scarborough P, Rayner M. Cardiovascular disease in Europe 2014: epidemiological update. Eur Heart J. 2014 Nov 7;35(42):2950-9. doi: 10.1093/eurheartj/ehu299. Epub 2014 Aug 19. Erratum in: Eur Heart J. 2015 Apr 1;36(13):794.</citation>
+    <PMID>25139896</PMID>
+  </reference>
+  <reference>
+    <citation>Patel MR, Peterson ED, Dai D, Brennan JM, Redberg RF, Anderson HV, Brindis RG, Douglas PS. Low diagnostic yield of elective coronary angiography. N Engl J Med. 2010 Mar 11;362(10):886-95. doi: 10.1056/NEJMoa0907272. Erratum in: N Engl J Med. 2010 Jul 29;363(5):498.</citation>
+    <PMID>20220183</PMID>
+  </reference>
+  <reference>
+    <citation>Villadsen PR, Petersen SE, Dey D, Zou L, Patel S, Naderi H, Gruszczynska K, Baron J, Davies LC, Wragg A, Bøtker HE, Pugliese F. Coronary atherosclerotic plaque burden and composition by CT angiography in Caucasian and South Asian patients with stable chest pain. Eur Heart J Cardiovasc Imaging. 2017 May 1;18(5):556-567. doi: 10.1093/ehjci/jew085.</citation>
+    <PMID>27225816</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2020</study_first_posted>
+  <last_update_submitted>November 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Phono-cardiography</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Stenosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>IPD to be shared with named collaborators for further analysis.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

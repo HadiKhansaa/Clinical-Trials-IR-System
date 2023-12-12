@@ -1,0 +1,432 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00037817</url>
+  </required_header>
+  <id_info>
+    <org_study_id>020205</org_study_id>
+    <secondary_id>02-C-0205</secondary_id>
+    <nct_id>NCT00037817</nct_id>
+    <nct_alias>NCT00041158</nct_alias>
+  </id_info>
+  <brief_title>Phase I Study of Gene Induction Mediated by Sequential Decitabine/Depsipeptide Infusion With or Without Concurrent Celecoxib in Subjects With Pulmonary and Pleural Malignancies</brief_title>
+  <official_title>Phase I Study of Gene Induction Mediated by Sequential Decitabine/Depsipeptide Infusion With or Without Concurrent Celecoxib in Subjects With Pulmonary and Pleural Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Previously we have demonstrated induction of tumor antigen and tumor suppressor gene&#xD;
+      expression in lung cancer cells following exposure to the DNA demethylating agent, Decitabine&#xD;
+      (DAC). We have also demonstrated that DAC mediated target gene expression and apoptosis can&#xD;
+      be significantly enhanced in cancer cells by subsequent exposure to the histone deacetylase&#xD;
+      (HDAC) inhibitor Depsipeptide FK228 (DP). Furthermore, we have demonstrated that following&#xD;
+      DAC, or DAC/DP exposure, cancer cells can be recognized by cytolytic T cells specific for the&#xD;
+      cancer testis antigen, NY-FSO-1.&#xD;
+&#xD;
+      This Phase I study will evaluate gene induction in thoracic oncology patients mediated by&#xD;
+      sequential DAC/DP treatment with or without the selective COX-2 inhibitor, celecoxib.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      Evaluation of the pharmacokinetics and toxicity of continuous 72-hour intravenous Decitabine&#xD;
+      (DAC) infusion followed by 4-hour intravenous infusion of Depsipeptide FK228 (DP) with or&#xD;
+      without oral celecoxib in patients with unresectable cancers involving the lungs or pleura.&#xD;
+&#xD;
+      Analysis of NY-ESO-1, p16 and p21 expression in cancer specimens before and after sequential&#xD;
+      Decitabine/Depsipeptide treatment.&#xD;
+&#xD;
+      Analysis of serologic response to NY-ESO-1 before and after sequential drug treatment.&#xD;
+&#xD;
+      Analysis of apoptosis in tumor biopsies before and after sequential Decitabine/Depsipeptide&#xD;
+      treatment.&#xD;
+&#xD;
+      Refinement of laser capture microdissection and micro-array techniques for analysis of gene&#xD;
+      expression profiles in tumor tissues.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      Patients with histologically or cytologically proven primary small cell or non-small cell&#xD;
+      lung cancers, advanced esophageal cancers, pleural mesotheliomas, or non-thoracic cancers&#xD;
+      with metastases to the lungs or pleura.&#xD;
+&#xD;
+      Patients must be 18 years or older with an ECOG performance status of 0-2 and have adequate&#xD;
+      pulmonary reserve evidenced by FEV1 and DLCO greater than the 30% predicted, and less than 50&#xD;
+      mm Hg and p02 greater than 60 mm Hg on room air ABG.&#xD;
+&#xD;
+      Patients must have a platelet count greater than 100.000. an ANC equal to or greater than&#xD;
+      1500 without transfusion or cytokine support, a normal PT, and adequate hepatic function as&#xD;
+      evidenced by a total bilirubin of less than 1.5 x upper limits of normal. Serum creatinine&#xD;
+      less than or equal to 1.6 mg/ml or the creatinine clearance must be greater than 70&#xD;
+      ml/min/1.73m(2).&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      Patients with inoperable malignancies involving lungs or pleura will receive two cycles of&#xD;
+      72-hour intravenous infusion of Decitabine followed by 4-hour Depsipeptide infusion using a&#xD;
+      Phase I study design.&#xD;
+&#xD;
+      Decitabine will be administered by continuous infusion on days 1-4, and patient cohorts will&#xD;
+      receive escalating doses of Depsipeptide administered on day 4 and day 10 of a 34 day cycle.&#xD;
+&#xD;
+      Once the MTD and toxicities for sequential DAC/DP have been identified, additional cohorts of&#xD;
+      6 lung cancer patients and 6 mesothelioma patients will receive sequential DAC/DP&#xD;
+      administered at the MTD as outlined above with celecoxib (400mg bid) administered on days&#xD;
+      4-34 of each treatment cycle, as a means to enhance target cell apoptosis and facilitate&#xD;
+      anti-tumor immune recognition/response.&#xD;
+&#xD;
+      Pharmacokinetics, systemic toxicity, and response to therapy will be recorded. Tumor biopsies&#xD;
+      will be obtained prior to, and after therapy to evaluate expression of NY-ESO-1 tumor&#xD;
+      antigen, as well as p16 and p21 tumor suppressor genes, which are known to be modulated by&#xD;
+      chromatin structure. Additional analysis will be undertaken to evaluate the extent of&#xD;
+      apoptosis in tumor tissues, and to determine if immune recognition of NY-ESO-1 can be&#xD;
+      demonstrated following sequential DAC?DP +/- celecoxib treatment.&#xD;
+&#xD;
+      As the exact set of comparisons and analyses to be performed will be determined following&#xD;
+      completion of the trial and will be based on limited numbers of patients, the analyses will&#xD;
+      be considered exploratory and hypothesis generating rather than definitive.&#xD;
+&#xD;
+      A total of 40 patients will be enrolled.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Previously we have demonstrated induction of tumor antigen and tumor suppressor gene&#xD;
+      expression in lung cancer cells following exposure to the DNA demethylating agent, Decitabine&#xD;
+      (DAC). We have also demonstrated that DAC mediated target gene expression and apoptosis can&#xD;
+      be significantly enhanced in cancer cells by subsequent exposure to the histone deacetylase&#xD;
+      (HDAC) inhibitor Depsipeptide FK228 (DP). Furthermore, we have demonstrated that following&#xD;
+      DAC, or DAC/DP exposure, cancer cells can be recognized by cytolytic T cells specific for the&#xD;
+      cancer testis antigen, NY-FSO-1.&#xD;
+&#xD;
+      This Phase I study will evaluate gene induction in thoracic oncology patients mediated by&#xD;
+      sequential DAC/DP treatment with or without the selective COX-2 inhibitor, celecoxib.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      Evaluation of the pharmacokinetics and toxicity of continuous 72-hour intravenous Decitabine&#xD;
+      (DAC) infusion followed by 4-hour intravenous infusion of Depsipeptide FK228 (DP) with or&#xD;
+      without oral celecoxib in patients with unresectable cancers involving the lungs or pleura.&#xD;
+&#xD;
+      Analysis of NY-ESO-1, p16 and p21 expression in cancer specimens before and after sequential&#xD;
+      Decitabine/Depsipeptide treatment.&#xD;
+&#xD;
+      Analysis of serologic response to NY-ESO-1 before and after sequential drug treatment.&#xD;
+&#xD;
+      Analysis of apoptosis in tumor biopsies before and after sequential Decitabine/Depsipeptide&#xD;
+      treatment.&#xD;
+&#xD;
+      Refinement of laser capture microdissection and micro-array techniques for analysis of gene&#xD;
+      expression profiles in tumor tissues.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      Patients with histologically or cytologically proven primary small cell or non-small cell&#xD;
+      lung cancers, advanced esophageal cancers, pleural mesotheliomas, or non-thoracic cancers&#xD;
+      with metastases to the lungs or pleura.&#xD;
+&#xD;
+      Patients must be 18 years or older with an ECOG performance status of 0-2 and have adequate&#xD;
+      pulmonary reserve evidenced by FEV1 and DLCO greater than the 30% predicted, and less than 50&#xD;
+      mm Hg and p02 greater than 60 mm Hg on room air ABG.&#xD;
+&#xD;
+      Patients must have a platelet count greater than 100.000. an ANC equal to or greater than&#xD;
+      1500 without transfusion or cytokine support, a normal PT, and adequate hepatic function as&#xD;
+      evidenced by a total bilirubin of less than 1.5 x upper limits of normal. Serum creatinine&#xD;
+      less than or equal to 1.6 mg/ml or the creatinine clearance must be greater than 70&#xD;
+      ml/min/1.73m(2).&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      Patients with inoperable malignancies involving lungs or pleura will receive two cycles of&#xD;
+      72-hour intravenous infusion of Decitabine followed by 4-hour Depsipeptide infusion using a&#xD;
+      Phase I study design.&#xD;
+&#xD;
+      Decitabine will be administered by continuous infusion on days 1-4, and patient cohorts will&#xD;
+      receive escalating doses of Depsipeptide administered on day 4 and day 10 of a 34 day cycle.&#xD;
+&#xD;
+      Once the MTD and toxicities for sequential DAC/DP have been identified, additional cohorts of&#xD;
+      6 lung cancer patients and 6 mesothelioma patients will receive sequential DAC/DP&#xD;
+      administered at the MTD as outlined above with celecoxib (400mg bid) administered on days&#xD;
+      4-34 of each treatment cycle, as a means to enhance target cell apoptosis and facilitate&#xD;
+      anti-tumor immune recognition/response.&#xD;
+&#xD;
+      Pharmacokinetics, systemic toxicity, and response to therapy will be recorded. Tumor biopsies&#xD;
+      will be obtained prior to, and after therapy to evaluate expression of NY-ESO-1 tumor&#xD;
+      antigen, as well as p16 and p21 tumor suppressor genes, which are known to be modulated by&#xD;
+      chromatin structure. Additional analysis will be undertaken to evaluate the extent of&#xD;
+      apoptosis in tumor tissues, and to determine if immune recognition of NY-ESO-1 can be&#xD;
+      demonstrated following sequential DAC?DP +/- celecoxib treatment.&#xD;
+&#xD;
+      As the exact set of comparisons and analyses to be performed will be determined following&#xD;
+      completion of the trial and will be based on limited numbers of patients, the analyses will&#xD;
+      be considered exploratory and hypothesis generating rather than definitive.&#xD;
+&#xD;
+      A total of 40 patients will be enrolled.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 17, 2002</start_date>
+  <completion_date type="Actual">November 9, 2009</completion_date>
+  <primary_completion_date type="Actual">October 8, 2008</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacokinetics and toxicity profile</measure>
+    <time_frame>Every cycle until approximately 70 days after first dose</time_frame>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">34</enrollment>
+  <condition>Advanced Esophageal Cancers</condition>
+  <condition>Primary Small Cell Lung Cancers</condition>
+  <condition>Non-Small-Cell Lung Carcinoma</condition>
+  <condition>Pleural Mesotheliomas</condition>
+  <condition>Cancers of Non-thoracic Origin With Metastases to the Lungs or Pleura</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose escalation cohort</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Molecular response cohort</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Celecoxib combination cohort at MTD</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Decitabine</intervention_name>
+    <description>assigned dose level on day 4 and day 10 of each 34 day cycle</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_label>3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Depsipeptide</intervention_name>
+    <description>assigned dose level on day 4 and day 10 of each 34 day cycle</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_label>3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Celecoxib</intervention_name>
+    <description>400mg PO BID on days 4 through 34 of each cycle</description>
+    <arm_group_label>3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Patients with histologically or cytologically proven primary small cell or non-small cell&#xD;
+        lung cancers, advanced esophageal cancer, or pleural mesotheliomas are eligible for&#xD;
+        evaluation. In addition, patients with cancers of nonthoracic origin with metastases to the&#xD;
+        lungs or pleura are eligible for evaluation.&#xD;
+&#xD;
+        Patients with intracranial metastases which have been treated by surgery or radiation&#xD;
+        therapy may be eligible for study provided there is no evidence of active disease and no&#xD;
+        requirement for anticonvulsant therapy or steroids following treatment.&#xD;
+&#xD;
+        Patients with prior Decitabine or Depsipeptide exposure are eligible for study provided&#xD;
+        they have not experienced dose limiting toxicity at the dose of DAC or DP that they are&#xD;
+        scheduled to receive.&#xD;
+&#xD;
+        Patients with prior or current celecoxib exposure are eligible for study provided that it&#xD;
+        has been intermittent, or of short term duration (less than 1 month).&#xD;
+&#xD;
+        Patients must have had no chemotherapy, biologic therapy, celecoxib exposure, or radiation&#xD;
+        therapy for their malignancy within 30 days prior to treatment. Patients may have received&#xD;
+        localized radiation therapy to non-target lesions provided that the radiotherapy is&#xD;
+        completed 14 days prior to commencing therapy, and the patients has recovered from any&#xD;
+        toxicity.&#xD;
+&#xD;
+        Patients must have an ECOG performance status of 0-2.&#xD;
+&#xD;
+        Patients must have adequate pulmonary reserve evidenced by FEV1 and DLCO greater than the&#xD;
+        30% predicted, and pCO2 less than 50 mm Hg and pO2 greater than 60 mm Hg on room air ABG.&#xD;
+&#xD;
+        Patients must be 18 years of age or older due to the unknown effects of demethylating&#xD;
+        agents and HDAC inhibitors during childhood and adolescent development.&#xD;
+&#xD;
+        Patients must have a platelet count greater than 100, 000, an ANC equal to or greater than&#xD;
+        1500 without transfusion or cytokine support, a normal PT, and adequate hepatic function as&#xD;
+        evidenced by a total bilirubin of less than 1.5 x upper limits of normal. Serum creatinine&#xD;
+        less than or equal to 1.6 mg/ml or the creatinine clearance must be greater than 70&#xD;
+        ml/min/1.73m(2).&#xD;
+&#xD;
+        All patients will have cardiology consultation. Subsequent evaluation will consist of&#xD;
+        stress/redistribution thallium, 24th ambulatory EKG monitoring, ECHO, cardiac MR, or&#xD;
+        coronary angiography as indicated.&#xD;
+&#xD;
+        Patients must be aware of the neoplastic nature of his/her illness, the experimental nature&#xD;
+        of the therapy, alternative treatments, potential benefits, and risks. The patient must be&#xD;
+        willing to sign an informed consent, and undergo tumor biopsies to evaluate target gene&#xD;
+        expression prior to, and after, decitabine/depsipeptide treatment.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Patients with primary and metastatic cancers involving the lungs or pleura which cannot be&#xD;
+        readily biopsied by endoscopic or percutaneous fine needle aspiration techniques will be&#xD;
+        excluded.&#xD;
+&#xD;
+        Patients with untreated limited stage SCLC, and operable NSCLC or operable esophageal&#xD;
+        cancer will be excluded.&#xD;
+&#xD;
+        Patients who have received three or more systemic cytotoxic treatment regimens will be&#xD;
+        excluded due to possible cumulative marrow suppression.&#xD;
+&#xD;
+        Patients with active intracranial and leptomeningeal metastases as well as those requiring&#xD;
+        anticonvulsant medications will be excluded.&#xD;
+&#xD;
+        Patients with life expectancy less than three months will be excluded.&#xD;
+&#xD;
+        Patients with pulmonary embolism, or deep venous thrombosis, or prosthetic heart valves&#xD;
+        requiring anticoagulation will be excluded.&#xD;
+&#xD;
+        Cardiac exclusion criteria, patients with known cardiac abnormalities such as:&#xD;
+&#xD;
+        -Uncontrolled arrhythmias&#xD;
+&#xD;
+        History of serious ventricular arrhythmias not controlled by coronary artery bypass&#xD;
+        surgery.&#xD;
+&#xD;
+        Patients with a history of sustained VT, VF, Toursades de Pointes, or cardiac arrest who do&#xD;
+        not have an automatic implantable cardioverter defibrillator in place&#xD;
+&#xD;
+        Congenital Long QT syndrome or QTc greater than 480 msec&#xD;
+&#xD;
+        Patients with Mobitz II second degree block who do not have a pacemaker&#xD;
+&#xD;
+        Patients with any cardiac arrhythmia requiring anti-arrhythmic medication other than a beta&#xD;
+        blocker or calcium channel blocker&#xD;
+&#xD;
+        Patients in whom digitalis cannot be discontinued&#xD;
+&#xD;
+          -  Decompensated heart failure (NYHA Class II or IV)&#xD;
+&#xD;
+          -  LVEF less than 50% by MUGA scan or echocardiogram&#xD;
+&#xD;
+          -  Hypertrophic or restrictive cardiomyopathy from prior treatment of other causes and&#xD;
+             patients with left ventricular hypertrophy&#xD;
+&#xD;
+          -  Uncontrolled hypertension (i.e greater than or equal to 160/95)&#xD;
+&#xD;
+          -  Myocardial infarction within one year of study&#xD;
+&#xD;
+          -  Clinical significant active myocardial ischemia on the basis of nuclear imaging or&#xD;
+             angiography&#xD;
+&#xD;
+          -  History of coronary artery disease (e.g. angina Canadian Class II-Iv or positive&#xD;
+             stress imaging study)&#xD;
+&#xD;
+          -  Patients with other cardiac disease may be excluded at the discretion of the PI&#xD;
+             following consultation with cardiology&#xD;
+&#xD;
+        Co-medication causing QTc prolongation unless a 5 half-life washout period has elapsed&#xD;
+        between discontinuing the drug and entering this study.&#xD;
+&#xD;
+        Pregnant patients and lactating mothers will be excluded due to the unknown, potentially&#xD;
+        harmful effects of demethylating agents and HDAC inhibitors on fetal and early childhood&#xD;
+        development.&#xD;
+&#xD;
+        Patients with active infections will be excluded.&#xD;
+&#xD;
+        Patients with HIV infection will be excluded due to the potential risk of opportunistic&#xD;
+        infection during DAC/DP-induced myelosuppression and potentially deleterious activation of&#xD;
+        viral gene expression.&#xD;
+&#xD;
+        Patients should not be using hydrochlorothiazide diuretics if entered on this protocol.&#xD;
+        Therefore, patients who must use hydrochlorothiazide diuretics will be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David S Schrump, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Schrump DS, Nguyen DM. Targets for molecular intervention in multistep pulmonary carcinogenesis. World J Surg. 2001 Feb;25(2):174-83. Review.</citation>
+    <PMID>11338019</PMID>
+  </reference>
+  <reference>
+    <citation>Schrump DS, Waheed I. Strategies to circumvent SV40 oncoprotein expression in malignant pleural mesotheliomas. Semin Cancer Biol. 2001 Feb;11(1):73-80. Review.</citation>
+    <PMID>11243901</PMID>
+  </reference>
+  <reference>
+    <citation>Baylin SB, Esteller M, Rountree MR, Bachman KE, Schuebel K, Herman JG. Aberrant patterns of DNA methylation, chromatin formation and gene expression in cancer. Hum Mol Genet. 2001 Apr;10(7):687-92. Review.</citation>
+    <PMID>11257100</PMID>
+  </reference>
+  <verification_date>November 30, 2016</verification_date>
+  <study_first_submitted>May 21, 2002</study_first_submitted>
+  <study_first_submitted_qc>May 21, 2002</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 22, 2002</study_first_posted>
+  <last_update_submitted>September 27, 2019</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 30, 2019</last_update_posted>
+  <keyword>Toxicity Evaluation</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <keyword>Apoptosis</keyword>
+  <keyword>Gene Induction</keyword>
+  <keyword>Gene Expression</keyword>
+  <keyword>Lung Cancer</keyword>
+  <keyword>Small Cell Lung Cancer</keyword>
+  <keyword>Non-Small Cell Lung Cancer</keyword>
+  <keyword>Pleural Mesothelioma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Celecoxib</mesh_term>
+    <mesh_term>Decitabine</mesh_term>
+    <mesh_term>Romidepsin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,298 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00611650</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000578224</org_study_id>
+    <secondary_id>P01CA096964</secondary_id>
+    <secondary_id>BCCA-H07-02401</secondary_id>
+    <secondary_id>H07-02401</secondary_id>
+    <nct_id>NCT00611650</nct_id>
+  </id_info>
+  <brief_title>Green Tea Extract in Treating Current or Former Smokers With Bronchial Dysplasia</brief_title>
+  <official_title>Phase II Trial of Polyphenon E in Current and Former Smokers With Bronchial Dysplasia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>British Columbia Cancer Agency</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>British Columbia Cancer Agency</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Chemoprevention is the use of certain drugs to keep cancer from forming. The use&#xD;
+      of Polyphenon E, a substance found in green tea, may keep cancer from forming in current or&#xD;
+      former smokers with bronchial dysplasia.&#xD;
+&#xD;
+      PURPOSE: This randomized phase II trial is studying the side effects and how well green tea&#xD;
+      extract works in treating current or former smokers with bronchial dysplasia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+      Primary&#xD;
+&#xD;
+        -  To evaluate the efficacy and safety of Polyphenon E, a defined green tea catechin&#xD;
+           extract, in current or former smokers with bronchial dysplasia and increased&#xD;
+           inflammatory load as measured by C-reactive protein.&#xD;
+&#xD;
+      Secondary&#xD;
+&#xD;
+        -  To evaluate the ability of Polyphenon E to modulate other surrogate endpoint biomarkers&#xD;
+           of oxidation stress, inflammation, aberrant methylation, cell cycle regulation,&#xD;
+           apoptosis, oncogene/tumor suppressor gene expression, as well as phase I and II enzyme&#xD;
+           regulation in biological samples from these patients.&#xD;
+&#xD;
+        -  To establish a library of optical coherent tomography (OCT) images of the bronchial&#xD;
+           epithelium with corresponding histopathology, nuclear morphometry, and other biomarker&#xD;
+           information.&#xD;
+&#xD;
+        -  To assess the potential of OCT as a non-biopsy method for evaluating chemoprevention&#xD;
+           agents.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter study. Patients are stratified by gender. Patients are&#xD;
+      randomized to 1 of 2 treatment arms.&#xD;
+&#xD;
+        -  Arm I: Patients receive oral Polyphenon E twice daily for 3 months in the absence of&#xD;
+           disease progression or unacceptable toxicity.&#xD;
+&#xD;
+        -  Arm II: Patients receive a placebo twice daily for 3 months in the absence of disease&#xD;
+           progression or unacceptable toxicity.&#xD;
+&#xD;
+      Patients undergo standard white-light bronchoscopy and fluorescence bronchoscopy with optical&#xD;
+      coherence tomography (OCT) at baseline and at 3 months. During these procedures, patients are&#xD;
+      evaluated using the Onco-LIFE clinical device, which digitally records OCT images of abnormal&#xD;
+      areas or areas suspicious for intraepithelial neoplasia or invasive carcinoma. Once these&#xD;
+      areas have been localized, patients are biopsied under fluorescence bronchoscopy guidance to&#xD;
+      obtain both dysplastic bronchial epithelial tissue and normal bronchial mucosa. Biopsy&#xD;
+      specimens are examined by immunostaining for tissue-based biomarkers (i.e., Ki-67, cleaved&#xD;
+      caspase-3, p53, and VEGF). Patients also undergo oral brushing, bronchial brushing, and&#xD;
+      bronchoalveolar lavage at baseline and at 3 months to obtain bronchial epithelial cells for&#xD;
+      differential gene expression and methylation biomarker studies (e.g., cDNA microarray&#xD;
+      analysis, polymerase chain reaction, and northern blotting). Cytokines and other molecular&#xD;
+      biomarkers (i.e., C-reactive protein, surfactant protein D, oxidized glutathione, interleukin&#xD;
+      [IL]-6, IL-13, and macrophage inflammatory protein-1 levels) are measured in blood and&#xD;
+      bronchoalveolar lavage fluid samples by enzyme-linked immunoassay. Plasma EGCG levels are&#xD;
+      assessed by high-performance liquid chromatography. Urine cotinine levels and exhaled carbon&#xD;
+      monoxide levels are also assessed.&#xD;
+&#xD;
+      After completion of study therapy, patients are followed at 1 month.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Slow recruitment&#xD;
+  </why_stopped>
+  <start_date>October 2006</start_date>
+  <completion_date type="Actual">July 2011</completion_date>
+  <primary_completion_date type="Actual">June 2011</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the severity of dysplasia (as defined by WHO criteria) in bronchial biopsy specimens as assessed at baseline and at 3 months</measure>
+    <time_frame>3 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in the morphometric index in bronchial biopsy specimens as assessed at baseline and at 3 months</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the concentrations (or grades) of Ki-67, p53, cleaved caspase-3, and VEGF in bronchial biopsy specimens as assessed by immunostaining at baseline and at 3 months</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Methylation biomarkers in bronchoalveolar lavage (BAL) cells as assessed at baseline and at 3 months</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oncogene/ tumor suppressor gene expression in bronchial brush cells as assessed by cDNA microarray analysis at baseline and at 3 months</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase I and II enzyme regulation in bronchial brush cells as assessed by Affymetrix microarray analysis at baseline and at 3 months</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in C-reactive protein levels in plasma as assessed by enzyme-linked immunoassay (ELISA) at baseline and then monthly for 3 months</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volumetric measurement of CT-detected lung nodules at baseline and then every 3-12 months for up to 24 months, depending on the size of the nodule</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the concentrations (or grades) of surfactant protein D, oxidized glutathione, interleukin (IL)-6, IL-13, and MPIF-1 in plasma and BAL cells as assessed by ELISA at baseline and at 3 months</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">23</enrollment>
+  <condition>Lung Cancer</condition>
+  <condition>Precancerous Condition</condition>
+  <condition>Tobacco Use Disorder</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive oral Polyphenon E twice daily for 3 months in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients receive a placebo twice daily for 3 months in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>defined green tea catechin extract</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm II</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Current or former smoker who has smoked ≥ 30 pack-years (i.e., 1 pack per day for ≥ 30&#xD;
+             years)&#xD;
+&#xD;
+               -  A former smoker is defined as one who has stopped smoking for ≥ 1 year&#xD;
+&#xD;
+          -  C-reactive protein level &gt; 1.2 mg/L&#xD;
+&#xD;
+          -  One or more areas of dysplasia with a surface diameter &gt; 1.2 mm on autofluorescence&#xD;
+             bronchoscopy&#xD;
+&#xD;
+          -  No carcinoma in situ or invasive cancer on bronchoscopy&#xD;
+&#xD;
+          -  No abnormal spiral chest CT scan suspicious of lung cancer&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+          -  ECOG performance status 0-1&#xD;
+&#xD;
+          -  Willing to take Polyphenon E or placebo twice a day regularly&#xD;
+&#xD;
+          -  Willing to undergo bronchoscopy and spiral chest CT scan&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  Creatinine normal&#xD;
+&#xD;
+          -  Bilirubin normal&#xD;
+&#xD;
+          -  AST and ALT normal&#xD;
+&#xD;
+          -  Alkaline phosphatase normal&#xD;
+&#xD;
+          -  No chronic active hepatitis or liver cirrhosis&#xD;
+&#xD;
+          -  No severe heart disease (e.g., unstable angina or chronic congestive heart failure)&#xD;
+&#xD;
+          -  No ongoing gastric ulcer&#xD;
+&#xD;
+          -  No acute bronchitis or pneumonia within the past month&#xD;
+&#xD;
+          -  No known reaction to xylocaine, salbutamol, midazolam, or alfentanil&#xD;
+&#xD;
+          -  No known allergy to green tea and/or corn starch, gelatin, or other nonmedicinal&#xD;
+             ingredients&#xD;
+&#xD;
+          -  No medical condition, such as acute or chronic respiratory failure or bleeding&#xD;
+             disorder, that, in the opinion of the investigator, could jeopardize patient safety&#xD;
+             during study participation&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+          -  No concurrent consumption of &gt; 7 cups of tea a week&#xD;
+&#xD;
+          -  No other concurrent natural health products containing green tea compounds&#xD;
+&#xD;
+          -  No concurrent antiarrhythmic agents&#xD;
+&#xD;
+          -  No concurrent anticoagulants, such as warfarin or heparin&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephen Lam, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>British Columbia Cancer Agency</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>British Columbia Cancer Agency - Vancouver Cancer Centre</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 4E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <removed_countries>
+    <country>United States</country>
+  </removed_countries>
+  <verification_date>March 2012</verification_date>
+  <study_first_submitted>February 8, 2008</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 11, 2008</study_first_posted>
+  <last_update_submitted>March 7, 2012</last_update_submitted>
+  <last_update_submitted_qc>March 7, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 9, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>non-small cell lung cancer</keyword>
+  <keyword>squamous lung dysplasia</keyword>
+  <keyword>tobacco use disorder</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Precancerous Conditions</mesh_term>
+    <mesh_term>Tobacco Use Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Epigallocatechin gallate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

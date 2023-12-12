@@ -1,0 +1,1366 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03179891</url>
+  </required_header>
+  <id_info>
+    <org_study_id>160326</org_study_id>
+    <nct_id>NCT03179891</nct_id>
+  </id_info>
+  <brief_title>Study of Diazepam Buccal Film Administered in the Interictal and in the Ictal-Periictal States to Adults With Epilepsy</brief_title>
+  <official_title>A Multicenter, Open Label, Crossover Study to Assess the Pharmacokinetics and Safety of Diazepam Buccal Soluble Film (DBSF) in Adult Subjects With Epilepsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aquestive Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>inVentiv Health Clinical</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Covance</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Aquestive Therapeutics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 2 open-label, two-way study was conducted in adult subjects with epilepsy who were&#xD;
+      on stable regimens of anti-epileptic drugs (AEDs) and who were admitted to an Epilepsy&#xD;
+      Monitoring Unit (EMU), General Clinical Research Center (GCRC), or similar facility for&#xD;
+      evaluation of their seizures. All subjects received a single DBF 12.5 mg dose during the&#xD;
+      Interictal State and a single DBF 12.5 mg dose during the Ictal/peri-ictal state with at&#xD;
+      least 14 days washout between the 2 doses.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This was a Phase 2 multicenter, open-label, two-way study conducted in adult subjects to&#xD;
+      assess the bioavailability, pharmacokinetics, and safety of DBF during the Interictal Period&#xD;
+      and during the Ictal/peri-ictal Period, with a minimum of 14 days of washout between periods.&#xD;
+      Subjects had a clinical diagnosis of epilepsy (with generalized tonic-clonic seizures or&#xD;
+      focal seizures with impaired awareness) who were on stable regimens of anti-epileptic drugs&#xD;
+      and were scheduled for admission to an EMU, GCRC, or similar facility for evaluation.&#xD;
+&#xD;
+      All subjects were to receive a single 12.5-mg dose of study drug, without regard to meals,&#xD;
+      during both Interictal Period and Ictal/peri-ictal Period. The treatment was identical for&#xD;
+      both periods. Treatment sequence was not randomized. The interictal period and&#xD;
+      ictal/peri-ictal could occur in either order as determined by seizure occurrence.&#xD;
+&#xD;
+      Interictal Period: Subjects were considered to be in an interictal state if an interval of at&#xD;
+      least 3 hours had elapsed since any clinically observable postictal signs or symptoms (from&#xD;
+      the last observed seizure) and the subject had been seizure-free over this period. Subjects&#xD;
+      on electroencephalogram (EEG) video monitoring were to be considered to be in an interictal&#xD;
+      state if an interval of at least 3 hours had elapsed since there were any postictal&#xD;
+      electrical findings on EEG.&#xD;
+&#xD;
+      Ictal/peri-ictal Period: For the purposes of this study, the ictal state was defined as an&#xD;
+      ongoing clinically observable seizure or seizure activity as verified via EEG. The periictal&#xD;
+      state was defined clinically as the subject's immediate postictal state following a&#xD;
+      generalized tonic-clonic (GTC) seizure or focal seizure with impaired awareness, and within 5&#xD;
+      minutes following the last clonic jerk. For subjects on EEG video monitoring, the periictal&#xD;
+      state was to be defined as less than 5 minutes after cessation of seizure activity as&#xD;
+      verified via EEG.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 25, 2017</start_date>
+  <completion_date type="Actual">December 21, 2018</completion_date>
+  <primary_completion_date type="Actual">July 25, 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>This was a multicenter, open-label study comprised of 2 treatment periods with a minimum 14 days washout between the 2 treatment periods.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Tmax Pharmacokinetic EndPoints</measure>
+    <time_frame>-2 to 0, 0.25, 0.5, 1, 2, 4, 8, 24, 48, 96, 144, 192, 240 hours</time_frame>
+    <description>Observed time to reach maximum drug concentration (Tmax)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cmax Pharmacokinetic EndPoints</measure>
+    <time_frame>-2 to 0, 0.25, 0.5, 1, 2, 4, 8, 24, 48, 96, 144, 192, 240 hours</time_frame>
+    <description>Observed Peak Drug Concentration (Cmax)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area Under the Plasma Concentration Curve Pharmacokinetic EndPoints</measure>
+    <time_frame>-2 to 0, 0.25, 0.5, 1, 2, 4, 8, 24, 48, 96, 144, 192, 240 hours</time_frame>
+    <description>Area under the Plasma Concentration -time curve from time zero until the last measured time (AUC0-t)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Usability Endpoint - Successful Insertion/Placement of the Diazepam Buccal Film (DBF) on First Attempt</measure>
+    <time_frame>Subject was observed for 15 minutes after initial film placement/adhesion</time_frame>
+    <description>Number of subjects with unsuccessful insertion/placement of the DBF on first attempt at administration Number of subjects with successful insertion/placement of the DBF on first attempt at administration&#xD;
+Placement is judged to be successful when film adheres to the center of buccal mucosa of either right or left cheek.&#xD;
+Unsuccessful placements were followed by a subsequent successful insertion/placement of DBF</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Usability Endpoint: Swallowing the Film Before Complete Disintegration/Dissolution</measure>
+    <time_frame>Subject was observed for 15 minutes immediately following DBF placement/adhesion</time_frame>
+    <description>Was the film noted to have been swallowed by the subject ? Yes No&#xD;
+Subjects were instructed to swallow any remnants of film still present in oral cavity 15 minutes after initial film placement.&#xD;
+Results include subjects who swallowed film at any point during the 15 minutes immediately after initial film placement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Usability Endpoint: Retention of Diazepam Buccal Film (DBF) From Placement to Complete Disintegration</measure>
+    <time_frame>Subject was observed for 15 minutes immediately following DBF placement/adhesion</time_frame>
+    <description>Was the DBF spit out or blown out by the subject after placement on buccal mucosa or did the subject chew, talk, or move the DBF prior to complete disintegration/dissolution? Yes No</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Usability Endpoint: Exit of Saliva During the Time the Diazepam Buccal Film (DBF) Was Adhered to Buccal Mucosa</measure>
+    <time_frame>Subject was observed for 15 minutes immediately following DBF placement/adhesion</time_frame>
+    <description>The observer documented if any saliva was seen to exit the mouth during the time the DBF was adhered to buccal mucosa</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Usability Endpoint: Amount of Saliva That Exited the Mouth After Film Placement</measure>
+    <time_frame>Subject was observed for 15 minutes immediately following DBF placement/adhesion</time_frame>
+    <description>If Yes - saliva exited the mouth during the time, estimate in milliliters of the amount of saliva that exited the mouth after DBF placement on the buccal surface</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">35</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Interictal Period</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subjects received 12.5 mg DBF during the interictal state.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ictal/Peri-ictal Period</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subjects received 12.5 mg DBF during the ictal/peri-ictal state.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Diazepam Buccal Film 12.5 mg</intervention_name>
+    <description>All subjects received a single dose of DBF 12.5 mg during the interictal state and during the ictal/peri-ictal state with at least 14 days washout between the 2 treatment periods</description>
+    <arm_group_label>Ictal/Peri-ictal Period</arm_group_label>
+    <arm_group_label>Interictal Period</arm_group_label>
+    <other_name>DBF 12.5mg</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Potential subjects meeting all of the following criteria may be included in the study:&#xD;
+&#xD;
+          1. Subjects scheduled for admission to the institution's EMU, GCRC (General Clinical&#xD;
+             Research Center) or similar facility for evaluation within 28 days.&#xD;
+&#xD;
+          2. Male and female subjects between 18 to 65 years of age, inclusive.&#xD;
+&#xD;
+          3. Subjects having a body weight of ≥ 40 kg to 111 kg.&#xD;
+&#xD;
+          4. Subjects have a clinical diagnosis of epilepsy and are scheduled to be admitted to an&#xD;
+             Epilepsy Monitoring Unit (EMU) for extracranial video-Electroencephalogram (EEG)&#xD;
+             recording of a seizure event for evaluation of their epilepsy.&#xD;
+&#xD;
+          5. Subjects have an average frequency of &gt; 1 seizure every 3 days or &gt; 10 seizures /&#xD;
+             month as documented by seizure diaries dispensed at the Screening Visit and verified&#xD;
+             prior to initiation of Period A or Period B.&#xD;
+&#xD;
+          6. Female subjects have a negative serum pregnancy test at Screening. Female subjects of&#xD;
+             childbearing potential (i.e., not surgically sterile or 2 years postmenopausal) must&#xD;
+             have a negative pregnancy test at screening and a partner who is sterile, agree to&#xD;
+             abstinence, be practicing double barrier contraception or using an FDA approved&#xD;
+             contraceptive (e.g., licensed hormonal or barrier methods) for greater than 2 months&#xD;
+             prior to screening visit and commit to an acceptable form of birth control for the&#xD;
+             duration of the study and for 30 days after participation in the study.&#xD;
+&#xD;
+          7. Subjects are currently receiving at least one antiepileptic medication.&#xD;
+&#xD;
+          8. Subjects or subject's legally authorized representative (LAR) must be willing and able&#xD;
+             to complete informed consent/assent and HIPAA authorization.&#xD;
+&#xD;
+          9. Subjects must agree and must be willing to comply with all required study procedures&#xD;
+             while in the EMU or GCRC.&#xD;
+&#xD;
+         10. Ability to comprehend and be informed of the nature of the study, as assessed by the&#xD;
+             PI or Sub-Investigator.&#xD;
+&#xD;
+         11. Ability to consume standard meals.&#xD;
+&#xD;
+         12. Availability to volunteer for the entire study duration and willing to adhere to all&#xD;
+             protocol requirements.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Potential subjects meeting any of the following criteria will be excluded:&#xD;
+&#xD;
+          1. Subjects having a progressive neurological disorder such as brain tumor, demyelinating&#xD;
+             disease, or degenerative central nervous system (CNS) disease that is likely to&#xD;
+             progress in the next 12 months.&#xD;
+&#xD;
+          2. Subjects having respiratory failure (or is at risk for respiratory failure) or other&#xD;
+             severe cardiorespiratory disease with New York Heart Association Class III or IV&#xD;
+             functional status, or requires supplemental oxygen.&#xD;
+&#xD;
+          3. Female subjects who are lactating or positive serum pregnancy test (ß-hCG) at&#xD;
+             screening for female subjects ≥12 years of age.&#xD;
+&#xD;
+          4. Subjects with severe psychiatric disease that in the Investigator's judgment would&#xD;
+             prevent the patient's successful completion of the study.&#xD;
+&#xD;
+          5. Subjects who have an episode of status epilepticus, as determined by the Principal&#xD;
+             Investigator/Sub-Investigator, at any time during Period B (EMU, GCRC or similar&#xD;
+             facility Visit&#xD;
+&#xD;
+          6. Subjects with known history or presence of any clinically significant hepatic (e.g.&#xD;
+             hepatic impairment), renal/genitourinary (renal impairment, kidney stones),&#xD;
+             psychiatric, dermatological or hematological disease or condition unless determined as&#xD;
+             not clinically significant by the Principal Investigator/Sub-Investigator and&#xD;
+             confirmed by Sponsor via written communication prior to subject enrollment.&#xD;
+&#xD;
+          7. Subjects with any clinically significant illness other than epilepsy within 30 days&#xD;
+             prior to first dosing, as determined by the Principal Investigator/Sub-Investigator.&#xD;
+&#xD;
+          8. Subjects with any significant physical or organ abnormality as determined by the&#xD;
+             Principal Investigator/Sub-Investigator.&#xD;
+&#xD;
+          9. Subjects with any significant lesion of the oral cavity or having oral prophylactic&#xD;
+             procedures within 30 days prior to first dosing.&#xD;
+&#xD;
+         10. Subjects with a QTc interval QTcF&gt;450 msec for males and QTcF&gt;470 msec for females on&#xD;
+             screening ECG, unless determined as not clinically significant by the Investigator.&#xD;
+&#xD;
+         11. Subjects with a positive test result for any of the following: drugs of abuse&#xD;
+             (amphetamines, cocaine, opiates, or phencyclidine), a positive breath alcohol test.&#xD;
+&#xD;
+         12. Subjects with a known history or presence of: a. Alcohol abuse or dependence within&#xD;
+             one year prior to first drug administration; b. Drug abuse or dependence; c.&#xD;
+             Hypersensitivity or idiosyncratic reaction to diazepam, its excipients, sodium&#xD;
+             phosphates; and/or related substances, e.g. benzodiazepines; d. Glaucoma (open or&#xD;
+             acute narrow angle); e. Severe allergic reactions (e.g. anaphylactic reactions,&#xD;
+             angioedema&#xD;
+&#xD;
+         13. Subjects who have participated in another clinical trial or who received an&#xD;
+             investigational drug within 30 days prior to first drug administration or 5 half-lives&#xD;
+             of the investigational drug-whichever is the longer period.&#xD;
+&#xD;
+         14. Blood or plasma donation within 30 days prior to Screening&#xD;
+&#xD;
+         15. Subjects not willing or unable to tolerate blood draws.&#xD;
+&#xD;
+         16. Subjects who have received any other dosage form of diazepam or benzodiazepines within&#xD;
+             2 weeks prior to entering Period A or Period B.&#xD;
+&#xD;
+         17. Consumption of alcohol within 48 hours before dosing and food or beverages containing&#xD;
+             grapefruit, star fruit, Seville oranges, and/or pomelo or their derived products&#xD;
+             (e.g., fruit juice) within 10 days prior to first drug administration.&#xD;
+&#xD;
+         18. Use of any enzyme-modifying drugs, including strong inhibitors of cytochrome P450&#xD;
+             (CYP) enzymes (e.g. cimetidine, fluoxetine, quinidine, erythromycin, ciprofloxacin,&#xD;
+             fluconazole, ketoconazole, diltiazem, or HIV antivirals) and strong inducers of CYP&#xD;
+             enzymes (e.g. glucocorticoids, St. John´s Wort, or rifampicin) in the previous 30 days&#xD;
+             before first drug administration [barbiturates, carbamazepine, and phenytoin are&#xD;
+             allowed since these are common AEDs (Anti-epileptic drugs)].&#xD;
+&#xD;
+         19. Use of any monoamine oxidase (MAO) inhibitors (e.g. phenelzine, tranylcypromine),&#xD;
+             phenothiazines (chlorpromazine) within 30 days prior to first drug administration.&#xD;
+&#xD;
+         20. Employee or immediate relative of an employee of the investigator, MonoSol Rx LLC, any&#xD;
+             of its affiliates or partners, or inVentiv Health.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gary Slatko</last_name>
+    <role>Study Director</role>
+    <affiliation>Aquestive Therapeutics</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Arizona Health Sciences Center</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724-5023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rancho Research Institute</name>
+      <address>
+        <city>Downey</city>
+        <state>California</state>
+        <zip>90242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University School of Medicine-Comprehensive Epilepsy Center</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520-8018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hawaii Pacific Neuroscience</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mid-Atlantic Epilepsy and Sleep Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Peter's University Hospital</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester Medical Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Onsite Clinical Solutions LLC</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital of the University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Epilepsy Care Center</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78758</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University Medical Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>May 26, 2017</study_first_submitted>
+  <study_first_submitted_qc>June 6, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 7, 2017</study_first_posted>
+  <results_first_submitted>June 24, 2020</results_first_submitted>
+  <results_first_submitted_qc>September 17, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 18, 2020</results_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Interictal</keyword>
+  <keyword>Ictal/peri-ictal</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diazepam</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 4, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/91/NCT03179891/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 14, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/91/NCT03179891/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Planned enrollment was 40 adult male and female subjects with a clinical diagnosis of epilepsy requiring admission to an epilepsy monitoring unit, a general clinical research center, or similar facility for evaluation of seizures. A minimum of 30 subjects was expected to complete the study.</recruitment_details>
+      <pre_assignment_details>A total of 35 subjects were enrolled to receive a 12.5-mg dose of study drug during both the interictal and the ictal/peri-ictal period which occurred in either order as determined by seizure occurrence.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Interictal State First, Then Ictal/Peri-ictal State</title>
+          <description>Subjects received DBF 12.5 mg during the Interical State first and then during the Ictal/Peri-ictal State with at least 14 days washout between the 2 periods.</description>
+        </group>
+        <group group_id="P2">
+          <title>Ictal/Peri-Ictal State First, Then Interictal State</title>
+          <description>Subjects received DBF 12.5 mg during the ictal/peri-ictal state first and then during the interictal state with at least 14 days washout between the 2 periods.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>First Intervention</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Unspecified reason</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Second Intervention (After 14 Days)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Thirty-five subjects were enrolled to receive DBF 12.5 mg in both Interictal and Peri-ictal period with order determined by seizure occurrence. Four subjects withdrew after receiving their first dose; 2 subjects in the Interictal Period and 2 subjects in the Ictal/peri-ictal period.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Adult Subjects With Epilepsy</title>
+          <description>Adult subjects with epilepsy admitted to an Epilepsy Monitoring Unit to receive a single 12.5 mg DBF dose during the Ictal Phase and during the Interictal/Peri-ictal Phase with at least 14 days between the 2 periods</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="35"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <population>Thirty-five adult subjects with epilepsy received at least 1 dose of study drug and were included in the analysis of safety.</population>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Height</title>
+          <units>cm</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="165.64" spread="10.81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight</title>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="79.24" spread="19.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>BMI</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27.84" spread="7.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Tmax Pharmacokinetic EndPoints</title>
+        <description>Observed time to reach maximum drug concentration (Tmax)</description>
+        <time_frame>-2 to 0, 0.25, 0.5, 1, 2, 4, 8, 24, 48, 96, 144, 192, 240 hours</time_frame>
+        <population>The pharmacokinetic analysis set comprised only those subjects who contributed a valid pharmacokinetic profile for the given analysis and whose predose concentration of the relevant analyte did not exceed 5% of the subsequent Cmax.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Interictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the interictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+          <group group_id="O2">
+            <title>Ictal/Peri-ictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the ictal/peri-ictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Tmax Pharmacokinetic EndPoints</title>
+          <description>Observed time to reach maximum drug concentration (Tmax)</description>
+          <population>The pharmacokinetic analysis set comprised only those subjects who contributed a valid pharmacokinetic profile for the given analysis and whose predose concentration of the relevant analyte did not exceed 5% of the subsequent Cmax.</population>
+          <units>hours</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.000" lower_limit="0.249" upper_limit="4.017"/>
+                    <measurement group_id="O2" value="0.525" lower_limit="0.250" upper_limit="2.033"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Cmax Pharmacokinetic EndPoints</title>
+        <description>Observed Peak Drug Concentration (Cmax)</description>
+        <time_frame>-2 to 0, 0.25, 0.5, 1, 2, 4, 8, 24, 48, 96, 144, 192, 240 hours</time_frame>
+        <population>The pharmacokinetic analysis set comprised only those subjects who contributed a valid pharmacokinetic profile for the given analysis and whose predose concentration of the relevant analyte did not exceed 5% of the subsequent Cmax.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Interictal State</title>
+            <description>Single 12.5 mg dose of Diazepam Buccal Film administered during the interictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+          <group group_id="O2">
+            <title>Ictal/Peri-ictal State</title>
+            <description>Single 12.5 mg dose of Diazepam Buccal Film administered during the ictal/peri-ictal state.&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cmax Pharmacokinetic EndPoints</title>
+          <description>Observed Peak Drug Concentration (Cmax)</description>
+          <population>The pharmacokinetic analysis set comprised only those subjects who contributed a valid pharmacokinetic profile for the given analysis and whose predose concentration of the relevant analyte did not exceed 5% of the subsequent Cmax.</population>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="230.32" spread="89.00"/>
+                    <measurement group_id="O2" value="209.49" spread="120.18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Area Under the Plasma Concentration Curve Pharmacokinetic EndPoints</title>
+        <description>Area under the Plasma Concentration -time curve from time zero until the last measured time (AUC0-t)</description>
+        <time_frame>-2 to 0, 0.25, 0.5, 1, 2, 4, 8, 24, 48, 96, 144, 192, 240 hours</time_frame>
+        <population>The pharmacokinetic analysis set comprised only those subjects who contributed a valid pharmacokinetic profile for the given analysis and whose predose concentration of the relevant analyte did not exceed 5% of the subsequent Cmax.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Interictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the interictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+          <group group_id="O2">
+            <title>Ictal/Peri-ictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the ictal/peri-ictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Plasma Concentration Curve Pharmacokinetic EndPoints</title>
+          <description>Area under the Plasma Concentration -time curve from time zero until the last measured time (AUC0-t)</description>
+          <population>The pharmacokinetic analysis set comprised only those subjects who contributed a valid pharmacokinetic profile for the given analysis and whose predose concentration of the relevant analyte did not exceed 5% of the subsequent Cmax.</population>
+          <units>h*ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="32"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="560.18" spread="219.70"/>
+                    <measurement group_id="O2" value="498.78" spread="319.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Usability Endpoint - Successful Insertion/Placement of the Diazepam Buccal Film (DBF) on First Attempt</title>
+        <description>Number of subjects with unsuccessful insertion/placement of the DBF on first attempt at administration Number of subjects with successful insertion/placement of the DBF on first attempt at administration&#xD;
+Placement is judged to be successful when film adheres to the center of buccal mucosa of either right or left cheek.&#xD;
+Unsuccessful placements were followed by a subsequent successful insertion/placement of DBF</description>
+        <time_frame>Subject was observed for 15 minutes after initial film placement/adhesion</time_frame>
+        <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Interictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the interictal state.&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+          <group group_id="O2">
+            <title>Ictal/Peri-ictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the ictal/peri-ictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Usability Endpoint - Successful Insertion/Placement of the Diazepam Buccal Film (DBF) on First Attempt</title>
+          <description>Number of subjects with unsuccessful insertion/placement of the DBF on first attempt at administration Number of subjects with successful insertion/placement of the DBF on first attempt at administration&#xD;
+Placement is judged to be successful when film adheres to the center of buccal mucosa of either right or left cheek.&#xD;
+Unsuccessful placements were followed by a subsequent successful insertion/placement of DBF</description>
+          <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+                <count group_id="O2" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Unsuccessful insertion/placement</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Successful insertion/placement</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33"/>
+                    <measurement group_id="O2" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Usability Endpoint: Swallowing the Film Before Complete Disintegration/Dissolution</title>
+        <description>Was the film noted to have been swallowed by the subject ? Yes No&#xD;
+Subjects were instructed to swallow any remnants of film still present in oral cavity 15 minutes after initial film placement.&#xD;
+Results include subjects who swallowed film at any point during the 15 minutes immediately after initial film placement.</description>
+        <time_frame>Subject was observed for 15 minutes immediately following DBF placement/adhesion</time_frame>
+        <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Interictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the interictal state.&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+          <group group_id="O2">
+            <title>Ictal/Peri-ictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the ictal/peri-ictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Usability Endpoint: Swallowing the Film Before Complete Disintegration/Dissolution</title>
+          <description>Was the film noted to have been swallowed by the subject ? Yes No&#xD;
+Subjects were instructed to swallow any remnants of film still present in oral cavity 15 minutes after initial film placement.&#xD;
+Results include subjects who swallowed film at any point during the 15 minutes immediately after initial film placement.</description>
+          <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+                <count group_id="O2" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Yes-DBF was Swallowed</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>No-DBF was not Swallowed</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29"/>
+                    <measurement group_id="O2" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Usability Endpoint: Retention of Diazepam Buccal Film (DBF) From Placement to Complete Disintegration</title>
+        <description>Was the DBF spit out or blown out by the subject after placement on buccal mucosa or did the subject chew, talk, or move the DBF prior to complete disintegration/dissolution? Yes No</description>
+        <time_frame>Subject was observed for 15 minutes immediately following DBF placement/adhesion</time_frame>
+        <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Interictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the interictal state.&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+          <group group_id="O2">
+            <title>Ictal/Peri-ictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the ictal/peri-ictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Usability Endpoint: Retention of Diazepam Buccal Film (DBF) From Placement to Complete Disintegration</title>
+          <description>Was the DBF spit out or blown out by the subject after placement on buccal mucosa or did the subject chew, talk, or move the DBF prior to complete disintegration/dissolution? Yes No</description>
+          <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+                <count group_id="O2" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Yes-DBF was spit out/blown out</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>No-DBF was not spit out/blown out</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33"/>
+                    <measurement group_id="O2" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Usability Endpoint: Exit of Saliva During the Time the Diazepam Buccal Film (DBF) Was Adhered to Buccal Mucosa</title>
+        <description>The observer documented if any saliva was seen to exit the mouth during the time the DBF was adhered to buccal mucosa</description>
+        <time_frame>Subject was observed for 15 minutes immediately following DBF placement/adhesion</time_frame>
+        <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Interictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the interictal state.&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+          <group group_id="O2">
+            <title>Ictal/Peri-ictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the ictal/peri-ictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Usability Endpoint: Exit of Saliva During the Time the Diazepam Buccal Film (DBF) Was Adhered to Buccal Mucosa</title>
+          <description>The observer documented if any saliva was seen to exit the mouth during the time the DBF was adhered to buccal mucosa</description>
+          <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+                <count group_id="O2" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Yes, saliva exited the mouth</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>No, saliva did not exit mouth</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33"/>
+                    <measurement group_id="O2" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Usability Endpoint: Amount of Saliva That Exited the Mouth After Film Placement</title>
+        <description>If Yes - saliva exited the mouth during the time, estimate in milliliters of the amount of saliva that exited the mouth after DBF placement on the buccal surface</description>
+        <time_frame>Subject was observed for 15 minutes immediately following DBF placement/adhesion</time_frame>
+        <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Interictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the interictal state.&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+          <group group_id="O2">
+            <title>Ictal/Peri-ictal State</title>
+            <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the ictal/peri-ictal state&#xD;
+Adult subjects with epilepsy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Usability Endpoint: Amount of Saliva That Exited the Mouth After Film Placement</title>
+          <description>If Yes - saliva exited the mouth during the time, estimate in milliliters of the amount of saliva that exited the mouth after DBF placement on the buccal surface</description>
+          <population>Safety Population comprising all subjects who received at least 1 dose of study drug (Diazepam Buccal Film).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+                <count group_id="O2" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Participants with 0 mL saliva exiting the mouth</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="33"/>
+                    <measurement group_id="O2" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Participants with 1 mL saliva exiting the mouth</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Participants with 2 mL saliva exiting the mouth</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were collected throughout the course of the study for each subject (approximately 1 month for each subject - beginning with the first DBF dose until 14 ± 2 days following the second DBF dose).</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Interictal State (Period A)</title>
+          <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the interictal state.&#xD;
+Adult subjects with epilepsy</description>
+        </group>
+        <group group_id="E2">
+          <title>Ictal/Peri-ictal State (Period B)</title>
+          <description>Single 12.5-mg dose of Diazepam Buccal Film administered during the ictal/peri-ictal state.&#xD;
+Adult subjects with epilepsy</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 20.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>HOSPITALIZATION DUE TO SEIZURE CLUSTER</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>3</frequency_threshold>
+        <default_vocab>MedDRA 20.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="33"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Complex Partial Seizures</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="33"/>
+                <counts group_id="E2" events="14" subjects_affected="14" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Generalized tonic-clonic seizure</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="3" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="4" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Somnolence</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="33"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Seizure cluster</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Trial results were included as confidential information and required written sponsor approval.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Director of Clinical Operations</name_or_title>
+      <organization>Aquestive Therapeutics</organization>
+      <phone>908-941-1900</phone>
+      <email>clinicaltrials@aquestive.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

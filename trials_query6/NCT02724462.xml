@@ -1,0 +1,867 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02724462</url>
+  </required_header>
+  <id_info>
+    <org_study_id>8317</org_study_id>
+    <secondary_id>NCI-2018-02662</secondary_id>
+    <secondary_id>RG1001191</secondary_id>
+    <secondary_id>R01CA192849</secondary_id>
+    <nct_id>NCT02724462</nct_id>
+  </id_info>
+  <brief_title>Trial of An Innovative Smartphone Intervention for Smoking Cessation</brief_title>
+  <official_title>Randomized Trial of An Innovative Smartphone Intervention for Smoking Cessation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fred Hutchinson Cancer Research Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fred Hutchinson Cancer Research Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to determine whether the novel smartphone app (SmartQuit) provides&#xD;
+      higher quit rates than the current standard smoking cessation app.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 27, 2017</start_date>
+  <completion_date type="Actual">December 27, 2019</completion_date>
+  <primary_completion_date type="Actual">December 27, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>30-day Point Prevalence Abstinence, Complete-case</measure>
+    <time_frame>12 months post randomization</time_frame>
+    <description>Percentage of participants reporting no smoking in the past 30 days, 12 months post-treatment. Participants missing follow-up data are excluded for the complete-case analysis. Exact 2-sided CI was based on the observed proportion of participants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>30-day Point Prevalence Abstinence, Missing=Smoking Imputation</measure>
+    <time_frame>12 months post randomization</time_frame>
+    <description>Percentage of participants reporting no smoking in the past 30 days, 12 months post-treatment. Participants missing follow-up data are imputed as still smoking. Exact 2-sided CI was based on the observed proportion of participants.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">2503</enrollment>
+  <condition>Smoking</condition>
+  <arm_group>
+    <arm_group_label>Experimental</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is the experimental arm of the study. This includes receiving the novel/experimental smartphone smoking cessation app. Therapy description withheld to protect the integrity of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This is the control arm of the study. This includes receiving the standard of care smartphone smoking cessation app. Therapy description withheld to protect the integrity of the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Smartphone-delivered Intervention (SmartQuit)</intervention_name>
+    <description>The experimental arm includes an intervention using a novel smartphone smoking cessation app.</description>
+    <arm_group_label>Experimental</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>: Smartphone-delivered Intervention (Standard of care app)</intervention_name>
+    <description>The control intervention uses a standard of care smartphone smoking cessation app.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age 18 or older&#xD;
+&#xD;
+          -  smokes at least five cigarettes daily for at least past 12 months&#xD;
+&#xD;
+          -  wants to quit cigarette smoking in the next 30 days&#xD;
+&#xD;
+          -  if concurrently using any other nicotine or tobacco products, wants to quit using them&#xD;
+             within the next 30 days&#xD;
+&#xD;
+          -  interested in learning skills to quit smoking&#xD;
+&#xD;
+          -  willing to be randomly assigned to either condition&#xD;
+&#xD;
+          -  resides in US&#xD;
+&#xD;
+          -  has at least daily access to their own personal Apple iPhone, Android, or Windows&#xD;
+             Phone&#xD;
+&#xD;
+          -  knows how to login and download a smartphone application&#xD;
+&#xD;
+          -  willing and able to read in English&#xD;
+&#xD;
+          -  not using other smoking cessation interventions (including apps or our other&#xD;
+             intervention studies).&#xD;
+&#xD;
+          -  willing to complete all three follow-up surveys&#xD;
+&#xD;
+          -  provide email, phone, and mailing address.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The exclusion criteria are opposite of the inclusion criteria listed above.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Bricker, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fred Hutchinson Cancer Research Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>March 24, 2016</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 31, 2016</study_first_posted>
+  <results_first_submitted>November 12, 2020</results_first_submitted>
+  <results_first_submitted_qc>December 10, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 5, 2021</results_first_posted>
+  <last_update_submitted>December 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>smoking cessation</keyword>
+  <keyword>app for quitting smoking</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 18, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/62/NCT02724462/ICF_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 5, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/62/NCT02724462/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Smokers were recruited from May 27, 2017 to September 28, 2018, nationally via Facebook ads, a survey sampling company, search engine results, and referral from friends and family.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Experimental</title>
+          <description>Novel/experimental intervention smartphone smoking cessation app iCanQuit.</description>
+        </group>
+        <group group_id="P2">
+          <title>Control</title>
+          <description>Standard of care control smoking cessation app QuitGuide from NCI.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>3 Month Follow-up Survey</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="1254"/>
+                <participants group_id="P2" count="1249"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1043"/>
+                <participants group_id="P2" count="1050"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="211"/>
+                <participants group_id="P2" count="199"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="171"/>
+                <participants group_id="P2" count="151"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Excluded as ineligible after randomization</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+                <participants group_id="P2" count="48"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>6 Month Follow-up Survey</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="1254"/>
+                <participants group_id="P2" count="1249"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1058"/>
+                <participants group_id="P2" count="1078"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="196"/>
+                <participants group_id="P2" count="171"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="156"/>
+                <participants group_id="P2" count="123"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Excluded as ineligible after randomization</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+                <participants group_id="P2" count="48"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>12 Month Follow-up Survey</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="1254"/>
+                <participants group_id="P2" count="1249"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1040"/>
+                <participants group_id="P2" count="1067"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="214"/>
+                <participants group_id="P2" count="182"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="174"/>
+                <participants group_id="P2" count="134"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Excluded as ineligible after randomization</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+                <participants group_id="P2" count="48"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Participants not excluded as ineligible after randomization</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Experimental</title>
+          <description>Novel/experimental intervention smartphone smoking cessation app iCanQuit.</description>
+        </group>
+        <group group_id="B2">
+          <title>Control</title>
+          <description>Standard of care control smoking cessation app QuitGuide from NCI.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="1214"/>
+            <count group_id="B2" value="1201"/>
+            <count group_id="B3" value="2415"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1214"/>
+                    <count group_id="B2" value="1201"/>
+                    <count group_id="B3" value="2415"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38.2" spread="10.8"/>
+                    <measurement group_id="B2" value="38.3" spread="11.0"/>
+                    <measurement group_id="B3" value="38.2" spread="10.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1214"/>
+                    <count group_id="B2" value="1201"/>
+                    <count group_id="B3" value="2415"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="857"/>
+                    <measurement group_id="B2" value="843"/>
+                    <measurement group_id="B3" value="1700"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="357"/>
+                    <measurement group_id="B2" value="358"/>
+                    <measurement group_id="B3" value="715"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1214"/>
+                    <count group_id="B2" value="1201"/>
+                    <count group_id="B3" value="2415"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="105"/>
+                    <measurement group_id="B2" value="105"/>
+                    <measurement group_id="B3" value="210"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1109"/>
+                    <measurement group_id="B2" value="1096"/>
+                    <measurement group_id="B3" value="2205"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1214"/>
+                    <count group_id="B2" value="1201"/>
+                    <count group_id="B3" value="2415"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="58"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="234"/>
+                    <measurement group_id="B2" value="232"/>
+                    <measurement group_id="B3" value="466"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="836"/>
+                    <measurement group_id="B2" value="830"/>
+                    <measurement group_id="B3" value="1666"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="89"/>
+                    <measurement group_id="B2" value="84"/>
+                    <measurement group_id="B3" value="173"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20"/>
+                    <measurement group_id="B2" value="21"/>
+                    <measurement group_id="B3" value="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Smoking level</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1214"/>
+                    <count group_id="B2" value="1201"/>
+                    <count group_id="B3" value="2415"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>21 or more cigarettes per day</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="249"/>
+                    <measurement group_id="B2" value="239"/>
+                    <measurement group_id="B3" value="488"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>20 or fewer cigarettes per day</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="965"/>
+                    <measurement group_id="B2" value="962"/>
+                    <measurement group_id="B3" value="1927"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Education level</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1214"/>
+                    <count group_id="B2" value="1201"/>
+                    <count group_id="B3" value="2415"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>High school or less education</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="500"/>
+                    <measurement group_id="B2" value="495"/>
+                    <measurement group_id="B3" value="995"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Some college or more education</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="714"/>
+                    <measurement group_id="B2" value="706"/>
+                    <measurement group_id="B3" value="1420"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>CESD-20 Depression Screen</title>
+          <description>Center for Epidemiological Studies Depression 20-item Scale (CESD-20). The range of possible CESD-20 scores is 0-60, with higher values indicating increased symptom severity.</description>
+          <population>Analysis population includes participants who sufficiently completed the CESD-20 items.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1208"/>
+                    <count group_id="B2" value="1197"/>
+                    <count group_id="B3" value="2405"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>CESD-20 score greater than 15</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="583"/>
+                    <measurement group_id="B2" value="583"/>
+                    <measurement group_id="B3" value="1166"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>CESD-20 score less than or equal to 15</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="625"/>
+                    <measurement group_id="B2" value="614"/>
+                    <measurement group_id="B3" value="1239"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>30-day Point Prevalence Abstinence, Complete-case</title>
+        <description>Percentage of participants reporting no smoking in the past 30 days, 12 months post-treatment. Participants missing follow-up data are excluded for the complete-case analysis. Exact 2-sided CI was based on the observed proportion of participants.</description>
+        <time_frame>12 months post randomization</time_frame>
+        <population>Participants who reported 30-day point prevalence abstinence at 12 months post-treatment and who were not excluded as ineligible after randomization.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Experimental</title>
+            <description>Novel/experimental intervention smartphone smoking cessation app iCanQuit.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Standard of care control smoking cessation app QuitGuide from NCI.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>30-day Point Prevalence Abstinence, Complete-case</title>
+          <description>Percentage of participants reporting no smoking in the past 30 days, 12 months post-treatment. Participants missing follow-up data are excluded for the complete-case analysis. Exact 2-sided CI was based on the observed proportion of participants.</description>
+          <population>Participants who reported 30-day point prevalence abstinence at 12 months post-treatment and who were not excluded as ineligible after randomization.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1040"/>
+                <count group_id="O2" value="1067"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28.2" lower_limit="25.5" upper_limit="31.0"/>
+                    <measurement group_id="O2" value="21.1" lower_limit="18.7" upper_limit="23.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>&lt;.001</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.49</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>1.22</ci_lower_limit>
+            <ci_upper_limit>1.83</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>30-day Point Prevalence Abstinence, Missing=Smoking Imputation</title>
+        <description>Percentage of participants reporting no smoking in the past 30 days, 12 months post-treatment. Participants missing follow-up data are imputed as still smoking. Exact 2-sided CI was based on the observed proportion of participants.</description>
+        <time_frame>12 months post randomization</time_frame>
+        <population>Participants who were not excluded as ineligible after randomization.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Experimental</title>
+            <description>Novel/experimental intervention smartphone smoking cessation app iCanQuit.</description>
+          </group>
+          <group group_id="O2">
+            <title>Control</title>
+            <description>Standard of care control smoking cessation app QuitGuide from NCI.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>30-day Point Prevalence Abstinence, Missing=Smoking Imputation</title>
+          <description>Percentage of participants reporting no smoking in the past 30 days, 12 months post-treatment. Participants missing follow-up data are imputed as still smoking. Exact 2-sided CI was based on the observed proportion of participants.</description>
+          <population>Participants who were not excluded as ineligible after randomization.</population>
+          <units>Percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1214"/>
+                <count group_id="O2" value="1201"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.1" lower_limit="21.8" upper_limit="26.7"/>
+                    <measurement group_id="O2" value="18.7" lower_limit="16.6" upper_limit="21.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.001</p_value>
+            <method>Regression, Logistic</method>
+            <param_type>Odds Ratio (OR)</param_type>
+            <param_value>1.40</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>1.14</ci_lower_limit>
+            <ci_upper_limit>1.71</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Approximately 31 months, from the opening of the recruitment window to closure of the data collection window.</time_frame>
+      <desc>This is a smartphone-delivered behavioral intervention, so there were no known risks for serious adverse events, other adverse events, or all-cause mortality.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Experimental</title>
+          <description>Novel/experimental intervention smartphone smoking cessation app iCanQuit.</description>
+        </group>
+        <group group_id="E2">
+          <title>Control</title>
+          <description>Standard of care control smoking cessation app QuitGuide from NCI.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1214"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1201"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1214"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1201"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1214"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="1201"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Jonathan Bricker</name_or_title>
+      <organization>Fred Hutchinson Cancer Research Center</organization>
+      <phone>206-667-5077</phone>
+      <email>jbricker@fredhutch.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

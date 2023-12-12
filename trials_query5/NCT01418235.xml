@@ -1,0 +1,518 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01418235</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HVTN 086/SAAVI 103</org_study_id>
+    <nct_id>NCT01418235</nct_id>
+  </id_info>
+  <brief_title>Safety of and Immune Response to a DNA HIV Vaccine Boosted With a Modified Vaccinia HIV Vaccine and Protein HIV Vaccine in Healthy Adults</brief_title>
+  <official_title>A Phase 1 Placebo-controlled Clinical Trial to Evaluate the Safety and Immunogenicity of SAAVI DNA-C2, SAAVI MVA-C and Novartis Subtype C gp140 With MF59 Adjuvant in Various Vaccination Schedules in HIV-uninfected Healthy Vaccinia-naïve Adult Participants in South Africa</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>HIV Vaccine Trials Network</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>South Africa AIDS Vaccine Initiative</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>HIV Vaccine Trials Network</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sub-Saharan Africa is the region most affected by the global Human Immunodeficiency Virus&#xD;
+      (HIV) epidemic. A vaccine is the most promising preventive approach against new HIV&#xD;
+      infections. The purpose of this study is to evaluate the safety and immunogenicity of 4&#xD;
+      experimental preventive HIV vaccine regimens in HIV-uninfected adults in South Africa.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The worldwide Human Immunodeficiency Virus / Acquired Immunodeficiency Syndrome (HIV/AIDS)&#xD;
+      epidemic may only be controlled through development and utilization of a safe and effective&#xD;
+      vaccine that will prevent HIV infection. Due to the high prevalence of HIV-1 subtype C in&#xD;
+      southern Africa, the South African AIDS Vaccine Initiative (SAAVI), the HIV Vaccine Trials&#xD;
+      Network (HVTN), Novartis, and the National Institute of Allergy and Infectious Diseases&#xD;
+      (NIAID) are evaluating three subtype C HIV vaccines, SAAVI DNA-C2, SAAVI MVA-C, and Novartis&#xD;
+      Subtype C gp140 through this study. These vaccines will be used together in four prime-boost&#xD;
+      regimens. The SAAVI DNA-C2 vaccine is a multigene deoxyribonucleic acid (DNA) vaccine&#xD;
+      consisting of two DNA plasmids in equal amounts that express an HIV-1 subtype C polyprotein&#xD;
+      comprising of Gag-Reverse Transcriptase-Tat-Nef and an HIV-1 subtype C truncated Env. SAAVI&#xD;
+      MVA-C is a recombinant modified vaccinia Ankara (MVA) vaccine expressing the same immunogens&#xD;
+      as the SAAVI DNA-C2 vaccine. MVA is a highly attenuated vaccinia virus. The Novartis protein&#xD;
+      subunit vaccine is a Subtype C oligomeric V2 loop deleted glycoprotein 140 (gp140) vaccine&#xD;
+      (gp140[delta]V2.TV1), given with MF59 adjuvant.&#xD;
+&#xD;
+      This trial is designed to build upon the Thai RV144 HIV vaccine trial, which demonstrated an&#xD;
+      efficacy of 31.2% among participants who received a different vaccine regimen of a pox prime&#xD;
+      followed by a concurrently-administered protein boost. This primary purpose of HVTN 086 is to&#xD;
+      evaluate the safety and immunogenicity of SAAVI DNA-C2, SAAVI MVA-C and Novartis Clade C&#xD;
+      gp140TV1ΔV2 with MF59 adjuvant in various vaccination regimens. The primary analysis will&#xD;
+      focus on a ranking strategy of the vaccine regimens that is guided by measurements of the&#xD;
+      immune responses elicited by these vaccines and their respective modes of delivery in various&#xD;
+      combinations, both sequential and concurrent.&#xD;
+&#xD;
+      Participants will actively participate in this study for 12 months. Participants will be&#xD;
+      randomly assigned to receive either a prime-boost preventive vaccine regimen or placebo. Four&#xD;
+      prime-boost preventive vaccine regimens will be compared; each participant will be randomized&#xD;
+      to one of 4 groups. Participants in Group 1 will receive MVA-C at months 0 and 1, and&#xD;
+      gp140/MF59 at months 3 and 6. Group 2 will receive MVA-C and gp140/MF59 at months 1 and 3.&#xD;
+      Group 3 will receive DNA-C at months 0 and 1, and MVA-C at months 3 and 6. Group 4 will&#xD;
+      receive DNA-C at months 0 and 1, and both MVA-C and gp140/MF59 at months 3 and 6. Additional&#xD;
+      study visits will occur at Weeks 2, 6, 13, 14, 26, 28, 36, and 48. All participants will be&#xD;
+      contacted once annually for 3 years and asked questions about their health. Study procedures&#xD;
+      include physical exams, blood and urine collection, HIV testing, an electrocardiogram, and&#xD;
+      questionnaire. Some blood collected from participants will be stored and used in future&#xD;
+      research. Risk-reduction counseling will be conducted at all study visits.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 19, 2011</start_date>
+  <completion_date type="Actual">December 9, 2015</completion_date>
+  <primary_completion_date type="Actual">October 7, 2013</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Signs and symptoms of local and systemic reactogenicity, laboratory measures of safety, and adverse events</measure>
+    <time_frame>Measured through approximately Month 12</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing antibody titers to tier 1 and tier 2 virus isolates as assessed by magnitude-breadth curves</measure>
+    <time_frame>Measured through approximately Month 12</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>T-cell response rate and magnitude as detected by HIV-1 specific interferon-gamma/interleukin-2 intracellular cytokine staining</measure>
+    <time_frame>Measured 2 weeks after the 3rd and 4th vaccinations in Arms 1, 3, 4; measured 14 weeks after 2nd vaccination in Arm 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total HIV-1 Env-specific immunoglobulin G (IgG)-binding antibodies as determined by HIV-1 multiplex Ab assay ConS gp140, Du151 Env, and/or TV1gp140 specific IgG subclass (IgG1- IgG4) and IgA characterization determined by HIV-1 multiplex antibody assay</measure>
+    <time_frame>Measured 2 weeks after the 3rd and 4th vaccinations in Arms 1, 3, 4; measured 14 weeks after 2nd vaccination in Arm 2</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">184</enrollment>
+  <condition>HIV Seronegativity</condition>
+  <condition>HIV Preventive Vaccine</condition>
+  <arm_group>
+    <arm_group_label>Group 1: MVA-C + gp140/MF59</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: MVA-C + gp140/MF59</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: DNA-C2 + MVA-C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4: DNA-C2 + MVA-C + gp140/MF59</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MVA-C + gp140/MF59</intervention_name>
+    <description>SAAVI MVA-C administered as 0.5 ml intramuscularly in right deltoid, with placebo in left deltoid, at Month 0; SAAVI MVA-C administered as 0.5 ml intramuscularly in right deltoid at Month 1; Novartis subtype C gp140 admixed with Novartis MF59 adjuvant administered as 0.5 ml intramuscularly in left deltoid, with placebo in right deltoid, at Months 3, 6.&#xD;
+Placebo comparator: Placebo administered at Months 0, 1, 3, 6</description>
+    <arm_group_label>Group 1: MVA-C + gp140/MF59</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MVA-C + gp140/MF59</intervention_name>
+    <description>SAAVI MVA-C administered as 0.5 ml intramuscularly in right deltoid, with Novartis subtype C gp140 admixed with Novartis MF59 adjuvant administered as 0.5 ml intramuscularly in left deltoid, at Months 0, 3; placebo in right deltoid at Month 1; placebo in each deltoid at Month 6&#xD;
+Placebo comparator: Placebo administered at Months 0, 1, 3, 6</description>
+    <arm_group_label>Group 2: MVA-C + gp140/MF59</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>DNA-C2 + MVA-C</intervention_name>
+    <description>SAAVI DNA-C2 administered as 1 ml intramuscularly in right deltoid, with placebo in left deltoid, at Month 0; SAAVI DNA-C2 administered as 1 ml intramuscularly in right deltoid at Month 1; SAAVI MVA-C administered as 0.5 ml intramuscularly in right deltoid, with placebo in left deltoid, at Months 3, 6&#xD;
+Placebo comparator: Placebo administered at Months 0, 1, 3, 6</description>
+    <arm_group_label>Group 3: DNA-C2 + MVA-C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>DNA-C2 + MVA-C + gp140/MF59</intervention_name>
+    <description>SAAVI DNA-C2 administered as 1 ml intramuscularly in right deltoid, with placebo in left deltoid, at Month 0; SAAVI DNA-C2 administered as 1 ml intramuscularly in right deltoid at Month 1; SAAVI MVA-C administered as 0.5 ml intramuscularly in right deltoid at Months 3, 6; Novartis subtype C gp140 admixed with Novartis MF59 adjuvant administered as 0.5 ml intramuscularly in left deltoid, with placebo in right deltoid, at Months 3, 6&#xD;
+Placebo comparator: Placebo administered at Months 0, 1, 3, 6</description>
+    <arm_group_label>Group 4: DNA-C2 + MVA-C + gp140/MF59</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age of 18 to 45 years&#xD;
+&#xD;
+          2. Access to a participating HVTN clinical research site and willingness to be followed&#xD;
+             for the planned duration of the study&#xD;
+&#xD;
+          3. Ability and willingness to provide informed consent&#xD;
+&#xD;
+          4. Assessment of understanding: volunteer demonstrates understanding of this study and&#xD;
+             other relevant study results and completes a questionnaire prior to first vaccination&#xD;
+             with verbal demonstration of understanding of all questionnaire items answered&#xD;
+             incorrectly&#xD;
+&#xD;
+          5. Willingness to receive HIV test results&#xD;
+&#xD;
+          6. Willingness to discuss HIV infection risks, amenable to HIV risk reduction counseling,&#xD;
+             and committed to maintaining behavior consistent with low risk of HIV exposure through&#xD;
+             the last required protocol clinic visit&#xD;
+&#xD;
+          7. Assessed by clinic staff as being at &quot;low risk&quot; for HIV infection on the basis of&#xD;
+             sexual behavior within the 12 months prior to enrollment defined as follows:&#xD;
+&#xD;
+               -  Sexually abstinent, or&#xD;
+&#xD;
+               -  In a mutually monogamous relationship with a partner with a known HIV-uninfected&#xD;
+                  status, or&#xD;
+&#xD;
+               -  Had one partner believed to be HIV-uninfected with whom he/she regularly used&#xD;
+                  condoms for vaginal and anal intercourse&#xD;
+&#xD;
+          8. Willing to be contacted annually after completion of scheduled clinic visits for a&#xD;
+             total of 3 years following initial study injection&#xD;
+&#xD;
+          9. Agrees not to enroll in another study of an investigational research agent prior to&#xD;
+             completion of last required protocol clinic visit (excludes annual contacts for safety&#xD;
+             surveillance)&#xD;
+&#xD;
+         10. Good general health as shown by medical history, physical exam, and screening&#xD;
+             laboratory tests&#xD;
+&#xD;
+         11. Hemoglobin = 11.0 g/dL for volunteers who were born female, = 13.0 g/dL for volunteers&#xD;
+             who were born male&#xD;
+&#xD;
+         12. White blood cell (WBC) count = 3,300 to 12,000 cells/mm3&#xD;
+&#xD;
+         13. Total lymphocyte count = 800 cells/mm3&#xD;
+&#xD;
+         14. Platelets = 125,000 to 550,000/mm3&#xD;
+&#xD;
+         15. Chemistry panel: Alanine aminotransferase (ALT), aspartate aminotransferase (AST), and&#xD;
+             alkaline phosphatase &lt; 1.25 times the institutional upper limit of normal&#xD;
+&#xD;
+         16. Cardiac Troponin T (cTnT) does not exceed the institutional upper limit of normal&#xD;
+&#xD;
+         17. Negative HIV-1 and -2 blood test: Sites may use locally available assays that have&#xD;
+             been approved by HVTN Laboratory Operations.&#xD;
+&#xD;
+         18. Negative Hepatitis B surface antigen (HBsAg)&#xD;
+&#xD;
+         19. Negative anti-Hepatitis C virus antibodies (anti-HCV), or negative HCV polymerase&#xD;
+             chain reaction (PCR) if the anti-HCV is positive&#xD;
+&#xD;
+         20. Normal urine:&#xD;
+&#xD;
+               -  Negative urine glucose, and&#xD;
+&#xD;
+               -  Negative or trace urine protein, and&#xD;
+&#xD;
+               -  Negative or trace urine hemoglobin (if trace hemoglobin is present on dipstick, a&#xD;
+                  microscopic urinalysis within institutional normal range).&#xD;
+&#xD;
+         21. Volunteers who were born female: negative serum or urine beta human chorionic&#xD;
+             gonadotropin (ß-HCG) pregnancy test performed prior to vaccination on the day of&#xD;
+             initial vaccination&#xD;
+&#xD;
+         22. Reproductive status: A volunteer who was born female must:&#xD;
+&#xD;
+               -  Agree to consistently use effective contraception, from at least 21 days prior to&#xD;
+                  enrollment through 90 days after the participant's last vaccination, for sexual&#xD;
+                  activity that could lead to pregnancy. Effective contraception for participants&#xD;
+                  in South Africa is defined as using 2 methods, including 1 of the following:&#xD;
+&#xD;
+               -  Condoms (male or female) with or without a spermicide,&#xD;
+&#xD;
+               -  Diaphragm or cervical cap with spermicide,&#xD;
+&#xD;
+             PLUS 1 of the following methods:&#xD;
+&#xD;
+               -  Intrauterine device (IUD),&#xD;
+&#xD;
+               -  Hormonal contraception, or&#xD;
+&#xD;
+               -  Successful vasectomy in the male partner (considered successful if a volunteer&#xD;
+                  reports that a male partner has [1] documentation of azoospermia by microscopy,&#xD;
+                  or [2] a vasectomy more than 2 years ago with no resultant pregnancy despite&#xD;
+                  sexual activity postvasectomy);&#xD;
+&#xD;
+               -  Or not be of reproductive potential, such as having reached menopause (no menses&#xD;
+                  for 1 year) or having undergone hysterectomy, bilateral oophorectomy, or tubal&#xD;
+                  ligation;&#xD;
+&#xD;
+               -  Or be sexually abstinent.&#xD;
+&#xD;
+         23. Volunteers who were born female must also agree not to seek pregnancy through&#xD;
+             alternative methods, such as artificial insemination or in vitro fertilization until&#xD;
+             after the last required protocol clinic visit&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Vaccinia (smallpox) vaccination determined by: (1) clinical evidence of vaccinia&#xD;
+             scarification; (2) self-reported history of vaccinia vaccination; or (3) birth year&#xD;
+             1977 or earlier. (Not excluded: a participant born in or before 1977 who self reports&#xD;
+             he/she did not receive vaccinia [smallpox] vaccination and has no evidence of&#xD;
+             scarification.)&#xD;
+&#xD;
+          2. Within the 12 months prior to enrollment: excessive daily alcohol use or frequent&#xD;
+             binge drinking or chronic marijuana abuse or any other use of illicit drugs&#xD;
+&#xD;
+          3. Within the 12 months prior to enrollment: a history of newly acquired syphilis,&#xD;
+             gonorrhea, non-gonococcal urethritis, herpes simplex virus type 2 (HSV2), Chlamydia,&#xD;
+             pelvic inflammatory disease (PID), trichomonas, mucopurulent cervicitis, epididymitis,&#xD;
+             proctitis, lymphogranuloma venereum, chancroid, or hepatitis B&#xD;
+&#xD;
+          4. Untreated or incompletely treated syphilis infection&#xD;
+&#xD;
+          5. HIV vaccine(s) received in a prior HIV vaccine trial. For potential participants who&#xD;
+             have received control/placebo in an HIV vaccine trial, the HVTN 086 / SAAVI 103 PSRT&#xD;
+             will determine eligibility on a case-by-case basis.&#xD;
+&#xD;
+          6. Non-HIV experimental vaccine(s) received within the last 5 years in a prior vaccine&#xD;
+             trial. Exceptions may be made for vaccines that have subsequently undergone licensure&#xD;
+             by the FDA or MCC. For potential participants who have received control/placebo in an&#xD;
+             experimental vaccine trial, the HVTN 086 / SAAVI 103 PSRT will determine eligibility&#xD;
+             on a case-by-case basis. For potential participants who have received an experimental&#xD;
+             vaccine(s) greater than 5 years ago, eligibility for enrollment will be determined by&#xD;
+             the PSRT on a case-by-case basis.&#xD;
+&#xD;
+          7. Immunosuppressive medications received within 168 days before first vaccination. (Not&#xD;
+             excluded: [1] corticosteroid nasal spray for allergic rhinitis; [2] topical&#xD;
+             corticosteroids for mild, uncomplicated dermatitis; or [3] oral/parenteral&#xD;
+             corticosteroids given for non-chronic conditions not expected to recur [length of&#xD;
+             therapy 10 days or less with completion at least 30 days prior to enrollment].)&#xD;
+&#xD;
+          8. Blood products received within 120 days before first vaccination&#xD;
+&#xD;
+          9. Immunoglobulin received within 60 days before first vaccination&#xD;
+&#xD;
+         10. Live attenuated vaccines (not including influenza vaccine) received within 30 days&#xD;
+             before first vaccination or scheduled within 14 days after injection (eg, measles,&#xD;
+             mumps, and rubella [MMR]; oral polio vaccine [OPV]; varicella; yellow fever)&#xD;
+&#xD;
+         11. Influenza vaccine or any vaccines that are not live attenuated vaccines and were&#xD;
+             received within 14 days prior to first vaccination (eg, tetanus, pneumococcal,&#xD;
+             Hepatitis A or B)&#xD;
+&#xD;
+         12. Investigational research agents received within 30 days before first vaccination or&#xD;
+             scheduled within 14 days after vaccination&#xD;
+&#xD;
+         13. Allergy treatment with antigen injections within 30 days before first vaccination or&#xD;
+             that are scheduled within 14 days after first vaccination&#xD;
+&#xD;
+         14. Current anti-tuberculosis (TB) prophylaxis or therapy&#xD;
+&#xD;
+         15. Clinically significant medical condition, physical examination findings, clinically&#xD;
+             significant abnormal laboratory results, or past medical history with clinically&#xD;
+             significant implications for current health. A clinically significant condition or&#xD;
+             process includes but is not limited to:&#xD;
+&#xD;
+               -  A process that would affect the immune response,&#xD;
+&#xD;
+               -  A process that would require medication that affects the immune response,&#xD;
+&#xD;
+               -  Any contraindication to repeated injections or blood draws,&#xD;
+&#xD;
+               -  A condition that requires active medical intervention or monitoring to avert&#xD;
+                  grave danger to the participant's health or well-being during the study period,&#xD;
+&#xD;
+               -  A condition or process for which signs or symptoms could be confused with&#xD;
+                  reactions to vaccine, or&#xD;
+&#xD;
+               -  Any condition specifically listed among the exclusion criteria below.&#xD;
+&#xD;
+         16. Any medical, psychiatric, occupational, or other condition that, in the judgment of&#xD;
+             the investigator, would interfere with, or serve as a contraindication to, protocol&#xD;
+             adherence, assessment of safety or reactogenicity, or a participant's ability to give&#xD;
+             informed consent.&#xD;
+&#xD;
+         17. Serious adverse reactions to vaccines including anaphylaxis and related symptoms such&#xD;
+             as hives, respiratory difficulty, angioedema, and/or abdominal pain. (Not excluded: a&#xD;
+             participant who had a nonanaphylactic adverse reaction to pertussis vaccine as a&#xD;
+             child.)&#xD;
+&#xD;
+         18. Hypersensitivity to eggs or egg products&#xD;
+&#xD;
+         19. ECG with clinically significant findings, or features that would interfere with the&#xD;
+             assessment of myo/pericarditis, as determined by a contract ECG laboratory or&#xD;
+             cardiologist, including any of the following: (1) conduction disturbance (complete&#xD;
+             left or complete right bundle branch block or nonspecific intraventricular conduction&#xD;
+             disturbance with QRS =120ms, AV block of any degree, or QTc prolongation (&gt; 440ms);&#xD;
+             (2) repolarization (ST segment or T wave) abnormality; (3) significant atrial or&#xD;
+             ventricular arrhythmia; (4) frequent atrial or ventricular ectopy (eg, frequent&#xD;
+             premature atrial contractions, 2 premature ventricular contractions in a row); (5) ST&#xD;
+             elevation consistent with ischemia; (6) evidence of past or evolving myocardial&#xD;
+             infarction.&#xD;
+&#xD;
+         20. Cardiac risk factors, including 2 or more of the following: (1) participant report of&#xD;
+             history of elevated blood cholesterol defined as fasting low density lipoprotein (LDL)&#xD;
+             &gt; 160 mg/dL; (2) first degree relative (eg, mother, father, brother, or sister) who&#xD;
+             had coronary artery disease before the age of 50 years; (3) current smoker; or (4) BMI&#xD;
+             = 35.&#xD;
+&#xD;
+         21. History of, or known active cardiac disease including: (1) previous myocardial&#xD;
+             infarction (heart attack); (2) angina pectoris; (3) congestive heart failure; (4)&#xD;
+             valvular heart disease including mitral valve prolapse; (5) cardiomyopathy; (6)&#xD;
+             pericarditis; (7) stroke or transient ischemic attack; (8) chest pain or shortness of&#xD;
+             breath with activity (such as walking up stairs); (9) dysrhythmia/episodic&#xD;
+             palpitations (Not excluded: sinus arrhythmia); or (10) other heart conditions under&#xD;
+             the care of a doctor.&#xD;
+&#xD;
+         22. Autoimmune disease&#xD;
+&#xD;
+         23. Immunodeficiency&#xD;
+&#xD;
+         24. Asthma other than mild, well-controlled asthma. Exclude a participant who:&#xD;
+&#xD;
+               -  Generally uses a bronchodilator (beta2 agonist) daily, or&#xD;
+&#xD;
+               -  In the past year, has (any of the following):&#xD;
+&#xD;
+               -  Had &gt; 1 exacerbation of symptoms treated with oral steroids (Note:&#xD;
+                  oral/parenteral steroid use for asthma is exclusionary within 168 days before&#xD;
+                  first vaccination.);&#xD;
+&#xD;
+               -  Routinely used moderate to high dose inhaled corticosteroids (eg, more than the&#xD;
+                  equivalent of 250 µg fluticasone; 400 µg budesonide; 500 µg beclomethasone; or&#xD;
+                  1000 µg triamcinolone/flunisolide, as a daily dose) or theophylline for asthma;&#xD;
+                  or&#xD;
+&#xD;
+               -  Needed emergency care, urgent care, hospitalization, or intubation for asthma.&#xD;
+&#xD;
+         25. Diabetes mellitus type 1 or type 2, including cases controlled with diet alone. (Not&#xD;
+             excluded: history of isolated gestational diabetes.)&#xD;
+&#xD;
+         26. Thyroidectomy, or thyroid disease requiring medication during the last 12 months&#xD;
+&#xD;
+         27. Angioedema within the last 3 years if episodes are considered serious or have required&#xD;
+             medication within the last 2 years&#xD;
+&#xD;
+         28. Hypertension:&#xD;
+&#xD;
+               -  If a person has been diagnosed with hypertension during screening or previously,&#xD;
+                  exclude for hypertension that is not well controlled. Well-controlled&#xD;
+                  hypertension is defined as blood pressure consistently = 140 mm Hg systolic and =&#xD;
+                  90 mm Hg diastolic, with or without medication, with only isolated, brief&#xD;
+                  instances of higher readings, which must be = 150 mm Hg systolic and = 100 mm Hg&#xD;
+                  diastolic. For these participants, blood pressure must be = 140 mm Hg systolic&#xD;
+                  and = 90 mm Hg diastolic at enrollment.&#xD;
+&#xD;
+               -  If a person has NOT been diagnosed with hypertension during screening or&#xD;
+                  previously, exclude for systolic blood pressure = 150 mm Hg at enrollment or&#xD;
+                  diastolic blood pressure = 100 mm Hg at enrollment.&#xD;
+&#xD;
+         29. Body mass index (BMI) = 40&#xD;
+&#xD;
+         30. Bleeding disorder diagnosed by a doctor (eg, factor deficiency, coagulopathy, or&#xD;
+             platelet disorder requiring special precautions)&#xD;
+&#xD;
+         31. Malignancy (Not excluded: a participant with a surgical excision and subsequent&#xD;
+             observation period that in the investigator's estimation has a reasonable assurance of&#xD;
+             sustained cure or is unlikely to recur during the period of the study.)&#xD;
+&#xD;
+         32. Seizure disorder (Not excluded: a participant with a history of seizures who has not&#xD;
+             required medications or had a seizure within the past 3 years.)&#xD;
+&#xD;
+         33. Asplenia: any condition resulting in the absence of a functional spleen&#xD;
+&#xD;
+         34. Psychiatric condition that precludes compliance with the protocol. Specifically&#xD;
+             excluded are persons with psychoses within the past 3 years, ongoing risk for suicide,&#xD;
+             or history of suicide attempt or gesture within the past 3 years.&#xD;
+&#xD;
+         35. Pregnant or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gavin Churchyard</last_name>
+    <role>Study Chair</role>
+    <affiliation>Aurum Institute for Health Research</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Perinatal HIV Research Unit</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>1864</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aurum Institute for Health Research</name>
+      <address>
+        <city>Klerksdorp</city>
+        <state>North-West Province</state>
+        <zip>2570</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Desmond Tutu HIV Centre</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7750</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>South Africa</country>
+  </location_countries>
+  <verification_date>June 2019</verification_date>
+  <study_first_submitted>June 17, 2011</study_first_submitted>
+  <study_first_submitted_qc>August 15, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 17, 2011</study_first_posted>
+  <last_update_submitted>June 19, 2019</last_update_submitted>
+  <last_update_submitted_qc>June 19, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 21, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HIV Infections</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Lentivirus Infections</keyword>
+  <keyword>Retroviridae Infections</keyword>
+  <keyword>RNA Virus Infections</keyword>
+  <keyword>Virus Diseases</keyword>
+  <keyword>Sexually Transmitted Diseases, Viral</keyword>
+  <keyword>Sexually Transmitted Diseases</keyword>
+  <keyword>Immunologic Deficiency Syndromes</keyword>
+  <keyword>Immune System Diseases</keyword>
+  <keyword>Slow Virus Diseases</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccinia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>MF59 oil emulsion</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

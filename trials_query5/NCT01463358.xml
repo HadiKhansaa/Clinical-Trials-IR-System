@@ -1,0 +1,834 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01463358</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GDT-20040601-PRESS-1</org_study_id>
+    <nct_id>NCT01463358</nct_id>
+  </id_info>
+  <brief_title>Prevention of Syncope by Cardiac Pacing in Patients With Bifascicular Block</brief_title>
+  <acronym>PRESS</acronym>
+  <official_title>Prevention of Syncope by Cardiac Pacing in Patients With Bifascicular Block</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Scientific Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boston Scientific Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study Objective&#xD;
+&#xD;
+      The purpose of this study is to evaluate the efficacy of bradycardia pacing with respect to&#xD;
+      patient symptoms in patients with bifascicular block and syncope of unexplained origin.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary endpoint&#xD;
+&#xD;
+      First occurrence of a composite of Syncope of any origin OR Presyncopal episode with&#xD;
+      documented cardioinhibitory origin OR Atrioventricular block of any degree; all associated&#xD;
+      with patient symptoms&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+        -  Randomized, prospective, single blinded, two parallel arms&#xD;
+&#xD;
+        -  Treatment group : DDD60 - programmed in DDD mode / 60 lower limit&#xD;
+&#xD;
+        -  Control Group: DDI30 - programmed in DDI mode / 30 lower limit&#xD;
+&#xD;
+        -  Randomization type: block randomization: Block size: 4, allocation ratio 1:1&#xD;
+&#xD;
+      Sample: 100 patients&#xD;
+&#xD;
+      Population&#xD;
+&#xD;
+        -  Patients with bifascicular block with at least one syncopal episode within the last 6&#xD;
+           months preceding enrollment.&#xD;
+&#xD;
+        -  Patients should be negative to a series of pre-enrollment screening in order to exclude:&#xD;
+&#xD;
+        -  Brady-tachy syndrome, vasovagal syncope or carotid sinus syndrome, atrial fibrillation,&#xD;
+           inducible AV block&#xD;
+&#xD;
+        -  Ejection fraction &gt;=40%&#xD;
+&#xD;
+        -  Mean nocturnal heart rate &gt;=35 bpm&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2005</start_date>
+  <completion_date type="Actual">May 2011</completion_date>
+  <primary_completion_date type="Actual">February 2011</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Combined Endpoint Defined as First Occurrence Among the Following Events 1)Syncope Episode of Any Origin; 2)Presyncopal Episode With Documented Cardioinhibitory Origin 3) Atrioventricular Block of Any Degree Associated With Patient Symptoms</measure>
+    <time_frame>2 years</time_frame>
+    <description>Number of participants experiencing syncope episodes, symptomatic pre-syncopal episodes associated with a device intervention (ventricular pacing) and symptomatic episodes associated with documentation of intermittent or permanent atrio-ventricular block</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of First Symptomatic Episode (Syncope or Pre-syncope), Independently From Origin.</measure>
+    <time_frame>2 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Atrial Fibrillation</measure>
+    <time_frame>2 years</time_frame>
+    <description>patients presenting with at least one episode of atrial fibrillation during the 2 years follow up period</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">101</enrollment>
+  <condition>Bifascicular Block</condition>
+  <condition>Syncope</condition>
+  <arm_group>
+    <arm_group_label>DDI30</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Control group based only on backup pacing with lower rate 30 ppm</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DDD60</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Treatment arm based on full pacing support (60 Lower Rate)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific)</intervention_name>
+    <description>pacing in DDD60 is supposed to prevent events of syncope, presyncope of cardioinhibitory origin and symptom associated to av block</description>
+    <arm_group_label>DDD60</arm_group_label>
+    <other_name>INSIGNIA® pacing systems Guidant (Boston Scientific)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific)</intervention_name>
+    <description>pacing in DDDI30 is supposed to act as a safety backup upfront to episodes of syncope, presyncope or AV block, but not supposed to reduce symptoms.</description>
+    <arm_group_label>DDI30</arm_group_label>
+    <other_name>INSIGNIA® pacing systems Guidant (Boston Scientific)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Evidence of Bifascicular block&#xD;
+&#xD;
+          -  At least one episode of syncope during last 6 months from the enrollment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with Brady-tachy syndrome that needs of pacemaker to prevent the symptomatic&#xD;
+             bradycardia o symptomatic tachycardia arrhythmia&#xD;
+&#xD;
+          -  Patients with vasovagal syndrome by positive TTT or carotid sinus syndrome&#xD;
+&#xD;
+          -  Patients with Chronic Atrial Fibrillation&#xD;
+&#xD;
+          -  Patients with Atrial Ventricular Block induces at EPS&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Massimo Santini, MD,FESC,FACC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ospedale San Filippo Neri, Roma, Italy</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria Annunziata</name>
+      <address>
+        <city>Bagno a Ripoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera S. Sebastiano</name>
+      <address>
+        <city>Caserta</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Valduce</name>
+      <address>
+        <city>Como</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Osp. Maggiore</name>
+      <address>
+        <city>Crema</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nuovo Ospedale S. Giovanni di Dio</name>
+      <address>
+        <city>Firenze</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Villa Scassi</name>
+      <address>
+        <city>Genova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Umberto I</name>
+      <address>
+        <city>Mestre</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale GB Grassi</name>
+      <address>
+        <city>Ostia - Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile G. De Lellis</name>
+      <address>
+        <city>Rieti</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera S. Filippo Neri</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Sandro Pertini</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Casilino</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>June 27, 2011</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 1, 2011</study_first_posted>
+  <results_first_submitted>January 4, 2021</results_first_submitted>
+  <results_first_submitted_qc>March 23, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 19, 2021</results_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Syncope</keyword>
+  <keyword>Bifascicular block</keyword>
+  <keyword>Bradycardia pacing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syncope</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>DDI30</title>
+          <description>Control group based only on backup pacing with lower rate 30 ppm&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDDI30 is supposed to act as a safety backup upfront to episodes of syncope, presyncope or AV block, but not supposed to reduce symptoms.</description>
+        </group>
+        <group group_id="P2">
+          <title>DDD60</title>
+          <description>Treatment arm based on full pacing support (60 Lower Rate)&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDD60 is supposed to prevent events of syncope, presyncope of cardioinhibitory origin and symptom associated to av block</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="49"/>
+                <participants group_id="P2" count="52"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="46"/>
+                <participants group_id="P2" count="47"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>DDI30</title>
+          <description>Control group based only on backup pacing with lower rate 30 ppm&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDDI30 is supposed to act as a safety backup upfront to episodes of syncope, presyncope or AV block, but not supposed to reduce symptoms.</description>
+        </group>
+        <group group_id="B2">
+          <title>DDD60</title>
+          <description>Treatment arm based on full pacing support (60 Lower Rate)&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDD60 is supposed to prevent events of syncope, presyncope of cardioinhibitory origin and symptom associated to av block</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="49"/>
+            <count group_id="B2" value="52"/>
+            <count group_id="B3" value="101"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78" spread="8"/>
+                    <measurement group_id="B2" value="77" spread="8"/>
+                    <measurement group_id="B3" value="77" spread="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="35"/>
+                    <measurement group_id="B3" value="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Italy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49"/>
+                    <measurement group_id="B2" value="52"/>
+                    <measurement group_id="B3" value="101"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Combined Endpoint Defined as First Occurrence Among the Following Events 1)Syncope Episode of Any Origin; 2)Presyncopal Episode With Documented Cardioinhibitory Origin 3) Atrioventricular Block of Any Degree Associated With Patient Symptoms</title>
+        <description>Number of participants experiencing syncope episodes, symptomatic pre-syncopal episodes associated with a device intervention (ventricular pacing) and symptomatic episodes associated with documentation of intermittent or permanent atrio-ventricular block</description>
+        <time_frame>2 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>DDI30</title>
+            <description>Control group based only on backup pacing with lower rate 30 ppm&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDDI30 is supposed to act as a safety backup upfront to episodes of syncope, presyncope or AV block, but not supposed to reduce symptoms.</description>
+          </group>
+          <group group_id="O2">
+            <title>DDD60</title>
+            <description>Treatment arm based on full pacing support (60 Lower Rate)&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDD60 is supposed to prevent events of syncope, presyncope of cardioinhibitory origin and symptom associated to av block</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Combined Endpoint Defined as First Occurrence Among the Following Events 1)Syncope Episode of Any Origin; 2)Presyncopal Episode With Documented Cardioinhibitory Origin 3) Atrioventricular Block of Any Degree Associated With Patient Symptoms</title>
+          <description>Number of participants experiencing syncope episodes, symptomatic pre-syncopal episodes associated with a device intervention (ventricular pacing) and symptomatic episodes associated with documentation of intermittent or permanent atrio-ventricular block</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="49"/>
+                <count group_id="O2" value="52"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Occurrence of First Symptomatic Episode (Syncope or Pre-syncope), Independently From Origin.</title>
+        <time_frame>2 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>DDI30</title>
+            <description>Control group based only on backup pacing with lower rate 30 ppm&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDDI30 is supposed to act as a safety backup upfront to episodes of syncope, presyncope or AV block, but not supposed to reduce symptoms.</description>
+          </group>
+          <group group_id="O2">
+            <title>DDD60</title>
+            <description>Treatment arm based on full pacing support (60 Lower Rate)&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDD60 is supposed to prevent events of syncope, presyncope of cardioinhibitory origin and symptom associated to av block</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Occurrence of First Symptomatic Episode (Syncope or Pre-syncope), Independently From Origin.</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="49"/>
+                <count group_id="O2" value="52"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Atrial Fibrillation</title>
+        <description>patients presenting with at least one episode of atrial fibrillation during the 2 years follow up period</description>
+        <time_frame>2 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>DDI30</title>
+            <description>Control group based only on backup pacing with lower rate 30 ppm&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDDI30 is supposed to act as a safety backup upfront to episodes of syncope, presyncope or AV block, but not supposed to reduce symptoms.</description>
+          </group>
+          <group group_id="O2">
+            <title>DDD60</title>
+            <description>Treatment arm based on full pacing support (60 Lower Rate)&#xD;
+DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDD60 is supposed to prevent events of syncope, presyncope of cardioinhibitory origin and symptom associated to av block</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Atrial Fibrillation</title>
+          <description>patients presenting with at least one episode of atrial fibrillation during the 2 years follow up period</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="49"/>
+                <count group_id="O2" value="52"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>2 years</time_frame>
+      <desc>number of subjects with serious and non-serious adverse events of cardiac and non-cardiac origin, with identification of organ cause. Method for systematic assessment: regular investigator assessment at follow up.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>DDI30</title>
+          <description>Control group based only on backup pacing with lower rate 30 ppm DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDDI30 is supposed to act as a safety backup upfront to episodes of syncope, presyncope or AV block, but not supposed to reduce symptoms.</description>
+        </group>
+        <group group_id="E2">
+          <title>DDD60</title>
+          <description>Treatment arm based on full pacing support (60 Lower Rate) DDD60 (INSIGNIA® pacing systems Guidant (Boston Scientific): pacing in DDD60 is supposed to prevent events of syncope, presyncope of cardioinhibitory origin and symptom associated to av block</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="49"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="33" subjects_at_risk="49"/>
+                <counts group_id="E2" subjects_affected="23" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="7" subjects_at_risk="49"/>
+                <counts group_id="E2" events="10" subjects_affected="7" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>atrio-ventricular block</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="8" subjects_at_risk="49"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>symptomatic bradycardia</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>symptomatic atrial arrhyhtmias</sub_title>
+                <description>serious: requiring hospitalizations</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>ventricular arrhyhtmias</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Heart Failure exhacerbation</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="49"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Miocardial Infarction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>intervention for coronary artery disease</sub_title>
+                <description>Coronary artery Bypass Graft or Percutaneous angioplasty</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="49"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Stroke</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="49"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>transient ischemic attack</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="49"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fever/virus</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Tumor</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Musculoskeletal trauma</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="49"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Product Issues</title>
+            <event_list>
+              <event>
+                <sub_title>Loss of pacemaker capture</sub_title>
+                <description>requiring invasive system revision</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="49"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Pacing lead dislodgment</sub_title>
+                <description>requiring invasive system revision</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Pacemaker system infection</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Urinary disease</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chronic obstructive pulmonary disease (COPD)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="3" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>peripheral vascular disease</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="49"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Vascular encephalopathy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="22" subjects_at_risk="49"/>
+                <counts group_id="E2" subjects_affected="20" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="23" subjects_affected="15" subjects_at_risk="49"/>
+                <counts group_id="E2" events="8" subjects_affected="8" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>symptomatic Atrial Arrhythmias</sub_title>
+                <description>non-serious: not requiring hospitalisation</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>Heart Failure</sub_title>
+                <description>non-serious: treated with variation to medical therapy</description>
+                <counts group_id="E1" events="6" subjects_affected="5" subjects_at_risk="49"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Product Issues</title>
+            <event_list>
+              <event>
+                <sub_title>pacemaker signal oversensing/undersensing</sub_title>
+                <description>non serious: resolved with pacemaker reprogramming</description>
+                <counts group_id="E1" events="7" subjects_affected="6" subjects_at_risk="49"/>
+                <counts group_id="E2" events="14" subjects_affected="9" subjects_at_risk="52"/>
+              </event>
+              <event>
+                <sub_title>pacemaker: rise in pacing threshold</sub_title>
+                <description>non serious: resolved with pacemaker reprogramming</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="49"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="49"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="52"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Massimo Santini MD FESC FACC</name_or_title>
+      <organization>Casa di Cura san Pio XI</organization>
+      <phone>+390666494491</phone>
+      <email>m.santini@rmnet.it</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

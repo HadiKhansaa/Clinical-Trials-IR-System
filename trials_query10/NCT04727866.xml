@@ -1,0 +1,298 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04727866</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HAR-19-57</org_study_id>
+    <secondary_id>C31291</secondary_id>
+    <nct_id>NCT04727866</nct_id>
+  </id_info>
+  <brief_title>Brain Plus Spinal Stimulation for Cervical SCI</brief_title>
+  <official_title>Motor Cortex Plus Spinal Cord Stimulation for Chronic Cervical Spinal Cord Injury</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bronx VA Medical Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>New York State Department of Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bronx VA Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this project is to strengthen residual corticospinal tract (CST) connections&#xD;
+      after partial injury using combined motor cortex and spinal cord stimulation to improve arm&#xD;
+      and hand function after spinal cord injury (SCI).&#xD;
+&#xD;
+      To do this, the investigators will test the combination of transcranial magnetic stimulation&#xD;
+      (TMS) with transcutaneous spinal direct current stimulation (tsDCS) in individuals with&#xD;
+      chronic cervical SCI.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      For people with cervical SCI, regaining hand function is their highest priority. Most SCIs&#xD;
+      are motor incomplete, and even when complete, there is often significant amounts of spared&#xD;
+      spinal cord white matter. The goal of this project is to strengthen residual corticospinal&#xD;
+      tract (CST) connections after partial injury using combined motor cortex and spinal cord&#xD;
+      stimulation to improve arm and hand function.&#xD;
+&#xD;
+      The team's research in rats, which has been refined in over a decade of study, demonstrates&#xD;
+      that brain and spinal cord stimulation fully restores motor skills in rats after CST injury.&#xD;
+      Most significant for the population of people living with SCI, this approach is effective in&#xD;
+      the chronic phase of injury.&#xD;
+&#xD;
+      Recently, the investigators translated this electrical stimulation protocol into one that can&#xD;
+      be rapidly translated into people using non-invasive techniques. In rats, combined electrical&#xD;
+      intermittent theta burst stimulation (iTBS) of motor cortex with transcutaneous spinal direct&#xD;
+      current stimulation (tsDCS) activates the cervical spinal cord. This protocol, which is&#xD;
+      administered only 30 minutes a day for 10 days, causes large-scale sprouting of CST&#xD;
+      connections and full recovery of forelimb function. Thus, by combining brain and spinal cord&#xD;
+      electrical stimulation in rodents with corticospinal system injury durable CST axonal&#xD;
+      sprouting, strengthening of CST connections, and recovery is achieved.&#xD;
+&#xD;
+      In this proposal, the investigators intend to bring this promising therapeutic approach to&#xD;
+      humans with cervical SCI. The team will study people with chronic, motor incomplete, SCI to&#xD;
+      test the safety and feasibility of this approach. The investigators' approach is non-invasive&#xD;
+      and, if shown to be effective, can be rapidly integrated into current clinical practice to&#xD;
+      help restore hand function in people with chronic SCI.&#xD;
+&#xD;
+      Each subject will undergo four stimulation sessions of 4 hours or less. Outcomes focus on&#xD;
+      safety and neurophysiological transmission. The first session is used to determine the target&#xD;
+      muscle, optimal scalp site for TMS stimulation, assess cervical tsDCS tolerability, and&#xD;
+      measure maximal contraction force of the fingers, wrist, and elbow. The second through fourth&#xD;
+      sessions will assess the acute tolerability and effects of tsDCS with different intensities&#xD;
+      and electrode configurations in a randomized order. Each session will test a different&#xD;
+      electrode configuration and will be divided into two stages. The first stage will randomly&#xD;
+      deliver three 5-minute blocks of tsDCS at different randomized intensities (100%, 66% and 0%&#xD;
+      (sham) of tolerated intensity, as determined in Session 1) and assess changes in&#xD;
+      corticospinal and spinal excitability in response to TMS and peripheral nerve stimulation&#xD;
+      (PNS) of the target muscle. The second stage will assess the acute effects of 20-minutes of&#xD;
+      tsDCS delivered at two thirds the maximal tolerability on TMS- and PNS-evoked responses and&#xD;
+      performance of a motor task. Safety and tolerability will be closely monitored at all times.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 4, 2021</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Motor evoked potential (MEP) amplitudes</measure>
+    <time_frame>immediately after procedure</time_frame>
+    <description>Response to transcranial magnetic stimulation in hand and forearm muscles</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>H-reflex amplitudes</measure>
+    <time_frame>immediately after procedure</time_frame>
+    <description>Response to peripheral nerve stimulation in extensor and flexor carpi radialis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscle dynamometry</measure>
+    <time_frame>immediately after procedure</time_frame>
+    <description>Pinch and wrist extension force will be measured using dynamometry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intracortical inhibition and facilitation</measure>
+    <time_frame>immediately after procedure</time_frame>
+    <description>Change in MEP amplitude when subthreshold conditioning pulses delivered at varying interstimulus intervals</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Spinal Cord Injuries</condition>
+  <condition>Spinal Cord Injury at C5-C7 Level</condition>
+  <condition>Tetraplegia/Tetraparesis</condition>
+  <arm_group>
+    <arm_group_label>Rostral tsDCS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>DCS cathode over ~C3-C5 posteriorly, anode over ~C5-T1 anteriorly</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Caudal tsDCS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>DCS cathode over ~T1-T4 posteriorly, anode over ~C5-T1 anteriorly</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Coronal tsDCS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>DCS cathode over C5-C7 transverse process on target side, anode over C5-C7 transverse process on non-target side.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>transcutaneous spinal direct current stimulation (tsDCS) - coronal</intervention_name>
+    <description>20 minutes of tsDCS will be delivered at 66% of maximum tolerated intensity with cathode over C5-C7 transverse process on target side, anode over C5-C7 transverse process on non-target side.</description>
+    <arm_group_label>Coronal tsDCS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>transcutaneous spinal direct current stimulation (tsDCS) - caudal</intervention_name>
+    <description>20 minutes of tsDCS will be delivered at 66% of maximum tolerated intensity with DCS cathode over ~T1-T4 posteriorly, anode over ~C5-T1 anteriorly</description>
+    <arm_group_label>Caudal tsDCS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>transcutaneous spinal direct current stimulation (tsDCS) - rostral</intervention_name>
+    <description>20 minutes of tsDCS will be delivered at 66% of maximum tolerated intensity with DCS cathode over ~C3-C5 posteriorly, anode over ~C5-T1 anteriorly</description>
+    <arm_group_label>Rostral tsDCS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Able-bodied participants&#xD;
+&#xD;
+          1. Age between 18 and 75 years;&#xD;
+&#xD;
+          2. No known central or peripheral neurological disease or injury.&#xD;
+&#xD;
+        SCI participants&#xD;
+&#xD;
+          1. Age between 18 and 75 years;&#xD;
+&#xD;
+          2. Chronic (&gt; 12 months) SCI between neurological levels C1-C8;&#xD;
+&#xD;
+          3. Score of 2, 3, or 4 (out of 5) on manual muscle testing of elbow flexion, wrist&#xD;
+             extension, wrist flexion, finger extension, finger flexion, or finger abduction in&#xD;
+             left or right hand;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Multiple spinal cord lesions;&#xD;
+&#xD;
+          2. History of seizures;&#xD;
+&#xD;
+          3. Ventilator dependence or patent tracheostomy site;&#xD;
+&#xD;
+          4. Use of medications that significantly lower seizure threshold, such as amphetamines,&#xD;
+             neuroleptics, dalfampridine, and bupropion;&#xD;
+&#xD;
+          5. History of stroke, brain tumor, or brain abscess;&#xD;
+&#xD;
+          6. History of moderate or severe head trauma (loss of consciousness for greater than one&#xD;
+             hour or evidence of brain contusion or hemorrhage or depressed skull fracture on prior&#xD;
+             imaging);&#xD;
+&#xD;
+          7. History of implanted brain/spine/nerve stimulators, aneurysm clips, ferromagnetic&#xD;
+             metallic implants, or cardiac pacemaker/defibrillator;&#xD;
+&#xD;
+          8. Significant coronary artery or cardiac conduction disease;&#xD;
+&#xD;
+          9. Recent history (within past 6 months) of recurrent autonomic dysreflexia, defined as a&#xD;
+             syndrome of sudden rise in systolic pressure greater than 20 mm Hg or diastolic&#xD;
+             pressure greater than 10 mm Hg, without rise in heart rate, accompanied by symptoms&#xD;
+             such as headache, facial flushing, sweating, nasal congestion, and blurry vision (this&#xD;
+             will be closely monitored during all screening and testing procedures);&#xD;
+&#xD;
+         10. History of bipolar disorder;&#xD;
+&#xD;
+         11. History of suicide attempt;&#xD;
+&#xD;
+         12. Active psychosis;&#xD;
+&#xD;
+         13. Heavy alcohol consumption (greater than equivalent of 5 oz of liquor) within previous&#xD;
+             48 hours;&#xD;
+&#xD;
+         14. Open skin lesions over the face, neck, shoulders, or arms;&#xD;
+&#xD;
+         15. Pregnancy;&#xD;
+&#xD;
+         16. Unsuitable for study participation as determined by study physician.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Noam Y Harel, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>James J. Peters Veterans Affairs Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Grace O Famodimu, BS</last_name>
+    <phone>718-584-9000</phone>
+    <phone_ext>3123</phone_ext>
+    <email>grace.famodimu@va.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lynda M Murray, PhD</last_name>
+    <email>lynda.murray@va.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>James J. Peters Veterans Affairs Medical Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10468</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Grace Famodimu, BS</last_name>
+      <phone>718-584-9000</phone>
+      <phone_ext>3123</phone_ext>
+      <email>grace.famodimu@va.gov</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2021</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>James J. Peters Veterans Affairs Medical Center</investigator_affiliation>
+    <investigator_full_name>Noam Y. Harel</investigator_full_name>
+    <investigator_title>Staff Physician</investigator_title>
+  </responsible_party>
+  <keyword>transcranial magnetic stimulation</keyword>
+  <keyword>spinal direct current stimulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Spinal Cord Injuries</mesh_term>
+    <mesh_term>Quadriplegia</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Deidentified, individual-level data will be deposited to appropriate public repositories, such as Open Data Commons for Spinal Cord Injury (https://scicrunch.org/odc-sci), Figshare, or others.&#xD;
+This will allow more powerful meta-analysis of disparate smaller studies, a need which is even more urgent in neurorehabilitation than in other fields that are more amenable to large drug studies.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Within 6 months of manuscript preparation.</ipd_time_frame>
+    <ipd_access_criteria>Individually identifiable data will be shared pursuant to valid HIPAA Authorization, Informed Consent, and an appropriate written agreement limiting use of the data to the conditions described in the authorization and consent.&#xD;
+A Data Use Agreement (DUA) will indicate adherence to any applicable Informed Consent provisions, and prohibits the recipient from identifying or re-identifying any individual whose data are included in the dataset.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

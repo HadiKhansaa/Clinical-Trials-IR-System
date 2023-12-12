@@ -1,0 +1,696 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01784393</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Bone-X-11</org_study_id>
+    <nct_id>NCT01784393</nct_id>
+  </id_info>
+  <brief_title>Chemoradiation for Bone Metastasis</brief_title>
+  <official_title>Chemoradiation With Capecitabine for Palliation of Pain From Bone Metastasis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rabin Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sheba Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rabin Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pain from bone metastases of breast cancer origin is treated with localized radiation.&#xD;
+      Modulating doses and schedules has shown little efficacy in improving results. Given the&#xD;
+      synergistic therapeutic effect reported for combined systemic chemotherapy with local&#xD;
+      radiation in anal, rectal, and head and neck malignancies, the investigators sought to&#xD;
+      evaluate the tolerability and efficacy of combined capecitabine and radiation for palliation&#xD;
+      of pain due to bone metastases from breast cancer Hypothesis: Given the hypothesis that&#xD;
+      regimens employing greater intensity radiation yield higher rates of pain relief,&#xD;
+      radiosensitization using a tumor targeted drug like Xeloda should improve the rate of&#xD;
+      complete pain relief as compared to radiosensitization with 5FU alone.&#xD;
+&#xD;
+      Primary Objective:&#xD;
+&#xD;
+      To determine the frequency and duration of pain relief and narcotic relief for the proposed&#xD;
+      regimen.&#xD;
+&#xD;
+      Secondary Objective:&#xD;
+&#xD;
+      To determine the toxicity of concurrent Capecitabine and radiotherapy in breast cancer&#xD;
+      patients with bone metastases.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND&#xD;
+&#xD;
+      Much of the clinical practice of oncology involves palliative care. In this setting ,the&#xD;
+      emphasis is on alleviation of symptoms and preservation or improvement of quality of life. A&#xD;
+      large body of clinical evidence documents the effectiveness of local-field external beam&#xD;
+      radiotherapy in palliation of pain from osseous metastases (1). Despite this general&#xD;
+      agreement, controversy remains regarding the optimal dose and fractionation schedule.&#xD;
+      Prospective phase III clinical trials (2-6), today, have failed to demonstrate superiority of&#xD;
+      one schedule over another ,and as a result, the patterns of practice of remain diverse in&#xD;
+      duration and intensity.&#xD;
+&#xD;
+      Between 1974 and 1980 the RTOG conducted a large national study to determine the&#xD;
+      effectiveness of five different dose fractionation schedules(2). A total of 1016 patients&#xD;
+      were entered ,266 into a &quot;solitary metastasis&quot; stratum, and 750 into a &quot;multiple metastasis &quot;&#xD;
+      stratum. The former were randomly assigned to treatment with 40,5Gy in 15 fractions or 20Gy&#xD;
+      in 5 fractions. The latter were assigned to 30Gy in 10 fractions, 15 Gy in5 fractions ,20 Gy&#xD;
+      in 5 fractions, or 25 Gy in 5 fractions. A quantitative measure of pain ,based on severity&#xD;
+      and frequency of pain, and the type and frequency of pain medications used, was devised to&#xD;
+      evaluate response. Overall, 89% of patients experienced minimal relief. There were no&#xD;
+      significant difference between the treatment arms in both strata. The initial pain score was&#xD;
+      found to be a useful predictor ; patients with high score were less likely to respond and&#xD;
+      were less likely to experience a complete response. Patients with breast and prostate cancer&#xD;
+      were significantly more likely to respond than patients with lung or other primary lesions.&#xD;
+      Patients completing their treatment as planned had significantly higher rates of complete&#xD;
+      response than those who did not .While some relief was experienced almost invariably within&#xD;
+      the first four weeks, complete relief was first reported later than four weeks after start of&#xD;
+      treatment in about 50 % of patients .The median duration of minimal and complete pain relief&#xD;
+      was 20 and 12 weeks ,respectively. There were no significant differences in duration of pain&#xD;
+      relief between the different arms It was concluded that all treatment dose schedules were&#xD;
+      equally effective.&#xD;
+&#xD;
+      A reanalysis of the RTOG study was reported by Blitzer (7).Using a stepwise logistic&#xD;
+      regression, he examined the effect of the number of fractions, the dose per fraction, and&#xD;
+      solitary versus multiple metastases, on the probability of attaining complete pain relief and&#xD;
+      the need for retreatment. This multivariate technique allowed patients with solitary and&#xD;
+      multiple metastases to be analyzed together. By increasing the number of subjects and events&#xD;
+      the statistical power of the analysis was outcome. There was no correlation of the time dose&#xD;
+      factor with outcome (8). It was concluded that the more protracted schedules resulted in&#xD;
+      improved pain relief.&#xD;
+&#xD;
+      Price et al. randomized 288 patients to receive either 8 Gy in one fraction or 30 Gy in 10&#xD;
+      daily fractions. Pain was assessed using a questionnaire completed by the patients at the&#xD;
+      home on a daily basis. No differences were found in the probability of attaining pain relief,&#xD;
+      the speed of onset or the duration of relief between the two arms(4). Hoskin et al.&#xD;
+      randomized 270 patients to receive either 4 Gy or 8 Gy in one fraction (3) Pain assessed by&#xD;
+      the patient) and analgesic usage were recorded before treatment and at 2,4,8 and 12 weeks. At&#xD;
+      4 weeks the response rates were 69% for 8 Gy and 44% for 4 Gy (p&lt;0.001). The duration of the&#xD;
+      effect was independent of dose.&#xD;
+&#xD;
+      Two other randomized trials have been reported (5,6). Given the small difference in the&#xD;
+      Biological Effective Dose ( BED) between the arms (6) and the small number of patients&#xD;
+      accrued (5,6), it is not surprising that no differences between the treatment arms were&#xD;
+      detected.&#xD;
+&#xD;
+      RTOG have reported the results of a pooled data dose response analysis (11). A computerized&#xD;
+      literature search was conducted to identify prospectively randomized clinical studies which&#xD;
+      addressed this issue and the results of these studies (2 6) were pooled together to form a&#xD;
+      database for analysis. The endpoint selected for analysis was complete response (CR). It was&#xD;
+      felt that this endpoint was most likely to be evaluated in a consistent fashion by different&#xD;
+      investigators. One study (6) was excluded from the analysis because outcome was not reported&#xD;
+      using conventional definitions of complete and partial response. To allow comparison of the&#xD;
+      different study arms, the BED was calculated for each schedule. Odds ratios calculated for&#xD;
+      various dose levels showed a statistically significant increase from 1.00 to 3.32 as the BED&#xD;
+      increased from 14.4 Gy to 5 1.4 Gy.&#xD;
+&#xD;
+      For the first time, RTOG analysis demonstrated a highly significant dose response&#xD;
+      relationship for palliation of pain from bone metastases with radiotherapy. Furthermore,&#xD;
+      there was no evidence of flattening of the dose¬-response curve within the dose range tested,&#xD;
+      suggesting that further gains can be realized at doses outside of the range tested. We&#xD;
+      propose a phase II clinical trial in which the biological effective dose will be increased by&#xD;
+      the concurrent use of a radiosensitizer. The main advantage of this approach over escalation&#xD;
+      of the physical dose is the avoidance of increase in the overall treatment time.&#xD;
+&#xD;
+      Capecitabine is a fluoropyrimidine carbamate with antineoplastic activity. It is an orally&#xD;
+      administered systemic prodrug of 5' deoxy 5 fluorouridine (5' DFUR) which is converted to 5&#xD;
+      Capecitabine is readily absorbed from the gastrointestinal tract. In the liver, a 60 kDa&#xD;
+      carboxyesterase hydrolyzes much of the compound to 5' deoxy 5 fluorocytidine (5' DFCR).&#xD;
+      Cytidine deaminase, an enzyme found in most tissues, including tumors, subsequently converts&#xD;
+      5' DFCR to 5' deoxy 5 fluorouridine (5' DFUR).. The enzyme, thymidine phosphorylase&#xD;
+      (dThdPase), then hydrolyzes 5' DFUR to the active drug 5 FU. Many tissues throughout the body&#xD;
+      express thymidine phosphorylase. Some human carcinomas express this enzyme in higher&#xD;
+      concentrations than surrounding normal tissues. Both normal and tumor cells metabolize 5 FU&#xD;
+      to 5¬fluoro 2 deoxyuridine monophosphate (FdUMP) and 5 fluorouridine triphosphate (FUTP).&#xD;
+      These metabolites cause cell injury by two different mechanisms. First, HUMP and the folate&#xD;
+      cofactor, N5 10¬methylenetetrahydrofolate, bind to thymidylate synthase (TS) to form a&#xD;
+      covalently bound ternary complex. This binding inhibits the formation of thymidylate from&#xD;
+      uracil. Thymidylate is the necessary precursor of thymidine triphosphate, which is essential&#xD;
+      for the synthesis of DNA, so that a deficiency of this compound can inhibit cell division.&#xD;
+      Second, nuclear transcriptional enzymes can mistakenly incorporate FUTP in place of uridine&#xD;
+      triphosphate (UTP) during the synthesis of RNA. This metabolic error can interfere with RNA&#xD;
+      processing and protein synthesis. Capecitabine is already approved for use in patients with&#xD;
+      metastatic breast cancer resistant to both paclitaxel and an anthracycline containing&#xD;
+      chemotherapy regimen.&#xD;
+&#xD;
+      Although 5FU is an established radiosensitizer, the exact mechanism by which it enhances cell&#xD;
+      kill is not well understood. Sensitization is schedule dependent and is maximal when a&#xD;
+      cytocidal concentration of 5FU is given after the radiation exposure (12). The effect does&#xD;
+      not result from increased sublethal damage or inhibition of sublethal damage repair (12,13).&#xD;
+      Current evidence suggests that radiosensitization by 5FU is mediated through its effects on&#xD;
+      DNA rather then RNA (14). In vivo (15) as well as clinical studies (16) have demonstrated the&#xD;
+      superiority of continuous over bolus infusion of 5FU.&#xD;
+&#xD;
+      Over the last several decades, concurrent 5FU and radiation have been used successfully in a&#xD;
+      variety of malignancies. Several important lessons have been learned from clinical trials&#xD;
+      (16). Simultaneous delivery of large (IV bolus) doses of 5 fluorouracil with irradiation is&#xD;
+      associated with improved survival compared to treatment with radiation alone, but at a price&#xD;
+      of increased normal tissue toxicity. These side effects can be ameliorated by using&#xD;
+      protracted venous infusion. This is an efficacious approach, with a wide therapeutic index,&#xD;
+      which permits concurrent treatment of micrometastatic disease and radiation sensitization.&#xD;
+&#xD;
+      Combined modality therapy, including irradiation and concurrently administered 5FU based&#xD;
+      chemotherapy, has become the mainstay of therapy for anal and rectal cancers. Protracted&#xD;
+      venous infusion chemoradiation is also used in the preoperative management of rectal cancer&#xD;
+      and in the nonoperative management of anal cancers. The Gastrointestinal Tumor Study Group&#xD;
+      (GITSG) has demonstrated a significant survival advantage for patients who receive adjuvant&#xD;
+      combined radiation and bolus 5FU following curative resection of pancreatic cancer (17,18).&#xD;
+      Similar advantages have been demonstrated in unresectable pancreatic cancers. Significant&#xD;
+      advantages have also been shown for concurrent chemotherapy regiments containing 5FU in&#xD;
+      esophageal cancer (19), squamous cell carcinoma of the Head and Neck (20,21), and carcinoma&#xD;
+      of the cervix (22).&#xD;
+&#xD;
+      There is very limited experience with the use of capecitabine and radiation. Based on its&#xD;
+      relative selectivity and the increase in tumor cell 5FU levels, it should be expected that&#xD;
+      capecitabine will provide superior radiosensitization at equivalent or reduced systemic&#xD;
+      toxicity levels. Interestingly, it has been recently reported that radiation induces&#xD;
+      thymidine phosphorylase and enhances the efficacy of capecitabine in human cancer xenografts&#xD;
+      (23). This may further enhance the synergistic effects, and consequently the therapeutic&#xD;
+      ratio.&#xD;
+&#xD;
+      In RTOG study a substantial number of patients with gastrointestinal malignancies treated&#xD;
+      with concurrent radiotherapy and capecitabine at a dose of 1600 mg/m2/day (5 days a week)&#xD;
+      with very little toxicity(24 ).In phase II study of chemoradiation for rectal cancer&#xD;
+      1650mg/m2/d of capecitabine for 14 days was safe and well-tolerated treatment(25).&#xD;
+&#xD;
+      In this study we will investigate the feasibility of concurrent Capecitabine and external&#xD;
+      beam radiotherapy, as well as collect preliminary data regarding the efficacy of this&#xD;
+      regimen.&#xD;
+&#xD;
+      OBJECTIVES&#xD;
+&#xD;
+      Hypothesis: Given the hypothesis that regimens employing greater intensity radiation yield&#xD;
+      higher rates of pain relief, radiosensitization using a tumor targeted drug like Xeloda&#xD;
+      should improve the rate of complete pain relief as compared to radiosensitization with 5FU&#xD;
+      alone.&#xD;
+&#xD;
+      Primary Objective:&#xD;
+&#xD;
+      To determine the frequency and duration of pain relief and narcotic relief for the proposed&#xD;
+      regimen.&#xD;
+&#xD;
+      Secondary Objective:&#xD;
+&#xD;
+      To determine the toxicity of concurrent Capecitabine and radiotherapy in breast cancer&#xD;
+      patients with bone metastases.&#xD;
+&#xD;
+      Eligibility Criteria&#xD;
+&#xD;
+      Patients with metastatic breast will be allowed on the study regardless of their prior&#xD;
+      exposure to chemotherapy. Today, there is no evidence to suggest crossresistance between&#xD;
+      radiotherapy and prior chemotherapy, or that response to radiotherapy is related in any way&#xD;
+      to the number of lines of chemotherapy used in a particular patient. Good palliative&#xD;
+      responses can often be achieved in heavily pretreated patients.&#xD;
+&#xD;
+        1. The patient must be 18 years of age or older.&#xD;
+&#xD;
+        2. The patient must have histologically proven breast adenocarcinoma.&#xD;
+&#xD;
+        3. Radiographic evidence of bone metastasis is required .Acceptable studies include plain&#xD;
+           radiographs, radionuclide bone scans, computed tomography scans and magnetic resonance&#xD;
+           imaging.&#xD;
+&#xD;
+      4 .The patient must have pain that appears to be related to the radiographically documented&#xD;
+      metastasis.&#xD;
+&#xD;
+      5. Patients receiving systemic therapy with Capecitabine to metastatic disease (according to&#xD;
+      health basket ).&#xD;
+&#xD;
+      6. Patients must have an estimated life expectancy of 3 months or greater.&#xD;
+&#xD;
+      7. Patients will be eligible for treatment of multiple metastases only if these can be&#xD;
+      included in no more than two treatment sites.&#xD;
+&#xD;
+      8. Signed study specific informed consent.&#xD;
+&#xD;
+      9 Karnofsky Performance Status &gt; 40.&#xD;
+&#xD;
+      10. Calculated Creatinine Clearance &gt; 50 ml/min&#xD;
+&#xD;
+      11.ALT and AST no greater than 3 5 times the institutional normal; bilirubin and serum&#xD;
+      creatinine no greater than 1.5 times normal; ANC greater than 1500, and platelets at least&#xD;
+      100,00.&#xD;
+&#xD;
+      Exclusion Criteria&#xD;
+&#xD;
+        1. Prior radiation therapy or prior palliative surgery to the painful site.&#xD;
+&#xD;
+        2. Impending fracture of the treatment site or planned surgical fixation of the bone.&#xD;
+&#xD;
+        3. Patients with clinical or radiographic evidence of spinal cord or cauda equina&#xD;
+           compression.&#xD;
+&#xD;
+        4. Patients receiving systemic radionuclides (strontium, samarium, etc.) within 60 days&#xD;
+           prior to registration.&#xD;
+&#xD;
+           PRETREATMENT EVALUATION&#xD;
+&#xD;
+      1. Histologic diagnosis of the primary site. 2. Radiographic assessment, with must include&#xD;
+      plain x-ray of the index lesion (s) and a bone scane.&#xD;
+&#xD;
+      3. Pain assessment score (BPI ). 4. Laboratory studis within 2 weeks of registration (CBC,&#xD;
+      serum ALT, AST ,total bilirubin and creatinine).&#xD;
+&#xD;
+      RADIATION THERAPY&#xD;
+&#xD;
+        1. Treatment must be given using 6-15MV photons or 6-18 MeV electrons .&#xD;
+&#xD;
+        2. All fields must be treated each day. Treatment volume will include the radiographic&#xD;
+           abnormality with at least a 2 cm margin. Treatment of the entire bone is not required.&#xD;
+&#xD;
+        3. Anterior and posterior parallel opposed fields will be used for lumbar spine, sacrum,&#xD;
+           and extremity sites. Equal weighting is recommended, although unequal weighting may be&#xD;
+           used for the lumbar or sacral spine with a ratio of doses of 1:2 AP:PA. Dose will be&#xD;
+           prescribed at mid depth at the central axis, or at the center of target volume if&#xD;
+           unequal weighting is used.&#xD;
+&#xD;
+           Alternatively, the lumbar spine may be treated with a single PA field, with the dose&#xD;
+           prescribed to the mid vertebral body as defined by a lateral simulator film.&#xD;
+&#xD;
+        4. Single posterior fields will be used for the thoracic spine and scapula .The treatment&#xD;
+           depth is set at the middle of the vertebral body, as determined by a lateral simulation&#xD;
+           film.&#xD;
+&#xD;
+        5. The cervical spine may be treated with either parallel opposed lateral fields or with a&#xD;
+           single posterior field. When lateral fields are used, the isocenter should be at mid&#xD;
+           thickness, with the dose prescribed to the mid vertebral body.&#xD;
+&#xD;
+        6. Pubic. bone lesions will be treated with a single anterior field at a depth determined&#xD;
+           by lateral radiograph or CT scan.&#xD;
+&#xD;
+        7. Clavicular lesions will be treated with a single anterior field at a depth of 3 cm. The&#xD;
+           dose will be prescribed to the 3 cm depth. An alternative depth may be used as&#xD;
+           determined by CT scan or other radiographs.&#xD;
+&#xD;
+        8. Rib metastases may be treated with electrons or with photons. When electrons are used,&#xD;
+           the appropriate energy should be chosen such that the entire lesion is covered by the&#xD;
+           90% (or higher) isodose curve. The dose will be prescribed to the 100% isodose line.&#xD;
+           When photons are used, parallel opposed fields may be used, with the depth prescribed to&#xD;
+           the mid thickness. Tangential fields are strongly encouraged to avoid treatment of&#xD;
+           underlying structures. A single field may be used to cover the lesion, with the depth&#xD;
+           set at the estimated depth of the rib lesion, and the dose prescribed to that level.&#xD;
+&#xD;
+        9. When more than one osseous site is to be included into a treatment field, the treating&#xD;
+           radiation oncologist may use different field arrangements at herlhis discretion, with&#xD;
+           the goal of providing relatively uniform coverage of the target sites and minimum&#xD;
+           inclusion of uninvolved tissues.&#xD;
+&#xD;
+      Radiation Dose&#xD;
+&#xD;
+      All patients will receive radiotherapy to a dose 30 Gy in 10fractions (3 Gy per fraction)&#xD;
+      over two weeks.&#xD;
+&#xD;
+      CHEMOTHERAPY&#xD;
+&#xD;
+      Chemotherapy with capecitabine tablets will be given concurrently with radiotherapy in the&#xD;
+      dose 1400 mg/m2 orally, in two daily divided doses.&#xD;
+&#xD;
+      Total daily dose rounded to the nearest 500 mg and divided into morning and evening&#xD;
+&#xD;
+      Doses, as per the following table:&#xD;
+&#xD;
+      Number of 500 mg tablets to be taken Surface Area Total Daily Dose morning evening (m2) (mg)*&#xD;
+      &lt;= 1.08 1000 1 1 1.09 1.4 1500 2 1 1.41 1.71 2000 2 2 1.72 2.02 2500 3 2&#xD;
+&#xD;
+      *Total Daily Dose rounded to the nearest 500 mg and divided into morning and evening doses.&#xD;
+&#xD;
+      Dose Limiting Toxicity&#xD;
+&#xD;
+      i) &gt;grade 3 non hematologic toxicity, except for diarrhea, nausea, vomiting, fatigue,&#xD;
+      anorexia, alopecia, fever and/or local reactions.&#xD;
+&#xD;
+      ii) grade 4 diarrhea lasting &gt;3 days which is not controllable with loperamide or other such&#xD;
+      medications. Or grade 4 diarrhea that requires IV hydration.&#xD;
+&#xD;
+      iii) grade 4 neutropenia lasting &gt;3 days&#xD;
+&#xD;
+      iv) grade 4 thrombocytopenia&#xD;
+&#xD;
+      v) grade 2 hand foot syndrome. Dose adjustments will be as per the following table:&#xD;
+&#xD;
+      Toxicity NCI Grades During a Course of Therapy Grade 1 Maintain dose Grade 2 1st appearance&#xD;
+      (non HFS) Interrupt until resolved to grade 0 1&#xD;
+&#xD;
+      1st appearance of HFS Interrupt until resolved to grade 0 1, then continue at 75 % of&#xD;
+      original dose.&#xD;
+&#xD;
+      2nd appearance Interrupt until resolved to grade 0 1, then continue at 75 % of original dose.&#xD;
+&#xD;
+      3rd appearance Interrupt until resolved to grade 0 1, then continue at 50 % of original dose.&#xD;
+&#xD;
+      4th appearance Discontinue treatment permanently Grade 3&#xD;
+&#xD;
+        1. st appearance Interrupt until resolved to grade 0 1, then continue at 75 % of original&#xD;
+           dose with prophylaxis where possible.&#xD;
+&#xD;
+        2. nd appearance Interrupt until resolved to grade 0 1, then continue at 50 % of original&#xD;
+           dose.&#xD;
+&#xD;
+        3. rd appearance Discontinue treatment permanently Grade 4&#xD;
+&#xD;
+      1st appearance Discontinue permanently or If physician deems it to be in the patient's best&#xD;
+      interest to continue, interrupt until resolved to grade 0 1, then continue at 50 % of&#xD;
+      original dose .&#xD;
+&#xD;
+      Dosage modifications are not recommended for grade 1 events. Therapy with capecitabine should&#xD;
+      be interrupted upon the occurrence of a grade 2 or 3 adverse experience. Once the adverse&#xD;
+      event has resolved or decreased in intensity to grade 1, then therapy may be restarted at&#xD;
+      full dose or as adjusted according to the above table. If a grade 4 experience occurs,&#xD;
+      therapy should be discontinued or interrupted until resolved or decreased to grade 1, and&#xD;
+      therapy should be restarted at 50% of the original dose. Doses of capecitabine omitted for&#xD;
+      toxicity are not replaced or restored; instead the patient should resume the planned&#xD;
+      treatment cycles. Once the dose has been reduced it should not be increased at a later time.&#xD;
+&#xD;
+      Toxicity&#xD;
+&#xD;
+      CAPECITABINE can induce diarrhea, sometimes severe. Patients with severe diarrhea should be&#xD;
+      carefully monitored and given fluid and electrolyte replacement if they become dehydrated.&#xD;
+      National Cancer Institute of Canada (NCIC grade 2 diarrhea is defined as an increase of 4 to&#xD;
+      6 stools/day or nocturnal stools, grade 3 diarrhea as an increase of 7 to 9 stools/day or&#xD;
+      incontinence and malabsorption, and grade 4 diarrhea as an increase of &gt;10 stools/day or&#xD;
+      grossly bloody diarrhea or the need for parenteral support. If grade 2, 3 or 4 diarrhea&#xD;
+      occurs, administration of capecitabine should be immediately interrupted until the diarrhea&#xD;
+      resolves or decreases in intensity to grade 1. Following grade 3 or 4 diarrhea, subsequent&#xD;
+      doses of capecitabine should be decreased. Standard antidiarrheal treatments (eg, loperamide)&#xD;
+      are recommended. Necrotizing enterocolitis (typhlitis) has also been reported.&#xD;
+&#xD;
+      Hand and foot syndrome (palmar plantar erythrodysesthesia or chemotherapy induced acral&#xD;
+      erythema) is characterized by the following: numbness, dysesthesia/paresthesia, tingling,&#xD;
+      painless or painful swelling, erythema, desquamation, blistering and severe pain. Grade 2&#xD;
+      hand and foot syndrome is defined as painful erythema and swelling of the hands and/or feet&#xD;
+      and/or discomfort affecting the patient's activities of daily living. Grade 3 hand and¬foot&#xD;
+      syndrome is defined as moist desquamation, ulceration, blistering and severe pain of the&#xD;
+      hands and/or feet and/or severe discomfort that causes the patient to be unable to work or&#xD;
+      perform activities of daily living. If grade 2 or 3 hand and foot syndrome occurs,&#xD;
+      administration of capecitabine should be interrupted until the event resolves or decreases in&#xD;
+      intensity to grade 1. Following the occurrence of grade 2 handand foot syndrome, subsequent&#xD;
+      doses of capecitabine should be decreased.&#xD;
+&#xD;
+      There has been cardiotoxicity associated with fluorinated pyrimidine therapy, including&#xD;
+      myocardial infarction, angina, dysrhythmias, cardiogenic shock, sudden death and&#xD;
+      electrocardiograph changes. These adverse events may be more common in patients with a prior&#xD;
+      history of coronary artery disease.&#xD;
+&#xD;
+      Patients with mild to moderate hepatic dysfunction due to liver metastases should be&#xD;
+      carefully monitored when capecitabine is administered. The effect of severe hepatic&#xD;
+      dysfunction on the disposition of capecitabine is not known. If drug related grade 2 4&#xD;
+      elevations in bilirubin occur, administration of capecitabine should be immediately&#xD;
+      interrupted until the hyperbilirubinernia resolves or decreases in intensity to grade 1. NCIC&#xD;
+      grade 2 hyperbilirubinernia is defined as 1.5 x normal, grade 3 hyperbilirubinemia as 1.5 3 x&#xD;
+      normal and grade 4 hyperbilirubinemia as &gt;3 x normal.&#xD;
+&#xD;
+      Increases in adverse events have been noted in patients with reduced renal function.&#xD;
+      Therefore, patients will be excluded for a calculated creatinine clearance of less than 50&#xD;
+      ml/min.&#xD;
+&#xD;
+      Myelosuppression was rare.&#xD;
+&#xD;
+      Assessment of Response&#xD;
+&#xD;
+      Pain scores and narcotic scores will be determined using the guidelines in following table:&#xD;
+&#xD;
+      PAIN AND NARCOTIC CATEGORIES AND SCORES PAIN ANALGESIA Severity 0 No pain 0 None I Mild I&#xD;
+      Analgesics (ASA, Bufferin, Tylenol, Anacin, etc.) 2 Moderate 2 Mild Narcotic, (&lt; 112 gr.&#xD;
+      codeine, Darvon, etc.) 3 Severe 3 Moderate Narcotic (&gt; 112 &lt; gr. codeine, Percoan, etc) 4&#xD;
+      Strong 4 Narcotic, (&gt; 1 gr. codeine, demerol, morphine, etc) Frequency 0 None 0 None I&#xD;
+      Occasional (&lt; daily) I p.r.n. (&lt; daily) 2 Intermittent (at least daily) 2 q.d. (I tab. or&#xD;
+      cap./day) 3 Frequent (&gt;. I &lt; 3 daily) 3 b.i.d. t.i.d. (&gt; I &lt; 4 tab. or cap./day) 4 Constant&#xD;
+      (most of the time) 4 &gt; t.i.d. (&gt; 4 tab. or cap./day)&#xD;
+&#xD;
+      Pain Score = Pain Severity Grade x Pain Frequency Grade Narcotic Score = Analgesia Severity&#xD;
+      Grade x Analgesic Frequency Grade&#xD;
+&#xD;
+      Response will be evaluated by questionnaires at follow up visit at 2, 4 and 8 weeks after&#xD;
+      completion of radiotherapy and by phone call interviews (when necessary for completeness) in&#xD;
+      poor compliance patients.&#xD;
+&#xD;
+      The &quot;worst pain score&quot; will be used as response endpoint. The time to maximal pain relief is&#xD;
+      the time from the first day of irradiation to the time of the lowest pain score for average&#xD;
+      pain.&#xD;
+&#xD;
+      Response Definitions&#xD;
+&#xD;
+      Complete response is defined as an average pain score of 0 for two consecutive analysis&#xD;
+      periods. Narcotic consumption must not be increased. Partial response. A decrease of at least&#xD;
+      2 points in the worst pain score for two consecutive analysis periods. Narcotic consumption&#xD;
+      must not be increased. No response (any of the following): A pain score that does not change&#xD;
+      within 8 weeks from the start of radiation therapy.&#xD;
+&#xD;
+      A 2 point increase in worst pain score that is sustained at a higher level in the month&#xD;
+      following the first day of radiation therapy.&#xD;
+&#xD;
+      A pain score that drops by at least 2 points and subsequent sustained rise (on 2 successive&#xD;
+      questionnaires) of pain score by at least 2 points. Any patient with progressive pain in the&#xD;
+      treated area should have plain radiographs of the area to assess for bone stability and&#xD;
+      pathologic fracture.&#xD;
+&#xD;
+      References.&#xD;
+&#xD;
+      1.&#xD;
+&#xD;
+      Hoskin PJ. Scientific and clinical aspects of radiotherapy in the relief of bone pain. Cancer&#xD;
+      Surv. 7:69, 1988.&#xD;
+&#xD;
+      2. Tong D, Gillick L, Hendrickson FR. The palliation of symptomatic osseous metastases: the&#xD;
+&#xD;
+      results of the Radiation Therapy Oncology Group. Cancer 1982; 50: 893.&#xD;
+&#xD;
+      3. Hoskin PJ, Price P, Easton D, et a]. A prospective randomized trial of 4 Gy or 8 Gy single&#xD;
+      doses&#xD;
+&#xD;
+      in the treatment of metastatic bone pain. Radiotherapy and Oncology 23:74 78, 1992.&#xD;
+&#xD;
+      4. Price P, Hoskin PJ, Easton D, et al. Prospective randomized trial of single and&#xD;
+      multifraction&#xD;
+&#xD;
+      radiotherapy schedules in the treatment of painful bony metastases. Radiotherapy and Oncology&#xD;
+      6: 247 255, 1986.&#xD;
+&#xD;
+      Okawa T, Kita M, Goto M, et al. Randomized prospective clinical study of small, large and&#xD;
+      twice a day fraction radiotherapy for painful bone metastases. Radiotherapy and Oncology 13:&#xD;
+      99 104, 1988.&#xD;
+&#xD;
+      6. Madsen EL, Painful bone metastases: Efficacy of radiotherapy assessed by the patients: A&#xD;
+&#xD;
+      randomized trial comparing 4 Gy x 6 versus 10 Gy x 2. Int. J. Radiat. Oncol. Biol. Phys.&#xD;
+      9:1775¬ 1779, 1983.&#xD;
+&#xD;
+      7. Blitzer PH. Reanalysis of the RTOG study of the palliation of symptomatic osseous&#xD;
+      metastasis.&#xD;
+&#xD;
+      Cancer 1985; 55: 1468 1472.&#xD;
+&#xD;
+      8. Orton CG, Ellis F, A simplification in the use of the NSD concept in practical&#xD;
+      radiotherapy. Br.&#xD;
+&#xD;
+      J. Radiol. 1973; 46:529 537.&#xD;
+&#xD;
+      9. Daut R, Cleeland C, Flanery R: Development of the Wisconsin Brief Pain questionnaire to&#xD;
+      assess&#xD;
+&#xD;
+      pain in cancer and other diseases. Pain 17:197 210, 1983.&#xD;
+&#xD;
+      10.&#xD;
+&#xD;
+      11.&#xD;
+&#xD;
+      12.&#xD;
+&#xD;
+      13.&#xD;
+&#xD;
+      14.&#xD;
+&#xD;
+      Cella DF, Tulsky DS, Gray G, et al.: The Functional Assessment of Cancer Therapy Scale:&#xD;
+      Development and validation of the general measure. J Clin Oncol 11:570 579, 1993.&#xD;
+&#xD;
+      Ben Josef E, Shamsa F, Youssef E, Porter AT. External beam radiotherapy for painful osseous&#xD;
+      metastases: pooled data dose response analysis. Int J Radiat Oncol Biol Phys 45(3):715 719,&#xD;
+      1999.&#xD;
+&#xD;
+      Byfield JE, calabro Jones P, Klisak 1, et al. Pharmacologic requirements for obtaining&#xD;
+      sensitization of human tumor cells in vitro to combined r fluorouracil or ftorafur and x&#xD;
+      rays. Int J Radiat Oncol Biol Phys 1982, 8:1923 33.&#xD;
+&#xD;
+      Nakajima V, Miyamoto Y, Tanabe M, et al. Enhancement of mammalian cell killing by&#xD;
+      5fluorouracil in combination with x rays. Cancer Res 39:3763 3767, 1979.&#xD;
+&#xD;
+      Lawrence TS, Davis MA, Maybaum I Dependence of 5 fluorouracil mediated radiosensitization on&#xD;
+      DNA directed effects. Int J Radiat Oncol Biol Phys 1994, 29(3):519 23.&#xD;
+&#xD;
+      15. Weinberg MJ, Rauth AM. 5 fluorouracil infusion and fractionated doses of radiation:&#xD;
+      Studies with a murine sqamous cell carcinoma. Int J Radiat Oncol Biol Phys 13: 1691 1699,&#xD;
+      1987.&#xD;
+&#xD;
+      Rich TA. Infusional chemoradiation for rectal and anal cancers. Oncology (Huntingt) 1999,&#xD;
+      13(10 Suppl 5):131 4.&#xD;
+&#xD;
+      17. Gastrointestinal Tumor Study Group. Further evidence of effective adjuvant combined&#xD;
+      radiation and chemotherapy following curative resection of pancreatic cancer. Cancer 1987,&#xD;
+      59(12):2006¬ 10.&#xD;
+&#xD;
+      18. Kalser MH, Ellenberg SS. Pancreatic cancer. Adjuvant combined radiation and chemotherapy&#xD;
+      following curative resection. Arch Surg 1985, 120(8):899 903.&#xD;
+&#xD;
+      19. al Sarraf M, Martz K, Herskovic A, Leichman L, Brindle JS, Vaitkevicius VK, Cooper J,&#xD;
+      Byhardt R, Davis L, Emami B. Progress report of combined chemoradiotherapy versus&#xD;
+      radiotherapy alone in patients with esophageal cancer: an intergroup study. J Clin Oncol&#xD;
+      1997, 15(l):277 84.&#xD;
+&#xD;
+      20. Wendt TG, Grabenbauer GG, Rodel CM, Thiel HJ, Aydin H, Rohloff R, Wustrow TP, Iro H,&#xD;
+      Popella C, Schalhorn A. Simultaneous radiochemotherapy versus radiotherapy alone in advanced&#xD;
+      head and neck cancer: a randomized multicenter study. J Clin Oncol 1998, 16(4):1318 24.&#xD;
+&#xD;
+      21. Al Sarraf M, LeBlanc M, Giri PG, Fu KK, Cooper J, Vuong T, Forastiere AA, Adams G, Sakr&#xD;
+      WA, Schuller DE, Ensley JF. Chemoradiotherapy versus radiotherapy in patients with advanced&#xD;
+      nasopharyngeal cancer: phase III randomized Intergroup study 0099. J Clin Oncol 1998,&#xD;
+      16(4):1310 7.&#xD;
+&#xD;
+      22. Morris M, Eifel PJ, Lu J, Grigsby PW, Levenback C, Stevens RE, Rotman M, Gershenson DM,&#xD;
+      Mutch DG. Pelvic radiation with concurrent chemotherapy compared with pelvic and para aortic&#xD;
+      radiation for high risk cervical cancer. N Engl J Med 1999, 340(15):1137 43.&#xD;
+&#xD;
+      23. Sawada N, Ishikawa T, Sekiguchi F, Tanaka Y, Ishitsuka H. X ray irradiation induces&#xD;
+      thymidine phosphorylase and enhances the efficacy of capecitabine in human cancer xenografts.&#xD;
+      Clin Cancer Res 1999, 5(10):2948 53.&#xD;
+&#xD;
+      24. U.N.Vaishampayan, E. Ben-Josef, P.A. Philip, V.K. Vaitkevicius, K.J. Levin and A.F.&#xD;
+      Shields. A single- institution experience with concurrent capecitabine and radiation therapy&#xD;
+      in gastrointestinal malignancies . Int J Radiat Oncol Biol Phys ,2002, 53,675-679.&#xD;
+&#xD;
+      25. Jun-Sang Kim, Jae-Sung Kim, Moon-June Cho and Wan-Hee Yoon .Preoperative chemoradiation&#xD;
+      using oral capecitabine in locally advanced rectal cancer. Int J Radiat Oncol Biol Phys&#xD;
+      ,2002,54,403-408.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2004</start_date>
+  <completion_date type="Actual">April 2007</completion_date>
+  <primary_completion_date type="Actual">April 2007</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in pain score at 12 wks</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Patients were asked to score their pain on a scale of 0 (no pain) to 10 (worst possible pain) before treatment and at 1, 2, 4, 8 and 12 weeks after treatment initiation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in pain medications consupmtion at 12 weeks compared to basline</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Consumption of analgesics was evaluated by the physician using the 5-point WHO score, as follows: level 0, no analgesics required; level 1, non-narcotic analgesics required occasionally; level 2, non-narcotic analgesics required regularly; level 3, narcotic analgesics required occasionally; level 4, narcotic analgesics required regularly</description>
+  </secondary_outcome>
+  <enrollment type="Actual">29</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Bone Metastasis</condition>
+  <condition>Pain</condition>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>chemoradiation</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. The patient must be 18 years of age or older&#xD;
+&#xD;
+          2. The patient must have histologically proven breast adenocarcinoma&#xD;
+&#xD;
+          3. Radiographic evidence of bone metastasis is required .Acceptable studies include plain&#xD;
+             radiographs, radionuclide bone scans, computed tomography scans and magnetic resonance&#xD;
+             imaging&#xD;
+&#xD;
+          4. The patient must have pain that appears to be related to the radiographically&#xD;
+             documented metastasis&#xD;
+&#xD;
+          5. Patients receiving systemic therapy with Capecitabine to metastatic disease (according&#xD;
+             to health basket)&#xD;
+&#xD;
+          6. Patients must have an estimated life expectancy of 3 months or greater&#xD;
+&#xD;
+          7. Patients will be eligible for treatment of multiple metastases only if these can be&#xD;
+             included in no more than two treatment sites&#xD;
+&#xD;
+          8. Signed study specific informed consent&#xD;
+&#xD;
+          9. Karnofsky Performance Status &gt; 40&#xD;
+&#xD;
+         10. Calculated Creatinine Clearance &gt; 50 ml/min&#xD;
+&#xD;
+         11. ALT and AST no greater than 3 5 times the institutional normal; bilirubin and serum&#xD;
+             creatinine no greater than 1.5 times normal; ANC greater than 1500, and platelets at&#xD;
+             least 100,00&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Prior radiation therapy or prior palliative surgery to the painful site&#xD;
+&#xD;
+          2. Impending fracture of the treatment site or planned surgical fixation of the bone&#xD;
+&#xD;
+          3. Patients with clinical or radiographic evidence of spinal cord or cauda equina&#xD;
+             compression&#xD;
+&#xD;
+          4. Patients receiving systemic radionuclides (strontium, samarium, etc.) within 60 days&#xD;
+             prior to registration&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yulia Kundel, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rabin Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rabin Medical Center, Beilinson Campus</name>
+      <address>
+        <city>Petach Tikva</city>
+        <zip>49100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>April 2007</verification_date>
+  <study_first_submitted>January 14, 2013</study_first_submitted>
+  <study_first_submitted_qc>February 3, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 5, 2013</study_first_posted>
+  <last_update_submitted>February 3, 2013</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 5, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Bone Neoplasms</mesh_term>
+    <mesh_term>Bone Marrow Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

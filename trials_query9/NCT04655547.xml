@@ -1,0 +1,248 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04655547</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MS19953</org_study_id>
+    <nct_id>NCT04655547</nct_id>
+  </id_info>
+  <brief_title>Impact on Energy Intake by Implementing Recommended Food Texture Through Dietary Guidance</brief_title>
+  <official_title>Impact on Energy Intake by Implementing Recommended Food Texture Through Dietary Guidance at the Department of Swallowing and Eating Disorders; a Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Aarhus</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Aarhus</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An intervention study on the effect of dietary guidance with focus on implementing&#xD;
+      recommended food texture, at the department of Eating and Swallowing difficulties, Region&#xD;
+      Midtjylland, Denmark.&#xD;
+&#xD;
+      Energy- and protein intake, Weightloss, Bodymass composition, Fluid balance and Activities of&#xD;
+      Daily Living (ADL), will be measured by Bioimpedance spectroscopy, interviews and a&#xD;
+      questionnaire.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is know that people with eating- and swallowing difficulties(known as dysphagia), is prone&#xD;
+      to weightloss due to insufficient energy- and protein intake, and a reduction in ADL.&#xD;
+&#xD;
+      ADL will in this project have its focus on the eating situation.&#xD;
+&#xD;
+      The projects research questions are:&#xD;
+&#xD;
+        -  Will dietary guidance with texture implementation increase energy intake in patients&#xD;
+           being examined on an outpatient basis for dysphagia, based on the Fiberoptic Endoscopic&#xD;
+           Evaluation of Swallowing (FEES) recommendation?&#xD;
+&#xD;
+        -  Can a dietetic guidance with texture implementation increase quality of life and ADL in&#xD;
+           patients with dysphagia?&#xD;
+&#xD;
+      Recruitment and data collection will take place at Hammel Neurocenter, DK.&#xD;
+&#xD;
+      Each patient will be included for eight weeks, after their first FEES examination. The&#xD;
+      participants will be randomized to control or intervention, and strata into three groups&#xD;
+      based on Fiberoptic Endoscopic Dysphagia Severity Scale (FEDSS) 1, 2-3 and 4.&#xD;
+&#xD;
+      Within the eight weeks, participants have to show up three times to measurements, interviews&#xD;
+      and questionnaire, in addition to this, the intervention groups will have three follow-up&#xD;
+      phone meetings.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 8, 2021</start_date>
+  <completion_date type="Anticipated">August 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized to control or intervention group, stratified on their FEDSS-score.&#xD;
+The study will include 34 participants - 17 in each group.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in energy intake, from baseline.</measure>
+    <time_frame>Eight weeks</time_frame>
+    <description>Change in energy intake, measured from baseline. Measured in kilojoule by a standardized interview with examples of pictures to determine serving size.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Dysphagia Handicap Index (DHI) total and section (E and F) score.</measure>
+    <time_frame>Eight weeks</time_frame>
+    <description>DHI is a questionnaire with 25 questions, divided into three sections. possible scores are minimum 25 and maximum 125. The higher the score, the worse dysphagia status.&#xD;
+Measured in points, changes from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In how many questions in the DHI, does the intervention group change the score in relation to the control group, and with how much.</measure>
+    <time_frame>Eight weeks</time_frame>
+    <description>Measured in points, changes from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body Weight.</measure>
+    <time_frame>Eight weeks</time_frame>
+    <description>Measured in kilograms, by bioimpedance spectroscopy, changes from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lean Body Mass.</measure>
+    <time_frame>Eight weeks</time_frame>
+    <description>Measured in kilograms, by bioimpedance spectroscopy, changes from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fat Mass.</measure>
+    <time_frame>Eight weeks</time_frame>
+    <description>Measured in kilograms, by bioimpedance spectroscopy, changes from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fluid Balance.</measure>
+    <time_frame>Eight weeks</time_frame>
+    <description>Measured in kilograms, by bioimpedance spectroscopy, changes from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in protein intake.</measure>
+    <time_frame>Eight weeks</time_frame>
+    <description>Measured in gram, by a standardized interview with examples of pictures to determine serving size, from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compliance of recommended changes.</measure>
+    <time_frame>Eight weeks</time_frame>
+    <description>Measured by score through interview. Minimum score 1 and maximum score 5. The greater the score, the better compliance.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">34</enrollment>
+  <condition>Energy Intake</condition>
+  <condition>Activities of Daily Living</condition>
+  <condition>Quality of Life</condition>
+  <condition>Protein Intake</condition>
+  <condition>Fluid Balance</condition>
+  <condition>Lean Body Mass</condition>
+  <condition>Fat Mass</condition>
+  <condition>Weight</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The participants will follow the usual offered course on the outpatient clinic of Hammel Neurocenter. They wil anticipate in data collection three times in line with the intervention group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants will receive dietary guidance from an dietician, with focus on energy intake and food texture. This guidance will include two sessions on site and three phone meetings. The last on site meeting, will be concluding.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Dietary guidance</intervention_name>
+    <description>Dietary guidance with focus on texture and energy intake, preformed by certified dietitians.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed consent form&#xD;
+&#xD;
+          -  Newly refered patients to FEES examination&#xD;
+&#xD;
+          -  Score 1-4 on FEDSS-scale&#xD;
+&#xD;
+          -  Consumes 50% energy or more orally&#xD;
+&#xD;
+          -  Consumes less energy than calculated energy need (Harris-Benedict)&#xD;
+&#xD;
+          -  Individuals of full legal capacity&#xD;
+&#xD;
+          -  Individuals above 18 of years&#xD;
+&#xD;
+          -  That the patient is capable of executing examinations&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals with known eating disorders&#xD;
+&#xD;
+          -  Ineligible individuals&#xD;
+&#xD;
+          -  Individual in need of translator&#xD;
+&#xD;
+          -  Individuals participating in another trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jesper Fabricius, Ph.d.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hammel Neurorehabilitation Centre and University Research Clinic</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jesper Fabricius, Ph.d.</last_name>
+    <phone>+4578419051</phone>
+    <email>Jesper.Fabricius@rm.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hammel Neurorehabilitation Centre and University Research Clinic</name>
+      <address>
+        <city>Hammel</city>
+        <state>Midtjylland</state>
+        <zip>8450</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jesper Fabricius, Ph.d.</last_name>
+      <phone>+4578419051</phone>
+      <email>jesper.fabricius@rm.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Malene Bruun-Nielsen, Student</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sofie B. Seirup, Student</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2020</study_first_posted>
+  <last_update_submitted>March 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dysphagia</keyword>
+  <keyword>Dietary Guidance</keyword>
+  <keyword>Energy- and Protein intake</keyword>
+  <keyword>Food Texture</keyword>
+  <keyword>Activities of Daily Living and Quality of Life</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,196 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03682094</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018-0428</org_study_id>
+    <secondary_id>A534255</secondary_id>
+    <secondary_id>SMPH/MEDICINE/GER-AD DEV</secondary_id>
+    <nct_id>NCT03682094</nct_id>
+  </id_info>
+  <brief_title>Impact of Probiotics on Oral Microbiota in Older Adults With Dysphagia</brief_title>
+  <official_title>Impact of Probiotics on Oral Microbiota in Older Adults With Dysphagia at Risk for Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Wisconsin, Madison</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Wisconsin, Madison</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall purpose of this study is to characterize the effect of probiotics on the oral&#xD;
+      microbiota in older adults with dysphagia at risk for pneumonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of this pilot study is to characterize the effects of probiotics on the oral&#xD;
+      microbiota in older patients with dysphagia at risk for pneumonia. A total of 20 participants&#xD;
+      will be recruited from the UW Health Inpatient Swallowing Consult Service. Participants will&#xD;
+      have a dysphagia diagnosis along with documented aspiration on videofluoroscopy. Each&#xD;
+      participant will receive a once daily VSL#3 probiotic blend (dissolved in thickened liquid as&#xD;
+      applicable) for 28 days. A baseline assessment will be completed to collect data on&#xD;
+      demographics, health history and behaviors, usual diet, level of oral intake, and&#xD;
+      patient-reported swallow function. Oral swab (buccal mucosa and tongue dorsum) as well as&#xD;
+      saliva sample collections will be completed. Data on adherence and adverse events will be&#xD;
+      collected weekly. Bacterial DNA will be extracted from oral samples and 16S rRNA sequencing&#xD;
+      techniques will be used to identify contents of oral microbiota at baseline, week 2, and week&#xD;
+      4. Oral microbial composition will be compared between the time points, and treatment&#xD;
+      feasibility (recruitment and retention rates) in this population will be evaluated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Suspended</overall_status>
+  <why_stopped>
+    Interim Analysis / Resource Availability&#xD;
+  </why_stopped>
+  <start_date type="Actual">August 13, 2018</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>No masking.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Oral microbiota profiles- bacterial diversity</measure>
+    <time_frame>Baseline visit, 2 weeks post-enrollment, and 4 weeks post-enrollment</time_frame>
+    <description>Next generation sequencing will be used to quantify the amount of alpha and beta diversity in samples collected from various locations in the oral cavity (buccal mucosa, dorsum of the tongue, saliva).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Eating Assessment Test (EAT-10)</measure>
+    <time_frame>Baseline visit</time_frame>
+    <description>Patient reported outcome measure for swallowing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Oral Intake Scale (FOIS) Score</measure>
+    <time_frame>Baseline visit</time_frame>
+    <description>Scale used to quantify the amount of oral versus non-oral intake</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kayser-Jones Brief Oral Health Status Examination (BOHSE)</measure>
+    <time_frame>Baseline visit</time_frame>
+    <description>A valid and reliable scoring instrument developed for use with older adults by non-dental health care providers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Resting Swallow Frequency Rate</measure>
+    <time_frame>Baseline visit, 2 weeks post-enrollment, and 4 weeks post-enrollment</time_frame>
+    <description>We will measure resting swallow frequency using surface electromyography (sEMG).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Residual Mucosal Saliva (RMS)</measure>
+    <time_frame>Baseline visit, 2 weeks post-enrollment, and 4 weeks post-enrollment</time_frame>
+    <description>Residual Mucosal Saliva will be collected from the anterior hard palate (AHP), buccal (BUC), anterior tongue (AT), and lower labial (LL) surfaces using SialoPaper strips</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Amount of Saliva Produced</measure>
+    <time_frame>Baseline visit, 2 weeks post-enrollment, and 4 weeks post-enrollment</time_frame>
+    <description>Salivary flow rate (ml/minute) will be calculated under unstimulated and stimulated saliva collection conditions.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Dysphagia</condition>
+  <arm_group>
+    <arm_group_label>Probiotic</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The treatment will consist of VSL#3, 3 grams (g), taken orally once a day for 4 weeks. The VSL#3 will be delivered in the form of a sachet of freeze-dried powder. Participants will be instructed to mix the sachets with water to consume. Those participants taking thickened liquids will mix the sachet with liquids thickened to the level (nectar versus honey) prescribed by their clinician. In order to facilitate delivery of the probiotic solution throughout the oral cavity, participants will be instructed to swish the solution in the mouth for up to 10 seconds (as tolerated) prior to each swallow.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VSL#3</intervention_name>
+    <description>Probiotics are dietary supplements composed of live microorganisms that are normally found within the human microbiome. Probiotics, specifically Lactobacilli and Streptococcus salivarius, have been shown to alter oral microbial composition and to inhibit oral pathogens that contribute to dental caries and periodontal disease. The probiotic chosen for this study is VSL#3, a blend of 8 strains of bacteria, including Lactobacillus and Streptococcus salivarius. VSL#3 has been well tolerated, with minimal adverse effects. VLS#3 was chosen as the treatment substance for this project due to its successful use in trials examining an array of outcomes and its combination of several strains of bacteria.</description>
+    <arm_group_label>Probiotic</arm_group_label>
+    <other_name>probiotic</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          1. 65 years of age or older&#xD;
+&#xD;
+          2. Dysphagia diagnosis based on videofluoroscopic swallow study with observed airway&#xD;
+             invasion (Penetration-Aspiration Scale score of 3 or higher)&#xD;
+&#xD;
+          3. Ability to provide consent&#xD;
+&#xD;
+          4. Ability to submit oral samples&#xD;
+&#xD;
+          5. Ability to swallow sachet of probiotic (dissolved in thickened liquid, as needed)&#xD;
+&#xD;
+          6. Ability to return to UWHC for week 2 and week 4 visits.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. Currently taking antibiotics or probiotics&#xD;
+&#xD;
+          2. Actively receiving immunosuppressive therapy&#xD;
+&#xD;
+          3. Non-oral feeding with inability to swallow probiotic&#xD;
+&#xD;
+          4. diagnosis of head and neck cancer or upper airway disease&#xD;
+&#xD;
+          5. prior surgery to the head and neck region that would have affected the muscles of&#xD;
+             swallowing or the salivary glands&#xD;
+&#xD;
+          6. history of chemotherapy or radiation to the head and neck region&#xD;
+&#xD;
+          7. severe periodontal disease.&#xD;
+&#xD;
+          8. currently pregnant or planning to become pregnant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Wisconsin-Madison</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53562</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>August 21, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2018</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>probiotics</keyword>
+  <keyword>oral microbiome</keyword>
+  <keyword>dysphagia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deglutition Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

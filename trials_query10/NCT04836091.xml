@@ -1,0 +1,216 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04836091</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R21MH116684</org_study_id>
+    <nct_id>NCT04836091</nct_id>
+  </id_info>
+  <brief_title>Acceptability, Feasibility and Preliminary Impact of OurPlan, an mHealth HIV Prevention Intervention for Male Couples</brief_title>
+  <acronym>OurPlan</acronym>
+  <official_title>A Patient-centered Decision Aid to Inform HIV Prevention Choices for At-risk Male Couples in New Relationships</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Florida International University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Florida International University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will evaluate the use and preliminary impact of an mHealth app for improving sexual&#xD;
+      health outcome measures among male couples by assessing whether exposure and use of the app&#xD;
+      results in improvements in participants and couples' self-reported sexual health and&#xD;
+      prevention behaviors, beliefs, and attitudes. The study will enroll both men of the couple&#xD;
+      into a randomized controlled trial. Participants/couples randomized to the intervention will&#xD;
+      have access to the app for two months while those assigned to the waitlist group will receive&#xD;
+      and have access to the app for one month. Participants will complete surveys at baseline and&#xD;
+      at month 2.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will evaluate the use and preliminary impact of an mHealth app for improving sexual&#xD;
+      health outcome measures among male couples by assessing whether exposure and use of the app&#xD;
+      results in improvements in participants and couples' self-reported sexual health and&#xD;
+      prevention behaviors, beliefs, and attitudes. The study will enroll both partners of the 42&#xD;
+      male couples into a 2-month randomized controlled trial with a waitlist control condition of&#xD;
+      one month. Couples will be assigned to either the immediate intervention group (&quot;intervention&#xD;
+      arm&quot;) or the waitlist-control group (&quot;waitlist-control arm&quot;). All participants will take an&#xD;
+      assessment survey at baseline, and the intervention group will be oriented on the&#xD;
+      installation and use of the app upon randomization to that group. The waitlist-control group&#xD;
+      will follow the same procedures one month later. Participants/couples randomized to the&#xD;
+      intervention arm will have access to the intervention app for two months (ie, day 1-60) while&#xD;
+      those assigned to the waitlist-control group will have access to the app for one month (ie,&#xD;
+      day 31-60). All participants in the randomized controlled trial will complete a short&#xD;
+      follow-up survey at month 2 and a brief exit interview.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2021</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Two-month pilot randomized controlled trial with a a waitlist control condition of one month</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in presence of a detailed risk-reduction plan</measure>
+    <time_frame>Baseline, month 2</time_frame>
+    <description>Men will be asked if they created a detailed risk-reduction plan containing evidence-based strategies of routine HIV/STI testing, consistent condom use, PrEP, and ART</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in number of evidence-based prevention strategies being used over time</measure>
+    <time_frame>Baseline, month 2</time_frame>
+    <description>Men will be asked how many evidence-based HIV/STI prevention strategies they are currently using</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in willingness to use evidence-based prevention strategies over time</measure>
+    <time_frame>Baseline, month 2</time_frame>
+    <description>Men will be asked about their willingness to use evidence-based prevention strategies</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in intention to use evidence-based prevention strategies over time</measure>
+    <time_frame>Baseline, month 2</time_frame>
+    <description>Men will be asked about their intention to use evidence-based prevention strategies</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in HIV transmission and prevention knowledge</measure>
+    <time_frame>Baseline, month 2</time_frame>
+    <description>Men will be asked about their knowledge on HIV transmission and prevention over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in goal congruence on sexual health</measure>
+    <time_frame>Baseline, month 2</time_frame>
+    <description>Men will be asked about their goal congruence regarding sexual health and their relationship partner</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in mutual constructive communication</measure>
+    <time_frame>Baseline, month 2</time_frame>
+    <description>Men will be asked about their mutual constructive communication patterns over time</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">84</enrollment>
+  <condition>HIV/AIDS</condition>
+  <arm_group>
+    <arm_group_label>Immediate intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>From baseline to 2-month post-test, participants in the intervention arm will have access to the OurPlan program app.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Waitlist-delayed intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this study arm will not have access to the OurPlan program in the app from baseline to day 30 (month 1) of the trial. From day 31 to day 60, participants in this study arm will be given access to the OurPlan program in the app.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Waitlist</intervention_name>
+    <description>From day 31 to day 60 (ie., during month 2) of the trial, participants in the waitlist arm will be granted access and instructed to use the OurPlan program as directed. The OurPlan program includes 4 modules covering topics of communication, HIV/STI prevention, HIV/STI statistics, and stigma / discrimination. Each module contains content, questions, and an activity for the participant and couple to complete. OurPlan also includes a resource locator using GPS-capabilities to allow participants to find sexual health resources, as well as a calendar and reminder system. One goal of OurPlan is to help both partners of the couple create and use a risk-reduction plan of evidence-based prevention strategies over time. Answers provided during the assessments will help determine whether participants/couples created a risk-reduction plan and used evidence-based strategies over time, including changes in their own and partner-related attitudes toward these strategies.</description>
+    <arm_group_label>Waitlist-delayed intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Intervention</intervention_name>
+    <description>From day 1 to day 60 (ie., entire 2 month duration) of the trial, participants in the intervention arm will be granted access and instructed to use the OurPlan program as directed. The OurPlan program includes 4 modules covering topics of communication, HIV/STI prevention, HIV/STI statistics, and stigma / discrimination. Each module contains content, questions, and an activity for the participant and couple to complete. OurPlan also includes a resource locator using GPS-capabilities to allow participants to find sexual health resources, as well as a calendar and reminder system. One goal of OurPlan is to help both partners of the couple create and use a risk-reduction plan of evidence-based prevention strategies over time. Answers provided during the assessments will help determine whether participants/couples created a risk-reduction plan and used evidence-based strategies over time, including changes in their own and partner-related attitudes toward these strategies.</description>
+    <arm_group_label>Immediate intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for both partners of the male couple:&#xD;
+&#xD;
+          -  self-reported that currently self-identifies as a male&#xD;
+&#xD;
+          -  self-reported in a sexual relationship with another self-identified male&#xD;
+&#xD;
+          -  self-reported relationship length between 1 and 12 months&#xD;
+&#xD;
+          -  self-reported anal sex with relationship partner in past 2 months&#xD;
+&#xD;
+          -  owns and uses an Internet-connected smartphone or tablet&#xD;
+&#xD;
+          -  resides in the U.S.&#xD;
+&#xD;
+          -  self-reported ability to read and understand English-language&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Does not meet one or more the inclusion criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Trans men and cisgender men</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Florida International University</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jason W Mitchell, PhD</last_name>
+      <phone>305-348-7789</phone>
+      <email>jamitche@fiu.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Florida International University</investigator_affiliation>
+    <investigator_full_name>Dr. Jason Mitchell</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All IPD that underlie results in a publication</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Starting 6 months after publication</ipd_time_frame>
+    <ipd_access_criteria>Interested researchers must email the PI with a request to access de-identified, anonymous IPD. The PI will review such requests for secondary analyses using de-identified data that have already been published.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

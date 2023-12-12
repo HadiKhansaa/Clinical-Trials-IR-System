@@ -1,0 +1,1487 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03831971</url>
+  </required_header>
+  <id_info>
+    <org_study_id>190052</org_study_id>
+    <secondary_id>19-CC-0052</secondary_id>
+    <nct_id>NCT03831971</nct_id>
+  </id_info>
+  <brief_title>The Influence of ANS-6637 on Midazolam Pharmacokinetics in Healthy Volunteers</brief_title>
+  <official_title>The Influence of ANS-6637 on Midazolam Pharmacokinetics in Healthy Volunteers (SEARCH PK)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institutes of Health Clinical Center (CC)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Opioids are medicines that control pain. But they are often misused, which can lead to&#xD;
+      illness and death. Opioids increase dopamine to the brain, which makes people feel good and&#xD;
+      often causes them to crave drugs, leading to misuse and addiction. An investigational drug&#xD;
+      ANS-6637 may lower the dopamine surge and stop opioid craving. Midazolam is a drug approved&#xD;
+      for anxiety. Researchers want to give the two drugs together and see if ANS-6637 affects&#xD;
+      midazolam levels, to help understand how ANS-6637 is used in the body.&#xD;
+&#xD;
+      Objective:&#xD;
+&#xD;
+      To study the safety, tolerability, and effects of ANS-6637 taken with and without midazolam.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      Healthy adults 18 65 years old&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      Participants will be screened with a medical history, physical exam, and blood and heart&#xD;
+      tests. Participants who can get pregnant will have a pregnancy test.&#xD;
+&#xD;
+      Participants must agree to use 2 types of birth control during the study, if applicable.&#xD;
+&#xD;
+      Participants will stay at the clinic for 10 days. Meals will be provided. Participants will&#xD;
+      not be allowed to:&#xD;
+&#xD;
+      Leave NIH campus&#xD;
+&#xD;
+      Eat or drink anything with caffeine, alcohol, or certain juices&#xD;
+&#xD;
+      Use any nicotine or related products (including vaping)&#xD;
+&#xD;
+      Use any medicines (including herbal)&#xD;
+&#xD;
+      During the clinic stay, participants will:&#xD;
+&#xD;
+      Fast overnight several times&#xD;
+&#xD;
+      Have blood drawn most days. Twice, a small tube will be inserted in an arm vein for frequent&#xD;
+      blood samples.&#xD;
+&#xD;
+      Repeat screening tests and answer questions about their mood several times&#xD;
+&#xD;
+      Get midazolam syrup in water on 1 day&#xD;
+&#xD;
+      Take 6 ANS-6637 tablets by mouth on 5 days&#xD;
+&#xD;
+      Take both study drugs on 1 day&#xD;
+&#xD;
+      A few days later, participants will have a follow-up visit to repeat screening tests and&#xD;
+      answer questions about their mood.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Opioid use causes a myriad of effects which contribute to significant morbidity and early&#xD;
+      mortality, and is associated with risky sexual behavior and injection drug use (IDU), two&#xD;
+      major forms of human immunodeficiency virus (HIV) and hepatitis C virus (HCV) transmission in&#xD;
+      urban and suburban United States. Through these high-risk behaviors, persons with opioid use&#xD;
+      disorder (OUD) develop both direct comorbidities (e.g. blood stream infections and infectious&#xD;
+      endocarditis), as well as risk-associated illnesses (e.g. sexually transmitted infections,&#xD;
+      HCV and hepatitis B virus [HBV]) which have considerable downstream health care effects. As&#xD;
+      such, there is a need for pharmacologic agents in the treatment of OUD that go beyond&#xD;
+      avoidance of withdrawal and facilitate decreased frequency or complete cessation of opioid&#xD;
+      use.&#xD;
+&#xD;
+      The biologic mechanism of OUD, common to all forms of addiction, is a conditioned drug&#xD;
+      cue-related response in the CNS, causing a dopamine surge. If effective, a central&#xD;
+      pharmacologic strategy targeting the aberrant reward circuitry seen in OUD could potentially&#xD;
+      reduce drug craving and result in opioid abstinence.&#xD;
+&#xD;
+      In the SEARCH Pharmacokinetic (PK) investigation, we aim to understand the pharmacokinetic&#xD;
+      signal of the novel, oral agent ANS-6637, an aldehyde dehydrogenase 2 (ALDH-2) inhibitor that&#xD;
+      has the potential to reduce dopamine surge in the CNS and inhibit opioid craving. In&#xD;
+      preclinical studies, the active metabolite of ANS-6637, GS-548351, showed substrate dependent&#xD;
+      inhibition of CYP3A in vitro, with little or no inhibitory effect on the activities of other&#xD;
+      cytochrome P450 (CYP) enzymes. As such, the current investigation seeks to explore the&#xD;
+      potential inhibition of CYP3A by ANS-6637 with the FDA-recommended CYP3A probe substrate,&#xD;
+      midazolam.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2019</start_date>
+  <completion_date type="Actual">December 30, 2019</completion_date>
+  <primary_completion_date type="Actual">August 9, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Time to Maximum Concentration of Midazolam Alone</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Time to Maximum Concentration of 1-hydroxymidazolam Alone</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Maximum Total Plasma Concentration of Midazolam Alone</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Maximum Total Plasma Concentration of 1-hydroxymidazolam Alone</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Plasma Exposure of Midazolam Alone</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Midazolam plasma area under the concentration time curve 0-infinity. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Plasma Exposure of 1-hydroxymidazolam Alone</measure>
+    <time_frame>Day 1</time_frame>
+    <description>1-hydroxymidazolam plasma area under the concentration time curve (time 0-infinity). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Elimination of Midazolam Alone</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Elimination of 1-hydroxymidazolam Alone</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Time to Maximum Concentration of Midazolam: Midazolam Plus Steady State ANS-6637</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Time to Maximum Concentration of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Maximum Total Plasma Concentration of Midazolam: Midazolam Plus Steady State ANS-6637</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Maximum Total Plasma Concentration of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Plasma Exposure of Midazolam: Midazolam Plus Steady State ANS-6637</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Midazolam plasma area under the concentration time curve 0-infinity. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Plasma Exposure of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</measure>
+    <time_frame>Day 8</time_frame>
+    <description>1-hydroxymidazolam plasma area under the concentration time curve 0-infinity. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Elimination of Midazolam: Midazolam Plus Steady State ANS-6637</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Elimination of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">26</enrollment>
+  <condition>Opiod Use Disorder</condition>
+  <arm_group>
+    <arm_group_label>ANS-6637 &amp; Midazolam</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ANS-6637</intervention_name>
+    <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+    <arm_group_label>ANS-6637 &amp; Midazolam</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -INCLUSION CRITERIA:&#xD;
+&#xD;
+          1. Must have the ability to understand and must personally sign a written informed&#xD;
+             consent form, which must be obtained prior to initiation of study procedures.&#xD;
+&#xD;
+          2. Must be between 18 and 65 years of age, inclusive.&#xD;
+&#xD;
+          3. Must have discontinued use of nicotine and nicotine containing products including&#xD;
+             vaping or juuling from 90 days prior to study drug dosing and throughout the study&#xD;
+             duration.&#xD;
+&#xD;
+          4. Must be willing to abstain from any food or beverages containing alcohol 72 hours&#xD;
+             prior to first dose and through follow-up visit.&#xD;
+&#xD;
+          5. Must be willing to abstain from cannabis 72 hours prior to first dose and through&#xD;
+             follow-up visit.&#xD;
+&#xD;
+          6. Must be willing to abstain from caffeine (including tea, coffee, chocolate) or&#xD;
+             grapefruit, Seville orange juice or other methyl xanthine containing foods (e.g.&#xD;
+             theophylline, theobromine, tea leaves, yerba mate, kola nuts and guarana berries) 72&#xD;
+             hours prior to the first dose and through follow- up visit.&#xD;
+&#xD;
+          7. Must have a body mass index (BMI) from 19 to 30 kg/m^2 (inclusive) at screening.&#xD;
+&#xD;
+          8. Must be human immunodeficiency virus type 1 (HIV-1) antibody negative at screening.&#xD;
+&#xD;
+          9. Must be hepatitis B (HBV) surface antigen negative at screening.&#xD;
+&#xD;
+         10. Must be hepatitis C (HCV) antibody or RNA negative at screening.&#xD;
+&#xD;
+         11. Male subjects must refrain from sperm donation from clinic admission, throughout the&#xD;
+             study period, and continuing for at least 90 days following the last dose of study&#xD;
+             drug.&#xD;
+&#xD;
+         12. Subjects must refrain from blood donation from clinic admission, throughout the study&#xD;
+             period, and continuing for at least 30 days following the last dose of study drug.&#xD;
+&#xD;
+         13. Must be willing to comply with contraception guidelines below Contraception:&#xD;
+&#xD;
+             The fetal risks associated with ANS-6637 are not known, but pre- clinical animal data&#xD;
+             demonstrate some risk. Subjects must agree not to become pregnant or impregnate a&#xD;
+             female. Females of childbearing potential must have a reproductive risk assessment&#xD;
+             done to determine the risk of undetectable pregnancy at study start [i.e. sexual and&#xD;
+             contraceptive history for 30 days preceding screening] pregnancy test at screening and&#xD;
+             baseline (Day 0). For the duration of the study, subject and their partners must&#xD;
+             practice two non-hormonal methods of birth control, having begun no less than 30 days,&#xD;
+             without interruption, prior to screening. They must continue to use both methods until&#xD;
+             3 months after stopping the study drug. Two of the three methods of birth control&#xD;
+             listed below MUST be used, or an alternative combination offering very high efficacy,&#xD;
+             per the PI, in consultation with the Sponsor Medical Monitor may be considered:&#xD;
+&#xD;
+               -  Male or female condoms [but not both] with a spermicide&#xD;
+&#xD;
+               -  Diaphragm with a spermicide&#xD;
+&#xD;
+               -  Intrauterine device (IUD)&#xD;
+&#xD;
+             If pregnancy is suspected or should occur, subjects must notify the study staff&#xD;
+             immediately.&#xD;
+&#xD;
+         14. Must, in the opinion of the Investigator, be in good health based upon medical history&#xD;
+             and physical examination, and screening laboratory evaluations.&#xD;
+&#xD;
+         15. Judged to be healthy based on medical history, physical examination, vital signs, and&#xD;
+             clinical laboratory tests at screening and Day 0: liver function tests (AST, ALT,&#xD;
+             Tbili) less than or equal to upper limit of normal [ULN], platelets (PLT) &gt;150,000/&#xD;
+             microliter, hemoglobin (Hgb) &gt;13 g/dL (males); &gt;12 g/dL (females), CK less than or&#xD;
+             equal to 2x ULN, Amylase/lipase &lt; ULN, thyroid function tests [TSH and T4] within&#xD;
+             normal range, fasting total cholesterol &lt;240 mg/dL, or fasting triglycerides &lt;240&#xD;
+             mg/dL, per DAIDS AE table and Toxicity Grading Scale for Healthy Adult and Adolescent&#xD;
+             Volunteers Enrolled in Preventive Vaccine Trials AE table for total bilirubin [Tbili]&#xD;
+             only.&#xD;
+&#xD;
+         16. Must be willing and able to comply with all study requirements.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+          1. Therapy with any prescription, over-the-counter (OTC), herbal, or holistic&#xD;
+             medications, including hormonal contraceptives by any route, within 5 half- lives of&#xD;
+             the agent prior to receipt of any study medications will not be permitted with the&#xD;
+             following exception: Intermittent or short-course therapy (&lt;14 days) with prescription&#xD;
+             or OTC medications, herbals, or holistic medications within the screening period prior&#xD;
+             to starting study drugs may be permitted after review by the investigators on a&#xD;
+             case-by-case basis for potential drug interactions. Receipt of influenza vaccination&#xD;
+             will be allowed prior to, during, and/or after the study.&#xD;
+&#xD;
+          2. Have any serious or active medical, surgical, or psychiatric conditions which, in the&#xD;
+             opinion of the Investigator, would interfere with subject treatment, assessment, or&#xD;
+             compliance with the protocol.&#xD;
+&#xD;
+          3. Have previously participated in an investigational trial involving administration of&#xD;
+             any investigational compound within 30 days prior to screening.&#xD;
+&#xD;
+          4. Have current, or a history of mild to severe alcohol use, cannabis or other substance&#xD;
+             use disorder including any use of illicit drugs as defined by DSM-5 criteria, within&#xD;
+             12 months of first study dose&#xD;
+&#xD;
+          5. Renal impairment (chronic renal insufficiency of any chronic kidney disease stage, or&#xD;
+             acute renal failure not induced by drug therapy defined as eGFR &lt;90 ml/min)&#xD;
+&#xD;
+          6. Have a positive urine drug test (ethanol, cannabis, barbiturates, cocaine, opiates, or&#xD;
+             amphetamines) at Screening or Day 0.&#xD;
+&#xD;
+          7. History of flushing or intolerance related to alcohol consumption using the NIAAA&#xD;
+             screening assessment questionnaire tool for alcohol flushing&#xD;
+&#xD;
+          8. Inability to obtain venous access for sample collection.&#xD;
+&#xD;
+          9. Have a history of significant drug sensitivity or drug allergy to any benzodiazepines.&#xD;
+&#xD;
+         10. Known hypersensitivity to formulation excipients: microcrystalline cellulose,&#xD;
+             croscarmellose sodium, magnesium stearate, polyvinyl alcohol, titanium dioxide,&#xD;
+             polyethylene glycol, and talc.&#xD;
+&#xD;
+         11. Have been treated with systemic steroids, immunosuppressant therapies or&#xD;
+             chemotherapeutic agents within 3 months of study screening or expected to receive&#xD;
+             these agents during the study (e.g., corticosteroids, immunoglobulins, and other&#xD;
+             immune- or cytokine-based therapies).&#xD;
+&#xD;
+         12. Presence or history of clinically significant cardiovascular disease, cardiomyopathy,&#xD;
+             and/or cardiac conduction abnormalities.&#xD;
+&#xD;
+         13. Have clinically significant ECG abnormalities or any of the following ECG&#xD;
+             abnormalities at Screening: PR &gt;220 msec; QRS &gt;120 msec; QTcF &gt;450 msec; HR &lt;40 beats&#xD;
+             per minute; second or third degree heart block.&#xD;
+&#xD;
+         14. Have a history or family history of Long QT Syndrome, Brugada syndrome,&#xD;
+             Wolfe-Parkinson-White Syndrome, or have a family history of sudden cardiac death or&#xD;
+             unexplained death in an otherwise healthy individual between the ages of 1 and 30&#xD;
+             years.&#xD;
+&#xD;
+         15. Have history of syncope, palpitations, unexplained dizziness or chronic nausea or&#xD;
+             headaches.&#xD;
+&#xD;
+         16. Have an implanted defibrillator or pacemaker.&#xD;
+&#xD;
+         17. Have a history of liver disease, including Gilbert's Disease.&#xD;
+&#xD;
+         18. Any clinically significant electrolyte abnormality (outside of NIH normal reference&#xD;
+             ranges) at screening (e.g., hypokalemia, hypocalcemia, hypomagnesemia) or any&#xD;
+             condition that could lead to abnormal electrolyte disturbances (eg, eating disorder).&#xD;
+&#xD;
+         19. Have a history of taking dopamine antagonists/anti-psychotics.&#xD;
+&#xD;
+         20. Are unable to comply with study requirements.&#xD;
+&#xD;
+         21. Positive urine toxicology screen&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Henry Masur, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institutes of Health Clinical Center (CC)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2019-CC-0052.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Diamond I, Yao L. From Ancient Chinese Medicine to a Novel Approach to Treat Cocaine Addiction. CNS Neurol Disord Drug Targets. 2015;14(6):716-26. Review.</citation>
+    <PMID>26022266</PMID>
+  </reference>
+  <reference>
+    <citation>Yao L, Fan P, Arolfo M, Jiang Z, Olive MF, Zablocki J, Sun HL, Chu N, Lee J, Kim HY, Leung K, Shryock J, Blackburn B, Diamond I. Inhibition of aldehyde dehydrogenase-2 suppresses cocaine seeking by generating THP, a cocaine use-dependent inhibitor of dopamine synthesis. Nat Med. 2010 Sep;16(9):1024-8. doi: 10.1038/nm.2200. Epub 2010 Aug 22. Erratum in: Nat Med. 2011 Feb;17(2):229.</citation>
+    <PMID>20729865</PMID>
+  </reference>
+  <reference>
+    <citation>Volkow ND, Koob GF, McLellan AT. Neurobiologic Advances from the Brain Disease Model of Addiction. N Engl J Med. 2016 Jan 28;374(4):363-71. doi: 10.1056/NEJMra1511480. Review.</citation>
+    <PMID>26816013</PMID>
+  </reference>
+  <verification_date>December 30, 2019</verification_date>
+  <study_first_submitted>February 5, 2019</study_first_submitted>
+  <study_first_submitted_qc>February 5, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 6, 2019</study_first_posted>
+  <results_first_submitted>June 29, 2020</results_first_submitted>
+  <results_first_submitted_qc>July 23, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 3, 2020</results_first_posted>
+  <last_update_submitted>July 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Reward Pathway</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <keyword>Dopamine</keyword>
+  <keyword>Opioid Use</keyword>
+  <keyword>Addiction</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 2, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/71/NCT03831971/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>26 subjects signed consent. 14 subjects not eligible. 12 subjects underwent study.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>ANS-6637 &amp; Midazolam</title>
+          <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>ANS-6637 &amp; Midazolam</title>
+          <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="12"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Time to Maximum Concentration of Midazolam Alone</title>
+        <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 1</time_frame>
+        <population>Participants who received midazolam</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Time to Maximum Concentration of Midazolam Alone</title>
+          <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam</population>
+          <units>hours</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.58" spread="55.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Time to Maximum Concentration of 1-hydroxymidazolam Alone</title>
+        <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 1</time_frame>
+        <population>Participants who received midazolam</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Time to Maximum Concentration of 1-hydroxymidazolam Alone</title>
+          <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam</population>
+          <units>hours</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.58" spread="55.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Maximum Total Plasma Concentration of Midazolam Alone</title>
+        <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 1</time_frame>
+        <population>Participants who received midazolam</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Maximum Total Plasma Concentration of Midazolam Alone</title>
+          <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam</population>
+          <units>ng/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.28" spread="46.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Maximum Total Plasma Concentration of 1-hydroxymidazolam Alone</title>
+        <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 1</time_frame>
+        <population>Participants who received midazolam</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Maximum Total Plasma Concentration of 1-hydroxymidazolam Alone</title>
+          <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam</population>
+          <units>ng/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.04" spread="65.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Plasma Exposure of Midazolam Alone</title>
+        <description>Midazolam plasma area under the concentration time curve 0-infinity. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 1</time_frame>
+        <population>Participants who received midazolam</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Plasma Exposure of Midazolam Alone</title>
+          <description>Midazolam plasma area under the concentration time curve 0-infinity. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam</population>
+          <units>ng * h/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="49.73" spread="58.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Plasma Exposure of 1-hydroxymidazolam Alone</title>
+        <description>1-hydroxymidazolam plasma area under the concentration time curve (time 0-infinity). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 1</time_frame>
+        <population>Participants who received midazolam</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Plasma Exposure of 1-hydroxymidazolam Alone</title>
+          <description>1-hydroxymidazolam plasma area under the concentration time curve (time 0-infinity). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam</population>
+          <units>ng * h/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27.2" spread="59.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Elimination of Midazolam Alone</title>
+        <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 1</time_frame>
+        <population>Participants who received midazolam</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Elimination of Midazolam Alone</title>
+          <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam</population>
+          <units>hours</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.68" spread="23.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Elimination of 1-hydroxymidazolam Alone</title>
+        <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 1</time_frame>
+        <population>Participants who received midazolam</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Elimination of 1-hydroxymidazolam Alone</title>
+          <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam</population>
+          <units>hours</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.29" spread="31.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Time to Maximum Concentration of Midazolam: Midazolam Plus Steady State ANS-6637</title>
+        <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 8</time_frame>
+        <population>Participants who received midazolam and ANS-6637</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Time to Maximum Concentration of Midazolam: Midazolam Plus Steady State ANS-6637</title>
+          <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam and ANS-6637</population>
+          <units>hours</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.69" spread="87.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Time to Maximum Concentration of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</title>
+        <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 8</time_frame>
+        <population>Participants who received midazolam and ANS-6637</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Time to Maximum Concentration of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</title>
+          <description>Time to maximum plasma concentration (tmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam and ANS-6637</population>
+          <units>hours</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.69" spread="87.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Maximum Total Plasma Concentration of Midazolam: Midazolam Plus Steady State ANS-6637</title>
+        <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 8</time_frame>
+        <population>Participants who received midazolam and ANS-6637</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Maximum Total Plasma Concentration of Midazolam: Midazolam Plus Steady State ANS-6637</title>
+          <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam and ANS-6637</population>
+          <units>ng/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.47" spread="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Maximum Total Plasma Concentration of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</title>
+        <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 8</time_frame>
+        <population>Participants who received midazolam and ANS-6637</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Maximum Total Plasma Concentration of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</title>
+          <description>Maximum total plasma concentration (Cmax). The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam and ANS-6637</population>
+          <units>ng/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.61" spread="59.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Plasma Exposure of Midazolam: Midazolam Plus Steady State ANS-6637</title>
+        <description>Midazolam plasma area under the concentration time curve 0-infinity. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 8</time_frame>
+        <population>Participants who received midazolam and ANS-6637</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Plasma Exposure of Midazolam: Midazolam Plus Steady State ANS-6637</title>
+          <description>Midazolam plasma area under the concentration time curve 0-infinity. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam and ANS-6637</population>
+          <units>ng * h/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="62.63" spread="46.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Plasma Exposure of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</title>
+        <description>1-hydroxymidazolam plasma area under the concentration time curve 0-infinity. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 8</time_frame>
+        <population>Participants who received midazolam and ANS-6637</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Plasma Exposure of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</title>
+          <description>1-hydroxymidazolam plasma area under the concentration time curve 0-infinity. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam and ANS-6637</population>
+          <units>ng * h/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.28" spread="53.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Elimination of Midazolam: Midazolam Plus Steady State ANS-6637</title>
+        <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 8</time_frame>
+        <population>Participants who received midazolam and ANS-6637</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Elimination of Midazolam: Midazolam Plus Steady State ANS-6637</title>
+          <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam and ANS-6637</population>
+          <units>hours</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.64" spread="20.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Pharmacokinetics - Elimination of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</title>
+        <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+        <time_frame>Day 8</time_frame>
+        <population>Participants who received midazolam and ANS-6637</population>
+        <group_list>
+          <group group_id="O1">
+            <title>ANS-6637 &amp; Midazolam</title>
+            <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics - Elimination of 1-hydroxymidazolam: Midazolam Plus Steady State ANS-6637</title>
+          <description>Half-life. The summary PK results were informed by a continuous measurement at the following serial blood collection time points: 0 (pre-dose), then 0.5, 1, 2, 3, 4, 6, 8, 12, 22, and 24 hours postdose.</description>
+          <population>Participants who received midazolam and ANS-6637</population>
+          <units>hours</units>
+          <param>Geometric Mean</param>
+          <dispersion>Geometric Coefficient of Variation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.76" spread="34.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>90 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>ANS-6637 &amp; Midazolam</title>
+          <description>Subjects will receive (1) midazolam 5 mg po single dose on Day 1 followed by (2) Drug free period on Day 2 followed by (3) ANS-6637 600 mg po daily (Days 3-7) to reach steady state followed by (4) ANS-6637 600 mg po single dose + midazolam 5mg po single dose on Day 8</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Bacteriuria</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Amylase increased</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Blood alkaline phosphatase increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Blood bicarbonate abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Blood cholesterol increased</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Blood creatinine increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Creatinine renal clearance decreased</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Electrocardiogram PR prolongation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Urine analysis abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Sleep disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematuria</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dry skin</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Erythema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Masur, Henry</name_or_title>
+      <organization>Clinical Center</organization>
+      <phone>+1 301 496 9320</phone>
+      <email>hmasur@cc.nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

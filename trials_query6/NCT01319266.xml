@@ -1,0 +1,333 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01319266</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C33237/1088</org_study_id>
+    <nct_id>NCT01319266</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Pharmacokinetics of the Hydrocodone Extended-Release Tablet (CEP-33237) in Subjects With Normal Renal Function and Subjects With Varying Degrees of Renal Impairment</brief_title>
+  <official_title>An Open-Label, Single-Dose Study to Assess the Pharmacokinetics of the Hydrocodone Bitartrate Extended-Release Tablet (45 mg) in Subjects With Normal Renal Function and Subjects With Varying Degrees of Renal Impairment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cephalon</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Teva Pharmaceutical Industries</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the effect of varying degrees of renal impairment&#xD;
+      (mild, moderate, severe and end stage renal disease) compared with subjects with normal renal&#xD;
+      function on the pharmacokinetics of the hydrocodone bitartrate extended-release tablet.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter, open-label, parallel-group pharmacokinetic and safety study to assess&#xD;
+      the effect of varying degrees of renal impairment (mild, moderate, severe and end stage renal&#xD;
+      disease [ESRD])on the pharmacokinetics of the hydrocodone bitartrate extended-release tablet&#xD;
+      at a single dose of 45 mg as compared with subjects with normal renal function. The study&#xD;
+      consists of a screening visit within 28 days before study drug administration (visit 1),&#xD;
+      followed by a single-dose administration period including a 144-hour pharmacokinetic sampling&#xD;
+      period (visit 2) with a final assessment after the final pharmacokinetic sample is collected&#xD;
+      or upon early withdrawal, and a follow-up visit 48 to 72 hours after the last discharge from&#xD;
+      the study center (visit 3). Subjects will be categorized into either the control group with&#xD;
+      normal renal function or one of the four groups of subjects with varying degrees of renal&#xD;
+      impairment. Up to 12 subjects in each of the 4 renal impairment groups and up to 16 subjects&#xD;
+      with normal renal function will be enrolled to achieve the targeted minimum of 8 subjects in&#xD;
+      each renal impairment group and 10 subjects with normal renal function completing the study.&#xD;
+      Eligible subjects will check in to the study center on day -1. Subjects who continue to meet&#xD;
+      the criteria for enrollment will receive a single dose of the hydrocodone bitartrate&#xD;
+      extended-release tablet on day 1. Subjects will receive one 50-mg tablet of naltrexone&#xD;
+      hydrochloride to block opioid receptors and minimize opioid related adverse events&#xD;
+      approximately 15 and 3 hours before and approximately 9 and 21 hours after study drug&#xD;
+      administration. Blood and urine samples will be collected just before study drug&#xD;
+      administration and over a 144-hour period after study drug administration. Safety will be&#xD;
+      assessed throughout the study by monitoring the occurrence of adverse events, clinical&#xD;
+      laboratory test results, vital signs measurements,12-lead ECG findings, physical examination&#xD;
+      findings, SpO2 findings, and use of concomitant medications. Subjects who complete all&#xD;
+      scheduled visits will have final procedures and assessments performed prior to discharge from&#xD;
+      the study center after pharmacokinetic sampling is complete. All subjects will be asked to&#xD;
+      return for a follow-up visit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2011</start_date>
+  <completion_date type="Actual">October 2011</completion_date>
+  <primary_completion_date type="Actual">October 2011</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum observed plasma drug concentration (Cmax)</measure>
+    <time_frame>Between baseline and 144 hours following drug administration</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the plasma drug concentration-by-time curve (AUC) from time 0 to infinity (AUC0-∞)</measure>
+    <time_frame>Between baseline and 144 hours following drug administration</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess the safety of a single 45-mg dose of the hydrocodone bitartrate extended release tablet</measure>
+    <time_frame>Safety will be assessed from the start of study drug administration through the follow-up visit 48 to 72 hours after discharge from the study center.</time_frame>
+    <description>by evaluating the following:&#xD;
+occurrence of adverse events throughout the study&#xD;
+clinical laboratory (serum chemistry, hematology, and urinalysis) test results at final assessment or early withdrawal&#xD;
+vital signs measurements (blood pressure, pulse, and respiratory rate) throughout the study&#xD;
+12-lead electrocardiogram (ECG) findings at final assessment or early withdrawal&#xD;
+physical examination findings at final assessment or early withdrawal&#xD;
+oxyhemoglobin saturation (SpO2) monitoring throughout the study&#xD;
+concomitant medication usage throughout the study</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">55</enrollment>
+  <condition>Renal Impairment</condition>
+  <arm_group>
+    <arm_group_label>Normal Renal Function</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with normal renal function</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild Renal Impairment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with mild renal impairment (defined by an estimated creatinine clearance of &gt; 50 and up to 80 mL/min)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate Renal Impairment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with moderate renal impairment (defined by an estimated creatinine clearance of 30-50 mL/min)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe Renal Impairment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with severe renal impairment (defined by an estimated creatinine clearance of less than 30 mL/min)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>End Stage Renal Disease (ESRD)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with ESRD (defined as being on hemodialysis for at least 6 months prior to enrollment and be receiving standard in-center dialysis treatments three times a week)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydrocodone Bitartrate extended-release tablet</intervention_name>
+    <description>Hydrocodone bitartrate extended-release oral tablet will be administered at a dose of 45 mg and dosed one time on Day 1. Subjects will also be dosed with naltrexone hydrochloride to block opioid effects.</description>
+    <arm_group_label>End Stage Renal Disease (ESRD)</arm_group_label>
+    <arm_group_label>Mild Renal Impairment</arm_group_label>
+    <arm_group_label>Moderate Renal Impairment</arm_group_label>
+    <arm_group_label>Normal Renal Function</arm_group_label>
+    <arm_group_label>Severe Renal Impairment</arm_group_label>
+    <other_name>CEP-33237</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+        All subjects:&#xD;
+&#xD;
+          -  Written informed consent is obtained.&#xD;
+&#xD;
+          -  The subject is a man or woman at least 18 years of age, with a body mass index (BMI)&#xD;
+             of 20 kg/m2 or more.&#xD;
+&#xD;
+          -  Women must be surgically sterile, 2 years postmenopausal, or, if of child-bearing&#xD;
+             potential, be using a medically accepted method of contraception, and agree to&#xD;
+             continued use of this method for the duration of the study and for 30 days after&#xD;
+             discontinuation of study drug.&#xD;
+&#xD;
+          -  The subject is a nonsmoker or smokes less than 10 cigarettes per day.&#xD;
+&#xD;
+          -  The subject's vitamin usage is stable for at least 2 weeks before study drug&#xD;
+             administration and the subject's prescription and over-the-counter (OTC) medication&#xD;
+             dosage is stable.&#xD;
+&#xD;
+          -  The subject must be willing and able to comply with study restrictions and to remain&#xD;
+             at the clinic for the required duration of the administration period during the study.&#xD;
+&#xD;
+        Subjects with normal renal function:&#xD;
+&#xD;
+          -  The subject is in generally good health as determined by medical and psychiatric&#xD;
+             history, physical examination, ECG, serum chemistry, hematology, urinalysis, and&#xD;
+             serology.&#xD;
+&#xD;
+          -  The subject has an estimated creatinine clearance &gt;80 mL/min.&#xD;
+&#xD;
+        Subjects with renal impairment:&#xD;
+&#xD;
+          -  Subjects may have concurrent stable medical conditions in addition to renal impairment&#xD;
+             but may be included only if the investigator and protocol-specified contact for&#xD;
+             medical issues consider that the condition will not introduce an additional risk&#xD;
+             factor, and will not interfere with the study objectives and procedures (e.g.,&#xD;
+             subjects with diabetes that has been stable, essential hypertension).&#xD;
+&#xD;
+          -  Subjects are renally impaired as defined by 1 of the following categories:&#xD;
+&#xD;
+          -  subjects with ESRD must be on hemodialysis for at least 6 months prior to enrollment&#xD;
+             and be receiving standard in-center thrice weekly treatments&#xD;
+&#xD;
+          -  subjects with severe renal impairment must have an estimated creatinine clearance of&#xD;
+             less than 30 mL/min&#xD;
+&#xD;
+          -  subjects with moderate renal impairment must have an estimated creatinine clearance of&#xD;
+             30-50 mL/min&#xD;
+&#xD;
+          -  subjects with mild renal impairment must have an estimated creatinine clearance of&#xD;
+             greater than 50 and up to 80 mL/min&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+        All subjects:&#xD;
+&#xD;
+          -  The subject is a poor metabolizer of cytochrome P450 (CYP) 2D6 substrates based on&#xD;
+             genotyping performed at screening.&#xD;
+&#xD;
+          -  The subject has used an inducer (other than weak inducers) of CYP3A4/5 or CYP2D6&#xD;
+             within 28 days prior to study drug administration. NOTES: Topical use of a medication&#xD;
+             that is known to be an inducer of CYP3A4/5 or CYP2D6 may be permitted after&#xD;
+             consultation with the medical monitor. No medication will be permitted within 2 hours&#xD;
+             before or after study drug administration.&#xD;
+&#xD;
+          -  The subject has used an inhibitor (other than weak inhibitors) of CYP3A4/5 or CYP2D6&#xD;
+             within 14 days or 5 half-lives (whichever is longer) prior to study drug&#xD;
+             administration. NOTES: Topical use of a medication that is known to be an inhibitor of&#xD;
+             CYP3A4/5 or CYP2D6 may be permitted after consultation with the medical monitor. No&#xD;
+             medication will be permitted within 2 hours before or after study drug administration.&#xD;
+&#xD;
+          -  The subject is a pregnant or lactating woman. (Any women becoming pregnant during the&#xD;
+             study will be withdrawn from the study.)&#xD;
+&#xD;
+          -  The subject has any disorder that may interfere with drug absorption, distribution,&#xD;
+             metabolism, or excretion (including gastrointestinal surgery, excluding appendectomy).&#xD;
+             Note: Cholecystectomy performed 2 years or more prior to enrollment is permitted.&#xD;
+&#xD;
+          -  The subject has previously participated in a study with CEP-33237.&#xD;
+&#xD;
+          -  The subject has a known sensitivity or idiosyncratic reaction to any compound present&#xD;
+             in hydrocodone or hydromorphone, its related compounds, or to any metabolites, or&#xD;
+             naltrexone, or any compound listed as being present in a study formulation.&#xD;
+&#xD;
+          -  The subject is unlikely to comply with the study protocol, or is unsuitable for any&#xD;
+             other reasons, as judged by the investigator.&#xD;
+&#xD;
+        Subjects with normal renal function:&#xD;
+&#xD;
+          -  The subject has any clinically significant, uncontrolled medical condition (treated or&#xD;
+             untreated).&#xD;
+&#xD;
+          -  The subject has a clinically significant deviation from normal in ECG or physical&#xD;
+             examination findings, as determined by the investigator or the protocol-specified&#xD;
+             contact for medical issues.&#xD;
+&#xD;
+          -  Subjects with normal renal function who have a hemoglobin value of less than 12 g/dL.&#xD;
+&#xD;
+        Subjects with renal impairment:&#xD;
+&#xD;
+          -  The subject has a condition that, in the opinion of the investigator or&#xD;
+             protocol-specified contact for medical issues, will introduce an additional risk&#xD;
+             factor or interfere with the study objectives and procedures.&#xD;
+&#xD;
+          -  The subject has evidence of an unstable clinically important medical condition other&#xD;
+             than impaired renal function.&#xD;
+&#xD;
+          -  The subject has an acute exacerbation or unstable renal function, as indicated by&#xD;
+             worsening of clinical and/or laboratory signs of renal impairment, within the 4 weeks&#xD;
+             before study drug administration.&#xD;
+&#xD;
+          -  The subject has an acute renal disease caused by infection or drug toxicity.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sponsor's Medical Expert</last_name>
+    <role>Study Director</role>
+    <affiliation>Cephalon</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Clinical Pharmacology of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Orlando Clinical Research</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DaVita</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Orleans Center</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2012</verification_date>
+  <study_first_submitted>March 17, 2011</study_first_submitted>
+  <study_first_submitted_qc>March 17, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 21, 2011</study_first_posted>
+  <last_update_submitted>April 20, 2012</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 24, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>hydrocodone</keyword>
+  <keyword>extended release</keyword>
+  <keyword>pharmacokinetics</keyword>
+  <keyword>renal impairment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Renal Insufficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydrocodone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

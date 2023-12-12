@@ -1,0 +1,176 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04773535</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BASEC 2018-00457</org_study_id>
+    <nct_id>NCT04773535</nct_id>
+  </id_info>
+  <brief_title>Validation of the DyCare® Lynx System for Motion Analysis of the Wrist</brief_title>
+  <official_title>Validation of the DyCare® Lynx System for Motion Analysis of the Wrist During Standard Movements and Daily Activities</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Zurich</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Zurich</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project is set to compare the wrist joint movement measurements of the DyCare® Lynx&#xD;
+      System with optoelectronic motion analysis using a marker system and infrared cameras.&#xD;
+&#xD;
+      A total of 10 healthy test persons will be subjected to both the DyCare® Lynx and the Vicon®&#xD;
+      measurements during standard movements as well as during activities of daily living. The&#xD;
+      wrist joint angles measured with both systems will be compared.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The accepted laboratory gold standards for human motion analysis are too over-elaborated for&#xD;
+      clinical use. The DyCare® Lynx system is user-friendly and has been proven reliable for&#xD;
+      motion evaluation of different joints, but not yet for the wrist.&#xD;
+&#xD;
+      Therefore, this project is set to compare the wrist joint movement measurements of the&#xD;
+      DyCare® Lynx System with optoelectronic motion analysis using a marker system and infrared&#xD;
+      cameras. DyCare® Lynx is based on two inertial sensors (DyTrack) capable of objectively&#xD;
+      measuring three dimensional joint movements in real time. Each inertial sensor includes an&#xD;
+      accelerometer, gyroscope and magnetometer and captures up to 1'000 samples per second.&#xD;
+      DyCare® Lynx is certified for measurements on the human musculoskeletal apparatus (EN ISO&#xD;
+      13485:2003 Certificate No. 15185 - M), is CE marked and will only be applied to each&#xD;
+      participant for a few minutes during the measurements. The control measurements will be&#xD;
+      conducted using a Vicon® motion capture system in the Motion Analysis Laboratory of the&#xD;
+      Department of Plastic Surgery and Hand Surgery of the University Hospital of Zurich. The&#xD;
+      Vicon® system is equipped with 11 infrared cameras. The system is made for 'Life science&#xD;
+      application' and is approved as CE medical device. A total of 10 healthy test persons will be&#xD;
+      subjected to both the DyCare® Lynx and the Vicon® measurements during standard movements as&#xD;
+      well as during activities of daily living. The wrist joint angles measured with both systems&#xD;
+      will be compared, therefore limits of agreement, maximum difference and root mean squared&#xD;
+      difference will be calculated to quantify the deviation between methods. The standard error&#xD;
+      of measurements will be calculated to determine repeatability of the systems.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2018</start_date>
+  <completion_date type="Actual">December 31, 2019</completion_date>
+  <primary_completion_date type="Actual">March 28, 2019</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Active wrist movement at standard movements</measure>
+    <time_frame>October 2019</time_frame>
+    <description>Ten healthy subjects will be recorded (3D motion analysis) while performing flexion-extension and radial-ulnar deviation movements of their right wrist using inertial sensors and skin markers</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Active Wrist movement during activities of daily living.</measure>
+    <time_frame>January 2020-August 2021</time_frame>
+    <description>Ten healthy subjects will be recorded (3D motion analysis) while performing during ADLs: opening a jar, opening a lid pot, turning a key, dart-throwing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comfort of the wearable Sensors</measure>
+    <time_frame>October 2019</time_frame>
+    <description>questionnaire looking into six dimensions of comfort as proposed by Knight and Baber (Knight, J.F.; Baber, C. A tool to assess the comfort of wearable computers. Human Factors 2005, 47, 77-91, doi:10.1518/0018720053653875.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time Consumption of measurements using DyCare® Lynx</measure>
+    <time_frame>October 2019</time_frame>
+    <description>Minutes necessary to attach the sensors to the patients and to record the movements.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">10</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>healthy Volunteers</arm_group_label>
+    <description>Adult (&gt;18y) healthy volunteers without previous injuries or pathologies of the hand and upper extremity</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>3D Motion analysis</intervention_name>
+    <description>Motion analysis using DyCare® Lynx system with inertial based sensors as well as an optoelectronic motion analysis system based on infrared cameras (11x Vicon infrared high speed cameras)</description>
+    <arm_group_label>healthy Volunteers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        10 healthy volunteers&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  10 test persons with healthy right-dominant hands&#xD;
+&#xD;
+          -  Test Persons older than 18 Years&#xD;
+&#xD;
+          -  Test persons willing and able to give written informed consent to participate in the&#xD;
+             study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inflammatory disease (e.g. rheumatoid arthritis)&#xD;
+&#xD;
+          -  German language barrier to understand instructions&#xD;
+&#xD;
+          -  Any disease process that would preclude accurate evaluation (e.g. neuromuscular,&#xD;
+             psychiatric or metabolic disorder)&#xD;
+&#xD;
+          -  Legal incompetence&#xD;
+&#xD;
+          -  Participation in any other medical device or medicinal product study within the&#xD;
+             previous months that could influence the results of the present study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maurizio Calcagni, PD Dr. med</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Zurich</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University Hospital Zurich, Clinic of Reconstructive Surgery</name>
+      <address>
+        <city>Zurich</city>
+        <state>ZH</state>
+        <zip>8091</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>November 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 26, 2021</study_first_posted>
+  <last_update_submitted>February 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

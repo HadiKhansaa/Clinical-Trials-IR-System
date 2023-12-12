@@ -1,0 +1,293 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04590079</url>
+  </required_header>
+  <id_info>
+    <org_study_id>38RC20.088</org_study_id>
+    <nct_id>NCT04590079</nct_id>
+  </id_info>
+  <brief_title>Innovative Device for Pain Management by Millimeter Band Radiation : Electronic-Pain Killer.</brief_title>
+  <acronym>Epikarthrose</acronym>
+  <official_title>Innovative Device for Pain Management by Millimeter Band Radiation : Electronic-Pain Killer. Evaluation in Patients With Peripheral Osteoarthritis: A Single Center, Prospective, Randomized in Cross-over, Comparative and Open-label Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Grenoble</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Remedee Labs SAS</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Clinical Investigation Centre for Innovative Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Grenoble</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, in addition of conventional treatment, the efficacy of the medical device,&#xD;
+      Remedee One, in medical care of patients with peripheral osteoarthritis pain is evaluated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Osteoarthritis affects 10 millions people in France (17% of the population). It's the second&#xD;
+      cause of disability and consultation after the cardiovascular diseases in France. For the&#xD;
+      moment, there is no curative treatment for osteoarthritis The main clinical sign of this&#xD;
+      disease is pain and care is based on the treatment of pain and on the improvement of&#xD;
+      functionnal disability. The proposed treatments are mainly based on the use of oral&#xD;
+      analgesics treatments .&#xD;
+&#xD;
+      At present, patients report to be insufficiently relieved. New strategies need to be&#xD;
+      developed. The hypothesis is that the use of an innovative medical device, Remedee One, can&#xD;
+      reduce the pain felt by patients, improve their quality of life and reduce the analgesics&#xD;
+      consumption.&#xD;
+&#xD;
+      The choice is oriented on the peripheral osteoarthritis and excludes spinal osteoarthritis&#xD;
+      because it's an osteoarthritis always asymptomatic and painless.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 14, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>First intervention group: patients with peripheral osteoarthritis who will have: 3 months of conventional pain treatment and daily sessions with the medical device followed by 1 month of wash out and then 3 months of conventional pain treatment.&#xD;
+Second intervention group: patients with peripheral osteoarthritis who will have: 3 months of conventional pain treatment followed by 1 month of wash out followed by 3 months of conventional pain treatment and daily sessions with the medical device.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Comparison of pain (evaluates with visual analogue scale ) with and without the use of medical device in patients with peripheral osteoarthritis who benefit from their conventional pain treatment.</measure>
+    <time_frame>7 months</time_frame>
+    <description>At the end of each month for each period of the cross-over, the pain is evaluated using a visual analogue scale (VAS).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of quality of life (evaluated with the EQ5D5L questionnaire), with and without the use of the medical device, in patients with peripheral osteoarthritis who benefit from their conventional pain treatment.</measure>
+    <time_frame>7 months</time_frame>
+    <description>At the end of each of the cross-over period, the quality of life is evaluated with the score obtained using the EQ5D-5L (5-level EuroQol version) questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of depressive state and coping (evaluated with the HAD questionnaire), with and without the use of the medical device in patients with peripheral osteoarthritis receiving their conventional pain treatment..</measure>
+    <time_frame>7 months</time_frame>
+    <description>At the end of each of the cross-over period, the depressive state and coping are evaluated with the score obtained using the HAD (Hospital Anxiety and Depression Scale) questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of functional capacity (evaluated with the WOMAC questionnaire) with and without the use of the medical device in patients suffering from osteoarthritis of the lower limbs and benefiting from their conventional pain treatment.</measure>
+    <time_frame>7 months</time_frame>
+    <description>At the end of each of the cross-over period, the functional capacity is evaluated with the score obtained using the WOMAC (Western Ontario and McMaster Universities Arthritis Index) questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of the functional capacity (evaluatet with the DREISER questionnaire) with and without the use of the medical device in patients with digital osteoarthritis and benefiting from their conventional pain treatment.</measure>
+    <time_frame>7 months</time_frame>
+    <description>At the end of each of the cross-over period, the functional capacity is evaluated with the score obtained using the DREISER (Functional Index for Hand OsteoArthritis) questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of analgesic consumption, with and without the use of the medical device, in patients with peripheral osteoarthritis and benefiting from their conventional pain treatment.</measure>
+    <time_frame>7 months</time_frame>
+    <description>At the end of each of the cross-over period, the analgesic consumption are assessed by their class, dose and number of dose taken.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of care consumption with and without the use of the medical device in patients with peripheral osteoarthritis and benefiting from their conventional pain treatment.</measure>
+    <time_frame>7 months</time_frame>
+    <description>At the end of each of the cross-over period, the number of drugs consumed (phytotherapy, homeopathy, food supplements), the number of medical acts, medical consultations, hospitalisations, the number of complementary medicine (acupuncture...) and psycho-behavioural therapies are assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse effect from the medical device.</measure>
+    <time_frame>7 months</time_frame>
+    <description>At the end of each of the cross-over period, the number of adverse effects from the medical device is assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Charaterization of the sleep quality (evaluated with a quantitative visual satisfaction scale) with and without the use of medical device in patients with peripheral osteoarthritis and benefiting from their conventional pain treatment.</measure>
+    <time_frame>7 months</time_frame>
+    <description>At the end of each of the cross-over period, the sleep quality is evaluated using a quantitative visual satisfaction scale (score between 0 to 10).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of the medical device use</measure>
+    <time_frame>7 months</time_frame>
+    <description>Log files of the medical device are extracted. The number and the duration of each session are analysed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical device acceptability : descriptive analysis</measure>
+    <time_frame>7 months</time_frame>
+    <description>Open question will be asked in a questionnaire without scale. A descriptive analysis will be done with the answers.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Osteoarthritis</condition>
+  <condition>Peripheral</condition>
+  <condition>Pain</condition>
+  <arm_group>
+    <arm_group_label>First intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients suffering from peripheral osteoarthritis who will have : 3 months of conventional pain treatment and daily sessions with the medical device - 1 month of wash-out - 3 months of conventional pain treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Second intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients suffering from peripheral osteoarthritis who will have : 3 months of conventional pain treatment - 1 month of wash-out - 3 months of conventional pain treatment and daily sessions with the medical device.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Conventional pain treatment with daily sessions with innovative medical device, Remedee One, for pain management by Millimeter Band Radiation</intervention_name>
+    <description>Conventional pain treatement with daily sessions with innovative medical device for pain management (radiation in millimeter band) at the rate of 1 to 3 sessions by day of 40 minutes for 3 months.</description>
+    <arm_group_label>First intervention group</arm_group_label>
+    <arm_group_label>Second intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult ≥ 50 years&#xD;
+&#xD;
+          -  Patient followed in rhumatology consultation or at the center of the pain of the&#xD;
+             University Hospital of Grenoble or in liberal for peripheral osteoarthritis (ankle,&#xD;
+             knee, hip, shoulder, elbow, digital) clinically and radiologically confirmed according&#xD;
+             to the recommendations of the American College of Rheumatology.&#xD;
+&#xD;
+          -  Patient with a pain score on a Visual Analog Scale (VAS) ≥ 4 on a numerical scale of 0&#xD;
+             to 10 (average VAS intensity over the week prior to the inclusion visit),&#xD;
+&#xD;
+          -  Patient with a stable analgesic treatment without introduction of a new therapeutic&#xD;
+             class within the last 3 months,&#xD;
+&#xD;
+          -  Patient with a wrist circumference between 14.5 and 18.5 cm, i.e. wrist compatible&#xD;
+             with the medical device template&#xD;
+&#xD;
+          -  Patient affiliated to social security or beneficiary of such a scheme.&#xD;
+&#xD;
+          -  Having signed a consent to participate.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with chronic inflammatory joint disease (chronic inflammatory rheumatism,&#xD;
+             rheumatoid arthritis, psoriatic rheumatism, spondyloarthritis, lupus),&#xD;
+&#xD;
+          -  Patient who received an intra-articular corticosteroid injection within 3 months prior&#xD;
+             to inclusion,&#xD;
+&#xD;
+          -  Patient with surgery scheduled within the next eight months,&#xD;
+&#xD;
+          -  Patient presenting at both wrists a dermatological pathology such as oozing&#xD;
+             dermatosis, hyper sweating or an unhealed lesion,&#xD;
+&#xD;
+          -  Patient having a piercing or implanted metallic material on both wrists,&#xD;
+&#xD;
+          -  Patient with a tattoo on both wrists,&#xD;
+&#xD;
+          -  Patient deprived of liberty by judicial or administrative decision&#xD;
+&#xD;
+          -  Patient subject to legal protection or unable to express his consent (guardianship or&#xD;
+             curatorship)&#xD;
+&#xD;
+          -  Patient in exclusion period of another interventional study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Caroline MAINDET, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Grenoble</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Caroline MAINDET, MD</last_name>
+    <phone>+33 476 76 52 13</phone>
+    <email>Cmaindet@chu-grenoble.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Isabelle BOUDRY, PhD</last_name>
+    <phone>+33 476 76 66 45</phone>
+    <email>iboudry@chu-grenoble.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospital</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Caroline MAINDET</last_name>
+      <phone>+33476765213</phone>
+      <email>Cmaindet@chu-grenoble.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Isabelle BOUDRY</last_name>
+      <phone>+33476766645</phone>
+      <email>iboudry@chu-grenoble.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Laurent GRANGE, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <link>
+    <url>https://www.aflar.org/livre-blanc-sur-l-arthrose</url>
+    <description>Livre blanc des états généraux de l'arthrose 2015.2016</description>
+  </link>
+  <link>
+    <url>https://www.arthrolink.com/fr/dossiers-arthrose/tous-les-dossiers/peut-on-prevenir-l-arthrose</url>
+    <description>Bourgeois P, Berenhaum F, Gibert E. Peut-on prévenir l'arthrose ? Arthrolink.</description>
+  </link>
+  <link>
+    <url>https://clinicaltrials.gov/ct2/show/NCT03889288?term=EPIKARD&amp;draw=2&amp;rank=1</url>
+    <description>Innovative Device for Pain Management by Millimeter Band Radiation: Electronic-Pain Killer (EPIKARD)</description>
+  </link>
+  <link>
+    <url>http://www.cic-it.fr/cic-it-grenoble.php</url>
+    <description>Clinical Investigation Centre for Innovative Technology Network website</description>
+  </link>
+  <results_reference>
+    <citation>Usichenko TI, Edinger H, Gizhko VV, Lehmann C, Wendt M, Feyerherd F. Low-intensity electromagnetic millimeter waves for pain therapy. Evid Based Complement Alternat Med. 2006 Jun;3(2):201-7. Epub 2006 Apr 24.</citation>
+    <PMID>16786049</PMID>
+  </results_reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>January 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Osteoarthritis</keyword>
+  <keyword>Pain</keyword>
+  <keyword>Medical device</keyword>
+  <keyword>Radiation in millimeter band</keyword>
+  <keyword>Life quality</keyword>
+  <keyword>Peripheral</keyword>
+  <keyword>Treatment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

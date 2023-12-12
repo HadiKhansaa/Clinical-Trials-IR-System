@@ -1,0 +1,258 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04807803</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-010</org_study_id>
+    <nct_id>NCT04807803</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Minimal Hepatic Encephalopathy in Patients With Cirrhosis and Portal Hypertension</brief_title>
+  <acronym>Evencipor</acronym>
+  <official_title>Evaluation of Minimal Hepatic Encephalopathy in Patients With Cirrhosis and Portal Hypertension</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IHU Strasbourg</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>IHU Strasbourg</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Minimal hepatic encephalopathy (MHE) is a subclinical cognitive impairment and represents the&#xD;
+      mildest type of hepatic encephalopathy (HE). Portal hypertension is the main complication of&#xD;
+      cirrhosis and is responsible of severe complications such as HE. The consequence of portal&#xD;
+      hypertension is the formation of the spontaneous portosystemic shunts (SPSS). The&#xD;
+      relationship between the SPSS and their characteristics and the prevalence of MHE in patient&#xD;
+      with cirrhosis is poorly known. The main objective of this study is to evaluate the MHE in&#xD;
+      patients with cirrhosis and portal hypertension.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Minimal hepatic encephalopathy (MHE) is a subclinical cognitive impairment and represents the&#xD;
+      mildest type of hepatic encephalopathy (HE). It is a frequent complication of the liver&#xD;
+      disease, affecting up to 80% of tested patients. MHE affects severely the lives of patients&#xD;
+      by altering their quality-of-life and their socioeconomic status and is strongly associated&#xD;
+      to the development of overt HE. Portal hypertension is the main complication of cirrhosis and&#xD;
+      is responsible of severe complications such as HE. The consequence of portal hypertension is&#xD;
+      the formation of the spontaneous portosystemic shunts (SPSS). Their presence has been&#xD;
+      associated with recurrent or persistent HE. The relationship between the SPSS and their&#xD;
+      characteristics and the prevalence of MHE in patient with cirrhosis is poorly known.&#xD;
+&#xD;
+      Patients with compensated cirrhosis and portal hypertension will be considered for inclusion.&#xD;
+      After written inform consent, the serum ammonia, psychometric hepatic encephalopathy score&#xD;
+      (PHES) and the animal naming test (ANT) will be performed to evaluate the presence of MHE.&#xD;
+      Patients diagnosed with MHE will be treated and a new evaluation will be performed 6 months&#xD;
+      later.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2021</start_date>
+  <completion_date type="Anticipated">April 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluation of MHE in patients with cirrhosis and portal hypertension by serum ammonia analysis</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The serum ammonia analysis measures the level of ammonia in the blood, expressed in micromoles per liter. Average values in venous blood are between 11,2 and 48,2 micromoles per liter.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of MHE in patients with cirrhosis and portal hypertension by the psychometric hepatic encephalopathy score (PHES)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The psychometric hepatic encephalopathy score (PHES) is composed of five tests, number connection test-A (NCT-A), number connection test-B (NCT-B), serial dotting test (SDT), line tracing test (LTT) and digit symbol test (DST). The results of the NCT-A, NCT-B, and SDT were measured as seconds, including the time needed to correct any errors, and the result of DST was measured as points. The results of the LTT were measured as both the time needed to complete the test (LTTt, seconds) and as the error score (LTTe), LTT = (1 + LTTe/100) × LTTt. Accordingly, a higher result of DST equals better performance, and lower results on the other tests equal better performance.&#xD;
+The final score of PHES is generated from the sum of the scores of five tests, which ranged between +5 and -15. The result of the PHES is expressed in number of standard deviations (SD) from a population matched on age and level of education. A threshold (- 4DS) defines the EHM according to current recommendations.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of MHE in patients with cirrhosis and portal hypertension by the animal naming test (ANT)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The animal naming test (ANT) is an analysis of semantic fluency consisting of saying as many animal names as possible within one minute. The French recommendations developed by the French Association for The Liver Study (AFEF) suggests a limit of 20 animal names in 1 min. Below, the existence of MHE is likely.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the correlation between MHE and portal hypertension by the mean of blood test and abdominal imaging</measure>
+    <time_frame>1 month</time_frame>
+    <description>Portal hypertension will be qualitatively assessed (presence/absence) by blood tests (Plaquettes &lt; 150 000 /mm3) and abdominal imaging (contrast-enhanced abdominal computed tomography (CT) or abdominal magnetic resonance imaging (MRI))</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the correlation between MHE and splenic congestion by elastography</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Splenic congestion will be qualitatively assessed (presence/absence) by splenic elastography (≥ 52 kPa)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the correlation between MHE and liver fibrosis by elastography</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Liver fibrosis will be qualitatively assessed (presence/absence) by liver transient elastography (fibroscan &gt; 14 kPa)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the correlation between MHE and sarcopenia by imaging</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Sarcopenia will be qualitatively assessed (presence/absence) by L3 Skeletal muscle index (L3 SMI) measured by CT scan: the muscle area at L3 vertebra level. The threshold values that define sarcopenia are: &lt;50 cm² / m² for men and &lt;39 cm² / m² for women.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the correlation between MHE and myosteatosis by imaging</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Myosteatosis is defined by muscle attenuation on CT scan which reflects fatty infiltration muscular. The average muscle attenuation will be reported for the calculated muscle area with sectional image similar to that provided to calculate the L3 SMI. The definition of the myosteatosis is &lt;41 Hounsfield Unit (HU) for a BMI ≤ 24.9 kg / m² and ≥ 33 HU for patients with a BMI ≥ 25 kg / m².</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the neurologic assessment in patients diagnosed with MHE after 6 months of treatment by serum ammonia analysis</measure>
+    <time_frame>Month 7</time_frame>
+    <description>The serum ammonia analysis measures the level of ammonia in the blood, expressed in micromoles per liter. Average values in venous blood are between 14 and 38 micromoles per liter.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the neurologic assessment in patients diagnosed with MHE after 6 months of treatment by the psychometric hepatic encephalopathy score (PHES)</measure>
+    <time_frame>Month 7</time_frame>
+    <description>The psychometric hepatic encephalopathy score (PHES) is composed of five tests, number connection test-A (NCT-A), number connection test-B (NCT-B), serial dotting test (SDT), line tracing test (LTT) and digit symbol test (DST). The results of the NCT-A, NCT-B, and SDT were measured as seconds, including the time needed to correct any errors, and the result of DST was measured as points. The results of the LTT were measured as both the time needed to complete the test (LTTt, seconds) and as the error score (LTTe), LTT = (1 + LTTe/100) × LTTt. Accordingly, a higher result of DST equals better performance, and lower results on the other tests equal better performance.&#xD;
+The final score of PHES is generated from the sum of the scores of five tests, which ranged between +5 and -15. The result of the PHES is expressed in number of standard deviations (SD) from a population matched on age and level of education. A threshold (- 4DS) defines the EHM according to current recommendations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the neurologic assessment in patients diagnosed with MHE after 6 months of treatment by the animal naming test (ANT)</measure>
+    <time_frame>Month 7</time_frame>
+    <description>The animal naming test (ANT) is an analysis of semantic fluency consisting of saying as many animal names as possible within one minute. The French recommendations developed by the French Association for The Liver Study (AFEF) suggests a limit of 20 animal names in 1 min. Below, the existence of MHE is likely.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Cirrhosis</condition>
+  <condition>Portal Hypertension</condition>
+  <arm_group>
+    <arm_group_label>Patients with compensated cirrhosis and portal hypertension</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Assessment of Minimal hepatic encephalopathy (MHE)</intervention_name>
+    <description>Assessment of MHE at the inclusion and 6 months after treatment if diagnosed with MHE: Serum ammonia analysis, psychometric hepatic encephalopathy score (PHES), animal naming test (ANT) and evaluation of abdominal imaging, liver and splenic transient elastography, gastroscopy</description>
+    <arm_group_label>Patients with compensated cirrhosis and portal hypertension</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient with cirrhosis and portal hypertension older than 18 old&#xD;
+&#xD;
+          -  Patient who underwent a CT scan or MRI in the last 3 months&#xD;
+&#xD;
+          -  The Mini-Mental State (MMS) test &gt;25.&#xD;
+&#xD;
+          -  Patient capable of receiving and understanding information relating to the study and&#xD;
+             of giving his written informed consent.&#xD;
+&#xD;
+          -  Patient affiliated to the French social security system&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cirrhotic patient with overt HE or history of persistent or recurrent HE.&#xD;
+&#xD;
+          -  Hepatocellular carcinoma beyond Milan criteria.&#xD;
+&#xD;
+          -  Portal vein thrombosis.&#xD;
+&#xD;
+          -  Previous transjugular intrahepatic portosystemic shunt (TIPS) or surgical shunt.&#xD;
+&#xD;
+          -  Presence of neurological or psychiatric disorder.&#xD;
+&#xD;
+          -  Patient with treatment by benzodiazepines or opioid substitution.&#xD;
+&#xD;
+          -  Pregnant or nursing women&#xD;
+&#xD;
+          -  Patient in exclusion period of a previous study&#xD;
+&#xD;
+          -  Patient under guardianship, trusteeship or the protection of justice or incapable of&#xD;
+             giving their own informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Simona TRIPON, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Service d'Hépato-Gastroentérologie, NHC, Strasbourg</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Armelle TAKEDA, PhD</last_name>
+    <phone>+33 390413608</phone>
+    <email>armelle.takeda@ihu-strasbourg.eu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Service d'Hépato-Gastroentérologie, Hôpitaux Civils</name>
+      <address>
+        <city>Colmar</city>
+        <zip>68024</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Izabelle-Ana AMARITEI, MD</last_name>
+      <email>izabelle-ana.amaritei@ch-colmar.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Service d'Hépato-gastroentérologie, NHC</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Simona TRIPON, MD, PhD</last_name>
+      <email>simona.tripon@chru-strasbourg.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cirrhosis</keyword>
+  <keyword>portal hypertension</keyword>
+  <keyword>minimal hepatic encephalopathy</keyword>
+  <keyword>spontaneous portosystemic shunts</keyword>
+  <keyword>sarcopenia</keyword>
+  <keyword>myosteatosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Cirrhosis</mesh_term>
+    <mesh_term>Hepatic Encephalopathy</mesh_term>
+    <mesh_term>Hypertension, Portal</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

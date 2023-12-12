@@ -1,0 +1,2731 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01086540</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DAIT ASC01</org_study_id>
+    <nct_id>NCT01086540</nct_id>
+  </id_info>
+  <brief_title>Rituximab for Treatment of Systemic Sclerosis-Associated Pulmonary Arterial Hypertension (SSc-PAH)</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Phase II Multicenter Trial of a Monoclonal Antibody to CD20 (Rituximab) for the Treatment of Systemic Sclerosis-Associated Pulmonary Arterial Hypertension (SSc-PAH)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Autoimmunity Centers of Excellence</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rho Federal Systems Division, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Systemic sclerosis-associated pulmonary arterial hypertension (SSc-PAH) is a serious,&#xD;
+      life-threatening manifestation of systemic sclerosis (SSc), an autoimmune disease of the&#xD;
+      connective tissue characterized by scarring (fibrosis) and atrophy of the skin, joints and&#xD;
+      tendons, skeletal muscles, and internal organs, and immunological disturbances. One-year&#xD;
+      survival for patients with SSc-PAH ranges from 50-81%. There is currently no cure for SSc-PAH&#xD;
+      and treatment is limited to vasodilator therapy used in all forms of PAH. In recent studies,&#xD;
+      immunotherapy was shown to be effective in treating SSc-interstitial lung disease, another&#xD;
+      serious, life-threatening manifestation of SSc. In addition, there are compelling&#xD;
+      pre-clinical data and anecdotal clinical reports that suggest modulation of the immune system&#xD;
+      may be an effective strategy for treating SSc-PAH. To test this approach, this trial will&#xD;
+      determine if rituximab, an immunotherapy, has a marked beneficial effect on clinical disease&#xD;
+      progression, with minimal toxicity, in patients with SSc-PAH when compared to placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This prospective, double-blind, placebo-controlled, multi-center, randomized trial will&#xD;
+      evaluate the effect of rituximab on disease progression in subjects with SSc-PAH receiving&#xD;
+      concurrent stable-dose standard medical therapy with a prostanoid, endothelin receptor&#xD;
+      antagonist, and/or phosphodiesterase 5 (PDE-5) inhibitor. The study will focus on assessment&#xD;
+      of clinical response and safety measures longitudinally. In addition, the effects of&#xD;
+      treatment with rituximab on the underlying immune mechanisms associated with B-cell&#xD;
+      dysregulation and pathogenic autoantibody response in this disease will be investigated. 1000&#xD;
+      mg of rituximab or placebo will be administered as two IV infusions given two weeks apart.&#xD;
+      Clinical assessments and sample collection will occur at monthly visits through Week 48. If a&#xD;
+      participant has not recovered B cells by Week 48, B cell studies will be conducted quarterly&#xD;
+      until reconstitution is documented or for 2 years after initial treatment.&#xD;
+&#xD;
+      This trial will include a sub-study, entitled &quot;Right Ventricular Response to Rituximab in&#xD;
+      Systemic Sclerosis-Associated Pulmonary Arterial Hypertension - A Magnetic Resonance Imaging&#xD;
+      Sub-study&quot; (RESTORE Sub-study). The objective of the RESTORE sub-study is to evaluate the&#xD;
+      therapeutic effect of rituximab on the right ventricle of patients with SSc-PAH. Changes in&#xD;
+      right ventricular end diastolic volume index (RVEDVI) and stroke volume (SV) determined by&#xD;
+      cardiac MRI will be used as surrogates of right ventricle function and prognosis. Enrollment&#xD;
+      for the RESTORE sub-study will parallel that of main trial. Twenty patients from each&#xD;
+      treatment arm, distributed among all participating sites, will be recruited for this&#xD;
+      sub-study. Each patient will be studied at baseline (i.e. prior to initiation of study drug)&#xD;
+      and after 24 weeks or at time of discontinuation. In addition to the data collection and&#xD;
+      testing specified in the main trial, participants in RESTORE will undergo comprehensive&#xD;
+      cardiac MRI evaluation. All main trial study inclusion and exclusion criteria apply, as well&#xD;
+      as additional exclusion criteria that pertain only to the RESTORE sub-study: 1) known&#xD;
+      hypersensitivity to Gadolinium; 2) inability to tolerate or cooperate with MRI; 3) morbid&#xD;
+      obesity; and 4) presence of metallic objects or pacemakers.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 24, 2011</start_date>
+  <completion_date type="Actual">December 15, 2019</completion_date>
+  <primary_completion_date type="Actual">June 5, 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in Distance Walked During a Six Minute Walk Test</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 24</time_frame>
+    <description>The six minute walk test measures the distance a participant is able to walk over a total of six minutes on a hard, flat surface. The goal is for the participant to walk as far as possible in six minutes. The participant is allowed to self-pace and rest as needed as they traverse back and forth along a marked walkway. The total distance walked, in meters, was recorded for each participant. Longer distances indicate better outcomes.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Pulmonary Vascular Resistance Measured by Right Heart Catheterization at Week 24</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 24</time_frame>
+    <description>During a right heart catheterization, a catheter is guided to the right side of the heart and then into the pulmonary artery; blood flow through the heart is observed and is used to measure pressures in a participant's heart and lungs. The calculation of Pulmonary Vascular Resistance (PVR) is measured in Woods Units. Change is derived by measuring the difference between Baseline and Week 24 PVR (Week 24 minus Baseline). Higher PVR values indicate worse disease status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Distance Walked During a Six Minute Walk Test at Week 24 and Week 48</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+    <description>The six minute walk test measures the distance a participant is able to walk over a total of six minutes on a hard, flat surface. The goal is for the participant to walk as far as possible in six minutes. The participant is allowed to self-pace and rest as needed as they traverse back and forth along a marked walkway. The total distance walked, in meters, was recorded for each participant. Longer distances indicate better outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Worsening</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 48</time_frame>
+    <description>Assessment of time to clinical worsening, censored at Week 48, defined as the first occurrence of any of the following:&#xD;
+death,&#xD;
+hospitalization for Systemic Sclerosis-Associated Pulmonary Arterial Hypertension (SSc-PAH),&#xD;
+lung transplantation,&#xD;
+atrial septostomy,&#xD;
+addition of other Pulmonary Arterial Hypertension (PAH) therapeutic agents, or&#xD;
+worsening of the six minute walk distance by &gt; 20% and an increase in New York Heart Association functional class.&#xD;
+Time to clinical worsening was defined as the first date that met any of the above criteria and was calculated in study days as: date of first event minus (-) date of treatment randomization. If a participant did not experience any of the referenced events by Week 48 or, if the date of death was after the 48 week follow-up period, time to clinical worsening was equal to the participant's duration of follow-up in the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to the Change or Addition of New Pulmonary Arterial Hypertension (PAH) Therapeutic Medications</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 48</time_frame>
+    <description>Per protocol, from the time of study entry, participants were to remain on background PAH medical therapy with either a single agent or a combination of prostanoid, endothelin receptor antagonist, PDE-5 inhibitor, and/or guanylate cyclase stimulators as per the entry criteria. Doses should have remained stable through the Week 24 primary outcome/endpoint visit. If a dose of a background PAH medication was changed or a new PAH medication was added during the course of the trial, the date of the first dose change or additional medication was recorded. Time to the addition or modification of PAH medications was defined in study days as: date of the first time a PAH medication was modified or added minus (-) date of randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Quality of Life as Measured by the Short Form Health Survey (SF-36): Mental Component Summary Score</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+    <description>The SF-36 measures health-related quality of life. It has 36 items and 2 component scores, the Physical Component Score and the Mental Component Score. The SF-36 Mental Health component summary score is comprised of the Vitality Scale, the Social Functioning Scale, the Role-Emotional Scale, and the Mental Health Scale. It is scaled from 0 to 100 with a score of 0 equivalent to maximum disability and a score of 100 is equivalent to no disability. A negative value indicates a decrease in quality of life from Baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Quality of Life as Measured by the Short Form Health Survey (SF-36): Physical Component Summary Score</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 48</time_frame>
+    <description>The SF-36 measures health-related quality of life. It has 36 items and 2 component scores, the Physical Component Score and the Mental Component Score. The SF-36 Physical component summary score is comprised of the Physical Functioning Scale, the Role-Physical Scale, the Bodily Pain Scale, and the General Health Scale. It is scaled from 0 to 100 with a score of 0 equivalent to maximum disability and a score of 100 is equivalent to no disability. A negative value indicates a decrease in quality of life from Baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Quality of Life as Measured by the Disability Index of the Scleroderma Health Assessment Questionnaire (HAQ-DI)</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+    <description>The HAQ-DI is a self-reported questionnaire of functionality that includes questions in 8 domains (dressing/grooming, arising, eating, walking, hygiene, reach, grip, and activities) and addresses scleroderma related manifestations that contribute to disability. The final score ranges from 0 to 3, where a higher HAQ-DI score indicates a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of New Digital Ulcers</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+    <description>The total number of digital ulcers present on the dorsal and palmar surfaces for both the left and right fingers were captured at the Baseline study visit. The number of new digital ulcers since the last study visit (including any ulcers that had appeared and healed since the last study visit) on the dorsal and palmar surfaces for both the left and right fingers were captured at the post-Baseline study visits. The total number of digital ulcers on both hands was summed from the number present on the dorsal and palmar surfaces for both the left and right fingers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Severity of Raynaud's Phenomenon</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+    <description>Severity of Raynaud's phenomenon was measured by a Visual Analog Scale (VAS) of the Scleroderma Health Assessment Questionnaire (SHAQ). The SHAQ VAS includes a question asking, &quot;In the past week, how much has your Raynaud's Phenomenon interfered with your activities?&quot; Participants were asked to place a mark on a 15 cm line, scaled from 0 (does not interfere) to 100 (very severe limitation), to describe the severity of their Raynaud's phenomenon in the past week. The distance from the left edge of the line to the vertical line placed by the participant was measured in centimeters; VAS scores were converted to a 0 to 100 scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Carbon Monoxide Diffusing Capacity (DLCO)</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+    <description>Carbon Monoxide Diffusing Capacity (DLCO) is a measure of lung function. Predicted values for DLCO were computed according to the Global Lung Function Initiative (GLI) all-age reference values and corrected for hemoglobin. Lower DLCO values indicate worse disease activity.&#xD;
+DLCO (Diffusing Capacity of the Lungs for Carbon Monoxide)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen Saturation Levels at Week 24 and Week 48</measure>
+    <time_frame>Week 24 , Week 48</time_frame>
+    <description>Oxygen saturation is the amount of oxygen that is in your bloodstream and is measured as the percentage of blood hemoglobin that is carrying oxygen. Normal oxygen saturation levels are considered to be 95-100 percent; low oxygen saturation values indicate worse disease. Room air oxygen saturation by pulse oximetry and/or amount of supplemental oxygen used, if saturation &lt;90%, were recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent Change From Baseline in Pulmonary Vascular Resistance Measured by Right Heart Catheterization</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 24</time_frame>
+    <description>During a right heart catheterization, a catheter is guided to the right side of the heart and then into the pulmonary artery; blood flow through the heart is observed and is used to measure pressures in a participant's heart and lungs. Pulmonary vascular resistance (PVR) is measured in Woods Units. Higher PVR values indicate worse disease status.&#xD;
+Change in PVR is determined by Baseline value minus (-) Week 24 value.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Infusion-Related Toxicities</measure>
+    <time_frame>Day 0 (Treatment Randomization) to Week 48</time_frame>
+    <description>The number of Grade 3, 4, and 5 Adverse Events (AEs), which were defined as possibly, probably, or definitely related to rituximab or placebo infusion.&#xD;
+This study graded the severity of adverse events according to the National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 4.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Grade 3 or Higher Adverse Events (AEs) Through Week 48</measure>
+    <time_frame>Baseline (Pre Treatment Initiation) to Week 48</time_frame>
+    <description>Total number of Grade 3, 4, and 5 AEs. Ref: National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 4.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Infection-Related Adverse Events (AEs) Through Week 48</measure>
+    <time_frame>Day 0 (Treatment Randomization) to Week 48</time_frame>
+    <description>Number of adverse events classified as infections. Reference: National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 4.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-Related Mortality: From Treatment Initiation to Week 48</measure>
+    <time_frame>Day 0 (Treatment Randomization) to Week 48</time_frame>
+    <description>Death occurring after randomization and ≤ Week 48, and possibly, probably, or definitely resulting from assigned study treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-Cause Mortality: From Treatment Initiation to Week 48</measure>
+    <time_frame>Day 0 (Treatment Randomization) to Week 48</time_frame>
+    <description>Death from any cause occurring after randomization and ≤ Week 48.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-Cause Mortality: From Treatment Initiation to Week 104</measure>
+    <time_frame>Day 0 (Treatment Randomization) to Week 104</time_frame>
+    <description>Death from any cause occurring after randomization and ≤ Week 104.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">57</enrollment>
+  <condition>Systemic Sclerosis-Associated PAH</condition>
+  <arm_group>
+    <arm_group_label>Rituximab+PAH SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rituximab (1000 mg) will be administered as 2 intravenous infusions given 2 weeks apart.&#xD;
+Concurrent stable-dose Pulmonary Arterial Hypertension (PAH) medical therapy will be continued/managed as per standard of care (PAH SOC).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + PAH SOC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be administered as 2 intravenous infusions given 2 weeks apart.&#xD;
+Concurrent stable-dose Pulmonary Arterial Hypertension (PAH) medical therapy will be continued/managed as per standard of care (PAH SOC).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Participants receive rituximab intravenous (IV) infusions, 1000 mg each, 14 days apart (Day 0 and Week 2).&#xD;
+Rituximab is supplied as a sterile, clear, colorless, preservative-free liquid concentrate for intravenous (IV) administration in either 100 mg (10 mL) or 500 mg (50 mL) single-use vials, which must be diluted before administration&#xD;
+Standard rituximab pre-medications will be provided in preparation for the rituximab infusions.</description>
+    <arm_group_label>Rituximab+PAH SOC</arm_group_label>
+    <other_name>Rituxan®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants receive placebo intravenous (IV) infusions 14 days apart (Day 0 and Week 2).&#xD;
+Standard pre-medications will be provided in preparation for the infusions.</description>
+    <arm_group_label>Placebo + PAH SOC</arm_group_label>
+    <other_name>Placebo for rituximab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>CMRI</intervention_name>
+    <description>Up to 20 participants from each treatment arm will be assessed by CMRI at Baseline and at Week 24.</description>
+    <arm_group_label>Placebo + PAH SOC</arm_group_label>
+    <arm_group_label>Rituximab+PAH SOC</arm_group_label>
+    <other_name>cardiac MRI</other_name>
+    <other_name>cardiac Magnetic Resonance Imaging</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>prednisone</intervention_name>
+    <description>Prednisone dose of 40 mg (or equivalent) by mouth administered the night before and the morning of each study drug infusion.</description>
+    <arm_group_label>Placebo + PAH SOC</arm_group_label>
+    <arm_group_label>Rituximab+PAH SOC</arm_group_label>
+    <other_name>prednisone tablets</other_name>
+    <other_name>Rayos®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>methylprednisolone</intervention_name>
+    <description>Methylprednisolone (or equivalent corticosteroid) administered intravenously 30 minutes prior to each study drug infusion.</description>
+    <arm_group_label>Placebo + PAH SOC</arm_group_label>
+    <arm_group_label>Rituximab+PAH SOC</arm_group_label>
+    <other_name>corticosteroid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>diphenhydramine</intervention_name>
+    <description>Diphenhydramine 50 mg (or equivalent) administered by mouth approximately thirty to sixty minutes prior to each study drug infusion.&#xD;
+Dose may be repeated every four hours, as needed.</description>
+    <arm_group_label>Placebo + PAH SOC</arm_group_label>
+    <arm_group_label>Rituximab+PAH SOC</arm_group_label>
+    <other_name>Benadryl®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>acetaminophen</intervention_name>
+    <description>Acetaminophen 650 mg (or equivalent) administered by mouth approximately thirty to sixty minutes prior to each study drug infusion.&#xD;
+Dose may be repeated every four hours, as needed.</description>
+    <arm_group_label>Placebo + PAH SOC</arm_group_label>
+    <arm_group_label>Rituximab+PAH SOC</arm_group_label>
+    <other_name>Tylenol®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subject has provided written informed consent.&#xD;
+&#xD;
+          -  Clinical diagnosis of systemic sclerosis (either limited or diffuse cutaneous&#xD;
+             disease).&#xD;
+&#xD;
+          -  Diagnosis of SSc-PAH within the past 5 years, with a mean pulmonary arterial pressure&#xD;
+             of ≥ 25 mmHg at entry.&#xD;
+&#xD;
+          -  Mean Pulmonary Vascular Resistance (PVR) of &gt; 3 Wood units.&#xD;
+&#xD;
+          -  Screening 6-minute Walking Distance (6MWD) of at least 100 meters.&#xD;
+&#xD;
+          -  New York Heart Association (NYHA) Functional Class II, III, or IV.&#xD;
+&#xD;
+          -  Subject must be able to maintain O2 saturation ≥ 90% at rest (with or without oxygen);&#xD;
+&#xD;
+             --Oxygen use is permitted.&#xD;
+&#xD;
+          -  Subject must be vaccinated with the pneumococcal vaccine at least one month prior to&#xD;
+             initiation of therapy, unless subject was vaccinated within 5 years of study entry.&#xD;
+&#xD;
+          -  Subject must have been treated with background medical therapy for PAH (prostanoid,&#xD;
+             endothelin receptor antagonist, PDE-5 inhibitor, and/or guanylate cyclase stimulators)&#xD;
+             for a minimum of 8 weeks and have been on stable dose medical therapy for at least 4&#xD;
+             weeks prior to randomization with no expectation of change for 24 weeks after&#xD;
+             randomization.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Documented PAH for greater than 5 years at the time of randomization defined as:&#xD;
+&#xD;
+               -  Measurement of a mean Pulmonary Artery Pressure (PAP) &gt; 25 mmHg by right heart&#xD;
+                  catheterization at least 5 years previously, OR&#xD;
+&#xD;
+               -  Treatment with targeted background PAH therapy for &gt; 5 years.&#xD;
+&#xD;
+          -  Pulmonary Capillary Wedge Pressure &gt; 15 mmHg or Left Ventricular End Diastolic&#xD;
+             Pressure &gt; 15 mmHg.&#xD;
+&#xD;
+          -  Persistent hypotension with Systolic Blood Pressure (SBP) &lt; 90 mmHg.&#xD;
+&#xD;
+          -  Treatment with cyclophosphamide within 4 weeks of randomization.&#xD;
+&#xD;
+          -  Treatment with immunocompromising biologic agents within 4 weeks prior to treatment&#xD;
+             initiation or treatment with infliximab within 8 weeks prior to treatment initiation.&#xD;
+&#xD;
+          -  If being treated with a non-biologic immunosuppressive or immunomodulating drug,&#xD;
+             changes in dosage within 4 weeks prior to randomization. Subjects taking prednisone or&#xD;
+             equivalent corticosteroid &gt; 10mg daily are excluded.&#xD;
+&#xD;
+          -  Previous exposure to any lymphocyte or B cell depleting agent.&#xD;
+&#xD;
+          -  PAH for any reason other than SSc.&#xD;
+&#xD;
+          -  History of coronary artery disease, significant ventricular tachy-arrhythmia, stent&#xD;
+             placement, coronary artery bypass surgery, and/or myocardial infarction.&#xD;
+&#xD;
+          -  Moderate or severe interstitial lung disease.&#xD;
+&#xD;
+          -  Chronic infections.&#xD;
+&#xD;
+          -  Positive serology for infection with hepatitis B or C.&#xD;
+&#xD;
+          -  A deep space infection within the past 2 years.&#xD;
+&#xD;
+          -  Evidence of active infection within 2 weeks of randomization&#xD;
+&#xD;
+          -  Presence of a positive tuberculosis (TB) skin test (e.g., PPD test) or positive&#xD;
+             QuantiFERON®-TB blood test, an indeterminate QuantiFERON®-TB blood test, or latent&#xD;
+             tuberculosis (TB).&#xD;
+&#xD;
+          -  Significant renal insufficiency.&#xD;
+&#xD;
+          -  Active, untreated SSc renal crisis at the time of enrollment.&#xD;
+&#xD;
+          -  Recent administration of a live vaccine (&lt; 8 weeks) or any other immunization within 4&#xD;
+             weeks of treatment.&#xD;
+&#xD;
+          -  History of anaphylaxis or Immunoglobulin E (IgE) -mediated hypersensitivity to murine&#xD;
+             proteins or any component of rituximab.&#xD;
+&#xD;
+          -  Pregnancy.&#xD;
+&#xD;
+          -  Lactation.&#xD;
+&#xD;
+          -  History of malignancy within the last 5 years, except for resected basal or squamous&#xD;
+             cell carcinoma, treated cervical dysplasia, or treated in situ cervical cancer Grade&#xD;
+             I.&#xD;
+&#xD;
+          -  A woman of childbearing potential who is unwilling to use a medically acceptable form&#xD;
+             of birth control&#xD;
+&#xD;
+          -  History of non-compliance with other medical therapies.&#xD;
+&#xD;
+          -  History of alcohol or drug abuse within 1 year of randomization.&#xD;
+&#xD;
+          -  Receipt of any investigational drug or device within 4 weeks before the Screening&#xD;
+             Visit, with the exception of investigational prostanoids, endothelin receptor&#xD;
+             antagonists, and PDE-5 inhibitors, and guanylate cyclase stimulators.&#xD;
+&#xD;
+          -  Recipient of lung transplant.&#xD;
+&#xD;
+          -  Laboratory parameters at the screening visit showing any of the following abnormal&#xD;
+             results: Transaminases &gt; 2x the upper limit of normal (ULN) and/or bilirubin &gt; 2x ULN;&#xD;
+             Absolute neutrophil count &lt; 1,500/mm^3; Platelet count &lt; 100,000/mm^3; Hemoglobin &lt; 9&#xD;
+             g/dL.&#xD;
+&#xD;
+          -  Concurrent treatment in a clinical research study using a non-FDA approved agent with&#xD;
+             the exception of an open-label study/study extension of investigational prostanoids,&#xD;
+             endothelin receptor antagonists, and PDE-5 inhibitors, and guanylate cyclase&#xD;
+             stimulators, provided the open-label investigational drug will be available and dose&#xD;
+             will remain stable through the trial's primary outcome time point of 24 weeks after&#xD;
+             randomization in this study, ASC01 (NCT01086540).&#xD;
+&#xD;
+          -  Any condition or treatment, which in the opinion of the investigator, places the&#xD;
+             subject at unacceptable risk as a participant in the trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark Nicolls, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David B. Badesch, M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Colorado Health Sciences Center (Aurora, CO)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Thomas A. Medsger, Jr., M.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Lorinda Chung, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robyn Domsic, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Pittsburgh: Division of Rheumatology and Clinical Immunology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Aryeh Fischer, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>National Jewish Health: University of Colorado School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Roham Zamanian, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford Health Care</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Health Sciences Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University, Pulmonary and Critical Care Medicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston University Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota Health Clinics and Surgery Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester Medical Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill: UNC Hospitals</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15261</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center-William P. Clements University Hospital</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas: Memorial Herman Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.niaid.nih.gov</url>
+    <description>The National Institute of Allergy and Infectious Diseases (NIAID)</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/about/dait</url>
+    <description>The Division of Allergy, Immunology, and Transplantation (DAIT)</description>
+  </link>
+  <link>
+    <url>http://www.autoimmunitycenters.org/mission.php</url>
+    <description>Autoimmunity Centers of Excellence (ACE)</description>
+  </link>
+  <results_reference>
+    <citation>Zamanian RT, Badesch D, Chung L, Domsic RT, Medsger T, Pinckney A, Keyes-Elstein L, D'Aveta C, Spychala M, White RJ, Hassoun PM, Torres F, Sweatt AJ, Molitor JA, Khanna D, Maecker H, Welch B, Goldmuntz E, Nicolls MR; NIH ASC01 Study Group. Safety and Efficacy of B-Cell Depletion with Rituximab for the Treatment of Systemic Sclerosis Associated Pulmonary Arterial Hypertension: A Multi-center, Double-blind, Randomized, Placebo-controlled Trial. Am J Respir Crit Care Med. 2021 Mar 2. doi: 10.1164/rccm.202009-3481OC. [Epub ahead of print]</citation>
+    <PMID>33651671</PMID>
+  </results_reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 11, 2010</study_first_submitted>
+  <study_first_submitted_qc>March 11, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 15, 2010</study_first_posted>
+  <results_first_submitted>June 30, 2020</results_first_submitted>
+  <results_first_submitted_qc>August 11, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 21, 2020</results_first_posted>
+  <disposition_first_submitted>May 30, 2019</disposition_first_submitted>
+  <disposition_first_submitted_qc>May 30, 2019</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">June 5, 2019</disposition_first_posted>
+  <last_update_submitted>March 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pulmonary Arterial Hypertension (PAH)</keyword>
+  <keyword>Autoimmune Disease</keyword>
+  <keyword>Systemic Scleroderma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Scleroderma, Systemic</mesh_term>
+    <mesh_term>Scleroderma, Diffuse</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acetaminophen</mesh_term>
+    <mesh_term>Diphenhydramine</mesh_term>
+    <mesh_term>Promethazine</mesh_term>
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 8, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/40/NCT01086540/SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 24, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/40/NCT01086540/Prot_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Twenty-six study sites in the US were activated. Of these, 19 sites screened a total of 108 participants. Fifty-seven participants were randomized and study results summarized.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Rituximab</title>
+          <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="29"/>
+                <participants group_id="P2" count="28"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="23"/>
+                <participants group_id="P2" count="26"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Addition of new therapy for PAH</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>All randomized participants</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Rituximab</title>
+          <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="29"/>
+            <count group_id="B2" value="28"/>
+            <count group_id="B3" value="57"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="57.3" spread="8.9"/>
+                    <measurement group_id="B2" value="59.1" spread="9.4"/>
+                    <measurement group_id="B3" value="58.2" spread="9.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="52"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="52"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="48"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Six Minute Walk Test Distance (Meters)</title>
+          <description>The six minute walk test measures the distance a participant is able to walk over a total of six minutes on a hard, flat surface. The goal is for the participant to walk as far as possible in six minutes. The participant is allowed to self-pace and rest as needed as they traverse back and forth along a marked walkway. The total distance walked, in meters, was recorded for each participant. Longer distances indicate better outcomes.</description>
+          <units>Meters</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="338.7" spread="103.3"/>
+                    <measurement group_id="B2" value="323.4" spread="97.1"/>
+                    <measurement group_id="B3" value="331.2" spread="99.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Distance Walked During a Six Minute Walk Test</title>
+        <description>The six minute walk test measures the distance a participant is able to walk over a total of six minutes on a hard, flat surface. The goal is for the participant to walk as far as possible in six minutes. The participant is allowed to self-pace and rest as needed as they traverse back and forth along a marked walkway. The total distance walked, in meters, was recorded for each participant. Longer distances indicate better outcomes.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 24</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Distance Walked During a Six Minute Walk Test</title>
+          <description>The six minute walk test measures the distance a participant is able to walk over a total of six minutes on a hard, flat surface. The goal is for the participant to walk as far as possible in six minutes. The participant is allowed to self-pace and rest as needed as they traverse back and forth along a marked walkway. The total distance walked, in meters, was recorded for each participant. Longer distances indicate better outcomes.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Meters</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.6" spread="11.1"/>
+                    <measurement group_id="O2" value="0.5" spread="9.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The null hypothesis was that the mean change in 6MWD between baseline and Week 24 does not differ between rituximab and placebo. A repeated measures random effect model was fit to model the distance walked as a function of treatment, visit week, a treatment by visit week interaction, and a quadratic visit term. A random slope and intercept were fit for each participant using a separate unstructured covariance matrix for each treatment group. The model included all available data up to Week 24.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.12</p_value>
+            <method>Mixed Models Analysis</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>23.1</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>14.71</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Estimate is for the difference (Rituximab - Placebo) at Week 24.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Pulmonary Vascular Resistance Measured by Right Heart Catheterization at Week 24</title>
+        <description>During a right heart catheterization, a catheter is guided to the right side of the heart and then into the pulmonary artery; blood flow through the heart is observed and is used to measure pressures in a participant's heart and lungs. The calculation of Pulmonary Vascular Resistance (PVR) is measured in Woods Units. Change is derived by measuring the difference between Baseline and Week 24 PVR (Week 24 minus Baseline). Higher PVR values indicate worse disease status.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 24</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Pulmonary Vascular Resistance Measured by Right Heart Catheterization at Week 24</title>
+          <description>During a right heart catheterization, a catheter is guided to the right side of the heart and then into the pulmonary artery; blood flow through the heart is observed and is used to measure pressures in a participant's heart and lungs. The calculation of Pulmonary Vascular Resistance (PVR) is measured in Woods Units. Change is derived by measuring the difference between Baseline and Week 24 PVR (Week 24 minus Baseline). Higher PVR values indicate worse disease status.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Woods Units</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.5" spread="0.36"/>
+                    <measurement group_id="O2" value="0.1" spread="0.61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A repeated measures mixed model was fit with PVR as the outcome and treatment, visit week (actual observed week), and their interaction as predictors. Random intercepts and slopes were fit for each participant using an unstructured covariance structure for each treatment group.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.42</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-0.6</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.71</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Distance Walked During a Six Minute Walk Test at Week 24 and Week 48</title>
+        <description>The six minute walk test measures the distance a participant is able to walk over a total of six minutes on a hard, flat surface. The goal is for the participant to walk as far as possible in six minutes. The participant is allowed to self-pace and rest as needed as they traverse back and forth along a marked walkway. The total distance walked, in meters, was recorded for each participant. Longer distances indicate better outcomes.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Distance Walked During a Six Minute Walk Test at Week 24 and Week 48</title>
+          <description>The six minute walk test measures the distance a participant is able to walk over a total of six minutes on a hard, flat surface. The goal is for the participant to walk as far as possible in six minutes. The participant is allowed to self-pace and rest as needed as they traverse back and forth along a marked walkway. The total distance walked, in meters, was recorded for each participant. Longer distances indicate better outcomes.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Meters</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Change from Baseline to Week 24</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.5" spread="8.8"/>
+                    <measurement group_id="O2" value="0.4" spread="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline to Week 48</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.5" spread="12.4"/>
+                    <measurement group_id="O2" value="-7.0" spread="8.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A repeated measures random effect model was fit to model the distance walked as a function of treatment, visit week, a treatment by visit week interaction, and a quadratic visit term. A random slope and intercept were fit for each participant using a separate unstructured covariance matrix for each treatment group. The model included all available data up to Week 48.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.28</p_value>
+            <p_value_desc>Week 48 value. P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>16.4</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>15.1</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Estimate is for the difference (Rituximab - Placebo) at Week 48.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A repeated measures random effect model was fit to model the distance walked as a function of treatment, visit week, a treatment by visit week interaction, and a quadratic visit term. A random slope and intercept were fit for each participant using a separate unstructured covariance matrix for each treatment group. The model included all available data up to Week 48.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.031</p_value>
+            <p_value_desc>Week 24 value. P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>25.1</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>11.5</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Estimate is for the difference (Rituximab - Placebo) at Week 24.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Clinical Worsening</title>
+        <description>Assessment of time to clinical worsening, censored at Week 48, defined as the first occurrence of any of the following:&#xD;
+death,&#xD;
+hospitalization for Systemic Sclerosis-Associated Pulmonary Arterial Hypertension (SSc-PAH),&#xD;
+lung transplantation,&#xD;
+atrial septostomy,&#xD;
+addition of other Pulmonary Arterial Hypertension (PAH) therapeutic agents, or&#xD;
+worsening of the six minute walk distance by &gt; 20% and an increase in New York Heart Association functional class.&#xD;
+Time to clinical worsening was defined as the first date that met any of the above criteria and was calculated in study days as: date of first event minus (-) date of treatment randomization. If a participant did not experience any of the referenced events by Week 48 or, if the date of death was after the 48 week follow-up period, time to clinical worsening was equal to the participant's duration of follow-up in the study.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Clinical Worsening</title>
+          <description>Assessment of time to clinical worsening, censored at Week 48, defined as the first occurrence of any of the following:&#xD;
+death,&#xD;
+hospitalization for Systemic Sclerosis-Associated Pulmonary Arterial Hypertension (SSc-PAH),&#xD;
+lung transplantation,&#xD;
+atrial septostomy,&#xD;
+addition of other Pulmonary Arterial Hypertension (PAH) therapeutic agents, or&#xD;
+worsening of the six minute walk distance by &gt; 20% and an increase in New York Heart Association functional class.&#xD;
+Time to clinical worsening was defined as the first date that met any of the above criteria and was calculated in study days as: date of first event minus (-) date of treatment randomization. If a participant did not experience any of the referenced events by Week 48 or, if the date of death was after the 48 week follow-up period, time to clinical worsening was equal to the participant's duration of follow-up in the study.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Weeks</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.2" spread="14.2"/>
+                    <measurement group_id="O2" value="26.2" spread="4.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Kaplan-Meier curves for time to clinical worsening were compared using a log-rank test.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.92</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to the Change or Addition of New Pulmonary Arterial Hypertension (PAH) Therapeutic Medications</title>
+        <description>Per protocol, from the time of study entry, participants were to remain on background PAH medical therapy with either a single agent or a combination of prostanoid, endothelin receptor antagonist, PDE-5 inhibitor, and/or guanylate cyclase stimulators as per the entry criteria. Doses should have remained stable through the Week 24 primary outcome/endpoint visit. If a dose of a background PAH medication was changed or a new PAH medication was added during the course of the trial, the date of the first dose change or additional medication was recorded. Time to the addition or modification of PAH medications was defined in study days as: date of the first time a PAH medication was modified or added minus (-) date of randomization.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were be included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to the Change or Addition of New Pulmonary Arterial Hypertension (PAH) Therapeutic Medications</title>
+          <description>Per protocol, from the time of study entry, participants were to remain on background PAH medical therapy with either a single agent or a combination of prostanoid, endothelin receptor antagonist, PDE-5 inhibitor, and/or guanylate cyclase stimulators as per the entry criteria. Doses should have remained stable through the Week 24 primary outcome/endpoint visit. If a dose of a background PAH medication was changed or a new PAH medication was added during the course of the trial, the date of the first dose change or additional medication was recorded. Time to the addition or modification of PAH medications was defined in study days as: date of the first time a PAH medication was modified or added minus (-) date of randomization.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were be included in the ITT population in the groups to which they were randomized.</population>
+          <units>Weeks</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.2" spread="14.4"/>
+                    <measurement group_id="O2" value="26.7" spread="3.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Kaplan-Meier curves for time to change or addition of PAH medications were compared using a log-rank test.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.36</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Quality of Life as Measured by the Short Form Health Survey (SF-36): Mental Component Summary Score</title>
+        <description>The SF-36 measures health-related quality of life. It has 36 items and 2 component scores, the Physical Component Score and the Mental Component Score. The SF-36 Mental Health component summary score is comprised of the Vitality Scale, the Social Functioning Scale, the Role-Emotional Scale, and the Mental Health Scale. It is scaled from 0 to 100 with a score of 0 equivalent to maximum disability and a score of 100 is equivalent to no disability. A negative value indicates a decrease in quality of life from Baseline.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Quality of Life as Measured by the Short Form Health Survey (SF-36): Mental Component Summary Score</title>
+          <description>The SF-36 measures health-related quality of life. It has 36 items and 2 component scores, the Physical Component Score and the Mental Component Score. The SF-36 Mental Health component summary score is comprised of the Vitality Scale, the Social Functioning Scale, the Role-Emotional Scale, and the Mental Health Scale. It is scaled from 0 to 100 with a score of 0 equivalent to maximum disability and a score of 100 is equivalent to no disability. A negative value indicates a decrease in quality of life from Baseline.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Units on a Scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Change from Baseline to Week 24</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.1" spread="0.9"/>
+                    <measurement group_id="O2" value="0.4" spread="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline to Week 48</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.2" spread="1.8"/>
+                    <measurement group_id="O2" value="0.9" spread="1.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A repeated measures random effect model was fit with the mental component score as the outcome, and treatment, visit week (actual observed week), and their interaction as predictors. Random intercepts and slopes were fit for each participant using an unstructured covariance structure for each treatment group.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.81</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-0.6</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>2.7</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Estimate is for the difference (Rituximab - Placebo) at Week 48.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Quality of Life as Measured by the Short Form Health Survey (SF-36): Physical Component Summary Score</title>
+        <description>The SF-36 measures health-related quality of life. It has 36 items and 2 component scores, the Physical Component Score and the Mental Component Score. The SF-36 Physical component summary score is comprised of the Physical Functioning Scale, the Role-Physical Scale, the Bodily Pain Scale, and the General Health Scale. It is scaled from 0 to 100 with a score of 0 equivalent to maximum disability and a score of 100 is equivalent to no disability. A negative value indicates a decrease in quality of life from Baseline.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Quality of Life as Measured by the Short Form Health Survey (SF-36): Physical Component Summary Score</title>
+          <description>The SF-36 measures health-related quality of life. It has 36 items and 2 component scores, the Physical Component Score and the Mental Component Score. The SF-36 Physical component summary score is comprised of the Physical Functioning Scale, the Role-Physical Scale, the Bodily Pain Scale, and the General Health Scale. It is scaled from 0 to 100 with a score of 0 equivalent to maximum disability and a score of 100 is equivalent to no disability. A negative value indicates a decrease in quality of life from Baseline.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Units on a Scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Change from Baseline to Week 24</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.6" spread="0.8"/>
+                    <measurement group_id="O2" value="1.7" spread="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline to Week 48</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.3" spread="1.5"/>
+                    <measurement group_id="O2" value="3.5" spread="1.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A repeated measures random effect model was fit with the physical component score as the outcome, and treatment, visit week (actual observed week), and their interaction as predictors. Random intercepts and slopes were fit for each participant using an unstructured covariance structure for each treatment group.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.30</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-2.2</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>2.1</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Estimate is for the difference (Rituximab - Placebo) at Week 48.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Quality of Life as Measured by the Disability Index of the Scleroderma Health Assessment Questionnaire (HAQ-DI)</title>
+        <description>The HAQ-DI is a self-reported questionnaire of functionality that includes questions in 8 domains (dressing/grooming, arising, eating, walking, hygiene, reach, grip, and activities) and addresses scleroderma related manifestations that contribute to disability. The final score ranges from 0 to 3, where a higher HAQ-DI score indicates a worse outcome.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Quality of Life as Measured by the Disability Index of the Scleroderma Health Assessment Questionnaire (HAQ-DI)</title>
+          <description>The HAQ-DI is a self-reported questionnaire of functionality that includes questions in 8 domains (dressing/grooming, arising, eating, walking, hygiene, reach, grip, and activities) and addresses scleroderma related manifestations that contribute to disability. The final score ranges from 0 to 3, where a higher HAQ-DI score indicates a worse outcome.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Units on a Scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Change from Baseline to Week 24</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" spread="0.05"/>
+                    <measurement group_id="O2" value="0.0" spread="0.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline to Week 48</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" spread="0.09"/>
+                    <measurement group_id="O2" value="0.0" spread="0.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A repeated measures random effect model was fit with HAQ-DI as the outcome, and treatment, visit week (actual observed week), and their interaction as predictors. Random intercepts and slopes were fit for each participant using an unstructured covariance structure for each treatment group.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.58</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-0.1</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.11</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Estimate is for the difference (Rituximab - Placebo) at Week 48.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of New Digital Ulcers</title>
+        <description>The total number of digital ulcers present on the dorsal and palmar surfaces for both the left and right fingers were captured at the Baseline study visit. The number of new digital ulcers since the last study visit (including any ulcers that had appeared and healed since the last study visit) on the dorsal and palmar surfaces for both the left and right fingers were captured at the post-Baseline study visits. The total number of digital ulcers on both hands was summed from the number present on the dorsal and palmar surfaces for both the left and right fingers.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of New Digital Ulcers</title>
+          <description>The total number of digital ulcers present on the dorsal and palmar surfaces for both the left and right fingers were captured at the Baseline study visit. The number of new digital ulcers since the last study visit (including any ulcers that had appeared and healed since the last study visit) on the dorsal and palmar surfaces for both the left and right fingers were captured at the post-Baseline study visits. The total number of digital ulcers on both hands was summed from the number present on the dorsal and palmar surfaces for both the left and right fingers.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>New Ulcers</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Total Ulcer Count at Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.6" spread="2.04"/>
+                    <measurement group_id="O2" value="0.4" spread="1.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>New Ulcers at Week 24</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" spread="0.00"/>
+                    <measurement group_id="O2" value="0.1" spread="0.59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>New Ulcers at Week 48</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.1" spread="0.29"/>
+                    <measurement group_id="O2" value="0.2" spread="0.63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A Poisson model was used to describe the rate of new digital ulcers (per week) as the outcome with treatment, number of digital ulcers at Baseline, and if the measurement was affected by changed or new PAH therapeutic agents as covariates.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.47</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Regression, Linear</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Severity of Raynaud's Phenomenon</title>
+        <description>Severity of Raynaud's phenomenon was measured by a Visual Analog Scale (VAS) of the Scleroderma Health Assessment Questionnaire (SHAQ). The SHAQ VAS includes a question asking, &quot;In the past week, how much has your Raynaud's Phenomenon interfered with your activities?&quot; Participants were asked to place a mark on a 15 cm line, scaled from 0 (does not interfere) to 100 (very severe limitation), to describe the severity of their Raynaud's phenomenon in the past week. The distance from the left edge of the line to the vertical line placed by the participant was measured in centimeters; VAS scores were converted to a 0 to 100 scale.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Severity of Raynaud's Phenomenon</title>
+          <description>Severity of Raynaud's phenomenon was measured by a Visual Analog Scale (VAS) of the Scleroderma Health Assessment Questionnaire (SHAQ). The SHAQ VAS includes a question asking, &quot;In the past week, how much has your Raynaud's Phenomenon interfered with your activities?&quot; Participants were asked to place a mark on a 15 cm line, scaled from 0 (does not interfere) to 100 (very severe limitation), to describe the severity of their Raynaud's phenomenon in the past week. The distance from the left edge of the line to the vertical line placed by the participant was measured in centimeters; VAS scores were converted to a 0 to 100 scale.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Score on a Scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Change from Baseline to Week 24</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.2" spread="1.8"/>
+                    <measurement group_id="O2" value="0.1" spread="2.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline to Week 48</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-4.4" spread="3.6"/>
+                    <measurement group_id="O2" value="0.1" spread="4.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A repeated measures random effect model was fit with severity of Raynaud's (0 to 100) as the outcome, and treatment, visit week (actual observed week), and their interaction as predictors. Random intercepts and slopes were fit for each participant using an unstructured covariance structure for each treatment group.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.43</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-4.6</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>5.7</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Estimate is for the difference (Rituximab - Placebo) at Week 48.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Carbon Monoxide Diffusing Capacity (DLCO)</title>
+        <description>Carbon Monoxide Diffusing Capacity (DLCO) is a measure of lung function. Predicted values for DLCO were computed according to the Global Lung Function Initiative (GLI) all-age reference values and corrected for hemoglobin. Lower DLCO values indicate worse disease activity.&#xD;
+DLCO (Diffusing Capacity of the Lungs for Carbon Monoxide)</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 24 and Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Carbon Monoxide Diffusing Capacity (DLCO)</title>
+          <description>Carbon Monoxide Diffusing Capacity (DLCO) is a measure of lung function. Predicted values for DLCO were computed according to the Global Lung Function Initiative (GLI) all-age reference values and corrected for hemoglobin. Lower DLCO values indicate worse disease activity.&#xD;
+DLCO (Diffusing Capacity of the Lungs for Carbon Monoxide)</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated therapy. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Percent Predicted Value</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Change from Baseline to Week 24</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.3" spread="1.03"/>
+                    <measurement group_id="O2" value="0.4" spread="0.95"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Change from Baseline to Week 48</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.5" spread="2.06"/>
+                    <measurement group_id="O2" value="0.7" spread="1.89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A repeated measures random effect model was fit with DLCO as the outcome, and treatment, visit week (actual observed week), and their interaction as predictors. Random intercepts and slopes were fit for each participant using an unstructured covariance structure for each treatment group.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.65</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-1.3</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>2.8</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>Estimate is for the difference (Rituximab - Placebo) at Week 48.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Oxygen Saturation Levels at Week 24 and Week 48</title>
+        <description>Oxygen saturation is the amount of oxygen that is in your bloodstream and is measured as the percentage of blood hemoglobin that is carrying oxygen. Normal oxygen saturation levels are considered to be 95-100 percent; low oxygen saturation values indicate worse disease. Room air oxygen saturation by pulse oximetry and/or amount of supplemental oxygen used, if saturation &lt;90%, were recorded.</description>
+        <time_frame>Week 24 , Week 48</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated treatment. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Oxygen Saturation Levels at Week 24 and Week 48</title>
+          <description>Oxygen saturation is the amount of oxygen that is in your bloodstream and is measured as the percentage of blood hemoglobin that is carrying oxygen. Normal oxygen saturation levels are considered to be 95-100 percent; low oxygen saturation values indicate worse disease. Room air oxygen saturation by pulse oximetry and/or amount of supplemental oxygen used, if saturation &lt;90%, were recorded.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated treatment. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Percent Oxygen Saturation</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>O2 Sat Level: Week 24</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96.5" spread="3.4"/>
+                    <measurement group_id="O2" value="96.1" spread="3.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>O2 Sat Level: Week 48</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.7" spread="2.5"/>
+                    <measurement group_id="O2" value="96.2" spread="4.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percent Change From Baseline in Pulmonary Vascular Resistance Measured by Right Heart Catheterization</title>
+        <description>During a right heart catheterization, a catheter is guided to the right side of the heart and then into the pulmonary artery; blood flow through the heart is observed and is used to measure pressures in a participant's heart and lungs. Pulmonary vascular resistance (PVR) is measured in Woods Units. Higher PVR values indicate worse disease status.&#xD;
+Change in PVR is determined by Baseline value minus (-) Week 24 value.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 24</time_frame>
+        <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated treatment. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percent Change From Baseline in Pulmonary Vascular Resistance Measured by Right Heart Catheterization</title>
+          <description>During a right heart catheterization, a catheter is guided to the right side of the heart and then into the pulmonary artery; blood flow through the heart is observed and is used to measure pressures in a participant's heart and lungs. Pulmonary vascular resistance (PVR) is measured in Woods Units. Higher PVR values indicate worse disease status.&#xD;
+Change in PVR is determined by Baseline value minus (-) Week 24 value.</description>
+          <population>The Modified Intent-to-Treat (ITT) population included all randomized participants who met entry criteria and initiated treatment. Participants who, for whatever reason, did not complete their assigned therapy were included in the ITT population in the groups to which they were randomized.</population>
+          <units>Percent Change</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="27"/>
+                <count group_id="O2" value="27"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-4.6" spread="5.5"/>
+                    <measurement group_id="O2" value="3.2" spread="7.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A repeated measures mixed model was fit with percent change in PVR as the outcome and baseline PVR, treatment, visit week (actual observed week), and their interaction as predictors. Random intercepts and slopes were fit for each participant using an unstructured covariance structure for each treatment group.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.42</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-7.9</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>9.7</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Infusion-Related Toxicities</title>
+        <description>The number of Grade 3, 4, and 5 Adverse Events (AEs), which were defined as possibly, probably, or definitely related to rituximab or placebo infusion.&#xD;
+This study graded the severity of adverse events according to the National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 4.0.</description>
+        <time_frame>Day 0 (Treatment Randomization) to Week 48</time_frame>
+        <population>The Safety population included all participants for whom study treatment was initiated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Infusion-Related Toxicities</title>
+          <description>The number of Grade 3, 4, and 5 Adverse Events (AEs), which were defined as possibly, probably, or definitely related to rituximab or placebo infusion.&#xD;
+This study graded the severity of adverse events according to the National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 4.0.</description>
+          <population>The Safety population included all participants for whom study treatment was initiated.</population>
+          <units>Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Grade 3 AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 4 AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 5 AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Grade 3 or Higher Adverse Events (AEs) Through Week 48</title>
+        <description>Total number of Grade 3, 4, and 5 AEs. Ref: National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 4.0.</description>
+        <time_frame>Baseline (Pre Treatment Initiation) to Week 48</time_frame>
+        <population>The Safety population included all participants for whom study treatment was initiated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Grade 3 or Higher Adverse Events (AEs) Through Week 48</title>
+          <description>Total number of Grade 3, 4, and 5 AEs. Ref: National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 4.0.</description>
+          <population>The Safety population included all participants for whom study treatment was initiated.</population>
+          <units>Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Grade 3 AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28"/>
+                    <measurement group_id="O2" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 4 AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 5 AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Infection-Related Adverse Events (AEs) Through Week 48</title>
+        <description>Number of adverse events classified as infections. Reference: National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 4.0.</description>
+        <time_frame>Day 0 (Treatment Randomization) to Week 48</time_frame>
+        <population>The Safety population included all participants for whom study treatment was initiated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Infection-Related Adverse Events (AEs) Through Week 48</title>
+          <description>Number of adverse events classified as infections. Reference: National Cancer Institute's Common Terminology Criteria for Adverse Events (NCI-CTCAE), Version 4.0.</description>
+          <population>The Safety population included all participants for whom study treatment was initiated.</population>
+          <units>Events</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="48"/>
+                    <measurement group_id="O2" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Treatment-Related Mortality: From Treatment Initiation to Week 48</title>
+        <description>Death occurring after randomization and ≤ Week 48, and possibly, probably, or definitely resulting from assigned study treatment.</description>
+        <time_frame>Day 0 (Treatment Randomization) to Week 48</time_frame>
+        <population>The Safety population included all participants for whom study treatment was initiated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Treatment-Related Mortality: From Treatment Initiation to Week 48</title>
+          <description>Death occurring after randomization and ≤ Week 48, and possibly, probably, or definitely resulting from assigned study treatment.</description>
+          <population>The Safety population included all participants for whom study treatment was initiated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>All-Cause Mortality: From Treatment Initiation to Week 48</title>
+        <description>Death from any cause occurring after randomization and ≤ Week 48.</description>
+        <time_frame>Day 0 (Treatment Randomization) to Week 48</time_frame>
+        <population>The Safety population included all participants for whom study treatment was initiated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>All-Cause Mortality: From Treatment Initiation to Week 48</title>
+          <description>Death from any cause occurring after randomization and ≤ Week 48.</description>
+          <population>The Safety population included all participants for whom study treatment was initiated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Kaplan-Meier curves for time to all-cause mortality were compared using a log-rank test.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.17</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>All-Cause Mortality: From Treatment Initiation to Week 104</title>
+        <description>Death from any cause occurring after randomization and ≤ Week 104.</description>
+        <time_frame>Day 0 (Treatment Randomization) to Week 104</time_frame>
+        <population>The Safety population included all participants for whom study treatment was initiated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Rituximab</title>
+            <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>All-Cause Mortality: From Treatment Initiation to Week 104</title>
+          <description>Death from any cause occurring after randomization and ≤ Week 104.</description>
+          <population>The Safety population included all participants for whom study treatment was initiated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Kaplan-Meier curves for time to all-cause mortality were compared using a log-rank test.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.35</p_value>
+            <p_value_desc>P-values not adjusted for multiple comparisons.</p_value_desc>
+            <method>Log Rank</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 104 weeks.</time_frame>
+      <desc>AEs grade 2 and above were collected from the time the first dose of study drug/placebo until completion of study participation (to Week 48) or until 30 days after premature withdrawal (without withdrawing consent). During the quarterly monitoring for b cells period of the study (Week 48 to Week 104), only grade 3 and higher infections were collected. AEs were graded according to the National Cancer Institute's Common Terminology Criteria for Adverse Events Version 4.0.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Rituximab</title>
+          <description>Rituximab (a monoclonal antibody to CD20) was administered as two IV infusions, 1000 mg each, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo was administered as two IV infusions, given two weeks apart at Day 0 and Week 2. Participants were pre-treated with corticosteroids, diphenhydramine, and acetaminophen. The appearance of the packaging and solutions used to administer rituximab/placebo was identical in both study arms.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>13.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="29"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="29"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiac arrest</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Cardiogenic shock</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Right ventricular dysfunction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Right ventricular failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperthyroidism</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Oesophageal spasm</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adverse drug reaction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Sudden death</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Device related infection</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Endocarditis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Herpes simplex</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Parainfluenzae virus infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia viral</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Sialoadenitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Electrolyte imbalance</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Fluid overload</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Adenocarcinoma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary arterial hypertension</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary hypertension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>13.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="28" subjects_at_risk="29"/>
+                <counts group_id="E2" subjects_affected="24" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="29"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Lymphopenia</sub_title>
+                <counts group_id="E1" events="17" subjects_affected="15" subjects_at_risk="29"/>
+                <counts group_id="E2" events="10" subjects_affected="10" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="4" subjects_at_risk="29"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Gastrooesophageal reflux disease</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal viral infection</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Nail bed infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Oral candidiasis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="5" subjects_at_risk="29"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="5" subjects_at_risk="29"/>
+                <counts group_id="E2" events="10" subjects_affected="8" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="4" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Blood creatinine increased</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="29"/>
+                <counts group_id="E2" events="6" subjects_affected="5" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Brain natriuretic peptide increased</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fluid retention</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Hypokalaemia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Hyponatraemia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Osteoporosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="4" subjects_at_risk="29"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspnoea</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary arterial hypertension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="28"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Study was powered at 50% (60 participants, 30 per arm) to detect a treatment group difference of 33 meters in the six minute walk test. Enrollment ended early with 57 participants randomized instead of the planned 60.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Director, Clinical Research Operations Program</name_or_title>
+      <organization>DAIT/NIAID</organization>
+      <phone>301-594-7669</phone>
+      <email>DAITClinicalTrialsGov@niaid.nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

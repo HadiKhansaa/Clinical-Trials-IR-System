@@ -1,0 +1,278 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04739644</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CRMINAIL03</org_study_id>
+    <nct_id>NCT04739644</nct_id>
+  </id_info>
+  <brief_title>Robot-based Wrist Rehabilitation in Orthopaedics: Efficacy and Comparison With Traditional Methods</brief_title>
+  <official_title>Robot-based Wrist Rehabilitation After Orthopaedic Trauma: a Pilot Randomised Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituto Nazionale Assicurazione contro gli Infortuni sul Lavoro</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Istituto Italiano di Tecnologia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Istituto Nazionale Assicurazione contro gli Infortuni sul Lavoro</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The present randomized clinical trial addresses the issue about the application of&#xD;
+      robot-based rehabilitation programs in orthopedic conditions. The aim of the study is to test&#xD;
+      the efficacy of a robot-based rehabilitative protocol to recover wrist functionality after&#xD;
+      traumatic injuries.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Thirty patients with work related wrist injuries resulting in wrist joint dysfunction are&#xD;
+      enrolled in an open randomized controlled trial over a 24 months period. Each participant is&#xD;
+      randomly allocated to experimental or control group and receives a 3-week rehabilitation&#xD;
+      program including both assessment and rehabilitative sessions. While patients in the control&#xD;
+      group undergo a traditional rehabilitative protocol, the experimental group is treated&#xD;
+      replacing traditional exercises with robot-aided ones performed with WRISTBOT, a 3 Degrees of&#xD;
+      Freedom (DoFs) robotic exoskeleton. WRISTBOT allows for passive, active and assisted&#xD;
+      range-of-motion (ROM) exercises, isotonic and elastic tasks, proprioceptive and perturbation&#xD;
+      training. All subjects perform the same sessions of assessment, which include two evaluations&#xD;
+      through the robotic system and clinical measures at the beginning (Tb) and at the end (Te) of&#xD;
+      the rehabilitative training, and a follow-up through phone call, three months after the end&#xD;
+      of the treatment (Tf). The assessment sessions include a robot-based evaluation (measurement&#xD;
+      of ROM, exerted forces, dexterity, and wrist position sense acuity) and clinical measures&#xD;
+      (Patient Rated Wrist Evaluation, Jebsen-Taylor and Jamar Test). Subjects' level of&#xD;
+      satisfaction about treatment is asked at the end of the rehabilitative treatment (Te). The&#xD;
+      primary objective is to evaluate the results of a robot-based rehabilitative approach on&#xD;
+      wrist functionality after work-related trauma, comparing the effects of robotic therapy with&#xD;
+      those achieved through a conventional therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 7, 2015</start_date>
+  <completion_date type="Actual">June 14, 2018</completion_date>
+  <primary_completion_date type="Actual">June 14, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study considers participants divided in two groups: the control group and the experimental group</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline Jamar Test at 3th week</measure>
+    <time_frame>Up to 3 weeks</time_frame>
+    <description>Using a hand dynamometer, subjects perform three trials to evaluate the mean static palmar force exerted in kg</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline Jebsen Taylor Hand Function Test (JTHFT) at 3th week</measure>
+    <time_frame>Up to 3 weeks</time_frame>
+    <description>Consist of six items, its aim is to evaluate dexterity in terms of fine motor skills, weighted functional tasks and non-weighted functional tasks. Each item is scored according to the time taken to complete the task</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline Patient Rated Wrist/Hand Evaluation (PRWE) at 3th week</measure>
+    <time_frame>Up to 3 weeks</time_frame>
+    <description>A questionnaire composed of a pain (PRWE-P) and a function (PRWE-F) subscale. Each subsection has a maximum score of 50 and a minimum of 0, where less score points out a better performance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from 3th week (Te) Patient Rated Wrist/Hand Evaluation (PRWE) at the follow-up assessment after 3 months (Tf)</measure>
+    <time_frame>Up to 3 months from Te</time_frame>
+    <description>A questionnaire composed of a pain (PRWE-P) and a function (PRWE-F) subscale. Each subsection has a maximum score of 50 and a minimum of 0, where less score points out a better performance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline Passive ROM (robotic assessment) at 3th week</measure>
+    <time_frame>Up to 3 weeks</time_frame>
+    <description>Starting from the neutral position (0° along each DoF), the device moves the wrist of the subject along different directions until subject's maximum tolerance, notified by himself/herself pushing a button with the not injured hand. Target directions are 8 equally distributed in the Flexion-Extension/Radial-Ulnar Deviation (FE/RUD) space, and 2 along Pronation-Supination. Outcome measures consist in the maximum ROM in degrees achieved along each direction.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline Active ROM (robotic assessment) at 3th week</measure>
+    <time_frame>Up to 3 weeks</time_frame>
+    <description>From the initial neutral position, subjects move actively the device as far as they could, along the same directions of the Passive ROM assessment. Any assistive force is applied, but the weight of the device is compensated during active motions. The outcome measure is the maximum active ROM in degrees achieved along each direction.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline Isometric Force (robotic assessment) at 3th week</measure>
+    <time_frame>Up to 3 weeks</time_frame>
+    <description>While the device keeps subjects on the wrist neutral position, they are requested to perform a maximal contraction toward different directions. While subjects push towards each target direction, the device resisted to the imposed force, such that no motion is performed. The outcome measure is maximal peak force in Newton measured along each direction (same directions as in ROM assessment).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline Target Tracking (robotic assessment) at 3th week</measure>
+    <time_frame>Up to 3 weeks</time_frame>
+    <description>Subjects have to follow a target moving on a first order Lissajous trajectory, showed on the screen two-dimensional space. Subjects perform two laps, actively moving in two different directions of rotation (counter and clockwise) across the space described by combinations of FE/RUD motions. The size of the figure is determined by the 75% of the smallest assessed ROM in each direction. The resulting outcome measure is the mean figural error in degrees, i.e. the average angular distance between target and end-effector trajectory in each sampled point.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline Joint Position Matching (robotic assessment) at 3th week</measure>
+    <time_frame>Up to 3 weeks</time_frame>
+    <description>While the subject is blindfolded, the device moves his/her wrist in a defined direction, until the 75% of the subject's ROM along that direction. After 3 seconds, the wrist is passively brought back to the neutral position. Then, maintaining the blindfolded condition, the subject is asked to reproduce the joint configuration previously assumed passively. Target directions corresponded to the same directions along which the ROM has been assessed. Performance is measured in terms of matching error, i.e. the Euclidean distance between target and matched points. Matching error is measured in degrees.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Recorded Side effects</measure>
+    <time_frame>Through study completion, up to 3 weeks</time_frame>
+    <description>Side effects using WRISTBOT device</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Satisfaction</measure>
+    <time_frame>After 3 weeks intervention (Te)</time_frame>
+    <description>Subjects were asked to indicate their approval rating of the rehabilitation program through a Numerical Rating Scale (NRS) from 0 (least satisfied) to 10 (most satisfied)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Wrist Injuries</condition>
+  <arm_group>
+    <arm_group_label>Experimental: WRISTBOT Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patients in the &quot;WRISTBOT Group&quot; underwent to following interventions: 1. General Rehabilitation 2. Specific wrist rehabilitation by WRISTBOT device</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The patients in the Control Group underwent to following interventions: 1. General Rehabilitation 2. Specific wrist rehabilitation performed by physiotherapist.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Specific wrist rehabilitation by WRISTBOT device</intervention_name>
+    <description>The WRISTBOT is a fully backdrivable manipulandum that allows for movements along its 3 Degrees of Freedom (DoFs) in a human-like Range Of Motion (ROM) of the wrist: 62° flexion/extension (FE), -40°/+45° in ulnar/radial deviation (RUD), and 60° pronation/supination (PS). In addition, the robot permits motions along planes that involve combined multi-DoFs movements. Mechanically, the robot was developed to have low values of inertia, emulating the fluency of natural movements. Each DOF is measured by high resolution incremental encoders and actuated by one brushless motor or two in case of the RUD planes, providing both gravity compensation and continuous torque values necessary to manipulate the human wrist joints. Depending on the torques exerted, the device can be used in either active or assistive/passive modality. The system is integrated with a Virtual Reality environment (VR), useful to provide a visual feedback to the user while he/she is requested to complete the tasks.</description>
+    <arm_group_label>Experimental: WRISTBOT Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Specific wrist rehabilitation performed by the physiotherapist</intervention_name>
+    <description>Passive, active and assisted mobilization</description>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>General rehabilitation</intervention_name>
+    <description>Exercise with elastic bands or weights, exercise of manipulation and dexterity, simulation of daily life activities supervised by the physiotherapist</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Experimental: WRISTBOT Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Functional and spatial limitations of the wrist joint, following an injury occurred at&#xD;
+             workplace&#xD;
+&#xD;
+          -  Post-immobilization phase&#xD;
+&#xD;
+          -  Temporal distance from the acute event not exceeding 6 months&#xD;
+&#xD;
+          -  Signed informed consent acquisition&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-compliance with study requirements&#xD;
+&#xD;
+          -  Pregnancy or breast feeding; Current or prior history of malignancy&#xD;
+&#xD;
+          -  Open skin at the level of the patient-device interface&#xD;
+&#xD;
+          -  Sensory deficit at the level of the patient-device interface&#xD;
+&#xD;
+          -  Acute inflammatory arthritis of the wrist&#xD;
+&#xD;
+          -  Contraindications to passive movements&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paolo Catitti, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Istituto Nazionale Assicurazione contro gli Infortuni sul Lavoro</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Karagiannopoulos C, Sitler M, Michlovitz S, Tierney R. A descriptive study on wrist and hand sensori-motor impairment and function following distal radius fracture intervention. J Hand Ther. 2013 Jul-Sep;26(3):204-14; quiz 215. doi: 10.1016/j.jht.2013.03.004. Epub 2013 Apr 28.</citation>
+    <PMID>23628557</PMID>
+  </reference>
+  <reference>
+    <citation>Bruder AM, Taylor NF, Dodd KJ, Shields N. Physiotherapy intervention practice patterns used in rehabilitation after distal radial fracture. Physiotherapy. 2013 Sep;99(3):233-40. doi: 10.1016/j.physio.2012.09.003. Epub 2012 Nov 30.</citation>
+    <PMID>23200599</PMID>
+  </reference>
+  <reference>
+    <citation>Bruder A, Taylor NF, Dodd KJ, Shields N. Exercise reduces impairment and improves activity in people after some upper limb fractures: a systematic review. J Physiother. 2011;57(2):71-82. doi: 10.1016/S1836-9553(11)70017-0. Review.</citation>
+    <PMID>21684488</PMID>
+  </reference>
+  <reference>
+    <citation>Krischak GD, Krasteva A, Schneider F, Gulkin D, Gebhard F, Kramer M. Physiotherapy after volar plating of wrist fractures is effective using a home exercise program. Arch Phys Med Rehabil. 2009 Apr;90(4):537-44. doi: 10.1016/j.apmr.2008.09.575.</citation>
+    <PMID>19345766</PMID>
+  </reference>
+  <reference>
+    <citation>Handoll HH, Madhok R, Howe TE. Rehabilitation for distal radial fractures in adults. Cochrane Database Syst Rev. 2006 Jul 19;(3):CD003324. Review. Update in: Cochrane Database Syst Rev. 2015;9:CD003324.</citation>
+    <PMID>16856004</PMID>
+  </reference>
+  <reference>
+    <citation>Glasgow C, Tooth LR, Fleming J. Mobilizing the stiff hand: combining theory and evidence to improve clinical outcomes. J Hand Ther. 2010 Oct-Dec;23(4):392-400; quiz 401. doi: 10.1016/j.jht.2010.05.005. Epub 2010 Sep 9. Review.</citation>
+    <PMID>20828988</PMID>
+  </reference>
+  <reference>
+    <citation>Schwartz DA. Static progressive orthoses for the upper extremity: a comprehensive literature review. Hand (N Y). 2012 Mar;7(1):10-7. doi: 10.1007/s11552-011-9380-2. Epub 2011 Dec 16.</citation>
+    <PMID>23450213</PMID>
+  </reference>
+  <reference>
+    <citation>Masia L, Casadio M, Sandini G, Morasso P. Eye-hand coordination during dynamic visuomotor rotations. PLoS One. 2009 Sep 15;4(9):e7004. doi: 10.1371/journal.pone.0007004.</citation>
+    <PMID>19753120</PMID>
+  </reference>
+  <reference>
+    <citation>Casadio M, Sanguineti V, Squeri V, Masia L, Morasso P. Inter-limb interference during bimanual adaptation to dynamic environments. Exp Brain Res. 2010 May;202(3):693-707. doi: 10.1007/s00221-010-2175-9. Epub 2010 Feb 20.</citation>
+    <PMID>20174919</PMID>
+  </reference>
+  <reference>
+    <citation>Masia L, Squeri V, Saha D, Burdet E, Sandini G, Morasso P. Stabilizing unstable object by means of kinematic redundancy. Annu Int Conf IEEE Eng Med Biol Soc. 2010;2010:3698-702. doi: 10.1109/IEMBS.2010.5627438.</citation>
+    <PMID>21096858</PMID>
+  </reference>
+  <reference>
+    <citation>Squeri V, Masia L, Casadio M, Morasso P, Vergaro E. Force-field compensation in a manual tracking task. PLoS One. 2010 Jun 17;5(6):e11189. doi: 10.1371/journal.pone.0011189.</citation>
+    <PMID>20567516</PMID>
+  </reference>
+  <reference>
+    <citation>Jebsen RH, Taylor N, Trieschmann RB, Trotter MJ, Howard LA. An objective and standardized test of hand function. Arch Phys Med Rehabil. 1969 Jun;50(6):311-9.</citation>
+    <PMID>5788487</PMID>
+  </reference>
+  <reference>
+    <citation>Fairplay T, Atzei A, Corradi M, Luchetti R, Cozzolino R, Schoenhuber R. Cross-cultural adaptation and validation of the Italian version of the patient-rated wrist/hand evaluation questionnaire. J Hand Surg Eur Vol. 2012 Nov;37(9):863-70. doi: 10.1177/1753193412445160. Epub 2012 Jun 19.</citation>
+    <PMID>22719008</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 4, 2021</study_first_posted>
+  <last_update_submitted>February 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Adult</keyword>
+  <keyword>Humans</keyword>
+  <keyword>Middle aged</keyword>
+  <keyword>Robotics / instrumentation*</keyword>
+  <keyword>Wrist Injuries / physiopathology</keyword>
+  <keyword>Wrist Injuries / rehabilitation*</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wrist Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

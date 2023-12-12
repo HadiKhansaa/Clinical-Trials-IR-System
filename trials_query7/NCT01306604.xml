@@ -1,0 +1,265 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01306604</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BNPC06-2018</org_study_id>
+    <nct_id>NCT01306604</nct_id>
+  </id_info>
+  <brief_title>Biomarker for Niemann Pick Type C Disease (BioNPC)</brief_title>
+  <acronym>BioNPC</acronym>
+  <official_title>Biomarker for Niemann Pick Type C Disease (NPC1/NPC2) an International, Multicenter, Epidemiological Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CENTOGENE GmbH Rostock</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CENTOGENE GmbH Rostock</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Development of a new MS-based biomarker for the early and sensitive diagnosis of Niemann Pick&#xD;
+      Type C disease from Blood (plasma)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Niemann-Pick disease type C (NPC) is a lipid storage disease that can present in infants,&#xD;
+      children, or adults. Neonates can present with ascites and severe liver disease from&#xD;
+      infiltration of the liver and/or respiratory failure from infiltration of the lungs. Other&#xD;
+      infants, without liver or pulmonary disease, have hypotonia and developmental delay. The&#xD;
+      classic presentation occurs in mid-to-late childhood with the insidious onset of ataxia,&#xD;
+      vertical supranuclear gaze palsy (VSGP), and dementia. Dystonia and seizures are common.&#xD;
+      Dysarthria and dysphagia eventually become disabling, making oral feeding impossible; death&#xD;
+      usually occurs in the late second or third decade from aspiration pneumonia. Adults are more&#xD;
+      likely to present with dementia or psychiatric symptoms. The diagnosis of NPC is confirmed by&#xD;
+      biochemical testing that demonstrates impaired cholesterol esterification and positive&#xD;
+      filipin staining in cultured fibroblasts. Biochemical testing for carrier status is&#xD;
+      unreliable. Most individuals with NPC have NPC1, caused by mutations in the NPC1 gene; fewer&#xD;
+      than 20 individuals have been diagnosed with NPC2, caused by mutations in the NPC2 gene.&#xD;
+      Molecular genetic testing of the NPC1 genes detects disease-causing mutations in&#xD;
+      approximately 94% of individuals with NPC. Such testing is available clinically.&#xD;
+&#xD;
+      NPC is inherited in an autosomal recessive manner. Each sib of an affected individual has a&#xD;
+      25% chance of being affected, a 50% chance of being an asymptomatic carrier, and a 25% chance&#xD;
+      of being unaffected and not a carrier. The phenotype (i.e., age of onset and severity of&#xD;
+      symptoms) usually runs true in families. Carrier testing for at-risk relatives and prenatal&#xD;
+      testing for pregnancies at increased risk are possible when the two disease-causing mutations&#xD;
+      have been identified in the family.&#xD;
+&#xD;
+      Since the only accepted and easily accessible lab test, Fillipin staining of skin&#xD;
+      fibroblasts, is invasive and has a rather low sensitivity and specificity and genetic&#xD;
+      sequencing is tome-consuming and expensive there is an urgent need for the improvement of&#xD;
+      diagnostic biomarkers.&#xD;
+&#xD;
+      New methods, like mass-spectrometry give a good chance to characterize in the blood (plasma)&#xD;
+      of affected patents specific metabolic alterations that allow to diagnose in the future the&#xD;
+      disease earlier, with a higher sensitivity and specificity. In a pilotstudy, NPC509 has been&#xD;
+      identified as a sensitive and specific biomarker (Fig 1). The structure and&#xD;
+      pathophysiological role will have to be illucidated further; however preliminary data&#xD;
+      suggests that NPC509 is a feasible biomarker for NPC. After the verfication of NPC509 as a&#xD;
+      biomarker for NPC, quantification and validation of NPC509 in saliva will allow for an easier&#xD;
+      detection method in the future.&#xD;
+&#xD;
+      Though NPC is a pan-ethnic disorder, the prevalence of this autosomal-recessive disorder is&#xD;
+      elevated in countries with a higher frequency of consanguinity. Therefore, we estimate that&#xD;
+      every 400th newborn in Arabian countries may be eligible for inclusion due to high-grade&#xD;
+      suspicion of NPC, while approximately every 2000th newborn in non-Arabian countries may be&#xD;
+      eligible.&#xD;
+&#xD;
+      The validation of this new biochemical marker from the blood (plasma) of the affected&#xD;
+      patients is the goal of the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 20, 2018</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Development of a new MS-based biomarker for the early and sensitive diagnosis of Niemann Pick Type C disease from blood (Plasma)</measure>
+    <time_frame>24 month</time_frame>
+    <description>New methods, like mass-spectrometry give a good chance to characterize specific metabolic alterations in the blood of affected patients that allow diagnosing in the future the disease earlier, with a higher sensitivity and specificity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Testing for clinical robustness, specificity and long-term stability of the biomarker</measure>
+    <time_frame>36 months</time_frame>
+    <description>the goal of the study to identify and validate a new biochemical marker from the blood of the affected patients helping to benefit other patients by an early diagnose and thereby with an earlier treatment</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Niemann-Pick Disease</condition>
+  <condition>Niemann-Pick Disease, Type C</condition>
+  <arm_group>
+    <arm_group_label>Observation</arm_group_label>
+    <description>Patients from the first day of life with Niemann Pick Type C syndrome NPC1/NPC2 or profound suspicion for Niemann Pick Type C syndrome NPC1/NPC2 disease</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      For the development of the new biomarkers using the technique of Mass-spectometry, a blood&#xD;
+      sample of maximal 10ml blood will be taken from the patient via using a dried blood spot&#xD;
+      filter card. To proof the correct NPC diagnosis in those patients where up to the enrollment&#xD;
+      in the study no genetic testing has been done, sequencing of NPC1 and/or NPC2 will be done.&#xD;
+      The analyses will be done at the:&#xD;
+&#xD;
+      Centogene AG Am Strande 7 18055 Rostock Germany&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with Niemann Pick Disease Type C (NPC1/NPC2) or profound suspicion for Niemann&#xD;
+        Pick Disease Type C disease (NPC1/NPC2)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA:&#xD;
+&#xD;
+          -  Informed consent will be obtained from the patient or the parents before any study&#xD;
+             related procedures.&#xD;
+&#xD;
+          -  Patients of both gender from one day old&#xD;
+&#xD;
+          -  The patient has a diagnosis of Niemann Pick Type C disease or profound suspicion for&#xD;
+             Niemann Pick Type C disease&#xD;
+&#xD;
+          -  High-grade suspicion present, if one or more criteria are valid:&#xD;
+&#xD;
+        Positive family anamnesis for NPC1/NPC2&#xD;
+&#xD;
+        Splenomegaly without identifiable cause&#xD;
+&#xD;
+        Hepatomegaly without identifiable cause&#xD;
+&#xD;
+        Neurological symptoms without identifiable cause&#xD;
+&#xD;
+        Psychiatric symptoms without identifiable cause&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+          -  No Informed consent from the patient or the parents before any study related&#xD;
+             procedures.&#xD;
+&#xD;
+          -  No diagnosis of NPC1/NPC2 or no valid criteria for high-grade suspicion of NPC1/ NPC2&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arndt Rolfs, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CENTOGENE GmbH Rostock</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Centogene AG</name>
+      <address>
+        <city>Rostock</city>
+        <zip>18055</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Amrita Institute of Medical Sciences &amp; Research Centre</name>
+      <address>
+        <city>Cochin</city>
+        <state>Kerala</state>
+        <zip>682041</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Navi Mumbai Institute of Research In Mental And Neurological Handicap (NIRMAN)</name>
+      <address>
+        <city>Mumbai</city>
+        <zip>400705</zip>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lady Ridgeway Hospital for Children</name>
+      <address>
+        <city>Colombo 8</city>
+        <zip>00800c</zip>
+        <country>Sri Lanka</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>India</country>
+    <country>Sri Lanka</country>
+  </location_countries>
+  <removed_countries>
+    <country>Algeria</country>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Bulgaria</country>
+    <country>Denmark</country>
+    <country>Egypt</country>
+    <country>Greece</country>
+    <country>Iran, Islamic Republic of</country>
+    <country>Italy</country>
+    <country>Pakistan</country>
+    <country>Poland</country>
+    <country>Saudi Arabia</country>
+    <country>Serbia</country>
+  </removed_countries>
+  <link>
+    <url>http://centogene.com</url>
+    <description>Centogene is one of the leading laboratories focusing on genetic testing for rare hereditary disorders. We now offer more than 2200 routine genetic and biochemical tests.</description>
+  </link>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>March 1, 2011</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 2, 2011</study_first_posted>
+  <last_update_submitted>April 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Genetic Diseases</keyword>
+  <keyword>Lipidoses</keyword>
+  <keyword>Lipid Metabolism</keyword>
+  <keyword>Lysosomal Storage Diseases</keyword>
+  <keyword>Metabolic Diseases</keyword>
+  <keyword>Lipid Metabolism Disorders</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Niemann-Pick Diseases</mesh_term>
+    <mesh_term>Niemann-Pick Disease, Type A</mesh_term>
+    <mesh_term>Niemann-Pick Disease, Type C</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,372 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02148926</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DCM-011213-28037</org_study_id>
+    <nct_id>NCT02148926</nct_id>
+  </id_info>
+  <brief_title>Clinical and Genetic Examinations of Dilated Cardiomyopathy</brief_title>
+  <official_title>Clinical and Genetic Examinations of Dilated Cardiomyopathy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Southern Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Odense University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Aarhus University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Southern Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a descriptive study to investigate clinical and genetic features of dilated&#xD;
+      cardiomyopathy (DCM) patients and their relatives. 109 probands with DCM have been clinically&#xD;
+      characterized with clinical examinations including ECG and echocardiography, and furthermore&#xD;
+      they have had next generation sequencing (NGS) of 42 known DCM genes, and 34 candidate genes.&#xD;
+      The probands were consequtively included in the study and 59 had undergone heart&#xD;
+      transplantation (HTx) upon inclusion. of these patients underwent heart transplantation. The&#xD;
+      data from NGS is validated by Sanger sequencing. In this study we will examine the relatives&#xD;
+      to the 109 index patients by genetic and clinical cascade screening including advanced&#xD;
+      echocardiography including 3D volume measurements and speckle-tracking (GLS). Genetic&#xD;
+      investigations of relatives will be performed if a disease-associated mutation is identifed&#xD;
+      in the proband. Approximately 480 clinical examinations will be performed this way to be able&#xD;
+      to:&#xD;
+&#xD;
+      1a. Investigate the frequency of familial types of DCM&#xD;
+&#xD;
+      1b. To investigate the yield of genetic and clinical cascade screening&#xD;
+&#xD;
+      2. To describe genotype phenotype correlations&#xD;
+&#xD;
+      3. To investigate if there are subtle changes in the heart in genopositive individuals which&#xD;
+      do not meet the conventional diagnostic criteria evaluated by advanced echocardiography.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Title:&#xD;
+&#xD;
+      Clinical and genetic examinations of dilated cardiomyopathy&#xD;
+&#xD;
+      Background:&#xD;
+&#xD;
+      Dilated cardiomyopathy (DCM) is a severe disease of the heart muscle characterised by reduced&#xD;
+      pumping function and dilatation of the left ventricle without any obvious cause like&#xD;
+      hypertension, ischemic heart disease or heart valve disease. The patients often complain&#xD;
+      about shortness of breath, oedemas, and fatigability. The first sign of the disease can be a&#xD;
+      severe heart rhythm disorder without any preceding symptoms and DCM is not a rare cause of&#xD;
+      suddenly unexpected death. DCM is a frequent reason for heart transplantation and the&#xD;
+      prognosis is severe though improved over the last decades with the implementation of modern&#xD;
+      heart failure treatment.&#xD;
+&#xD;
+      The prevalence of DCM is around 1:2500 in the vestern world and multiple screening studies of&#xD;
+      first generation relatives to DCM patients have shown that in 30-50% of the cases it was&#xD;
+      possible to identify at least one other relative with the same disease. The inheritance is&#xD;
+      often dominant and at this point there has been reported disease associated mutations in over&#xD;
+      40 different genes. The clinical examinations of affected families have shown that the&#xD;
+      expression of the disease varies from very critical symptoms and changes in the heart to&#xD;
+      discrete changes of the heart with no accompanying symptoms. Furthermore the time of debut of&#xD;
+      DCM can vary a lot even within the same family and the disease can manifest itself from early&#xD;
+      childhood to late adulthood.&#xD;
+&#xD;
+      Newer investigations indicate that a subgroup of approximately 10-15% of inherited DCM cases&#xD;
+      has a higher incidence of severe heart rhythm disorders and thereby worsened prognosis. In a&#xD;
+      considerable part of these families the disease is caused by a genetic mutation in a specific&#xD;
+      gene that codes for a nuclear membrane protein and that mutation is labelled lamin A/C. The&#xD;
+      recognition of the linkage between the genotype and the clinical presentation of the disease&#xD;
+      (phenotype), has formed the foundation of clinical algorithms and made it possible to improve&#xD;
+      the individualised risk stratification and the choice of treatment.&#xD;
+&#xD;
+      Status:&#xD;
+&#xD;
+      There is a general consensus to offer clinical screening for heart disease to relatives of&#xD;
+      younger DCM patients to be able to detect the disease before symptoms arise and if necessary&#xD;
+      commence early treatment and thus avoid serious disease complications and improve the&#xD;
+      prognosis. In families where the clinical examinations did not reveal any other relatives&#xD;
+      with signs of the disease, it is unclear if there is any benefit in continued controls of the&#xD;
+      apparently healthy relatives to reveal a possible later debut of the disease. The hope is&#xD;
+      that genetic investigations can assist in clarifying this question. If it is possible to&#xD;
+      identify a disease related genetic mutation in the index patient with DCM, it would be&#xD;
+      possible to offer genetic diagnostics to relatives and hereby identify mutation carriers in&#xD;
+      risk of developing the disease and offer these relatives relevant clinical controls and&#xD;
+      disease monitoring, while relatives without the mutation can be discharged without any&#xD;
+      further investigations.&#xD;
+&#xD;
+      Until recently it has not been technically and financially possible to offer routine genetic&#xD;
+      diagnostics due to large number of disease related genes and an unknown number of&#xD;
+      unidentified DCM associated genes at this point. Fortunately there has been a revolutionary&#xD;
+      development in DNA sequencing technology through the last couple of years making it possible&#xD;
+      to examine an almost unlimited amount of genes in large patient cohorts fast and to an&#xD;
+      acceptable expense. The Technology is called &quot;Next Generation Sequencing&quot; (NGS), and it can&#xD;
+      also be used to discover new disease associated genes and do genetic association studies.&#xD;
+&#xD;
+      Motivation:&#xD;
+&#xD;
+      The main supervisor of the project, professor Jens Mogensen has been participating in an EU&#xD;
+      financed FP7 research project called INHERITANCE (INtegrated HEart Research In TrANslational&#xD;
+      genetics and Cardiomyopathies in Europe) since 2010. The purpose of this project is to&#xD;
+      perform clinical and genetic examinations of DCM patients. The project participants comes&#xD;
+      from 11 internationally recognised European centres lead by Professor Arbustini from Pavia in&#xD;
+      Italy (www.inheriatanceproject.eu). Due to the NGS technology is has been possible to make&#xD;
+      genetic examinations on 800 European DCM patients in 42 known disease associated genes as a&#xD;
+      part of the project. Furthermore 34 candidate genes were included which from a theoretical&#xD;
+      point of view could be new disease associated genes. The Danish cohort has contributed with&#xD;
+      140 well characterised DCM patients from Funen and Jutland.&#xD;
+&#xD;
+      The raw NGS data performed by the group of Professor Katus in Heidelberg, Germany is being&#xD;
+      assessed by the bioinformatics at the department of clinical genetics in Vejle and they are&#xD;
+      processing the sequencing data on the Danish patients. The first results have been processes&#xD;
+      and the final results are expected to be available in the summer of 2014.&#xD;
+&#xD;
+      The Danish DCM cohort is characterised by containing approximately 50% HTx patients and 50%&#xD;
+      with stable disease. This makes it possible to compare the genetic aetiology between the&#xD;
+      consecutively transplanted patients and the non transplanted patients and hereby get an&#xD;
+      impression of the relationship between prognosis and the occurrence of different mutations in&#xD;
+      certain genes.&#xD;
+&#xD;
+      Purpose:&#xD;
+&#xD;
+      1.To perform clinical and genetic investigations of DCM patients and their relatives to be&#xD;
+      able to:&#xD;
+&#xD;
+      1a. Investigate the frequency of familial types of DCM&#xD;
+&#xD;
+      1b. Investigate the yield of genetic and clinical cascade screening&#xD;
+&#xD;
+      2. Describe genotype phenotype correlations including possible differences in genotype among&#xD;
+      transplanted patients compared to non-transplanted.&#xD;
+&#xD;
+      3. Investigate if there are subtle changes in the heart in genopositive individuals which do&#xD;
+      not meet the conventional diagnostic criteria evaluated by advanced echocardiography.&#xD;
+&#xD;
+      Research schedule:&#xD;
+&#xD;
+      Clinical examinations of index patients:&#xD;
+&#xD;
+      Already 109 DCM probands has been included in the cohort and all data is gathered in a&#xD;
+      database.&#xD;
+&#xD;
+      Clinical examinations of relatives to the index patients:&#xD;
+&#xD;
+        1. Relatives will get a conventional clinical examination according to guidelines, an ECG&#xD;
+           and echocardiography. If it is indicated a MRI scan or invasive investigations will be&#xD;
+           performed according to clinical guidelines.&#xD;
+&#xD;
+        2. Conventional echocardiography: Conventional two dimensional (2D), tissue Doppler and&#xD;
+           Doppler echocardiography will be used to evaluate systolic and diastolic function of the&#xD;
+           left ventricle and the outflow tract conditions of the left ventricle (LVOT). The&#xD;
+           examinations will be performed on a Philips Epiq7 medical ultrasound machine and stored&#xD;
+           digitally for later blinded analysis. The examination will be performed according to&#xD;
+           national guidelines hence recording a parasternal long axis view with zoom of the LVOT,&#xD;
+           then a parasternal short axis view on aortic valve, mitral valve and papillary muscle&#xD;
+           level. From the apex recording a 4 chamber view, apical 2 chamber view and apical long&#xD;
+           axis view. When recording 2D, two consecutive loops are saved. Continuous wave (CW)&#xD;
+           Doppler through the aortic valve and the tricuspid valve, pulsed wave (PW) Doppler&#xD;
+           through the LVOT and of the mitral inflow is also performed. PW tissue Doppler of the&#xD;
+           lateral and medial mitral annulus is performed. When performing Doppler examinations&#xD;
+           sweep velocities at 100 mm/s is used with simultaneous ECG registration. Five&#xD;
+           consecutive heart beats are recorded and saved. Furthermore colour Doppler of the&#xD;
+           aortic-, the mitral- and the tricuspid valve is recorded to estimate the degree of&#xD;
+           regurgitation for every valve. More than a mild mitral regurgitation will be further&#xD;
+           quantified by effective regurgitation orifice (ERO).&#xD;
+&#xD;
+      Advanced echocardiography: Zoom of the left ventricle with frame rates of 60-100 fps recorded&#xD;
+      in apical 4 chamber, 2 chamber and apical long axis will be performed and saved for later&#xD;
+      blinded analysis with speckle tracking analysis, evaluation of torsion and twist, and global&#xD;
+      longitudinal strain (GLS). Furthermore a zoomed view of the left atrium in 4 chamber and 2&#xD;
+      chamber views will be saved and 3 dimensional (3D) views of the left ventricle, right&#xD;
+      ventricle and left atrium will be performed.&#xD;
+&#xD;
+      Time schedule and milestones for the remaining clinical examinations:&#xD;
+&#xD;
+      It is expected that relatives to the DCM patients included will be offered the possibility to&#xD;
+      participate in this study. Experience shows that in average about 4 relatives pr index&#xD;
+      patient will be offered clinical examination, thus roughly 480 clinical examinations is still&#xD;
+      to be performed. The clinical examinations will be performed on the cardiology departments at&#xD;
+      Odense University Hospital (OUH) and Aarhus University Hospital (AUH) in collaboration with&#xD;
+      DMSc Hans Eiskjaer. The examinations are expected to be completed in September 2015. The&#xD;
+      relatives will be informed about the genetic results continuously, and they will be offered&#xD;
+      genetic counselling according to usual guidelines.&#xD;
+&#xD;
+      Practical preconditions for the clinical examinations to be performed:&#xD;
+&#xD;
+      The necessary medical expertise and the necessary medical equipment have to be available at&#xD;
+      the cardiology departments mentioned above.&#xD;
+&#xD;
+      Genetic examinations:&#xD;
+&#xD;
+      In those cases where a presumable diseas-associated mutation is identified and several family&#xD;
+      members in the same family has DCM, Sanger sequencing of the relevant family members will be&#xD;
+      undertaken. The results will be used in a coherent evaluation to estimate if there is enough&#xD;
+      evidence to classify the sequence variation as definitely disease related or as a variant of&#xD;
+      unknown importance.&#xD;
+&#xD;
+      Time schedule and milestones for the genetic examinations:&#xD;
+&#xD;
+      The final NGS sequencing results is expected to be available in the spring of 2014.&#xD;
+      Sequencing of the family members is expected to be performed simultaneously with the clinical&#xD;
+      examinations.&#xD;
+&#xD;
+      Practical preconditions for the genetic examinations to be performed:&#xD;
+&#xD;
+      The necessary molecular biological expertise and the necessary equipment have to be available&#xD;
+      at the clinical genetic department of Vejle Hospital.&#xD;
+&#xD;
+      Supervisors:&#xD;
+&#xD;
+      Primary Supervisor: Professor, DMSc, Jens Mogensen, the cardiology department of OUH Co&#xD;
+      supervisor: DMSc Jacob Moeller, the cardiology department of OUH Co supervisor: DMSc Hans&#xD;
+      Eiskjaer, the cardiology department of AUH&#xD;
+&#xD;
+      Ethical considerations:&#xD;
+&#xD;
+      It is likely that the participants in the study will benefit from the results with regards to&#xD;
+      enhanced individual counselling and risk stratification. If the participants do not wish to&#xD;
+      know of their own or their relatives genetic constitution it will be respected and&#xD;
+      considerations regarding diagnostics and treatment will follow the applicable international&#xD;
+      guidelines. It is the supervisors and the other ones responsible for the project perception&#xD;
+      that the possible benefits, outweighs the risks and side effects of this study. The project&#xD;
+      has been approved by the Committee of Health Research Ethics in central Denmark region and is&#xD;
+      furthermore approved by the Danish Data Protection Agency.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date type="Actual">February 2014</start_date>
+  <completion_date type="Anticipated">June 2018</completion_date>
+  <primary_completion_date type="Anticipated">May 2018</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Family-Based</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Years</target_duration>
+  <primary_outcome>
+    <measure>Genetics</measure>
+    <time_frame>3 years</time_frame>
+    <description>Difference in the genetics in the transplanted vs the non-transplanted group</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Global longitudinal strain</measure>
+    <time_frame>3 years</time_frame>
+    <description>GLS in genopositive patients with no expression of the disease according to guidelines precipitating reduction in ejection fraction. Assesing differences in GLS in the genopositive vs the genonegative group at baseline in the individuals with no signs of DCM.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">554</enrollment>
+  <condition>Dilated Cardiomyopathy</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      DNA for genetic testing&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Families in Denmark with history of dilated cardiomyopathy. Patients mainly from Funen and&#xD;
+        Jutland.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Related to one of the index patients&#xD;
+&#xD;
+          -  Available for genetic testing and clinical examinations&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Death&#xD;
+&#xD;
+          -  Not available for genetic testing and clinical examinations&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jens Mogensen, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>Odense University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thomas Hey, MD</last_name>
+    <phone>004524469228</phone>
+    <email>thomas_hey@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jens Mogensen, Professor</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Odense University Hospital</name>
+      <address>
+        <city>Odense</city>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas M. Hey, MD</last_name>
+      <phone>004524469228</phone>
+      <email>thomas.morris.hey@rsyd.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jens Mogensen, Professor</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Thomas M. Hey, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jens Mogensen, Professor</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>March 2018</verification_date>
+  <study_first_submitted>May 23, 2014</study_first_submitted>
+  <study_first_submitted_qc>May 27, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 29, 2014</study_first_posted>
+  <last_update_submitted>March 12, 2018</last_update_submitted>
+  <last_update_submitted_qc>March 12, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 13, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Southern Denmark</investigator_affiliation>
+    <investigator_full_name>Thomas Morris Hey</investigator_full_name>
+    <investigator_title>MD, Phd. student</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiomyopathies</mesh_term>
+    <mesh_term>Cardiomyopathy, Dilated</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

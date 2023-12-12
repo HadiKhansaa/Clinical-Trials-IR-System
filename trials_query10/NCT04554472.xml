@@ -1,0 +1,217 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04554472</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IIBSP-ECO-2019-86</org_study_id>
+    <nct_id>NCT04554472</nct_id>
+  </id_info>
+  <brief_title>Usefulness of Intraoperative Ultrasound in a Volar Plate Distal Radius Fixation</brief_title>
+  <official_title>Is Ultrasound Valid in Distal Radius Fixation With a Volar Plate?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Distal radius fracture is a common injury with a high percentage of surgical treatment. In&#xD;
+      the last decades, volar plate fixation has been the treatment of choice. However,&#xD;
+      complication rates range between 6% and 50% according to the different study groups. One of&#xD;
+      the main complications is due to errors in screw measurement given the particular anatomy of&#xD;
+      the distal radius.&#xD;
+&#xD;
+      Numerous views in addition to the standard ones have been described in order to increase the&#xD;
+      specificity and sensitivity in the detection of poorly implanted screws. In the absence of a&#xD;
+      radiological projection superior to another, we believe that the use of intraoperative&#xD;
+      ultrasound can provide a non-invasive and quick revision element that avoids scope time for&#xD;
+      both: the patient and the surgical team.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients will be recruited in a sequential mode after signing the usual informed consent (IC)&#xD;
+      as well as the consent to accept participation in the study.&#xD;
+&#xD;
+      The intervention will be carried out as usual and, once the radiological checks have been&#xD;
+      carried out, an ultrasound of the wrist extensor compartments will be performed. Compartments&#xD;
+      will be studied individually in order to detect invasion of the dorsal cortex by the screws.&#xD;
+&#xD;
+      All surgeries will be performed only by members of the upper limb trauma team or hand surgery&#xD;
+      unit.&#xD;
+&#xD;
+      Postoperative follow-up will be the standard one prior to the present study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 22, 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>3 Months</target_duration>
+  <primary_outcome>
+    <measure>Screw protrusion</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Perform an ultrasound of each dorsal compartment of the operated wrist</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Surgical time</measure>
+    <time_frame>Intraoperative</time_frame>
+    <description>Measure the additional surgical time involved in ultrasound view</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Distal Radius Fracture</condition>
+  <condition>Ultrasound</condition>
+  <arm_group>
+    <arm_group_label>Study group</arm_group_label>
+    <description>Patients with a distal radius fracture requiring surgery who meet the exclusion and inclusion criteria</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Intraoperative ultrasound</intervention_name>
+    <description>During the surgery, the standard AP and lateral x-rays will be performed. Additional projections (lateral 30 degrees tilt, and dorsal tangential view) will also be registered. Finally an intraoperative ultrasound of the wrist extensor tendons will be taken, checking the compartments individually in order to detect invasion of the dorsal cortex by the screws. In case of no protrusion, the patient will be registered as a correct fixation. Otherwise, it will be specified which position of the plate and which compartment the screw/s protrude. A screw with a correct measurement will then be replaced and implanted and recorded as a measurement error.</description>
+    <arm_group_label>Study group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with a distal radius fracture with a surgical indication&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients over 18 years of age&#xD;
+&#xD;
+          -  Both sexes&#xD;
+&#xD;
+          -  Surgical criteria distal radius fracture.&#xD;
+&#xD;
+          -  Patients with sufficient understanding capacity to read and understand an informed&#xD;
+             consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a history of any type of surgical intervention on the same limb distal&#xD;
+             to the elbow.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alvaro Toro-Aguilera, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fundació de Gestió Sanitària de l'Hospital de la Santa Creu i Sant Pau</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alvaro Toro-Aguilera, MD, PhD</last_name>
+    <phone>+34 658925351</phone>
+    <email>atoro@santpau.cat</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Claudia Erika Delgado, MD</last_name>
+    <phone>+34 93 553 70 99</phone>
+    <phone_ext>7634</phone_ext>
+    <email>CDelgadoE@santpau.cat</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Catalonia</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alvaro Toro-Aguilera, M.D.,PhD.</last_name>
+      <phone>+34 93 553 70 99</phone>
+      <phone_ext>7032</phone_ext>
+      <email>atoro@santpau.cat</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <results_reference>
+    <citation>Chung KC, Spilson SV. The frequency and epidemiology of hand and forearm fractures in the United States. J Hand Surg Am. 2001 Sep;26(5):908-15.</citation>
+    <PMID>11561245</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nellans KW, Kowalski E, Chung KC. The epidemiology of distal radius fractures. Hand Clin. 2012 May;28(2):113-25. doi: 10.1016/j.hcl.2012.02.001. Epub 2012 Apr 14. Review.</citation>
+    <PMID>22554654</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Jupiter JB, Fernandez DL. Complications following distal radial fractures. Instr Course Lect. 2002;51:203-19. Review.</citation>
+    <PMID>12064104</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Stoops TK, Santoni BG, Clark NM, Bauer AA, Shoji C, Schwartz-Fernandes F. Sensitivity and Specificity of Skyline and Carpal Shoot-Through Fluoroscopic Views of Volar Plate Fixation of the Distal Radius: A Cadaveric Investigation of Dorsal Cortex Screw Penetration. Hand (N Y). 2017 Nov;12(6):551-556. doi: 10.1177/1558944716677336. Epub 2016 Nov 1.</citation>
+    <PMID>29091485</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Joseph SJ, Harvey JN. The dorsal horizon view: detecting screw protrusion at the distal radius. J Hand Surg Am. 2011 Oct;36(10):1691-3. doi: 10.1016/j.jhsa.2011.07.020. Epub 2011 Aug 23.</citation>
+    <PMID>21864994</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Balfour GW. Using Ultrasound to Prevent Screw Penetration. J Hand Surg Am. 2016 Mar;41(3):453-6. doi: 10.1016/j.jhsa.2015.12.020. Epub 2016 Jan 21. Review.</citation>
+    <PMID>26803568</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bergsma M, Denk K, Doornberg JN, van den Bekerom MPJ, Kerkhoffs GMMJ, Jaarsma RL, Obdeijn MC. Volar Plating: Imaging Modalities for the Detection of Screw Penetration. J Wrist Surg. 2019 Dec;8(6):520-530. doi: 10.1055/s-0039-1681026. Epub 2019 Mar 5.</citation>
+    <PMID>31815069</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Thorninger R, Madsen ML, Wæver D, Borris LC, Rölfing JHD. Complications of volar locking plating of distal radius fractures in 576 patients with 3.2 years follow-up. Injury. 2017 Jun;48(6):1104-1109. doi: 10.1016/j.injury.2017.03.008. Epub 2017 Mar 10.</citation>
+    <PMID>28336098</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 18, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Distal radius volar fixation</keyword>
+  <keyword>Intraoperative ultrasound</keyword>
+  <keyword>screw protrusion detection</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Radius Fractures</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data will be extracted and published collectively with respect to:&#xD;
+Demographic data: number of participants, sex distribution, age distribution, fracture complexity distribution, time of surgery&#xD;
+Screw detection rate of each x-ray projection&#xD;
+Screw detection rate of intraoperative ultrasound</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

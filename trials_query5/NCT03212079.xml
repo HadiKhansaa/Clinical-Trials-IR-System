@@ -1,0 +1,259 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03212079</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00113882</org_study_id>
+    <nct_id>NCT03212079</nct_id>
+  </id_info>
+  <brief_title>Physical Activities by Technology Help (PATH)</brief_title>
+  <acronym>PATH</acronym>
+  <official_title>Novel Individualized Intervention for Behavioral Change Among High-Risk Group Cancer Survivors : Physical Activities by Technology Help (PATH)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PATH is a research study for cancer survivors to help participants to become more active.&#xD;
+      Studies suggested an association between inactivity and cancer. The investigators created new&#xD;
+      novel ways and technologies that may help participants to become more active. The three&#xD;
+      methods the investigators are studying are: 1) participant become active on her/his own;&#xD;
+      educational material will be provided; 2) working with a programmed health coach over the&#xD;
+      phone via text messages; and 3) using digital voice assist to help participant become more&#xD;
+      active. The digital voice assist will be delivered via Amazon Alexa on Echo speaker (it is&#xD;
+      the famous intelligent voice that you see in superball commercial by Alec Baldwin). This&#xD;
+      study is funded by the State of Maryland.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      If the participant agree to be in this study, the investigators will ask the participant to&#xD;
+      do the following things:&#xD;
+&#xD;
+      The participant will be asked questions about his/her physical activity (walking, running or&#xD;
+      other exercise) to determine if he/she are eligible to participate. If the participant is&#xD;
+      eligible and interested in participating, the investigators will ask hi/her to read and sign&#xD;
+      the consent form.&#xD;
+&#xD;
+      After that, the investigators will randomly assign the participant to a research group (this&#xD;
+      method would be similar to drawing numbers from a hat). The result will determine which group&#xD;
+      the participant will belong to. The study would have three different groups:&#xD;
+&#xD;
+        1. Group one will be self-motivated to be physically active (control group)&#xD;
+&#xD;
+        2. The second group will receive smart daily text messages only (text group);&#xD;
+&#xD;
+        3. The last group would have the Amazon Echo smart device installed in participants' homes&#xD;
+           and they will interact with a digital voice assist that will help them be active (Alexa&#xD;
+           group).&#xD;
+&#xD;
+             -  All study participants will receive a Fitbit device which you can keep after the&#xD;
+                study.&#xD;
+&#xD;
+             -  When the investigators start the study, the participant will be asked to start&#xD;
+                wearing wrist device immediately. For the next one week the investigators will&#xD;
+                monitor the participant daily number of steps to establish how active he/she is.&#xD;
+                The participant will not be required to change his/her daily routine in the first&#xD;
+                week.&#xD;
+&#xD;
+             -  After the end of the first week, the investigators will ask the participant to&#xD;
+                increase his/her daily steps to at least 10 thousand steps per day for the next&#xD;
+                four weeks. In total the participant will have one week of hi/her normal daily&#xD;
+                routine and four weeks of trying to do 10 thousand steps per day or more.&#xD;
+&#xD;
+             -  If the participant is in the control group, the investigators will ask you to try&#xD;
+                to do 10 thousand steps per day on his/her own.&#xD;
+&#xD;
+             -  If the participant are in the text group, he/she will get smart text messages with&#xD;
+                healthy tips to help track his/her activities and reach his/her daily goal.&#xD;
+&#xD;
+             -  If the participant is in Alexa group, a study member will visit the participant at&#xD;
+                his/her home before the end of the first week to install the Echo smart speaker and&#xD;
+                to explain to the participant how to use the voice assist to help him/her become&#xD;
+                more active for the next four weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 3, 2017</start_date>
+  <completion_date type="Actual">June 30, 2018</completion_date>
+  <primary_completion_date type="Actual">March 15, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a single center three arms randomized trial.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average number of steps. Wearable sensor based</measure>
+    <time_frame>5 weeks</time_frame>
+    <description>The investigators will measure your physical activity by number of steps before and after intervention via wearable activity tracker.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total number and duration of activity bouts. Wearable sensor based</measure>
+    <time_frame>5 weeks</time_frame>
+    <description>Defined as 3 min. or more of uninterrupted activity measured by wearable sensor.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transitions between active/inactive periods. Wearable sensor based</measure>
+    <time_frame>5 weeks</time_frame>
+    <description>Time spent walking vs time spent sitting measured by all in one sensor.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily patterns of activity. Wearable sensor based</measure>
+    <time_frame>5 weeks</time_frame>
+    <description>Distribution parameter of number of steps per/minute within 24 hours period. Measured by all in one sensor.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Prostate Cancer</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Colorectal Cancer</condition>
+  <condition>Cervical Cancer</condition>
+  <condition>Oral Cancer</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The participant will self motivate hi/herself to increase physical activities.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mycoach Smart Text</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant will receive personalized smart text messages to encourage him/her to increase physical activities</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MyCoach via Amazon Alexa</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant will interact with intelligent coach on Amazon Alexa (a digital voice assist) to help him/her become more active</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Mycoach Smart Text</intervention_name>
+    <description>Personalized text messages to you cellphone to help you become more active</description>
+    <arm_group_label>Mycoach Smart Text</arm_group_label>
+    <other_name>Smart text</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>MyCoach on Amazon Alexa</intervention_name>
+    <description>This is an intelligent voice that you can communicate with via Amazon echo speaker</description>
+    <arm_group_label>MyCoach via Amazon Alexa</arm_group_label>
+    <other_name>Digital Voice Assist</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  A cancer survivor of breast, prostate, lung, colorectal, cervical or oral cancer&#xD;
+             survivor and live within the Baltimore Maryland area.&#xD;
+&#xD;
+          -  Finished your active cancer treatment at least three months ago.&#xD;
+&#xD;
+          -  Overweight or obese and do not exercise daily.&#xD;
+&#xD;
+          -  Do not have any physical limitation to do mild to moderate physical activities.&#xD;
+&#xD;
+          -  Have a smart phone (iPhone or Android device) with Wi-Fi internet connection at home.&#xD;
+&#xD;
+          -  Actively using an email account&#xD;
+&#xD;
+          -  Willing to accept the random study assignment.&#xD;
+&#xD;
+          -  Willing to wear a Fitbit band 'a physical activity tracking device' on your wrist for&#xD;
+             five weeks every single day.&#xD;
+&#xD;
+          -  Willing to have an Echo speaker 'a smart home speaker with voice assistant' installed&#xD;
+             in your home and use the digital voice assist for four weeks.&#xD;
+&#xD;
+          -  Willing to receive daily text messages on your phone for four weeks.&#xD;
+&#xD;
+          -  Willing to provide us with access to your Fitbit physical activities data.&#xD;
+&#xD;
+          -  Willing to sign the consent form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Already doing moderate to high physical activities in their daily life (rapid&#xD;
+             screener).&#xD;
+&#xD;
+          -  Planning to relocate within the next 4-5 weeks.&#xD;
+&#xD;
+          -  Stage 4 cancer.&#xD;
+&#xD;
+          -  Already using physical activity tracker or part of a physical activity program.&#xD;
+&#xD;
+          -  Part of another study that may interfere with our outcome of interest, unstable mental&#xD;
+             condition.&#xD;
+&#xD;
+          -  Mental condition that prevents patient from performing the study activities and&#xD;
+             requirements.&#xD;
+&#xD;
+          -  Pregnancy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ahmed Hassoon, MD,MPH,PMP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins Bloomberg School of Public Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins Bloomberg School of Public Health</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2018</verification_date>
+  <study_first_submitted>April 4, 2017</study_first_submitted>
+  <study_first_submitted_qc>July 6, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 11, 2017</study_first_posted>
+  <last_update_submitted>August 6, 2018</last_update_submitted>
+  <last_update_submitted_qc>August 6, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 7, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cancer Survivors</keyword>
+  <keyword>Physical Activities</keyword>
+  <keyword>Baltimore</keyword>
+  <keyword>State of Maryland</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mouth Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

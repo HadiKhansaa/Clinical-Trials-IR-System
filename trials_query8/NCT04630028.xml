@@ -1,0 +1,920 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04630028</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR108865</org_study_id>
+    <secondary_id>2019-004224-38</secondary_id>
+    <secondary_id>CNTO1275PUC3001</secondary_id>
+    <nct_id>NCT04630028</nct_id>
+  </id_info>
+  <brief_title>A Study of Ustekinumab in Pediatric Participants With Moderately to Severely Active Ulcerative Colitis (UC)</brief_title>
+  <acronym>UNIFI Jr</acronym>
+  <official_title>A Phase 3 Study of the Efficacy, Safety and Pharmacokinetics of Ustekinumab as Open-label Intravenous Induction Treatment Followed by Randomized Double-blind Subcutaneous Ustekinumab Maintenance in Pediatric Participants With Moderately to Severely Active Ulcerative Colitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Research &amp; Development, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Research &amp; Development, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate: a) the efficacy of ustekinumab dosing in inducing&#xD;
+      clinical remission, b) safety profile of ustekinumab, and c) ustekinumab exposure&#xD;
+      (pharmacokinetics [PK]) in pediatric participants with moderately to severely active UC.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 15, 2021</start_date>
+  <completion_date type="Anticipated">July 24, 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 24, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Global: Number of Participants with Clinical Remission at Induction Week 8 (I-8) Visit</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Clinical remission is defined as Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Adverse Events (AEs) as a Measure of Safety and Tolerability</measure>
+    <time_frame>Up to 74 weeks</time_frame>
+    <description>An AE is any untoward medical occurrence in a participant participating in a clinical study that does not necessarily have a causal relationship with the pharmaceutical/biological agent under study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Serious Adverse Events (SAEs) as a Measure of Safety and Tolerability</measure>
+    <time_frame>Up to 74 weeks</time_frame>
+    <description>SAE is any AE that results in: death, persistent or significant disability/incapacity, requires inpatient hospitalization or prolongation of existing hospitalization, is life-threatening experience, is a congenital anomaly/birth defect, and suspects transmission of any infectious agent via a medicinal product.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with AEs Leading to Discontinuation of Study Intervention</measure>
+    <time_frame>Up to 74 weeks</time_frame>
+    <description>Number of Participants with discontinuation of study intervention due to an AE, infections, injection-site reactions, and AEs during or within 1 hour of an infusion will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with AEs of Special Interest (AESI) as a Measure of Safety and Tolerability</measure>
+    <time_frame>Up to 74 weeks</time_frame>
+    <description>AESI of any newly identified malignancy, case of active tuberculosis (TB), or opportunistic infection occurring after the first administration of study intervention(s) in participants will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Laboratory Abnormalities</measure>
+    <time_frame>Up to 74 weeks</time_frame>
+    <description>Number of participants with laboratory abnormalities related to hematology, serum chemistry, and coagulation will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Reactions Temporally Associated with an Intravenous (IV) Infusion and Subcutaneous (SC) Injection-site Reactions</measure>
+    <time_frame>Up to 74 weeks</time_frame>
+    <description>Reactions temporally associated with an IV infusion (induction period) and SC injection-site reactions (maintenance period) will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum Concentration of Ustekinumab</measure>
+    <time_frame>Up to 74 weeks</time_frame>
+    <description>Serum samples will be analyzed to determine concentrations of ustekinumab.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>US Specific: Clinical Remission at M-44 for Participants who are in Clinical Response at I-8</measure>
+    <time_frame>Week 52</time_frame>
+    <description>Clinical remission at M-44 for participants who are in clinical response at I-8 will be reported. Clinical remission is defined as a Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Clinical Response at I-8 Visit</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Clinical response is defined as decrease from baseline in the modified Mayo score by &gt;= 30 percent (%) and &gt;=2 points, with either a decrease from baseline in the rectal bleeding subscore of &gt;= 1 or a rectal bleeding subscore of 0 or 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Symptomatic Remission at I-8 Visit</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Symptomatic remission is defined as Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0, where the stool frequency subscore has not increased from induction baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Remission at I-8 as Assessed by the Pediatric Ulcerative Colitis Activity Index Score (PUCAI) Score</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Clinical remission is defined as a PUCAI score less than (&lt;)10.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Endoscopic Improvement at I-8 Visit</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Endoscopic improvement is defined as a Mayo endoscopy subscore of 0 or &lt;= 1 with no friability present on the endoscopy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Clinical Remission at Week 44 (M-44) Visit</measure>
+    <time_frame>Week 52</time_frame>
+    <description>Clinical remission is defined as a Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Symptomatic Remission at M-44 Visit</measure>
+    <time_frame>Week 52</time_frame>
+    <description>Symptomatic remission is defined as Mayo stool frequency subscore of 0 or 1 and a rectal bleeding subscore of 0, where the stool frequency subscore has not increased from induction baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Remission at M-44 as Assessed by the PUCAI Score</measure>
+    <time_frame>Week 52</time_frame>
+    <description>Clinical remission is defined as a PUCAI score less than &lt; 10.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Endoscopic Improvement at M-44 Visit</measure>
+    <time_frame>Week 52</time_frame>
+    <description>Endoscopic improvement is defined as a Mayo endoscopy subscore of 0 or &lt;= 1 with no friability present on the endoscopy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Remission at M-44 and not Receiving Corticosteroids for at Least 90 Days Prior to M-44 Among Participants who Received Corticosteroids at M-0</measure>
+    <time_frame>Week 52</time_frame>
+    <description>Clinical remission is defined as a PUCAI score less than &lt; 10. Clinical remission at M-44 and in participants not receiving corticosteroids for at least 90 days prior to M-44 among participants who received corticosteroids at M-0 as assessed by PUCAI score will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Remission at M-44 for Participants who are in Clinical Remission at I-8</measure>
+    <time_frame>Week 52</time_frame>
+    <description>Clinical remission at M-44 for participants who are in clinical remission at I-8 will be reported. Clinical remission is defined as a Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>US Specific: Number of Participants with Clinical Remission at I-8 Visit</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Clinical remission is defined as Mayo stool frequency subscore of 0 or 1, a rectal bleeding subscore of 0, and an endoscopy subscore of 0 or 1 with no friability present on the endoscopy, where the stool frequency subscore has not increased from induction baseline.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Colitis, Ulcerative</condition>
+  <arm_group>
+    <arm_group_label>Induction Period (I): Ustekinumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants will receive a single intravenous (IV) administration of ustekinumab at induction Week 0 (I-0) based on body surface area (BSA) (milligram per meter square [mg/m^2]) or weight-tiered induction dose (milligram per kilogram [mg/kg]).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Maintenance (M) Period: Ustekinumab once every 8 Week (q8w)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive subcutaneous (SC) administration of ustekinumab every 8 weeks (q8w) based on BSA (mg/m^2) or weight-tiered induction dose (mg/kg) at Weeks M-0, M-8, M-16, M-24, M-32, M-40 and matching placebo at Weeks M-12 and M-36 to maintain the blind.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Maintenance (M) Period: Ustekinumab once every 12 Week (q12w)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive SC administration of ustekinumab every 12 weeks (q12w) based on BSA (mg/m^2) or weight-tiered induction dose (mg/kg) at Weeks M-0, M-12, M-24, M-36 and matching placebo at Weeks M-8, M-16, M-32, and M-40 to maintain the blind.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ustekinumab Dose Based on BSA and Body Weight</intervention_name>
+    <description>As per BSA and body weight Ustekinumab will be administered SC and IV.</description>
+    <arm_group_label>Induction Period (I): Ustekinumab</arm_group_label>
+    <arm_group_label>Maintenance (M) Period: Ustekinumab once every 12 Week (q12w)</arm_group_label>
+    <arm_group_label>Maintenance (M) Period: Ustekinumab once every 8 Week (q8w)</arm_group_label>
+    <other_name>STELARA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Matching Placebo</intervention_name>
+    <description>Placebo will be administered subcutaneously.</description>
+    <arm_group_label>Maintenance (M) Period: Ustekinumab once every 12 Week (q12w)</arm_group_label>
+    <arm_group_label>Maintenance (M) Period: Ustekinumab once every 8 Week (q8w)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Medically stable on the basis of physical examination, medical history, and vital&#xD;
+             signs, performed at screening. Any abnormalities must be consistent with the&#xD;
+             underlying illness in the study population and this determination must be recorded in&#xD;
+             the participant's source documents and acknowledged by the investigator&#xD;
+&#xD;
+          -  Must have had UC diagnosed prior to screening&#xD;
+&#xD;
+          -  Have moderately to severely active UC, defined as a baseline Mayo score of 6 through&#xD;
+             12, inclusive, with a screening Mayo endoscopy subscore greater than or equal to (&gt;=)&#xD;
+             2 as determined by a central review of the video of the endoscopy&#xD;
+&#xD;
+          -  A participant who has had extensive colitis for &gt;= 8 years, or disease limited to the&#xD;
+             left side of the colon for &gt;= 10 years, must: a) have had a full colonoscopy to assess&#xD;
+             for the presence of dysplasia within 1 year before the first administration of study&#xD;
+             intervention or b) have a full colonoscopy with surveillance for dysplasia as the&#xD;
+             baseline endoscopy during the screening period. Results from these surveillance&#xD;
+             biopsies must be negative for dysplasia (low-grade, high-grade, or indeterminant)&#xD;
+             prior to the first administration of study intervention&#xD;
+&#xD;
+          -  Females of childbearing potential must have a negative highly sensitive serum&#xD;
+             pregnancy test (beta-human chorionic gonadotropin) at screening, and then have a&#xD;
+             negative urine pregnancy test at Week I-0 prior to study intervention administration&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have UC limited to the rectum only or to less than (&lt;) 20 centimeter (cm) of the colon&#xD;
+&#xD;
+          -  Presence or history of colonic or small bowel obstruction within 6 months prior to&#xD;
+             screening, confirmed by objective radiographic or endoscopic evidence of a stricture&#xD;
+             with resulting obstruction (dilation of the colon or small bowel proximal to the&#xD;
+             stricture on barium radiograph or an inability to traverse the stricture at endoscopy)&#xD;
+&#xD;
+          -  Have a history of latent or active granulomatous infection, including tuberculosis&#xD;
+             (TB), histoplasmosis, or coccidioidomycosis, or have had a nontuberculous&#xD;
+             mycobacterial infection prior to screening&#xD;
+&#xD;
+          -  Presence or history of any malignancy including presence or history of&#xD;
+             lymphoproliferative disease including lymphoma, or signs and symptoms suggestive of&#xD;
+             possible lymphoproliferative disease, such as lymphadenopathy of unusual size or&#xD;
+             location (example, nodes in the posterior triangle of the neck, infraclavicular,&#xD;
+             epitrochlear, or periaortic areas) and monoclonal gammopathy of undetermined&#xD;
+             significance, or clinically significant hepatomegaly or splenomegaly&#xD;
+&#xD;
+          -  Has known allergies, hypersensitivity, or intolerance to ustekinumab or its excipients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Research &amp; Development, LLC Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Research &amp; Development, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Contact</last_name>
+    <phone>844-434-4210</phone>
+    <email>JNJ.CT@sylogent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Nemours DuPont Hospital for Children</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Delaware</state>
+        <zip>19803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Center for Digestive Health Care</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Morristown Memorial Hospital</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07962</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cohen Children's Medical Center</name>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Levine Children's at Atrium Health</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Case Medical Center Rainbow Babies and Childrens Hospital</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Hershey Children's Hospital</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Center For Digestive Health Systems-Greenville</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Medical Center of Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-9063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pediatric Specialists Of Virginia</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Children's Hospital</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Kinderziekenhuis Koningin Fabiola</name>
+      <address>
+        <city>Brussel</city>
+        <zip>1020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires Saint-Luc</name>
+      <address>
+        <city>Brussel</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Gent</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Brussel</name>
+      <address>
+        <city>Jette</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Aachen</name>
+      <address>
+        <city>Aachen</city>
+        <zip>52074</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charite-Universitätsmedizin Berlin - Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Essen</name>
+      <address>
+        <city>Essen</city>
+        <zip>45147</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Hochschule Hannover</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. von Haunersches Kinderspital</name>
+      <address>
+        <city>Munich</city>
+        <zip>80337</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KUNO Klinik St. Hedwig</name>
+      <address>
+        <city>Regensburg</city>
+        <zip>93049</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89075</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Semmelweis Egyetem</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1083</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Debreceni Egyetem Klinikai Kozpont</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Borsod-Abauj-Zemplen Megyei Korhaz es Egyetemi Oktato Korhaz</name>
+      <address>
+        <city>Miskolc</city>
+        <zip>3526</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szabolcs-Szatmar-Bereg Megyei Korhazak es Egyetemi Oktatokorhaz, Josa Andras Oktatokorhaz</name>
+      <address>
+        <city>Nyiregyhaza</city>
+        <zip>4400</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szegedi Tudományegyetem, Gyermekgyógyászati Klinika és Gyermekegészségügyi Centrum</name>
+      <address>
+        <city>Szeged</city>
+        <zip>6720</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Juntendo University Hospital</name>
+      <address>
+        <city>Bunkyo-Ku</city>
+        <zip>113-8431</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gunma University Hospital</name>
+      <address>
+        <city>Gunma</city>
+        <zip>371-0034</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kindai University Nara Hospital</name>
+      <address>
+        <city>Ikoma</city>
+        <zip>630-0293</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kurume University Hospital</name>
+      <address>
+        <city>Kurume</city>
+        <zip>830-0011</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saitama Children's Medical Center</name>
+      <address>
+        <city>Saitama-shi</city>
+        <zip>330-8777</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Miyagi Children'S Hospital</name>
+      <address>
+        <city>Sendai-shi</city>
+        <zip>989-3126</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Center for Child Health and Development</name>
+      <address>
+        <city>Setagaya-ku</city>
+        <zip>157-8535</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jichi Medical University Hospital</name>
+      <address>
+        <city>Shimotsuke</city>
+        <zip>329-0498</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mie University Hospital</name>
+      <address>
+        <city>Tsu</city>
+        <zip>514-8507</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szpital im. M. Kopernika</name>
+      <address>
+        <city>Gdansk</city>
+        <zip>80-803</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Uniwersytecki Szpital Dzieciecy w Krakowie</name>
+      <address>
+        <city>Krakow</city>
+        <zip>30-663</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gabinet Lekarski Bartosz Korczowski</name>
+      <address>
+        <city>Rzeszow</city>
+        <zip>35-302</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szpital Pomnik Centrum Zdrowia Dziecka</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>04-730</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Uniwersytecki Szpital Kliniczny im. Jana Mikulicza-Radeckiego we Wroclawiu</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>50-369</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kazan State Medical University</name>
+      <address>
+        <city>Kazan</city>
+        <zip>420138</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kemerovo Regional Clinical Hospital</name>
+      <address>
+        <city>Kemerovo</city>
+        <zip>650066</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Russian National Research Medical University named after N.I.Pirogov</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119571</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FSBI 'Scientific Centre of Children Health' of the Russian Academy of Medical Sciences</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119991</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Privolzhsky Research Medical University of Ministry of Health of Russian Federation</name>
+      <address>
+        <city>Nizhny Novgorod</city>
+        <zip>603950</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saratov State Medical University</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410054</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yaroslavl Regional Children's Clinical Hospital</name>
+      <address>
+        <city>Yaroslavl</city>
+        <zip>150032</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Birmingham Children's Hospital</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B4 6NH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cambridge University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Cambridge</city>
+        <zip>CB2 0QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Hospital for Children and Young People</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH16 4TJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal London Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>E1 2AT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>King's College Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>SE5 9RS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Japan</country>
+    <country>Poland</country>
+    <country>Russian Federation</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://pam.sylogent.com/cr/CR108865</url>
+    <description>To learn how to participate in this trial please click here.</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>November 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2020</study_first_posted>
+  <last_update_submitted>April 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colitis</mesh_term>
+    <mesh_term>Colitis, Ulcerative</mesh_term>
+    <mesh_term>Ulcer</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ustekinumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data sharing policy of the Janssen Pharmaceutical Companies of Johnson &amp; Johnson is available at www.janssen.com/clinicaltrials/ transparency. As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) Project site at yoda.yale.edu</ipd_description>
+    <ipd_url>https://www.janssen.com/clinical-trials/transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

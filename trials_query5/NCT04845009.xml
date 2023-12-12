@@ -1,0 +1,167 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04845009</url>
+  </required_header>
+  <id_info>
+    <org_study_id>relaxation for HN</org_study_id>
+    <nct_id>NCT04845009</nct_id>
+  </id_info>
+  <brief_title>Relaxation Therapy for Pain, Fatigue and Vital Signs in Post-operation With Head and Neck Cancer</brief_title>
+  <official_title>The Effectiveness of Progressive Muscle Relaxation on Postoperative Pain, Fatigue, and Vital Signs in Patients With Head and Neck Cancers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Taipei Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Taipei Medical University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aimed to investigate the effects of progressive muscle relaxation (PMR) on&#xD;
+      postoperative pain, fatigue, and vital signs in patients with head and neck cancers.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 1, 2015</start_date>
+  <completion_date type="Actual">May 20, 2016</completion_date>
+  <primary_completion_date type="Actual">May 20, 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pain level change</measure>
+    <time_frame>preoperative day to postoperative day 10</time_frame>
+    <description>The VAS (visual analog scale) score of pain levels, range 0-100, higher score means more severe symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>muscle tightness level change</measure>
+    <time_frame>preoperative day to postoperative day 10</time_frame>
+    <description>The VAS (visual analog scale) score of muscle tightness levels, range 0-100, higher score means more severe symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fatigue levels change</measure>
+    <time_frame>preoperative day to postoperative day 10</time_frame>
+    <description>The VAS (visual analog scale) score of fatigue levels, range 0-100, higher score means more severe symptoms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Heart rate change</measure>
+    <time_frame>preoperative day to postoperative day 10</time_frame>
+    <description>Heart rate change</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systolic blood pressure change</measure>
+    <time_frame>preoperative day to postoperative day 10</time_frame>
+    <description>Systolic blood pressure change</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diastolic blood pressure change</measure>
+    <time_frame>preoperative day to postoperative day 10</time_frame>
+    <description>Diastolic blood pressure change</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety level</measure>
+    <time_frame>preoperative day to postoperative day 10</time_frame>
+    <description>The VAS (visual analog scale) score of Anxiety levels, range 0-100, higher score means more severe symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>depression level</measure>
+    <time_frame>preoperative day to postoperative day 10</time_frame>
+    <description>The VAS (visual analog scale) score of depression levels, range 0-100, higher score means more severe symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>sleep disturbance level</measure>
+    <time_frame>preoperative day to postoperative day 10</time_frame>
+    <description>The VAS (visual analog scale) score of sleep disturbance levels, range 0-100, higher score means more severe symptoms.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">67</enrollment>
+  <condition>Progressive Muscle Relaxation on Postoperative Pain, Fatigue, and Vital Signs in Patients With Head and Neck Cancers</condition>
+  <arm_group>
+    <arm_group_label>progressive muscle relaxation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>progressive muscle relaxation tape guided</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>usual care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>usual care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>progressive muscle relaxation</intervention_name>
+    <description>progressive muscle relaxation</description>
+    <arm_group_label>progressive muscle relaxation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Usual care</intervention_name>
+    <description>Usual care</description>
+    <arm_group_label>usual care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Head and neck cancer, need for surgery.&#xD;
+&#xD;
+        (1) clear consciousness; (2) &gt;= 20 years; (3) no history of surgery for head and neck&#xD;
+        cancer, regardless of cancer staging, tracheostomy tubing, degree of primary tumor&#xD;
+        resection, neck dissection, modified radical neck dissection, resection of cervical nerve&#xD;
+        root branches, and flap reconstruction (including free flap and transposition flap); (4)&#xD;
+        plan to undergo surgery; (5) willingness to participate in this study and provide informed&#xD;
+        consent; (6) physically capable of participation the study, as determined by the physician&#xD;
+        in charge; (7) ability to communicate in Mandarin or Taiwanese, with no reading, listening,&#xD;
+        or writing disability, and complete the questionnaire alone or with the assistance of the&#xD;
+        researchers.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Head and neck cancer, not for surgery.&#xD;
+&#xD;
+        (1) use of hypnotics or record of a sleep disorder within 3 months prior to admission; (2)&#xD;
+        difficulty hearing, external auditory canal trauma, or hearing impairment; (3) diagnosis of&#xD;
+        a psychotic disorder or cognitive impairment; (4) experience practicing Jacobson's PMR.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>progressive muscle relaxation</keyword>
+  <keyword>head and neck cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+    <mesh_term>Fatigue</mesh_term>
+    <mesh_term>Pain, Postoperative</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

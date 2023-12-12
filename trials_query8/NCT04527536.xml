@@ -1,0 +1,173 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527536</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ShanghaiFMIH-2020-084</org_study_id>
+    <nct_id>NCT04527536</nct_id>
+  </id_info>
+  <brief_title>Research of Diagnostic Value for BMJ Infants</brief_title>
+  <official_title>Research of Diagnostic Value of Fecal miRNA and Intestinal Flora in Infants With BMJ</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shanghai First Maternity and Infant Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shanghai First Maternity and Infant Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Breast milk jaundice (BMJ) is the main cause of neonatal hyperbilirubinemia. Excessive serum&#xD;
+      unconjugated bilirubin level will not only cause the interruption or early termination of&#xD;
+      breastfeeding, but also cause kernicterus. Which can cause long-term dysfunction in infants.&#xD;
+      But for a long time, BMJ diagnosis has relied on clinical exclusive methods, lack of&#xD;
+      objective and reliable laboratory indicators. Which leads to misdiag. This project is a&#xD;
+      single-center, prospective nested case-control study. It is planned to establish a neonatal&#xD;
+      BMJ cohort. According to the admission criteria, 100 cases of early-onset BMJ and late-onset&#xD;
+      BMJ will be completed, and 100 healthy controls collected during the same period. , Compare&#xD;
+      the detection results of fecal miRNA and intestinal flora of the two groups of BMJ children&#xD;
+      and healthy controls, draw the ROC curve of the joint diagnosis, conduct research on the&#xD;
+      combined diagnostic value of fecal miRNA and intestinal flora analysis, and try to find the&#xD;
+      feasibility and practical value of diagnostic markers for feces in infants with BMJ.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This project is a single-center, prospective nested case-control study to investigate&#xD;
+      feasibility and practical value of diagnostic markers in infants with BMJ.&#xD;
+&#xD;
+      According to the admission criteria, 100 cases of early-onset BMJ, 100 late-onset BMJ and 100&#xD;
+      healthy controls will be selected. Their feces, peripheral venous blood and mothers' breast&#xD;
+      milk were collected for further testing. Compare the detection results of fecal miRNA and&#xD;
+      intestinal flora of the two groups of BMJ children and healthy controls, draw the ROC curve&#xD;
+      of the joint diagnosis, conduct research on the combined diagnostic value of fecal miRNA and&#xD;
+      intestinal flora analysis.&#xD;
+&#xD;
+      This study is to find the objective and reliable laboratory indicators to diagnose BMJ.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Analysis of breast milk exosomes miRNA</measure>
+    <time_frame>2021.10.01-2022.09.30</time_frame>
+    <description>Analysis of breast milk exosomes miRNA</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Analysis of newborn feces miRNA and intestinal flora analysis</measure>
+    <time_frame>2021.10.01-2022.09.30</time_frame>
+    <description>Analysis of newborn feces miRNA and intestinal flora analysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>UGT1A1 test in newborn blood</measure>
+    <time_frame>2021.10.01-2022.09.30</time_frame>
+    <description>UGT1A1 test in newborn blood</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Jaundice, Neonatal</condition>
+  <arm_group>
+    <arm_group_label>early-set BMJ group</arm_group_label>
+    <description>Infants were admitted to our hospital at 4-7 days of age and were followed up to 28 days. Other pathological jaundice factors were excluded.Those who met the criteria were the early-onset BMJ group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>late-onset BMJ group</arm_group_label>
+    <description>Infants were admitted to our hospital after 7 days of age and were followed up to 28-42 days or until the jaundice disappeared. Other pathological jaundice factors were excluded..Those who met the criteria were late-onset BMJ</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>healthy control</arm_group_label>
+    <description>During the same period, the healthy newborns who were born in the obstetrics department of our hospital. These newborns were mainly breastfed or breastfed, and grew well. They were enrolled at 7-14 days of age and were followed up to 28-42 days without pathological jaundice.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Neonatal hyperbilirubinemia</intervention_name>
+    <description>Neonatal hyperbilirubinemia：The total serum bilirubin exceeds the 95th percentile of the Bhutani neonatal hourly bilirubin nomogram.</description>
+    <arm_group_label>early-set BMJ group</arm_group_label>
+    <arm_group_label>healthy control</arm_group_label>
+    <arm_group_label>late-onset BMJ group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Newborn babies born from research start who diagnosed neonatal hyperbilirubinemia and&#xD;
+        healthy newborns&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All the following conditions must be met&#xD;
+&#xD;
+               1. Term newborns admitted to hospital with &quot;neonatal hyperbilirubinemia&quot;&#xD;
+&#xD;
+               2. Exclusive breastfeeding or mainly breastfeeding&#xD;
+&#xD;
+               3. Exclude perinatal infection, G-6P-D deficiency, homoimmune hemolysis,&#xD;
+                  polycythemia, scalp hematoma, intracranial hemorrhage, cholestasis, hypoglycemia,&#xD;
+                  hypothyroidism, hypothermia, neonatal asphyxia, fetus Pathological jaundice&#xD;
+                  factors such as delayed stool excretion.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  As long as any one of the following conditions should be excluded&#xD;
+&#xD;
+               1. During the follow-up period, breastfeeding was terminated or the daily milk&#xD;
+                  powder intake exceeded 200 ml.&#xD;
+&#xD;
+               2. Other pathological jaundice was diagnosed during the follow-up period.&#xD;
+&#xD;
+               3. Take probiotics during the sampling period.&#xD;
+&#xD;
+               4. The guardian asked to withdraw from the study halfway.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>42 Days</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Jing Li, Doctorate</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Shanghai First Maternity and Infant Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jing Li, Doctorate</last_name>
+    <phone>01861358683669</phone>
+    <email>zzhlq3@qq.com</email>
+  </overall_contact>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>August 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 26, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Jaundice, Neonatal</mesh_term>
+    <mesh_term>Jaundice</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,204 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04674579</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MRI cerebral glioma</org_study_id>
+    <nct_id>NCT04674579</nct_id>
+  </id_info>
+  <brief_title>Automatic Segmentation MRI Cerebral Glioma</brief_title>
+  <official_title>The Added Value of Automatic Segmentation of Cerebral Gliomas in Multi-Sequence Magnetic Resonance Imaging (MRI)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to evaluate the role of automatic segmentation of cerebral gliomas&#xD;
+      in multi-sequence MR images using state-of-the-art methods for automatic segmentation and&#xD;
+      internal classification of brain tumors in correlation with operative findings&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Gliomas are the most common primary brain tumors and are classified by their&#xD;
+      histopathological appearances using the World Health Organization (WHO) system into low-grade&#xD;
+      glioma (LGG) (grades I and II) and high-grade glioma (grade III anaplastic glioma and grade&#xD;
+      IV glioblastoma.&#xD;
+&#xD;
+      Gliomas, particularly high-grade, exhibit irregular growth patterns infiltrating the&#xD;
+      surrounding brain and thus showing irregular boundaries that may not be clear on conventional&#xD;
+      magnetic resonance images (MRI) MR images are visually inspected by radiologists, however,&#xD;
+      visual assessment is subjective, time consuming and prone to variability due to inter-rater&#xD;
+      differences. Accurate delineation of tumor boundaries as well as assessment of tumor volume&#xD;
+      are essential for treatment planning and monitoring treatment response . However, accurate&#xD;
+      delineation of the boundaries of glioma using subjective visual assessment is often difficult&#xD;
+      due to tumor heterogeneity and complexity, overlapping signal intensity with surrounding&#xD;
+      tissues and uneven tumor growth into nearby structures .&#xD;
+&#xD;
+      Compared to tumor volumetry, the routine visual evaluation of tumor size is based upon simple&#xD;
+      linear measurements of the gross tumor volume. These bi-dimensional measurements are often&#xD;
+      performed on a single MRI slice without volumetric measurements. These linear measurements&#xD;
+      are user-dependent and prone to errors due to increased measurement variability, especially&#xD;
+      in irregularly shaped lesions Computer-based fully-automatic tumor segmentation methods&#xD;
+      present a possible solution to these issues. The process is based upon information extraction&#xD;
+      from structural brain MRI images using a probabilistic tissue model to define the clear tumor&#xD;
+      boundaries using different MRI pulse sequences. These methods could accurately and rapidly&#xD;
+      identify glioma from surrounding normal brain tissue, and perform tumor volumetry, while&#xD;
+      eliminating intra-observer and inter-observer variability Internal changes within glioma,&#xD;
+      such as enhancement pattern and degeneration are crucial for identification of glioma grade,&#xD;
+      planning of treatment, monitoring of disease progression and evaluating the efficacy of&#xD;
+      therapy. In the process of automatic glioma segmentation, different parts of the glioma are&#xD;
+      characterized as solid (active) tumor, necrosis and peri-tumoral edema .&#xD;
+&#xD;
+      Automatic segmentation methods utilize artificial intelligence and machine learning&#xD;
+      techniques for extraction of information from multi-sequence MRI including, basically, T1W,&#xD;
+      Gadolinium enhanced T1W, T2W and FLAIR sequences .&#xD;
+&#xD;
+      Appropriate assessment of the extent of tumor resection plays an important role in the&#xD;
+      prognosis of glioma, since maximizing the extent of resection influences survival in these&#xD;
+      patients. Complete resection of enhancing tumor, defined as the removal of the final 1-2% of&#xD;
+      the tumor, seems to provide the most benefit in terms of patient's survival . Automatic&#xD;
+      segmentation could lead to better diagnosis and proper treatment planning through accurate&#xD;
+      tumor localization and classification .&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2021</start_date>
+  <completion_date type="Anticipated">April 2023</completion_date>
+  <primary_completion_date type="Anticipated">February 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>evaluate the role of automatic segmentation of cerebral gliomas in multi-sequence MR images in correlation with operative findings.</measure>
+    <time_frame>baseline</time_frame>
+    <description>The aim of this study is to evaluate the role of automatic segmentation of cerebral gliomas in multi-sequence MR images using state-of-the-art methods for automatic segmentation and internal classification of brain tumors in correlation with operative findings.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Cerebral Glioblastoma</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>MRI</intervention_name>
+    <description>magnetic resonance imaging</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study will include 50 patients with cerebral gliomas identified by MRI A standardized&#xD;
+        multi-parametric MR protocol will be implemented for all patients. All sequences will be&#xD;
+        acquired on a 1.5T MR scanner.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Patients with cerebral gliomas identified by MRI who will be treated surgically&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previously operated or biopsied gliomas.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Mostafa Mostafa</last_name>
+    <role>Study Director</role>
+    <affiliation>Assiut University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Hosameldeen Metwalli</last_name>
+    <role>Study Director</role>
+    <affiliation>Assiut University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Noha Attia</last_name>
+    <role>Study Director</role>
+    <affiliation>Assiut University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>fatma sedeek</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>fatma sedeek</last_name>
+    <phone>01066952726</phone>
+    <email>fatma.rabiee15@gmail.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Soltaninejad M, Yang G, Lambrou T, Allinson N, Jones TL, Barrick TR, Howe FA, Ye X. Automated brain tumour detection and segmentation using superpixel-based extremely randomized trees in FLAIR MRI. Int J Comput Assist Radiol Surg. 2017 Feb;12(2):183-203. doi: 10.1007/s11548-016-1483-3. Epub 2016 Sep 20.</citation>
+    <PMID>27651330</PMID>
+  </reference>
+  <reference>
+    <citation>Wen PY, Macdonald DR, Reardon DA, Cloughesy TF, Sorensen AG, Galanis E, Degroot J, Wick W, Gilbert MR, Lassman AB, Tsien C, Mikkelsen T, Wong ET, Chamberlain MC, Stupp R, Lamborn KR, Vogelbaum MA, van den Bent MJ, Chang SM. Updated response assessment criteria for high-grade gliomas: response assessment in neuro-oncology working group. J Clin Oncol. 2010 Apr 10;28(11):1963-72. doi: 10.1200/JCO.2009.26.3541. Epub 2010 Mar 15.</citation>
+    <PMID>20231676</PMID>
+  </reference>
+  <reference>
+    <citation>Niyazi M, Brada M, Chalmers AJ, Combs SE, Erridge SC, Fiorentino A, Grosu AL, Lagerwaard FJ, Minniti G, Mirimanoff RO, Ricardi U, Short SC, Weber DC, Belka C. ESTRO-ACROP guideline &quot;target delineation of glioblastomas&quot;. Radiother Oncol. 2016 Jan;118(1):35-42. doi: 10.1016/j.radonc.2015.12.003. Epub 2016 Jan 6.</citation>
+    <PMID>26777122</PMID>
+  </reference>
+  <reference>
+    <citation>Tabatabai G, Stupp R, van den Bent MJ, Hegi ME, Tonn JC, Wick W, Weller M. Molecular diagnostics of gliomas: the clinical perspective. Acta Neuropathol. 2010 Nov;120(5):585-92. doi: 10.1007/s00401-010-0750-6. Epub 2010 Sep 23. Review.</citation>
+    <PMID>20862485</PMID>
+  </reference>
+  <reference>
+    <citation>Kanaly CW, Mehta AI, Ding D, Hoang JK, Kranz PG, Herndon JE 2nd, Coan A, Crocker I, Waller AF, Friedman AH, Reardon DA, Sampson JH. A novel, reproducible, and objective method for volumetric magnetic resonance imaging assessment of enhancing glioblastoma. J Neurosurg. 2014 Sep;121(3):536-42. doi: 10.3171/2014.4.JNS121952. Epub 2014 Jul 18.</citation>
+    <PMID>25036205</PMID>
+  </reference>
+  <reference>
+    <citation>Meier R, Knecht U, Loosli T, Bauer S, Slotboom J, Wiest R, Reyes M. Clinical Evaluation of a Fully-automatic Segmentation Method for Longitudinal Brain Tumor Volumetry. Sci Rep. 2016 Mar 22;6:23376. doi: 10.1038/srep23376.</citation>
+    <PMID>27001047</PMID>
+  </reference>
+  <reference>
+    <citation>Gordillo N, Montseny E, Sobrevilla P. State of the art survey on MRI brain tumor segmentation. Magn Reson Imaging. 2013 Oct;31(8):1426-38. doi: 10.1016/j.mri.2013.05.002. Epub 2013 Jun 20. Review.</citation>
+    <PMID>23790354</PMID>
+  </reference>
+  <reference>
+    <citation>Porz N, Habegger S, Meier R, Verma R, Jilch A, Fichtner J, Knecht U, Radina C, Schucht P, Beck J, Raabe A, Slotboom J, Reyes M, Wiest R. Fully Automated Enhanced Tumor Compartmentalization: Man vs. Machine Reloaded. PLoS One. 2016 Nov 2;11(11):e0165302. doi: 10.1371/journal.pone.0165302. eCollection 2016.</citation>
+    <PMID>27806121</PMID>
+  </reference>
+  <reference>
+    <citation>Naceur MB, Saouli R, Akil M, Kachouri R. Fully Automatic Brain Tumor Segmentation using End-To-End Incremental Deep Neural Networks in MRI images. Comput Methods Programs Biomed. 2018 Nov;166:39-49. doi: 10.1016/j.cmpb.2018.09.007. Epub 2018 Sep 21.</citation>
+    <PMID>30415717</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 19, 2020</study_first_posted>
+  <last_update_submitted>December 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Fatma Rabiee Ali Sedeek</investigator_full_name>
+    <investigator_title>assuit egypt</investigator_title>
+  </responsible_party>
+  <keyword>MRI automatic segmentation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

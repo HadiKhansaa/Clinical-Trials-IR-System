@@ -1,0 +1,794 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01581801</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UCSC-2012-V01</org_study_id>
+    <secondary_id>2012-bariatric-001</secondary_id>
+    <nct_id>NCT01581801</nct_id>
+  </id_info>
+  <brief_title>Bariatric Surgery and Reactive Hypoglycemia</brief_title>
+  <official_title>RANDOMIZED CLINICAL STUDY COMPARING THE EFFECT OF ROUX-en-Y GASTRIC BYPASS AND SLEEVE GASTRECTOMY ON REACTIVE HYPOGLYCEMIA</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Catholic University of the Sacred Heart</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Catholic University of the Sacred Heart</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Bariatric surgery has long been recognized as an effective treatment for grade 3 or grade 2&#xD;
+      obesity associated with complications. Among the bariatric surgical procedures, roux-en-y&#xD;
+      gastric bypass (RYGB) was shown to account for 41% of all bariatric operations at least in&#xD;
+      the United Sates. Sleeve gastrectomy (SG), that was conceived as the first step before&#xD;
+      performing a RYGB or a biliopancreatic diversion with duodenal switch in patients who were&#xD;
+      super-obese, has recently emerged as a new restrictive bariatric procedure.&#xD;
+&#xD;
+      Reactive hypoglycemia is a late complication affecting up to 72% of RYGB patients although it&#xD;
+      seems to occur also after SG, in about 3% of the cases. However, until now no prospective&#xD;
+      studies have investigated the incidence of hypoglycemia after RYGB nor randomized studies&#xD;
+      have been undertaken to compare the effect of SG to that of RYGB in terms of incidence of&#xD;
+      hypoglycemic episodes.&#xD;
+&#xD;
+      The primary aim of the present study is to conduct a 1-year randomized trial to compare the&#xD;
+      incidence of hypoglycemia after RYGB or SG.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      INTRODUCTION Geltrude Mingrone,Simona Panunzi, Andrea De Gaetano, Caterina Guidone, Celestino&#xD;
+      Pio Lombardi, Marco Raffaelli,Rocco Bellantone Departments of Internal Medicine, Surgery and&#xD;
+      Biomathematics of the Catholic University of Rome, Italy&#xD;
+&#xD;
+      The overall prevalence of grade 2 and 3 adult obesity (BMI&gt; 35 kg/m2) derived from the&#xD;
+      2009-2010 National Health and Nutrition Examination Survey (NHANES) exceeded 15% and grade 3&#xD;
+      obesity (BMI &gt; 40 kg/m2) accounted for 6.3% (1). The dietary approach is modestly&#xD;
+      satisfactory in the short term and weight regain is practically the rule in the long run as a&#xD;
+      consequence of the scarce compliance to the diet shown by the obese subjects. In fact, in a&#xD;
+      recent study (2) where different types of diets were assigned to a population of overweight&#xD;
+      and obese subjects (BMI from 25 to 40 kg/m2), an average of 6 kg, corresponding to 7% of the&#xD;
+      initial body weight, was lost in the first 6 months, but the weight was regained after 1 year&#xD;
+      and at 2 years, only 31-37% of the participants had lost 5% of their initial weight.&#xD;
+&#xD;
+      Bariatric surgery has long been recognized as an effective treatment for grade 3 or grade 2&#xD;
+      obesity associated with complications (3) and, accordingly, the number of bariatric&#xD;
+      operations in the United States is growing over time from ca. 10,000 in the early 1990s to&#xD;
+      103,000 in 2003 (4).&#xD;
+&#xD;
+      Bariatric surgery allows to type 2 diabetes remission (5,6) while improving several other&#xD;
+      serious comorbidities (7). Among the bariatric surgical procedures, roux-en-y gastric bypass&#xD;
+      (RYGB) was shown to account for 41% of all bariatric operations at least in the United Sates&#xD;
+      (8). Sleeve gastrectomy (SG), that was conceived as the first step before performing a RYGB&#xD;
+      or a biliopancreatic diversion with duodenal switch in patients who were super-obese (9), has&#xD;
+      recently emerged as a new restrictive bariatric procedure (10). It was noticed that SG&#xD;
+      determines a weight loss similar to that achieved after RYGB (11) and larger than that&#xD;
+      following laparoscopic adjustable gastric banding (12,13).&#xD;
+&#xD;
+      Reactive hypoglycemia is a late complication of RYGB although it seems to occur also after&#xD;
+      SG.&#xD;
+&#xD;
+      After RYGB insulin secretion is enhanced early after an oral glucose tolerance test (OGTT)&#xD;
+      (14) or a meal (15,16) and might explain the later reactive hypoglycemia. An increasing&#xD;
+      number of reports highlight the occurrence of severe hypoglycemia after RYGB including&#xD;
+      neuroglycopenia that is attributed to nesidioblastosis (17-20). Roslin et al (21) found that&#xD;
+      72%, i.e. 26 out of 36 patients operated of RYGB 6 months earlier, had reactive hypoglycemia&#xD;
+      at 2 hours after an OGTT (100 g of glucose), which was defined as &quot;an absolute serum glucose&#xD;
+      level ≤60 mg/dL, or a drop of 100 mg/dL in serum glucose level in 1 h&quot;.&#xD;
+&#xD;
+      As compared with RYGB, SG seems to have a much lower occurrence of reactive hypoglycemia, ca.&#xD;
+      3%, i.e. 1 out of 31 patients studied at 6 weeks after the operation (22).&#xD;
+&#xD;
+      Fortunately, the frequency of severe hypoglycemia or related symptoms requiring&#xD;
+      hospitalization after RYGB is pretty low, the adjusted hazard ratios were in fact 2.7 for&#xD;
+      hypoglycemia, 2.8 for confusion, 4.9 for syncope, 3.0 for epilepsy and 7.3 for seizures (23)&#xD;
+      in a Swedish cohort study based on national registries with 5,040 operated persons (23).&#xD;
+&#xD;
+      However, until now no prospective studies have investigated the incidence of hypoglycemia&#xD;
+      after RYGB nor randomized studies have been undertaken to compare the effect of SG to that of&#xD;
+      RYGB in terms of incidence of hypoglycemic episodes.&#xD;
+&#xD;
+      The primary aim of the present study is to conduct a 1-year randomized trial to compare the&#xD;
+      incidence of hypoglycemia after RYGB or SG.&#xD;
+&#xD;
+      STUDY OBJECTIVE&#xD;
+&#xD;
+      Primary objective The primary objective of the study is to verify whether SG decrease the&#xD;
+      percentage of patients presenting with reactive hypoglycemia with respect to RYGB within 1&#xD;
+      years after the bariatric operation.&#xD;
+&#xD;
+      Secondary objectives&#xD;
+&#xD;
+        -  To quantify the relative contribution of changes in insulin sensitivity and insulin&#xD;
+           secretion measured after an OGTT to the glycemic effect of bariatric surgery and to&#xD;
+           determine if differences exist between the two surgical treatments.&#xD;
+&#xD;
+        -  To determine whether treatment is associated with body weight, BMI and abdominal&#xD;
+           circumference loss and with body composition, as assessed by DEXA, as well as with lipid&#xD;
+           profile and cardiovascular system abnormalities.&#xD;
+&#xD;
+        -  To assess the occurrence of severe hypoglycemia or related symptoms (shakiness,&#xD;
+           sweating, dizziness or light-headedness, confusion, difficulty speaking, weakness,&#xD;
+           confusion, syncope, epilepsy, seizures) within 5 years after the operation and determine&#xD;
+           whether SG decrease its incidence.&#xD;
+&#xD;
+      EXPERIMENTAL DESIGN Study End-points&#xD;
+&#xD;
+      Primary End-point The Primary Endpoint of the study is the incidence reactive hypoglycemia at&#xD;
+      1 year after the bariatric surgery.&#xD;
+&#xD;
+      Secondary End-points&#xD;
+&#xD;
+        -  Changes at 1 year of insulin sensitivity and insulin secretion measured after an OGTT.&#xD;
+&#xD;
+        -  Changes at 1 year of body weight, BMI, abdominal circumference, body composition, lipid&#xD;
+           profile and cardiovascular system abnormalities.&#xD;
+&#xD;
+        -  the incidence of severe hypoglycemia or related symptoms (shakiness, sweating, dizziness&#xD;
+           or light-headedness, confusion, difficulty speaking, weakness, confusion, syncope,&#xD;
+           epilepsy, seizures) within 5 years after the operation.&#xD;
+&#xD;
+      Experimental plan This is a monocentric prospective controlled randomized clinical trial&#xD;
+      designed to investigate if the SG reduces the incidence of reactive hypoglycemia with respect&#xD;
+      to RYGB within 1 years after the bariatric operation.&#xD;
+&#xD;
+      At the moment of the Screening visit subjects will be randomized to be undergone either the&#xD;
+      SG or the RYGB surgical procedure.&#xD;
+&#xD;
+      Study Design diagram&#xD;
+&#xD;
+      The diagram of the study plan is as follows:&#xD;
+&#xD;
+      Screening Visit (-18 weeks) Baseline Visit (-4 weeks) Follow-up Visit (+1 month) Follow-up&#xD;
+      Visit (+3 months) Follow-up Visit (+6 months) Follow-up Visit (+9 months) Follow-up Visit&#xD;
+      (+12 months) Written informed consent Demographic Data Medical and surgical history Physical&#xD;
+      examination† Height weight, BMI waist and hip circumference DEXA blood pressure and heart&#xD;
+      rate ECG laboratory assessments OGTT adverse events recording concomitant medication An&#xD;
+      overview of all planned blood samples, including volumes and purpose is provided in Table 2.&#xD;
+&#xD;
+      Study duration&#xD;
+&#xD;
+      Subjects will be studied from the time of Screening Visit to 1 year after the surgical&#xD;
+      procedure and will undergo four distinct phases:&#xD;
+&#xD;
+        -  Screening visit (week -18)&#xD;
+&#xD;
+        -  Baseline visit (week -4)&#xD;
+&#xD;
+        -  A follow-up period after the surgical treatment (1 year of duration, month 1, 3, 6, 9,&#xD;
+           12)&#xD;
+&#xD;
+        -  A further follow-up period after study conclusion (4 years of duration)&#xD;
+&#xD;
+      Screening Visit At week -18, eligible patients are identified and the Written informed&#xD;
+      consent is obtained. Demographic data, anthropometric measures, physical examination and&#xD;
+      information about medical history, concomitant medication and variables related to inclusion&#xD;
+      criteria are collected.&#xD;
+&#xD;
+      Basal Visit At week -4 patients at the screening visit will be asked to return for the&#xD;
+      baseline visit and they will be asked to give their informed consent to randomization. Study&#xD;
+      compliance will be assessed during the screening and baseline periods using attendance at&#xD;
+      appointments and completion of questionnaires. Baseline anthropometric measures, body&#xD;
+      composition, blood pressure, and biochemical data (levels of fasting plasma glucose, glycated&#xD;
+      hemoglobin [HbA1c], C-peptide, and serum insulin, lipid profile and oral glucose tolerance&#xD;
+      test) are measured.&#xD;
+&#xD;
+      Follow-up Period One month after the bariatric surgery and each 3 months until 1 year after&#xD;
+      the surgical treatment (month 1, 3, 6, 9, 12) all the collected variables at baseline will be&#xD;
+      recorded and an OGTT will be performed. Adverse events will be recorded at each follow-up&#xD;
+      visit.&#xD;
+&#xD;
+      Study conclusion and a further follow-up period At the conclusion of the a study a conclusion&#xD;
+      form will be filled in and patients will be followed up to 5 years after the surgical&#xD;
+      treatment.&#xD;
+&#xD;
+      STUDY POPULATION&#xD;
+&#xD;
+      Sample size The sample size depends on the magnitude of the difference in reactive&#xD;
+      hypoglycemia incidence as derived from previous studies (21) and (22). The study is designed&#xD;
+      to detect a more conservative absolute difference in the occurrence of hypoglycemia of 50%,&#xD;
+      expecting an incidence of 70% in the RYGB group versus an incidence of 20% in the SG group. A&#xD;
+      sample size of 19 patients per group would be required for this clinical trial to detect an&#xD;
+      improvement data significance level of 0.05 and a power of 0.90. Considering an attrition&#xD;
+      rate of 25% over the course of the study a total of 50 subjects (25 for each group) will be&#xD;
+      enrolled.&#xD;
+&#xD;
+      An amendment to enlarge the number of patients to 120, 60 in each arm, was approved by the&#xD;
+      Ethical Committee on November 2012. For a more conservative estimate in fact, we have reduced&#xD;
+      the percent difference between the two groups from 50% to 30% considering the incidence of&#xD;
+      reactive hypoglycemia to be 50% in RYGB and to 20% in SG instead of 70% and 20% respectively.&#xD;
+      In this way, the number of patients to be allocated in each arm is 50 with a power of 90%.&#xD;
+      Considering an attrition rate of 20% the number of patients in each group will be 60 and,&#xD;
+      thus, overall 120. Secondary endpoints for CGM and insulin sensitivity and secretion are&#xD;
+      evaluated in a subset of 50 patients, 25 in each Group, but can be also extended to entire&#xD;
+      sample.&#xD;
+&#xD;
+      Selection study population Patients will be recruited from the Outpatient Clinics and Day&#xD;
+      Hospital of Obesity of the Catholic University of Rome, Italy. The study will be subject to&#xD;
+      revision and approval by the Ethical Committee of the above institution in accordance with&#xD;
+      the guidelines of the National Health Ministry and the Helsinki Declaration, as revised in&#xD;
+      2000. All participants will provide written informed consent to participate in the study.&#xD;
+      Additional written informed consent will be obtained prior to the surgical procedure.&#xD;
+&#xD;
+      Inclusion Criteria Patients are eligible if aged between 25 and 65 years, have a body mass&#xD;
+      index of 35 (in presence of complications as sleep apnea, severe coxarthritis or&#xD;
+      gonarthritis, severe hypertension) to 50 kg/m2, and are able to understand and comply with&#xD;
+      the study process.&#xD;
+&#xD;
+      Exclusion Criteria&#xD;
+&#xD;
+        -  History of type 1 diabetes or secondary diabetes;&#xD;
+&#xD;
+        -  Previous bariatric surgery;&#xD;
+&#xD;
+        -  History of medical problems such as mental impairment;&#xD;
+&#xD;
+        -  Major cardiovascular disease;&#xD;
+&#xD;
+        -  Major gastrointestinal disease;&#xD;
+&#xD;
+        -  Major respiratory disease;&#xD;
+&#xD;
+        -  Hormonal disorders;&#xD;
+&#xD;
+        -  Infection;&#xD;
+&#xD;
+        -  History of drug addiction and/or alcohol abuse;&#xD;
+&#xD;
+        -  Internal malignancy;&#xD;
+&#xD;
+        -  Pregnancy;&#xD;
+&#xD;
+        -  Impaired glucose tolerance;&#xD;
+&#xD;
+        -  Suspected or confirmed poor compliance;&#xD;
+&#xD;
+        -  Informed consents; Participants will be excluded if they did not attend at least 2&#xD;
+           initial information visits.&#xD;
+&#xD;
+      TREATMENT&#xD;
+&#xD;
+      Surgical Program Within 1 month of randomization the patients will undergo RYGB or SG.&#xD;
+&#xD;
+      Roux-en-Y Gastric Bypass This laparoscopic operation includes the division of the stomach in&#xD;
+      two parts. A proximal, smaller pouch (20-25 cc volume), is connected to the rest of the&#xD;
+      gastrointestinal tract through a gastro-jejunal anastomosis, whereas the distal gastric pouch&#xD;
+      is left behind but excluded from the transit of food.&#xD;
+&#xD;
+      An entero-entero anastomosis, with a Roux-en-Y type of reconstruction, allows the bile and&#xD;
+      pancreatic juices to mix with the nutrients at about 100-150 cm from the gastro-jejunal&#xD;
+      connection.&#xD;
+&#xD;
+      Sleeve gastrectomy Laparoscopic SG involves a longitudinal resection of the stomach on the&#xD;
+      greater curvature from the antrum starting opposite of the nerve of Latarjet up to the angle&#xD;
+      of His The final gastric volume is about 100 mL.&#xD;
+&#xD;
+      Randomization Process Automatic dynamic allocation of the treatment to the patients will be&#xD;
+      performed via a Web-based software. The randomization procedure via Internet is an automatic&#xD;
+      and flexible mechanism that on one hand guarantees random allocation and on the other hand&#xD;
+      reduces imbalance with respect to the two treatment groups over the two considered&#xD;
+      stratification factors: gender and age (18-40 and 40-60). The mechanism may be accessed from&#xD;
+      any web-connected computer; it clears the user for data access (userid/password); it requires&#xD;
+      the user to specify the screening number of the subject about to be randomized; it verifies&#xD;
+      inclusion/exclusion criteria and acquires stratification information; it finally assigns the&#xD;
+      subject to a treatment, and delivers the corresponding unique randomization number. The&#xD;
+      procedure optimizes the overall balance of treatments among each stratification cell. The&#xD;
+      allocation algorithm will be verified by the responsible statistician for the study, who will&#xD;
+      have continuing access to the randomization statistics throughout the duration of the study.&#xD;
+&#xD;
+      Criteria for discontinuation and/or withdrawal&#xD;
+&#xD;
+      Criteria for discontinuation:&#xD;
+&#xD;
+        -  Withdrawal of informed consent&#xD;
+&#xD;
+        -  Subject uncooperative&#xD;
+&#xD;
+        -  Safety reasons as judged by principal investigator&#xD;
+&#xD;
+        -  Non-compliance to the protocol&#xD;
+&#xD;
+        -  Incorrect enrolment&#xD;
+&#xD;
+        -  Subjects who could not be operated laparoscopically&#xD;
+&#xD;
+        -  Conditions requiring medication that could interfere with the outcome of the study&#xD;
+           except those for intercurrent illnesses or adjustment of anti-hypertensive therapy as&#xD;
+           judged by the principal investigator&#xD;
+&#xD;
+        -  Subjects with severe complications due to the surgery as judged by the principal&#xD;
+           investigator&#xD;
+&#xD;
+        -  Bleedings related to surgery that make it impossible to draw blood samples&#xD;
+&#xD;
+      Subjects may be discontinued from the study at any time, at the discretion of the&#xD;
+      investigator. Subjects are free to discontinue their participation in the study at any time.&#xD;
+      Subjects who discontinue from the study should always be asked about the reason(s) for the&#xD;
+      discontinuation. If possible, they should always be seen and assessed by an investigator.&#xD;
+      Adverse events will be followed up according to national requirements.&#xD;
+&#xD;
+      If a subject discontinues participation in the study, then his enrolment number cannot be&#xD;
+      issued to another subject.&#xD;
+&#xD;
+      EFFICACY EVALUATION&#xD;
+&#xD;
+      In order to evaluate the effect of the sleeve gastrectomy versus the Roux-en-Y Gastric bypass&#xD;
+      on the glycemic control the following parameters will be considered:&#xD;
+&#xD;
+      Primary endpoint Primary Endpoint: incidence of reactive hypoglycemia at 1 year after the&#xD;
+      bariatric surgery.&#xD;
+&#xD;
+      Secondary End-points&#xD;
+&#xD;
+        -  Changes at 1 year of insulin sensitivity and insulin secretion measured by means of an&#xD;
+           OGTT.&#xD;
+&#xD;
+        -  Changes at 1 year of body weight, BMI, abdominal circumference, body composition and&#xD;
+           lipid profile.&#xD;
+&#xD;
+        -  the incidence of severe hypoglycemia or related symptoms (shakiness, sweating, dizziness&#xD;
+           or light-headedness, confusion, difficulty speaking, weakness, confusion, syncope,&#xD;
+           epilepsy, seizures) within 5 years after the operation.&#xD;
+&#xD;
+      Evaluation methods and timing&#xD;
+&#xD;
+      During the experimental study the following clinical evaluations will be performed:&#xD;
+&#xD;
+        1. Demographic Data (week -18)&#xD;
+&#xD;
+             -  Date of birth&#xD;
+&#xD;
+             -  Gender&#xD;
+&#xD;
+             -  Ethnicity&#xD;
+&#xD;
+        2. Medical and Surgical History (week -18, week -4)&#xD;
+&#xD;
+        3. Anthropometric measurements (week -18, week -4, month 1, 3, 6, 9 and 12)&#xD;
+&#xD;
+             -  Body Weight (will be measured to the nearest 0.1 kg on a balanced beam scale in the&#xD;
+                morning before breakfast after a visit to the lavatory in their underwear's).&#xD;
+&#xD;
+             -  Height (will be measured to the nearest 0.5 cm using a stadiometer)&#xD;
+&#xD;
+             -  Waist circumference (will be measured at the part of the trunk midway between the&#xD;
+                most caudal part of the lateral costal arch and the iliac crest in the morning&#xD;
+                before breakfast, after lavatory visit with the person standing with feet about&#xD;
+                25-30 cm apart. The measurer will stand beside the individual and fit the tape&#xD;
+                snugly, without compressing any underlying soft tissues. The circumference will be&#xD;
+                measured to the nearest 0.5 cm, at the end of a normal expiration.&#xD;
+&#xD;
+             -  Hip circumference (will be measured as the maximal circumference over the buttocks)&#xD;
+&#xD;
+             -  BMI (will be computed as weight (kg) / height (m2))&#xD;
+&#xD;
+        4. Physical examination (week -18, week -4, month 1, 3, 6, 9 and 12)&#xD;
+&#xD;
+             -  General appearance&#xD;
+&#xD;
+             -  Skin&#xD;
+&#xD;
+             -  Head and neck&#xD;
+&#xD;
+             -  Lymph nodes&#xD;
+&#xD;
+             -  Thyroid&#xD;
+&#xD;
+             -  Cardiovascular system&#xD;
+&#xD;
+             -  Respiratory systems&#xD;
+&#xD;
+             -  Abdomen&#xD;
+&#xD;
+             -  Other&#xD;
+&#xD;
+        5. Cardiovascular Parameters (week -18, week -4, month 1, 3, 6, 9 and 12)&#xD;
+&#xD;
+             -  Blood pressure&#xD;
+&#xD;
+             -  Heart rate (blood pressure and heart rate will be measured in sitting position in&#xD;
+                duplicate after 15 min rest)&#xD;
+&#xD;
+             -  ECG (recorded under resting condition. It will be performed according to standard&#xD;
+                routine at bariatric surgery)&#xD;
+&#xD;
+        6. Biochemical analysis (week -18, week -4, month 1, 3, 6, 9 and 12)&#xD;
+&#xD;
+             -  Fasting plasma glucose&#xD;
+&#xD;
+             -  Fasting plasma insulin&#xD;
+&#xD;
+             -  Fasting plasma C-peptide&#xD;
+&#xD;
+             -  HbA1c&#xD;
+&#xD;
+             -  Total cholesterol&#xD;
+&#xD;
+             -  HDL-cholesterol&#xD;
+&#xD;
+             -  Triglycerides&#xD;
+&#xD;
+             -  Hematology profile&#xD;
+&#xD;
+             -  Chemistry panel&#xD;
+&#xD;
+        7. Oral Glucose Tolerance Test (OGTT) (week -18, month 1, 3, 6, 9 and 12) At 8:00-9:00&#xD;
+           a.m., after a 12-h overnight fast, an intravenous catheter is placed in one antecubital&#xD;
+           vein to draw blood samples. An OGTT (75 g of glucose) is performed in 10 minutes maximum&#xD;
+           and blood samples obtained at -20, -5, 5, 10, 20, 30, 40, 60, 80, 100, 120, 140, 160 and&#xD;
+           180 min relative to the start of the OGTT. Samples are placed in chilled tubes, and&#xD;
+           plasma is separated within 20 min and stored at -70°C.&#xD;
+&#xD;
+           Analytical Methods Plasma glucose will be measured by the glucose-oxidase method&#xD;
+           (Beckman, Fullerton, CA). Plasma insulin will be assayed by microparticle-enzyme&#xD;
+           immunoassay (Abbott, Pasadena, CA) with a sensitivity of 1 μU/ml and an intra-assay CV&#xD;
+           of 6.6%.&#xD;
+&#xD;
+           C-peptide will be assayed by radioimmunoassay (MYRIA; Technogenetics, Milan, Italy):&#xD;
+           minimal detectable concentration =17 pmol/l and inter- and intra-assay CVs of 3.3-5.7&#xD;
+           and 4.6 -5.3, respectively.&#xD;
+&#xD;
+           Mathematical modeling: to be detailed.&#xD;
+&#xD;
+        8. DEXA variables (week -4, month 6, 9 and 12) (Body composition is measured by DEXA (Lunar&#xD;
+           Prodigy), which provides results on total and regional (trunk, arms, legs, pelvis) fat&#xD;
+           mass, fat free mass, and bone mass)&#xD;
+&#xD;
+             -  Total body bone mineral density&#xD;
+&#xD;
+             -  Lean body mass&#xD;
+&#xD;
+             -  Fat mass&#xD;
+&#xD;
+             -  Percent weight body fat&#xD;
+&#xD;
+        9. Concomitant medication (week -18, week -4, month 1, 3, 6, 9 and 12)&#xD;
+&#xD;
+      SAFETY AND TOLERANCE EVALUATION AND ASSESSMENT The safety of the surgical procedures will be&#xD;
+      evaluated at the end of the study analyzing all the information recorded in the Case Report&#xD;
+      Form suitably designed for the study, according to the timing and modalities described in&#xD;
+      other sections of the present protocol.&#xD;
+&#xD;
+      Information to assess the safety will include: objective exam, patient's symptoms related to&#xD;
+      the operation, occurrence of adverse events.&#xD;
+&#xD;
+      Safety parameters Adverse Events&#xD;
+&#xD;
+      The clinical tolerability will be evaluated by recording of the occurrence of adverse events&#xD;
+      as reported by the patient or observed by the medical investigator. Any adverse event&#xD;
+      occurred after the surgical treatment will have to be recorded in the Case Report Form.&#xD;
+&#xD;
+      Definitions&#xD;
+&#xD;
+      An adverse event (AE) is any untoward medical occurrence in a patient or clinical&#xD;
+      investigation subject undergone a treatment and which does not necessarily have a causal&#xD;
+      relationship with this treatment. An AE can therefore be any unfavorable and unintended sign,&#xD;
+      symptom, or disease temporally associated with the use of a medicinal product, or related to&#xD;
+      the surgical procedure. Pre-existing events, which increase in frequency or severity, or&#xD;
+      change in nature during or as a consequence of use of a drug in human clinical trials, will&#xD;
+      also be considered as AEs.&#xD;
+&#xD;
+      A serious adverse event (SAE) is defined as any adverse event regardless of causality that&#xD;
+&#xD;
+      led to a death, led to a serious deterioration in the health of the subject that resulted in&#xD;
+      a life-threatening illness or injury, resulted in a permanent impairment of a body structure&#xD;
+      or a body function, required in-patient hospitalization or prolongation of existing&#xD;
+      hospitalization, results in medical or surgical intervention to prevent permanent impairment&#xD;
+      to body structure or a body function.&#xD;
+&#xD;
+      led to fatal distress or fatal death.&#xD;
+&#xD;
+      A serious adverse device effect (ADE) is a serious adverse event related to the adopted&#xD;
+      device (in the specific case the surgical procedures) that results in any of the consequences&#xD;
+      characteristic of a serious adverse event or that might led to any of these consequences if&#xD;
+      suitable action is not taken or intervention is not made or if circumstances are less&#xD;
+      opportune.&#xD;
+&#xD;
+      Adverse Event and adverse device effect Reporting Procedures If the investigator identifies&#xD;
+      the occurrence of an AE, SAE or of an ADE report form must be completed and sent by fax to&#xD;
+      the Coordinating Investigator within 24 hours of the investigator's knowledge of the event.&#xD;
+      This form will be part of the study documentation. Any fatal or life-threatening event should&#xD;
+      be reported immediately to Coordinating Investigator by telephone. These preliminary reports&#xD;
+      will be followed within 24 hours by detailed descriptions that will include a completed&#xD;
+      SAE/ADE form, copies of hospital case reports, autopsy reports, and other documents, when&#xD;
+      requested and applicable.&#xD;
+&#xD;
+      Minimal information should include:&#xD;
+&#xD;
+      An identifiable subject or patient The type of surgical treatment the patient was undergone&#xD;
+      An identifiable reporting source All related adverse events All medications used Follow-up of&#xD;
+      SAE/ADEs that occur during the study will continue until satisfactory resolution or&#xD;
+      stabilization, with a maximum of six months, upon judgment of the investigator. The&#xD;
+      coordinating investigator may request that certain adverse events to be followed until&#xD;
+      resolution.&#xD;
+&#xD;
+      If/ when supplementary information is available, a follow-up SAE/ADE Report Form must be&#xD;
+      completed by the investigator and delivered within 24 hours to the coordinating investigator.&#xD;
+&#xD;
+      Once faxed, the SAE/ADE form and accompanying documentation should be placed in the SAE/ADE&#xD;
+      section of the investigator's file. If supplementary information on a SAE/ADE has to be sent,&#xD;
+      the SAE/ADE form has to be used marked as &quot;follow-up report&quot;.&#xD;
+&#xD;
+      The coordinating investigator must inform the Ethics Committee if the serious adverse event&#xD;
+      is likely to affect the safety of the subjects or the conduct of the study.&#xD;
+&#xD;
+      Moreover will be responsibility of the Coordinating Investigator of informing in writing all&#xD;
+      clinical investigators about all serious adverse events and all serious adverse device&#xD;
+      effects occurring during the study. This information shall be sent to the clinical&#xD;
+      investigators based on perceived risk.&#xD;
+&#xD;
+      DIRECT ACCESS TO ORIGINAL DOCUMENTATION The Investigator will have to allow the national&#xD;
+      Regulatory Authority, and the staff designed by the Independent Ethical Committee or by&#xD;
+      coordinating investigator direct access to the complete original documentation - and its&#xD;
+      verification - including informed consent, signed by the enrolled patients or by their Legal&#xD;
+      Representatives, and the clinical records or outpatient registers. People who have direct&#xD;
+      access to this documentation will have to take all reasonable precautions in order to&#xD;
+      maintain the patient identity and all information which is property of the Coordinating&#xD;
+      Investigator, in compliance with applicable laws.&#xD;
+&#xD;
+      QUALITY ASSURANCE PROCEDURES The Organization, Monitoring and Quality Assurance of the&#xD;
+      present study will be under the responsibility of the Coordinating Investigator.&#xD;
+&#xD;
+      Clinical Monitoring The clinical monitoring will be carried out by qualified persons assigned&#xD;
+      by the Coordinating Investigator and will be conducted according to the guidelines of the ISO&#xD;
+      Standard 14155-1. Additionally the monitoring activities will include the verification of the&#xD;
+      correct filling of the CRFs and, when applicable, the consistence between source documents&#xD;
+      and the electronic stored data used for the randomization procedures. The coordinating&#xD;
+      investigator will ensure the practical training for the personal involved in the study on the&#xD;
+      surgical and medical techniques and on filling the CRFs.&#xD;
+&#xD;
+      Data Review and Audits Data Review and Audits will be carried out by qualified persons&#xD;
+      assigned by the Coordinating Investigator.&#xD;
+&#xD;
+      The CRFs will be periodically reviewed. Financing of the study No financial aspect must be&#xD;
+      taken into account because no funding is foreseen for the present study.&#xD;
+&#xD;
+      Table 1 Variables recorded during the Physical examination and included in DEXA&#xD;
+&#xD;
+      PHYSICAL EXAMINATION Appearence general Skin Head and neck Lymph nodes Thyroid Cardiovascular&#xD;
+      system Respiratory systems Abdomen Concomitant medication Other DEXA Total body bone mineral&#xD;
+      density Lean body mass Fat mass Percent weight body fat&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2012</start_date>
+  <completion_date type="Actual">March 2016</completion_date>
+  <primary_completion_date type="Actual">March 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>incidence reactive hypoglycemia</measure>
+    <time_frame>up to 12 months</time_frame>
+    <description>The Primary Endpoint of the study is the incidence reactive hypoglycemia within 1 year after the bariatric surgery.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>insulin resistance</measure>
+    <time_frame>0,1,3,6,9, and 12 months</time_frame>
+    <description>Changes at 1 year of insulin sensitivity and insulin secretion measured after an OGTT.&#xD;
+Changes at 1 year of body weight, BMI, abdominal circumference, body composition, lipid profile and cardiovascular system abnormalities.&#xD;
+the incidence of severe hypoglycemia or related symptoms (shakiness, sweating, dizziness or light-headedness, confusion, difficulty speaking, weakness, confusion, syncope, epilepsy, seizures) within 5 years after the operation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">120</enrollment>
+  <condition>Obesity With Complications</condition>
+  <condition>Morbid Obesity</condition>
+  <condition>Reactive Hypoglycemia</condition>
+  <condition>Bariatric Surgery</condition>
+  <arm_group>
+    <arm_group_label>Gastric Bypass</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>60 subjects obese subjects with complications or morbidly obese subjects will be assigned randomly to this arm to undergo gastric bypass</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sleeve Gastrectomy</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>60 subjects obese subjects with complications or morbidly obese subjects will be assigned randomly to this arm to undergo sleeve gastrectomy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Gastric Bypass</intervention_name>
+    <description>Roux-en-Y Gastric Bypass This laparoscopic operation includes the division of the stomach in two parts. A proximal, smaller pouch (20-25 cc volume), is connected to the rest of the gastrointestinal tract through a gastro-jejunal anastomosis, whereas the distal gastric pouch is left behind but excluded from the transit of food.&#xD;
+An entero-entero anastomosis, with a Roux-en-Y type of reconstruction, allows the bile and pancreatic juices to mix with the nutrients at about 100-150 cm from the gastro-jejunal connection.</description>
+    <arm_group_label>Gastric Bypass</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Sleeve Gastrectomy</intervention_name>
+    <description>Sleeve gastrectomy Laparoscopic SG involves a longitudinal resection of the stomach on the greater curvature from the antrum starting opposite of the nerve of Latarjet up to the angle of His The final gastric volume is about 100 mL.</description>
+    <arm_group_label>Sleeve Gastrectomy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients are eligible if aged between 25 and 65 years, have a body mass index of 35&#xD;
+             (in presence of complications as sleep apnea, severe coxarthritis or gonarthritis,&#xD;
+             severe hypertension) to 50 kg/m2, and are able to understand and comply with the study&#xD;
+             process.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of type 1 diabetes or secondary diabetes;&#xD;
+&#xD;
+          -  Previous bariatric surgery;&#xD;
+&#xD;
+          -  History of medical problems such as mental impairment;&#xD;
+&#xD;
+          -  Major cardiovascular disease;&#xD;
+&#xD;
+          -  Major gastrointestinal disease;&#xD;
+&#xD;
+          -  Major respiratory disease;&#xD;
+&#xD;
+          -  Hormonal disorders;&#xD;
+&#xD;
+          -  Infection;&#xD;
+&#xD;
+          -  History of drug addiction and/or alcohol abuse;&#xD;
+&#xD;
+          -  Internal malignancy;&#xD;
+&#xD;
+          -  Pregnancy;&#xD;
+&#xD;
+          -  Impaired glucose tolerance;&#xD;
+&#xD;
+          -  Suspected or confirmed poor compliance;&#xD;
+&#xD;
+          -  Informed consents.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>25 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Geltrude Mingrone, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Catholic University, Italy</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Catholic University School of Medicine</name>
+      <address>
+        <city>Rome</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Ogden CL, Carroll MD, Kit BK, Flegal KM. Prevalence of obesity and trends in body mass index among US children and adolescents, 1999-2010. JAMA. 2012 Feb 1;307(5):483-90. doi: 10.1001/jama.2012.40. Epub 2012 Jan 17.</citation>
+    <PMID>22253364</PMID>
+  </reference>
+  <reference>
+    <citation>Sacks FM, Bray GA, Carey VJ, Smith SR, Ryan DH, Anton SD, McManus K, Champagne CM, Bishop LM, Laranjo N, Leboff MS, Rood JC, de Jonge L, Greenway FL, Loria CM, Obarzanek E, Williamson DA. Comparison of weight-loss diets with different compositions of fat, protein, and carbohydrates. N Engl J Med. 2009 Feb 26;360(9):859-73. doi: 10.1056/NEJMoa0804748.</citation>
+    <PMID>19246357</PMID>
+  </reference>
+  <reference>
+    <citation>Gastrointestinal surgery for severe obesity. Consens Statement. 1991 Mar 25-27;9(1):1-20. Review.</citation>
+    <PMID>1760489</PMID>
+  </reference>
+  <reference>
+    <citation>Steinbrook R. Surgery for severe obesity. N Engl J Med. 2004 Mar 11;350(11):1075-9.</citation>
+    <PMID>15014179</PMID>
+  </reference>
+  <reference>
+    <citation>Mingrone G, Panunzi S, De Gaetano A, Guidone C, Iaconelli A, Leccesi L, Nanni G, Pomp A, Castagneto M, Ghirlanda G, Rubino F. Bariatric surgery versus conventional medical therapy for type 2 diabetes. N Engl J Med. 2012 Apr 26;366(17):1577-85. doi: 10.1056/NEJMoa1200111. Epub 2012 Mar 26.</citation>
+    <PMID>22449317</PMID>
+  </reference>
+  <reference>
+    <citation>Schauer PR, Kashyap SR, Wolski K, Brethauer SA, Kirwan JP, Pothier CE, Thomas S, Abood B, Nissen SE, Bhatt DL. Bariatric surgery versus intensive medical therapy in obese patients with diabetes. N Engl J Med. 2012 Apr 26;366(17):1567-76. doi: 10.1056/NEJMoa1200225. Epub 2012 Mar 26.</citation>
+    <PMID>22449319</PMID>
+  </reference>
+  <reference>
+    <citation>Sjöström L, Lindroos AK, Peltonen M, Torgerson J, Bouchard C, Carlsson B, Dahlgren S, Larsson B, Narbro K, Sjöström CD, Sullivan M, Wedel H; Swedish Obese Subjects Study Scientific Group. Lifestyle, diabetes, and cardiovascular risk factors 10 years after bariatric surgery. N Engl J Med. 2004 Dec 23;351(26):2683-93.</citation>
+    <PMID>15616203</PMID>
+  </reference>
+  <reference>
+    <citation>Livingston EH. The incidence of bariatric surgery has plateaued in the U.S. Am J Surg. 2010 Sep;200(3):378-85. doi: 10.1016/j.amjsurg.2009.11.007. Epub 2010 Apr 20.</citation>
+    <PMID>20409518</PMID>
+  </reference>
+  <reference>
+    <citation>Regan JP, Inabnet WB, Gagner M, Pomp A. Early experience with two-stage laparoscopic Roux-en-Y gastric bypass as an alternative in the super-super obese patient. Obes Surg. 2003 Dec;13(6):861-4.</citation>
+    <PMID>14738671</PMID>
+  </reference>
+  <reference>
+    <citation>Deitel M, Crosby RD, Gagner M. The First International Consensus Summit for Sleeve Gastrectomy (SG), New York City, October 25-27, 2007. Obes Surg. 2008 May;18(5):487-96. doi: 10.1007/s11695-008-9471-5.</citation>
+    <PMID>18357494</PMID>
+  </reference>
+  <reference>
+    <citation>Lee CM, Cirangle PT, Jossart GH. Vertical gastrectomy for morbid obesity in 216 patients: report of two-year results. Surg Endosc. 2007 Oct;21(10):1810-6. Epub 2007 Mar 14.</citation>
+    <PMID>17356932</PMID>
+  </reference>
+  <reference>
+    <citation>Himpens J, Dapri G, Cadière GB. A prospective randomized study between laparoscopic gastric banding and laparoscopic isolated sleeve gastrectomy: results after 1 and 3 years. Obes Surg. 2006 Nov;16(11):1450-6.</citation>
+    <PMID>17132410</PMID>
+  </reference>
+  <reference>
+    <citation>Langer FB, Reza Hoda MA, Bohdjalian A, Felberbauer FX, Zacherl J, Wenzl E, Schindler K, Luger A, Ludvik B, Prager G. Sleeve gastrectomy and gastric banding: effects on plasma ghrelin levels. Obes Surg. 2005 Aug;15(7):1024-9.</citation>
+    <PMID>16105401</PMID>
+  </reference>
+  <reference>
+    <citation>Salinari S, Bertuzzi A, Guidone C, Previti E, Rubino F, Mingrone G. Insulin sensitivity and secretion changes after gastric bypass in normotolerant and diabetic obese subjects. Ann Surg. 2013 Mar;257(3):462-8. doi: 10.1097/SLA.0b013e318269cf5c.</citation>
+    <PMID>23388352</PMID>
+  </reference>
+  <reference>
+    <citation>Laferrère B, Heshka S, Wang K, Khan Y, McGinty J, Teixeira J, Hart AB, Olivan B. Incretin levels and effect are markedly enhanced 1 month after Roux-en-Y gastric bypass surgery in obese patients with type 2 diabetes. Diabetes Care. 2007 Jul;30(7):1709-16. Epub 2007 Apr 6.</citation>
+    <PMID>17416796</PMID>
+  </reference>
+  <reference>
+    <citation>Laferrère B, Teixeira J, McGinty J, Tran H, Egger JR, Colarusso A, Kovack B, Bawa B, Koshy N, Lee H, Yapp K, Olivan B. Effect of weight loss by gastric bypass surgery versus hypocaloric diet on glucose and incretin levels in patients with type 2 diabetes. J Clin Endocrinol Metab. 2008 Jul;93(7):2479-85. doi: 10.1210/jc.2007-2851. Epub 2008 Apr 22.</citation>
+    <PMID>18430778</PMID>
+  </reference>
+  <reference>
+    <citation>Service GJ, Thompson GB, Service FJ, Andrews JC, Collazo-Clavell ML, Lloyd RV. Hyperinsulinemic hypoglycemia with nesidioblastosis after gastric-bypass surgery. N Engl J Med. 2005 Jul 21;353(3):249-54.</citation>
+    <PMID>16034010</PMID>
+  </reference>
+  <reference>
+    <citation>Meier JJ, Nauck MA, Butler PC. Comment to: Patti ME, McMahon G, Mun EC et al. (2005) Severe hypoglycaemia post-gastric bypass requiring partial pancreatectomy: evidence for inappropriate insulin secretion and pancreatic islet hyperplasia. Diabetologia 48:2236-2240. Diabetologia. 2006 Mar;49(3):607-8; author reply 609-10. Epub 2006 Jan 31.</citation>
+    <PMID>16450091</PMID>
+  </reference>
+  <reference>
+    <citation>Edén Engström B, Burman P, Holdstock C, Ohrvall M, Sundbom M, Karlsson FA. Effects of gastric bypass on the GH/IGF-I axis in severe obesity--and a comparison with GH deficiency. Eur J Endocrinol. 2006 Jan;154(1):53-9.</citation>
+    <PMID>16381991</PMID>
+  </reference>
+  <reference>
+    <citation>Carpenter T, Trautmann ME, Baron AD. Hyperinsulinemic hypoglycemia with nesidioblastosis after gastric-bypass surgery. N Engl J Med. 2005 Nov 17;353(20):2192-4; author reply 2192-4.</citation>
+    <PMID>16291992</PMID>
+  </reference>
+  <reference>
+    <citation>Roslin M, Damani T, Oren J, Andrews R, Yatco E, Shah P. Abnormal glucose tolerance testing following gastric bypass demonstrates reactive hypoglycemia. Surg Endosc. 2011 Jun;25(6):1926-32. doi: 10.1007/s00464-010-1489-9. Epub 2010 Dec 24.</citation>
+    <PMID>21184112</PMID>
+  </reference>
+  <reference>
+    <citation>Tzovaras G, Papamargaritis D, Sioka E, Zachari E, Baloyiannis I, Zacharoulis D, Koukoulis G. Symptoms suggestive of dumping syndrome after provocation in patients after laparoscopic sleeve gastrectomy. Obes Surg. 2012 Jan;22(1):23-8. doi: 10.1007/s11695-011-0461-7.</citation>
+    <PMID>21647622</PMID>
+  </reference>
+  <reference>
+    <citation>Marsk R, Jonas E, Rasmussen F, Näslund E. Nationwide cohort study of post-gastric bypass hypoglycaemia including 5,040 patients undergoing surgery for obesity in 1986-2006 in Sweden. Diabetologia. 2010 Nov;53(11):2307-11. doi: 10.1007/s00125-010-1798-5. Epub 2010 May 22.</citation>
+    <PMID>20495972</PMID>
+  </reference>
+  <verification_date>February 2017</verification_date>
+  <study_first_submitted>April 19, 2012</study_first_submitted>
+  <study_first_submitted_qc>April 19, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 20, 2012</study_first_posted>
+  <last_update_submitted>February 4, 2017</last_update_submitted>
+  <last_update_submitted_qc>February 4, 2017</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 7, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Catholic University of the Sacred Heart</investigator_affiliation>
+    <investigator_full_name>Geltrude Mingrone</investigator_full_name>
+    <investigator_title>Associate Professor of Internal Medicine</investigator_title>
+  </responsible_party>
+  <keyword>gastric bypass</keyword>
+  <keyword>sleeve gastrectomy</keyword>
+  <keyword>reactive hypoglycemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obesity</mesh_term>
+    <mesh_term>Hypoglycemia</mesh_term>
+    <mesh_term>Obesity, Morbid</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

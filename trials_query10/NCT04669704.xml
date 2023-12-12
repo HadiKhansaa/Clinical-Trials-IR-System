@@ -1,0 +1,249 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04669704</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PIN-0143-2017</org_study_id>
+    <nct_id>NCT04669704</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of a Tele-Rehabilitation Evidence-based Tablet App for Rehabilitation in Traumatic Bone and Soft Injuries of the Hand, Wrist and Fingers.</brief_title>
+  <official_title>Clinical and Economic Effectiveness of a Tele-rehabilitation Evidence-based Tablet Application for Rehabilitation in Traumatic Bone and Soft Injuries of the Hand, Wrist and Fingers.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Seville</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fundación Pública Andaluza para la gestión de la Investigación en Sevilla</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Seville</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Trauma and soft injuries of the wrist, hand and fingers have a high incidence, and large&#xD;
+      social and healthcare costs are generated, mainly due to productivity loss. Therapeutic&#xD;
+      exercises must be part of the treatment and in the last 10 years the scientific literature&#xD;
+      highlights the need for the inclusion of the sensorimotor system in both surgical and&#xD;
+      rehabilitative approaches. Current methods as leaflets or videos lacks of adherence control,&#xD;
+      evolution control and knowledge of how the patient do the exercises which compromise the&#xD;
+      expected results. Touch-screens of Tablet devices have showed a large potential to cover&#xD;
+      these needs and for the retraining of sensorimotor system. ReHand is a Tablet digital tool&#xD;
+      (Android and iOS) to prescribe and monitor exercise programs based on sensorimotor approach&#xD;
+      and developed under the guidelines of various healthcare professionals (hand surgeons,&#xD;
+      physiotherapists, rehabilitators and occupational therapists) to implement home exercise&#xD;
+      programs and monitor patients. Subjects are selected by emergency, hand surgery,&#xD;
+      rehabilitation and physiotherapy services of six hospitals from Andalusian Public Health&#xD;
+      Service through consecutive sampling. Concretely, patients over 18 years of age with trauma&#xD;
+      and soft injuries of the wrist, hand and fingers, no more than 10 days after surgery or&#xD;
+      removal of immobilization. Experimental group will receive access to ReHand app to perform a&#xD;
+      monitored home exercises program. Control group will receive the conventional method&#xD;
+      employed: a home exercise program in paper with recommendations. Clinical variables will be&#xD;
+      assessed at baseline before group allocation, 4 weeks, 3 months and 6 months. At the end of&#xD;
+      the study, cost-utility variables will be analyzed.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 20, 2021</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Self-reported functional ability using the validated Spanish version of the QuickDASH in patients with hand conditions.</measure>
+    <time_frame>Change from Baseline QuickDASH at one month, three months and six months.</time_frame>
+    <description>The shortened form of the DASH questionnaire (Disabilities of the Arm, Shoulder and Hand questionnaire) is an 11-item questionnaire that measures patient's ability to complete tasks, absorb forces, and severity of symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Wrist pain and disability in activities of daily living is assessed using the Spanish version of the 15-item questionnaire Patient Rated Wrist Evaluation (PRWE).</measure>
+    <time_frame>Change from baseline PRWE at one month, three months and six months.</time_frame>
+    <description>The PRWE comprises a 5-item pain subscale and a 10-item function subscale. The final score is between 0 - 100 points with higher scores indicating more disability.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Dexterity assessed using the Nine Hole Peg Test</measure>
+    <time_frame>Change from baseline Nine Hole Peg Test at one month and three months.</time_frame>
+    <description>This test consists of placing nine small cylinders in the nine holes in the base or container of the &quot;Nine Hole Peg Test&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Grip strength assessed using a hydraulic grip dynamometer</measure>
+    <time_frame>Change from baseline Grip strength at one month and three months.</time_frame>
+    <description>The Maximun power of the hand muscles used to firmly grasp an object by wrapping the fingers around it, pressing it against the palm, and using the thumb to apply counter-pressure, using a Hydraulic grip dynamometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported pain assessed using a Visual Analog Scale (VAS) of pain.</measure>
+    <time_frame>Change from baseline Visual Analog Scale of Pain at one month and three months.</time_frame>
+    <description>Participants report their pain intensity using the 0 to 10 VAS, where 0 refers to &quot;no pain&quot; and 10 refers to &quot;the worst imaginable pain&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Joint position sense test</measure>
+    <time_frame>Change from baseline Joint position sense at one month and three months.</time_frame>
+    <description>A test to evaluate the ability to accurately reproduce a specific joint angle without the vision of the joint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life is assessed using the Spanish version of the self-completion EQ-5D-5L questionnaire</measure>
+    <time_frame>Change from baseline EQ-5D-5L Questionnaire at one month and three months.</time_frame>
+    <description>Brief questionnaire which evaluated health state is in 5 domains: mobility, capacity for self-care, conduct of usual activities, pain or discomfort and anxiety or depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Wrist flexion and extension range of movement.</measure>
+    <time_frame>Change from baseline wrist flexion and extension range of movement at one month and three months.</time_frame>
+    <description>Wrist flexion and extension range of movement assessed using a standard goniometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Economic factors relating to cost-utility.</measure>
+    <time_frame>Chage from baseline Economic factors relating to cost-utility at six months.</time_frame>
+    <description>Absence due to illness, use of health resources (number of consultations to specialist doctor, physiotherapy occupational therapy sessions, emergency department), time frame in rehabilitation services.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">660</enrollment>
+  <condition>Soft Tissue Injuries</condition>
+  <condition>Distal Radius Fracture</condition>
+  <condition>Metacarpal Fracture</condition>
+  <condition>Carpal Fracture</condition>
+  <condition>Carpal Tunnel Syndrome</condition>
+  <condition>Thumb Osteoarthritis</condition>
+  <condition>Dupuytren's Disease</condition>
+  <arm_group>
+    <arm_group_label>Tablet application</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A protocol of exercises based on the current scientific evidence will be provided through a tablet application. A follow-up of the use of the application will be carried out. A minimum of 4-week home exercise intervention will be performed, which will have to be carried out daily by the patient autonomously at home for at least 5 days per week, starting after baseline measurement.&#xD;
+The exercise program will be individualized according to each pathology.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional treatment</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In the control condition, participants will receive a home exercise program on paper. The exercise program will be the conventionally prescribed one by the Andalusian Public Health Service. Participants will be told to perform exercises during a minimum of 4 week at home for at least 5 days per week, starting after baseline measurement.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Experimental: Tablet application</intervention_name>
+    <description>A protocol of exercises based on the current scientific evidence will be provided through a tablet application. A follow-up of the use of the application will be carried out. A minimum of 4-week home exercise intervention will be performed, which will have to be carried out daily by the patient autonomously at home for at least 5 days per week, starting after baseline measurement.&#xD;
+The exercise program will be individualized according to each pathology.</description>
+    <arm_group_label>Tablet application</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Comparator: Conventional treatment</intervention_name>
+    <description>In the control condition, participants will receive a home exercise program on paper. The exercise program will be the conventionally prescribed one by the Andalusian Public Health Service. Participants will be told to perform exercises during a minimum of 4 week at home for at least 5 days per week, starting after baseline measurement.</description>
+    <arm_group_label>Conventional treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age over 18&#xD;
+&#xD;
+          -  Patients with trauma or soft tissue injuries of the wrist, hand and fingers.&#xD;
+             Dupuytren, carpal tunnel syndrome, rizarthrosis, distal radius fracture, carpal&#xD;
+             fracture or metacarpal fracture.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Neurological pathology that affects the upper limb.&#xD;
+&#xD;
+          -  Non-cooperative.&#xD;
+&#xD;
+          -  Psychiatric illness.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>María Dolores Cortés Vega, PhD</last_name>
+    <phone>+34 954 55 14 71</phone>
+    <email>mdcortes@us.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alejandro Suero-Pineda</last_name>
+    <phone>+34687942168</phone>
+    <email>alesuepin@alum.us.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen de la Macarena</name>
+      <address>
+        <city>Seville</city>
+        <state>Andalusia</state>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alejandro Suero, Msc</last_name>
+      <phone>687942168</phone>
+      <email>alesuepin@alum.us.es</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Seville</name>
+      <address>
+        <city>Seville</city>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Maria Dolores Cortés Vega, PhD</last_name>
+      <phone>+34 954 55 14 71</phone>
+      <email>mdcortes@us.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Alejandro Suero, MSc</last_name>
+      <phone>+34687942168</phone>
+      <email>alesuepin@alum.us.es</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>January 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Seville</investigator_affiliation>
+    <investigator_full_name>Maria Dolores Cortes Vega</investigator_full_name>
+    <investigator_title>PhD Professor, University of Seville</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dupuytren Contracture</mesh_term>
+    <mesh_term>Carpal Tunnel Syndrome</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+    <mesh_term>Fractures, Bone</mesh_term>
+    <mesh_term>Radius Fractures</mesh_term>
+    <mesh_term>Soft Tissue Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

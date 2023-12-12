@@ -1,0 +1,345 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00506324</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01DC007659-01A1</org_study_id>
+    <secondary_id>R01DC007659</secondary_id>
+    <nct_id>NCT00506324</nct_id>
+  </id_info>
+  <brief_title>Oropharyngeal Function After Radiotherapy With IMRT</brief_title>
+  <official_title>Oropharyngeal Function After Radiotherapy With IMRT</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project defines the effect on swallowing of intensity modulation during radiotherapy in&#xD;
+      an organ preservation treatment involving chemoradiation for 125 oral, laryngeal, and&#xD;
+      pharyngeal cancer patients with previously untreated Stage III or IV disease and to identify&#xD;
+      optimum treatment strategies. The specific aims are: 1) define the physiologic effects of&#xD;
+      chemoradiotherapy with IMRT to various sites in the upper aerodigestive/vocal tract including&#xD;
+      the cervical esophagus and the rate at which patients return to oral intake; 2) document the&#xD;
+      acute toxicities, late complications, locoregional failure and survival, and the relationship&#xD;
+      between fibrosis rating and the measure of laryngeal elevation; 3) determine whether the&#xD;
+      patient's swallowing mechanism can compensate for physiologic deficits in swallowing by&#xD;
+      introduction of interventions (postural changes, voluntary swallow maneuvers, several bolus&#xD;
+      volumes); 4) determine whether time to return to oral intake, effects of swallow maneuvers&#xD;
+      and/or volume, presence of an esophageal stricture and the duration of success of dilatation&#xD;
+      depends on radiation dose volume to specific structures in the head and neck; 5) define the&#xD;
+      relationship of tongue base pressure to development of esophageal stricture. Patients will be&#xD;
+      accrued from Northwestern University and University of Chicago. Effects are defined in terms&#xD;
+      of swallowing function, morbidity, toxicity and survival. Other outcome measures are the&#xD;
+      maintenance of voluntary control (flexibility) of the oropharyngeal region as indicated by&#xD;
+      the ability to correctly produce swallow maneuvers; and positive changes in cricopharyngeal&#xD;
+      opening duration with normal bolus volume shifts. Patients will be studied pretreatment, and&#xD;
+      at 1 month, 3 months, 6 months, 12 months, and 24 months post completion of chemoradiation.&#xD;
+      At each assessment, patients will receive a videofluoroscopic assessment of swallowing&#xD;
+      utilizing a standard protocol, assessment of xerostomia, mucositis, and fibrosis as well as&#xD;
+      assessment of disease status and quality of life scales. Head and neck cancer is a severe&#xD;
+      problem that affects public health. Most current treatments are a combination of radiotherapy&#xD;
+      with chemotherapy, which can result in severe swallowing problems which may make patients&#xD;
+      unwilling to accept this type of treatment. This project attempts to quantify the swallow&#xD;
+      problems associated with this specific treatment and the effects of interventions for these&#xD;
+      swallow problems.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A. Subjects One hundred and twenty-five patients with disease Stages III or IV squamous cell&#xD;
+      cancers of the oral cavity, larynx or pharynx will serve as subjects.&#xD;
+&#xD;
+      B. Intensity Modulation and Radiotherapy Guidelines Anatomical data that is required for the&#xD;
+      planning process is acquired using a Philip's AcQSim CT simulation system. The immobilized&#xD;
+      patient is squared up relative to the bore of the Picker PQ2000S CT scanner using the ceiling&#xD;
+      and side lasers of the system. A scout view is obtained so that the superior and inferior&#xD;
+      borders of the volume study can be determined. Forty seconds prior to the commencement of&#xD;
+      image data acquisition contrast media (125 cc of Ultravist 300) is power injected at the rate&#xD;
+      of 1.3-2.0 cc/sec using a Liebel-Flarsheim device. The CT data set is acquired with 3 mm&#xD;
+      slice thickness and spacing using the spiral mode of the scanner. While the patient is on the&#xD;
+      table, the images are transferred to the VoxelQ work station that is running AcQSim software&#xD;
+      version 4.1.1. Before the patient is released a reference isocenter is established and&#xD;
+      recorded in the AcQSim system and marked on the face mask using the isocenter locating lasers&#xD;
+      of the CT simulator, if not already indicated by radio-opaque fiducials.&#xD;
+&#xD;
+      The physicians then outline target volumes, GTVs and CTVs, as per ICRU 50 guidelines and&#xD;
+      outline critical structures such as the brain stem, spinal cord, salivary glands, optic&#xD;
+      apparatus, etc. After this has been done, the image and structure data is transferred to&#xD;
+      either of two treatment planning work stations: the NOMOS Corvus system running software&#xD;
+      version 5.0 or the ADAC Pinnacle RTP system running software version 6.2b. A planning target&#xD;
+      margin (PTV) is added to take into account organ motion and setup uncertainty. Lateral and&#xD;
+      Anterior-Posterior digitally reconstructed radiographs (DRRs) that demonstrate the location&#xD;
+      of isocenter are produced from the AcQSim system so that correct patient positioning can be&#xD;
+      confirmed prior to the commencement of treatment.&#xD;
+&#xD;
+      The prescription for the target(s) defines the dose goal for the treatment, the minimal&#xD;
+      acceptable dose and percent volume that can be under dosed and the maximum acceptable dose.&#xD;
+      The prescription for radio sensitive structures sets the nominally allowed dose, the percent&#xD;
+      volume that can be overdosed, the maximum tolerable dose and the minimum dose below which no&#xD;
+      radiation damage can be observed. These specifications, for various targets and critical&#xD;
+      structures, translate into defining three points on a dose volume histogram (DVH) curve for&#xD;
+      each tissue type. The Corvus system computes the optimal beam intensity maps using a&#xD;
+      simulated annealing algorithm whereas the ADAC system uses a sequential quadratic search&#xD;
+      method to minimize a quadratic objective function, which is constructed from a set of&#xD;
+      dose-based or dose-volume-based objectives for individual regions of interest. Delivery of&#xD;
+      the dose as prescribed by the idealized maps is accomplished by using step and shoot IMRT at&#xD;
+      both institutions. In this method the beam direction incident on the patient along with field&#xD;
+      size and collimator angle is determined by the treatment planner before the software designs&#xD;
+      the IMRT intensity maps. Therefore it is important to choose beam geometries carefully so as&#xD;
+      to maximize exposure to the target and minimize exposure to critical structures as visualized&#xD;
+      in the beam's eye view. The IMRT beams are created by utilizing a standard 80 cm leaf MLC on&#xD;
+      an Elekta Sli linear accelerator.&#xD;
+&#xD;
+      Radiotherapy Guidelines for the proposed study:&#xD;
+&#xD;
+        1. All patients will have immobilization devices with treatment planning based on&#xD;
+           Computerized Tomography (CT) information in treatment position. The CT slice thickness&#xD;
+           through target will be 3mm.&#xD;
+&#xD;
+        2. CT and Magnetic Resonance Imaging (MRI) data will be used to define the various targets&#xD;
+           and contour normal structures. MRI information will be used when indicated. Image fusion&#xD;
+           will be used to relate CT/MRI data when necessary.&#xD;
+&#xD;
+        3. The field sizes and arrangements will be at the discretion of the attending Radiation&#xD;
+           Oncologist. ICRU 50 guidelines will be used for various Tumor and Target Nomenclature:&#xD;
+&#xD;
+             1. The Gross Tumor Volume (GTV): All gross disease determined from clinical&#xD;
+                examination and radiographic studies.&#xD;
+&#xD;
+             2. The Clinical Target Volume (CTV): The area that potentially contains microscopic&#xD;
+                disease. Lymph node groups at risk of microscopic disease will be outlined as part&#xD;
+                of corresponding CTV. The margin between each GTV and corresponding CTV can vary&#xD;
+                from 0.2cm to 2.5cm depending upon the proximity to the critical and uninvolved&#xD;
+                structures.&#xD;
+&#xD;
+             3. The Planning Target Volume (PTV): Provides a margin around CTV to compensate for&#xD;
+                internal motion and set up errors. Typically a 5mm margin may be used around CTV.&#xD;
+&#xD;
+      Radiation Targets and Dose Specifications:&#xD;
+&#xD;
+      The following is the definition of targets. The radiation doses will be delivered as&#xD;
+      specified in the protocol:&#xD;
+&#xD;
+        1. Primary Target Volume (PTV1): Includes gross tumor volume and volume encompassing lymph&#xD;
+           nodes with moderate to high risk of metastases (first echelon nodes) and lymph nodes&#xD;
+           with low risk of metastatic disease with corresponding CTVs.&#xD;
+&#xD;
+        2. Secondary Target Volume (PTV2): Includes gross tumor volume and volume encompassing&#xD;
+           lymph nodes with moderate to high potential risk of metastases with corresponding CTVs.&#xD;
+&#xD;
+        3. Tertiary Target Volume (PTV3): Includes gross tumor volumes for the primary tumor and&#xD;
+           nodal metastases with corresponding CTVs.&#xD;
+&#xD;
+      Low Neck: The midjugular, low jugular, and supraclavicular nodes can be treated either with&#xD;
+      IMRT or alternatively with an AP field that is beam split to the IMRT fields. This will be at&#xD;
+      the discretion of the treating physician. If an IMRT approach is not used, then it will not&#xD;
+      be necessary to submit the DVHs for this PTV. However, if an IMRT approach is used, then it&#xD;
+      will be necessary to generate DVHs for this PTV. Radiation doses will be as in the attached&#xD;
+      protocol.&#xD;
+&#xD;
+      Neck Nodes: Guidelines for anatomic boundaries and CT-based delineation of neck nodes will be&#xD;
+      as per consensus Atlas on RTOG website (www.RTOG.org → Researcher → H/N Atlas).&#xD;
+&#xD;
+      Normal Tissues: The appropriate normal organs will be contoured. Dose Volume Histograms (DVH)&#xD;
+      will be generated. An attempt will be made to keep the maximum radiation doses to the&#xD;
+      following organs as follows; since the radiation to these structures will be at a lower&#xD;
+      fraction per day and the maximum doses to partial volumes only, we believe these are&#xD;
+      acceptable dose levels.&#xD;
+&#xD;
+      Brain Stem: 54 Gy Optic Nerve/Chiasm: 55 Gy Spinal Cord: 45 Gy Mandible/TM Joint: 70 Gy or&#xD;
+      1cc of the PTV not to exceed 75 Gy Larynx 70 Gy&#xD;
+&#xD;
+      Parotid Glands: Attempt will be to achieve mean dose 26 Gy in at least one gland or at least&#xD;
+      20cc of the combined volume of both parotid glands will receive 20 Gy or at least 50% of the&#xD;
+      gland will receive 30 Gy (should be achieved in at least one gland).&#xD;
+&#xD;
+      Toxicity Reporting:&#xD;
+&#xD;
+        1. For acute toxicity the NCI/CTCAE Version 3.0 will be used.&#xD;
+&#xD;
+        2. For late toxicity, the RTOG/EORTC late toxicity criteria will be used.&#xD;
+&#xD;
+           Each treatment will be judged as being compliant with the Image guides therapy Center in&#xD;
+           St. Louis guideline as:&#xD;
+&#xD;
+           1. No variation (Total Coverage): Coverage as specified in Radiation Guideline Section.&#xD;
+&#xD;
+           2. Minor variation (Marginal Coverage): The 93% isodose covers between 95% to 98% of the&#xD;
+           appropriate PTV or volumes of overdose exceed those specified in Radiation Guideline&#xD;
+           Section by 5% of the PTV volume.&#xD;
+&#xD;
+           3. Major variation (Miss): The 93% isodose surface covers less than 95% of the&#xD;
+           appropriate PTV or the overdose regions of the appropriate PTV are greater than 5% of&#xD;
+           the PTV volume.&#xD;
+&#xD;
+           C. Data Collection Schedule Functional data will be collected on each patient at 6&#xD;
+           points in time: pretreatment and 5 times after the completion of the chemoradiation -- 1&#xD;
+           month, 3 months, 6 months, 12 months, and 24 months.&#xD;
+&#xD;
+           1. Swallow Evaluation. At each evaluation point, each patient will receive a maximum of&#xD;
+           33 swallows studied by videofluoroscopy with concurrent manometry.&#xD;
+&#xD;
+           A 3 mm flexible catheter containing 2 solid state pressure sensors 3 cm apart will be&#xD;
+           positioned transnasally at the beginning of the study, so that one sensor is located at&#xD;
+           the base of the tongue and the second sensor is at the top of the upper esophageal&#xD;
+           sphincter. This protocol will allow the measurement of pressures generated at the tongue&#xD;
+           base. The concurrent manometry will allow us to directly measure pharyngeal pressures&#xD;
+           during swallow. All swallows will be viewed in the lateral plane except the last three 3&#xD;
+           ml swallows viewed in the A-P plane. Subjects will not be required to swallow volumes or&#xD;
+           viscosities that they cannot manage comfortably. All such difficulties will be recorded&#xD;
+           on the data sheets.&#xD;
+&#xD;
+           Videofluoroscopy Protocol (3 swallows of each combination):&#xD;
+&#xD;
+           1 ml thin liquid barium 3 ml thin liquid barium 5 ml thin liquid barium 10 ml thin&#xD;
+           liquid barium 3 ml pudding&#xD;
+&#xD;
+           ¼ Lorna Doone cookie with 3 ml barium paste 3 ml thin liquid barium - chin down 3 ml&#xD;
+           thin liquid barium - effortful swallow 3 ml thin liquid barium - super-supraglottic&#xD;
+           swallow 3 ml thin liquid barium - Mendelsohn maneuver 3 ml thin liquid barium - P-A view&#xD;
+&#xD;
+           2. Measure of Xerostomia. At each radiographic study of swallow, the patient's&#xD;
+           stimulated saliva production will be quantified by taking the difference of the weight&#xD;
+           of a folded sterile sponge (10 x 10 cm Kerlix) before and after chewing for 2 minutes.&#xD;
+&#xD;
+           3. Data Collection Regarding Onset and Nature of Oral Intake. At each of the 6 swallow&#xD;
+           data collection points, status and nature of oral and non-oral intake will also be&#xD;
+           reported, as well as the reason for non-oral intake, i.e., nausea versus swallowing&#xD;
+           disorder. The dates when the patient began to experience difficulty eating, when and why&#xD;
+           non-oral feeding began, and when partial and full oral intake began will be recorded and&#xD;
+           reported by the speech-language pathologist.&#xD;
+&#xD;
+           4. Ratings of Mucositis. Oral mucositis ratings will be completed pretreatment and at&#xD;
+           the same 5 intervals after treatment. The scale rates ulceration on a 4-point scale (0 =&#xD;
+           no lesions to 3 = a lesion &gt; 3 cm2) and erythema on a 3-point scale (0 = none; 1 = not&#xD;
+           severe; 2 = severe) at 10 locations in the oral cavity (upper and lower lip, right and&#xD;
+           left cheek, right and left ventral and lateral tongue, floor of mouth, soft&#xD;
+           palate/fauces and hard palate). The mucositis ratings will be done by the participating&#xD;
+           speech-language pathologist (SLP) trained in using the scale.&#xD;
+&#xD;
+           5. Patient's Perception of Function. A data form has been developed to define the&#xD;
+           patient's perception of swallowing function, as well as dry mouth. The patient completes&#xD;
+           the four-page form himself.&#xD;
+&#xD;
+           6. QOL scales: Performance Status Scale for Head and Neck Cancer (PSS-HN) (List et al.,&#xD;
+           1990): This brief 3-part questionnaire will be given by the SLP at each evaluation&#xD;
+           point; The M.D. Anderson Dysphagia Inventory (MDADI) is a 20-item self-administered&#xD;
+           scale that investigates the impact of dysphagia on the patient's quality of life; The&#xD;
+           University of Washington Quality of Life scale (UW QOL) is a 6 item&#xD;
+           clinician-administered scale.&#xD;
+&#xD;
+           7. Survival and Locoregional failure: Patients will be followed for overall survival,&#xD;
+           relapse free survival and locoregional failure. The locoregional failure pattern will be&#xD;
+           categorized as within a) Primary Target Region (PTV1); b) Secondary Target Region (PTV2)&#xD;
+           or c) Tertiary Target Region (PTV3).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Physician deceased&#xD;
+  </why_stopped>
+  <start_date>June 2006</start_date>
+  <completion_date type="Actual">June 2014</completion_date>
+  <primary_completion_date type="Actual">June 2014</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>percent oral intake</measure>
+    <time_frame>12 months post-treatment completion</time_frame>
+    <description>The percent of nutrition taken by mouth</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>normal diet</measure>
+    <time_frame>12 months post-treatment completion</time_frame>
+    <description>The patient has a normal diet when he or she includes all consistencies (thin liquid, thick liquid, pudding, pureed, soft mechanical, hard mechanical)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">125</enrollment>
+  <condition>Head and Neck Neoplasms</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        One hundred and twenty-five patients with disease Stages III or IV squamous cell cancers of&#xD;
+        the oral cavity, larynx or pharynx will serve as subjects. No patient will have had prior&#xD;
+        treatment for head and neck cancer or any otolaryngologic or neurologic disorder affecting&#xD;
+        swallow, and no preexisting swallowing disorder.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The target population for this study is 125 patients with stages III or IV squamous&#xD;
+             cell lesions of the oral cavity, oropharynx, pharynx or larynx, or unknown primary.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No patient will have had prior treatment for head and neck cancer or any&#xD;
+             otolaryngologic or neurologic disorder affecting swallow and no preexisting swallowing&#xD;
+             disorder.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jerilyn Logemann</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2015</verification_date>
+  <study_first_submitted>July 20, 2007</study_first_submitted>
+  <study_first_submitted_qc>July 23, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 25, 2007</study_first_posted>
+  <last_update_submitted>July 10, 2015</last_update_submitted>
+  <last_update_submitted_qc>July 10, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 14, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Intensity Modulated Radiotherapy</keyword>
+  <keyword>Chemotherapy</keyword>
+  <keyword>Head and Neck Neoplasms</keyword>
+  <keyword>Dysphagia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

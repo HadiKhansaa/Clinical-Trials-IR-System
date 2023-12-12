@@ -1,0 +1,349 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02251210</url>
+  </required_header>
+  <id_info>
+    <org_study_id>543.27</org_study_id>
+    <nct_id>NCT02251210</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of BIIL 284 BS in Adult Patients With Active Rheumatoid Arthritis</brief_title>
+  <official_title>Three Month, Randomised, Double-blind, Double-dummy, Placebo-controlled, Multiple Dose-range Study of the Efficacy and Safety of BIIL 284 BS (5, 25 and 75 mg p.o. Once Daily) in Adult Patients With Active Rheumatoid Arthritis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <brief_summary>
+    <textblock>
+      To investigate efficacy and safety of 3 doses of BIIL 284 BS in active rheumatoid arthritis&#xD;
+      (RA) and determine the dose with most positive efficacy / safety ratio. Pharmacokinetic&#xD;
+      profile will be also obtained.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2001</start_date>
+  <primary_completion_date type="Actual">November 2002</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of patients achieving 20% improvement assessed by the American College of Rheumatology (ACR) criteria (ACR20)</measure>
+    <time_frame>3 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients achieving 50% improvement (ACR50)</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of withdrawals due to lack of efficacy</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of swollen joints</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of tender joints</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's assessment of pain on a visual analog scale (VAS)</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's global assessment of disease activity by VAS</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Investigator's global assessment of disease activity by VAS</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's assessment of physical function</measure>
+    <time_frame>up to 3 months</time_frame>
+    <description>via Health Assessment Questionnaire (HAQ)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in erythrocyte sedimentation rate (ESR)</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in C-reactive protein (CRP)</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Quality of Life</measure>
+    <time_frame>baseline, 3 months</time_frame>
+    <description>assessed by the SF-36 questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Disease Activity Score (DAS 28)</measure>
+    <time_frame>baseline, up to 3 months</time_frame>
+    <description>Disease Activity Score in 28-joint count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in duration of morning stiffness</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Consumption of rescue medication</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with adverse events</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of withdrawals due to adverse events</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Final global assessment of tolerability by investigator on a 4-point scale</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's assessment of fatigue by VAS</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with clinically significant changes in laboratory findings</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with clinically significant changes in vital signs</measure>
+    <time_frame>up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with clinically significant changes in 12-lead ECG</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">404</enrollment>
+  <condition>Arthritis, Rheumatoid</condition>
+  <arm_group>
+    <arm_group_label>BIIL 284 BS low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BIIL 284 BS medium dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BIIL 284 BS high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BIIL 284 BS low dose</intervention_name>
+    <arm_group_label>BIIL 284 BS low dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BIIL 284 BS medium dose</intervention_name>
+    <arm_group_label>BIIL 284 BS medium dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BIIL 284 BS high dose</intervention_name>
+    <arm_group_label>BIIL 284 BS high dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients of &gt;=18 and &lt;= 70 years of age&#xD;
+&#xD;
+          -  Patients suffering from rheumatoid arthritis as defined by the American Rheumatism&#xD;
+             Association (ARA) criteria revised 1987 and date of diagnosis &gt;= 6 months. At least 4&#xD;
+             of the following 7 criteria must be present:&#xD;
+&#xD;
+               -  Morning stiffness in and around the joints lasting at least 1 hour before maximal&#xD;
+                  improvement for at least 6 weeks&#xD;
+&#xD;
+               -  Arthritis (soft tissue thickening or fluid - not bony overgrowth alone) of at&#xD;
+                  least 3 joint areas for at least 6 weeks&#xD;
+&#xD;
+               -  Arthritis of hand joints (at least one area swollen in a wrist,&#xD;
+                  metacarpophalangeal (MCP) or proximal interphalangeal (PIP) joint) for at least 6&#xD;
+                  weeks&#xD;
+&#xD;
+               -  Symmetrical arthritis (observed by a physician) with simultaneous involvement of&#xD;
+                  the joints on both sides of the body for at least 6 weeks&#xD;
+&#xD;
+               -  Rheumatoid nodules (observed by a physician) over bony prominence or extensor&#xD;
+                  surfaces or in juxta-articular regions&#xD;
+&#xD;
+               -  Serum rheumatoid factor positive&#xD;
+&#xD;
+               -  X-ray changes typical of rheumatoid arthritis (erosions or unequivocal bony&#xD;
+                  decalcification localized in or most marked adjacent to the involved joints)&#xD;
+&#xD;
+          -  Patients belonging to the RA functional class I, II or III&#xD;
+&#xD;
+          -  Active RA as defined at visit 2 by:&#xD;
+&#xD;
+               -  Swollen joint count at least of 6 (of 28 joints examined) and&#xD;
+&#xD;
+               -  Tender joint count at least of 8 (of 28 joints examined) and&#xD;
+&#xD;
+               -  Patients must fulfil 2 out of the 3 following criteria:&#xD;
+&#xD;
+                    -  Patient's assessment of pain (VAS) &gt;= 40 mm&#xD;
+&#xD;
+                    -  Investigator's global assessment of disease activity on a VAS &gt;= 40 mm&#xD;
+&#xD;
+                    -  ESR &gt;= 28 mm/h or CRP &gt;= 20 mg/L&#xD;
+&#xD;
+          -  Patient's written informed consent obtained at Visit 1 (screening) before enrolment in&#xD;
+             the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient presenting or having a history of inflammatory rheumatic disease other than RA&#xD;
+             (e.g.: mixed connective tissue disease, systemic lupus erythematosus, seronegative&#xD;
+             spondyloarthropathy)&#xD;
+&#xD;
+          -  Patients who have failed to more than 3 different disease-modifying antirheumatic drug&#xD;
+             (DMARDs) therapies previously due to lack of efficacy (in case of combined therapy&#xD;
+             each DMARDs used is counted as one)&#xD;
+&#xD;
+          -  Patients with any other disease that could interfere with the evaluation of efficacy&#xD;
+             and safety&#xD;
+&#xD;
+          -  Patients in treatment with any DMARDs / slow-acting anti-rheumatic drug (SAARDs)&#xD;
+             during the periods specified:&#xD;
+&#xD;
+               -  4 weeks before V2: Methotrexate, parenteral/oral gold, D-penicillamine,&#xD;
+                  Sulphasalazine, antimalarials (e.g.:Chloroquine/Hydroxychloroquine),&#xD;
+                  Azathioprine, Cyclosporine A, Alkylating agents (e.g.: Cyclophosphamide /&#xD;
+                  Chlorambucil), Minocycline, Etanercept (Enbrel®), and Leflunomide (only if&#xD;
+                  wash-out with Colestyramine has been done after leflunomide discontinuation)&#xD;
+&#xD;
+               -  3 months before Visit 2: Leflunomide if no wash- out with colestyramine has been&#xD;
+                  done after leflunomide discontinuation, Infliximab (Remicade®), any other&#xD;
+                  biological compound.&#xD;
+&#xD;
+          -  Patient in treatment with oral corticosteroids at a dose higher than 10 mg/day or 0.2&#xD;
+             mg/Kg/day (prednisone equivalent) whichever is lower, during the 4 weeks prior to&#xD;
+             Visit 2, change in the treatment with oral corticosteroids during the 4 weeks prior to&#xD;
+             Visit 2 or intended change during the trial&#xD;
+&#xD;
+          -  Patients in treatment with any parenteral (intravenous, intramuscular or&#xD;
+             intraarticular) treatment with corticosteroids during the 4 weeks prior to Visit 2 or&#xD;
+             their intended use during the trial.&#xD;
+&#xD;
+          -  Change in treatment with non-steroidal anti-inflammatory drugs (NSAIDs) during the 2&#xD;
+             weeks prior to Visit 2 or any intended change during the trial.&#xD;
+&#xD;
+          -  Synovectomy, and/or surgical treatment for RA in the previous 3 months prior to visit&#xD;
+             2 or intended indication during the trial.&#xD;
+&#xD;
+          -  Synoviorthesis in the previous 4 weeks prior to Visit 2 or intended indication during&#xD;
+             the trial.&#xD;
+&#xD;
+          -  Patients in treatment with any other leukotriene inhibitors such as montelukast or&#xD;
+             zafirlukast 4 weeks prior to Visit 2 or intended use during the trial.&#xD;
+&#xD;
+          -  Initiation of physiotherapy during the 2 weeks before V2, or intended change during&#xD;
+             the trial&#xD;
+&#xD;
+          -  Patients with history of cardiovascular, renal, neurologic, psychiatric, liver,&#xD;
+             gastrointestinal (including lactose intolerance ), immunologic or endocrine&#xD;
+             dysfunction if they are clinically significant.&#xD;
+&#xD;
+          -  Patients with any other known condition or circumstance, which would in the&#xD;
+             investigator's opinion, prevents compliance or completion of the study&#xD;
+&#xD;
+          -  Patients with history of cancer within the past 5 years, excluding treated basal cell&#xD;
+             carcinoma&#xD;
+&#xD;
+          -  Patients with chronic infection or acute infections during the 4 weeks before visit 1&#xD;
+&#xD;
+          -  Patients with known positive serology for hepatitis B or C&#xD;
+&#xD;
+          -  Patients with anticoagulant treatment (i.e. dicumarol or derivatives, warfarin)&#xD;
+&#xD;
+          -  Any of the following abnormal laboratory parameters at Visit 2:&#xD;
+&#xD;
+               -  Impaired hepatic function, defined by serum levels of either Aspartate&#xD;
+                  Aminotransferase (AST)(SGOT), Alanine Aminotransferase (ALT) (SGPT), alkaline&#xD;
+                  phosphatase or bilirubin &gt; 2 x upper limit of normal (ULN)&#xD;
+&#xD;
+               -  Impaired renal function, defined by serum creatinine &gt; 133 mmol/L (1.5 mg/dl)&#xD;
+&#xD;
+               -  Hemoglobin values &lt; 10 g/dl&#xD;
+&#xD;
+               -  White blood cell count &lt;= 3.500 cells/mm3&#xD;
+&#xD;
+               -  Platelet count of less than 120.000/mm3&#xD;
+&#xD;
+               -  Severe hypoproteinemia (e.g. in case of severe liver disease or nephrotic&#xD;
+                  syndrome) with albumin &lt; 3.0 g/dl&#xD;
+&#xD;
+          -  Patients with any other abnormal, clinically relevant laboratory values not related to&#xD;
+             RA&#xD;
+&#xD;
+          -  Patients participating in another clinical trial during the 3 months prior to visit 2&#xD;
+&#xD;
+          -  Previous participation in the randomised period of this study&#xD;
+&#xD;
+          -  Patients with a significant history and/or active alcohol or drug abuse Significant is&#xD;
+             defined as that which in the opinion of the investigator may either put the patient at&#xD;
+             risk because of participation in the study or may influence the results of the study&#xD;
+             or the patient's ability to participate in the study&#xD;
+&#xD;
+          -  Pregnancy (to be excluded by pregnancy test at visit 1) or breast feeding, and&#xD;
+             sexually active women with childbearing potential not using a medically approved&#xD;
+             method of contraception (i.e. oral contraceptives, intrauterine devices, or&#xD;
+             double-barrier) for at least one month before and throughout the study period&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <link>
+    <url>http://trials.boehringer-ingelheim.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>September 2014</verification_date>
+  <study_first_submitted>September 25, 2014</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2014</study_first_posted>
+  <last_update_submitted>September 25, 2014</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2014</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2014</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

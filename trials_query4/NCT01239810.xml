@@ -1,0 +1,290 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01239810</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TBOSTZKM1</org_study_id>
+    <nct_id>NCT01239810</nct_id>
+  </id_info>
+  <brief_title>Intra-articular Hyaluronic Acid in Mild to Moderate Knee Osteoarthritis</brief_title>
+  <acronym>Ostenil</acronym>
+  <official_title>Effect of Intra-articular Hyaluronic Acid on Articular Cartilage Morphology and Composition in Mild to Moderate Knee Osteoarthritis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Technische Universität München</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Technische Universität München</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Objective:&#xD;
+&#xD;
+      To assess the impact of intraarticular hyaluronic acid (HA) on clinical outcome and on&#xD;
+      volumetric and T2 relaxation based changes of articular cartilage in mild to moderate&#xD;
+      osteoarthritis (OA) of the knee joint.&#xD;
+&#xD;
+      Methods:&#xD;
+&#xD;
+      Patients with moderate OA of the knee [Kellgren-Lawrence II] were recruited for a 6-months&#xD;
+      prospective, randomized clinical trial evaluating the effect of HA on articular cartilage&#xD;
+      morphology and composition. Clinical examinations and MRI were performed at baseline, and&#xD;
+      after 6, 12 and 24 weeks. Cartilage volume, thickness and surface area were determined in&#xD;
+      cartilage plates and subregions were defined using proprietary software. MRI was performed on&#xD;
+      a 1.5 Tesla scanner; morphological evaluation was performed using 3D T1-w FLASH&#xD;
+      Waterexcitation (WE) sequences and T2 maps were calculated from a multiecho, spin-echo&#xD;
+      sequence.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction:&#xD;
+&#xD;
+      The medical management of knee osteoarthritis (OA performing intra-articular treatment with&#xD;
+      hyaluronic acid (HA) has recently become more widely accepted. The effectiveness of HA&#xD;
+      regarding the improvement of pain and function - also compared to placebo - has been shown by&#xD;
+      in vitro and clinical studies. However, most in vivo studies are based on patient well being,&#xD;
+      clinical scores and plain radiographs, which have however been shown neither to be an&#xD;
+      efficient way of monitoring OA progression nor to analyze the effect of HA on cartilage&#xD;
+      changes (1, 2).&#xD;
+&#xD;
+      Recently MRI has gained increasing importance as imaging modality for assessing cartilage&#xD;
+      changes in general but especially regarding degenerative changes in case of OA. Quantitative&#xD;
+      MRI (qMRI) studies were used to assess cartilage volume and thickness in patients with OA. In&#xD;
+      a longitudinal study Eckstein et al. (3) found an approximated annual loss of cartilage&#xD;
+      between 4 to 6%. Moreover, the effect of treatment on morphologic parameters can be evaluated&#xD;
+      objectively in-vivo which has been the major limitation of the validation process of drug&#xD;
+      therapy in OA so far. However, until now only three studies in the recent literature have&#xD;
+      used MRI to evaluate the effect of intraarticular HA on the articular cartilage of the knee&#xD;
+      joint. While Ozturk et al. (4) and Cubukçu et al. (5) evaluated the articular cartilage using&#xD;
+      a semiquantitative grading only Anandacoomarasamy et al. (6) have utilized validated&#xD;
+      techniques to assess cartilage defects and cartilage volume quantitatively for a follow-up&#xD;
+      period of six months. The so far published analyses have focused on entire cartilage plates,&#xD;
+      although it is likely that certain subregions of these plates are stronger affected by&#xD;
+      cartilage loss than others. Wirth et al. (7) demonstrated that cartilage loss can be measured&#xD;
+      in subregions (i.e., central, internal, external) of the femoro-tibial cartilage plates which&#xD;
+      allows for additional insight into the spatial distribution of tissue loss throughout the&#xD;
+      cartilage plates in OA (7, 8). Assuming that cartilage is not homogeneously lost throughout&#xD;
+      the plates, this approach may be used to identify subregions with a higher rate of and&#xD;
+      sensitivity to change, which may, in turn, permit a reduction of sample size and follow up&#xD;
+      periods in clinical studies to be able to demonstrate structure modifying effects of&#xD;
+      pharmaceutical compounds on disease progression (7-9).&#xD;
+&#xD;
+      The T2 relaxation time, another MRI based quantitative parameter, on the other hand is&#xD;
+      sensitive to tissue hydration and organizational properties of the collagen fiber matrix. It&#xD;
+      is thus considered to reflect compositional and architectural aspects as a surrogate&#xD;
+      parameter for cartilage matrix quality in cartilage degeneration (10). In mild OA of the&#xD;
+      knee, the mean cartilage T2 values, the standard deviation and the entropy were increased,&#xD;
+      indicating that in mild OA the T2 values are not only elevated but also are more&#xD;
+      heterogeneous as compared to healthy cartilage (11). It is generally assumed that changes of&#xD;
+      cartilage volume and thickness appear later and may also occur at a slower rate than T2&#xD;
+      changes of cartilage in OA. Hence, the T2 relaxation properties of cartilage may be useful as&#xD;
+      non invasive parameters to analyse the impact of HA, especially with respect to the - in most&#xD;
+      cases - relatively short follow up periods available.&#xD;
+&#xD;
+      Therefore the aim of this study was to assess the impact of intraarticular hyaluronic acid on&#xD;
+      clinical outcome and on volumetric (including subregions) and T2 relaxation based changes of&#xD;
+      articular cartilage in patients with moderate knee OA.&#xD;
+&#xD;
+      Material and methods Patients 34 patients with age rang of 40 - 64 years (mean 48 ± 9 yrs)&#xD;
+      presenting with a clinical history of mild to moderate OA, unilateral osteoarthritis of the&#xD;
+      knee at the time of inclusion were enrolled. All patients were referred from visiting&#xD;
+      orthopaedic surgeons and presented with OA grade II of the knee joint radiologically&#xD;
+      confirmed according to the Kellgren-Lawrence grading system (12).&#xD;
+&#xD;
+      Exclusion criteria were as follows: a) intraarticular injections in the affected knee, b)&#xD;
+      oral application of glucosamine and chondroitin sulphate during the last 6 months prior to&#xD;
+      the beginning of the study, c) clinically significant knee joint effusion or d) if knee joint&#xD;
+      infection was known or suspected and/or trauma or other specific conditions such as neoplasm,&#xD;
+      diabetes mellitus, osteonecrosis were present, which might potentially interfere with the&#xD;
+      completion of the trial. Another exclusion criterion was known rheumatoid arthritis or any&#xD;
+      other inflammatory arthritis diagnosed by American College of Rheumatology criteria.&#xD;
+&#xD;
+      Study design The study was conducted in a prospective, randomized way with a 6-months&#xD;
+      follow-up period. The patients were randomly assigned either to the group receiving treatment&#xD;
+      with 2ml Na-Hyaluronate (HA; MW 1.2 x 106; Ostenil, TRB Chemedica) or the group without&#xD;
+      treatment. The treatment group (n=17) were weekly treated with an intraarticular injection of&#xD;
+      HA during the first five weeks on day 0, 7, 14, 21 and 28 (see Table 1). Any pretreatment&#xD;
+      with non-steroidal anti inflammatory drugs (NSAID) had to be discontinued 7 days before the&#xD;
+      study started whereas concomitant physiotherapy was allowed. Patients were withdrawn from the&#xD;
+      study if severe reactions to the injections occurred or if there was evidence of an active&#xD;
+      infection of the injected joint at any time during the study period.&#xD;
+&#xD;
+      Clinical Assessments To determine clinical effectiveness of HA therapy, all patients were&#xD;
+      clinically evaluated prior to first injection (baseline) and after 6, 12 and 24 weeks (Table&#xD;
+      1). Clinical assessment comprised self-reported visual analog pain scale (VAS) and the&#xD;
+      Western Ontario and McMaster University Osteoarthritis Index (WOMAC) assessing the three&#xD;
+      dimensions of pain, function, and joint stiffness in knee OA. Additionally, the physical&#xD;
+      function and the patient as well as the physician global score were measured. Also the body&#xD;
+      mass index (BMI) was assessed.&#xD;
+&#xD;
+      Quantitative MRI: Volumetric Parameters A high resolution 3D T1-weighted FLASH&#xD;
+      Waterexcitation (WE) sequence with a thickness of 1.5 mm and an in-plane resolution of 0.31&#xD;
+      mm x 0.31 mm was obtained for each patient at baseline and 24 weeks after on a 1.5 Tesla&#xD;
+      MR-scanner using a dedicated circularly polarized knee coil (Siemens Medical Solutions,&#xD;
+      Erlangen, Germany). This protocol has been validated for quantitative assessment of cartilage&#xD;
+      morphology (3, 13-15). Coronal images were acquired for the femoro-tibial compartiment and&#xD;
+      transverse images to assess the patellar cartilage.&#xD;
+&#xD;
+      The MR- data were sent to the image analysis center, quality controlled, and converted to a&#xD;
+      proprietary format (Chondrometrics GmbH, Ainring, Germany). Images were read in pairs in a&#xD;
+      blinded to acquisition order fashion. The cartilage plates of the patella (P), central&#xD;
+      (weight-bearing) medial femur (cMF), central lateral femur (cLF), medial tibia (MT) and the&#xD;
+      lateral tibia (LT) were quantified as previously described using a 3D digital post-processing&#xD;
+      algorythm using the dedicated Chondrometrics Works software (16). On the coronal images, cMF&#xD;
+      and cLF started anteriorly at the first partition with interruption by the subchondral bone&#xD;
+      of diverging trochlea into the femoral condyles. Posteriorly, the last partition showing the&#xD;
+      circular structure of the posterior femoral condyles (central bone with surrounding&#xD;
+      cartilage) was identified. The partition located at 60%(2/3) between the anterior and&#xD;
+      posterior landmark was the most posterior one to be included in the cMF and cLF. Quality&#xD;
+      control of all segmentations of each dataset was performed by a single person (FE).&#xD;
+      Proprietary software was used to determine cartilage volume (VC), total area of the&#xD;
+      subchondral bone (tAB) and part of tAB covered with cartilage (cAB), mean cartilage thickness&#xD;
+      (ThCcAB), and mean thickness when counting all denuded areas as 0 mm cartilage thickness&#xD;
+      (ThCtAB). Changes were computed for the medial and lateral femorotibial compartments&#xD;
+      (MFTC/LFTC) by summing up the values of the medial tibia and femur, and the lateral tibia and&#xD;
+      femur, respectively, at baseline and follow up (17, 18).&#xD;
+&#xD;
+      Additionally, five subregions (central, internal, external, anterior, posterior) were&#xD;
+      determined based on the subchondral bone area (tAB) in the tibia, with the central subregion&#xD;
+      occupying 20% of the total subchondral bone area (7). The central tibial region was defined&#xD;
+      by a perpendicular cylinder around the center of gravity of the tibial subchondral bone area&#xD;
+      with the diameters being adapted to its individual shape (7). Since the weight-bearing&#xD;
+      femoral condyles are limited in anterior-posterior extension (femoral trochlea anteriorly and&#xD;
+      posterior femoral condyle posteriorly), they were divided into a central, internal and&#xD;
+      external strip-like region of interest, respectively, each occupying 33.3% of the subchondral&#xD;
+      bone area (7). Cartilage thickness (ThCtAB) was determined in all subregions.&#xD;
+&#xD;
+      Quantitative MRI: T2-Mapping For T2 relaxation time calculation a fat-saturated&#xD;
+      Multislice-Multiecho Turbo-Spin-Echo-sequence (MSME) (TR 3000ms / TE 13.2ms / 8 echoes, echo&#xD;
+      spacing 13.2ms / Bandwidth (BW) 130Hz / interleaved acquisition) and a 3D T1-w fast low angle&#xD;
+      shot (FLASH) sequence with selective water excitation (TR 14.2ms / TE 7.2ms / FA 15° / BW&#xD;
+      130Hz) with identical position and spatial resolution were acquired (19) in coronal plane at&#xD;
+      baseline, and 6, 12 and 24 weeks after. Both sequences were directed to the center of the&#xD;
+      knee joint with a resolution of 0.6² x 3 mm³ (256² matrix interpolated to 512²) and a field&#xD;
+      of view of 16 cm. The FLASH sequence is used for cartilage segmentation (19-21) then being&#xD;
+      superimposed on the T2 map to calculate the cartilage T2 values. Acquisition time for the&#xD;
+      FLASH-sequence was 2 min 55 sec, for the MSME-sequence 12 min 48 sec. Interactive&#xD;
+      segmentation and 3D reconstruction (15) of the tibial cartilage plates were performed&#xD;
+      consecutively.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2005</start_date>
+  <completion_date type="Actual">December 2008</completion_date>
+  <primary_completion_date type="Actual">November 2006</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>WOMAC</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Western Ontario and McMaster University Osteoarthritis Index 24 weeks after drug adminstration</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MRI</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>quantitative assessment of cartilage morphology using 3D T1-weighted FLASH Waterexcitation (WE) sequence following drug administration</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">34</enrollment>
+  <condition>Osteoarthritis</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <description>Receiving no treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>hyaluronic acid</arm_group_label>
+    <description>treatment group receiving intraarticular hyaluronic acid</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hyaluronic Acid</intervention_name>
+    <description>Intraarticular injection 2ml Na-Hyaluronate (HA; MW 1.2 x 106; Ostenil, TRB Chemedica) weekly for five weeks</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>hyaluronic acid</arm_group_label>
+    <other_name>Ostenil</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        referred from visiting orthopaedic surgeons to our academic outpatient clinic&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  History of mild to moderate OA&#xD;
+&#xD;
+          -  OA grade II&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Intraarticular injections in the affected knee&#xD;
+&#xD;
+          -  Oral application of glucosamine and chondroitin sulphate during the last 6 months&#xD;
+             prior to the beginning of the study&#xD;
+&#xD;
+          -  Clinically significant knee joint effusion&#xD;
+&#xD;
+          -  Neoplasm&#xD;
+&#xD;
+          -  Diabetes mellitus&#xD;
+&#xD;
+          -  Osteonecrosis&#xD;
+&#xD;
+          -  Rheumatoid arthritis or any other inflammatory arthritis diagnosed by American College&#xD;
+             of Rheumatology criteria.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rüdiger von Eisenhart-Rothe, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Orthopaedics and Traumatology, Technische Universität München</affiliation>
+  </overall_official>
+  <verification_date>December 2010</verification_date>
+  <study_first_submitted>November 9, 2010</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 11, 2010</study_first_posted>
+  <last_update_submitted>December 8, 2010</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2010</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 9, 2010</last_update_posted>
+  <responsible_party>
+    <name_title>Dr. med. Dipl. Kfm. Rüdiger von Eisenhart-Rothe</name_title>
+    <organization>Arbeitsgruppe Kinematik und Biomechanik Orthopädische Universitätsklinik Friedrichsheim Johann Wolfgang Goethe-Universität, Frankfurt</organization>
+  </responsible_party>
+  <keyword>hyaluronic acid</keyword>
+  <keyword>cartilage</keyword>
+  <keyword>T2 mapping</keyword>
+  <keyword>quantitative</keyword>
+  <keyword>MRI</keyword>
+  <keyword>volume</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyaluronic Acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,265 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04586075</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-0700</org_study_id>
+    <secondary_id>SMPH</secondary_id>
+    <secondary_id>Protocol Version 8/20/2020</secondary_id>
+    <nct_id>NCT04586075</nct_id>
+  </id_info>
+  <brief_title>UW Undiagnosed Diseases Program</brief_title>
+  <official_title>UW Undiagnosed Diseases Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Wisconsin, Madison</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Wisconsin Center for Human Genomics and Precision Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Wisconsin, Madison</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary purpose of this study is to discover new disease genes for rare Mendelian&#xD;
+      disorders and its secondary purpose include diagnosing people with rare genetic disorders&#xD;
+      that have not been previously diagnosed through conventional clinical means, learning more&#xD;
+      about the pathobiology of genetic disorders, and developing novel diagnostic technologies and&#xD;
+      analytics. 500 participants with undiagnosed and suspected genetic disorders will be&#xD;
+      recruited over approximately 5 years time.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      An estimated 10,000 rare Mendelian genetic disorders affect, in aggregate, one in twelve&#xD;
+      individuals. Importantly, just over half of these diseases have a known genetic cause. This&#xD;
+      leaves thousands of disease genes waiting to be discovered and millions of affected&#xD;
+      individuals without a diagnosis. The investigators will address these critical issues in&#xD;
+      genomic medicine by using genome sequencing and other 'omics technologies to assess patients&#xD;
+      whose comprehensive clinical workups have failed to yield a diagnosis. The hypothesis is&#xD;
+      that, when carefully selected, these undiagnosed disease patients will be a rich resource for&#xD;
+      new disease gene discovery.&#xD;
+&#xD;
+      This study is the research arm of the UW Undiagnosed Disease program (UW-UDP). The primary&#xD;
+      objective of this study is to discover new disease genes and expand the known phenotypes of&#xD;
+      rare Mendelian disorders. The secondary objectives are: a) Diagnose individuals with genetic&#xD;
+      disorders who have not been diagnosed using conventional clinical means and provide them with&#xD;
+      actionable knowledge to manage their disorders; b) Improve our understanding of the&#xD;
+      pathobiology of genetic disorders and the relationships between genomic variation and&#xD;
+      disease; and c) Develop and trial novel diagnostic technologies and analytics.&#xD;
+&#xD;
+      These objectives will be achieved through three aims:&#xD;
+&#xD;
+      Aim 1: Identify candidate disease variants in individuals suspected of an undiagnosed genetic&#xD;
+      disorder through the use of trio short read genome sequencing and data sharing with the rare&#xD;
+      disease databases GeneMatcher and MatchMaker Exchange.&#xD;
+&#xD;
+      Aim2: Further evaluate those individuals not diagnosed in Aim 1 by using novel 'omics&#xD;
+      technologies and bioinformatics algorithms. These approaches include a) ultra-long read de&#xD;
+      novo assembly-based genomic sequencing; b) RNA-Seq; c) epigenomics profiling, and d)&#xD;
+      conformational analysis of chromatin organization.&#xD;
+&#xD;
+      Aim 3: Provide functional assessments of selected candidate disease genes and genomic&#xD;
+      variants discovered in Aims 1 and 2 through collaborations with UW and external model&#xD;
+      organism researchers. These efforts will be facilitated through the use of a UW model&#xD;
+      organism researcher database that is linked to the Canadian Rare Diseases Models and&#xD;
+      Mechanisms Network database and an emerging global network of model organism researcher&#xD;
+      databases.&#xD;
+&#xD;
+      This research project is closely integrated with the UW-UDP's comprehensive clinical&#xD;
+      evaluations of undiagnosed patients. The standard clinical care component entails patient&#xD;
+      referral, collection and pre-visit assessment of medical records, and clinic visits for&#xD;
+      extensive phenotyping at the beginning of the study and for the return of results at the end&#xD;
+      of the study. The research workflow includes genome sequencing, data sharing with global&#xD;
+      disease gene discovery networks, and follow-up studies to determine causality of variants&#xD;
+      identified by genetic testing. This study will advance understanding of the pathobiology of&#xD;
+      genetic disease, improve clinical diagnostics, and aid in the diagnosis and management of&#xD;
+      individuals with previously undiagnosed rare disorders both within Wisconsin and beyond its&#xD;
+      borders.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2021</start_date>
+  <completion_date type="Anticipated">October 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of New Disease Genes Discovered</measure>
+    <time_frame>up to 5 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Expanded Disease Gene Phenotypes</measure>
+    <time_frame>up to 5 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants who are Diagnosed in 5 years</measure>
+    <time_frame>up to 5 years</time_frame>
+    <description>A secondary objective of this study is to diagnose individuals with genetic disorders who have not been diagnosed using conventional clinical means and provide them with actionable knowledge to manage their disorders. This will be measured as the rate of diagnosis over the entire study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Diagnosed per Analytical Technique</measure>
+    <time_frame>up to 5 years</time_frame>
+    <description>A secondary aim of this study is to develop and trial novel diagnostic technologies and analytics. The diagnosis rate per novel analytic technique will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diagnostic Rate by Disease Presentation</measure>
+    <time_frame>up to 5 years</time_frame>
+    <description>To improve understanding of the pathobiology of genetic disorders and the relationships between genomic variation and disease, number of participants diagnosed by disease presentation will be reported.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Rare Diseases</condition>
+  <condition>Genetic Disease</condition>
+  <condition>Undiagnosed Disease</condition>
+  <arm_group>
+    <arm_group_label>Undiagnosed Disease Group</arm_group_label>
+    <description>Blood or other relevant biological samples obtained from consenting research subjects will be banked and extracted for DNA and RNA.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Trio Whole Genome Sequencing and Participant-Specific Research</intervention_name>
+    <description>The initial evaluation begins with short-read genome sequencing of DNA extracted from blood of affected individual(s) and participating family members (The most common approach will be trio whole genome sequencing, which involves the affected child + their parents).&#xD;
+Additional evaluation may include: functional assessments, animal modeling, reverse phenotyping (may require an interim visit), epigenetic profiling, or clinical database matching through selective sharing of coded patient data with external collaborators (e.g., via Matchmaker Exchange and Phenome Central), long read genome sequencing, de novo genome assembly, RNA sequencing, and novel bioinformatics analyses</description>
+    <arm_group_label>Undiagnosed Disease Group</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples will be collected on all probands, parents, and participating affected family&#xD;
+      members unless they are refused by the participant or their collection would compromise&#xD;
+      participant safety. For a minority of patients, other biological samples may also be&#xD;
+      requested i.e., urine collection, saliva/buccal smears, and punch skin biopsies. Samples&#xD;
+      whose collection involves more than minimal risk (i.e., cerebrospinal fluid, bone marrow,&#xD;
+      liver, muscle, conjunctival, or renal biopsy) will be opportunistically obtained from&#xD;
+      residual material left after procedures performed for clinical purposes.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Males and females, ages 0-100 years, of all races and ethnicities, with an undiagnosed&#xD;
+        disease despite thorough evaluation by healthcare providers and having at least one&#xD;
+        objective finding. Subjects can come from all states of the US, as well as from other&#xD;
+        countries.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The applicant has a condition that remains undiagnosed despite thorough evaluation by&#xD;
+             healthcare providers&#xD;
+&#xD;
+          -  The applicant has at least one objective finding that is likely to have an&#xD;
+             identifiable genetic etiology.&#xD;
+&#xD;
+          -  The applicant likely has a currently undescribed/new genetic condition or a known&#xD;
+             genetic condition associated with a novel gene.&#xD;
+&#xD;
+          -  The applicant/legal guardian agrees to the collection, storage and recurrent sharing&#xD;
+             of coded information and biomaterials for research and diagnostic purposes both within&#xD;
+             and outside of the University of Wisconsin-Undiagnosed Diseases Program (UW-UDP)&#xD;
+&#xD;
+          -  The applicant/legal guardian agrees to receive secondary findings from genetic&#xD;
+             testing.&#xD;
+&#xD;
+          -  The applicant/legal guardian has sufficient proficiency in English to understand the&#xD;
+             consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The applicant already has a diagnosis that explains the objective findings.&#xD;
+&#xD;
+          -  A specific diagnosis is suspected and a standard clinical workup performed by the&#xD;
+             referring/primary care provider would be appropriate.&#xD;
+&#xD;
+          -  The UW-UDP is unlikely to improve on the comprehensive workup the applicant has&#xD;
+             already received.&#xD;
+&#xD;
+          -  The applicant's symptoms are likely multifactorial or due to a non-genetic cause.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephen Meyn, MD PhD ABMGG</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin, Madison</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>April Hall, MSc PhD ABGC</last_name>
+    <phone>(608) 265-8259</phone>
+    <email>alhall2@wisc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Wisconsin School of Medicine and Public Health</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>April Hall, MSc PhD ABGC</last_name>
+      <phone>608-265-8259</phone>
+      <email>alhall2@wisc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Stephen Meyn, MD PhD ABMGG</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Elizabeth Petty, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>October 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2020</study_first_posted>
+  <last_update_submitted>March 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>genomics</keyword>
+  <keyword>genome sequencing</keyword>
+  <keyword>undiagnosed disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Genetic Diseases, Inborn</mesh_term>
+    <mesh_term>Rare Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data from the UW-UDP will be shared via PhenomeCentral (https://www.phenomecentral.org) and Matchmaker Exchange (https://www.matchmakerexchange.org/).&#xD;
+Data, images, and/or specimens will be shared in compliance with the NIH Genomic Data Sharing Policy and with other clinicians and researchers who may have similar patients and/or specific expertise/assays relevant to the participant's disorder. In this regard, a limited amount of non-PHI containing patient data will be shared with pre-vetted model organism collaborators at UW and elsewhere via our Center's local node of the Rare Diseases Models and Mechanisms Network (http://rdmmn.biotech.wisc.edu). This network facilitates the identification of model organism researchers who are willing and able to functionally assess the pathogenicity of candidate disease gene variants in rare disease patients (see http://www.rare-diseases-catalyst-network.ca for details).</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

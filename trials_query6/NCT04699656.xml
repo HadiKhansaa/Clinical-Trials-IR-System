@@ -1,0 +1,310 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04699656</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CPH-002-CL-013</org_study_id>
+    <nct_id>NCT04699656</nct_id>
+  </id_info>
+  <brief_title>Plazomicin Study in ESRD Patients Receiving IHD</brief_title>
+  <official_title>A Phase 1 Open-Label Study to Assess the Pharmacokinetics, Safety, and Tolerability of Intravenous Administration of Plazomicin in Subjects With End Stage Renal Disease (ESRD) Receiving Intermittent Hemodialysis (IHD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cipla USA Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cipla USA Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is being conducted to directly characterize the pharmacokinetic (PK) profile of&#xD;
+      plazomicin following administration of a single oral dose before and after IHD in subjects&#xD;
+      with ESRD. This PK assessment will be used to provide appropriate plazomicin dosing&#xD;
+      recommendations for patients with ESRD receiving IHD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 1, single-center, open-label, single-dose study to evaluate the PK of a&#xD;
+      single dose of plazomicin (30-minute IV infusion at 2.5 mg/kg) when administered prior to and&#xD;
+      after IHD in subjects with ESRD.&#xD;
+&#xD;
+      The study will consist of a screening period of up to 28 days and two treatment periods, with&#xD;
+      at least a 7-day washout between dosing in each treatment period. The start of the study is&#xD;
+      defined as the date that the first subject is screened following signing of an informed&#xD;
+      consent form (ICF).&#xD;
+&#xD;
+      In Period 1 (Week 1), the dosing day will be concomitant with the 3rd weekly IHD session,&#xD;
+      which must be at least 72 hours before the 1st weekly IHD session of the subsequent Week. All&#xD;
+      subjects will receive a single dose of plazomicin (30 minute IV infusion at 2.5 mg/kg) within&#xD;
+      1 hour after IHD is completed. PK samples will be collected at specified time points from 0.6&#xD;
+      hours to 72 hours after completion of the plazomicin infusion. Collection of all PK samples&#xD;
+      must be completed prior to the next scheduled IHD.&#xD;
+&#xD;
+      In Period 2 (Week 2), the dosing day will occur on the day of the 3rd weekly IHD session,&#xD;
+      which must be at least 7 days after the first dose and at least 72 hours before the 1st&#xD;
+      weekly IHD session of the subsequent Week. All subjects will receive a single dose of&#xD;
+      plazomicin (30 minute IV infusion at 2.5 mg/kg) before IHD is started. The plazomicin&#xD;
+      infusion should be completed within 30 minutes of IHD initiation. During IHD, the total&#xD;
+      dialysate will be collected in a large collection container and pooled at 1-hour intervals&#xD;
+      (0-1, 1-2, 2-3, etc. for the duration of the IHD session). From each hourly interval&#xD;
+      (including any partial interval at end of dialysis), an aliquot sample of dialysate will be&#xD;
+      collected for PK analysis. PK samples will be collected at specified time points from 0.6&#xD;
+      hours to 72 hours after completion of the plazomicin infusion. Collection of all PK samples&#xD;
+      must be completed prior to the next scheduled IHD.&#xD;
+&#xD;
+      Safety assessments will include physical examination findings, vital signs (blood pressure,&#xD;
+      pulse rate, respiration rate, and oral temperature), clinical laboratory evaluations, and&#xD;
+      monitoring of adverse events (AEs). Adverse events will be assessed from the time the subject&#xD;
+      signs the ICF until exit from the study.&#xD;
+&#xD;
+      The site will attempt to contact all subjects (including subjects who terminate the study&#xD;
+      early) via phone call approximately 14 days after the last dose of study drug to determine if&#xD;
+      any AE has occurred since the last study visit. Subjects reporting AEs may be asked to return&#xD;
+      to the site for further assessment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>o Maximum observed plasma drug concentration (Cmax)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Plasma PK parameter for plazomicin before and after IHD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>o Time to maximum observed plasma concentration (Tmax)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Plasma PK parameter for plazomicin before and after IHD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>o Area under the plasma concentration time curve from time 0 to the last measurable concentration (AUC0-t)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Plasma PK parameter for plazomicin before and after IHD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>o Area under the plasma concentration time curve extrapolated to infinity (AUCinf)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Plasma PK parameter for plazomicin before and after IHD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>o Terminal elimination half-life (t1/2)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Plasma PK parameter for plazomicin before and after IHD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>o Total plasma clearance (CL)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Plasma PK parameter for plazomicin before and after IHD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>o Volume of distribution during the terminal elimination phase (Vz)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Plasma PK parameter for plazomicin before and after IHD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>o Terminal elimination rate constant (λz)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Plasma PK parameter for plazomicin before and after IHD</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>• Adverse events (AEs)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Safety assessment; An overall summary will be generated presenting the frequency and percentage of subjects and the number of treatment-emergent adverse events (TEAEs).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>o Cumulative amount of drug excreted in dialysate (Ae)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Dialysate PK parameter for plazomicin after IHD</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>o Percent of plazomicin recovered in dialysate (Ae%)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Dialysate PK parameter for plazomicin after IHD</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>o Dialysate clearance (CLD)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Dialysate PK parameter for plazomicin after IHD</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">6</enrollment>
+  <condition>End Stage Renal Disease</condition>
+  <arm_group>
+    <arm_group_label>Plazomicin Injection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>plazomicin (30-minute IV infusion at 2.5 mg/kg) single dose given before IHD and single dose given after IHD</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Plazomicin Injection</intervention_name>
+    <description>single dose of plazomicin</description>
+    <arm_group_label>Plazomicin Injection</arm_group_label>
+    <other_name>Zemdri</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male and female subjects between 18 and 75 years of age with a BMI ≥19 to ≤42 kg/m2&#xD;
+             and weight of ≥40 kg&#xD;
+&#xD;
+          -  Pre-existing ESRD requiring in-center IHD for a minimum of 3 months on a schedule of&#xD;
+             three IHD sessions per week with the third weekly IHD session occurring at least 72&#xD;
+             hours before the first weekly IHD session of the subsequent week (e.g.&#xD;
+             Monday/Wednesday/Friday or Tuesday/Thursday/Saturday)&#xD;
+&#xD;
+          -  Females of childbearing potential must not be breast-feeding, must have a negative&#xD;
+             serum pregnancy test at screening, and must use a highly effective method of&#xD;
+             contraception (includes hormonal implants, intrauterine devices, injectable hormones,&#xD;
+             oral hormonal contraceptives, prior hysterectomy, prior bilateral oophorectomy, or a&#xD;
+             vasectomized partner whose vasectomy was performed 4 months or more prior to dosing on&#xD;
+             Day 1) or be abstinent from sexual activity for at least 1 month prior to dosing on&#xD;
+             Day 1, during the study and through 30 days following the last dose of study drug.&#xD;
+             Females of non-childbearing potential, defined as women who have not had a period for&#xD;
+             12 consecutive months prior to dosing on Day 1, may be enrolled.&#xD;
+&#xD;
+          -  Willing to comply with all study activities and procedures and have provided written&#xD;
+             informed consent prior to any study procedures and have signed and dated a Health&#xD;
+             Insurance Portability and Accountability Act (HIPAA) authorization form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects with any medical, psychological, or social condition which, in the opinion of&#xD;
+             the Investigator, would prevent the subject from fully participating in the study,&#xD;
+             would represent a concern for study compliance or would constitute a safety concern to&#xD;
+             the subject.&#xD;
+&#xD;
+          -  Unstable cardiovascular disease per the Investigator, including:&#xD;
+&#xD;
+               1. Heart rate &lt;40 or &gt;110 beats per minute (bpm) or QT interval corrected using&#xD;
+                  Fridericia's formula (QTcF) &gt;500 msec.&#xD;
+&#xD;
+               2. Uncontrolled hypertension, asthma, diabetes (type I or type II), thyroid disease,&#xD;
+                  or seizure disorder&#xD;
+&#xD;
+          -  Myasthenia gravis or any other neuromuscular disorder.&#xD;
+&#xD;
+          -  Known infection with hepatitis B (antigen positive), hepatitis C (antibody positive),&#xD;
+             or human immunodeficiency virus (HIV). Subjects with clinically insignificant or&#xD;
+             adequately treated hepatitis C may be allowed at the discretion of the Investigator.&#xD;
+&#xD;
+          -  Active malignancy; carcinoma in situ of the prostate or cervix or basal cell or&#xD;
+             squamous cell carcinoma of the skin are permitted.&#xD;
+&#xD;
+          -  Presence of functioning transplant organ or blood procedure.&#xD;
+&#xD;
+          -  Significant change in either over-the-counter or prescription medications or&#xD;
+             supplements within 3 months prior to dosing, defined as any new medication or any&#xD;
+             dosage adjustment that is significant in the judgment of the Investigator.&#xD;
+&#xD;
+          -  History of significant hearing loss or a family history of hearing loss, excluding&#xD;
+             age-related (≥65 years) hearing loss. A prior diagnosis of sensorineural hearing loss&#xD;
+             or Ménière's disease or receipt of any potentially ototoxic agent within 30 prior to&#xD;
+             the start of screening.&#xD;
+&#xD;
+          -  Subjects who received a systemic aminoglycoside within 90 days of the start of&#xD;
+             screening.&#xD;
+&#xD;
+          -  Clinically significant illness, including viral syndromes within three weeks of&#xD;
+             dosing.&#xD;
+&#xD;
+          -  Current participation in a clinical study of an investigational product.&#xD;
+&#xD;
+          -  Subjects who took any investigational medication/therapy within 30 days or 5&#xD;
+             half-lives, whichever is longer, before dosing of plazomicin.&#xD;
+&#xD;
+          -  Subjects with active alcoholism and/or drug/chemical abuse in the opinion of the&#xD;
+             Investigator. Also, consumption of any amount of ethanol within 48 hours of plazomicin&#xD;
+             dosing.&#xD;
+&#xD;
+          -  Subjects who donated more than 500 mL of blood within 60 days prior to start of&#xD;
+             screening.&#xD;
+&#xD;
+          -  Previous participation in this or any other plazomicin study.&#xD;
+&#xD;
+          -  Known hypersensitivity to aminoglycosides or any component of plazomicin injection.&#xD;
+&#xD;
+          -  The subject is an employee of the Investigator or study center with direct involvement&#xD;
+             in the proposed study or other studies under the direction of that Investigator or&#xD;
+             study center, as well as a family member of the employee or Investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patrice P Rioux, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Cipla USA Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mary Jo Bagger, Clinical Operations</last_name>
+    <phone>+1 (858) 500-6621</phone>
+    <email>maryjo.bagger@cipla.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Orlando Clinical Research Center</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas C Marbury MD, Principal Investigator</last_name>
+      <phone>407-472-0227</phone>
+      <email>tmarbury@ocrc.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>Derek Bell, Recruitment Manager</last_name>
+      <phone>+1 (407) 472-0268</phone>
+      <email>dbell@ocrc.net</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 7, 2021</study_first_posted>
+  <last_update_submitted>January 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Kidney Failure, Chronic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,343 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00058461</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-01804</org_study_id>
+    <secondary_id>NCI-2012-01804</secondary_id>
+    <secondary_id>COG-ANHL0121</secondary_id>
+    <secondary_id>CDR0000298751</secondary_id>
+    <secondary_id>ANHL0121</secondary_id>
+    <secondary_id>ANHL0121</secondary_id>
+    <secondary_id>U10CA098543</secondary_id>
+    <nct_id>NCT00058461</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy and Rituximab in Treating Young Patients With Recurrent or Refractory Non-Hodgkin's Lymphoma or Acute Lymphoblastic Leukemia</brief_title>
+  <official_title>A Phase II Study of Rituximab (IND #7028) and Ifosfamide, Carboplatin and Etoposide (ICE) Chemotherapy in Children With Recurrent/Refractory B-cell (CD20+) Non-Hodgkin Lymphoma and B-cell Acute Lymphoblastic Leukemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      This phase II trial is studying how well rituximab together with ifosfamide, carboplatin, and&#xD;
+      etoposide works in treating young patients with recurrent or refractory non-Hodgkin's&#xD;
+      lymphoma or acute lymphoblastic leukemia. Chemotherapy drugs, such as ifosfamide,&#xD;
+      carboplatin, and etoposide, work in different ways to stop cancer cells from dividing so they&#xD;
+      stop growing or die. Monoclonal antibodies such as rituximab can locate cancer cells and&#xD;
+      either kill them or deliver cancer-killing substances to them without harming normal cells.&#xD;
+      Combining ifosfamide, carboplatin, and etoposide with rituximab may kill more cancer cells.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. Determine the response of pediatric patients with relapsed or refractory B-cell&#xD;
+      non-Hodgkin's lymphoma or acute lymphoblastic leukemia treated with ifosfamide, carboplatin,&#xD;
+      and etoposide combined with rituximab.&#xD;
+&#xD;
+      II. Determine the relapse-free survival rate of patients treated with this regimen.&#xD;
+&#xD;
+      III. Determine the toxicity profile of this regimen in these patients, specifically the&#xD;
+      frequency of therapy delays between courses due to prolonged grade IV hematologic toxicity.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. Determine whether this regimen plus filgrastim (G-CSF) will result in mobilization of&#xD;
+      greater than 2 X 10^6/kg peripheral blood stem cells (CD34+ cells, PBSC) in at least 80% of&#xD;
+      patients for whom peripheral stem cell collection is performed.&#xD;
+&#xD;
+      II. Determine the time course of engraftment for patients who undergo peripheral stem cell&#xD;
+      transplantation after collection of stem cells using this mobilization regimen.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter study. Patients are stratified by disease (B-cell large cell&#xD;
+      lymphoma or atypical precursor B-cell lymphoblastic lymphoma vs small non-cleaved cell&#xD;
+      lymphoma or B-cell acute lymphoblastic leukemia).&#xD;
+&#xD;
+      Patients receive ifosfamide IV over 2 hours and etoposide IV over 1 hour on days 3-5,&#xD;
+      rituximab IV on days 1 and 3, and carboplatin IV over 1 hour on day 3. Patients receive&#xD;
+      filgrastim (G-CSF) subcutaneously once daily beginning on day 6 and continuing until blood&#xD;
+      counts recover. Patients also receive intrathecal (IT) chemotherapy comprising methotrexate&#xD;
+      and cytarabine. Patients with B-cell large cell lymphoma and negative CSF cytology receive IT&#xD;
+      chemotherapy on day 3 of the first course only. Patients with small non-cleaved cell lymphoma&#xD;
+      or B-cell acute lymphoblastic leukemia and negative CSF cytology receive IT chemotherapy on&#xD;
+      day 3. All patients with positive CSF cytology receive IT chemotherapy on days 3, 10, and 17&#xD;
+      of the first and second courses. Treatment repeats every 23 days for up to 3 courses in the&#xD;
+      absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      Patients are followed for survival.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 42-82 patients (21-41 per disease stratum) will be accrued for&#xD;
+      this study within 2-4 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>November 2003</start_date>
+  <primary_completion_date type="Actual">March 2007</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Response rate determined by physical exam and appropriate imaging studies</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Response rates and confidence intervals will be constructed according to the method of Chang and O'Brien.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Relapse-free survival rate</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <description>Estimated by the Kaplan-Meier method.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Toxicity as assessed by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE)</measure>
+    <time_frame>Up to 3 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CD34 cells mobilization by flow cytometry</measure>
+    <time_frame>At the completion of 2 courses of treatment</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">82</enrollment>
+  <condition>B-cell Childhood Acute Lymphoblastic Leukemia</condition>
+  <condition>Childhood Burkitt Lymphoma</condition>
+  <condition>Childhood Diffuse Large Cell Lymphoma</condition>
+  <condition>Childhood Immunoblastic Large Cell Lymphoma</condition>
+  <condition>L3 Childhood Acute Lymphoblastic Leukemia</condition>
+  <condition>Recurrent Childhood Acute Lymphoblastic Leukemia</condition>
+  <condition>Recurrent Childhood Large Cell Lymphoma</condition>
+  <condition>Recurrent Childhood Lymphoblastic Lymphoma</condition>
+  <condition>Recurrent Childhood Small Noncleaved Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (chemotherapy, rituximab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive ifosfamide IV over 2 hours and etoposide IV over 1 hour on days 3-5, rituximab IV on days 1 and 3, and carboplatin IV over 1 hour on day 3. Patients receive filgrastim (G-CSF) subcutaneously once daily beginning on day 6 and continuing until blood counts recover. Patients also receive intrathecal (IT) chemotherapy comprising methotrexate and cytarabine. Patients with B-cell large cell lymphoma and negative CSF cytology receive IT chemotherapy on day 3 of the first course only. Patients with small non-cleaved cell lymphoma or B-cell acute lymphoblastic leukemia and negative CSF cytology receive IT chemotherapy on day 3. All patients with positive CSF cytology receive IT chemotherapy on days 3, 10, and 17 of the first and second courses. Treatment repeats every 23 days for up to 3 courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ifosfamide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (chemotherapy, rituximab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>etoposide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (chemotherapy, rituximab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rituximab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (chemotherapy, rituximab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carboplatin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (chemotherapy, rituximab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>filgrastim</intervention_name>
+    <description>Given SC</description>
+    <arm_group_label>Treatment (chemotherapy, rituximab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>methotrexate</intervention_name>
+    <description>Given IT</description>
+    <arm_group_label>Treatment (chemotherapy, rituximab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cytarabine</intervention_name>
+    <description>Given IT</description>
+    <arm_group_label>Treatment (chemotherapy, rituximab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (chemotherapy, rituximab)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed B-cell non-Hodgkin's lymphoma OR acute lymphoblastic leukemia&#xD;
+&#xD;
+               -  CD20+ (confirmed by flow cytometry of tumor tissue, involved marrow, or CD20&#xD;
+                  immunostaining)&#xD;
+&#xD;
+               -  The following histologies are generally CD20+ and are eligible:&#xD;
+&#xD;
+                    -  Diffuse large B-cell lymphoma, mediastinal (thymic) large B-cell lymphoma,&#xD;
+                       or follicular lymphoma, grade III (rare), documented by flow cytometry or&#xD;
+                       appropriate immunohistochemistry, any stage&#xD;
+&#xD;
+                    -  Burkitt's lymphoma or atypical Burkitt's/Burkitt-like lymphoma, any stage&#xD;
+&#xD;
+                    -  B-cell acute lymphoblastic leukemia, with FABL3 morphology and/or&#xD;
+                       demonstration of surface immunoglobin by flow cytometry&#xD;
+&#xD;
+                    -  Atypical precursor B-cell lymphoblastic lymphoma or other unusual&#xD;
+                       histologies that are CD20+&#xD;
+&#xD;
+          -  Measurable disease by clinical, radiographic, or histologic criteria&#xD;
+&#xD;
+          -  Must be in first or later recurrence or have disease that is primarily refractory to&#xD;
+             conventional therapy&#xD;
+&#xD;
+          -  No isolated CNS disease&#xD;
+&#xD;
+          -  Performance status - ECOG 0-2&#xD;
+&#xD;
+          -  At least 2 months&#xD;
+&#xD;
+          -  Absolute neutrophil count ≥ 1,000/mm^3*&#xD;
+&#xD;
+          -  Platelet count ≥ 100,000/mm^3 (transfusion independent)*&#xD;
+&#xD;
+          -  Hemoglobin ≥ 10.0 g/dL (RBC transfusion allowed)*&#xD;
+&#xD;
+          -  Bilirubin ≤ 1.5 times normal&#xD;
+&#xD;
+          -  ALT &lt; 2.5 times normal&#xD;
+&#xD;
+          -  No chronic renal insufficiency&#xD;
+&#xD;
+               -  Renal insufficiency allowed provided it is secondary to tumor lysis syndrome&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception during and for 3 months after study&#xD;
+             treatment&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+          -  No active uncontrolled infection&#xD;
+&#xD;
+          -  Seizure disorder allowed if well controlled with anticonvulsants&#xD;
+&#xD;
+          -  No CNS toxicity greater than grade II&#xD;
+&#xD;
+          -  At least 24 hours since prior growth factor(s)&#xD;
+&#xD;
+          -  At least 60 days since prior biologic (antineoplastic) therapy&#xD;
+&#xD;
+          -  Prior stem cell transplantation allowed provided the following criteria are met:&#xD;
+&#xD;
+               -  More than 60 days since transplantation&#xD;
+&#xD;
+               -  Hematopoietic lab value requirements are met (See Hematopoietic)&#xD;
+&#xD;
+               -  No evidence of graft-versus-host disease (if post-allogeneic transplantation)&#xD;
+&#xD;
+          -  Prior monoclonal antibody therapy allowed (including rituximab)&#xD;
+&#xD;
+          -  No other concurrent immunomodulating agents&#xD;
+&#xD;
+          -  More than 2 weeks since prior myelosuppressive chemotherapy (4 weeks for nitrosoureas)&#xD;
+&#xD;
+          -  No other concurrent chemotherapy&#xD;
+&#xD;
+          -  No concurrent steroids (except for rituximab infusion-related symptoms)&#xD;
+&#xD;
+          -  At least 2 weeks since prior local palliative radiotherapy (small port)&#xD;
+&#xD;
+          -  At least 6 weeks since prior substantial bone marrow radiotherapy&#xD;
+&#xD;
+          -  At least 6 months since prior craniospinal radiotherapy or radiotherapy to 50% or more&#xD;
+             of the pelvis&#xD;
+&#xD;
+          -  Concurrent radiotherapy to localized painful, airway-compromising, or other acute&#xD;
+             organ-threatening lesions allowed provided at least 1 measurable lesion is not&#xD;
+             irradiated&#xD;
+&#xD;
+          -  Recovered from prior therapy&#xD;
+&#xD;
+          -  No concurrent participation in another phase II study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Timothy Griffin</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Oncology Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's Oncology Group</name>
+      <address>
+        <city>Arcadia</city>
+        <state>California</state>
+        <zip>91006-3776</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Puerto Rico</country>
+    <country>Switzerland</country>
+  </removed_countries>
+  <verification_date>October 2013</verification_date>
+  <study_first_submitted>April 7, 2003</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 9, 2003</study_first_posted>
+  <last_update_submitted>October 7, 2013</last_update_submitted>
+  <last_update_submitted_qc>October 7, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 8, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Burkitt Lymphoma</mesh_term>
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+    <mesh_term>Lymphoma, Large-Cell, Immunoblastic</mesh_term>
+    <mesh_term>Plasmablastic Lymphoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cytarabine</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Methotrexate</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Ifosfamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,448 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03992677</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17SM4046</org_study_id>
+    <nct_id>NCT03992677</nct_id>
+  </id_info>
+  <brief_title>Feasibility of Improving Risk Stratification in Brugada Syndrome</brief_title>
+  <acronym>FIRST-BrS</acronym>
+  <official_title>Feasibility of Improving Risk Stratification in Brugada Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Feasibility of Improving Risk Stratification in Brugada Syndrome (BrS), retrospective cohort&#xD;
+      study To study the reproducibility and specificity of V-CoS for activation heterogeneities&#xD;
+      predisposing to VT/VF in a larger series of BrS patients and determining the incidence of low&#xD;
+      V-CoS score in a larger cohort of control patients.&#xD;
+&#xD;
+      Population of 10 patients undergoing ablation for non-VT arrhythmia, 10 patients with atrial&#xD;
+      fibrillation, 10 relatives of BrS sufferers, who have confirmation of no pathology,10&#xD;
+      patients with previous out-of-hospital cardiac arrest due to ischaemia, but with full&#xD;
+      revascularisation and recovery of left ventricular function, 10 elite athletes, 50 BrS&#xD;
+      sufferers with previous sudden cardiac death or appropriate Implantable&#xD;
+      cardioverter-defibrillator (ICD) therapy for VT/VF.&#xD;
+&#xD;
+      DURATION 3 years&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is estimated that approximately 600 apparently fit and healthy individuals aged under 35&#xD;
+      years die suddenly in the UK every year Many of these sudden cardiac deaths (SCD) in the&#xD;
+      young are the result of inherited cardiac conditions (ICC), the majority of which are the&#xD;
+      direct consequence of single mutations in sarcolemmal ion channels (e.g. Brugada syndrome -&#xD;
+      BrS, Long QT syndrome - LQTS), intercalated disc proteins (arrhythmogenic right ventricular&#xD;
+      cardiomyopathy - ARVC) or the cardiac sarcomere (hypertrophic cardiomyopathy - HCM) Poor&#xD;
+      genotype-phenotype correlations, due in part to incomplete penetrance, variable expressivity,&#xD;
+      role of gene modifiers and external environmental factors, limits the use of an individual's&#xD;
+      genetic makeup in the core task of predicting risk of death. As a result, identifying high&#xD;
+      risk individuals who should receive an implantable cardioverter defibrillators (ICD) is still&#xD;
+      a significant challenge.&#xD;
+&#xD;
+      In Brugada Syndrome, follow up data from the largest registries reveal a spontaneous Type I&#xD;
+      BrS pattern (ST elevation in the anterior leads) on electrocardiogram (ECG) and/or history of&#xD;
+      syncope to be independent predictors for SCD events. These are employed in conventional risk&#xD;
+      stratification to identify those with high risk. By this approach, the low risk have an&#xD;
+      annual SCD rate below 0.5% and the high risk have an annual SCD rate ~1% 3,8,9. Therefore,&#xD;
+      not only are SCD events in the unselected BrS population relatively low, the differences in&#xD;
+      event rates between those perceived to be at high and low risk are small, highlighting the&#xD;
+      limitations of current risk stratification. Thus, calculations of sensitivity and specificity&#xD;
+      to predict SCD risk using syncope is 61%/52% and for spontaneous type I BrS ECG pattern is&#xD;
+      86%/36% 10.&#xD;
+&#xD;
+      Amongst individuals presenting with SCD, a significant portion of individuals have neither&#xD;
+      spontaneous Type I BrS pattern or previous syncope, and would have been considered low-risk.&#xD;
+      Only 50% of participants in the FINGER registry with previous SCD events had spontaneous Type&#xD;
+      I BrS pattern. Similarly in a study of 50 SCD probands with a familial diagnosis of BrS, only&#xD;
+      20% had a history of prior syncope and in those with ante-mortem ECGs, only 20% had a&#xD;
+      spontaneous type I pattern. This reflects our own experience with a cohort of 149 BrS&#xD;
+      patients; we have 10 individuals with SCD events, of whom only 1 has a spontaneous Type I BrS&#xD;
+      pattern and/or a history of syncope.&#xD;
+&#xD;
+      All these data seem to consistently suggest that the majority of SCD events occur in the&#xD;
+      larger 'low-risk' cohort, further underlining the limitations of current risk stratification.&#xD;
+&#xD;
+      The decision to implant an ICD must be weighed against the risk of complications. At present&#xD;
+      appropriate therapy occurs in around 12%, which is higher than the SCD event rate; this is&#xD;
+      consistent with normal ICD function 'over-treating' ventricular arrhythmias which would have&#xD;
+      been non-sustained. Inappropriate shock rates have been reported between 5-37% depending on&#xD;
+      follow-up time, and death has been reported from inappropriate therapy shock. Lead failure&#xD;
+      also occurred in 29% of the 378 BrS patients over as 10 year follow up. Implanting more ICDs&#xD;
+      to compensate for the limitations of risk stratification may only increase morbidity and even&#xD;
+      mortality from inappropriate therapy and complications.&#xD;
+&#xD;
+      Understanding the electrophysiological mechanisms behind fatal arrhythmias in Brugada&#xD;
+      Syndrome may help in developing more objective means of identifying those patients most at&#xD;
+      risk of SCD. There are currently two hypotheses. The &quot;repolarisation hypothesis&quot; was&#xD;
+      formulated from explanted canine ventricular experiments. Exposure to sodium channel blockers&#xD;
+      caused loss of action potential (AP) dome and shortening of AP duration in the right&#xD;
+      ventricular epicardium but not in endocardium, creating a transmural voltage gradient that&#xD;
+      would hypothetically form the substrate for re-entry. In contrast, proponents of the&#xD;
+      &quot;depolarisation hypothesis&quot; postulate that slowed conduction caused by reduced inward sodium&#xD;
+      current function underlies the arrhythmogenic tendency in BrS. Mapping studies in&#xD;
+      SCN5A-knockout models have shown that conduction abnormalities contribute towards ventricular&#xD;
+      arrhythmogenesis. There is also human data to support this hypothesis with regional&#xD;
+      conduction delay and fractionated electrograms in the RVOT. The major problem with the&#xD;
+      arrhythmogenic mechanisms proposed above for both BrS is that they do not address the&#xD;
+      critically important clinical question: why are some individuals with ICCs are more&#xD;
+      predisposed to SCDs than others with the same condition?&#xD;
+&#xD;
+      An additional compounding factor is the observation that in ICC patients, SCD is often&#xD;
+      triggered by sudden changes in autonomic or metabolic status. SCD in Brugada syndrome often&#xD;
+      occurs at rest when vagal tone is predominant and during episodes of fever. Typical Brugada&#xD;
+      ECG changes may be unmasked or intensified by vagal stimulation, parasympathomimetic drugs,&#xD;
+      anti-adrenergic drugs, or α-adrenergic receptor stimulators, and diminished by exercise or&#xD;
+      isoproterenol infusion. This suggests that studying the response of the electrophysiological&#xD;
+      substrate to extrinsic stressors may identify individuals at risk of SCD. Indeed, labile or&#xD;
+      exaggerated electrophysiological response to extrinsic stressors may represent the final&#xD;
+      common pathway predisposing to SCD in the ICCs, regardless of the specific genotype, syndrome&#xD;
+      or diagnosis.&#xD;
+&#xD;
+      To investigate this hypothesis, a BHF project grant was awarded to use non-invasive&#xD;
+      electrocardiographic imaging (ECGi) to understand the effect of external stressors on&#xD;
+      ventricular conduction. During PG/15/20/31339, we demonstrated changes in activation recovery&#xD;
+      interval (ARI) in patients with aborted SCD, but these were only evident at peak exercise.&#xD;
+      These findings were consistent with mathematical models predicting that heterogeneity of&#xD;
+      repolarisation and the resulting conduction abnormalities would predispose to fibrillatory&#xD;
+      activation. This raised the possibility that ARI abnormalities with exercise could be the&#xD;
+      basis of a risk stratification tool. However ARI measurements are labour intensive, so we&#xD;
+      developed a novel technique to rapidly identify conduction abnormalities. This system uses a&#xD;
+      252-electrode vest and calculates the appearance of the epicardial unipolar electrogram from&#xD;
+      body surface electrograms and low-resolution CT. Data from this study has shown that patients&#xD;
+      with previous VT/VF develop heterogeneities in conduction following exertion. The example&#xD;
+      used non-invasive ECGi to develop a new risk stratification tool called 'Ventricular&#xD;
+      Conduction Stability Test'. The figure below shows how data from the electrode vest (A)&#xD;
+      generates body surface potentials (B), reconstructs epicardial electrograms onto a&#xD;
+      CT-generated torso model (C) then projects these onto a 3D cardiac surface (D). Comparing&#xD;
+      beats during rest and exercise produces an assessment of how stable conduction remains at&#xD;
+      peak exercise (E).&#xD;
+&#xD;
+      The lower panel in (E) shows multiple abnormal areas coloured red/blue at peak exercise in a&#xD;
+      patient with previous aborted SCD - no cardiac investigations were able to detect an&#xD;
+      abnormality. In the upper panel (control), conduction remains stable, denoted by white areas.&#xD;
+      These changes can be used to mathematically generate a V-CoS score. The graphs below are&#xD;
+      results from 62 patients comparing V-CoS scores between survivors of SCD (idiopathic (iVF),&#xD;
+      Brugada (BrS), Hypertrophic Cardiomyopathy (HCM) (30pts)) against controls (normal hearts or&#xD;
+      low risk BrS/HCM by current risk stratification (32 patients).&#xD;
+&#xD;
+      The Ventricular Conduction Stability Test assigns a V-CoS score of '100' when conduction&#xD;
+      patterns at peak exercise is the same as at rest, and the median score falls below '95' in&#xD;
+      survivors of SCD due to &gt;5% of the activation being abnormal at peak exercise. If risk&#xD;
+      stratification were based on V-CoS score following exercise, we can achieve a sensitivity and&#xD;
+      specificity of 90% and 73% respectively, which is far better than current risk stratification&#xD;
+      methods as shown in adjacent table.&#xD;
+&#xD;
+      The ideal next step would be a prospective study to validate V-CoS Score as a reliable risk&#xD;
+      stratification tool. Unfortunately, the low incidence of Brugada syndrome in the general&#xD;
+      population would be challenging for recruitment in a UK only study.&#xD;
+&#xD;
+      However, the extent of the limitations of current risk models is apparent on the adjacent&#xD;
+      figure. Patients with Brugada syndrome and aborted SCD were categorised as high/medium/low&#xD;
+      risk by current techniques and most SCD events occur in patients who would have been&#xD;
+      considered low risk. The V-CoS score appears to differentiate these groups very well at a&#xD;
+      cut-off of 95%.&#xD;
+&#xD;
+      RATIONALE FOR CURRENT STUDY In the absence of any other method to support risk stratification&#xD;
+      in Brugada syndrome, V-CoS score would be appealing to clinicians. A larger series to confirm&#xD;
+      a low incidence of 'false negatives' and more detailed exploration of other cardiac pathology&#xD;
+      that may lead to a 'false positives' is required to support the use of V-CoS scores as a&#xD;
+      clinical tool.&#xD;
+&#xD;
+      ORIGINAL HYPOTHESIS V-CoS score is a reproducible and specific method for identifying marked&#xD;
+      heterogeneities in activation that predispose to VT/VF in Brugada Syndrome.&#xD;
+&#xD;
+      This will be a retrospective cohort study. It is expected to last for 3 years. There will be&#xD;
+      a total of 100 subjects.&#xD;
+&#xD;
+      The hypothesis will be addressed by a series of sub-studies:&#xD;
+&#xD;
+      i) Patients considered to be at low risk of SCD (controls) will be recruited to confirm that&#xD;
+      these patients have a V-CoS score &gt;95&#xD;
+&#xD;
+      In the preliminary study described earlier, the control group were relatively homogenous with&#xD;
+      SCD being the only differentiating parameter. However, during clinical practice there may be&#xD;
+      a range of other cardiac abnormalities. Our primary hypothesis would predict that only groups&#xD;
+      of patients known to be at risk of SCD would have V-CoS score &lt;95. In order to test this, we&#xD;
+      will study groups of patients expected to have low SCD risk, but may have other cardiac&#xD;
+      abnormalities that could cause false positives. All patients recruited will be from groups&#xD;
+      who would normally benefit from investigation to risk stratify for sudden cardiac death, or&#xD;
+      ECGi.&#xD;
+&#xD;
+        1. Patients undergoing ablation with ECGi system for other arrhythmias (n=10) -these&#xD;
+           patients will be similar to our original controls and provide a repeat set of controls.&#xD;
+&#xD;
+        2. Patients with AF undergoing ablation with ECGi system (n=10). These patients will be&#xD;
+           older and have varying RR intervals which may cause a falsely low V-CoS.&#xD;
+&#xD;
+        3. Relatives of Brugada patients with confirmation of no pathology (n=10) - these patients&#xD;
+           will be closest to 'true normal' and can be a surrogate control group for idiopathic VF&#xD;
+           families.&#xD;
+&#xD;
+        4. Out-of-hospital cardiac arrest primary PCI with full recovery of left ventricular&#xD;
+           function and full revascularisation (n=10) - the purpose of this group is to confirm&#xD;
+           that the changes detected in our SCD group are not secondary to the SCD event. These are&#xD;
+           patients who have had a cardiac arrest secondary to coronary occlusion, but have made a&#xD;
+           full recovery with normal LGE-MRI and no indication for ICD.&#xD;
+&#xD;
+        5. Athletic Hypertrophy (n=10) - Elite athletes often have physiological LVH and abnormal&#xD;
+           ECGs at rest. It is unclear if these variations in activation will lead to a decrease in&#xD;
+           V-CoS.&#xD;
+&#xD;
+      ii) Patients at high risk of SCD will be recruited to confirm that these patients have a&#xD;
+      V-CoS score &lt;95&#xD;
+&#xD;
+      Our primary hypothesis was that abnormalities of conduction should occur in all patients at&#xD;
+      risk of SCD. Therefore, the SCD group included patients with SCD caused by a range of&#xD;
+      underlying pathologies. If V-CoS score are to be used for Brugada risk stratification without&#xD;
+      a prospective study, then we need to confirm that the ROC data holds true for a larger&#xD;
+      patient series. We will aim to recruit 50 Brugada patients with previous SCD or ICD therapy&#xD;
+      for VT/VT to validate the preliminary findings. The control group for these will be (a) and&#xD;
+      (c) from part (i). This increase in the number of patients will increase the power of the ROC&#xD;
+      data.&#xD;
+&#xD;
+      iii) Alternative techniques for identifying lowest V-CoS score&#xD;
+&#xD;
+      In the preliminary study we used ETT and Tilt testing as the external trigger for producing&#xD;
+      'arrhythmogenic' changes in the ventricular substrate. We found that the ETT caused more&#xD;
+      profound changes and so we have focused on this in our study. However, most arrhythmias are&#xD;
+      triggered by ventricular ectopics. We have not tested the relationship between V-CoS score&#xD;
+      and prematurity of ventricular ectopy. If lower scores can be generated by ectopics, it could&#xD;
+      be used as the preferred method of identifying a patient's lowest V-CoS score. In addition,&#xD;
+      it may also provide another way of risk stratifying individuals who have physical&#xD;
+      difficulties undertaking an exercise treadmill test.&#xD;
+&#xD;
+      Subject enrolment: Participants will be identified from Imperial College Healthcare.&#xD;
+&#xD;
+      Cardiology out-patient clinics and elective catheter scheduling office:- Patients scheduled&#xD;
+      for electrophysiological catheter studies +/- ablation for atrial and ventricular ectopy,&#xD;
+      atrio-ventricular nodal re-entry tachycardia and atrial fibrillation. ICHNT currently&#xD;
+      undertakes roughly 650 procedures for these conditions per year.&#xD;
+&#xD;
+      Cardiology in-patient wards:- Individuals admitted with out-of-hospital cardiac arrest who&#xD;
+      have undergone full revascularisation with primary PCI and full recovery of left ventricular&#xD;
+      function. Hammersmith Hospital at ICHNT provides a tertiary primary PCI service and performs&#xD;
+      an estimated 40 PCI for OOHVF arrest per year.&#xD;
+&#xD;
+      Inherited Cardiac Conditions Service:- The service currently has approximately 150 confirmed&#xD;
+      cases of BrS, 32 with ICD implants, under surveillance and provides a comprehensive screening&#xD;
+      service for relatives of affected individuals. Unaffected relatives of BrS patients and BrS&#xD;
+      patients surviving an out-hospital cardiac arrest or who have previously received appropriate&#xD;
+      ICD therapy will be recruited. We will also be looking to recruit BrS patients with previous&#xD;
+      SCD events at St George's Healthcare NHS Trust and Barts Health NHS Trust.&#xD;
+&#xD;
+      Sports teams:- elite athletes will be recruited from sports teams.&#xD;
+&#xD;
+      Study protocol: As part of a half-day visit to the cardiac investigations unit, patients will&#xD;
+      undergo non-invasive studies with the ECGi vest. The 252 electrode vest will be applied onto&#xD;
+      the individual and then undergo a non-contrast thoracic CT scan. This involves a low dose of&#xD;
+      radiation equivalent to 15 standard chest x-rays or 6 months of natural background radiation.&#xD;
+&#xD;
+      i) Non-invasive programmed stimulation will be performed in those with ICDs and have been&#xD;
+      specifically counselled and consented for this procedure.&#xD;
+&#xD;
+      ii) All patients will undergo Exercise Treadmill Test protocol: A resting baseline recording&#xD;
+      in the supine position will be performed before undertaking the Bruce protocol with the aim&#xD;
+      of getting the individual to achieve maximal exercise capacity or reach 100% of their maximum&#xD;
+      target heart rate for age. On achievement of either of these targets, participants will be&#xD;
+      placed back in the supine position to minimise artefact noise whilst ECGi recordings are&#xD;
+      performed post peak exertion and for a 10 minute recovery period.&#xD;
+&#xD;
+      iii) For patients undergoing EP studies, pacing from RV apex will be performed at twice the&#xD;
+      diastolic threshold with sensed extras and incremental ventricular pacing to measure&#xD;
+      Ventricular CoS scores prior to performing ablation&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2017</start_date>
+  <completion_date type="Anticipated">December 1, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Minimum of Ventricular Conduction Stability (V-CoS) score</measure>
+    <time_frame>3 years</time_frame>
+    <description>Method to identify and quantify changes in whole heart activation patterns during physiological stress, V-CoS score between exercise and rest. Test assigns a V-CoS score of '100' when conduction patterns at peak exercise is the same as at rest.</description>
+  </primary_outcome>
+  <number_of_groups>6</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Brugada Syndrome</condition>
+  <condition>Cardiac Arrest</condition>
+  <condition>Athletes Heart</condition>
+  <condition>Atrial Fibrillation</condition>
+  <condition>Ventricular Ectopic Beat</condition>
+  <arm_group>
+    <arm_group_label>Brugada VF</arm_group_label>
+    <description>Confirmed Brugada Syndrome by either Spontaneous or drug induced Type 1 ECG, confirmed cardiac arrest or appropriate ICD therapy for potentially lethal arrhythmia.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brugada relative</arm_group_label>
+    <description>Relatives of Brugada syndrome patients with proven no pathology by Ajmaline challenge</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ventricular ectopy</arm_group_label>
+    <description>Patients undergoing ablation with ECGi system for other arrhythmias -these patients will be similar to our original controls and provide a repeat set of controls.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AF</arm_group_label>
+    <description>Patients with AF undergoing ablation with ECGi system (n=10). These patients will be older and have varying RR intervals which may cause a falsely low V-CoS.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ischaemic VF</arm_group_label>
+    <description>Out-of-hospital cardiac arrest primary PCI with full recovery of left ventricular function and full revascularisation (n=10) - the purpose of this group is to confirm that the changes detected in our SCD group are not secondary to the SCD event. These are patients who have had a cardiac arrest secondary to coronary occlusion, but have made a full recovery with normal LGE-MRI and no indication for ICD.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Athletes</arm_group_label>
+    <description>Athletic Hypertrophy (n=10) - Elite athletes often have physiological LVH and abnormal ECGs at rest. It is unclear if these variations in activation will lead to a decrease in V-CoS.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No intervention</intervention_name>
+    <description>No intervention</description>
+    <arm_group_label>AF</arm_group_label>
+    <arm_group_label>Athletes</arm_group_label>
+    <arm_group_label>Brugada VF</arm_group_label>
+    <arm_group_label>Brugada relative</arm_group_label>
+    <arm_group_label>Ischaemic VF</arm_group_label>
+    <arm_group_label>Ventricular ectopy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        1. Patients with Brugada syndrome requiring risk stratification&#xD;
+&#xD;
+          2. Patients without Brugada syndrome acting as a control group&#xD;
+&#xD;
+               1. Patients undergoing ablation with ECGi system for other arrhythmias&#xD;
+&#xD;
+               2. Patient with AF undergoing ablation with ECGi system&#xD;
+&#xD;
+               3. Relatives of Brugada patients with confirmation of no pathology&#xD;
+&#xD;
+               4. Out-of-hospital cardiac arrest primary PCI with full recovery of left ventricular&#xD;
+                  function and full revascularisation (n=10)&#xD;
+&#xD;
+               5. Athletic Hypertrophy (n=10)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA&#xD;
+&#xD;
+          1. Patients with Brugada syndrome requiring risk stratification&#xD;
+&#xD;
+          2. Patients without Brugada syndrome acting as a control group&#xD;
+&#xD;
+               1. Patients undergoing ablation with ECGi system for other arrhythmias&#xD;
+&#xD;
+               2. Patient with AF undergoing ablation with ECGi system&#xD;
+&#xD;
+               3. Relatives of Brugada patients with confirmation of no pathology&#xD;
+&#xD;
+               4. Out-of-hospital cardiac arrest primary PCI with full recovery of left ventricular&#xD;
+                  function and full revascularisation (n=10)&#xD;
+&#xD;
+               5. Athletic Hypertrophy (n=10)&#xD;
+&#xD;
+        EXCLUSION CRITERIA&#xD;
+&#xD;
+          1. Pregnancy or not using a highly effective form of contraception&#xD;
+&#xD;
+          2. Patients unable to exercise&#xD;
+&#xD;
+          3. Patients unable to provide consent&#xD;
+&#xD;
+          4. Patients who have contraindications to an electrophysiological study.&#xD;
+&#xD;
+          5. Patients with no Brugada syndrome that are known to be high-risk for SCD for another&#xD;
+             reason e.g. Hypertrophic cardiomyopathy, ischaemic cardiomyopathy with severely&#xD;
+             impaired left ventricular function.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ruth Nicholson</last_name>
+    <role>Study Director</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Prapa Kanagaratnam, PhD, FRCP</last_name>
+    <phone>020 3313 1000</phone>
+    <email>p.kanagaratnam@ic.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ji-Jian Chow, MRCP</last_name>
+    <phone>020 3313 1000</phone>
+    <email>ji-jian.chow09@imperial.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hammersmith Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>W12 0HS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ji-Jian Chow</last_name>
+      <phone>020 3313 1000</phone>
+      <email>ji-jian.chow09@imperial.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>October 2019</verification_date>
+  <study_first_submitted>March 14, 2019</study_first_submitted>
+  <study_first_submitted_qc>June 19, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 20, 2019</study_first_posted>
+  <last_update_submitted>October 18, 2019</last_update_submitted>
+  <last_update_submitted_qc>October 18, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 21, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Brugada Syndrome</keyword>
+  <keyword>Ventricular Ectopic Beat</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+    <mesh_term>Cardiac Complexes, Premature</mesh_term>
+    <mesh_term>Brugada Syndrome</mesh_term>
+    <mesh_term>Ventricular Premature Complexes</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

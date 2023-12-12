@@ -1,0 +1,180 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04579237</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10000037</org_study_id>
+    <secondary_id>000037-CC</secondary_id>
+    <nct_id>NCT04579237</nct_id>
+  </id_info>
+  <brief_title>Development and Evaluation of Techniques for Computer Aided Detection and Diagnosis From Existing Radiologic Images</brief_title>
+  <official_title>Development and Evaluation of Techniques for Computer Aided Detection and Diagnosis From Existing Radiologic Images</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institutes of Health Clinical Center (CC)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Radiologic images are getting more complex. They are also being used more often. Medical&#xD;
+      personnel are overwhelmed with data. Computer Aided Detection (CAD) and diagnosis may be able&#xD;
+      to improve medical care. Researchers want to create and test ways to use CAD. To do this,&#xD;
+      they want to use data from the Clinical Center s Department of Diagnostic Radiology.&#xD;
+&#xD;
+      Objective:&#xD;
+&#xD;
+      To create algorithms and software that accurately detect and characterize lesions, model&#xD;
+      anatomy, and monitor diseases on radiologic studies.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      People of all ages who have radiologic exams stored in the clinical PACS (picture archiving&#xD;
+      system) of the Clinical Center since July 6, 1953 with no end date. People with target&#xD;
+      lesions of any kind will be included.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      This study will use existing data. Participants will include males and females of all ages.&#xD;
+      They will be chosen by keyword search on NIH databases.&#xD;
+&#xD;
+      The data that is used may include CT, MRI, ultrasound, and other images. It may include a&#xD;
+      participant s name, date of birth, and date of exam. It may include the name of the doctor,&#xD;
+      radiologist, and hospital. Data such as age, gender, race, disease, and treatment may be&#xD;
+      used. Other data from charts or studies may be used.&#xD;
+&#xD;
+      Imaging data of all organs of the body will be studied.&#xD;
+&#xD;
+      Data will be kept in computers and servers. The equipment will be password protected.&#xD;
+      Printouts will be stored in locked rooms.&#xD;
+&#xD;
+      This study will last 10 years.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Description:&#xD;
+&#xD;
+      This study uses artificial intelligence techniques to improve radiology diagnosis.&#xD;
+&#xD;
+      Objective:&#xD;
+&#xD;
+      Development of Computer Aided Detection techniques to improve radiology imaging.&#xD;
+&#xD;
+      Study Population:&#xD;
+&#xD;
+      Up to 1,000,000 NIH Clinical Center patients.&#xD;
+&#xD;
+      Description of Sites/Facilities conducting research:&#xD;
+&#xD;
+      NIH Clinical Center&#xD;
+&#xD;
+      Study Duration:&#xD;
+&#xD;
+      10 years&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 5, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2030</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2030</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Development of Computer Aided Detection techniques to improve radiology imaging</measure>
+    <time_frame>End of study</time_frame>
+    <description>Development of Computer Aided Detection techniques to improve radiology imaging</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1000000</enrollment>
+  <condition>Radiology Information Systems</condition>
+  <arm_group>
+    <arm_group_label>1/All Subjects</arm_group_label>
+    <description>Data will be derived from primary studies on all subjects.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Special classes of subjects, such as pregnant women, children, cognitively impaired&#xD;
+        individuals, or others likely to be vulnerable will be included since the data has already&#xD;
+        been obtained under an IRB-approved protocol and there are no anticipated additional risks&#xD;
+        from this research&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+          -  All radiologic exams available in the clinical PACS (picture archiving system) of the&#xD;
+             Clinical Center taken from July, 6, 1953 with no end date.&#xD;
+&#xD;
+          -  Males and Females of all ages.&#xD;
+&#xD;
+          -  Patients with target lesions of any kind will be included&#xD;
+&#xD;
+          -  Patients without the target lesion will be included to determine the specificity of&#xD;
+             the computer aided detection or diagnosis algorithm&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ronald M Summers, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institutes of Health Clinical Center (CC)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_000037-CC.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <verification_date>April 8, 2021</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2020</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Microcalcifications</keyword>
+  <keyword>Mammography</keyword>
+  <keyword>Automated Detection</keyword>
+  <keyword>Epidural Masses</keyword>
+  <keyword>Lymphadenopathy</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

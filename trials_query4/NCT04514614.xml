@@ -1,0 +1,197 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04514614</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PekingUMCHFAPIRA</org_study_id>
+    <nct_id>NCT04514614</nct_id>
+  </id_info>
+  <brief_title>Characterizing Rheumatoid Arthritis With 68Ga-FAPI PET/CT</brief_title>
+  <official_title>Characterizing Rheumatoid Arthritis With 68Ga-FAPI PET/CT</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking Union Medical College Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking Union Medical College Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      68Ga-FAPI has been developed as a tumor-targeting agent as fibroblast activation protein is&#xD;
+      overexpressed in cancer-associated fibroblasts and some inflammation, such as IgG4-related&#xD;
+      disease and inflammatory bowel disease. Some researches identified FAP expression in synovial&#xD;
+      samples taken from both rheumatoid arthritis and osteoarthritis patients.Thus this&#xD;
+      prospective study is going to investigate whether 68Ga-FAPI PET/CT may be superior for&#xD;
+      diagnosis, therapy response assessment and follow-up of arthritis than 18F-FDG PET/CT.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Arthritis is a term used to mean any disorder that affects the joints. The two most common&#xD;
+      forms of arthritis are osteoarthritis and rheumatoid arthritis.Rheumatoid arthritis is an&#xD;
+      autoimmune chronic inflammatory disease of unknown etiology and is characterized by chronic&#xD;
+      inflammation of the joint capsule's synovial membrane. This chronic inflammation ultimately&#xD;
+      destroys the underlying cartilage and bone. Activated fibroblast-like synoviocytes (FLS) line&#xD;
+      the synovial membrane and are a prominent cell type responsible for inflammation and joint&#xD;
+      destruction. Osteoarthritis is characterized by degradation of joint cartilage. Studies&#xD;
+      demonstrate chondrocytes expressed FAP and that chondrocyte FAP expression was elevated in&#xD;
+      patients with osteoarthritis. Other researches identified FAP expression in synovial samples&#xD;
+      taken from both rheumatoid arthritis and osteoarthritis patients. However, FAP expression was&#xD;
+      greater in samples taken from refractory rheumatoid arthritis patients in comparison to&#xD;
+      end-stage osteoarthritis patients.68Ga-FAPI has been developed as a tumor-targeting agent as&#xD;
+      fibroblast activation protein is overexpressed in cancer-associated fibroblasts and some&#xD;
+      inflammation, such as IgG4-related disease and inflammatory bowel disease. Recently the&#xD;
+      investigators have published an article of the application of 68Ga-FAPI in IgG4-related&#xD;
+      disease which showed it was more sensitive than FDG in detecting a certain type of&#xD;
+      inflammations. Thus this prospective study is going to investigate whether 68Ga-FAPI PET/CT&#xD;
+      may be superior for diagnosis, therapy response assessment and follow-up of arthritis than&#xD;
+      18F-FDG PET/CT.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2022</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnostic value</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Sensitivity and Specificity of 68Ga-FAPI PET/CT for IgG4-RD in comparison with 18F-FDG PET/CT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Metabolic parameters</measure>
+    <time_frame>Time Frame: through study completion, an average of 1 year</time_frame>
+    <description>Total Lesion Glycolysis (TLG) of focal lesions are measured on 68Ga-FAPI PET/CT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease burden assessement</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>whether Total Lesion Glycolysis (TLG) assessed on 68Ga-FAPI PET/CT was correlated with clinical parameters for arthritis using correlation coefficients analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FAPI expression and SUV</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Correlation between FAPI expression and SUV in PET</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Therapy response</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Change of Total Lesion Glycolysis (TLG) on 68Ga-FAPI PET/CT after therapy</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Arthritis</condition>
+  <arm_group>
+    <arm_group_label>68Ga-FAPI, PET/CT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inject 68Ga-FAPI and then perform PET/CT scan.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>68Ga-FAPI</intervention_name>
+    <description>Intravenous injection of one dosage of 74-148 MBq (2-4 mCi) 68Ga-FAPI. Tracer doses of 68Ga-FAPI will be used to image lesions of arthritis by PET/CT.</description>
+    <arm_group_label>68Ga-FAPI, PET/CT</arm_group_label>
+    <other_name>68Ga-fibroblast activating protein inhibitors</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  suspected or confirmed untreated arthritis patients;&#xD;
+&#xD;
+          -  18F-FDG PET/CT within two weeks;&#xD;
+&#xD;
+          -  signed written consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  pregnancy;&#xD;
+&#xD;
+          -  breastfeeding;&#xD;
+&#xD;
+          -  known allergy against FAPI&#xD;
+&#xD;
+          -  any medical condition that in the opinion of the investigator may significantly&#xD;
+             interfere with study compliance.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yaping Luo, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking Union Medical College Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yaping Luo, MD</last_name>
+    <phone>86-10-69155513</phone>
+    <email>luoyaping@live.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Qingqing Pan, MD</last_name>
+    <phone>86-10-69155513</phone>
+    <email>pqqelvay@126.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Peking Union Medical College Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100730</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yaping Luo, MD</last_name>
+      <phone>86-10-69155513</phone>
+      <email>luoyaping@live.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Qingqing Pan</last_name>
+      <phone>86-10-69155513</phone>
+      <email>pqqelvay@126.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>August 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2020</study_first_posted>
+  <last_update_submitted>January 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arthritis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

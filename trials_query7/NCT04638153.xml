@@ -1,0 +1,474 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04638153</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4181005</org_study_id>
+    <secondary_id>2020-001189-13</secondary_id>
+    <nct_id>NCT04638153</nct_id>
+  </id_info>
+  <brief_title>A Study Of Safety, Tolerability And Effectiveness Of Recifercept In Children With Achondroplasia</brief_title>
+  <official_title>A PHASE 2 MULTIPLE DOSE, RANDOMIZED STUDY TO ASSESS THE SAFETY, TOLERABILITY, PHARMACOKINETICS AND EFFICACY OF RECIFERCEPT IN CHILDREN WITH ACHONDROPLASIA</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Approximately 63 participants will be randomized to one of three doses to receive Recifercept&#xD;
+      either&#xD;
+&#xD;
+        -  Low Dose&#xD;
+&#xD;
+        -  Medium Dose&#xD;
+&#xD;
+        -  High Dose&#xD;
+&#xD;
+      Participants will will attend the clinic at baseline and at Day 1, 4, 8, 15, 29 &amp; then Month&#xD;
+      2, 3 6, 9 &amp; 12. Assessments include safety, blood sampling, physical examination, vital&#xD;
+      signs, anthropometric body measurements &amp; patient/caregiver quality of life questionnaires&#xD;
+&#xD;
+      Participants will received treatment with Recifercept for 12 months. All participants who&#xD;
+      complete the study and in the opinion of the investigator, continue to have a positive&#xD;
+      risk:benefit profile, will be offered to enroll into an open-label extension (OLE) study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase 2 randomized, 3 arm (3 active doses of Recifercept), parallel group dose&#xD;
+      finding study of safety, tolerability, PK and efficacy&#xD;
+&#xD;
+      The total number of participants is 63 in 2 age straified cohorts of 0-2 years and 6-10 years&#xD;
+      old.&#xD;
+&#xD;
+      The study will enroll approximately 54 children with achondroplasia aged 2-10 years&#xD;
+      (inclusive) who will be enrolled and randomized to receive one of three doses of recifercept&#xD;
+&#xD;
+        -  Low Dose&#xD;
+&#xD;
+        -  Medium Dose&#xD;
+&#xD;
+        -  High Dose&#xD;
+&#xD;
+      A total of 18 participants will be enrolled per dose 18 per dosesuch that at least 15&#xD;
+      participants per dose are evaluable. An interim analysis is planned when at least 15&#xD;
+      participants per dose aged ≥2 to &lt;11 years have received 6 months of treatment with&#xD;
+      recifercept. eDMC will review safety, PK and efficacy data to confirm ongoing positive&#xD;
+      benefit:risk in participants.&#xD;
+&#xD;
+      Additionally, an exploratory cohort of approximately 9 children with achondroplasia, ages 0-2&#xD;
+      years, will be enrolled later in the study (n=3 per dose).&#xD;
+&#xD;
+      Enrollment will follow an age and dose-staggered approach (descending age and ascending dose)&#xD;
+      with review of safety and PK data by the study team before progression to the next enrollment&#xD;
+      block If certain pre-defined safety signals occur then a meeting of the eDMC will be convened&#xD;
+      to make a decision on progression of enrollment. The PK data collected in block A will be&#xD;
+      used in the PopPK model (developed using healthy adult data) to confirm the dosing for&#xD;
+      younger children (ie, ≥2 to &lt;6 years and 0-&lt;2 years).&#xD;
+&#xD;
+      Participants will will attend the clinic at baseline and at Day 1, 4, 8, 15, 29 &amp; then Month&#xD;
+      2, 3 6, 9 &amp; 12. Assessments include safety, blood sampling, physical examination, vital&#xD;
+      signs, anthropometric body measurements &amp; patient/caregiver quality of life questionnaires&#xD;
+&#xD;
+      All participants will receive recifercept for 12 months. All participants who complete the&#xD;
+      study and in the opinion of the investigator, continue to have a positive risk:benefit&#xD;
+      profile, will be offered to enroll into an open-label extension (OLE) study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 2, 2020</start_date>
+  <completion_date type="Anticipated">May 10, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 10, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Anthropometric Measurements Assessor</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Treatment Emergent Treatment-Related Adverse Events (AEs)</measure>
+    <time_frame>Baseline (Day 0) up to 365 days after last dose of study medication</time_frame>
+    <description>Treatment-related AE was any untoward medical occurrence attributed to study drug in a participant who received study drug. Serious adverse event (SAE) was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent are events between first dose of study drug and up to 365 days after last dose that were absent before treatment or that worsened relative to pretreatment state. Relatedness to Recifercept was assessed by the investigator (Yes/No). Participants with multiple occurrences of an AE within a category were counted once within the category.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Height</measure>
+    <time_frame>Change in height from baseline up to 365 days after last dose</time_frame>
+    <description>Increase in height growth above expected in reference population</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Change From Baseline in Vital Signs</measure>
+    <time_frame>Baseline up to end of treatment (Day 365)</time_frame>
+    <description>Following parameters were analyzed for examination of vital signs: systolic and diastolic blood pressure, respiratory rate, radial pulse and body temperature.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Change From Baseline in Physical Examination</measure>
+    <time_frame>Baseline up to end of treatment (Day 365)</time_frame>
+    <description>Following parameters were analyzed for examination of systems; A physical examination will include, at a minimum, assessments of the cardiovascular, respiratory, gastrointestinal systems and skin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Laboratory Abnormalities</measure>
+    <time_frame>Baseline up to end of treatment (Day 365)</time_frame>
+    <description>Following parameters were analyzed for laboratory examination: hematology (hemoglobin, hematocrit, red blood cell count, platelet count, white blood cell count, total neutrophils, eosinophils, monocytes, basophils, lymphocytes); blood chemistry (blood urea nitrogen, creatinine, glucose, calcium, sodium, potassium, chloride, total bicarbonate, aspartate aminotransferase, alanine aminotransferase, total bilirubin, alkaline phosphatase, uric acid albumin, total protein)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics - Apparent Clearance (CL/F)</measure>
+    <time_frame>Day(s) 4, 8, 15, 29, 61, 91, 183, 365</time_frame>
+    <description>Clearance of a drug is a measure of the rate at which a drug is metabolized or eliminated by normal biological processes. Clearance was estimated from population pharmacokinetic (PK) modeling. Drug clearance is a quantitative measure of the rate at which a drug substance is removed from the blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Anti-Drug Antibody (ADA)</measure>
+    <time_frame>Baseline up to end of treatment (Day 365)</time_frame>
+    <description>The percentage of participants with positive ADA and neutralizing antibodies will be summarized for each treatment arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Standing &amp; Sitting Height</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Sitting height/standing height ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Arm Span</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Arm span to height/length difference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Lower Leg Length</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Knee height:lower segment ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Cranial Face Measurements</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Occipito-frontal circumference</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Cranial Face Measurements</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Ratio of occipito-frontal distance to occipito-mid-face measurements</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Height</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>z-score of the above height to arm span proportionality and skull morphology where achondroplasia reference datasets exist</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Elbow Range of Motion</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Fixed flexion angles at elbow</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Body Mass Index</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Body mass index (BMI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Waist &amp; Chest Circumference</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Waist:chest circumference ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline CHAQ questionnaire</measure>
+    <time_frame>Baseline up to end of treatment (Day 365) in CHAQ component and index scores</time_frame>
+    <description>The Childhood Health Assessment Questionnaire (CHAQ) is a 36-item measure of health status and physical function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline QoLISSY Brief Questionnaire</measure>
+    <time_frame>Baseline up to end of treatment (Day 365) in QoLISSY Brief total score</time_frame>
+    <description>QoLISSY Brief measures health-related quality of life (HRQoL) in children 4-18 years old from the participant and parent perspectives.The 9 items on the QoLISSY Brief were selected from the full QoLISSY physical, social and emotional HRQoL dimensions. The QoLISSY Brief questions ask the participant or caregiver about their status currently. Intended for children or caregivers of children, the instrument uses a 5-point Likert Scale ranging from 'not at all/never' to 'extremely/always'. The QoLISSY Brief total score is the 0-100 transformed sum of the 9 item scores, with higher scores representing better quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Polysomnography</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Clinical summary of findings (including reported diagnosis);</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Polysomnography</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Whether study was performed in room air/oxygen/on continuous positive airway pressure;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Polysomnography</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Apnea-hypopnea index (obstructive and total)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Polysomnography</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Desaturation index (number of desaturations per hour &gt;3% from baseline)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Polysomnography</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Percentage time spent &lt;90% oxygen saturation (SaO2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Polysomnography</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>Percentage time spent with end-tidal carbon dioxide &gt;50 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Polysomnography</measure>
+    <time_frame>Baseline, 3, 6, 9 &amp; 12 Months</time_frame>
+    <description>SaO2 nadir</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">63</enrollment>
+  <condition>Achondroplasia</condition>
+  <arm_group>
+    <arm_group_label>Low Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low Dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Medium Dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High Dose</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Recifercept</intervention_name>
+    <description>Recifercept</description>
+    <arm_group_label>High Dose</arm_group_label>
+    <arm_group_label>Low Dose</arm_group_label>
+    <arm_group_label>Medium Dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Main cohort: Aged ≥2 years to &lt;11 years (up to the day before 11th birthday inclusive)&#xD;
+             at time of enrollment; or exploratory cohort: aged ≥3 months to &lt;2 years (up to the&#xD;
+             day before 2nd birthday inclusive) at time of enrollment&#xD;
+&#xD;
+          -  Documented, confirmed genetic diagnosis of achondroplasia from historical medical&#xD;
+             records prior to entry into this trial (test must have been performed at a laboratory&#xD;
+             fully accredited for genetic testing under local regulations).&#xD;
+&#xD;
+          -  Completed the C4181001 natural history study with at least 2 valid height/length&#xD;
+             measurements (at least 3 months apart) prior to enrollment in this study. One of these&#xD;
+             measurement timepoints must be within the 3 months prior to enrollment in C4181005.&#xD;
+&#xD;
+          -  Tanner stage 1 based on investigator assessment during physical examination (must&#xD;
+             include assessment of breast development for females, testicular stage for males).&#xD;
+&#xD;
+          -  Able to stand independently for height measurements (if ≥2 years of age at&#xD;
+             enrollment).&#xD;
+&#xD;
+          -  If aged &lt;2 years at enrollment, has a documented historical MRI brain/cervical spine&#xD;
+             performed in the previous 12 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of co-morbid conditions or circumstances that, in the opinion of the&#xD;
+             investigator, would affect interpretation of growth data or ability to complete the&#xD;
+             trial procedures.&#xD;
+&#xD;
+          -  Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          -  Presence of severe obesity (BMI &gt;95th percentile on Hoover-Fong BMI charts)&#xD;
+             [Hoover-Fong et al, 2008].14&#xD;
+&#xD;
+          -  Known closure of long bone growth plates (cessation of height growth).&#xD;
+&#xD;
+          -  Body weight &lt;7 kg or &gt;30 kg.&#xD;
+&#xD;
+          -  Severe renal impairment (eGFR &lt;60 mL/min/1.73m2) or hepatic impairment (AST/ALT &gt;1.5&#xD;
+             ULN).&#xD;
+&#xD;
+          -  History of hypersensitivity to study intervention or any excipients.&#xD;
+&#xD;
+          -  History of any prior treatment with human growth hormone or related products&#xD;
+             (including insulin-like growth factor 1 [IGF-1]).&#xD;
+&#xD;
+          -  History of receipt of any treatment that are known to potentially affect growth&#xD;
+             (including oral steroids &gt;5 days in the last 6 months, high dose inhaled&#xD;
+             corticosteroids (&gt;800 mcg/day beclametasone equivalent) and medication for attention&#xD;
+             deficit hyperactivity disorder).&#xD;
+&#xD;
+          -  History of limb lengthening surgery (defined as distraction&#xD;
+             osteogenesis/Ilizarov/callostasis technique following submetaphyseal osteotomy to&#xD;
+             extend bone length).&#xD;
+&#xD;
+          -  Any limb lengthening/corrective orthopaedic surgery planned at any point during the&#xD;
+             trial period.&#xD;
+&#xD;
+          -  Less than 6 months since fracture or surgical procedure of any bone determined from&#xD;
+             the screening visit date.&#xD;
+&#xD;
+          -  Presence of any internal guided growth plates/devices.&#xD;
+&#xD;
+          -  History of removal of internal guided growth plates/devices within less than 6 months.&#xD;
+&#xD;
+          -  History of receipt of any investigational product for achondroplasia or that may&#xD;
+             affect growth/interpretation of growth parameters.&#xD;
+&#xD;
+          -  History of receipt of an investigational product (not for achondroplasia/growth&#xD;
+             affecting) within the last 30 days or 5 half-lives (whichever is longer).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Months</minimum_age>
+    <maximum_age>10 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ocean Sleep Medicine</name>
+      <address>
+        <city>Aliso Viejo</city>
+        <state>California</state>
+        <zip>92656</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MemorialCare Sleep Disorders Center at Long Beach Memorial Medical Center</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lundquist Institute for Biomedical Innovation at Harbor-UCLA Medical Center</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Alfred I duPont Hospital for Children</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Delaware</state>
+        <zip>19803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Antwerpen</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DanTrials ApS</name>
+      <address>
+        <city>Copenhagen NV</city>
+        <zip>DK-2400</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vithas San Jose</name>
+      <address>
+        <city>Vitoria-Gasteiz</city>
+        <state>Alava</state>
+        <zip>01008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Denmark</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4181005</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 20, 2020</study_first_posted>
+  <last_update_submitted>April 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Skeletal Dysplasia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Achondroplasia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

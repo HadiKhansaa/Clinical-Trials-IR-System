@@ -1,0 +1,195 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03270722</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-42435</org_study_id>
+    <nct_id>NCT03270722</nct_id>
+  </id_info>
+  <brief_title>Functional Luminal Imaging Probe (FLIP) Topography Use in Patients With Scleroderma and Trouble Swallowing</brief_title>
+  <official_title>Use of FLIP Topography to Evaluate Esophageal Symptoms in Patients With Scleroderma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      FLIP topography has been FDA cleared to evaluate a variety of esophageal conditions, but has&#xD;
+      never been evaluated in patients with scleroderma. The investigators hope to evaluate this&#xD;
+      technology in patients who have scleroderma and various esophageal symptoms, and compare to&#xD;
+      non-scleroderma patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In patients with treatment refractory reflux disease, dysphagia (trouble swallowing) or other&#xD;
+      symptoms possibly attributed to the esophagus, the standard protocol is generally to first do&#xD;
+      an upper endoscopy to evaluate for abnormalities. If this is normal the next step is often to&#xD;
+      do esophageal manometry to measure esophageal muscle contractions, along with a Ph/impedance&#xD;
+      study in certain clinical situations. If these are normal, then the the disorder is thought&#xD;
+      to be functional (no clear biological pathology). However, it is believed that FLIP&#xD;
+      (Functional Luminal Imaging Probe) technology may pick up additional disorders of the&#xD;
+      esophagus missed by standard esophageal manometry, leading to different treatments in certain&#xD;
+      cases. Additionally, FLIP technology offers a different approach to classifying motility&#xD;
+      disorders of the esophagus.&#xD;
+&#xD;
+      FLIP is a technology that measures distensibility and diameter of the esophagus during&#xD;
+      endoscopy by inflating a balloon in the esophagus. It has previously been used to aid in the&#xD;
+      diagnosis and provide more information regarding gastroesophageal reflux disease, achalasia,&#xD;
+      and eosinophilic esophagitis. It has also been used pre and post fundoplication and myotomy&#xD;
+      to assess adequacy of these procedure.&#xD;
+&#xD;
+      More recently a group at northwestern has developed a modification of this procedure called&#xD;
+      FLIP topography. The basic principles are the same, but this technique measures the reaction&#xD;
+      of the esophagus to distension, providing additional information.&#xD;
+&#xD;
+      A recent study of FLIP topography looked at 145 patients referred for dysphagia (trouble&#xD;
+      swallowing). All patients had both standard manometry and FLIP topography. 25% of patients in&#xD;
+      the study had a normal manometry, offering no measurable explanation of their symptoms. Of&#xD;
+      these patients, half had an abnormal FLIP topography, and additional treatments were offered&#xD;
+      in certain situations.&#xD;
+&#xD;
+      FLIP topography has also been evaluated in patients with eosinophilic esophagitis, though&#xD;
+      numbers are small.&#xD;
+&#xD;
+      Currently, the FLIP topography device has been FDA cleared for esophageal distensibility&#xD;
+      testing. It has never been evaluated specifically in patients with scleroderma.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    We did not enroll any patients for logistic reasons.&#xD;
+  </why_stopped>
+  <start_date type="Actual">January 1, 2018</start_date>
+  <completion_date type="Anticipated">May 2020</completion_date>
+  <primary_completion_date type="Anticipated">May 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>FLIP topography pattern</measure>
+    <time_frame>Will be analyzed directly after the procedure for an individual patient within 2 weeks. Comparisons within and between the 3 groups will be done at the conclusion of the study (once 60 total patients have been recruited).</time_frame>
+    <description>This is the readout or topographic map that is generated from the FLIP topography diagnostic procedure. We will look to see if we can make additional diagnoses not made by other clinical testing, to see if the diagnoses made by FLIP topography match with other diagnostic testing, and identify new FLIP topography patterns in patients with scleroderma not seen before.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in medical management</measure>
+    <time_frame>Recommendations will be made directly after the procedure. Chart reviews at 6 months will also occur to monitor implementation of medical recommendations.</time_frame>
+    <description>The investigators will look to see if FLIP topography lead to the recommendation of additional medicines and/or surgeries/procedures.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Scleroderma</condition>
+  <condition>Dysphagia</condition>
+  <condition>GERD - Gastro-Esophageal Reflux Disease</condition>
+  <arm_group>
+    <arm_group_label>patients with scleroderma and trouble swallowing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients with scleroderma but no trouble swallowing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients without scleroderma undergoing endoscopy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>FLIP topography</intervention_name>
+    <description>During upper endoscopy, the FLIP topography balloon will be advanced into the esophagus and inflated, providing additional information about the distensibility of the esophagus. This generally takes about 5 extra minutes and no complications have been reported. Theoretical complications include bleeding, infection, risk with extra anesthesia time, and putting a hole in the esophagus.</description>
+    <arm_group_label>patients with scleroderma and trouble swallowing</arm_group_label>
+    <arm_group_label>patients with scleroderma but no trouble swallowing</arm_group_label>
+    <arm_group_label>patients without scleroderma undergoing endoscopy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Upper Endoscopy</intervention_name>
+    <description>A standard upper endoscopy will also be done in all patients. A small scope will be passed via the mouth to examine the esophagus, stomach, and first part of the small intestine. The risks of this procedure include the risks associated with anesthesia, a small risk of bleeding, infection, and a very small risk of putting a hole in the gastrointestinal tract.</description>
+    <arm_group_label>patients with scleroderma and trouble swallowing</arm_group_label>
+    <arm_group_label>patients with scleroderma but no trouble swallowing</arm_group_label>
+    <arm_group_label>patients without scleroderma undergoing endoscopy</arm_group_label>
+    <other_name>EGD (esophagogastroduodenoscopy)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Must have a clinical indication for upper endoscopy (recruiting patients both with&#xD;
+             scleroderma and without)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  not healthy enough to undergo an upper endoscopy&#xD;
+&#xD;
+          -  mass, stricture, ring, or web present on upper endoscopy&#xD;
+&#xD;
+          -  history of esophageal cancer&#xD;
+&#xD;
+          -  history of esophageal surgery&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Stanford Healthcare</name>
+      <address>
+        <city>Redwood City</city>
+        <state>California</state>
+        <zip>94063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>August 18, 2017</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2017</study_first_posted>
+  <last_update_submitted>January 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Thomas Zikos</investigator_full_name>
+    <investigator_title>Fellow in Gastroenterology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gastroesophageal Reflux</mesh_term>
+    <mesh_term>Scleroderma, Systemic</mesh_term>
+    <mesh_term>Scleroderma, Diffuse</mesh_term>
+    <mesh_term>Scleroderma, Localized</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

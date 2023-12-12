@@ -1,0 +1,200 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04806412</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SJ-889</org_study_id>
+    <nct_id>NCT04806412</nct_id>
+  </id_info>
+  <brief_title>Oncodrivers in Malignant Pleural Effusions Associated With Non-small Cell Lung Cancer: A Prospective Study.</brief_title>
+  <official_title>The Prevalence of Oncodrivers in Malignant Pleural Effusions Associated With Non-small Cell Lung Cancer: A Prospective Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Naestved Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Naestved Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Oncological treatment of patients with disseminated non-small cell lung cancer (NSCLC) is&#xD;
+      depending on the status of programmed death-ligand 1 (PD-L1), anaplastic lymphoma kinase&#xD;
+      (ALK) and epidermal growth factor receptor (EGFR), so called oncodrivers. These can be&#xD;
+      measured in pleural fluid, but the prevalence is uncertain. In a prospective study, we aim to&#xD;
+      measure PD-L1, ALK and EGFR in patients with pleural fluid cytology positive for NSCLC to&#xD;
+      report the prevalence. Also, we will investigate if the chance of obtaining oncodriver status&#xD;
+      is depending on the volume analysed and how the lack of oncodrivers influence the following&#xD;
+      work-up.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is a prospective, non-randomized, cohort study of patients with pleural effusion.&#xD;
+      Participants will be recruited from patients referred to the Pleura Clinic or admitted at the&#xD;
+      ward at the Department of Respiratory Medicine, Næstved Hospital, Næstved or at the&#xD;
+      Department of Respiratory Medicine, Zealand University Hospital, Roskilde, which is the two&#xD;
+      regional centres for workup of pleural effusions. Patients will be referred from either&#xD;
+      general practice or other hospital departments.&#xD;
+&#xD;
+      Pleural fluids with cytology positive for NSCLC will be tested for oncodrivers (for squamous&#xD;
+      cell carcinomas (SCC): PD-L1, for adenocarcinomas (AC): PD-L1, ALK and EGFR).&#xD;
+&#xD;
+      Follow-up will be 8 weeks after inclusion.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 15, 2021</start_date>
+  <completion_date type="Anticipated">May 12, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 12, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>prospective, non-randomized, cohort study</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of oncodriver status</measure>
+    <time_frame>assessed at 8 weeks follow-up</time_frame>
+    <description>Prevalence of oncodriver status (for squamous cell carcinomas (SCC): PD-L1, for adenocarcinomas (AC): PD-L1, ALK and EGFR) in pleural fluid in patients with cytology positive for pulmonary NSCLC</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of adequate and inadequate pleural fluid specimens</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amounts of pleural fluid sent for analysis</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+    <description>Meassured in mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between amounts of pleural fluid sent to the pathologist and the chance of obtaining oncodriver status</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and type of additional diagnostic interventions including additional thoracentesis and cytological or histological biopsies</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of oncodriver status in additional diagnostic interventions</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Correlation between oncodriver status obtained in pleural fluid specimens and cytological or histological biopsies</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Proportion of work-ups where the lack of obtained oncodriver status in pleural fluid specimens leads to additional diagnostic interventions including additional thoracentesis and cytological or histological biopsies</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Proportion of work-ups where full oncodriver-status was obtained at the second thoracentesis</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Proportion of patients with pleural fluid cytology negative of NSCLC, who is diagnosed with NSCLC.</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient assessed pain after thoracentesis</measure>
+    <time_frame>at day 1, 10 minutes after thoracentesis</time_frame>
+    <description>assessed by a questionnaire containing a VAS (Visual Analogue Scale, scale 0-10, 0 being no pain, 10 being the worse pain)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients experiencing pneumothorax</measure>
+    <time_frame>assessed at day 1, 10 minutes after thoracentesis and 8-week follow-up by evaluating the patient file</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients experiencing bleeding</measure>
+    <time_frame>assessed at day 1, 10 minutes after thoracentesis and 8-week follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of complications leading to admission</measure>
+    <time_frame>assessed at 8-week follow-up</time_frame>
+    <description>assessed by evaluating the patient file</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Malignant Pleural Effusion</condition>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>meassurement of PD-L1, ALK, EGFR</intervention_name>
+    <description>PD-L1 test will be performed on cell-blocks using PD-L1 antibodies 22C3 and staining platform Dako Omnis (Agilent, Glostrup -Denmark).&#xD;
+ALK test will be performed on cell-blocks using staining platform Dako Omnis (Agilent, Glostrup- Denmark) and ALK antibodies &quot;Origene&quot; clone: OT1A4. Sample quality is assessed as for PD-L1.&#xD;
+EGFR mutation analysis will be performed as follows: after tumor content evaluation of hematoxylin and eosin stained slides, relevant regions are macrodissected and subjected to a standard genomic DNA extraction procedure using the GeneRead DNA FFPE Kit (Qiagen). Samples will be analysed using the GeneRead QIAact Actionable Insights Tumor Panel (Qiagen)</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Pleural effusion known or suspected of association with NSCLC (pleural fluid cytology&#xD;
+             positive for cells from NSCLC)&#xD;
+&#xD;
+          -  Patients must be able to give informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Full oncodriver status measured in any pleural fluid in current work-up&#xD;
+&#xD;
+          -  Inability to understand written or spoken Danish.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Katrine Fjaellegaard, MD</last_name>
+    <phone>31924375</phone>
+    <email>kafj@regionsjaelland.dk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Næstved Sygehus, department of pulmonary medicine</name>
+      <address>
+        <city>Næstved</city>
+        <state>Region Sjælland</state>
+        <zip>4700</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2021</study_first_posted>
+  <last_update_submitted>March 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Pleural Effusion, Malignant</mesh_term>
+    <mesh_term>Pleural Effusion</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

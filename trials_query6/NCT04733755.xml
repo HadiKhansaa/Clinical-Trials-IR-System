@@ -1,0 +1,235 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04733755</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C180201</org_study_id>
+    <nct_id>NCT04733755</nct_id>
+  </id_info>
+  <brief_title>Beauty Image Efficacy Study</brief_title>
+  <official_title>Beauty Image Efficacy Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pharmanex</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pharmanex</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective is to evaluate the effects of oral supplement of a blend containing collagen&#xD;
+      peptides, phosphatidylserine, Saussurea involucrata and lutein (Beauty Image) on the&#xD;
+      improvement of skin aging in terms of hydration, gloss, melanin content, roughness and&#xD;
+      wrinkling, and anti-UV performance.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 1, 2018</start_date>
+  <completion_date type="Actual">September 1, 2018</completion_date>
+  <primary_completion_date type="Actual">August 1, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in facial photo from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8</time_frame>
+    <description>Facial Photo Capture by VISIA-CR CR (CANFIELD, America). The instrument captured all-face skin under different light sources about the Standard 1, Standard 2, UV light, Parallel-polarized light and Cross-polarized light source with left, front and right sides design.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in skin roughness from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8</time_frame>
+    <description>Skin Roughness: VisioScan VC98 (Courage &amp; Khazaka, Germany). The instrument consists of a special b/w video sensor chip with very high resolution, an objective and a ring shaped UVA-light source in a small, easy-to-handle, ergonomically designed plastic casing. The parameter of SEr (skin roughness) was analyzed in this study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in skin wrinkle from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>Skin Wrinkle: VisioScan VC98 (Courage &amp; Khazaka, Germany) The instrument consists of a special b/w video sensor chip with very high resolution, an objective and a ring shaped UVA-light source in a small, easy-to-handle, ergonomically designed plastic casing. The parameter of SEw (wrinkles) was analyzed in this study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in skin color from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8</time_frame>
+    <description>Skin Color of L, a, b and ITA: Spectrophotometer CM2600d (Konica Minolta, Japan) The Minolta spectrophotometer (Konica Minolta, CM2600d) is generally used to measure and carry out quality control of the color of an object. This instrument allows measurement in the modes of specular component included (SCI) and specular component excluded (SCE). As indicated by the description, SCI includes the specular reflection while SCE excludes the specular reflection from measured surface. The parameters of L, a, b value under SCE light source were recorded and the ITA value were calculated in this study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in melanin content from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8</time_frame>
+    <description>Melanin Content: Mexameter MX18 (Courage &amp; Khazaka, Germany) The measurement is based on absorption/reflection. The probe of the Mexameter® MX 18 emits 3 specific light wavelengths. A receiver measures the light reflected by the skin. As the quantity of emitted light is defined, the quantity of light absorbed by the skin can be calculated. The melanin is measured by specific wavelengths chosen to correspond to different absorption rates by the pigments. For the erythema measurement specific wavelengths are also used, corresponding to the spectral absorption peak of haemoglobin and to avoid other color influences.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in skin gloss from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>Skin Gloss: Glossymeter GL200 (Courage &amp; Khazaka, Germany) The probe sends out white LED light, arranged circularly to uniformly illuminate the skin. The emitted light is scattered in all directions, some parts travel through the layers and some is scattered out of the skin. The light reflected from the skin is measured in the probe. The raw data of the probe are corrected with a special color matrix to adapt them closely to standard values and are expressed accordingly.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in skin hydration from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>Skin Hydration: Corneometer CM825 (Courage &amp; Khazaka, Germany) It measures moisture content of the skin via capacitance measurements. The measurable capacitance is proportional to the water content of stratum corneum, given that other physical and physiological variables affecting skin electrical properties are carefully controlled.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in transepidermal water Loss from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>Transepidermal Water Loss (TEWL): Vapometer (Delfin Technologies, Finland) It's equipped with a closed cylindrical chamber. When it is in contact with the skin, the relative humidity (RH %) in the chamber increases, based on which transepidermal water loss (TEWL) is calculated. Lower TEWL means better skin barrier function. Vapometer measurement will be done at the tested areas on face skin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in skin elasticity from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>Skin Elasticity: Cutometer dual MPA580 (Courage &amp; Khazaka, Germany) The Cutometer® is destined to measure elasticity of the upper skin layer using negative pressure which deforms the skin mechanically.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in anti-ultraviolet from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>Evaluation of Anti-ultraviolet&#xD;
+Skin Carotenoid level was measured by NUSKIN S3 Biophotonic Scanner, this instrument measured on hand (the part of the hand between the thumb and the index finger).&#xD;
+The size and redness of sunburns were measured at 24hours after UV exposure with fixed light source and distance on back skin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in dermatologist grading of skin tone dullness from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>The skin parameter of skin tone dullness was assessed through '0 to 5' scales</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in dermatologist grading of skin tone unevenness from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>The skin parameter of skin tone unevenness was assessed through '0 to 5' scales</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in dermatologist grading of skin dryness from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>The skin parameter of skin dryness was assessed through '0 to 5' scales</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in dermatologist grading of skin inelastic from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>The skin parameter of skin inelastic was assessed through '0 to 5' scales</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in dermatologist grading of wrinkle/fine line from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>The skin parameter of wrinkle/fine line was assessed through '0 to 5' scales</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in dermatologist grading of skin roughness from baseline at week 4 and week 8</measure>
+    <time_frame>Baseline, Week 4 and Week 8.</time_frame>
+    <description>The skin parameter of skin roughness was assessed through '0 to 5' scales</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Self Assessment</measure>
+    <time_frame>Baseline, Week 1, Week 2, Week 4 and Week 8.</time_frame>
+    <description>A self assessment questionnaire about skin conditions improvement was answered by each subject</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">80</enrollment>
+  <condition>Skin Aging</condition>
+  <arm_group>
+    <arm_group_label>Beauty Image</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Beauty Image</intervention_name>
+    <description>1.97g/package; 2 packages one day for 8 weeks</description>
+    <arm_group_label>Beauty Image</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo Control</intervention_name>
+    <description>Placebo Control; 1.97g/package; 2 packages one day for 8 weeks</description>
+    <arm_group_label>Placebo Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Facial skin with problems of dull, uneven, inelastic, dryness and wrinkle/fine line&#xD;
+             (At least fit to two problems)&#xD;
+&#xD;
+          -  In general good health and good mental state;&#xD;
+&#xD;
+          -  Willing to read, understand and able to sign the Informed Consent Form;&#xD;
+&#xD;
+          -  Willing to comply with all study protocol requirements.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Intention to become pregnant, pregnant, lactating or within 6 months of delivery;&#xD;
+&#xD;
+          -  Participation in any clinical test or cosmetic product test on skin within 30 days;&#xD;
+&#xD;
+          -  Existence of neurodermatitis, pityriasis, seborrheic dermatitis or psoriasis capitis&#xD;
+             on test area;&#xD;
+&#xD;
+          -  Use of any anti-inflammatory drugs in the past 2 months;&#xD;
+&#xD;
+          -  A history of skin diseases such as psoriasis, eczema, psoriasis, skin cancer, etc.;&#xD;
+&#xD;
+          -  IDDM: Insulin dependent diabetic patients;&#xD;
+&#xD;
+          -  Current treatment for asthma or other chronic respiratory diseases;&#xD;
+&#xD;
+          -  Undergoing anticancer chemotherapy in the past 6 months;&#xD;
+&#xD;
+          -  Existence of any other health problems or chronic diseases;&#xD;
+&#xD;
+          -  Use of retinoids, alpha hydroxyl acid, ortho-hydroxybenzoic acid, hydroquinone nearly&#xD;
+             within 3 months; or use of prescriptions (such as antibiotics, retinoids, alpha&#xD;
+             hydroxyl acid or steroids), oral contraceptives (Use of same contraceptives for 6&#xD;
+             months excepted);&#xD;
+&#xD;
+          -  Existence of the following conditions or factors that the Investigator believes may&#xD;
+             affect the response of the skin or the interpretation of the test results, including,&#xD;
+             but not limited to, diabetes, vascular disease, hepatitis, eczema, psoriasis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>28 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Nu Skin (China) Daily-use &amp; Health Products CO., LTD</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 2, 2021</study_first_posted>
+  <last_update_submitted>January 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

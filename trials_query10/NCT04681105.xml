@@ -1,0 +1,539 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04681105</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20472</org_study_id>
+    <secondary_id>NCI-2020-08118</secondary_id>
+    <secondary_id>20472</secondary_id>
+    <secondary_id>P30CA033572</secondary_id>
+    <nct_id>NCT04681105</nct_id>
+  </id_info>
+  <brief_title>Flotetuzumab for the Treatment of Relapsed or Refractory Advanced CD123-Positive Hematological Malignancies</brief_title>
+  <official_title>A Phase 1 Trial to Evaluate the Safety of Single Agent Flotetuzumab in Advanced CD123-Positive Hematological Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>City of Hope Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>City of Hope Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial studies the best dose and side effects of flotetuzumab for the treatment&#xD;
+      of patients with blood cancers (hematological malignancies) that have spread to other places&#xD;
+      in the body (advanced) and have come back after a period of improvement (relapsed) or does&#xD;
+      not respond to treatment (refractory). Flotetuzumab is a monoclonal antibody that may&#xD;
+      interfere with the ability of cancer cells to grow and spread.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine the maximum tolerated dose (recommended phase 2 dose, RP2D) of flotetuzumab,&#xD;
+      when given as a single agent.&#xD;
+&#xD;
+      II. Evaluate the safety and tolerability of flotetuzumab in CD123-positive advanced acute&#xD;
+      lymphoblastic leukemia (ALL) (Cohort A) and other hematological malignancies (Cohort B), by&#xD;
+      evaluation of toxicities including: type, frequency, severity, attribution, and duration of&#xD;
+      the toxicity.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. Obtain preliminary estimates of remission; (complete remission [CR], complete remission&#xD;
+      with incomplete count recovery [CRi], complete remission with partial hematological recovery&#xD;
+      [CRh] or morphologic leukemia free state [MLFS] in Cohort A or CR/molecular response [MR] in&#xD;
+      Cohort B) rate and duration.&#xD;
+&#xD;
+      II. Estimate 1-year overall survival. III. Evaluate minimal residual disease (MRD) status in&#xD;
+      responders in the ALL cohort.&#xD;
+&#xD;
+      IV. Evaluate the percentage of patients who receive subsequent allogeneic transplantation.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. Examine immune profile pre- and post-treatment with flotetuzumab. II. Assess the&#xD;
+      association between CD123 expression and tumor response. III. Assess the association between&#xD;
+      alterations in tumor genetic or microenvironment with response.&#xD;
+&#xD;
+      IV. Assess cytokine levels during therapy.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study.&#xD;
+&#xD;
+      INDUCTION THERAPY: Patients receive flotetuzumab via continuous intravenous (IV) infusion on&#xD;
+      days 1-28. Patients who achieve stable disease (SD)/partial remission (PR) (Cohort A) or&#xD;
+      PR/clinical improvement (CI) (Cohort B), receive an additional induction cycle. Patients who&#xD;
+      achieve PR (Cohort A) or PR/CI/major molecular response (MMR) (Cohort B) after cycle 2&#xD;
+      re-induction, may continue induction therapy for up to 4 more cycles.&#xD;
+&#xD;
+      CONSOLIDATION THERAPY: Patients who achieve CR/CRi/CRh/MLFS (Cohort A) or CR/MR (Cohort B)&#xD;
+      after cycle 1 or cycle 2 of induction therapy, receive flotetuzumab via continuous IV&#xD;
+      infusion on days 1-28 for up to 5 and 6 cycles, respectively, in the absence of disease&#xD;
+      progression or unacceptable toxicity. Patients with PR (Cohort A) or PR/CI/MMR (Cohort B) who&#xD;
+      have received up to 6 cycles of induction therapy may receive up to 2 cycles of consolidation&#xD;
+      therapy in the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      SUPPORTIVE CARE: Patients also receive acetaminophen orally (PO) or ibuprofen PO every 8&#xD;
+      hours for 48 hours, diphenhydramine or equivalent IV or PO every 8 hours for 48 hours,&#xD;
+      ranitidine or equivalent IV every 8 hours for 48 hours, and dexamethasone IV up to 30 minutes&#xD;
+      prior to dosing and then at 12 hours after dosing on week 1 days 1 and 7.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up at 30 days, then every 3 months&#xD;
+      for 1 year.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 18, 2020</start_date>
+  <completion_date type="Anticipated">November 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 15, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 30 days post-treatment</time_frame>
+    <description>Toxicity will be graded according to the National Cancer Institute (NCI)-Common Terminology Criteria for Adverse Events version 5.0 except infusion-related reaction (IRR)/cytokine release syndrome (CRS) which will be by the modified criteria proposed by Lee et al. Safety and toxicity will be assessed for each cohort independently. Observed toxicities will be summarized in terms of type (organ affected or laboratory determination), severity, attribution, time of onset, duration, probable association with the study treatment and reversibility or outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Best response of complete remission attained</measure>
+    <time_frame>by the end of induction/re-induction cycles (each cycle is 28 days, up to 6 cycles)</time_frame>
+    <description>Rates and 95% Clopper Pearson binomial confidence interval (CI) will be calculated for complete remission/response rate (confirmed complete remission [CR]/ complete remission with incomplete count recovery [CRi]/ complete remission with partial hematological recovery [CRh] [Cohort A] or CR/molecular response [MR] [Cohort B]). Remission rates will also be explored based on number/type of prior therapy(ies), the presence of extramedullary disease at the time of starting therapy, disease burden, and CD123 expression intensity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimal residual disease</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Assessed by multi-color flow cytometry in ALL the cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of remission</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Will be estimated using the product-limit method of Kaplan and Meier.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number/percent who bridge to allogeneic hematopoietic cell transplantation (HCT)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Number/percent of patients who proceed to hematopoietic cell transplantation after achieving complete response/ complete remission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Will be estimated using the product-limit method of Kaplan and Meier.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Recurrent Acute Leukemia</condition>
+  <condition>Recurrent B Acute Lymphoblastic Leukemia</condition>
+  <condition>Recurrent Blastic Plasmacytoid Dendritic Cell Neoplasm</condition>
+  <condition>Recurrent Chronic Myelogenous Leukemia, BCR-ABL1 Positive</condition>
+  <condition>Recurrent Hairy Cell Leukemia</condition>
+  <condition>Recurrent Hematologic Malignancy</condition>
+  <condition>Recurrent Hodgkin Lymphoma</condition>
+  <condition>Recurrent T Acute Lymphoblastic Leukemia</condition>
+  <condition>Refractory Acute Leukemia</condition>
+  <condition>Refractory B Acute Lymphoblastic Leukemia</condition>
+  <condition>Refractory Blastic Plasmacytoid Dendritic Cell Neoplasm</condition>
+  <condition>Refractory Chronic Myelogenous Leukemia, BCR-ABL1 Positive</condition>
+  <condition>Refractory Hairy Cell Leukemia</condition>
+  <condition>Refractory Hematologic Malignancy</condition>
+  <condition>Refractory Hodgkin Lymphoma</condition>
+  <condition>Refractory T Acute Lymphoblastic Leukemia</condition>
+  <condition>Systemic Mastocytosis</condition>
+  <arm_group>
+    <arm_group_label>Treatment (flotetuzumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>INDUCTION THERAPY: Patients receive flotetuzumab via continuous IV infusion on days 1-28. Patients who achieve SD/PR (Cohort A) or PR/CI (Cohort B), receive an additional induction cycle. Patients who achieve PR (Cohort A) or PR/CI/MMR (Cohort B) after cycle 2 re-induction, may continue induction therapy for up to 4 more cycles.&#xD;
+CONSOLIDATION THERAPY: Patients who achieve CR/CRi/CRh/MLFS (Cohort A) or CR/MR (Cohort B) after cycle 1 or cycle 2 of induction therapy, receive flotetuzumab via continuous IV infusion on days 1-28 for up to 5 and 6 cycles, respectively, in the absence of disease progression or unacceptable toxicity. Patients with PR (Cohort A) or PR/CI/MMR (Cohort B) who have received up to 6 cycles of induction therapy may receive up to 2 cycles of consolidation therapy in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acetaminophen</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (flotetuzumab)</arm_group_label>
+    <other_name>APAP</other_name>
+    <other_name>Paracetamol</other_name>
+    <other_name>Tylenol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (flotetuzumab)</arm_group_label>
+    <other_name>Aacidexam</other_name>
+    <other_name>Adexone</other_name>
+    <other_name>Aknichthol Dexa</other_name>
+    <other_name>Alba-Dex</other_name>
+    <other_name>Alin</other_name>
+    <other_name>Alin Depot</other_name>
+    <other_name>Alin Oftalmico</other_name>
+    <other_name>Amplidermis</other_name>
+    <other_name>Anemul mono</other_name>
+    <other_name>Auricularum</other_name>
+    <other_name>Auxiloson</other_name>
+    <other_name>Baycadron</other_name>
+    <other_name>Baycuten</other_name>
+    <other_name>Baycuten N</other_name>
+    <other_name>Cortidexason</other_name>
+    <other_name>Cortisumman</other_name>
+    <other_name>Decacort</other_name>
+    <other_name>Decadrol</other_name>
+    <other_name>Decadron</other_name>
+    <other_name>Decadron DP</other_name>
+    <other_name>Decalix</other_name>
+    <other_name>Decameth</other_name>
+    <other_name>Decasone R.p.</other_name>
+    <other_name>Dectancyl</other_name>
+    <other_name>Dekacort</other_name>
+    <other_name>Deltafluorene</other_name>
+    <other_name>Deronil</other_name>
+    <other_name>Desamethasone</other_name>
+    <other_name>Desameton</other_name>
+    <other_name>Dexa-Mamallet</other_name>
+    <other_name>Dexa-Rhinosan</other_name>
+    <other_name>Dexa-Scheroson</other_name>
+    <other_name>Dexa-sine</other_name>
+    <other_name>Dexacortal</other_name>
+    <other_name>Dexacortin</other_name>
+    <other_name>Dexafarma</other_name>
+    <other_name>Dexafluorene</other_name>
+    <other_name>Dexalocal</other_name>
+    <other_name>Dexamecortin</other_name>
+    <other_name>Dexameth</other_name>
+    <other_name>Dexamethasone Intensol</other_name>
+    <other_name>Dexamethasonum</other_name>
+    <other_name>Dexamonozon</other_name>
+    <other_name>Dexapos</other_name>
+    <other_name>Dexinoral</other_name>
+    <other_name>Dexone</other_name>
+    <other_name>Dinormon</other_name>
+    <other_name>Fluorodelta</other_name>
+    <other_name>Fortecortin</other_name>
+    <other_name>Gammacorten</other_name>
+    <other_name>Hexadecadrol</other_name>
+    <other_name>Hexadrol</other_name>
+    <other_name>Lokalison-F</other_name>
+    <other_name>Loverine</other_name>
+    <other_name>Methylfluorprednisolone</other_name>
+    <other_name>Millicorten</other_name>
+    <other_name>Mymethasone</other_name>
+    <other_name>Orgadrone</other_name>
+    <other_name>Spersadex</other_name>
+    <other_name>TaperDex</other_name>
+    <other_name>Visumetazone</other_name>
+    <other_name>ZoDex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Diphenhydramine</intervention_name>
+    <description>Given IV or PO</description>
+    <arm_group_label>Treatment (flotetuzumab)</arm_group_label>
+    <other_name>FAR 90X2</other_name>
+    <other_name>PM 255</other_name>
+    <other_name>Probedryl</other_name>
+    <other_name>Rigidyl</other_name>
+    <other_name>S51</other_name>
+    <other_name>Syntedril</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Flotetuzumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (flotetuzumab)</arm_group_label>
+    <other_name>CD123 x CD3 DART Bi-Specific Antibody MGD006</other_name>
+    <other_name>CD123 x CD3 Dual Affinity Re-Targeting Bi-Specific Antibody MGD006</other_name>
+    <other_name>MGD006</other_name>
+    <other_name>RES234</other_name>
+    <other_name>S80880</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ibuprofen</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (flotetuzumab)</arm_group_label>
+    <other_name>(.+ -.)-p-Isobutylhydratropic acid</other_name>
+    <other_name>Advil</other_name>
+    <other_name>Motrin</other_name>
+    <other_name>p-Isobutylhydratropic acid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ranitidine</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (flotetuzumab)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Documented informed consent of the participant and/or legally authorized&#xD;
+             representative&#xD;
+&#xD;
+               -  Assent, when appropriate, will be obtained per institutional guidelines&#xD;
+&#xD;
+          -  Agreement to allow the use of archival tissue from diagnostic tumor biopsies&#xD;
+&#xD;
+               -  If unavailable, exceptions may be granted with study principal investigator (PI)&#xD;
+                  approval&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) =&lt; 2&#xD;
+&#xD;
+          -  Histologically confirmed diagnosis of&#xD;
+&#xD;
+               -  Cohort A. Acute lymphoblastic leukemia&#xD;
+&#xD;
+                    -  B-cell phenotype: patients with relapsed or refractory ALL who have received&#xD;
+                       at least 2 prior regimens and failed or are ineligible for CD19-based&#xD;
+                       targeted therapy&#xD;
+&#xD;
+                    -  T-cell phenotype: patients with relapsed or refractory who have received at&#xD;
+                       least 1 prior regimen&#xD;
+&#xD;
+               -  Cohort B. Other CD123+ hematological malignancies that failed standard regimens,&#xD;
+                  excluding acute myeloid leukemia and myelodysplastic syndrome&#xD;
+&#xD;
+                    -  Blastic plasmacytoid dendritic cell neoplasm (BPDCN) patients who have&#xD;
+                       failed or relapsed after initial therapy&#xD;
+&#xD;
+                    -  Chronic myelocytic leukemia (CML) patients who have failed or relapsed or&#xD;
+                       ineligible for third generation tyrosine kinase inhibitor (ponatinib)&#xD;
+&#xD;
+                    -  Hairy cell leukemia patients who have failed or progressed shortly after&#xD;
+                       purine analogs or failed 2 cycles of purine analog&#xD;
+&#xD;
+                    -  Systemic mastocytosis patients who have failed or progressed on midostaurin&#xD;
+&#xD;
+                    -  Hodgkin lymphoma patients who have failed or relapsed after PD-1/PD-L1-&#xD;
+                       inhibitors and brentuximab vedotin&#xD;
+&#xD;
+                    -  Advanced acute leukemia patients with ambiguous lineage or biphenotypic&#xD;
+                       leukemia that failed 2 lines of prior regimens&#xD;
+&#xD;
+                    -  Patients with any other advanced CD123+ hematological malignancy who have&#xD;
+                       failed standard therapy per the treating physician's judgement&#xD;
+&#xD;
+          -  Relapsed or refractory disease as defined above&#xD;
+&#xD;
+          -  Tumor expressing CD123 either by flow cytometry or immunohistochemistry staining&#xD;
+&#xD;
+          -  Measurable disease of at least 1.5 cm on computed tomography (CT)/magnetic resonance&#xD;
+             imaging (MRI) for cases without bone marrow involvement&#xD;
+&#xD;
+          -  Peripheral blast count &lt; 20,000/ul at the time of initiation of infusion on Cycle 1&#xD;
+             Day 1&#xD;
+&#xD;
+          -  Life expectancy of at least 4 weeks&#xD;
+&#xD;
+          -  Fully recovered from the acute toxic effects (except alopecia) to =&lt; grade 1 to prior&#xD;
+             anti-cancer therapy&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &gt;= 1000/ul (without bone marrow involvement, performed&#xD;
+             within 14 days prior to day 1 of protocol therapy)&#xD;
+&#xD;
+          -  Platelets &gt;= 75,000/ul (without bone marrow involvement, performed within 14 days&#xD;
+             prior to day 1 of protocol therapy)&#xD;
+&#xD;
+          -  Lumbar puncture to assess presence of central nervous system (CNS) disease if there&#xD;
+             are symptoms and signs concerning for CNS involvement (performed within 14 days prior&#xD;
+             to day 1 of protocol therapy)&#xD;
+&#xD;
+          -  Total bilirubin =&lt; 1.5 X upper limit of normal (ULN) (unless has Gilbert's disease)&#xD;
+             (performed within 14 days prior to day 1 of protocol therapy)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) =&lt; 2.5 x ULN (performed within 14 days prior to day 1&#xD;
+             of protocol therapy)&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) =&lt; 2.5 x ULN (performed within 14 days prior to day 1&#xD;
+             of protocol therapy)&#xD;
+&#xD;
+          -  Left ventricular ejection fraction (LVEF) &gt;= 50%. Note: To be performed within 28 days&#xD;
+             prior to day 1 of protocol therapy&#xD;
+&#xD;
+          -  Corrected QT (QTc) =&lt; 480 ms. Note: To be performed within 28 days prior to day 1 of&#xD;
+             protocol therapy&#xD;
+&#xD;
+          -  If able to perform pulmonary function tests: forced expiratory volume in 1 second&#xD;
+             (FEV1), forced vital capacity (FVC) and DLCO (diffusion capacity) &gt;= 50% of predicted&#xD;
+             (corrected for hemoglobin). If unable to perform pulmonary function tests: oxygen (O2)&#xD;
+             saturation &gt; 90% on room air. Note To be performed within 28 days prior to day 1 of&#xD;
+             protocol therapy&#xD;
+&#xD;
+          -  Calculated or measured creatinine clearance of &gt; 50 ml/min (performed within 14 days&#xD;
+             prior to Day 1 of protocol therapy)&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP): negative urine or serum pregnancy test. If&#xD;
+             the urine test is positive or cannot be confirmed as negative, a serum pregnancy test&#xD;
+             will be required (performed within 14 days prior to day 1 of protocol therapy)&#xD;
+&#xD;
+          -  Agreement by females and males of childbearing potential* to use an effective method&#xD;
+             of birth control or abstain from heterosexual activity for the course of the study&#xD;
+             through at least 6 months after the last dose of protocol therapy&#xD;
+&#xD;
+               -  Childbearing potential defined as not being surgically sterilized (men and women)&#xD;
+                  or have not been free from menses for &gt; 1 year (women only)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Autologous or allogeneic hematopoietic cell transplant performed within 100 days prior&#xD;
+             to study drug administration in Day 1 of Cycle 1 of protocol therapy&#xD;
+&#xD;
+               -  However, patients who received allogeneic hematopoietic cell transplantation&#xD;
+                  (HCT) more than 100 days are allowed if no active graft versus host disease&#xD;
+                  (GVHD) &gt; grade 1, not actively on systemic immunosuppressive therapy and off&#xD;
+                  calcineurin inhibitors for at least 4 weeks prior to start therapy&#xD;
+&#xD;
+          -  Chemotherapy, radiation therapy, biological therapy, within 14 days prior to Day 1 of&#xD;
+             protocol therapy. Maintenance-type ALL chemotherapies, including vincristine and&#xD;
+             mercaptopurine are allowed up to 7 days before starting therapy. High dose steroids&#xD;
+             are allowed up to 3 days before starting therapy. Cytoreduction with hydroxyurea is&#xD;
+             allowed to control leukocytosis until to the day of starting therapy. Hydroxyurea can&#xD;
+             be given during cycle 1 of flotetuzumab administration to control leukocytosis but&#xD;
+             need to be discussed with the study PI&#xD;
+&#xD;
+          -  Previous treatment with immunotherapeutic agents (for example chimeric antigen&#xD;
+             receptor [CAR] T cells, long acting bispecific antibodies, etc) in the 28 days period&#xD;
+             prior to study drug administration on Day 1 Cycle 1, with the exception of short-half&#xD;
+             bispecific antibodies (blinatumomab) where the washout period is only 14 days&#xD;
+&#xD;
+          -  Requirement, at the time of study entry, for concurrent steroid &gt; 10 mg/day of oral&#xD;
+             prednisone or the equivalent, except steroid inhaler, nasal spray or ophthalmic&#xD;
+             solution&#xD;
+&#xD;
+          -  Use of immunosuppressant medications (other than steroid as noted above) in the 2&#xD;
+             weeks prior to study drug administration (Cycle 1 Day 1)&#xD;
+&#xD;
+          -  Known central nervous system involvement. Patients with suspected CNS involvement must&#xD;
+             be evaluated by lumbar puncture and be free of CNS disease prior to study entry.&#xD;
+             Previously treated CNS involvement is allowed provided adequate treatment has been&#xD;
+             provided and the patient is free of CNS disease&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to flotetuzumab&#xD;
+&#xD;
+          -  Any active untreated autoimmune disorders (with the exception of vitiligo)&#xD;
+&#xD;
+          -  Dementia or altered mental status that would preclude sufficient understanding to&#xD;
+             provide informed consent&#xD;
+&#xD;
+          -  Second primary malignancy that requires active therapy. Adjuvant hormonal therapy is&#xD;
+             allowed&#xD;
+&#xD;
+          -  Active uncontrolled infection&#xD;
+&#xD;
+          -  Significant pulmonary compromise&#xD;
+&#xD;
+          -  Unstable angina or clinically significant heart disease (left ventricular ejection&#xD;
+             fraction &lt; 50%)&#xD;
+&#xD;
+          -  Major trauma or surgery within 4 weeks before enrollment&#xD;
+&#xD;
+          -  Clinically significant uncontrolled illness&#xD;
+&#xD;
+          -  Females only: Pregnant or breastfeeding&#xD;
+&#xD;
+          -  Any other condition that would, in the Investigator's judgment, contraindicate the&#xD;
+             patient's participation in the clinical study due to safety concerns with clinical&#xD;
+             study procedures&#xD;
+&#xD;
+          -  Prospective participants who, in the opinion of the investigator, may not be able to&#xD;
+             comply with all study procedures (including compliance issues related to&#xD;
+             feasibility/logistics)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ibrahim T Aldoss</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>City of Hope Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ibrahim T. Aldoss</last_name>
+      <phone>626-218-0589</phone>
+      <email>ialdoss@coh.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ibrahim T. Aldoss</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 23, 2020</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Leukemia, Myeloid</mesh_term>
+    <mesh_term>Hodgkin Disease</mesh_term>
+    <mesh_term>Leukemia, Myelogenous, Chronic, BCR-ABL Positive</mesh_term>
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+    <mesh_term>Leukemia, Hairy Cell</mesh_term>
+    <mesh_term>Mastocytosis</mesh_term>
+    <mesh_term>Mastocytosis, Systemic</mesh_term>
+    <mesh_term>Precursor T-Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Acute Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acetaminophen</mesh_term>
+    <mesh_term>Diphenhydramine</mesh_term>
+    <mesh_term>Promethazine</mesh_term>
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>Ibuprofen</mesh_term>
+    <mesh_term>Ranitidine</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Antibodies, Bispecific</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

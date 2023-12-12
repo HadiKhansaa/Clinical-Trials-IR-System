@@ -1,0 +1,199 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01935427</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CRIV2</org_study_id>
+    <nct_id>NCT01935427</nct_id>
+  </id_info>
+  <brief_title>Comparison of Compensatory Reserve Index to Intravascular Volume Change and Stroke Volume</brief_title>
+  <official_title>Comparison of Compensatory Reserve Index to Intravascular Volume Change and Stroke Volume</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Flashback Technologies</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Flashback Technologies</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to validate implementation of the CRI algorithm in the CypherOx CRI&#xD;
+      system.&#xD;
+&#xD;
+      Healthy human subjects will undergo progressive reduction in central blood volume to the&#xD;
+      point of hemodynamic instability (defined by a precipitous fall in systolic blood pressure&#xD;
+      (SBP) below 70 mmHg and/or voluntary subject termination due to discomfort (such as sweating,&#xD;
+      nausea, or dizziness) to validate the following hypotheses:&#xD;
+&#xD;
+      The CypherOx CRI system will A. Trend intravascular volume changes (hemorrhage) B. Trend&#xD;
+      stroke volume changes and C. The CRI trend value is not relative to an initial CRI reading,&#xD;
+      instead it is an actual CRI trend value that does not require calibration or being placed&#xD;
+      during normal physiological conditions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hemorrhagic shock is a leading cause of death in both civilian and battlefield trauma.&#xD;
+      Currently available medical monitors provide the capabilities to measure standard vital signs&#xD;
+      that are often imprecise, subjective, intermittent and inconsistent. More importantly, the&#xD;
+      appearance of hypotension and other signs and symptoms of shock represent a point in time&#xD;
+      when it may be too late to apply effective lifesaving interventions. Understanding the&#xD;
+      physiological signals that provide the best indicators of blood volume loss and impending&#xD;
+      circulatory failure is critical to bridging the capability gap of identifying the need for&#xD;
+      early intervention. Under a previous BAMC IRB-approved protocol, we used lower body negative&#xD;
+      pressure (LBNP) as an experimental model of central hypovolemia to simulate progressive blood&#xD;
+      loss that results in hemodynamic instability (e.g., hypotension, tachycardia, presyncopal&#xD;
+      symptoms) in conscious, healthy human subjects. From data collected within this original&#xD;
+      protocol, we now understand that arterial waveforms (either blood pressure or pulse oximetry)&#xD;
+      are important variables associated with hypovolemia. Feature extraction and machine learning&#xD;
+      techniques were applied to these previously collected data and an algorithm was developed&#xD;
+      called Compensatory Reserve Index (CRI) which was designed to reflect progressive blood loss&#xD;
+      and decreasing stroke volume. This algorithm was installed in a pulse oximeter in which the&#xD;
+      photo-plethysmographic waveform (PPG) was used to calculate the CRI. Using this CRI Pulse&#xD;
+      oximeter, a pretrial study of 24 subjects indicated a high correlation in trending of blood&#xD;
+      volume loss (DOD study at Mayo Clinic) and a mean correlation of 0.96 when comparing CRI to&#xD;
+      stroke volume (LBNP at AISR Laboratory). The work proposed herein will validate those&#xD;
+      findings. During each experiment each test subject will wear 4 FDA cleared pulse oximeters&#xD;
+      which transmit PPG data to an off-the-shelf handheld tablet (meets military specs) which will&#xD;
+      calculate and display the CRI value. The subjects will also wear 2 FDA cleared Nexfin&#xD;
+      hemodynamic monitors that display stroke volume. LBNP will be used to produce progressive&#xD;
+      central hypovolemia in healthy human subjects until the point of hemodynamic decompensation&#xD;
+      (presyncope). This approach will validate the correlation of CRI to stroke volume.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2013</start_date>
+  <completion_date type="Actual">December 2013</completion_date>
+  <primary_completion_date type="Actual">December 2013</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>15 subjects must complete the LBNP trial</measure>
+    <time_frame>Up to 4 months</time_frame>
+    <description>15 subjects must complete the LBNP trial to 70mmHg negative pressure</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Hemorrhage</condition>
+  <arm_group>
+    <arm_group_label>Volunteer test subjects</arm_group_label>
+    <description>Healthy volunteer with no cardiovascular disease</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthy non-pregnant volunteers with no cardiovascular disease or other health issues.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy nonsmoking normotensive (&lt;140/90) males or females.&#xD;
+&#xD;
+          -  Age 18 to 55 yr.&#xD;
+&#xD;
+          -  Normal clinical results from a Medical History and Physical form DD 2807-1&#xD;
+&#xD;
+          -  Military or civilian.&#xD;
+&#xD;
+          -  Documentation of a negative pregnancy test within 24 hours prior to each study period,&#xD;
+             if necessary.&#xD;
+&#xD;
+          -  Not obese, as defined by body mass index (BMI) &lt; 30, unless individual is athletic&#xD;
+             (BMI may not be the best method of assessing obesity in athletic individuals). BMI is&#xD;
+             calculated as the weight in kilograms divided by the square of the height in meters.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  (a) Age &lt;18 and &gt;55 years.&#xD;
+&#xD;
+          -  Individuals taking prescription drugs, non-prescription drugs or herbal medicines&#xD;
+             known to alter autonomic function unless cleared by the Medical Screener.&#xD;
+&#xD;
+          -  Subjects using prescription medications within 30 days before initiation of the&#xD;
+             experiments unless cleared by the Medical Screener.&#xD;
+&#xD;
+          -  Subjects with a history of alcohol or drug abuse which inhibits the subject's ability&#xD;
+             to complete this study.&#xD;
+&#xD;
+          -  Smokers.&#xD;
+&#xD;
+          -  Subjects with signs of cardiovascular abnormalities (e.g., hypertension (&gt; 140/90),&#xD;
+             autonomic dysfunction (Shy-Drager Syndrome, Bradbury-Eggleston syndrome, sinus&#xD;
+             arrhythmia, idiopathic orthostatic hypotension), fainting disorder, etc.).&#xD;
+&#xD;
+          -  Subjects with respiratory illnesses (e.g., asthma, Chronic Obstructive Pulmonary&#xD;
+             Disease, Reactive Airway Disease, etc.).&#xD;
+&#xD;
+          -  Subjects with a history of anaphylaxis.&#xD;
+&#xD;
+          -  Subjects with allergies to medications not cleared by the Medical Screener.&#xD;
+             Individuals reporting a history of pre-syncopal/syncopal episodes or orthostatic&#xD;
+             hypotension.&#xD;
+&#xD;
+          -  Subjects with a history or family history of abnormal blood clotting, clots in deep&#xD;
+             veins in the legs or pelvis, or blood clots to the lungs.&#xD;
+&#xD;
+          -  Individuals taking prescription medications for hypertension (high blood pressure).&#xD;
+             (l) Individuals with known or suspected abdominal hernias&#xD;
+&#xD;
+          -  Pregnancy, trying to become pregnant, or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Victor A Convertino, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>US Army Institute of Surgical Research</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>US Army Institute of Surgical Research</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78234-7767</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2015</verification_date>
+  <study_first_submitted>August 28, 2013</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 5, 2013</study_first_posted>
+  <last_update_submitted>March 4, 2015</last_update_submitted>
+  <last_update_submitted_qc>March 4, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 6, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pulse Oximeter</keyword>
+  <keyword>Stroke Volume</keyword>
+  <keyword>Hemorrhagic shock</keyword>
+  <keyword>Compensatory Reserve Index</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hemorrhage</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,158 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04750421</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2017-A03325-48</org_study_id>
+    <nct_id>NCT04750421</nct_id>
+  </id_info>
+  <brief_title>Transillumination to Reduce Post-injection Complications in Aesthetic Medicine</brief_title>
+  <official_title>Transillumination: A Non Invasive Method to Reduce Complications Associated With Facial Injections in Aesthetic Medicine.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Helynck, Patrick, M.D.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Helynck, Patrick, M.D.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Transillumination (TL) is a noninvasive technique that appears to allow preliminary detection&#xD;
+      of superficial vascular structures of the face to avoid intravascular HA injection. The&#xD;
+      purpose of our study was to test the efficacy of TL in terms of its sensitivity to locate&#xD;
+      vessels in the areas undergoing treatment and to reduce post-injection vascular&#xD;
+      complications.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Transillumination was used during the injection of hyaluronic acid to reduce the risk of&#xD;
+      intravascular injection. For the purpose of randomization, patients were asked to choose a&#xD;
+      sealed envelope. Inside the envelope was a piece of paper indicating on which side of the&#xD;
+      face (right or left) the transillumination would be used.&#xD;
+&#xD;
+      For each filler injection, transillumination was used on one side; on the other side of the&#xD;
+      face, the injection was administered without the use of any vascular exploration method.&#xD;
+      After the vessels had been located on the side chosen for the transillumination technique, a&#xD;
+      skin-marker pencil was used to draw the vascular mapping of the upper part of the face, which&#xD;
+      in our opinion represented the area most at risk of complications, the middle and the lower&#xD;
+      parts of the face.&#xD;
+&#xD;
+      Then ice was applied on both sides of the face for 15 s before to proceed with the injections&#xD;
+      in order to cause vasoconstriction and to further decrease the risk of an intravascular&#xD;
+      injection.Transillumination sensitivity for locating the vessels of the face was assessed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2018</start_date>
+  <completion_date type="Actual">July 1, 2018</completion_date>
+  <primary_completion_date type="Actual">June 1, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The random assignment of the right or left side of the face on which the trasnillumination will be used will be done by numbered and sealed envelope.&#xD;
+Envelopes will be prepared before the start of inclusion. Each envelope will contain a sheet of paper whose contents cannot be guessed when the envelope is closed. Each sheet will be marked either &quot;Left+TL&quot; or &quot;Right+TL&quot;. Each envelope will contain a unique code number that will be randomly assigned to each patient after inclusion.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The operator will guarantee the confidentiality of the part of facial where the trasillumination was used, the assessors will not be aware of the part of the face where the transillumination was used.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of vessels detected by using transillumination</measure>
+    <time_frame>Before facial injections</time_frame>
+    <description>counting the number of vessels detected by using transillumination in relation to the number of existing vessels.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of bruises and hematoma</measure>
+    <time_frame>At day 3 after facial injections</time_frame>
+    <description>Number of bruises and heamatoma post-injection in in the hemiface where Transillumination is used versus control hemiface</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">72</enrollment>
+  <condition>E05.642.500</condition>
+  <arm_group>
+    <arm_group_label>Transillumination Venolux®</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Transillumination using Venolux was used to visualize veins in the hemiface before hyaluronic acid injections</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Comparator group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No vascular exploration methods were used on the other hemiface</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transillumination Venolux®</intervention_name>
+    <description>Transillumination Venolux® method was used on the other half of the face before injections to visualize veins.</description>
+    <arm_group_label>Transillumination Venolux®</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients presenting for facial injections of hyaluronic acid&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a history of allergy to a component of hyaluronic acid&#xD;
+&#xD;
+          -  Patients with arteritis (Horton)&#xD;
+&#xD;
+          -  Patients who have had previous facial surgery&#xD;
+&#xD;
+          -  pregnant or nursing patients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean Meningaud, MD.PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of plastic and reconstructive surgery-Henri Mondor Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>MEZI</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 11, 2021</study_first_posted>
+  <last_update_submitted>February 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>transillumination</keyword>
+  <keyword>Aesthetic injection</keyword>
+  <keyword>asthetic post-injection complications</keyword>
+  <keyword>hyaluronic acid</keyword>
+  <keyword>Facial injection</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

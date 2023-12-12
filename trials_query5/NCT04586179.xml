@@ -1,0 +1,288 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04586179</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY20010091</org_study_id>
+    <nct_id>NCT04586179</nct_id>
+  </id_info>
+  <brief_title>A Comparison Between Cardiovascular Exercise Modes Following Sport Related Concussion</brief_title>
+  <official_title>A Physiological and Clinical Comparison Between Cardiovascular Exercise Modes Following Sport Related Concussion</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Pittsburgh Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary Aim: Compare physiological (e.g., heart rate) and clinical responses (e.g., symptom&#xD;
+      provocation) of adolescent and adult athletes (14-35 years of age) completing either a&#xD;
+      structured treadmill running or a dynamic aerobic exertion protocol during the subacute phase&#xD;
+      of sport-related concussion recovery (3-30 days after injury).&#xD;
+&#xD;
+      Secondary Aim: Examine potential effects of clinically-relevant factors that influence&#xD;
+      symptom responses to controlled aerobic exertion, such as age, physical activity patterns,&#xD;
+      motion sensitivities, psychological responses to injury, and sleep quality, among subjects&#xD;
+      completing controlled aerobic and dynamic exertion following sport-related concussion&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Exercise testing is an emerging component of the clinical evaluation for sport-related&#xD;
+      concussion. Despite the growing empirical evidence to suggest that early activity following&#xD;
+      an initial rest period after injury is beneficial to recovery, the effects of modifiable&#xD;
+      exercise prescription factors (e.g., exercise mode, duration, and intensity) is unknown.&#xD;
+      Given that dynamic exertion, which incorporates synchronized head-body movements, may&#xD;
+      contribute greater information processing demands for the functional pathways responsible for&#xD;
+      balance and equilibrium than treadmill running, may be more likely to provoke symptoms during&#xD;
+      exertion. Thus, physically active (&gt;150 min/week of moderate-intensity physical activity)&#xD;
+      participants prior to a diagnosed sport-related concussion will be randomly assigned to&#xD;
+      complete either an aerobic or dynamic exercise task at 1 study visit following injury.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 27, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+    <masking_description>Care provider will not be aware of group assignment; participant will be aware of intervention assessment</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in Concussion Symptoms From Pre to Post Exercise</measure>
+    <time_frame>At 1 study visit within 30 days following concussion, and within 15 minutes of initiating exercise until approximately 15 minutes after exercise cessation</time_frame>
+    <description>Concussion symptoms will be measured with the Post-concussion Symptom Scale (PCSS), a patient-report survey of 22 concussion-associated symptoms on a 0-6 Likert scale (0 'none' to 6 'severe'). Number of reported symptoms (range: 0- 22) and total symptom severity (range: 0-132) whereby greater scores indicate worse symptom burden will be examined. The survey takes approximately 5 minutes to complete</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Heart Rate</measure>
+    <time_frame>At 1 study visit within 30 days following concussion, and within 15 minutes of initiating exercise until approximately 15 minutes after exercise cessation</time_frame>
+    <description>Actual and percent of age-estimated heart rate, measured in beats per minute , will be recorded prior to (approximately 5 min), during, and following (approximately 5 min) exercise via a noninvasive heart rate monitor. Heart rate at rest, exercise cessation, and their difference (maximum heart rate - resting heart rate) will be recorded.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Systolic and Diastolic Blood Pressure</measure>
+    <time_frame>At 1 study visit within 30 days following concussion, and within 15 minutes of initiating exercise until approximately 15 minutes after exercise cessation</time_frame>
+    <description>Systolic and diastolic blood pressure, measured in mmHg with a non-invasive blood pressure cuff, will be recorded prior to and following exercise intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Exercise duration</measure>
+    <time_frame>Completed during the 1 study visit within 30 days following concussion</time_frame>
+    <description>Exercise duration, the time interval between exercise initiation and cessation, will be recorded in seconds (range: 0-900)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical recovery</measure>
+    <time_frame>Through study completion, approximately between 3 and 30 days following concussion</time_frame>
+    <description>Duration of clinical recovery, measured in days, is the interval between injury onset until medical clearance to resume unrestricted sport participation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in vestibular ocular motor screening (VOMS) symptoms from pre-exercise to post-exercise</measure>
+    <time_frame>At 1 study visit within 30 days following concussion, and within 15 minutes of initiating exercise until approximately 15 minutes after exercise cessation</time_frame>
+    <description>The vestibular/ocular motor screening (VOMS) tool is a brief (approximately 5 minutes) patient-reported assessment to screen for vestibular and ocular motor impairments after concussion. Participants report on a 0-10 Likert scale (0 'none' to 10 'severe') prior to and following each of the 7 VOMS sub-tests: smooth pursuits, horizontal saccades, vertical saccades, near-point of convergence, horizontal vestibular-ocular reflex, vertical vestibular-ocular reflex, visual motion sensitivity; and near point of convergence (NPC) distance. Symptoms will be totaled across all symptoms and sub-tests (maximum=240) whereby greater scores indicate worse symptom burden.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">56</enrollment>
+  <condition>Concussion, Mild</condition>
+  <condition>Sport Injury</condition>
+  <arm_group>
+    <arm_group_label>Aerobic (treadmill) Exercise</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will wear a heart rate monitor and complete the Buffalo Concussion Treadmill Test</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dynamic Exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will wear a heart rate monitor and complete a dynamic exertion assessment that incorporates directional changes that incrementally increases in exercise intensity</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Aerobic (treadmill) Exercise</intervention_name>
+    <description>Individuals begin walking at 5.8 km/hr. (3.6 mph) at a 0.0% incline (5.1 km/hr. [3.2 mph] if below 5' 10&quot; tall), the treadmill incline is increased 1 degree each minute for the first 15 minutes, then speed increased 0.64 km/hr. (0.4 mph) each minute thereafter.&#xD;
+Exercise will be terminated if participant a) attains 90 percent of predicted heart rate reserve (HRR=.90*[{208-(.7*age)}-resting HR]), or b) reports a symptom worsening of 3 or points (0-10 scale) for headache, dizziness, or nausea, d) a rapid progression of complaints with continued exercise, or e) a rating of perceived exertion (RPE) greater than 18.5.</description>
+    <arm_group_label>Aerobic (treadmill) Exercise</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Dynamic (Agility) Exercise</intervention_name>
+    <description>Participants will begin in a center circle with equidistant cones 2.5 meters away. After the administrator presents a card, the participant touches a corresponding cone and returns to the starting position. Cards will be presented in increasing frequency in synchrony with a metronome application until exercise termination criteria are identified.&#xD;
+Exercise will be terminated if participant a) attains 90 percent of predicted heart rate reserve (HRR=.90*[{208-(.7*age)}-resting HR]), or b) reports a symptom worsening of 3 or points (0-10 scale) for headache, dizziness, or nausea, d) a rapid progression of complaints with continued exercise, or e) a rating of perceived exertion greater than 18.5.</description>
+    <arm_group_label>Dynamic Exercise</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ages 14-35&#xD;
+&#xD;
+          -  Prior to injury, participant fulfilled ACSM's guidelines for regular aerobic activity&#xD;
+             (30 minutes of moderate-intensity exercise 5 days per week or 20 minutes of vigorous&#xD;
+             exercise 3 days per week) prior to injury.&#xD;
+&#xD;
+          -  Diagnosed with a sport related concussion within 14 days of injury in the window of&#xD;
+             3-30 days prior to completing the first study visit, and also being a single episode.&#xD;
+&#xD;
+          -  Participants referred to exertion therapy after a trained clinician from University of&#xD;
+             Pittsburgh Medical Center (UPMC) Sports Medicine Concussion Program has interpreted&#xD;
+             neurocognitive, vestibular, and clinical interview outcomes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of brain surgery or traumatic brain injury(based on Glasgow Coma Scale of &lt;13)&#xD;
+&#xD;
+          -  History of neurological disorder (seizure disorder, epilepsy, brain tumors or&#xD;
+             malformations)&#xD;
+&#xD;
+          -  Current history of pre-existing vestibular disorder [benign paroxysmal positional&#xD;
+             vertigo (BPPV), labyrinthitis or vestibular neuritis]&#xD;
+&#xD;
+          -  Previous diagnosis of ocular motor condition (Ocular motor apraxia)Currently taking&#xD;
+             anticoagulant, beta-blockers, and anticonvulsant prescription medication&#xD;
+&#xD;
+          -  Diagnosed with a cardiac, peripheral, or cerebrovascular disease (type 1 or 2&#xD;
+             diabetes, or renal disease.&#xD;
+&#xD;
+          -  Experienced chest pain or shortness of breath while at rest or with mild exertion.&#xD;
+&#xD;
+          -  Lose balance because of dizziness or have lost consciousness (aside from concussion)&#xD;
+             from exertion&#xD;
+&#xD;
+          -  Diagnosed with or taking medication for a chronic medical condition&#xD;
+&#xD;
+          -  Currently have a mental or physical impairment exacerbated by physical activity,&#xD;
+             leading to the inability to complete 30 minutes of moderate to vigorous exercise&#xD;
+&#xD;
+          -  Been told by a doctor to only conduct physical activity under medical supervision.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony P Kontos, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>UPMC Sports Medicine Concussion Program</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Aaron M Sinnott, MS</last_name>
+    <phone>1412-246-0460</phone>
+    <email>ams626@pitt.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cynthia Holland, MPH</last_name>
+    <phone>412-904-1298</phone>
+    <email>CLH197@pitt.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Neuromuscular Research Laboratory-Warrior Human Performance Research Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aaron Sinnott, MS ATC</last_name>
+      <phone>412-246-0460</phone>
+      <email>ams626@pitt.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Cynthia Holland, MPH</last_name>
+      <phone>412-904-1298</phone>
+      <email>clh197@pitt.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Aaron M Sinnott, MS ATC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anthony P Kontos, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christopher Connaboy, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Victoria Kochick, DPT PT</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shawn R Eagle, PhD ATC</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Orr R, Bogg T, Fyffe A, Lam LT, Browne GJ. Graded Exercise Testing Predicts Recovery Trajectory of Concussion in Children and Adolescents. Clin J Sport Med. 2021 Jan;31(1):23-30. doi: 10.1097/JSM.0000000000000683.</citation>
+    <PMID>30439726</PMID>
+  </reference>
+  <reference>
+    <citation>Lal A, Kolakowsky-Hayner SA, Ghajar J, Balamane M. The Effect of Physical Exercise After a Concussion: A Systematic Review and Meta-analysis. Am J Sports Med. 2018 Mar;46(3):743-752. doi: 10.1177/0363546517706137. Epub 2017 Jun 1.</citation>
+    <PMID>28570092</PMID>
+  </reference>
+  <reference>
+    <citation>Lumba-Brown A, Teramoto M, Bloom OJ, Brody D, Chesnutt J, Clugston JR, Collins M, Gioia G, Kontos A, Lal A, Sills A, Ghajar J. Concussion Guidelines Step 2: Evidence for Subtype Classification. Neurosurgery. 2020 Jan 1;86(1):2-13. doi: 10.1093/neuros/nyz332.</citation>
+    <PMID>31432081</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>September 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2020</study_first_posted>
+  <last_update_submitted>April 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Anthony P. Kontos, Ph.D.</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>sport-related concussion</keyword>
+  <keyword>concussion therapy</keyword>
+  <keyword>aerobic exercise</keyword>
+  <keyword>exercise testing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Concussion</mesh_term>
+    <mesh_term>Athletic Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Sharing Statement: Deidentified Individual participant data that underlie the current protocol will be available. Study protocol, statistical analysis plan, informed consent form, and individual participant data will be available (including data dictionary) beginning 12 months following completion of study and ending 36 months afterward. Investigators who provide a methodologically sound proposal to achieve individual participant data for meta-analyses should be directed to: https://www.nmrl.pitt.edu/ OR https://www.orthonet.pitt.edu/research/research-centers-and-labs/concussion-research-laboratory</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>12 months following completion of study and ending 36 months afterward</ipd_time_frame>
+    <ipd_access_criteria>Investigators who provide a methodologically sound proposal to achieve individual participant data for meta-analyses</ipd_access_criteria>
+    <ipd_url>http://www.orthonet.pitt.edu/research/research-centers-and-labs/concussion-research-laboratory</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

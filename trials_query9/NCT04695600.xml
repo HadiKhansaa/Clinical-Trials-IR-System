@@ -1,0 +1,294 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04695600</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IEC-1175/04.12.2020</org_study_id>
+    <nct_id>NCT04695600</nct_id>
+  </id_info>
+  <brief_title>Onabotulinum Toxin A (Botox) in the Treatment of Transfer Dysphagia</brief_title>
+  <official_title>Efficacy and Safety of Onabotulinum Toxin A (Botox) Injections in the Upper Esophageal Sphincter for the Treatment of Pharyngo-esophageal Dysphagia Due to Cricopharyngeal Dysfunction- A Randomized Double Blinded Placebo Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>All India Institute of Medical Sciences, New Delhi</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>All India Institute of Medical Sciences, New Delhi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dysphagia in patients with stroke, multiple sclerosis, parkinsonism or dystonia can occur due&#xD;
+      to relative hypertonia of the cricopharyngeus muscle. In the resting state, muscle is&#xD;
+      contracted and relaxes only during deglutition. Treatment of dysphagia by injecting botulinum&#xD;
+      toxin in the cricopharyngeus was described by Schneider et al. in 1994. More than 100 cases&#xD;
+      have been described after that, however there are no randomized controlled trials. A&#xD;
+      meta-analysis from Cochrane has also concluded that there is no sufficient evidence to&#xD;
+      conclude regarding the efficacy and safety of Botulinum toxin injection in cricopharyngeal&#xD;
+      dysfunction. So this study is necessary to fill this void in knowledge&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Swallowing is a neurologically coordinated physiologic event that requires sequential and&#xD;
+      overlapping movements of various craniofacial, pharyngo-esophageal and laryngeal muscles. In&#xD;
+      the process of swallowing, ingested bolus and oral secretions are shifted from the mouth into&#xD;
+      the esophagus. Neurological disorders adversely affecting any portion of this coordinated&#xD;
+      sequence may lead to oropharyngeal or Pharyngo-esophageal dysphagia. During swallowing, the&#xD;
+      upper esophageal sphincter (UES) transiently relaxes and larynx is subsequently pulled in the&#xD;
+      antero-cephalad direction by contractions of the suprahyoid muscles; this traction results in&#xD;
+      active opening of the UES.&#xD;
+&#xD;
+      In the resting state, the function of this sphincter is to keep the upper esophagus closed&#xD;
+      during inspiration and between swallows. It relaxes only during deglutition in coordination&#xD;
+      with the other muscles of the tongue, larynx, anterior cervical muscles and allows the&#xD;
+      ingested bolus to pass into the esophagus from the hypopharynx. In the resting state, this&#xD;
+      closed UES prevents the reflux of gastric and esophageal contents into the hypopharynx.&#xD;
+      Dysfunction of the cricopharyngeal relaxation can cause dysphagia and is called&#xD;
+      cricopharyngeal dysfunction (CPD). It may lead to weight loss, aspiration pneumonia, airway&#xD;
+      obstruction, need to use nasogastric tube for feeding or change to liquid based diet.&#xD;
+      Treatment of dysphagia due to CPD by injecting botulinum toxin in the cricopharyngeus&#xD;
+      described by Schneider et al. in 1994. More than 100 cases have been described after that,&#xD;
+      however there are no randomized controlled trials. A meta-analysis from Cochrane has also&#xD;
+      concluded that there is no sufficient evidence to conclude regarding the efficacy and safety&#xD;
+      of Botulinum toxin injection in cricopharyngeal dysfunction.&#xD;
+&#xD;
+      Problem statement Neurological disorders including stroke, multiple sclerosis, movement&#xD;
+      disorders including parkinsonism, dystonia etc. can cause dysphagia. In some of these cases&#xD;
+      there is a relative hyper-tonicity of the cricopharyngeus muscle. There is a relatively newer&#xD;
+      entity of this form of pure dysphagia due to dystonia which has been described by Samal et&#xD;
+      al. Increased tone of the cricopharyngeus due to spasticity or dystonia leads to failure of&#xD;
+      adequate relaxation of the upper esophageal sphincter leading to CPD. When the pharyngeal&#xD;
+      contraction is adequate, due to pre bolus resistance, the ingested bolus may stay as a&#xD;
+      residue in the hypopharynx leading to dysphagia or choking sensation or pushed into the upper&#xD;
+      airway leading to aspiration. In such cases, so far no medical treatment exists which can&#xD;
+      promote relaxation of the cricopharyngeus and lead to better swallowing function. Two&#xD;
+      modalities of management have been described in case series and reports, one of is surgical&#xD;
+      myotomy of the cricopharyngeus and the other is a relatively easy and lesser invasive&#xD;
+      procedure of injecting botulinum toxin in the horizontal part of the cricopharyngeus muscle.&#xD;
+      However, since there are no randomized controlled trials, no definite recommendations&#xD;
+      regarding the efficacy and safety of the procedure can be made.&#xD;
+&#xD;
+      So this RCT is necessary to fill this void in knowledge&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 15, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>• Participant, investigator, assessor and the statistician will be blinded to the treatment allocation</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients who have moderate to significant improvement in swallowing function on self assessment and clinical swallowing assessment - 3 weeks</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>To compare the proportion of patients who have moderate to significant improvement in swallowing function on self assessment and clinical swallowing assessment at 3 weeks post injection amongst those who received onabotulinum toxin (Botox, Allergan, Irvine, CA) and those who received placebo.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients who have moderate to significant improvement in swallowing function on self assessment and clinical swallowing assessment - 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>To compare the proportion of patients who have moderate to significant improvement in swallowing function on self assessment and clinical swallowing assessment at 3 months post injection amongst those who received onabotulinum toxin (Botox, Allergan, Irvine, CA) and those who received placebo.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with improvement in swallowing related parameters on video fluoroscopy, flexible endoscopic evaluation of swallowing and esophageal manometry - 3 weeks</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>To compare the proportion of patients with improvement in swallowing related parameters on video fluoroscopy, flexible endoscopic evaluation of swallowing and esophageal manometry at 3 weeks post injection between Botox group and placebo group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with improvement in swallowing related parameters on video fluoroscopy, flexible endoscopic evaluation of swallowing and esophageal manometry - 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>To compare the proportion of patients with improvement in swallowing related parameters on video fluoroscopy, flexible endoscopic evaluation of swallowing and esophageal manometry at 3 months post injection between Botox group and placebo group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse effects</measure>
+    <time_frame>3 months</time_frame>
+    <description>To compare the proportion of patients with worsening of dysphagia, vocal cord palsy and other adverse effects upto 3 months post injection</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Transfer Dysphagia</condition>
+  <condition>Oropharyngeal Dysphagia</condition>
+  <condition>Cricopharyngeus Muscle Dysfunction</condition>
+  <condition>Dysphagia, Late Effect of Stroke</condition>
+  <arm_group>
+    <arm_group_label>Botulinum toxin arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 units of botulinum toxin (Botox, Allergan, CA) diluted in 2.5 mL of normal saline will be injected into the cricopharyngeus muscle under direct endoscopic vision using an esophago-gastro-duodenoscope (GIF 190,Olympus). The procedure will be done under general anesthesia in the endoscopy suite as the position of the endoscope is unstable at cricopharynx and the muscle needs to be relaxed during the procedure. Pre-procedure a Ryle's tube will be placed into the stomach under endoscopic guidance which will be kept a day post procedure. Cricopharyngeus muscle will be identified as the muscle at the upper esophageal sphincter located just behind the laryngeal opening. Botulinum toxin will be injected into the muscle in four aliquots into each quadrant using 23 G needle (160cm). Post procedure patient will be observed for an hour for any untoward adverse event</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2.5 mL of Normal saline will be injected into the cricopharyngeus muscle under direct endoscopic vision using an esophago-gastro-duodenoscope (GIF 190,Olympus). The procedure will be done under general anesthesia in the endoscopy suite as the position of the endoscope is unstable at cricopharynx and the muscle needs to be relaxed during the procedure. Pre-procedure a Ryle's tube will be placed into the stomach under endoscopic guidance which will be kept a day post procedure. Cricopharyngeus muscle will be identified as the muscle at the upper esophageal sphincter located just behind the laryngeal opening. Post procedure patient will be observed for an hour for any untoward adverse event</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Botulinum Toxin Type A Injection [Botox]</intervention_name>
+    <description>100 units of Botulinum toxin A (Botox, Allergan, CA) under endoscopic guidance will be injected in the cricopharyngeus muscle</description>
+    <arm_group_label>Botulinum toxin arm</arm_group_label>
+    <arm_group_label>Placebo arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients attending neurology OPD with swallowing dysfunction due to central nervous&#xD;
+             system dysfunction&#xD;
+&#xD;
+          -  At least 14 years of age of all sexes&#xD;
+&#xD;
+          -  mRS (modified Rankin scale) of ≤3 at time of study enrolment&#xD;
+&#xD;
+          -  In case of post stroke dysphagia, at least 6 months have passed following stroke&#xD;
+&#xD;
+          -  Willing to undergo swallowing assessment clinically and with video fluoroscopy,&#xD;
+             flexible upper GI endoscopy and esophageal manometry before and after the injection&#xD;
+&#xD;
+          -  Above investigations show impaired cricopharyngeal relaxation, adequate pharyngeal&#xD;
+             strength and anterocephalad laryngeal movement&#xD;
+&#xD;
+          -  Ready to provide consent for Botulinum neurotoxin injection.&#xD;
+&#xD;
+          -  Willing to adhere to protocol and comply with follow up visits&#xD;
+&#xD;
+          -  No major neurologic or systemic medical condition that reduces life expectancy to less&#xD;
+             than 1 year based on clinical prediction scores&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed cases of neuromuscular disorders of the peripheral nervous system and ALS&#xD;
+&#xD;
+          -  mRS at time of enrolment &gt;3&#xD;
+&#xD;
+          -  Patients with expected life expectancy less than 1 year due to primary disease or co&#xD;
+             morbidity based on clinical prediction scores&#xD;
+&#xD;
+          -  Known allergy to botulinum neurotoxin or its preservatives/excipients&#xD;
+&#xD;
+          -  Received botulinum toxin for any indication in the last 12 weeks&#xD;
+&#xD;
+          -  Those with known antibodies against Botulinum neurotoxin A&#xD;
+&#xD;
+          -  Those who underwent myotomy of the cricopharyngeus muscle&#xD;
+&#xD;
+          -  Those who had undergone procedures like denervation of the cervical musculature&#xD;
+&#xD;
+          -  Dysphagia of other causes not fulfilling inclusion criteria&#xD;
+&#xD;
+          -  Women of childbearing potential who are not using adequate contraception or who are&#xD;
+             pregnant and lactating&#xD;
+&#xD;
+          -  Not willing to provide consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arunmozhimaran Elavarasi, MD DM</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>All India Institute of Medical Sciences, New Delhi</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Arunmozhimaran Elavarasi, MD DM</last_name>
+    <phone>+919013844274</phone>
+    <email>arun_ela@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Pramod Garg, MD DM</last_name>
+    <phone>+919810038116</phone>
+    <email>pkgarg@aiims.ac.in</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Terre R, Valles M, Panades A, Mearin F. Long-lasting effect of a single botulinum toxin injection in the treatment of oropharyngeal dysphagia secondary to upper esophageal sphincter dysfunction: a pilot study. Scand J Gastroenterol. 2008;43(11):1296-303. doi: 10.1080/00365520802245403.</citation>
+    <PMID>18649151</PMID>
+  </reference>
+  <reference>
+    <citation>Parameswaran MS, Soliman AM. Endoscopic botulinum toxin injection for cricopharyngeal dysphagia. Ann Otol Rhinol Laryngol. 2002 Oct;111(10):871-4.</citation>
+    <PMID>12389853</PMID>
+  </reference>
+  <reference>
+    <citation>Schneider I, Thumfart WF, Pototschnig C, Eckel HE. Treatment of dysfunction of the cricopharyngeal muscle with botulinum A toxin: introduction of a new, noninvasive method. Ann Otol Rhinol Laryngol. 1994 Jan;103(1):31-5.</citation>
+    <PMID>8291857</PMID>
+  </reference>
+  <reference>
+    <citation>Regan J, Murphy A, Chiang M, McMahon BP, Coughlan T, Walshe M. Botulinum toxin for upper oesophageal sphincter dysfunction in neurological swallowing disorders. Cochrane Database Syst Rev. 2014 May 6;(5):CD009968. doi: 10.1002/14651858.CD009968.pub2. Review.</citation>
+    <PMID>24801118</PMID>
+  </reference>
+  <reference>
+    <citation>Samal P, Goyal V, Makharia GK, Das CJ, Gorthi SP, Y VV, Singh MB, Srivastava MVP. Transfer Dysphagia Due to Focal Dystonia. J Mov Disord. 2018 Sep;11(3):129-132. doi: 10.14802/jmd.17081. Epub 2018 Sep 30.</citation>
+    <PMID>30304925</PMID>
+  </reference>
+  <reference>
+    <citation>Moerman MB. Cricopharyngeal Botox injection: indications and technique. Curr Opin Otolaryngol Head Neck Surg. 2006 Dec;14(6):431-6. Review.</citation>
+    <PMID>17099352</PMID>
+  </reference>
+  <reference>
+    <citation>Ali GN, Wallace KL, Laundl TM, Hunt DR, deCarle DJ, Cook IJ. Predictors of outcome following cricopharyngeal disruption for pharyngeal dysphagia. Dysphagia. 1997 Summer;12(3):133-9.</citation>
+    <PMID>9190098</PMID>
+  </reference>
+  <reference>
+    <citation>Allen J, White CJ, Leonard R, Belafsky PC. Effect of cricopharyngeus muscle surgery on the pharynx. Laryngoscope. 2010 Aug;120(8):1498-503. doi: 10.1002/lary.21002.</citation>
+    <PMID>20665853</PMID>
+  </reference>
+  <reference>
+    <citation>Kuhn MA, Belafsky PC. Management of cricopharyngeus muscle dysfunction. Otolaryngol Clin North Am. 2013 Dec;46(6):1087-99. doi: 10.1016/j.otc.2013.08.006. Epub 2013 Oct 11.</citation>
+    <PMID>24262961</PMID>
+  </reference>
+  <reference>
+    <citation>Kelly EA, Koszewski IJ, Jaradeh SS, Merati AL, Blumin JH, Bock JM. Botulinum toxin injection for the treatment of upper esophageal sphincter dysfunction. Ann Otol Rhinol Laryngol. 2013 Feb;122(2):100-8.</citation>
+    <PMID>23534124</PMID>
+  </reference>
+  <reference>
+    <citation>Zaninotto G, Marchese Ragona R, Briani C, Costantini M, Rizzetto C, Portale G, Zanetti L, Masiero S, Costantino M, Nicoletti L, Polidoro A, Feltrin G, Angelini C, Ancona E, Guidolin D, Parenti AR. The role of botulinum toxin injection and upper esophageal sphincter myotomy in treating oropharyngeal dysphagia. J Gastrointest Surg. 2004 Dec;8(8):997-1006.</citation>
+    <PMID>15585387</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 5, 2021</study_first_posted>
+  <last_update_submitted>January 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>All India Institute of Medical Sciences, New Delhi</investigator_affiliation>
+    <investigator_full_name>Arunmozhimaran Elavarasi</investigator_full_name>
+    <investigator_title>Assistant Professor, Department of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>Botulinum toxin</keyword>
+  <keyword>Cricopharyngeal dysfunction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deglutition Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Botulinum Toxins</mesh_term>
+    <mesh_term>Botulinum Toxins, Type A</mesh_term>
+    <mesh_term>abobotulinumtoxinA</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

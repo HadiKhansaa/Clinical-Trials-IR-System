@@ -1,0 +1,209 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04731129</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018-192</org_study_id>
+    <nct_id>NCT04731129</nct_id>
+  </id_info>
+  <brief_title>Mini Invasive Endomicroscopy of the Pleura for Malignancies Diagnosis</brief_title>
+  <official_title>Mini Invasive Probe Based Confocal Laser Endomicroscopy of the Pleura for Malignancies Diagnosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Liege</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Liege</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recently, probe based confocal laser endomicroscopy showed to be able to distinguish&#xD;
+      malignant from benign pleura during medical thoracoscopy. However The clinical usefulness of&#xD;
+      this new tool remains to be determined.&#xD;
+&#xD;
+      The investigators believe that pCLE could be part of mini invasive pleural disease management&#xD;
+      and could be used during thoracentesis in order to increase the diagnostic yield of this&#xD;
+      procedure. The investigators are starting a prospective trial to recruit patients referred&#xD;
+      for medical thoracoscopy to the endoscopy unit.&#xD;
+&#xD;
+      First, the pCLE probe will be introduced through the Boutin's needle or the thoracentesis&#xD;
+      catheter, just before the thoracoscopy, in order to investigate the pleural pCLE features and&#xD;
+      to identify or exclude malignant infiltration. Second those features will be compared to the&#xD;
+      pCLE acquisition obtained during the medical thoracoscopy (the probe is introduced through&#xD;
+      the working chanel of the thoracoscope), under visual control. In order to compare the&#xD;
+      invasive and mini invasive acquisition, 10 criteria will be prospectively assessed.Third,&#xD;
+      These features will be compared to the histological samples performed during thoracoscopy.&#xD;
+      Finally, the interpretation of different investigators will be compared.&#xD;
+&#xD;
+      The 10 criteria are presented below:&#xD;
+&#xD;
+        1. Abnormal tissular architecture&#xD;
+&#xD;
+           No: Correct identification of the previously described normal pleura characteristics&#xD;
+           Yes: identification of cellular/tissular structures which are not known to correspond to&#xD;
+           normal pleura (cellular clusters or dark clumps, glands, cells cordons, dysmorphic&#xD;
+           cells, papillar distribution….)&#xD;
+&#xD;
+        2. Cellular homogeneity is size, shape and fluorescence, as subjectively assessed by the&#xD;
+           investigator&#xD;
+&#xD;
+           yes no&#xD;
+&#xD;
+        3. Mean cellular size:&#xD;
+&#xD;
+           Small: &lt; 10µm Moderate: 10 - 20µm Large: &gt; 20µm&#xD;
+&#xD;
+        4. Cellular density (with reference to the Chia seed sign)&#xD;
+&#xD;
+           Low (lower than the Chia seed sign) Moderate High&#xD;
+&#xD;
+        5. Dysplastic vessels:&#xD;
+&#xD;
+           Yes: (vascular leaks, tortuous or giant vessels) No: no dysplasia&#xD;
+&#xD;
+        6. Vascular density (on a full optical area)&#xD;
+&#xD;
+           Low: 0 -2 vessels Moderate: 3 - 4 vessels High: &gt; 4 vessels&#xD;
+&#xD;
+        7. Organized or anarchic connective fibers&#xD;
+&#xD;
+           Anarchic: coarse fibers, irregular in shape, without well-defined architecture Organized&#xD;
+           : regular in shape and direction, well defined architecture.&#xD;
+&#xD;
+        8. Chia seed sign on a full optical areal&#xD;
+&#xD;
+      yes No&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 15, 2020</start_date>
+  <completion_date type="Anticipated">January 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity, specificity, positive predictive value and negative predictive value of mini invasive pleural pCLE assessment to identify malignant pleural infiltration.</measure>
+    <time_frame>For the unblinded investigator: assessment of the videos is performed during the acquisition. For the blinded investigator, the assessment is performed within 30 days from the acquisition.</time_frame>
+    <description>Before medical thoracoscopy, the pCLE probe will be introduced through the Boutin's needle or the thoracentesis catheter. The pleural pCLE acquisition will be assessed by two experienced and unblinded clinicians (aware of the medical history of the patient) during the procedure. A second acquisition and assessment of the criteria is performed thereafter during the medical thoracoscopy. 10 preselected criteria are used to assess the pCLE acquisition. They are the same than previously published (Bonhomme et al respirology 2020). A third blinded (not aware of the medical history of the patient) investigator will revise the pCLE acquisition (not the same day) to perform the same assessment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reproducibility of the pCLE acquisition and assessment of the 10 preselected criteria between the mini invasive acquisition (during thoracentesis) and the invasive acquisition (during thoracoscopy)</measure>
+    <time_frame>Within 30 days from the acquisition of the pCLE videos.</time_frame>
+    <description>The pCLE features assessed during the mini invasive procedure will be compared to the assessment performed during the thoracoscopy. This assessment will be performed by the blinded investigator. The investigator will not know wether the pCLE acquisition is from mini invasive or invasive procedure for his assessment. The 10 criteria assessed during mini invasive or invasive pleural assessment will be compared to determine their reproducibility. The results will be presented for each criteria as the proportion of concordance between mini and invasive assessment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>inter-observator reproducibility of the pCLE interpretation and assessment of the 10 criteria.</measure>
+    <time_frame>Within 30 days from the acquisition of the pCLE videos</time_frame>
+    <description>The assessment of the 10 criteria will be compared between the different investigators in order to determine the reproducibility of the investigation. The results will be presented for each criteria as the proportion of concordance between mini and invasive assessment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of the mini invasive pleural pCLE assessment</measure>
+    <time_frame>(Serious) adverse event will be recorded during the mini invasive and invasive assessment and until one hour post procedure.</time_frame>
+    <description>Every (Serious)adverse event will be reported during the intervention or during post intervention surveillance (1 hour post intervention).</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Pleural Diseases</condition>
+  <condition>Pleural Neoplasms</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Probe based confocal laser endomicroscopy of the pleura</intervention_name>
+    <description>Every patient referred for medical thoracoscopy will be screened. The pCLE of the pleura will be performed 2 times. First, just before the thoracoscopy, through the Boutin's needle or the thoracentesis catheter and second through the working chanel of the pleuroscope. This last acquisition allows visual control to target the pleural endomicroscopy assessment. These two acquisitions will be compared between each other and with the histological samples of the pleuroscopy.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Every patient referred to the endoscopy unit for medical thoracoscopy&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Every patient referred to the endoscopy unit for medical thoracoscopy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Known allergy to the fluorescein&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Duysinx Bernard, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Liege</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bonhomme Olivier, M.D</last_name>
+    <phone>043667881</phone>
+    <phone_ext>0032</phone_ext>
+    <email>obonhomme@chuliege.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Duysinx Bernard, PhD</last_name>
+    <phone>043667881</phone>
+    <phone_ext>0032</phone_ext>
+    <email>Bduysinx@chuliege.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Olivier Bonhomme</name>
+      <address>
+        <city>Liege</city>
+        <zip>4020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bonhomme Olivier, MD</last_name>
+      <phone>003243667881</phone>
+      <email>Obonhomme@chuliege.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 29, 2021</study_first_posted>
+  <last_update_submitted>January 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Liege</investigator_affiliation>
+    <investigator_full_name>Olivier Bonhomme</investigator_full_name>
+    <investigator_title>Head of clinic in pulmonary medicine</investigator_title>
+  </responsible_party>
+  <keyword>Probe based confocal laser endomicroscopy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pleural Neoplasms</mesh_term>
+    <mesh_term>Pleural Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

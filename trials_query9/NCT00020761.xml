@@ -1,0 +1,288 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00020761</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000068711</org_study_id>
+    <secondary_id>UCLA-0001048</secondary_id>
+    <secondary_id>NCI-G01-1957</secondary_id>
+    <nct_id>NCT00020761</nct_id>
+  </id_info>
+  <brief_title>Irinotecan and Paclitaxel in Treating Patients With Metastatic or Recurrent Cancer of the Esophagus or Stomach</brief_title>
+  <official_title>A Phase II Study Of Irinotecan (Camptosar) And Paclitaxel (Taxol) In Patients With Adenocarcinoma Of The Upper Gastrointestinal Tract</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jonsson Comprehensive Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Jonsson Comprehensive Cancer Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining more than one drug may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of combining irinotecan and paclitaxel in&#xD;
+      treating patients who have metastatic or recurrent cancer of the esophagus or stomach.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the antitumor activity of irinotecan and paclitaxel in patients with&#xD;
+           metastatic or recurrent adenocarcinoma of the esophagus or stomach.&#xD;
+&#xD;
+        -  Determine the toxic effects of this regimen in these patients.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter study. Patients are stratified according to diagnosis&#xD;
+      (adenocarcinoma of the esophagus, gastroesophageal junction, or gastric cardia vs&#xD;
+      adenocarcinoma of the rest of the stomach).&#xD;
+&#xD;
+      Patients receive irinotecan IV over 90 minutes followed by paclitaxel IV over 3 hours on day&#xD;
+      1. Treatment repeats every 3 weeks in the absence of disease progression or unacceptable&#xD;
+      toxicity.&#xD;
+&#xD;
+      Patients are followed at 30 days and then every 3 months thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 26-54 patients (13-27 per stratum) will be accrued for this&#xD;
+      study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2000</start_date>
+  <completion_date type="Actual">August 2005</completion_date>
+  <primary_completion_date type="Actual">December 2002</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To determine the antitumor activity of irinotecan and paclitaxel in patients with unresectable adenocarcinoma of the esophagus and gastric cardia.</measure>
+    <time_frame>5 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the toxicities of irinotecan and paclitaxel in this patient population.</measure>
+    <time_frame>5 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">51</enrollment>
+  <condition>Esophageal Cancer</condition>
+  <condition>Gastric Cancer</condition>
+  <arm_group>
+    <arm_group_label>Gastro Esophogeal cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with adenocarcinoma of the esophagus, gastroesophageal (GE) junction and gastric cardia (GE cohort)&#xD;
+The course length is 3 weeks. Treatment will continue until one or more of criteria listed in the protocol are met.&#xD;
+Irinotecan 225 mg/m2 will be infused over 90 minutes every three weeks.&#xD;
+Paclitaxel 100 mg/m2 will be infused over three hours following irinotecan infusion every three weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Distal Stomach cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with adenocarcinoma of the rest of the stomach (Distal Stomach cohort)&#xD;
+The course length is 3 weeks. Treatment will continue until one or more of criteria listed in the protocol are met.&#xD;
+Irinotecan 225 mg/m2 will be infused over 90 minutes every three weeks.&#xD;
+Paclitaxel 100 mg/m2 will be infused over three hours following irinotecan infusion every three weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>irinotecan hydrochloride</intervention_name>
+    <description>The course length is 3 weeks. Treatment will continue until one or more of criteria listed in the protocol are met.&#xD;
+Irinotecan 225 mg/m2 will be infused over 90 minutes every three weeks.</description>
+    <arm_group_label>Distal Stomach cohort</arm_group_label>
+    <arm_group_label>Gastro Esophogeal cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>paclitaxel</intervention_name>
+    <description>The course length is 3 weeks. Treatment will continue until one or more of criteria listed in the protocol are met.&#xD;
+Paclitaxel 100 mg/m2 will be infused over three hours following irinotecan infusion every three weeks.</description>
+    <arm_group_label>Distal Stomach cohort</arm_group_label>
+    <arm_group_label>Gastro Esophogeal cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Patients with histologic proof of adenocarcinoma of the esophagus (including GE&#xD;
+             junction) or adenocarcinoma of the stomach will be eligible.&#xD;
+&#xD;
+          -  Location of the tumor for assignment to study will be determined by prior endoscopy or&#xD;
+             barium contrast study.&#xD;
+&#xD;
+          -  Patients must have either metastatic or recurrent cancer.&#xD;
+&#xD;
+          -  Patients must have bidimensionally measurable disease, as defined in Section 8.4.1.1,&#xD;
+             page 16. Mediastinal or hilar lymph nodes assessed by CT or MRI scans must be at least&#xD;
+             2 cm in the largest dimension to be considered measurable.&#xD;
+&#xD;
+          -  Prior limited radiation therapy is permitted. Prior radiotherapy must not have&#xD;
+             included major bone marrow containing areas (pelvis, lumbar spine), or contained the&#xD;
+             single evaluable lesion in a radiation field. A recovery period of at least 4 weeks&#xD;
+             after completion of radiotherapy is required prior to study treatment.&#xD;
+&#xD;
+          -  Patients must have an anticipated life expectancy of at least 12 weeks.&#xD;
+&#xD;
+          -  Patients must have a performance status of 0 or 1 on the ECOG performance scale.&#xD;
+&#xD;
+          -  Patients must be &gt; 18 years old.&#xD;
+&#xD;
+          -  Patients must give written informed consent prior to enrollment.&#xD;
+&#xD;
+          -  Patients should have adequate organ function defined as follows: Absolute granulocytes&#xD;
+             &gt; 1,500/mm3 and platelets &gt; 100,000/mm3; serum bilirubin &lt; 1.5 mg/dL and SGOT &lt; 3X&#xD;
+             upper limit of institutional norm; and serum creatinine &lt; 1.5 mg/dL.&#xD;
+&#xD;
+          -  Patients must have recovered from recent surgery. One week must have elapsed from the&#xD;
+             time of a minor surgery and 3 weeks from major surgery.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Patients who have received more than one prior chemotherapy regimen or immunotherapy&#xD;
+             for metastatic disease. Prior 5-FU alone as an adjuvant therapy or radiosensitizer is&#xD;
+             not counted. Patients must have an interval of 4 weeks from prior chemotherapy or&#xD;
+             immunotherapy with full recovery.&#xD;
+&#xD;
+          -  Patients receiving concurrent chemotherapy, immunotherapy, or radiotherapy.&#xD;
+&#xD;
+          -  Patients who are potentially curable with a chemotherapy, radiotherapy, surgery, or&#xD;
+             any combination of the above.&#xD;
+&#xD;
+          -  Patients with known brain metastases.&#xD;
+&#xD;
+          -  Patients with a history of seizures or are receiving phenytoin, phenobarbital, or&#xD;
+             other antiepileptic prophylaxis.&#xD;
+&#xD;
+          -  Pregnant or lactating women. All women of childbearing potential must have a negative&#xD;
+             pregnancy test prior to entry into the study. All patients of procreative potential&#xD;
+             must be advised of the importance of avoiding pregnancy and using appropriate methods&#xD;
+             of contraception while participating in this investigational trial.&#xD;
+&#xD;
+          -  Patients with serious intercurrent infections, or any other concurrent disease which,&#xD;
+             in the investigator's judgment, would make the patient inappropriate for entry into&#xD;
+             this study.&#xD;
+&#xD;
+          -  Patients with psychiatric disorders rendering them incapable of complying with the&#xD;
+             requirements of the protocol.&#xD;
+&#xD;
+          -  Patients with osseous metastasis as only site of disease.&#xD;
+&#xD;
+          -  Patients with any concurrent active malignancy other than non-melanoma skin cancers or&#xD;
+             carcinoma-in-situ of the cervix. Patients with previous malignancies but without&#xD;
+             evidence of disease for &gt; 5 years will be allowed to enter the trial.&#xD;
+&#xD;
+          -  Patients with known Gilbert's syndrome.&#xD;
+&#xD;
+          -  Patients who have a significant clinical neuropathy of greater than grade 2.&#xD;
+&#xD;
+          -  Patients with unstable angina, a history of myocardial infarction within the previous&#xD;
+             6 months, or current clinical evidence of congestive heart failure. Patients taking&#xD;
+             medication for congestive heart failure and showing no clinical signs or symptoms are&#xD;
+             eligible.&#xD;
+&#xD;
+          -  Patients who have previously received a taxane or campthothecin&#xD;
+&#xD;
+          -  Patients who have received any investigational therapy within the previous 4 weeks.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joel R. Hecht, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Jonsson Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>USC/Norris Comprehensive Cancer Center and Hospital</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033-0804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jonsson Comprehensive Cancer Center, UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-1781</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Robert H. Lurie Comprehensive Cancer Center, Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611-3013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OHSU Cancer Institute</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97201-3098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2012</verification_date>
+  <study_first_submitted>July 11, 2001</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>July 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 3, 2020</last_update_posted>
+  <responsible_party>
+    <name_title>Randolph Hecht, MD / Principal Investigator</name_title>
+    <organization>UCLA</organization>
+  </responsible_party>
+  <keyword>stage IV gastric cancer</keyword>
+  <keyword>recurrent gastric cancer</keyword>
+  <keyword>stage IV esophageal cancer</keyword>
+  <keyword>recurrent esophageal cancer</keyword>
+  <keyword>adenocarcinoma of the stomach</keyword>
+  <keyword>adenocarcinoma of the esophagus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stomach Neoplasms</mesh_term>
+    <mesh_term>Esophageal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Irinotecan</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

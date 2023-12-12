@@ -1,0 +1,447 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03762122</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SAKK 19/18</org_study_id>
+    <nct_id>NCT03762122</nct_id>
+  </id_info>
+  <brief_title>Rogaratinib in Patients With Advanced Pretreated Squamous-cell Non-small Cell Lung Cancer (SQCLC)</brief_title>
+  <official_title>Fibroblast Growth Factor Receptor (FGFR) Inhibitor Rogaratinib in Patients With Advanced Pretreated Squamous-cell Non-small Cell Lung Cancer (SQCLC) Overexpressing FGFR mRNA. A Multicenter, Single Arm Phase II Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Swiss Group for Clinical Cancer Research</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Swiss Group for Clinical Cancer Research</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A recent investigation showed that a substantial proportion of patients with SQCLC (46%)&#xD;
+      exhibit tumor overexpression of fibroblast growth factor receptor (FGFR) messenger&#xD;
+      ribonucleic acid (mRNA) and are potentially sensitive to FGFR-targeting treatment.&#xD;
+      Rogaratinib is a novel pan-FGFR inhibitor which showed strong anti-tumor efficacy in&#xD;
+      pre-clinical models as a single agent in FGFR pathway-addicted tumor models. SQCLC patients&#xD;
+      overexpressing tumor FGFR mRNA, who will be included into this clinical trial, do not have&#xD;
+      currently any alternative systemic treatment with a proven and clinically reasonable benefit.&#xD;
+&#xD;
+      The objective of the trial is to determine clinical activity and safety of rogaratinib in&#xD;
+      patients with advanced SQCLC overexpressing tumor FGFR1-3 mRNA.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Squamous-cell lung cancer (SQCLC) is a distinct histologic subtype of non-small cell lung&#xD;
+      cancer (NSCLC) that is challenging to treat because of specific clinicopathologic&#xD;
+      characteristics (older age, advanced disease at diagnosis, central location of tumors) and&#xD;
+      the absence of molecular alterations, which can be successfully treated with targeted&#xD;
+      therapy. A recent investigation showed that a substantial proportion of patients with SQCLC&#xD;
+      (46%) exhibit tumor overexpression of fibroblast growth factor receptor (FGFR) messenger&#xD;
+      ribonucleic acid (mRNA) and are potentially sensitive to FGFR-targeting treatment.&#xD;
+&#xD;
+      Rogaratinib is a novel pan-FGFR inhibitor which showed strong anti-tumor efficacy in&#xD;
+      pre-clinical models as a single agent in FGFR pathway-addicted tumor models. The clinical&#xD;
+      experience with rogaratinib comes from two ongoing phase I trials enrolling patients with&#xD;
+      refractory, locally advanced or metastatic solid tumors who were selected based on tumoral&#xD;
+      overexpression of FGFR mRNA. Such selection identifies patients with high FGFR tumor target&#xD;
+      levels due to DNA aberrations in FGFR-encoding genes and due to non-genetic and epigenetic&#xD;
+      regulation of FGFR expression (incl. promoter activation). To date, rogaratinib has shown to&#xD;
+      be well tolerated (no dose-limiting toxicity) with promising clinical activity, in particular&#xD;
+      in bladder cancer.&#xD;
+&#xD;
+      Despite the constant improvement in the treatment of patients with advanced lung cancer,&#xD;
+      there is still a high-unmet medical need to develop new and highly active anticancer drugs&#xD;
+      for patients who have failed standard systemic treatment, and have an otherwise very&#xD;
+      unfavorable prognosis. SQCLC patients overexpressing tumor FGFR mRNA, who will be included&#xD;
+      into this clinical trial, do not have currently any alternative systemic treatment with a&#xD;
+      proven and clinically reasonable benefit.&#xD;
+&#xD;
+      The objective of the trial is to determine clinical activity and safety of rogaratinib in&#xD;
+      patients with advanced SQCLC overexpressing tumor FGFR1-3 mRNA.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 25, 2019</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a single-arm, multicenter phase II clinical trial. The trial uses a single-stage design based on a time-to-event rate to a specific time-point using Kaplan-Meier estimators.&#xD;
+Rogaratinib is given at a dose of 800 mg twice daily in continuous 28-days cycles, without treatment breaks (except for toxicity management). Trial treatment is continued until evidence of tumor progression, unacceptable toxicity, consent withdrawal or withdrawal by the investigator.&#xD;
+In order to include 24 patients into the trial, it is expected that 52 patients with advanced SQCLC have to be screened for tumor FGFR mRNA overexpression. Taking into account patients who are FGFR mRNA positive but cannot be enrolled (attrition rate of 20%), it is estimated that 68 patients will have to be screened in total.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS) at 6 months</measure>
+    <time_frame>at 6 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response (OR)</measure>
+    <time_frame>At the end of trial treatment, expected at the latest after 4 years.</time_frame>
+    <description>OR is defined as complete response (CR) or partial response (PR) achieved by the patient during trial treatment. Tumor response will be evaluated according to RECIST v1.1 criteria.&#xD;
+Patients without any tumor assessment during trial treatment will be regarded as having a non-evaluable response (NE) and shall be considered as failures for this endpoint</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>From registration until disease progression according to the RECIST v1.1 criteria or death due to any cause whichever occurs first, up to 4 years.</time_frame>
+    <description>PFS is defined as the time from registration until disease progression according to the RECIST v1.1 criteria or death due to any cause, whichever occurs first.&#xD;
+Patients not experiencing an event at the time of the analysis, as well as patients starting a subsequent anticancer treatment in the absence of an event, will be censored at the date of their last available tumor assessment showing no evidence of progression before starting a subsequent anticancer treatment, if any.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>From registration until death due to any cause, up to 4 years.</time_frame>
+    <description>OS is defined as the time from registration until death due to any cause. Patients not experiencing an event will be censored at the last date they were known to be alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events (AEs)</measure>
+    <time_frame>At the end of trial treatment, expected at the latest after 4 years.</time_frame>
+    <description>All AEs will be assessed according to NCI CTCAE v5.0</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">15</enrollment>
+  <condition>Squamous-cell Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Rogaratinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rogaratinib is given at a dose of 600 mg twice daily in continuous 28-days cycles, without treatment breaks (except for toxicity management). Trial treatment is continued until evidence of tumor progression, unacceptable toxicity, consent withdrawal or withdrawal by the investigator.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rogaratinib</intervention_name>
+    <description>Rogaratinib (BAY 1163877; Bayer) is an oral pan-kinase inhibitor, which selectively inhibits FGFR1, FGFR2, FGFR3, and FGFR4.</description>
+    <arm_group_label>Rogaratinib</arm_group_label>
+    <other_name>BAY 1163877</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent according to Swiss law and ICH-GCP regulations before&#xD;
+             registration and prior to any trial specific procedures including screening&#xD;
+             procedures. Informed consent for trial entry must be offered only after positive&#xD;
+             results of individual FGFR testing has been received.&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed diagnosis of locally advanced or metastatic&#xD;
+             NSCLC (from inoperable stage IIIB to stage IV according to the 8th edition of the&#xD;
+             American Joint Commission on Cancer TNM staging system) with squamous-cell or&#xD;
+             predominantly squamous-cell histology (referred to SQCLC).&#xD;
+&#xD;
+          -  Archival or fresh tumor biopsy specimen for FGFR (subtypes 1-3) mRNA expression&#xD;
+             testing available. Acceptable samples include core needle biopsies for deep tumor&#xD;
+             tissue (minimum three cores) or excisional, incisional, punch, or forceps biopsies for&#xD;
+             cutaneous, subcutaneous, or mucosal lesions.&#xD;
+&#xD;
+          -  High FGFR1-3 mRNA expression levels based on central analysis of archival or fresh&#xD;
+             tumor biopsy specimen (high expression defined as ≥ 1 FGFR isoform with RNAscope score&#xD;
+             of 3 or 4).&#xD;
+&#xD;
+          -  Measurable or evaluable disease (according to RECIST v1.1). Previously irradiated&#xD;
+             lesions should not be counted as target lesions unless there has been demonstrated&#xD;
+             progression in the lesion since radiotherapy before enrolment and no other lesions are&#xD;
+             available for selection as target lesions.&#xD;
+&#xD;
+          -  Patient failed standard systemic therapy for locally advanced or metastatic disease&#xD;
+             (1-3 prior chemotherapy regimens and at least 1 immune checkpoint inhibitor&#xD;
+             (combination allowed)).&#xD;
+&#xD;
+          -  Patients with known brain metastases must have undergone definitive treatment (surgery&#xD;
+             and/or radiation) at least 2 weeks prior to registration and must be clinically stable&#xD;
+             (no requirement of steroids and no worsening neurological deficits for 2 weeks prior&#xD;
+             registration).&#xD;
+&#xD;
+          -  Patients with a prior malignancy and treated with curative intention are eligible if&#xD;
+             treatment of that malignancy was completed at least 2 years before registration and&#xD;
+             the patient has no evidence of disease at registration. Less than 2 years is&#xD;
+             acceptable for malignancies with low risk of recurrence and/or no late recurrence.&#xD;
+&#xD;
+          -  Known human immunodeficiency virus (HIV)-infected patients who are healthy and have a&#xD;
+             low risk of AIDS-related outcomes are eligible, if,&#xD;
+&#xD;
+               -  CD4+ T-cell counts are ≥ 350 cells/ųL&#xD;
+&#xD;
+               -  No history of AIDS-defining opportunistic infection within past 12 months&#xD;
+&#xD;
+               -  Patient agrees to concomitant antiretroviral therapy (ART) if not currently on&#xD;
+                  ART, or is on ART for ˃ 4 weeks and has a HIV viral load ˂ 400 copies/mL.&#xD;
+&#xD;
+          -  Age ≥ 18 years.&#xD;
+&#xD;
+          -  WHO performance status 0-2.&#xD;
+&#xD;
+          -  Adequate bone marrow function: absolute neutrophil count (ANC) ≥ 1.5 x 109/L1,&#xD;
+             platelet count ≥ 100 x 109/L2, hemoglobin ≥ 90 g/L2&#xD;
+&#xD;
+               1. without granulocyte colony-stimulating factor support within 2 weeks before the&#xD;
+                  first administration of trial treatment&#xD;
+&#xD;
+               2. without transfusion or erythropoietin within 2 weeks before the first&#xD;
+                  administration of trial treatment&#xD;
+&#xD;
+          -  Adequate hepatic function: total bilirubin ≤ 1.5 x ULN (≤ 3 x ULN for patients with&#xD;
+             known Gilbert syndrome), ALT and AST ≤ 2.5 x ULN (≤ 5 x ULN for patients with liver&#xD;
+             involvement of their cancer).&#xD;
+&#xD;
+          -  Adequate renal function: estimated glomerular filtration rate (eGFR) &gt; 30&#xD;
+             mL/min/1.73m2 according to the CKD-EPI (Chronic Kidney Disease Epidemiology&#xD;
+             Collaboration) abbreviated formula.&#xD;
+&#xD;
+          -  Adequate pancreatic function: lipase ≤ 2 x ULN.&#xD;
+&#xD;
+          -  Women with childbearing potential are using highly effective contraception, are not&#xD;
+             pregnant or lactating and agree not to become pregnant during trial treatment and&#xD;
+             during 5 months thereafter. A negative urine or serum pregnancy test before&#xD;
+             registration is required for all women with child-bearing potential.&#xD;
+&#xD;
+          -  Men agree not to donate sperm or father a child. Men without a vasectomy and with a&#xD;
+             partner of childbearing potential must agree to use condoms during trial treatment and&#xD;
+             during 5 months thereafter.&#xD;
+&#xD;
+          -  Patient is able and willing to swallow the trial IMP as whole tablet.&#xD;
+&#xD;
+          -  Patient consents to the mandatory translational research projects with biopsied tumor&#xD;
+             material.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Symptomatic untreated brain metastases or leptomeningeal disease.&#xD;
+&#xD;
+          -  Previous treatment with anti-FGFR directed therapies (e.g. receptor tyrosine kinase&#xD;
+             inhibitors including rogaratinib or FGFR-specific antibodies).&#xD;
+&#xD;
+          -  Chemotherapy, or radiotherapy, or immunotherapy, or small molecule drugs within 3&#xD;
+             weeks (1 week for palliative radiotherapy) prior to registration.&#xD;
+&#xD;
+          -  Other investigational medicinal products within 4 weeks prior registration.&#xD;
+&#xD;
+          -  Major surgery within 2 weeks prior registration.&#xD;
+&#xD;
+          -  Concomitant use of other anti-cancer drugs or radiotherapy except for local pain&#xD;
+             control.&#xD;
+&#xD;
+          -  Concomitant therapies that are known to increase serum phosphate levels (i.e.&#xD;
+             antacids, laxatives oral/rectal, oral phosphate binders, potassium phosphate) and that&#xD;
+             cannot be discontinued or switched to a different medication before trial entry.&#xD;
+&#xD;
+          -  Use of strong inhibitors of CYP3A4 and strong inducers of CYP3A4 within 2 weeks prior&#xD;
+             registration or during trial treatment.&#xD;
+&#xD;
+          -  History or current condition of an uncontrolled cardiovascular disease including any&#xD;
+             of the following conditions:&#xD;
+&#xD;
+               -  Congestive heart failure (CHF) NYHA Class 2 or greater, unstable angina (symptoms&#xD;
+                  of angina at rest).&#xD;
+&#xD;
+               -  New-onset angina (within last 3 months prior registration).&#xD;
+&#xD;
+               -  Myocardial infarction (MI) within past 6 months prior registration.&#xD;
+&#xD;
+               -  Unstable cardiac arrhythmias requiring anti-arrhythmic therapy. Patients with&#xD;
+                  arrhythmia not requiring therapy or under control with anti-arrhythmic therapy&#xD;
+                  are eligible.&#xD;
+&#xD;
+               -  Patients with known coronary artery disease, congestive heart failure not meeting&#xD;
+                  the above criteria, must be on a stable medical regimen that is optimized in the&#xD;
+                  opinion of the treating physician, in consultation with a cardiologist if&#xD;
+                  appropriate.&#xD;
+&#xD;
+               -  Symptomatic arterial hypotension.&#xD;
+&#xD;
+          -  Current diagnosis of any retinal disorders including retinal detachment, retinal&#xD;
+             pigment epithelial detachment (RPED), serous retinopathy or retinal vein occlusion.&#xD;
+&#xD;
+          -  Current evidence of endocrine alteration of calcium phosphate homeostasis (e.g.&#xD;
+             parathyroid disorder, history of parathyroidectomy, tumoral calcinosis, paraneoplastic&#xD;
+             hypercalcemia).&#xD;
+&#xD;
+          -  Active chronic Hepatitis C or Hepatitis B Virus infection. Uncontrolled active&#xD;
+             systemic infection requiring intravenous (i.v.) antimicrobial treatment.&#xD;
+&#xD;
+          -  Active tuberculosis.&#xD;
+&#xD;
+          -  Seizure disorder requiring medication.&#xD;
+&#xD;
+          -  Serious, non-healing wound, ulcer or bone fracture.&#xD;
+&#xD;
+          -  Arterial or venous thrombotic events or embolic events such as cerebrovascular&#xD;
+             accident (including transient ischemic attacks), deep vein thrombosis or pulmonary&#xD;
+             embolism within 6 months prior registration.&#xD;
+&#xD;
+          -  History of organ allograft.&#xD;
+&#xD;
+          -  Any malabsorption condition.&#xD;
+&#xD;
+          -  Previous drug- or procedure-related AE ≥G2 (according to CTCAE v5.0) at registration&#xD;
+             (exception: chronic kidney disease G2, or persistent alopecia of any grade, and/or&#xD;
+             anemia [hemoglobin ≥ 90 g/L] can be included).&#xD;
+&#xD;
+          -  Any concomitant drugs contraindicated for use with the trial drug according to the IB.&#xD;
+&#xD;
+          -  Known hypersensitivity to the trial drug, or to any component of the trial drug.&#xD;
+&#xD;
+          -  Any other serious underlying medical, psychiatric, psychological, familial or&#xD;
+             geographical condition, which in the judgment of the investigator may interfere with&#xD;
+             the planned staging, treatment and follow-up, affect patient compliance or place the&#xD;
+             patient at high risk from treatment-related complication.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alfredo Addeo, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University Hospital, Geneva</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Kantonsspital Baden</name>
+      <address>
+        <city>Baden</city>
+        <zip>5404</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsspital Basel</name>
+      <address>
+        <city>Basel</city>
+        <zip>4031</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IOSI Ospedale Regionale di Bellinzona e Valli</name>
+      <address>
+        <city>Bellinzona</city>
+        <zip>6500</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Inselspital Bern</name>
+      <address>
+        <city>Bern</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Baselland Bruderholz</name>
+      <address>
+        <city>Bruderholz</city>
+        <zip>4101</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Graubuenden</name>
+      <address>
+        <city>Chur</city>
+        <zip>CH-7000</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Fribourgeois HFR</name>
+      <address>
+        <city>Fribourg</city>
+        <zip>1708</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux Universitaires de Genève</name>
+      <address>
+        <city>Geneva</city>
+        <zip>1211</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Baselland</name>
+      <address>
+        <city>Liestal</city>
+        <zip>4410</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital St. Gallen</name>
+      <address>
+        <city>St. Gallen</city>
+        <zip>9007</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Winterthur</name>
+      <address>
+        <city>Winterthur</city>
+        <zip>CH-8401</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>November 30, 2018</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 3, 2018</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Fibroblast growth factor receptor (FGFR)</keyword>
+  <keyword>Rogaratinib</keyword>
+  <keyword>Advanced pretreated squamous-cell non-small cell lung cancer</keyword>
+  <keyword>SQCLC</keyword>
+  <keyword>FGFR mRNA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

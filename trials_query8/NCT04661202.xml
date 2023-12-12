@@ -1,0 +1,236 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04661202</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B-BR-109-090</org_study_id>
+    <nct_id>NCT04661202</nct_id>
+  </id_info>
+  <brief_title>Effects of Exercise Training on Pelvic Floor Symptoms and Function in Adults With Constipation</brief_title>
+  <official_title>Effects of Exercise Training on Pelvic Floor Symptoms and Function in Adults With Constipation: a Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cheng Kung University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cheng Kung University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Constipation is a common problem in the general population. Defecation disorders caused by&#xD;
+      abnormal contraction or insufficient relaxation of the pelvic floor muscles during defecation&#xD;
+      may be one of the most possible causes of constipation. Although constipation is not&#xD;
+      life-threatening, it may have a significant impact on the quality of life. Aerobic exercise&#xD;
+      has been shown to improve symptoms of constipation in adults with constipation. However,&#xD;
+      there is no research investigating the effects of a combined resistance and aerobic training&#xD;
+      on pelvic floor symptoms and pelvic floor muscle function in this population and only few&#xD;
+      studies have evaluated the pelvic floor muscle function using objective assessment tools&#xD;
+      among this population. The aim of the study is to investigate the effect of a combined&#xD;
+      resistance and aerobic exercise training program on constipation symptoms and pelvic floor&#xD;
+      muscle function in adults with constipation. The investigator will conduct a randomized&#xD;
+      controlled trial to evaluate the effectiveness of exercise training for adults with&#xD;
+      constipation. This study hypothesizes that (1) a combined resistance and aerobic exercise&#xD;
+      training can improve pelvic floor symptoms and function in adults with constipation, and (2)&#xD;
+      the improvement in combined resistance and aerobic exercise training group will be higher&#xD;
+      than that in control group.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2021</start_date>
+  <completion_date type="Anticipated">August 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Severity of constipation symptoms</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The Patient Assessment of Constipation Symptoms questionnaire will be used to assess the severity of constipation symptoms. This questionnaire includes a total of 12 items in 3 subscales: abdominal (4 items), rectal (3 items), and stool (5 items). Participant will be asked to rank the symptoms on a five-point Likert scale, ranging from 0 (absent) to 4 (very severe). The total score ranges from 0 to 48 which will be divided by the actual number of items answered. The higher score indicates the greater severity of constipation symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Constipation symptom</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>A Seven Day Bowel Diary includes items regarding the frequency of bowel movement, stool consistency, defecation time, excessive straining defecation, using of digital maneuver, and changes in food and liquid consumption.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The pelvic floor muscle coordination measured by the Pelvic Floor Muscle Coordination Scale</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The Pelvic Floor Muscle Coordination Scale including 5 items, respiration, pelvic floor muscle contraction, extrapelvic muscle activation, pelvic floor muscle expansion, and cough will be used to evaluate pelvic floor muscle coordination. All will be evaluated by observation. The total score ranges from 0 to 10 and a higher score indicates the poorer pelvic floor muscle coordination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The pelvic floor muscle strength will be measured by digital rectal examination.</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Resting tone, maximal voluntary contraction of external anal sphincter and puborectalis, voluntary relaxation and straining will be measured and scored using the International Continence Society scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The pelvic floor muscle function will be measured using anorectal manometry.</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Participants will be asked to relax for 10 seconds, squeeze 3 times by holding 5 seconds with 5 seconds of rest in between, and squeeze by holding the contraction for 30 seconds. Anorectal pressure will be recorded in unit of centimeter of water.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity levels</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The International Physical Activity Questionnaire will be used to measure participants' physical activity levels. This questionnaire includes seven questions on different physical activity levels of duration and frequency and then calculated in metabolic equivalent-minutes/week. A higher score indicates a greater physical activity levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Constipation quality of life</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Patient Assessment of Constipation Quality of Life Questionnaire will be used to evaluate the quality of life in constipation patients. This questionnaire includes a total of 28 items in 4 subscales: worries and concerns (11 items), physical discomfort (4 items), psychosocial discomfort (8 items), and satisfaction (5 items). Participants will be asked to rank the symptoms on a five-point Likert scale, ranging from 0 to 4. A higher score indicates greater impact on quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adherence</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Participants will be asked to record the number of completed home exercise in the exercise diary. It will be calculated as the adherence rate of home program.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Constipation</condition>
+  <arm_group>
+    <arm_group_label>Exercise training group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Aerobic exercise&#xD;
+Resistance exercise (including pelvic floor muscle training with biofeedback)&#xD;
+Stretching exercise&#xD;
+Home exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>．Usual care&#xD;
+After baseline assessment, the participants will receive health and lifestyle advices related to bowel symptoms, which include maintaining moderate physical activity, healthy diet, and ideal defecation posture, and establishing a personal bowel schedule and other behavioral changes that promote regular bowel movements.&#xD;
+Upon request, the participants will be provided with the same intervention program as the exercise training group after 8 weeks participation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>combined resistance and aerobic exercise training</intervention_name>
+    <description>A supervised moderate-intensity exercise training session, which will include aerobic exercise with a stationary exercise bike, resistance exercise using dumbbell, theraband band, or gym ball for each major muscle groups and core muscles (including pelvic floor muscle (PFM) training with biofeedback), and stretching exercise, twice a week for 8 weeks. All exercises will be individualized based on participant's heart rate reserve and Rate of Perceived Exertion (RPE). An oximeter and a sphygmomanometer will be used to monitor the heart rate, oxygen saturation and blood pressure of the participants to ensure safety.&#xD;
+A home exercise program will include a walking exercise for 30 minutes per day and a PFM training with the aim of completing 1~3 sets of 8~12 submaximal contraction of PFM by holding 6~10 seconds with 12~20 seconds of rest between each contraction, and it will end with 3 maximal PFM contractions by holding 1~3 seconds 3~6 seconds of rest between each contraction.</description>
+    <arm_group_label>Exercise training group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged between 20 years and 64 years&#xD;
+&#xD;
+          -  Participants who fulfill the Rome IV criteria for constipation which include two or&#xD;
+             more of the following: a) straining &gt; 25% of defecations; b) lumpy or hard stools &gt;&#xD;
+             25% of defecations; c) sensation of incomplete evacuation &gt; 25% of defecations; d)&#xD;
+             sensation of anorectal obstruction/blockage &gt; 25% of defecations; e) manual maneuvers&#xD;
+             to facilitate &gt; 25% of defecations; f) &lt; 3 spontaneous bowel movements per week&#xD;
+&#xD;
+          -  Participants who have sufficient language skills to participate&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants who have received exercise or pelvic floor muscle training under&#xD;
+             supervision in the past 12 months&#xD;
+&#xD;
+          -  Participants with previous abdominal surgery, anorectal trauma or surgery, or previous&#xD;
+             diagnosis of neuropathy or anal sphincter dysfunction&#xD;
+&#xD;
+          -  Presence of malignancies, severe cardiovascular disease or other severe&#xD;
+             physical/psychiatric impairments that prevent participation in the study&#xD;
+&#xD;
+          -  Pregnant or within 12 months postpartum&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>National Cheng Kung University</name>
+      <address>
+        <city>Tainan</city>
+        <zip>704</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kuan Yin Lin</last_name>
+      <phone>+886 62353535</phone>
+      <phone_ext>6737</phone_ext>
+      <email>10802003@gs.ncku.edu.tw</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <reference>
+    <citation>Rao SS, Bharucha AE, Chiarioni G, Felt-Bersma R, Knowles C, Malcolm A, Wald A. Functional Anorectal Disorders. Gastroenterology. 2016 Mar 25. pii: S0016-5085(16)00175-X. doi: 10.1053/j.gastro.2016.02.009. [Epub ahead of print]</citation>
+    <PMID>27144630</PMID>
+  </reference>
+  <reference>
+    <citation>Gao R, Tao Y, Zhou C, Li J, Wang X, Chen L, Li F, Guo L. Exercise therapy in patients with constipation: a systematic review and meta-analysis of randomized controlled trials. Scand J Gastroenterol. 2019 Feb;54(2):169-177. doi: 10.1080/00365521.2019.1568544. Epub 2019 Mar 7.</citation>
+    <PMID>30843436</PMID>
+  </reference>
+  <reference>
+    <citation>Virtuoso JF, Menezes EC, Mazo GZ. Effect of Weight Training with Pelvic Floor Muscle Training in Elderly Women with Urinary Incontinence. Res Q Exerc Sport. 2019 Jun;90(2):141-150. doi: 10.1080/02701367.2019.1571674. Epub 2019 Apr 4.</citation>
+    <PMID>30945991</PMID>
+  </reference>
+  <reference>
+    <citation>Frank L, Kleinman L, Farup C, Taylor L, Miner P Jr. Psychometric validation of a constipation symptom assessment questionnaire. Scand J Gastroenterol. 1999 Sep;34(9):870-7.</citation>
+    <PMID>10522604</PMID>
+  </reference>
+  <reference>
+    <citation>Sadowy AM, Brouwer HL, Finseth DL, Hagener KM, Lawrence AE, Hollman JH. Development of a Pelvic Floor Muscle Coordination Scale. Journal of Women's Health Physical Therapy. 2010;34(3):81-8.</citation>
+  </reference>
+  <reference>
+    <citation>Gosling J, Plumb A, Taylor SA, Cohen R, Emmanuel AV. High-resolution anal manometry: Repeatability, validation, and comparison with conventional manometry. Neurogastroenterol Motil. 2019 Jun;31(6):e13591. doi: 10.1111/nmo.13591.</citation>
+    <PMID>31094054</PMID>
+  </reference>
+  <reference>
+    <citation>Kaushal JN, Goldner F. Validation of the digital rectal examination as an estimate of anal sphincter squeeze pressure. Am J Gastroenterol. 1991 Jul;86(7):886-7.</citation>
+    <PMID>2058632</PMID>
+  </reference>
+  <reference>
+    <citation>Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P. International physical activity questionnaire: 12-country reliability and validity. Med Sci Sports Exerc. 2003 Aug;35(8):1381-95.</citation>
+    <PMID>12900694</PMID>
+  </reference>
+  <reference>
+    <citation>Marquis P, De La Loge C, Dubois D, McDermott A, Chassany O. Development and validation of the Patient Assessment of Constipation Quality of Life questionnaire. Scand J Gastroenterol. 2005 May;40(5):540-51.</citation>
+    <PMID>16036506</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>December 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2020</study_first_posted>
+  <last_update_submitted>February 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Cheng Kung University</investigator_affiliation>
+    <investigator_full_name>Kuan-Yin Lin</investigator_full_name>
+    <investigator_title>Assistant professor</investigator_title>
+  </responsible_party>
+  <keyword>constipation</keyword>
+  <keyword>resistance exercise</keyword>
+  <keyword>aerobic exercise</keyword>
+  <keyword>pelvic floor muscle training</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Constipation</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

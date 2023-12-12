@@ -1,0 +1,443 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03199833</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RETRAINER-S2</org_study_id>
+    <nct_id>NCT03199833</nct_id>
+  </id_info>
+  <brief_title>Reaching Training Based on Robotic Hybrid Assistance for Stroke Patients ( RETRAINER-S2 )</brief_title>
+  <acronym>RETRAINER-S2</acronym>
+  <official_title>Reaching Training Based on Robotic Hybrid Assistance for Stroke Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Franco Molteni</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ecole Polytechnique Fédérale de Lausanne</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ab.Acus</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Control Systems Group, Technische Universität Berlin, Germany</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ottobock Health Products GmbH, Wien, Austria</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>HASOMED GmbH</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Asklepios Neurological Clinic Falkenstein</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Technische Universität Wien, Austria</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Dept. of Electronics, Informatics, Bioengineering, Politecnico di Milano, Italy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Villa Beretta Rehabilitation Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Stroke is the third most common cause of death and the main cause of acquired adult&#xD;
+      disability in high-income countries. The most common deficit after stroke is motor impairment&#xD;
+      of the contralateral arm, with more than 80% of stroke survivors experiencing this condition&#xD;
+      in the acute phase, and only half regaining some useful upper limb function after six months.&#xD;
+&#xD;
+      Within the European project RETRAINER (grant agreement No 644721), the consortium developed a&#xD;
+      platform for the rehabilitation of the upper limb after stroke, which combines a passive&#xD;
+      forearm-hand orthosis for hand-wrist motion stabilization, selective fingers constraining and&#xD;
+      grasp movement facilitation, Functional Electrical Stimulation (FES) of the extrinsic hand&#xD;
+      flexor muscles and of the extrinsic hand extensor muscles, interactive objects, and voluntary&#xD;
+      effort. The system also provides a graphical user interface which helps the therapist set the&#xD;
+      training session and save the training data and parameters, and provides the subject a visual&#xD;
+      feedback about his/her active involvement in the exercise. The training consists of the&#xD;
+      execution of a series of exercises involving the affected arm during daily life activities.&#xD;
+      Typical exercises include controlled wrist flexion and extension, controlled fingers flexion&#xD;
+      and extension, anterior reaching and grasping on a plane or in the space, moving an object on&#xD;
+      a plane or in the space.&#xD;
+&#xD;
+      The aim of this clinical study it to evaluate the efficacy of this novel training platform on&#xD;
+      patients between two weeks and nine months after their first stroke, who preserved at least a&#xD;
+      visible muscle contraction for the arm and shoulder muscles. Participants are randomized in&#xD;
+      an experimental and a control group. The control group is trained with an advanced&#xD;
+      rehabilitative program, including physical training, occupational therapy, FES, and virtual&#xD;
+      reality, while the experimental group is trained with the RETRAINER system for about 30&#xD;
+      minutes, in addition to the same program of the control group. The daily training time is the&#xD;
+      same for the two groups. The intervention consists of three sessions a week for nine weeks.&#xD;
+      Patients are assessed at baseline, soon after the end of the intervention, and in a 4-week&#xD;
+      follow-up visits. It is planned to recruit 68 subjects for this study. Since the RETRAINER&#xD;
+      platform was built on the up-to-date theory of motor re-learning, which supports&#xD;
+      task-oriented repetitive training, a close temporal association between motor intention and&#xD;
+      stimulated motor response, and an intensive and frequent training paradigm, the study's&#xD;
+      hypothesis is that the experimental group shows a greater treatment effect than the control&#xD;
+      group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is multi-center randomized controlled trial designed according to the CONSORT Statement&#xD;
+      recommendations. A total of 68 patients will be recruited in the two centers. This sample&#xD;
+      size was a-priori calculated as capable to detect a clinically important between-group&#xD;
+      difference of 5.7 points in the primary endpoint Action Research Arm Test, considering a&#xD;
+      standard deviation of 12.5, a type I error of 5%, and a power of 80%. More technical details&#xD;
+      on the RETRAINER platform for the rehabilitation of the arm are here reported. The&#xD;
+      experimental setup consists of: a passive forearm-hand orthosis; a current controlled&#xD;
+      stimulator with one stimulation channel multiplexed to 48 active sites, developed by &quot;Hasomed&#xD;
+      GmbH&quot;; 4-by-4 electrode arrays used for transcutaneous NeuroMuscular Electrical Stimulation&#xD;
+      (NMES), developed by Translational Neural Engineering Laboratory - École Polytechnique&#xD;
+      Fédérale De Lausanne (TNE-EPFL); and interactive objects, which are daily life objects&#xD;
+      equipped with Radio Frequency Identification (RFID) tags used to identify the target&#xD;
+      positions so as to drive the execution of the rehabilitation exercises. A suitable reader is&#xD;
+      embedded in the exoskeleton with the antenna on the wrist joint. The control system is shared&#xD;
+      between an Embedded Control System (ECS), running on a BeagleBoneBlackTM, for real-time&#xD;
+      operation, and a Windows-based table (Microsoft Surface 3 running Windows 8), which provides&#xD;
+      a graphical user interface (GUI) for the therapist and the patient. The Orthosis is&#xD;
+      characterized by a thermoplastic bar, shaped to conform to the dorsal hand-forearm aspect,&#xD;
+      and aimed at hand-wrist stabilization; thermoelastic clasps aimed at selective fingers&#xD;
+      constraining and grasp movement facilitation; the motion of hand, wrist, and fingers is&#xD;
+      monitored with three inertial sensors (&quot;Invensense MPU-9250&quot;). To allow the use on patients&#xD;
+      within the 5-th and 95-th percentile, the thermoplastic bar hosts are available in 5 sizes,&#xD;
+      and the elastic clasps are available in 11 sizes. The stimulation is provided through&#xD;
+      stimulation maps with one or more active virtual electrodes, selected by the therapist based&#xD;
+      on the subject specific needs. Depending on the task, stimulation on extensors and flexors is&#xD;
+      applied to match the desired kinematic hand configuration. In case the desired extension (or&#xD;
+      flexion) is reached though stimulation or residual volitional control, stimulation intensity&#xD;
+      is reduced accordingly.&#xD;
+&#xD;
+      The stimulation frequency is set at 25 Hz, the pulse width is fixed at 300μs, while the&#xD;
+      stimulation intensity is set at the beginning of the training session on each muscle&#xD;
+      individually at a value tolerated by the subject and able to induce a functional movement.&#xD;
+&#xD;
+      Custom electrode arrays are placed over forearm muscle belly. A fast and automatic&#xD;
+      calibration procedure is required before the beginning of each session. This procedure aims&#xD;
+      at setting the current amplitude values for each Virtual Electrode in use.&#xD;
+&#xD;
+      The control interface of the system, implemented in .Net 4.6, provides a GUI including&#xD;
+      multiple software tools to organize rehabilitation exercises and monitor rehabilitation&#xD;
+      progress. The heart of the control interface is a State Machine, which drives both the&#xD;
+      parameterization and the execution of the exercises. Each exercise is divided into single&#xD;
+      tasks: the State Machine drives the exercise execution throughout the tasks, while the&#xD;
+      execution of each single task is controlled by the ECS. The ECS controls all the modules&#xD;
+      requiring real time constraints, such as the stimulator, the FES controller and the orthosis&#xD;
+      sensors. To keep the control interface and the ECS synchronized, a strict master slave&#xD;
+      concept using a custom made communication protocol was implemented, meaning that the ECS must&#xD;
+      not act independently, but only reacts to commands sent by the high level control.&#xD;
+      Transitions between states of the state machine and thus tasks of the exercise are triggered&#xD;
+      by angle sensors data, RFID data or a timer (depending on the task). Transitions have to&#xD;
+      fulfill certain conditions, so called guards. These guards are predefined for each task and&#xD;
+      have to be parameterized as described in the Section D. The GUI guides the user through the&#xD;
+      training by providing visual instructions and feedback. The workflow of a typical training&#xD;
+      session consists of four main phases: the setting, donning and parameterization of the&#xD;
+      system, and the training following a pre-defined sequence of exercises. The control interface&#xD;
+      supports the therapist and the patient throughout all the phases via the GUI. The setting&#xD;
+      starts with the therapist creating a new user, or selecting an existent one, calibrating the&#xD;
+      inertial sensors, and selecting the exercises. Afterwards, the donning phase starts with the&#xD;
+      placement of the electrode arrays for stimulation. Once the Virtual Electrodes placement and&#xD;
+      intensity is checked, the therapist should don the orthosis of appropriate size on the&#xD;
+      patient, and position the inertial sensors on the orthosis and on the fingers clasps. The&#xD;
+      following step is the calibration of the FES controller by means of the automatic procedure&#xD;
+      previously described. On the following training days, the setting and donning procedure is&#xD;
+      partly simplified since the therapist can load the settings of the previous day and&#xD;
+      eventually adjust them, and use the pre-identified orthoses that best fit the subject. A&#xD;
+      parameterization step is designed to set the guards of the State Machine. In this process the&#xD;
+      GUI guides the patient and the therapist through each task of the selected exercises with&#xD;
+      stimulation. The patient-specific parameters for each task, such as the target positions, the&#xD;
+      desired time for the execution of each task, and the time of the relax phases, are&#xD;
+      determined. At the end of the parameterization phase, all the parameters are stored and the&#xD;
+      training session can start. The training consists of the execution of a series of exercises&#xD;
+      involving the hand during daily life activities. Typical exercises are grasping an object,&#xD;
+      flexing and extending fingers, flexing and extending the wrist, anterior reaching on a plane&#xD;
+      or in the space, moving an object on a plane or in the space, with or without an object in&#xD;
+      the hand. The execution of the exercises is controlled by the control interface which leads&#xD;
+      the patient throughout the single tasks by means of both visual and audio messages via the&#xD;
+      GUI.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date type="Actual">November 10, 2016</start_date>
+  <completion_date type="Anticipated">May 2018</completion_date>
+  <primary_completion_date type="Anticipated">April 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Action Research Arm Test</measure>
+    <time_frame>9 weeks</time_frame>
+    <description>9-item outcome measure divided into 4 sub-tests (grasp, grip, pinch, and gross arm movement). Performance on each item is rated on a 4-point ordinal scale ranging from:&#xD;
+3: Performs test normally&#xD;
+2: Completes test, but takes abnormally long or has great difficulty&#xD;
+1: Performs test partially&#xD;
+0: Can perform no part of test</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Action Research Arm Test</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>9-item outcome measure divided into 4 sub-tests (grasp, grip, pinch, and gross arm movement). Performance on each item is rated on a 4-point ordinal scale ranging from:&#xD;
+3: Performs test normally&#xD;
+2: Completes test, but takes abnormally long or has great difficulty&#xD;
+1: Performs test partially&#xD;
+0: Can perform no part of test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical Research Council</measure>
+    <time_frame>baseline; 9 weeks; 13 weeks</time_frame>
+    <description>A standardized assessment to measure muscle strength; Score range 0-5 (minimum 0, maximum 5)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Motricity index</measure>
+    <time_frame>baseline; 9 weeks; 13 weeks</time_frame>
+    <description>Outcome measure to evaluate motor impairment after stroke; 2 sub-scales (arm and leg); each subscale ranges from 0 (maximal impairment) to 100 (no impairment)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Motor Activity Log</measure>
+    <time_frame>baseline; 9 weeks; 13 weeks</time_frame>
+    <description>Semi-structured interview to assess arm function. Individuals are asked to rate Quality of Movement and Amount of Movement during 30 daily functional tasks. Target tasks include object manipulation (e.g. pen, fork, comb, and cup) as well as the use of the arm during gross motor activities (e.g. transferring to a car, steadying oneself during standing, pulling a chair into a table while sitting).&#xD;
+Items scored on a 6-point ordinal scale (0 not used, 6 as good as before).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Box &amp; Blocks Test</measure>
+    <time_frame>baseline; 9 weeks; 13 weeks</time_frame>
+    <description>It assesses unilateral gross manual dexterity. Individuals are seated at a table, facing a rectangular box that is divided into two square compartments of equal dimension by means of a partition.&#xD;
+One hundred and fifty, 2.5 cm, colored, wooden cubes or blocks are placed in one compartment or the other. The individual is instructed to move as many blocks as possible, one at a time, from one compartment to the other for a period of 60 seconds.&#xD;
+To administer the test, the examiner is seated opposite the individual in order to observe test performance.&#xD;
+The test is scored by counting the number of blocks carried over the partition from one compartment to the other during the one-minute trial period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stroke Specific Quality Of Life scale</measure>
+    <time_frame>baseline; 9 weeks; 13 weeks</time_frame>
+    <description>It assesses the health-related quality of life specific to stroke survivors.&#xD;
+It consists of 49 items, each assessed on 5-point Guttman-type scales. Score range: 49-245 with higher score indicating better functioning. It covers 12 domains which are:&#xD;
+Mobility&#xD;
+Energy&#xD;
+Upper Extremity Function&#xD;
+Work and Productivity&#xD;
+Mood&#xD;
+Self-care&#xD;
+Social Roles&#xD;
+Family Roles&#xD;
+Vision&#xD;
+Language&#xD;
+Thinking&#xD;
+Personality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Ashworth Scale</measure>
+    <time_frame>baseline; 9 weeks; 13 weeks</time_frame>
+    <description>It measures spasticity. It consists of a test resistance to passive movement about a joint with varying degrees of velocity. Scores range from 0-5; a score of 0 indicates no resistance, 5 indicates rigidity.&#xD;
+target muscles: Wrist flexor and extensor, fingers and thumb flexor and extensor</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Instrumental assessment</measure>
+    <time_frame>baseline; 9 weeks; 13 weeks</time_frame>
+    <description>Dynamic electromyography (EMG) signals of the Wrist flexor and extensor, fingers and thumb flexor and extensor as well as kinematic data are measured during free-movement of the wrist and the hand</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>System Usability Scale</measure>
+    <time_frame>9 weeks</time_frame>
+    <description>A 10-item questionnaire to measure system usability. Each item has five response options, from &quot;Strongly agree&quot; to &quot;Strongly disagree&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Technology Acceptance Model</measure>
+    <time_frame>9 weeks</time_frame>
+    <description>A standardized questionnaire that measures technology acceptance. The questionnaire consists of 2 parts, 10 items to measure usefulness and 10 items to measure ease of use.&#xD;
+Participants are asked to provide their level of agreement on a 7-point scale (1=strongly disagree and 7 = strongly agree).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">68</enrollment>
+  <condition>Stroke</condition>
+  <arm_group>
+    <arm_group_label>Arms</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>RETRAINER-S2 &amp; Conventional Therapy 27 sessions, 3 sessions per week for a total of 9 weeks. Each session consists of 30-minute training with the RETRAINER-S2 system plus 60 minutes of conventional therapy. The training session is customized on the patients' need and can be adapted to their improvement during the intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional Therapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>27 sessions, 3 sessions per week for a total of 9 weeks. Each session lasts about 90 minutes and consists of different training modalities typically used in the rehabilitation of the arm after stroke. The training session is customized on the patients' need and can be adapted to their improvement during the intervention.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>RETRAINER-S2</intervention_name>
+    <description>It consists of the execution of different exercises with the affected forearm-hand supported by the RETRAINER-S2 device. The subject is actively involved in the exercises and the system provides two types of support: wrist-fingers motion constraining and FES. The following exercises can be performed: controlled wrist flexion and wrist extension; controlled fingers flexion and extension; repeated grasping of an object; anterior reaching and grasping of an object; moving of objects on a plane or in space.&#xD;
+A subset of exercises is defined based on the patient's capability and the training time is equally shared between the selected exercises. The different training sessions can include different exercises and a different number of repetition for each exercise.</description>
+    <arm_group_label>Arms</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Conventional therapy</intervention_name>
+    <description>It consists of a combination of different treatment modalities among the following, based on the patient's specific needs:&#xD;
+Upper limb passive motion&#xD;
+Arm Cycle ergometer with or without FES&#xD;
+Neuro Muscular Electrical Stimulation&#xD;
+Upper limb exercises using augmented or virtual reality environment&#xD;
+Occupational therapy exercises&#xD;
+Constraint induced movement therapy&#xD;
+Upper limb active movement (reaching, grasping, elevation, spatial orientation)&#xD;
+Repetitive task training&#xD;
+Mirror therapy&#xD;
+Writing training&#xD;
+Chemodenervation Therapy</description>
+    <arm_group_label>Arms</arm_group_label>
+    <arm_group_label>Conventional Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults male and/or female, 18-85 years old&#xD;
+&#xD;
+          -  Patients who have suffered a first stroke with major unilateral functional impairment&#xD;
+&#xD;
+          -  Acute event between two weeks and nine months before study enrollment&#xD;
+&#xD;
+          -  Motricity Index of the affected side must be under 80% of best expected performance.&#xD;
+&#xD;
+          -  No major contralateral impairment must be present (Motricity Index of the non-affected&#xD;
+             side more than 80% of normality)&#xD;
+&#xD;
+          -  Residual muscular activity for forearm muscles (MRC &gt; o = 1)&#xD;
+&#xD;
+          -  Mini-Mental State Examination &gt; 20&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Limitation for using the device due to impairment of Passive Range of Motion and/or&#xD;
+&#xD;
+          -  Pain due to Spasticity evaluated using Modified Ashworth Scale&#xD;
+&#xD;
+          -  Previous history of major neurological or psychiatric disorders&#xD;
+&#xD;
+          -  allergy to electrodes&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Franco Molteni, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Villa Beretta Rehabilitation Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Giovanna Palumbo</last_name>
+    <phone>+390318544215</phone>
+    <email>gpalumbo@valduce.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mauro Rossini</last_name>
+    <phone>+390318544217</phone>
+    <email>mrossini@valduce.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Asklepios Neurologische Klinik Falkenstein</name>
+      <address>
+        <city>Konigstein im Taunus</city>
+        <zip>61462</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karsten Krakow, MD</last_name>
+      <email>k.krakow@asklepios.com</email>
+    </contact>
+    <investigator>
+      <last_name>Karsten Krakow, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Villa Beretta Rehabilitation Center</name>
+      <address>
+        <city>Costa Masnaga</city>
+        <state>Lecco</state>
+        <zip>23845</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giulio Gasperini, MD</last_name>
+      <phone>+390318544211</phone>
+      <email>ggasperini@valduce.it</email>
+    </contact>
+    <investigator>
+      <last_name>Franco Molteni, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Giulio Gasperini, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>Italy</country>
+  </location_countries>
+  <link>
+    <url>http://www.retrainer.eu</url>
+    <description>Official web site of the project</description>
+  </link>
+  <verification_date>November 2017</verification_date>
+  <study_first_submitted>June 23, 2017</study_first_submitted>
+  <study_first_submitted_qc>June 23, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 27, 2017</study_first_posted>
+  <last_update_submitted>November 8, 2017</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Villa Beretta Rehabilitation Center</investigator_affiliation>
+    <investigator_full_name>Dr. Franco Molteni</investigator_full_name>
+    <investigator_title>Clinical Director</investigator_title>
+  </responsible_party>
+  <keyword>rehabilitation</keyword>
+  <keyword>orthosis</keyword>
+  <keyword>functional electrical stimulation</keyword>
+  <keyword>electrode array</keyword>
+  <keyword>upper limb</keyword>
+  <keyword>sub-acute</keyword>
+  <keyword>motor relearning</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

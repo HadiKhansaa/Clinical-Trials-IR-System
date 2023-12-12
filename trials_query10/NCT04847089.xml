@@ -1,0 +1,306 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04847089</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-01075</org_study_id>
+    <nct_id>NCT04847089</nct_id>
+  </id_info>
+  <brief_title>Motor Imagery BCI Rehabilitation After Stroke</brief_title>
+  <official_title>Motor Imagery and Real-time Feedback in Stroke Rehabilitation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mälardalen University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Danderyd Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mälardalen University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research project will investigate motor imagery training in stroke rehabilitation during&#xD;
+      which patients receive feedback in real time from their brain activity measured with&#xD;
+      ElectroEncephaloGraphy (EEG). The investigators hypothesize that the feedback training allows&#xD;
+      to internally stimulate brain motor networks in order to promote functional recovery of the&#xD;
+      hand.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will be carried out as an explorative study in order to investigate the benefits&#xD;
+      of mental imagery training of hand movements guided through Brain-Computer Interface (BCI)&#xD;
+      feedback after stroke. Stroke patients will be trained to mentally imagine the opening and&#xD;
+      closing of the hand (hereafter named MI, Motor Imagery). During the training, the patients&#xD;
+      will receive visual feedback in real time that reflects the neural activity related to motor&#xD;
+      processes. The NeuroFeedback (NF) will be projected with minimal time delay to maximize the&#xD;
+      neural learning. This type of brain training with feedback is thought to have significant&#xD;
+      importance to stimulate the ability of the brain to reorganize and compensate for a damaged&#xD;
+      region.&#xD;
+&#xD;
+      Each participant will go through the following data collection procedure (total of 33&#xD;
+      measurement sessions per RP):&#xD;
+&#xD;
+      Week 1-3:&#xD;
+&#xD;
+      Clinical baseline evaluations, 1 time/week MRI measurements, 1 time/week Baseline EEG&#xD;
+      recordings, 1 time/week Week 4-7 MI-neurofeedback training 3 times/week Clinical intervention&#xD;
+      evaluation, 1 time/week Week 8-10 Same as week 1-3&#xD;
+&#xD;
+      Magnetic Resonance Imaging (MRI) measurements. The MRI exam will be carried out on a Siemens&#xD;
+      MAGNETOM Prisma 3T scanner (head-coil with 20 channels) at baseline and at final assessment&#xD;
+      session at Stockholm University Brain Imaging Centre. The MRI protocol comprises i)&#xD;
+      anatomical whole brain spin-echo T1 and T2 weighted sequences for description of lesion size&#xD;
+      and location ii) acquisition of T2*-weighted gradient echo EPI-BOLD images of the whole brain&#xD;
+      for assessment of resting state functional connectivity of sensorimotor networks&#xD;
+      (resting-state functional MRI (fMRI)), and iii) the same sequence as the previous with rest&#xD;
+      interleaved by a motor imagery paradigm further described below.&#xD;
+&#xD;
+      Motor Imagery (MI) paradigm. The paradigm consists of instructing RP, by the use of a&#xD;
+      mirrored computer screen, to either i) rest his/her mind with eyes closed, ii) mentally&#xD;
+      imagine a hand movement (MI), or ii) execute a hand movement. The hand movements that are&#xD;
+      instructed are either to close the hand or to open the hand and extend the fingers. RP will&#xD;
+      perform several repetitions of each hand movement (MI and execution) in order to collect a&#xD;
+      statistical basis.&#xD;
+&#xD;
+      Baseline EEG recording. During the baseline EEG recordings, RP will be seated in front a&#xD;
+      computer screen and perform the MI paradigm (described above). During these session, EEG,&#xD;
+      EOG, EMG, and accelerometer-data will be collected and are further described below.&#xD;
+&#xD;
+      ElectroEncephaloGram (EEG), ElectroOculoGram (EOG), ElectroMyoGram (EMG) and accelerometer&#xD;
+      equipment. The EEG equipment consists of a 64-electrode scalp EEG acquisition system (Brain&#xD;
+      Products ActiCHamp). The 64 electrodes (active Ag/AgCl) will be distributed according to the&#xD;
+      extended 10-20 reference placement system. In addition to the EEG recording, 3 electrodes&#xD;
+      (passive Ag/AgCl, Brain Products) will be placed on each side of both eyes and on the earlob&#xD;
+      to measure eye-movements during the experiment (EOG). EMG electrodes (passive Ag/AgCl, Brain&#xD;
+      Products) will be placed over four muscles controlling the wrist and fingers according to a&#xD;
+      standardized protocol. Two accelerometer-sensors (Brain Products) will be placed on the hand&#xD;
+      and the index finger in order to record movement-related activity.&#xD;
+&#xD;
+      EEG, EOG, EMG and accelerometer data analysis. The recorded data will be further analyzed&#xD;
+      offline in order to evaluate the characteristic features in the data that best describe MI of&#xD;
+      hand movements. This will be performed in Matlab and Labview combining custom-made scripts&#xD;
+      with already developed toolboxes (such as EEGLab, Chronux). Features to be evaluated will&#xD;
+      include the evoked activity, the time-frequency spectra, phase, correlation coefficients,&#xD;
+      coherency among other. When the feature that best describes MI has been identified different&#xD;
+      classifier and pattern recognition methods will be evaluated in extracting the information.&#xD;
+      Intelligent algorithms, Support Vector Machine (SVM), regularized linear regression, naïve&#xD;
+      Bayes classifiers among others will be evaluated and compared. These are commonly used&#xD;
+      methods in the field of neurotechnology and a prior comparison-study using neural data from&#xD;
+      invasive recordings shows the importance of choosing a well-adapted classifier for extracting&#xD;
+      information.&#xD;
+&#xD;
+      MI-NeuroFeedback Training (NFT). EEG, EOG, EMG and accelerometer-data will be collected as&#xD;
+      described in the section &quot;EEG, EMG and accelerometer equipment&quot;. RP will perform the MI&#xD;
+      paradigm without the execution of hand movements. Real-time feedback from recorded&#xD;
+      EEG-activity will be provided to RP during MI. The feedback consists of a virtual hand on a&#xD;
+      computer screen whose movements reflect the brain activity of RP related to MI. The recorded&#xD;
+      data will be further analyzed offline with the analytic tools that are described in previous&#xD;
+      section.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 19, 2021</start_date>
+  <completion_date type="Anticipated">February 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of Fugl-Meyer Upper Extremity scale score (0-66 points)</measure>
+    <time_frame>Up to 10 weeks</time_frame>
+    <description>Arm and hand function</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change of EEG alpha and beta activity</measure>
+    <time_frame>Up to 10 weeks</time_frame>
+    <description>Brain motor network activity reflected in BCI feedback</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change of fMRI BOLD activity</measure>
+    <time_frame>Up to 10 weeks</time_frame>
+    <description>Brain motor network activity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of monofilament test score</measure>
+    <time_frame>Up to 10 weeks</time_frame>
+    <description>Two point discrimination and monofilament test for sensory function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of box and block test score (0-150)</measure>
+    <time_frame>Up to 10 weeks</time_frame>
+    <description>Gross manual dexterity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of JAMAR® digital Hand Dynamometer scores (0-90)</measure>
+    <time_frame>Up to 10 weeks</time_frame>
+    <description>Grip strength</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of visuomotor force-tracking task scores</measure>
+    <time_frame>Up to 10 weeks</time_frame>
+    <description>Quantification of timing and precision aspects of force grip modulation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of stroke Impact Scale 16 scores (15-80 points)</measure>
+    <time_frame>Up to 10 weeks</time_frame>
+    <description>Activity limitations related to physical function</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Stroke</condition>
+  <condition>Hemiparesis</condition>
+  <arm_group>
+    <arm_group_label>Motor Imagery BCI training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Complete intervention with motor imagery BCI training. Patients recruited by physiotherapists who underwent baseline evaluations with clinical tests, fMRI and EEG measurements. Patients will after intervention perform clinical tests, fMRI, and EEG measurements to evaluate outcomes of intervention.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Motor imagery BCI training</intervention_name>
+    <description>Motor Imagery (MI)-BCI training, 2-3 hours, 3 times/week for 4 weeks.</description>
+    <arm_group_label>Motor Imagery BCI training</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        &gt; 6 months since first time stroke onset and with remaining hemiparesis in upper extremity;&#xD;
+        able to participate fully in the intervention, able to perform Functional Magnetic&#xD;
+        Resonance Imaging (fMRI); able to passively extend the wrist 15 degrees and extend fingers&#xD;
+        fully with a neutral position of the wrist.&#xD;
+&#xD;
+        In addition, participants need to be able to voluntarily control the power of their grip&#xD;
+        when requested according to the Visuomotor force tracking method and/or according to the&#xD;
+        clinical assessment of a therapist (while holding the patient´s hand). According to the&#xD;
+        Fugl- Meyer Upper Extremity (UE) scale participants should accomplish &lt;14 points on the&#xD;
+        hand subscale and &lt;2 points in finger flexion and extension (C) in addition to &lt; 47 points&#xD;
+        on the total motor score (equivalent to moderate disability in the upper extremity.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  other neurological or musculoskeletal disease/injury, or contagious disease.&#xD;
+&#xD;
+          -  If the research person is regularly treated with botulinum toxin in the upper&#xD;
+             extremity, 3 weeks should have passed before the first baseline assessment.&#xD;
+&#xD;
+          -  current or history of epilepsy,&#xD;
+&#xD;
+          -  severe hearing or visual impairments,&#xD;
+&#xD;
+          -  metal implants in the brain/skull cochlear implants,&#xD;
+&#xD;
+          -  any implanted neurostimulator, cardiac pacemaker or cardiac implants of metal,&#xD;
+             infusion device,&#xD;
+&#xD;
+          -  any other neurological disorder,&#xD;
+&#xD;
+          -  pregnancy,&#xD;
+&#xD;
+          -  current or history of severe psychiatric disorder with need for pharmacological&#xD;
+             treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elaine Astrand, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mälardalen University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elaine Astrand, PhD</last_name>
+    <phone>21-103125</phone>
+    <phone_ext>+46</phone_ext>
+    <email>elaine.astrand@mdh.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Susanne Palmcrantz, PhD</last_name>
+    <phone>709567653</phone>
+    <phone_ext>+46</phone_ext>
+    <email>susanne.palmcrantz@ki.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Stockholn University Brain Imaging Centre</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>11418</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Department of rehabilitation medicine at Danderyd University</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>18288</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susanne Palmcrantz, PhD</last_name>
+      <phone>709567653</phone>
+      <phone_ext>+46</phone_ext>
+      <email>susanne.palmcrantz@ki.se</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sweden Mälardalen University</name>
+      <address>
+        <city>Västerås</city>
+        <zip>72123</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 15, 2021</study_first_posted>
+  <last_update_submitted>April 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Paresis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

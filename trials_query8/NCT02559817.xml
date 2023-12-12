@@ -1,0 +1,1897 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02559817</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LIN-MD-63</org_study_id>
+    <nct_id>NCT02559817</nct_id>
+  </id_info>
+  <brief_title>A Safety and Efficacy Study of a Range of Linaclotide Doses Administered Orally to Children Ages 7-17 Years, With Irritable Bowel Syndrome With Constipation</brief_title>
+  <acronym>LIN-MD-63</acronym>
+  <official_title>A Multicenter, Randomized, Double-blind, Placebo-controlled, Parallel-group, Safety and Efficacy Study of a Range of Linaclotide Doses Administered Orally to Children, Ages 6 to 17 Years, A Multicenter, Randomized, Double-blind, Placebo-controlled Safety and Efficacy Study of a Range of Linaclotide Doses Administered Orally to Children Ages 7-17 Years, With Irritable Bowel Syndrome With Constipation (IBS-C) (ie, Fulfill Rome III Criteria for Child/Adolescent IBS and Fulfill Modified Rome III Criteria for Child/Adolescent Functional Constipation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Forest Laboratories</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ironwood Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Forest Laboratories</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety and efficacy of linaclotide for the&#xD;
+      treatment of Irritable Bowel syndrome with Constipation (IBS-C), in children age 7-17 years.&#xD;
+&#xD;
+      This study includes up to a 4-week Screening Period, and a 2 to 3-week Pretreatment Period.&#xD;
+      Patients age 7-11 will receive oral liquid or oral solid capsule and patients 12-17 will&#xD;
+      receive solid oral capsule formulation. Children ages 7-11 years meeting the entry criteria&#xD;
+      will be randomized to 1 of 3 doses of linaclotide or placebo for 4 weeks. Children ages 12-17&#xD;
+      years meeting the entry criteria will be randomized to 1 of 4 doses of linaclotide or placebo&#xD;
+      for 4 weeks.&#xD;
+&#xD;
+      This 4-week study will assess the effects of linaclotide on bowel movement frequency, as well&#xD;
+      as other bowel symptoms of IBS-C.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <start_date type="Actual">November 1, 2015</start_date>
+  <completion_date type="Actual">August 30, 2019</completion_date>
+  <primary_completion_date type="Actual">August 30, 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in 4-week Overall Spontaneous Bowel Movement (SBM) Frequency Rate (SBMs/Week) During the Treatment Period</measure>
+    <time_frame>Baseline (14 days prior to randomization and up to randomization) to week 4</time_frame>
+    <description>SBM was defined as a BM that occurred in the absence of laxative, suppository, or enema use on the calendar day of the BM or the calendar day before the BM. SBM rate was defined as SBMs/week during the 4-week Treatment period. Participants recorded the occurrence of BMs and use of rescue medication, morning and evening, daily in an eDiary since pretreatment period. The SBM frequency rate (SBMs/week) during the analysis period for each participant were calculated as [(total number of SBMs in the analysis period/number of days in the analysis period)*7]. Baseline value was based on values collected 14 days before randomization up to randomization. Change from Baseline was calculated as the SBM frequency rate during the 4-week treatment period - SBM frequency rate at baseline. A positive change from Baseline indicates improvement.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in 4-week Abdominal Pain Daytime Symptoms Based on Evening Assessment of Abdominal Pain Symptoms</measure>
+    <time_frame>Baseline (14 days prior to randomization) to week 4</time_frame>
+    <description>The abdominal pain score was measured using 5-point scale. Participants answered the questions, How much did your tummy hurt as: 0=none, 1=a tiny bit, 2=a little, 3=some, and 4=a lot. The 4-week daytime abdominal pain was calculated as the average of nonmissing scores in evening eDiary during the Treatment Period with higher value indicating greater symptom severity. Baseline value was the average of non-missing values collected 14 days before randomization. Change from Baseline was calculated as the daytime abdominal pain score during the 4-week treatment period (i.e. average of non-missing daytime scores during 4-week treatment period) - daytime abdominal pain score at baseline. A negative change from Baseline indicates improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in 4-week Stool Consistency</measure>
+    <time_frame>Baseline (14 days prior to randomization and up to randomization) to week 4</time_frame>
+    <description>Participants used 7-point pediatric Bristol Stool Form (p-BSFS) scale to rate stool consistency for each BM in morning and evening eDiary where 1=small hard lumps or balls like pebbles,2=fat sausage shape but lumpy and hard,3=a sausage but with cracks on it,4=sausage or snake, smooth and soft,5=chicken nuggets, soft smooth blobs,6=oatmeal, fluffy mushy pieces,7=milkshake, watery. Scores in 4-week treatment period were calculated as mean of participants non-missing, SBM associated p-BSFS scores during 4-week treatment period. Baseline value was based on values collected 14 days before randomization up to randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in 4-week Severity of Straining</measure>
+    <time_frame>Baseline (14 days prior to randomization and up to randomization) to week 4</time_frame>
+    <description>Severity of straining was scored on 5-point scale for question-When you pooped, how hard did you push? The score ranges from 0= not hard at all,1= I pushed a tiny bit hard,2= I pushed a little hard,3= I pushed hard,4= I pushed very hard with higher scores indicating more severe straining. Participants recorded degree of straining for each BM in morning and evening eDiary. Scores during 4-week treatment period were calculated as mean of participant's non-missing, SBM associated straining scores during 4-week treatment period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in 4-week Abdominal Bloating Daytime Symptoms Based on Evening Assessment</measure>
+    <time_frame>Baseline (14 days prior to randomization) to week 4</time_frame>
+    <description>Participants recorded their assessment of abdominal bloating in the evening eDiary. Participants answered the question: How big and full did your tummy feel? on a scale, where: 0=none, 1=a tiny bit, 2=a little, 3=medium or 4=very, with a higher score indicating more severe bloating. Baseline value was the average of values collected 14 days before randomization. The 4-week daytime abdominal bloating symptoms were calculated as the average of non-missing scores reported in the evening eDiary during the treatment period. Change from Baseline was calculated as the 4-week daytime abdominal bloating score during the treatment period - daytime abdominal bloating score at baseline. A negative change from Baseline indicates improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in 4-week Overall Complete Spontaneous Bowel Movement (CSBM) Frequency Rate (CSBMs Per Week)</measure>
+    <time_frame>Baseline (14 days prior to randomization and up to randomization) to week 4</time_frame>
+    <description>SBM was defined as a BM that occurred in the absence of laxative, suppository, or enema use on the calendar day of the BM or the calendar day before the BM. A CSBM was an SBM that was associated with a sense of complete evacuation. Participants recorded their assessment of the sensation of incomplete evacuation for each BM in the morning and evening eDiary. The 4-week overall CSBM frequency rate was calculated as [total number of CSBMs in the analysis period/number of days in the analysis period]*7). Baseline value was based on values collected 14 days before randomization and up to randomization. Change from Baseline was calculated as the CSBM frequency rate during the 4-week treatment period - CSBM frequency rate at baseline. A positive change from Baseline indicates improvement.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">101</enrollment>
+  <condition>Irritable Bowel Syndrome With Constipation</condition>
+  <arm_group>
+    <arm_group_label>Linaclotide Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Taken once daily each morning at least 30 minutes before breakfast, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Linaclotide Dose B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Taken once daily each morning at least 30 minutes before breakfast, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Linaclotide Dose C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Taken once daily each morning at least 30 minutes before breakfast, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Linaclotide Approved Adult Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Taken once daily each morning at least 30 minutes before breakfast, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Matching Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Taken once daily each morning at least 30 minutes before breakfast, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Linaclotide Dose A</intervention_name>
+    <arm_group_label>Linaclotide Dose A</arm_group_label>
+    <other_name>Linzess</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Linaclotide Dose B</intervention_name>
+    <arm_group_label>Linaclotide Dose B</arm_group_label>
+    <other_name>Linzess</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Linaclotide Dose C</intervention_name>
+    <arm_group_label>Linaclotide Dose C</arm_group_label>
+    <other_name>Linzess</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Linaclotide Approved Adult Dose</intervention_name>
+    <arm_group_label>Linaclotide Approved Adult Dose</arm_group_label>
+    <other_name>Linzess</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Matching Placebo</intervention_name>
+    <arm_group_label>Matching Placebo</arm_group_label>
+    <other_name>Linzess</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient weighs at least 18 kg (39.7 lbs)&#xD;
+&#xD;
+          -  Patient meets Rome III criteria for child/adolescent IBS: at least once per week for&#xD;
+             at least 2 months before Screening Visit, the patient experienced abdominal discomfort&#xD;
+             (an uncomfortable sensation not described as pain) or pain associated with 2 or more&#xD;
+             of the following at least 25% of the time:&#xD;
+&#xD;
+          -  a) Improvement with defecation&#xD;
+&#xD;
+          -  b) Onset associated with a change in frequency of stool&#xD;
+&#xD;
+          -  c) Onset associated with a change in form (appearance) of stool&#xD;
+&#xD;
+          -  Patient meets modified Rome III criteria for child/adolescent Functional Constipation&#xD;
+             (FC): For at least 2 months before the Screening Visit, the patient has had 2 or fewer&#xD;
+             defecations (with each defecation occurring in the absence of any laxative,&#xD;
+             suppository, or enema use during the preceding 24 hours) in the toilet per week. In&#xD;
+             addition, at least once per week, patient meets 1 or more of the following:&#xD;
+&#xD;
+          -  a) History of retentive posturing or excessive volitional stool retention&#xD;
+&#xD;
+          -  b) History of painful or hard bowel movements (BMs)&#xD;
+&#xD;
+          -  c) Presence of a large fecal mass in the rectum&#xD;
+&#xD;
+          -  d) History of large diameter stools that may obstruct the toilet&#xD;
+&#xD;
+          -  Patient is willing to discontinue any laxatives used before the Pretreatment Visit in&#xD;
+             favor of the protocol-permitted rescue medicine&#xD;
+&#xD;
+          -  Patient has an average of fewer than 3 spontaneous BMs (SBMs) per week during the 14&#xD;
+             days before the randomization day and up to the randomization. An SBM is defined as a&#xD;
+             BM that occurs in the absence of laxative, enema, or suppository use on the calendar&#xD;
+             day of the BM or the calendar day before the BM&#xD;
+&#xD;
+          -  Patient or parent/guardian/LAR or caregiver is compliant with eDiary by completing&#xD;
+             both the morning and evening assessments for 10 out of the 14 days immediately&#xD;
+             preceding the Randomization Visit&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient reports having more than 1 loose, mushy stool (eDiary-recorded stool&#xD;
+             consistency of 6 on the Pediatric Bristol Stool Form Scale [p-BSFS]) or any watery&#xD;
+             stool (eDiary-recorded stool consistency of 7 on the p-BSFS) with any SBM that&#xD;
+             occurred in the absence of laxative use on the calendar day of the BM or the calendar&#xD;
+             day before the BM during the 14 days before the randomization day and up to the&#xD;
+             randomization&#xD;
+&#xD;
+          -  Select medical history or conditions that may be related to other causes of&#xD;
+             constipation or may interfere with safety and efficacy analyses&#xD;
+&#xD;
+          -  Patient has required manual disimpaction anytime prior to randomization or&#xD;
+             disimpaction during in-patient hospitalization within one year prior to randomization&#xD;
+&#xD;
+          -  Patient is unable to tolerate the placebo during rhe Screening Period&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>7 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anna Muslin</last_name>
+    <role>Study Chair</role>
+    <affiliation>Forest Laboratories, LLC, an Allergan Affiliate</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>HealthStar Research, LLC</name>
+      <address>
+        <city>Hot Springs</city>
+        <state>Arkansas</state>
+        <zip>71913</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Applied Research Center of Arkansas</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Research Center - Site 069</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kindred Medical Institute for Clinical Trials, LLC</name>
+      <address>
+        <city>Corona</city>
+        <state>California</state>
+        <zip>92879</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>WCCT Global, LLC</name>
+      <address>
+        <city>Costa Mesa</city>
+        <state>California</state>
+        <zip>92626</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ACTCA, Inc</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Clinical Trials, LLC</name>
+      <address>
+        <city>Paramount</city>
+        <state>California</state>
+        <zip>90723</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California at San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Medical Research Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Center for Digestive Health Care LLC</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sleepcare Clinical Research Institute</name>
+      <address>
+        <city>Stockbridge</city>
+        <state>Georgia</state>
+        <zip>30281</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Medical Center</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Riley Hospital for Children at Indiana University Health</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Heartland Research Associates, LLC</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Willis-Knighton Physician Network</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Certified Research Consultants Virgo/Carter Pediatrics</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GI Associates and Endoscopy Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Mercy Hospital</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boys Town National Research Hospital</name>
+      <address>
+        <city>Boys Town</city>
+        <state>Nebraska</state>
+        <zip>68010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Midwest Children Health Research Institute</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Midwest Children Health Research Institute</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68516</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Goryeb Children's Hospital</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07962</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center and Morgan Stanley Children's Hospital of New York</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asheboro Research Associates - Site 022</name>
+      <address>
+        <city>Asheboro</city>
+        <state>North Carolina</state>
+        <zip>27203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Capital Pediatrics and Adolescent Center PLLC</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio Pediatric Research Association</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IPS Research Company</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Christopher's Hospital for Children</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh of UPMC</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Preferred Primary Care Physicians, Inc.</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Frontier Clinical Research, LLC</name>
+      <address>
+        <city>Scottdale</city>
+        <state>Pennsylvania</state>
+        <zip>15683</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montgomery Medical Inc.</name>
+      <address>
+        <city>Smithfield</city>
+        <state>Pennsylvania</state>
+        <zip>15478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Coastal Pediatric Research</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Coastal Pediatrics Associates</name>
+      <address>
+        <city>Mount Pleasant</city>
+        <state>South Carolina</state>
+        <zip>29464</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook Children's Medical Center</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Hospital/Baylor College Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Houston Clinical Research Associates</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sun Research Institute</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ClinPoint Trials</name>
+      <address>
+        <city>Waxahachie</city>
+        <state>Texas</state>
+        <zip>75165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of The King's Daughters</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Tech Carilion School of Medicine Pediatric Gastroenterology</name>
+      <address>
+        <city>Roanoke</city>
+        <state>Virginia</state>
+        <zip>24013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MultiCare Institute for Research and Innovation</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aurora Health Care, Aurora Medical Center in Summit</name>
+      <address>
+        <city>Summit</city>
+        <state>Wisconsin</state>
+        <zip>53066</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Western Ontario</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 5W9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Physician's Clinical Research Inc.</name>
+      <address>
+        <city>Vaughan</city>
+        <state>Ontario</state>
+        <zip>L4L 4Y7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>September 23, 2015</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 24, 2015</study_first_posted>
+  <results_first_submitted>August 28, 2020</results_first_submitted>
+  <results_first_submitted_qc>December 23, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 28, 2020</results_first_posted>
+  <last_update_submitted>December 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Irritable Bowel Syndrome with Constipation in children</keyword>
+  <keyword>Linzess</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Irritable Bowel Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Constipation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Linaclotide</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 16, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/17/NCT02559817/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 16, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/17/NCT02559817/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>There was a screening period of 14 to 28 days, followed by a Pretreatment period of 14 to 21 days, prior to randomization of study participants.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Matching Placebo</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="P2">
+          <title>Linaclotide Dose A</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="P3">
+          <title>Linaclotide Dose B</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="P4">
+          <title>Linaclotide Dose C</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal,, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="P5">
+          <title>Linaclotide Approved Adult Dose</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Treatment Period</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="19"/>
+                <participants group_id="P2" count="29"/>
+                <participants group_id="P3" count="21"/>
+                <participants group_id="P4" count="24"/>
+                <participants group_id="P5" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="27"/>
+                <participants group_id="P3" count="19"/>
+                <participants group_id="P4" count="22"/>
+                <participants group_id="P5" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="2"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lack of Efficacy</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="1"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Non-Compliance With Study Drug</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="1"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Post-treatment Period</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="27"/>
+                <participants group_id="P3" count="20">1 participant who did not complete the first period, entered and completed the Post-treatment Period</participants>
+                <participants group_id="P4" count="22"/>
+                <participants group_id="P5" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="27"/>
+                <participants group_id="P3" count="20"/>
+                <participants group_id="P4" count="22"/>
+                <participants group_id="P5" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>All 101 randomized participants took at least 1 dose of double-blind study treatment, which also comprises the Safety Population of 101 participants</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Matching Placebo</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="B2">
+          <title>Linaclotide Dose A</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="B3">
+          <title>Linaclotide Dose B</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="B4">
+          <title>Linaclotide Dose C</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal,, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="B5">
+          <title>Linaclotide Approved Adult Dose</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="B6">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="19"/>
+            <count group_id="B2" value="29"/>
+            <count group_id="B3" value="21"/>
+            <count group_id="B4" value="24"/>
+            <count group_id="B5" value="8"/>
+            <count group_id="B6" value="101"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11.9" spread="2.61"/>
+                    <measurement group_id="B2" value="11.9" spread="2.95"/>
+                    <measurement group_id="B3" value="12.7" spread="3.51"/>
+                    <measurement group_id="B4" value="12.4" spread="3.26"/>
+                    <measurement group_id="B5" value="13.5" spread="1.77"/>
+                    <measurement group_id="B6" value="12.3" spread="3.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Age</title>
+              <category_list>
+                <category>
+                  <title>7 years through 11 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="11"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="41"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>12 years through 17 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="13"/>
+                    <measurement group_id="B5" value="8"/>
+                    <measurement group_id="B6" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="15"/>
+                    <measurement group_id="B4" value="16"/>
+                    <measurement group_id="B5" value="5"/>
+                    <measurement group_id="B6" value="68"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="8"/>
+                    <measurement group_id="B5" value="3"/>
+                    <measurement group_id="B6" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="15"/>
+                    <measurement group_id="B4" value="16"/>
+                    <measurement group_id="B5" value="6"/>
+                    <measurement group_id="B6" value="66"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="7"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="31"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Multiple</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Hispanic or Latino</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="7"/>
+                    <measurement group_id="B5" value="3"/>
+                    <measurement group_id="B6" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Not Hispanic or Latino</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="16"/>
+                    <measurement group_id="B4" value="17"/>
+                    <measurement group_id="B5" value="5"/>
+                    <measurement group_id="B6" value="75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight</title>
+          <units>kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49.87" spread="14.387"/>
+                    <measurement group_id="B2" value="55.22" spread="19.339"/>
+                    <measurement group_id="B3" value="60.13" spread="22.670"/>
+                    <measurement group_id="B4" value="56.80" spread="20.943"/>
+                    <measurement group_id="B5" value="61.93" spread="17.586"/>
+                    <measurement group_id="B6" value="56.14" spread="19.523"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index (BMI)</title>
+          <units>kg/m^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21.29" spread="3.266"/>
+                    <measurement group_id="B2" value="23.56" spread="5.322"/>
+                    <measurement group_id="B3" value="24.85" spread="6.304"/>
+                    <measurement group_id="B4" value="24.57" spread="8.517"/>
+                    <measurement group_id="B5" value="23.92" spread="5.955"/>
+                    <measurement group_id="B6" value="23.67" spread="6.208"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in 4-week Overall Spontaneous Bowel Movement (SBM) Frequency Rate (SBMs/Week) During the Treatment Period</title>
+        <description>SBM was defined as a BM that occurred in the absence of laxative, suppository, or enema use on the calendar day of the BM or the calendar day before the BM. SBM rate was defined as SBMs/week during the 4-week Treatment period. Participants recorded the occurrence of BMs and use of rescue medication, morning and evening, daily in an eDiary since pretreatment period. The SBM frequency rate (SBMs/week) during the analysis period for each participant were calculated as [(total number of SBMs in the analysis period/number of days in the analysis period)*7]. Baseline value was based on values collected 14 days before randomization up to randomization. Change from Baseline was calculated as the SBM frequency rate during the 4-week treatment period - SBM frequency rate at baseline. A positive change from Baseline indicates improvement.</description>
+        <time_frame>Baseline (14 days prior to randomization and up to randomization) to week 4</time_frame>
+        <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Matching Placebo</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O2">
+            <title>Linaclotide Dose A</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O3">
+            <title>Linaclotide Dose B</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O4">
+            <title>Linaclotide Dose C</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal,, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O5">
+            <title>Linaclotide Approved Adult Dose</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in 4-week Overall Spontaneous Bowel Movement (SBM) Frequency Rate (SBMs/Week) During the Treatment Period</title>
+          <description>SBM was defined as a BM that occurred in the absence of laxative, suppository, or enema use on the calendar day of the BM or the calendar day before the BM. SBM rate was defined as SBMs/week during the 4-week Treatment period. Participants recorded the occurrence of BMs and use of rescue medication, morning and evening, daily in an eDiary since pretreatment period. The SBM frequency rate (SBMs/week) during the analysis period for each participant were calculated as [(total number of SBMs in the analysis period/number of days in the analysis period)*7]. Baseline value was based on values collected 14 days before randomization up to randomization. Change from Baseline was calculated as the SBM frequency rate during the 4-week treatment period - SBM frequency rate at baseline. A positive change from Baseline indicates improvement.</description>
+          <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+          <units>Spontaneous Bowel Movements per Week</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="29"/>
+                <count group_id="O3" value="21"/>
+                <count group_id="O4" value="23"/>
+                <count group_id="O5" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.447" spread="1.376"/>
+                    <measurement group_id="O2" value="1.991" spread="2.349"/>
+                    <measurement group_id="O3" value="2.298" spread="2.634"/>
+                    <measurement group_id="O4" value="2.678" spread="2.774"/>
+                    <measurement group_id="O5" value="3.222" spread="2.194"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in 4-week Abdominal Pain Daytime Symptoms Based on Evening Assessment of Abdominal Pain Symptoms</title>
+        <description>The abdominal pain score was measured using 5-point scale. Participants answered the questions, How much did your tummy hurt as: 0=none, 1=a tiny bit, 2=a little, 3=some, and 4=a lot. The 4-week daytime abdominal pain was calculated as the average of nonmissing scores in evening eDiary during the Treatment Period with higher value indicating greater symptom severity. Baseline value was the average of non-missing values collected 14 days before randomization. Change from Baseline was calculated as the daytime abdominal pain score during the 4-week treatment period (i.e. average of non-missing daytime scores during 4-week treatment period) - daytime abdominal pain score at baseline. A negative change from Baseline indicates improvement.</description>
+        <time_frame>Baseline (14 days prior to randomization) to week 4</time_frame>
+        <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Matching Placebo</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O2">
+            <title>Linaclotide Dose A</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O3">
+            <title>Linaclotide Dose B</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O4">
+            <title>Linaclotide Dose C</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal,, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O5">
+            <title>Linaclotide Approved Adult Dose</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in 4-week Abdominal Pain Daytime Symptoms Based on Evening Assessment of Abdominal Pain Symptoms</title>
+          <description>The abdominal pain score was measured using 5-point scale. Participants answered the questions, How much did your tummy hurt as: 0=none, 1=a tiny bit, 2=a little, 3=some, and 4=a lot. The 4-week daytime abdominal pain was calculated as the average of nonmissing scores in evening eDiary during the Treatment Period with higher value indicating greater symptom severity. Baseline value was the average of non-missing values collected 14 days before randomization. Change from Baseline was calculated as the daytime abdominal pain score during the 4-week treatment period (i.e. average of non-missing daytime scores during 4-week treatment period) - daytime abdominal pain score at baseline. A negative change from Baseline indicates improvement.</description>
+          <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+          <units>Units on a Scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="29"/>
+                <count group_id="O3" value="21"/>
+                <count group_id="O4" value="23"/>
+                <count group_id="O5" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.654" spread="0.789"/>
+                    <measurement group_id="O2" value="-0.709" spread="0.977"/>
+                    <measurement group_id="O3" value="-0.565" spread="0.861"/>
+                    <measurement group_id="O4" value="-0.648" spread="0.948"/>
+                    <measurement group_id="O5" value="-1.192" spread="1.032"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in 4-week Stool Consistency</title>
+        <description>Participants used 7-point pediatric Bristol Stool Form (p-BSFS) scale to rate stool consistency for each BM in morning and evening eDiary where 1=small hard lumps or balls like pebbles,2=fat sausage shape but lumpy and hard,3=a sausage but with cracks on it,4=sausage or snake, smooth and soft,5=chicken nuggets, soft smooth blobs,6=oatmeal, fluffy mushy pieces,7=milkshake, watery. Scores in 4-week treatment period were calculated as mean of participants non-missing, SBM associated p-BSFS scores during 4-week treatment period. Baseline value was based on values collected 14 days before randomization up to randomization.</description>
+        <time_frame>Baseline (14 days prior to randomization and up to randomization) to week 4</time_frame>
+        <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Matching Placebo</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O2">
+            <title>Linaclotide Dose A</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O3">
+            <title>Linaclotide Dose B</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O4">
+            <title>Linaclotide Dose C</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal,, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O5">
+            <title>Linaclotide Approved Adult Dose</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in 4-week Stool Consistency</title>
+          <description>Participants used 7-point pediatric Bristol Stool Form (p-BSFS) scale to rate stool consistency for each BM in morning and evening eDiary where 1=small hard lumps or balls like pebbles,2=fat sausage shape but lumpy and hard,3=a sausage but with cracks on it,4=sausage or snake, smooth and soft,5=chicken nuggets, soft smooth blobs,6=oatmeal, fluffy mushy pieces,7=milkshake, watery. Scores in 4-week treatment period were calculated as mean of participants non-missing, SBM associated p-BSFS scores during 4-week treatment period. Baseline value was based on values collected 14 days before randomization up to randomization.</description>
+          <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+          <units>Units on a Scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="24"/>
+                <count group_id="O3" value="16"/>
+                <count group_id="O4" value="22"/>
+                <count group_id="O5" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.653" spread="0.949"/>
+                    <measurement group_id="O2" value="1.200" spread="1.068"/>
+                    <measurement group_id="O3" value="1.502" spread="1.272"/>
+                    <measurement group_id="O4" value="2.054" spread="1.349"/>
+                    <measurement group_id="O5" value="1.345" spread="0.813"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in 4-week Severity of Straining</title>
+        <description>Severity of straining was scored on 5-point scale for question-When you pooped, how hard did you push? The score ranges from 0= not hard at all,1= I pushed a tiny bit hard,2= I pushed a little hard,3= I pushed hard,4= I pushed very hard with higher scores indicating more severe straining. Participants recorded degree of straining for each BM in morning and evening eDiary. Scores during 4-week treatment period were calculated as mean of participant's non-missing, SBM associated straining scores during 4-week treatment period.</description>
+        <time_frame>Baseline (14 days prior to randomization and up to randomization) to week 4</time_frame>
+        <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Matching Placebo</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O2">
+            <title>Linaclotide Dose A</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O3">
+            <title>Linaclotide Dose B</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O4">
+            <title>Linaclotide Dose C</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal,, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O5">
+            <title>Linaclotide Approved Adult Dose</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in 4-week Severity of Straining</title>
+          <description>Severity of straining was scored on 5-point scale for question-When you pooped, how hard did you push? The score ranges from 0= not hard at all,1= I pushed a tiny bit hard,2= I pushed a little hard,3= I pushed hard,4= I pushed very hard with higher scores indicating more severe straining. Participants recorded degree of straining for each BM in morning and evening eDiary. Scores during 4-week treatment period were calculated as mean of participant's non-missing, SBM associated straining scores during 4-week treatment period.</description>
+          <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+          <units>Units on a Scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+                <count group_id="O2" value="24"/>
+                <count group_id="O3" value="16"/>
+                <count group_id="O4" value="22"/>
+                <count group_id="O5" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.576" spread="0.915"/>
+                    <measurement group_id="O2" value="-0.782" spread="1.187"/>
+                    <measurement group_id="O3" value="-0.859" spread="0.993"/>
+                    <measurement group_id="O4" value="-1.222" spread="0.972"/>
+                    <measurement group_id="O5" value="-1.236" spread="1.042"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in 4-week Abdominal Bloating Daytime Symptoms Based on Evening Assessment</title>
+        <description>Participants recorded their assessment of abdominal bloating in the evening eDiary. Participants answered the question: How big and full did your tummy feel? on a scale, where: 0=none, 1=a tiny bit, 2=a little, 3=medium or 4=very, with a higher score indicating more severe bloating. Baseline value was the average of values collected 14 days before randomization. The 4-week daytime abdominal bloating symptoms were calculated as the average of non-missing scores reported in the evening eDiary during the treatment period. Change from Baseline was calculated as the 4-week daytime abdominal bloating score during the treatment period - daytime abdominal bloating score at baseline. A negative change from Baseline indicates improvement.</description>
+        <time_frame>Baseline (14 days prior to randomization) to week 4</time_frame>
+        <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Matching Placebo</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O2">
+            <title>Linaclotide Dose A</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O3">
+            <title>Linaclotide Dose B</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O4">
+            <title>Linaclotide Dose C</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal,, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O5">
+            <title>Linaclotide Approved Adult Dose</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in 4-week Abdominal Bloating Daytime Symptoms Based on Evening Assessment</title>
+          <description>Participants recorded their assessment of abdominal bloating in the evening eDiary. Participants answered the question: How big and full did your tummy feel? on a scale, where: 0=none, 1=a tiny bit, 2=a little, 3=medium or 4=very, with a higher score indicating more severe bloating. Baseline value was the average of values collected 14 days before randomization. The 4-week daytime abdominal bloating symptoms were calculated as the average of non-missing scores reported in the evening eDiary during the treatment period. Change from Baseline was calculated as the 4-week daytime abdominal bloating score during the treatment period - daytime abdominal bloating score at baseline. A negative change from Baseline indicates improvement.</description>
+          <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+          <units>Units on a Scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="29"/>
+                <count group_id="O3" value="21"/>
+                <count group_id="O4" value="22"/>
+                <count group_id="O5" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.438" spread="0.754"/>
+                    <measurement group_id="O2" value="-0.486" spread="0.974"/>
+                    <measurement group_id="O3" value="-0.515" spread="0.992"/>
+                    <measurement group_id="O4" value="-0.440" spread="0.823"/>
+                    <measurement group_id="O5" value="-0.595" spread="1.284"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in 4-week Overall Complete Spontaneous Bowel Movement (CSBM) Frequency Rate (CSBMs Per Week)</title>
+        <description>SBM was defined as a BM that occurred in the absence of laxative, suppository, or enema use on the calendar day of the BM or the calendar day before the BM. A CSBM was an SBM that was associated with a sense of complete evacuation. Participants recorded their assessment of the sensation of incomplete evacuation for each BM in the morning and evening eDiary. The 4-week overall CSBM frequency rate was calculated as [total number of CSBMs in the analysis period/number of days in the analysis period]*7). Baseline value was based on values collected 14 days before randomization and up to randomization. Change from Baseline was calculated as the CSBM frequency rate during the 4-week treatment period - CSBM frequency rate at baseline. A positive change from Baseline indicates improvement.</description>
+        <time_frame>Baseline (14 days prior to randomization and up to randomization) to week 4</time_frame>
+        <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Matching Placebo</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O2">
+            <title>Linaclotide Dose A</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O3">
+            <title>Linaclotide Dose B</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O4">
+            <title>Linaclotide Dose C</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal,, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+          <group group_id="O5">
+            <title>Linaclotide Approved Adult Dose</title>
+            <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in 4-week Overall Complete Spontaneous Bowel Movement (CSBM) Frequency Rate (CSBMs Per Week)</title>
+          <description>SBM was defined as a BM that occurred in the absence of laxative, suppository, or enema use on the calendar day of the BM or the calendar day before the BM. A CSBM was an SBM that was associated with a sense of complete evacuation. Participants recorded their assessment of the sensation of incomplete evacuation for each BM in the morning and evening eDiary. The 4-week overall CSBM frequency rate was calculated as [total number of CSBMs in the analysis period/number of days in the analysis period]*7). Baseline value was based on values collected 14 days before randomization and up to randomization. Change from Baseline was calculated as the CSBM frequency rate during the 4-week treatment period - CSBM frequency rate at baseline. A positive change from Baseline indicates improvement.</description>
+          <population>ITT population, all participants who had at least 1 postbaseline entry on BM characteristic assessments that determined occurrences of SBMs (i.e. BM frequency and rescue medication use).</population>
+          <units>CSBMs per Week</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="29"/>
+                <count group_id="O3" value="21"/>
+                <count group_id="O4" value="23"/>
+                <count group_id="O5" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.825" spread="1.211"/>
+                    <measurement group_id="O2" value="0.644" spread="1.029"/>
+                    <measurement group_id="O3" value="1.167" spread="1.822"/>
+                    <measurement group_id="O4" value="1.721" spread="2.292"/>
+                    <measurement group_id="O5" value="2.358" spread="2.199"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From the first dose of study treatment period (4 weeks), up to Day 30 after the last dose, for serious adverse events (SAEs) and all-cause mortality. From the first dose, up to Day 1 after the last dose, for other adverse events.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Matching Placebo</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast&#xD;
+Placebo liquid oral solution or placebo solid oral capsule in children 7-11 years of age&#xD;
+Placebo solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="E2">
+          <title>Linaclotide Dose A</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose A: 18 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose A: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose A: 36 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="E3">
+          <title>Linaclotide Dose B</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose B: 36 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose B: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose B: 72 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="E4">
+          <title>Linaclotide Dose C</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal,, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Dose C: 72 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight 18 to &lt;35 kg&#xD;
+Dose C: 145 micrograms liquid oral solution or solid oral capsule in children 7-11 years of age with weight ≥ 35 kg&#xD;
+Dose C: 145 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+        <group group_id="E5">
+          <title>Linaclotide Approved Adult Dose</title>
+          <description>Taken once daily each evening, at least 30 minutes before their evening meal, with the exception of the first Treatment Period dose which will be taken at the study center, after at least a 2-hour fast.&#xD;
+Approved Adult Dose: 290 micrograms solid oral capsule in children 12-17 years of age</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 22.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Faecaloma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaphylactic Reaction</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 22.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="5" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="3" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="2" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Haematemesis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Otitis externa</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="19"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="29"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="24"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>All data generated in this study are the property of the Sponsor. Publication of the results by the Investigator will be subject to mutual agreement between the Investigator and the Sponsor and will follow the Sponsor's standard operating procedures on publications.</restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Due to slow participant enrollment, further screening was terminated. This decision was not due to any safety concern.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Therapeutic Area Head</name_or_title>
+      <organization>Allergan</organization>
+      <phone>714-246-4500</phone>
+      <email>clinicaltrials@allergan.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

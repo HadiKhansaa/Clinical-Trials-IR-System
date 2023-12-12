@@ -1,0 +1,533 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03606395</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NAV-17A-001</org_study_id>
+    <nct_id>NCT03606395</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability, PK and Efficacy of Single Doses of NV-5138 in Healthy Volunteers and Subjects With Treatment-Resistant Depression</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled Study of the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of Single Doses of NV-5138 in Healthy Volunteers and Subjects With Treatment-Resistant Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Navitor Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Navitor Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized, two-part, placebo-controlled study of single ascending doses of NV-5138 in&#xD;
+      healthy volunteers, and a single dose of NV-5138 in subjects with Treatment-Resistant&#xD;
+      Depression (TRD)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, two-part, double-blind, placebo-controlled study of single ascending&#xD;
+      dosage levels of NV-5138 in healthy volunteers and a single dose of NV-5138 in subjects with&#xD;
+      TRD. The study includes an up to 28-day screening period, an in-house period during which&#xD;
+      NV-5138 or placebo will be administered, and a 3- to 7-day follow-up period after discharge.&#xD;
+&#xD;
+      In Part A of the study (single-ascending-dose [SAD] portion in healthy volunteers), up to&#xD;
+      approximately 48 healthy volunteers will be randomly assigned to double-blind treatment.&#xD;
+      Eight (8) subjects will be randomized in each of six dosage-level cohorts (150, 300, 600,&#xD;
+      1000, 1600, or 2400 mg NV-5138, or placebo, administered as an oral solution). Within each&#xD;
+      cohort, six subjects will be randomized to receive NV-5138 and two subjects will be&#xD;
+      randomized to receive placebo. Each subject will receive only one dose of either NV-5138 or&#xD;
+      placebo on Day 1. Within each cohort, initially one subject will receive NV-5138 and one&#xD;
+      subject will receive placebo. Provided no clinically significant safety issues are noted in&#xD;
+      the 24 hours after dosing the initial two subjects in the cohort, the six subjects remaining&#xD;
+      in the cohort may be dosed.&#xD;
+&#xD;
+      In Part B of the study (single-dose portion in subjects with TRD), up to approximately 40&#xD;
+      subjects will be randomly assigned to double-blind treatment in one cohort. The dosage level&#xD;
+      for this cohort will be determined based on the safety, tolerability, and pharmacokinetic&#xD;
+      data from Part A of the study. However, in no case will the dose in Part B of the study&#xD;
+      exceed the highest dose administered in Part A of the study. Within this cohort, after&#xD;
+      potential eligibility has been confirmed by a site-independent review process, twenty (20)&#xD;
+      subjects will be randomized to receive NV-5138 and twenty (20) subjects will be randomized to&#xD;
+      receive placebo.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 6, 2018</start_date>
+  <completion_date type="Actual">July 7, 2019</completion_date>
+  <primary_completion_date type="Actual">June 9, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, placebo-controlled, single dose</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>double-blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of treatment-related adverse events as evidenced by CTCAE v.5.0</measure>
+    <time_frame>Baseline through Day 9</time_frame>
+    <description>Number of subjects with treatment emergent adverse events</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum plasma concentration (Cmax) of a single dose of NV-5138</measure>
+    <time_frame>baseline to Day 4</time_frame>
+    <description>Maximum plasma concentration (Cmax)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal elimination half-life (t1/2λz) of a single dose of NV-5138</measure>
+    <time_frame>baseline to day 4</time_frame>
+    <description>Terminal elimination half-life (t1/2λz)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the plasma concentration-time curve from zero to infinity (AUC) of a single dose of NV-5138</measure>
+    <time_frame>baseline to day 4</time_frame>
+    <description>Area under the plasma concentration-time curve from zero to infinity (AUC)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma clearance (CL) of a single dose of NV-5138</measure>
+    <time_frame>baseline to day 4</time_frame>
+    <description>Plasma clearance (CL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean residence time (MRT) of a single dose of NV-5138</measure>
+    <time_frame>baseline to day 4</time_frame>
+    <description>Mean residence time (MRT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change from baseline in Montgomery Asberg Depression Rating Scale (MADRS) Total Score</measure>
+    <time_frame>baseline to Day 2</time_frame>
+    <description>The MADRS is a clinician-rated scale designed to measure depression severity and detects changes due to antidepressant treatment. The scale consists of 10 items, each of which is scored from 0 (item not present) to 6 (severe or continuous presence of the symptoms), for a total possible score of 60. Higher scores represent a more severe condition. The MADRS evaluates apparent sadness, reported sadness, inner tension, sleep, appetite, concentration, lassitude, inability to feel (interest level), pessimistic thoughts and suicidal thoughts.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">80</enrollment>
+  <condition>Treatment Resistant Depression</condition>
+  <arm_group>
+    <arm_group_label>Single ascending dose_healthy subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NV-5138:&#xD;
+Single dose of 150, 300, 600, 1000, 1600 or 2400 mg single dose of placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Single dose in subjects with TRD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NV-5138 oral solution single dose (dose to be determined from Part A) single dose of placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NV-5138</intervention_name>
+    <description>single ascending dose</description>
+    <arm_group_label>Single ascending dose_healthy subjects</arm_group_label>
+    <arm_group_label>Single dose in subjects with TRD</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebos</intervention_name>
+    <description>Placebo liquid solution to mimic NV-5138</description>
+    <arm_group_label>Single ascending dose_healthy subjects</arm_group_label>
+    <arm_group_label>Single dose in subjects with TRD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (Subjects in Part A or Part B):&#xD;
+&#xD;
+          1. Subjects must understand the nature of the study and must provide signed and dated&#xD;
+             written informed consent before the conduct of any study-related procedures.&#xD;
+&#xD;
+          2. Female subjects must be postmenopausal, surgically sterile, or agree to use one or&#xD;
+             more of the following forms of contraception from the time of signing the informed&#xD;
+             consent form through at least 30 days following the administration of test article:&#xD;
+             hormonal (i.e., oral, transdermal, implant, or injection); double barrier (i.e.,&#xD;
+             condom, diaphragm with spermicide); intrauterine device (IUD); or vasectomized partner&#xD;
+             (6 months minimum). Postmenopausal women must have had ≥ 12 months of spontaneous&#xD;
+             amenorrhea with follicle-stimulating hormone [FSH] ≥ 30 mIU/mL. Surgically sterile&#xD;
+             women are defined as those who have had a hysterectomy, bilateral ovariectomy, or&#xD;
+             bilateral tubal ligation. All women must have a negative pregnancy test result before&#xD;
+             administration of test article.&#xD;
+&#xD;
+          3. Male subjects who are biologically capable of having children (i.e., non-vasectomized)&#xD;
+             must agree to use one or more of the above forms of birth control for either&#xD;
+             themselves or their partner(s), as appropriate, from the time of signing the informed&#xD;
+             consent form through at least 90 days following the administration of test article.&#xD;
+&#xD;
+          4. Subjects must be, in the opinion of the investigator, able to participate in all&#xD;
+             scheduled evaluations, likely to complete all required tests, and likely to be&#xD;
+             compliant.&#xD;
+&#xD;
+          5. Subjects must be fluent in English.&#xD;
+&#xD;
+             Inclusion Criteria (Subjects in Part A Only):&#xD;
+&#xD;
+          6. Subjects must be age 18-55, inclusive.&#xD;
+&#xD;
+          7. Subjects must have a body mass index (BMI) between 19 and 30, inclusive.&#xD;
+&#xD;
+             Inclusion Criteria (Subjects in Part B Only):&#xD;
+&#xD;
+          8. Subjects must be age 18-65, inclusive.&#xD;
+&#xD;
+          9. Subjects must have a BMI between 19 and 35, inclusive.&#xD;
+&#xD;
+         10. Subjects must have a diagnosis of major depressive disorder (MDD) without psychotic&#xD;
+             features, according to the Diagnostic and Statistical Manual of Mental Disorders, 5th&#xD;
+             Edition (DSM-5) criteria, based on clinical assessment and confirmed by the Mini&#xD;
+             International Neuropsychiatric Interview (MINI).&#xD;
+&#xD;
+         11. Subjects must have had an inadequate response to at least one but no more than four&#xD;
+             antidepressants (stable, adequate dose, at least 6 weeks treatment) in the current&#xD;
+             episode of depression. The Massachusetts General Hospital-Antidepressant Treatment&#xD;
+             Response Questionnaire (MGH-ATRQ) will be used to assess antidepressant treatment&#xD;
+             response. Less than 50% improvement will be considered inadequate response.&#xD;
+&#xD;
+         12. Subjects must have a Montgomery-Åsburg Depression Rating Scale (MADRS) total score ≥&#xD;
+             21 at screen and at all evaluations between screen and dose administration (Day 1).&#xD;
+&#xD;
+         13. Subjects must have a Raskin Depression Rating Scale score ≥ 9 at screen and at all&#xD;
+             evaluations between screen and dose administration (Day 1).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion Criteria (Subjects in Part A or Part B):&#xD;
+&#xD;
+        Subjects must not have:&#xD;
+&#xD;
+          1. A positive pregnancy test result or be breastfeeding.&#xD;
+&#xD;
+          2. A clinically significant illness (including chronic, persistent, or acute infection),&#xD;
+             medical/surgical procedure, or trauma within 30 days prior to screen or between screen&#xD;
+             and dose administration (Day 1).&#xD;
+&#xD;
+          3. A history or presence of a clinically significant hepatic, renal, gastrointestinal,&#xD;
+             cardiovascular, endocrine, respiratory, immunologic, hematologic, dermatologic, or&#xD;
+             neurologic abnormality.&#xD;
+&#xD;
+          4. A history or presence of any disease, condition, or surgery likely to affect drug&#xD;
+             absorption, distribution, metabolism, or excretion.&#xD;
+&#xD;
+          5. A clinically significant abnormality on physical examination, neurological&#xD;
+             examination, electrocardiogram (ECG), or laboratory evaluations at screen or between&#xD;
+             screen and dose administration (Day 1).&#xD;
+&#xD;
+          6. Alanine aminotransferase or aspartate aminotransferase levels greater than 1.5 times&#xD;
+             the upper limit of normal (ULN) at screen or between screen and dose administration&#xD;
+             (Day 1).&#xD;
+&#xD;
+          7. Creatinine clearance &lt; 60 mL/min, according to the Cockcroft-Gault equation.&#xD;
+&#xD;
+          8. Leukocyte or neutrophil counts less than the lower limit of normal (LLN) at screen or&#xD;
+             between screen and dose administration (Day 1).&#xD;
+&#xD;
+          9. A clinically significant vital signs abnormality at screen or between screen and dose&#xD;
+             administration (Day 1). This includes, but is not limited to, the following, in the&#xD;
+             supine position (after 10 minutes supine controlled rest): (a) systolic blood pressure&#xD;
+             &gt; 140 mmHg, (b) diastolic blood pressure &gt; 90 mmHg, or (c) heart rate &lt; 45 or &gt; 85&#xD;
+             beats per minute.&#xD;
+&#xD;
+         10. A corrected QT interval measurement corrected according to the Fridericia rule (QTcF)&#xD;
+             &gt; 450 msec for men and &gt; 470 msec for women during controlled rest at screen or&#xD;
+             between screen and dose administration (Day 1), or family history of long-QT syndrome.&#xD;
+&#xD;
+         11. Any clinically significant abnormalities in rhythm, conduction, or morphology of the&#xD;
+             resting ECG and any abnormalities in the 12-lead ECG that, in the judgement of the&#xD;
+             investigator, may interfere with the interpretation of QTc interval changes, including&#xD;
+             abnormal ST-T-wave morphology or left ventricular hypertrophy.&#xD;
+&#xD;
+         12. PR (PQ) interval shortening &lt; 120 msec (PR &lt; 120 msec but &gt; 110 msec is acceptable if&#xD;
+             there is no evidence of ventricular pre-excitation).&#xD;
+&#xD;
+         13. PR (PQ) interval prolongation (&gt; 240 msec), intermittent second-degree (Wenckebach&#xD;
+             block while asleep or in deep rest is not exclusionary) or third-degree&#xD;
+             atrioventricular block.&#xD;
+&#xD;
+         14. Persistent or intermittent complete bundle branch block (BBB), or intraventricular&#xD;
+             conduction delay (IVCD) with QRS &gt; 110 msec. Subjects with QRS &gt; 110 msec but &lt; 115&#xD;
+             msec are acceptable if there is no evidence of ventricular hypertrophy or&#xD;
+             pre-excitation.&#xD;
+&#xD;
+         15. Significant (&gt; 10%) weight loss or gain within 30 days prior to screen or between&#xD;
+             screen and dose administration (Day 1).&#xD;
+&#xD;
+         16. A history of seizure.&#xD;
+&#xD;
+         17. A history of clinically significant head trauma, including closed head injury with&#xD;
+             loss of consciousness.&#xD;
+&#xD;
+         18. A history of clinically significant symptomatic orthostatic hypotension (i.e.,&#xD;
+             postural syncope).&#xD;
+&#xD;
+         19. A history of neuroleptic malignant syndrome.&#xD;
+&#xD;
+         20. A history of chronic urinary tract infections.&#xD;
+&#xD;
+         21. A history of cancer within 5 years prior to screen or between screen and randomization&#xD;
+             (with the exception of non-metastatic basal and/or squamous cell carcinoma of the&#xD;
+             skin), any history of renal cell carcinoma or breast cancer, or a family history of&#xD;
+             lymphangioleiomyomatosis in association with tuberous sclerosis complex (TSC-LAM).&#xD;
+&#xD;
+         22. Any illness or condition that, in the opinion of the investigator, (a) significantly&#xD;
+             increases the potential risk associated with the subject's participation in the study,&#xD;
+             (b) decreases the likelihood the subject will complete the study, and/or (c) may&#xD;
+             confound the results of the study.&#xD;
+&#xD;
+         23. A diagnosis of intellectual disability (intellectual developmental disorder) or mental&#xD;
+             retardation.&#xD;
+&#xD;
+         24. Used prescription or nonprescription medications for attention-deficit hyperactivity&#xD;
+             disorder (ADHD), narcolepsy, or cognitive enhancement (e.g., methylphenidate,&#xD;
+             atomoxetine, modafinil, ginkgo biloba, and huperzine A) within 1 month prior to screen&#xD;
+             or between screen and dose administration (Day 1).&#xD;
+&#xD;
+         25. Used any vitamin or herbal supplement within 2 weeks prior to dose administration (Day&#xD;
+             1), unless approved by the investigator and medical monitor.&#xD;
+&#xD;
+         26. Consumed alcohol or used any over-the-counter medication (other than up to 3 g per day&#xD;
+             paracetamol/acetaminophen) within 7 days prior to screen or between screen and dose&#xD;
+             administration (Day 1).&#xD;
+&#xD;
+         27. Regularly consumed (e.g., more days than not) excessive quantities of&#xD;
+             xanthine-containing beverages (e.g., more than five cups of coffee or the equivalent&#xD;
+             per day) within 30 days prior to screen or between screen and dose administration (Day&#xD;
+             1).&#xD;
+&#xD;
+         28. Donated blood or plasma within 6 weeks prior to screen or between screen and dose&#xD;
+             administration (Day 1).&#xD;
+&#xD;
+         29. Used any experimental medication, device, or biologic within 3 months or five&#xD;
+             half-lives (whichever is longer) prior to screen or between screen and dose&#xD;
+             administration (Day 1).&#xD;
+&#xD;
+         30. Currently employed by Navitor Pharmaceuticals, Inc. or by a clinical trial site&#xD;
+             participating in this study, or a first-degree relative of a Navitor Pharmaceuticals,&#xD;
+             Inc. employee or of an employee at a participating clinical trial site.&#xD;
+&#xD;
+         31. Any condition that, in the opinion of the investigator or medical monitor, makes the&#xD;
+             subject unsuitable for the study.&#xD;
+&#xD;
+         32. Strenuous physical activity within 1 week prior to dose administration (Day 1).&#xD;
+&#xD;
+         33. Unsatisfactory venous access.&#xD;
+&#xD;
+         34. Known or suspected hypersensitivity or idiosyncratic reaction to study drug or study&#xD;
+             drug excipients.&#xD;
+&#xD;
+             Exclusion Criteria (Subjects in Part A Only):&#xD;
+&#xD;
+         35. A clinically significant abnormality on electroencephalogram (EEG) at screen (e.g.,&#xD;
+             epileptiform activity).&#xD;
+&#xD;
+         36. Urine drug screen positive for a drug of abuse.&#xD;
+&#xD;
+         37. Used any prescription drug within 2 weeks prior to screen, or between screen and dose&#xD;
+             administration (Day 1).&#xD;
+&#xD;
+         38. Frequently used any tobacco-containing (e.g., cigar, cigarette or snuff) or&#xD;
+             nicotine-containing product (e.g., nicotine chewing gum, nicotine plasters, or other&#xD;
+             product used for smoking cessation) within 3 months prior to screen. Frequent use is&#xD;
+             defined as 3 or more days per week. Use of any tobacco- or nicotine-containing product&#xD;
+             is prohibited within 1 week of dose administration (Day 1).&#xD;
+&#xD;
+         39. Any history of psychiatric disorders, including substance use disorders, according to&#xD;
+             the DSM-5 criteria.&#xD;
+&#xD;
+         40. Acute suicidality as evidenced by answering &quot;yes&quot; for Question 4 (&quot;Lifetime&quot;) or&#xD;
+             Question 5 (&quot;Lifetime&quot;) on the Columbia-Suicide Severity Rating Scale (C-SSRS),&#xD;
+             indicating active suicidal ideation with any intent to act, at screen or between&#xD;
+             screen and dose administration (Day 1), or by answering &quot;yes&quot; for Question 3 (&quot;In the&#xD;
+             Past Month&quot;) on the C-SSRS, indicating active suicidal ideation with any methods (not&#xD;
+             plan) without intent to act, at screen or between screen and dose administration (Day&#xD;
+             1).&#xD;
+&#xD;
+         41. History of suicidal behavior such that a determination of &quot;yes&quot; is made on the&#xD;
+             Suicidal Behavior section of the C-SSRS for &quot;Actual Attempt,&quot; &quot;Interrupted Attempt,&quot;&#xD;
+             &quot;Aborted Attempt,&quot; or &quot;Preparatory Acts or Behavior.&quot;&#xD;
+&#xD;
+             Exclusion Criteria (Subjects in Part B Only):&#xD;
+&#xD;
+         42. Urine drug screen positive for a drug of abuse, except cannabis. Prior use of cannabis&#xD;
+             is permitted provided the subject agrees to abstain from smoking or ingesting cannabis&#xD;
+             within 1 week of dose administration (Day 1) and during the study (including the&#xD;
+             follow-up period), and provided that, in the judgement of the investigator, the&#xD;
+             subject is likely to be compliant regarding this restriction.&#xD;
+&#xD;
+         43. Used any psychopharmacologic drug within 2 weeks prior to dose administration (Day 1),&#xD;
+             except for sleep medication, if used less than 4 days/week within 1 month prior to&#xD;
+             screen and between screen and dose administration (Day 1).&#xD;
+&#xD;
+         44. Any history of a psychotic disorder, MDD with psychosis, bipolar or related disorders,&#xD;
+             post-traumatic stress disorder, obsessive-compulsive disorder (if primary),&#xD;
+             intellectual disability (DSM-5 diagnostic code 319), borderline personality disorder,&#xD;
+             antisocial personality disorder, histrionic personality disorder, or narcissistic&#xD;
+             personality disorder, according to the DSM-5 criteria, or any other psychiatric or&#xD;
+             neurologic disorder or symptom that could pose undue risk to the subject or compromise&#xD;
+             the study.&#xD;
+&#xD;
+         45. Moderate or severe substance use disorder within 1 year prior to screen, according to&#xD;
+             the DSM-5 criteria.&#xD;
+&#xD;
+         46. Acute suicidality as evidenced by answering &quot;yes&quot; for Question 4 (&quot;In the Past Year&quot;)&#xD;
+             or Question 5 (&quot;In the Past Year&quot;) on the C-SSRS, indicating active suicidal ideation&#xD;
+             with any intent to act, at screen or between screen and dose administration (Day 1),&#xD;
+             or by answering &quot;yes&quot; for Question 3 (&quot;In the Past Month&quot;) on the C-SSRS, indicating&#xD;
+             active suicidal ideation with any methods (not plan) without intent to act, at screen&#xD;
+             or between screen and dose administration (Day 1).&#xD;
+&#xD;
+         47. History of suicidal behavior such that a determination of &quot;yes&quot; is made on the&#xD;
+             Suicidal Behavior section of the C-SSRS (&quot;In the Past Year&quot;) for &quot;Actual Attempt,&quot;&#xD;
+             &quot;Interrupted Attempt,&quot; &quot;Aborted Attempt,&quot; or &quot;Preparatory Acts or Behavior.&quot;&#xD;
+&#xD;
+         48. MADRS item 10 score of 5 at screen or between screen and dose administration (Day 1).&#xD;
+&#xD;
+         49. MADRS total score change ≥ 20% between screen and dose administration (Day 1).&#xD;
+&#xD;
+         50. Covi Anxiety scale score ≥ Raskin Depression Rating Scale score at screen or between&#xD;
+             screen and dose administration (Day 1).&#xD;
+&#xD;
+         51. History of clinically significant physical, sexual, or psychological abuse (age ≤ 7&#xD;
+             years).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Shelton, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Collaborative Neuroscience Network</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Synergy San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>91945</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MD Clinical</name>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Innovative Clinical Research Inc</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Centers of America</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis Clinical Trials</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hassman Research Institute</name>
+      <address>
+        <city>Berlin</city>
+        <state>New Jersey</state>
+        <zip>08009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Midwest Clinical Research</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45417</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2019</verification_date>
+  <study_first_submitted>July 10, 2018</study_first_submitted>
+  <study_first_submitted_qc>July 27, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2018</study_first_posted>
+  <last_update_submitted>July 7, 2019</last_update_submitted>
+  <last_update_submitted_qc>July 7, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 9, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Treatment-Resistant</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

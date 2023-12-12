@@ -1,0 +1,267 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04826978</url>
+  </required_header>
+  <id_info>
+    <org_study_id>T352/2017</org_study_id>
+    <nct_id>NCT04826978</nct_id>
+  </id_info>
+  <brief_title>Auditory Environment by Parents of Preterm Infants</brief_title>
+  <acronym>APPLE</acronym>
+  <official_title>Auditory Environment by Parents of Preterm Infant; Language Development and Eye-movements</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Turku University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Helsinki</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tampere University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Turku</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Tartu</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Turku University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Data on parent-infant physical closeness and infants' auditory environment will be collected&#xD;
+      among preterm infants when they are at gestational age of 32 to 34 weeks. The follow-up&#xD;
+      includes eye-tracker test at 7 months of corrected age for face preferences of the infants&#xD;
+      and simultaneously parents' eye movements and pupil diameter responses. During the second&#xD;
+      year, the follow up includes MacArthur Communicative Development Inventories (lexical&#xD;
+      development) at 12 and 24 months of age; language development test (Reynell Developmental&#xD;
+      Language Scales III) and developmental test (Bayley Scales for Infant development Edition&#xD;
+      III) at 24 months of corrected age.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study population: 63 infants from Turku University Hospital and 53 infants from Tallinn&#xD;
+      Children's Hospital were recruited in 1/2017-12/2020. Inclusion criteria: Born before 32+0&#xD;
+      week of gestation without life-threatening diseases or congenital anomalies or syndromes.&#xD;
+&#xD;
+      Infant auditory environment was recorded for 16 hours at 32+0 to 33+6 weeks of postmenstrual&#xD;
+      age. In addition, Parental Closeness Diary was recorded for 14 days to measure the parents'&#xD;
+      presence and parent-infant closeness to get an estimate of language environment of the child&#xD;
+      during a 14-day period at around 32-34 weeks of gestation. Edinburgh Postnatal Depression&#xD;
+      Scale was collected during the recording day from both parents to identify parents' risk for&#xD;
+      perinatal depression. During the day of recording, the research nurse reported the time when&#xD;
+      a nurse was in the patient room. The auditory environment will be analyzed quantitatively and&#xD;
+      qualitatively.&#xD;
+&#xD;
+      Outcomes: Infant face preference for familiar and unfamiliar faces. At the corrected age of 7&#xD;
+      months (± 7 days), an eye-tracking based test battery will be used to assess infants'&#xD;
+      attention to familiar and unfamiliar faces. During the eye-tracking testing, the infants will&#xD;
+      sit on their parents' lap at ~60 cm distance from a stimulus monitor. Infants' eye movements&#xD;
+      will be measured by using a screen-based eye-tracker and a video camera.&#xD;
+&#xD;
+      The test will consist of a task assessing infants' attention to faces expressing neutral,&#xD;
+      happy and fearful emotion, posed by the infant's own parents and an unfamiliar (female)&#xD;
+      adult. In this task, the first stimulus (a non-face pattern or a face) is presented at the&#xD;
+      participant's point of fixation in the center of the computer display, and the second&#xD;
+      stimulus (a high-contrast distractor) 1 second later ~13-15° to the left or right of the&#xD;
+      center. Gaze disengagement times from the central to the lateral stimulus will be extracted&#xD;
+      from the eye tracking data (or from video data, if valid eye tracking data are missing).&#xD;
+      Disengagement times from trials conforming to the following a priori inclusion criteria will&#xD;
+      be used in the analyses: i) a sufficient length of fixation on the central stimulus (i.e.,70&#xD;
+      % of the time) during the analysis period, which start at the onset of the trial and ends at&#xD;
+      the onset of gaze disengagement or at maximum time out value (1000 ms post-target), ii)&#xD;
+      sufficient number of valid samples in the gaze data (i.e., no gaps longer than 200 ms), and,&#xD;
+      iii) valid information about the eye movement from the central to the lateral stimulus (i.e.,&#xD;
+      the eye movement did not occur during a period of missing gaze data) will be retained for&#xD;
+      analysis. The duration of attention dwell time on the first stimulus (face or non-face&#xD;
+      pattern) will be determined for the period starting 150 ms from the onset of the lateral&#xD;
+      stimulus and ending 1000 ms after the lateral stimulus onset. The duration will then be&#xD;
+      converted to a normalized dwell time index score by using the formula described in Leppänen&#xD;
+      et al. (2015). The shortest acceptable saccadic eye movement latency (150 ms) results in a&#xD;
+      dwell time score of 0, and the longest possible latency (or a lack of saccade, which is equal&#xD;
+      to the last measured time point of the first stimulus at 1000 ms) in a dwell time index score&#xD;
+      of 1. The dwell time indices will be calculated separately for each trial and averaged for&#xD;
+      non-face patterns (i.e., low-salience stimulus), for faces by familiarity (across emotion&#xD;
+      categories), and for faces by emotion category (across familiarity and separately by&#xD;
+      familiarity). The primary outcome of the analysis will be the mean dwell times for familiar&#xD;
+      and unfamiliar faces, adjusted for the mean dwell time for respective non-face patterns. All&#xD;
+      infants with &gt;2 valid trials per condition will be retained in the final statistical&#xD;
+      analyses.&#xD;
+&#xD;
+      Parents' attention and physiological responses to infant faces. Parents attentional and&#xD;
+      physiological (i.e., pupil dilation) to non-face patterns and faces of their own infant(s)&#xD;
+      and unknown infants will be assessed at infant age 7 months. Parents will be asked to provide&#xD;
+      pictures of their own infant(s) prior to each laboratory visit. Pictures displaying&#xD;
+      positive/content and distressed emotions will be asked.&#xD;
+&#xD;
+      Picture from an existing dataset will be used as unknown infant pictures. Non-faced patterns&#xD;
+      will be created by phase-scrambling the pictures so that they retain the low-level&#xD;
+      characteristics of the original faces, but are not identifiable as faces.&#xD;
+&#xD;
+      To assess attention, the adults will be asked to follow (by looking) a geometric shape (a&#xD;
+      checkerboard pattern, measuring 2x2 degrees) as it shifts location from the center of the&#xD;
+      screen (500-msec) to the left or right side of the screen (~13 degrees from the center).&#xD;
+      After the participant has shifted gaze from the center to the side (as determined by the eye&#xD;
+      tracker), the pattern will be replaced by a picture of a non-face pattern or a face for&#xD;
+      300-msec. The side of the non-face pattern and face (A= non-face left, face right or B= face&#xD;
+      left, non-face right) will be alternated between blocks of 20 trials following an ABBA-BAAB&#xD;
+      design. Using this approach, estimates of saccadic reaction times (SRTs) to the location of&#xD;
+      own infant face(s) vs. non-faces and two unknown infant faces vs non-face patterns. Because&#xD;
+      saccadic reaction times will always be initiated by the shifting location of the shape (a&#xD;
+      checkerboard pattern), any difference in mean SRT must reflect an endogenous or high-level&#xD;
+      bias towards one of the stimuli (e.g. own infant face), instead of exogenous stimulus&#xD;
+      properties. To extract attention indicators from the adult data, the latency of gaze shifts&#xD;
+      between the center of the screen and lateral stimulus positions (following shifts in stimulus&#xD;
+      position) will be analyzed by using the same procedures as those used for analyzing infant&#xD;
+      attentional data. To assess parents' sympathetic activation to infant cues, we will follow&#xD;
+      the procedures of our previous study (Yrttiaho et al., 2017). The adult will see a series of&#xD;
+      trials consisting of a short 1000-ms pre-stimulus interval with the non-face pattern and a&#xD;
+      4000-ms face stimulus (own or unknown infant). Pupil size will be measured from both eyes&#xD;
+      during the pre-stimulus interval (with random visual pattern that has the same low-level&#xD;
+      stimulus characteristics as paired face stimulus) and the presentation of the face stimuli.&#xD;
+      By matching the low-level characteristics of the two consecutive stimuli, the present&#xD;
+      approach minimizes the possibility that the recorded pupil dilation responses are driven by&#xD;
+      changes in stimulus luminance. Latencies for each stimulus category will be extracted and&#xD;
+      used as a primary dependent variable in subsequent statistical analyses. Physiological data&#xD;
+      from adults (pupil diameter) will be preprocessed using the steps described in our previous&#xD;
+      study (Yrttiaho et al., 2017), and pupil diameter in two time windows (based on prior&#xD;
+      studies, these windows will be 300-1200 and 3000-4000 ms after face onset, respectively) will&#xD;
+      be averaged to extract of pupil constriction and dilation, respectively. The dilation phase&#xD;
+      will be used as the primary index of sympathetic arousal to infant distress cues.&#xD;
+&#xD;
+      Information about the child's developing abilities of early language (receptive and&#xD;
+      expressive language development) will be assessed by MacArthur-Bates Communicative&#xD;
+      Development Inventory (MCDI) at 12 and 24 months of corrected age.&#xD;
+&#xD;
+      At two years of corrected age the language skills of the children were measured using the&#xD;
+      Reynell Development Language Scales III and MacArthur Communicative Development Inventories&#xD;
+      (the Words and Sentences form). In addition, children's cognitive development was measured&#xD;
+      using the Bayley Scales of Infant Development III.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 1, 2017</start_date>
+  <completion_date type="Anticipated">March 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Years</target_duration>
+  <primary_outcome>
+    <measure>Face recognition by the infant</measure>
+    <time_frame>7 months of corrected age</time_frame>
+    <description>Eye tracker test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Expressive language development</measure>
+    <time_frame>24 months of corrected age</time_frame>
+    <description>Reynell Developmental Language Scales III</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Receptive language development</measure>
+    <time_frame>12 to 24 months of corrected age</time_frame>
+    <description>The long form version of the Communicative Development Inventories</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive development</measure>
+    <time_frame>24 months of corrected age</time_frame>
+    <description>Bayley Scales of Infant Development III, cognitive scale</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Parents' attention and physiological responses to infant faces.</measure>
+    <time_frame>At 7 months of infant's corrected age</time_frame>
+    <description>Eye tracker and pupil reactions</description>
+  </primary_outcome>
+  <enrollment type="Actual">116</enrollment>
+  <condition>Infant Development</condition>
+  <condition>Preterm Birth</condition>
+  <condition>Language Development</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Auditory environment</intervention_name>
+    <description>Auditory environment</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        63 preterm infants with their parents were recruited from the NICU of Turku University&#xD;
+        Hospital and 53 preterm infants with their parents from the NICU of Tallinn Children's&#xD;
+        Hospital in 1/2017-12/2020.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Born before 32+0 week of gestation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Life-threatening diseases, congenital anomalies or syndromes or chromosomal&#xD;
+             abnormalities.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>3 Months</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Liisa Lehtonen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Turku</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Suvi Stolt, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Helsinki</affiliation>
+  </overall_official>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Turku University Hospital</investigator_affiliation>
+    <investigator_full_name>Liisa Lehtonen</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Preterm infant</keyword>
+  <keyword>Neonatal intensive care</keyword>
+  <keyword>Auditory environment</keyword>
+  <keyword>Parent-infant closeness</keyword>
+  <keyword>Social development</keyword>
+  <keyword>Cognitive development</keyword>
+  <keyword>Eye tracker</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Premature Birth</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

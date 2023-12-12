@@ -1,0 +1,516 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04323306</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MMV-MMV533_19_01</org_study_id>
+    <nct_id>NCT04323306</nct_id>
+  </id_info>
+  <brief_title>A Phase 1 Study to Assess the Safety, Tolerability, and Pharmacokinetic Profile of a Single Doses of MMV533.</brief_title>
+  <official_title>A Two-part, Phase 1 Study to Assess the Safety, Tolerability, and Pharmacokinetic Profile of Ascending Single Doses of MMV533, Including a Pilot Food Evaluation in Healthy Participants.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medicines for Malaria Venture</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Nucleus Network Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Southern Star Research Pty Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medicines for Malaria Venture</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase 1, single -centre study in 2 parts. The study designs for each part are well&#xD;
+      established for first-in-human studies and are appropriate to assess safety, tolerability and&#xD;
+      preliminary pharmacokinetics.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Part 1:&#xD;
+&#xD;
+      Double-blind, randomized, placebo-controlled, sequential ascending single dose study in&#xD;
+      healthy adult participants, 7 cohorts, and 1 additional cohort may be considered if needed&#xD;
+      according to the observed safety, tolerability, and pharmacokinetics results.&#xD;
+&#xD;
+      A sentinel dosing strategy will be implemented at each dose level to ensure the best&#xD;
+      conditions of safety. Each cohort will be divided into at least 2 subgroups. The first group&#xD;
+      (sentinel cohort) will include 2 participants that will be dosed on the first day, with 1&#xD;
+      participant receiving MMV533 and 1 participant receiving placebo. The safety and tolerability&#xD;
+      data from the sentinel cohort up to and including 96 hours post-dose will be reviewed by the&#xD;
+      Principal Investigator, the Medical Monitor and the Sponsor´s Medical Director. Following a&#xD;
+      satisfactory safety review, dosing of the remaining participants in the cohort may proceed.&#xD;
+&#xD;
+      Part 2:&#xD;
+&#xD;
+      Open label, 2-period cross-over, randomized, pilot food effect study to provide preliminary&#xD;
+      information on the effect of a high-fat meal on the pharmacokinetics of a single-dose oral&#xD;
+      administration of MMV533 to healthy male and female participants aged between 18-55 years&#xD;
+      old. Part 2 may be conducted in parallel to or after completion of Part 1 at the discretion&#xD;
+      of the SRC. The dose will be selected by the SRC based on PK and safety results obtained in&#xD;
+      Part 1 and also taking into account the human efficacious dose/exposure predicted from&#xD;
+      preclinical efficacy studies in rodent malaria models.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 12, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Part 1: 8 participants per cohort for 7-8 cohorts (56-64 participants total). Single ascending dose commencing at 5 mg with maximum 400 mg as determined by Safety Review Committee (SRC).&#xD;
+Part 2:&#xD;
+Open label, 2-period cross-over, randomized, pilot food effect study to provide preliminary information on the effect of a high-fat meal on the pharmacokinetics of a single-dose oral administration of MMV533</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Quadruple for part 1. Double-blind, randomized, placebo-controlled, sequential ascending single dose study Open label for part 2.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical laboratory evaluations; haematology</measure>
+    <time_frame>baseline until 28 days after IMP/placebo administration</time_frame>
+    <description>Incidence of abnormal blood work results</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical laboratory evaluations; biochemistry</measure>
+    <time_frame>baseline until 28 days after IMP/placebo administration</time_frame>
+    <description>Incidence of abnormal blood work results</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical laboratory evaluations; urinalysis</measure>
+    <time_frame>baseline until 28 days after IMP/placebo administration</time_frame>
+    <description>Incidence of abnormal blood work urinalysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with changes in vital signs; Systolic and Diastolic Blood Pressure</measure>
+    <time_frame>From baseline until 28 days after IMP/placebo administration</time_frame>
+    <description>Incidence of changes in Systolic and Diastolic Blood Pressure</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with changes in vital signs; heart rate supine and resting</measure>
+    <time_frame>baseline until 28 days after IMP/placebo administration</time_frame>
+    <description>Incidence of changes in vital signs; heart rate supine and resting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with changes in vital signs; respiratory rate</measure>
+    <time_frame>baseline until 28 days after IMP/placebo administration</time_frame>
+    <description>Incidence of changes in vital signs; respiratory rate</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with changes in vital signs; body temperature</measure>
+    <time_frame>baseline until 28 days after IMP/placebo administration</time_frame>
+    <description>Incidence of changes in vital signs; body temperature</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with ECG changes - triplicate ECGs with central reading from Day 1 predose and up to and including 96 hours post IMP administration.</measure>
+    <time_frame>Day 1 pre-dose up to and including 96 hours post-IMP/placebo administration</time_frame>
+    <description>Overall assessment as normal, abnormal not clinically significant, or abnormal clinically significant.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>baseline until 28 days after IMP/placebo administration</time_frame>
+    <description>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of MMV533 - Cmax</measure>
+    <time_frame>Pre-dose until 28 days after IMP/placebo administration</time_frame>
+    <description>Cmax</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effect of a high-fat meal on the PK of MMV533</measure>
+    <time_frame>Baseline to Day 42</time_frame>
+    <description>Participants will be assess while fasted and fed a high fat meal.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of MMV533 - Tmax</measure>
+    <time_frame>Pre-dose until 28 days after IMP/placebo administration</time_frame>
+    <description>Tmax</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of MMV533 - AUClast</measure>
+    <time_frame>Pre-dose until 28 days after IMP/placebo administration</time_frame>
+    <description>AUClast</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of MMV533 - AUCinf</measure>
+    <time_frame>Pre-dose until 28 days after IMP/placebo administration</time_frame>
+    <description>AUCinf</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">56</enrollment>
+  <condition>Malaria</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 SAD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>5 mg MMV533 with single ascending dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 SAD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single ascending dose to be determined after SRC review of previous cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3 SAD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single ascending dose to be determined after SRC review of previous cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4 SAD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single ascending dose to be determined after SRC review of previous cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5 SAD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single ascending dose to be determined after SRC review of previous cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 6 SAD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single ascending dose to be determined after SRC review of previous cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 7 SAD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single ascending dose to be determined determine after SRT review of previous cohort. Dose will not exceed 400 mg.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Food Effect</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Open label, 2-period cross-over, randomized, pilot food effect study to provide preliminary information on the effect of a high-fat meal on the pharmacokinetics of a single-dose oral administration of MMV533 determined to be safe in Part 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MMV688533</intervention_name>
+    <description>Investigational medicinal product</description>
+    <arm_group_label>Cohort 1 SAD</arm_group_label>
+    <arm_group_label>Cohort 2 SAD</arm_group_label>
+    <arm_group_label>Cohort 3 SAD</arm_group_label>
+    <arm_group_label>Cohort 4 SAD</arm_group_label>
+    <arm_group_label>Cohort 5 SAD</arm_group_label>
+    <arm_group_label>Cohort 6 SAD</arm_group_label>
+    <arm_group_label>Cohort 7 SAD</arm_group_label>
+    <arm_group_label>Part 2: Food Effect</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Males and females (of childbearing and non-childbearing potential) , between 18 and 55&#xD;
+             years of age, inclusive. Women of childbearing potential (WOCBP) must use highly&#xD;
+             effective methods of birth control (see Inclusion #3).&#xD;
+&#xD;
+          2. Females of non-childbearing potential:&#xD;
+&#xD;
+               1. Natural (spontaneous) post-menopausal defined as being amenorrhoeic for at least&#xD;
+                  12 months without an alternative medical cause with a screening follicle&#xD;
+                  stimulating hormone level (FSH) &gt;25 IU/L (or at the local laboratory levels for&#xD;
+                  post-menopause)&#xD;
+&#xD;
+               2. Premenopausal with irreversible surgical sterilization by hysterectomy and/or&#xD;
+                  bilateral oophorectomy or salpingectomy at least 6 months before screening (as&#xD;
+                  determined by participant medical history)&#xD;
+&#xD;
+          3. Women of childbearing potential that have or may have male sexual partners during the&#xD;
+             course of the study must agree to the use of a double method of contraception of a&#xD;
+             highly effective method of birth control combined with a barrier contraceptive&#xD;
+             (condom) when appropriate from screening visit to until 60 days after the last dose of&#xD;
+             IMP (covering a full menstrual cycle of 30 days starting after 5 half-lives of last&#xD;
+             dose of IMP. This duration is based on the predicted half-life of IMP, and may be&#xD;
+             amended once the actual half-life is calculated during this study). Note: Highly&#xD;
+             effective birth control methods include: combined (oestrogen and progestogen&#xD;
+             containing) oral/intravaginal/transdermal hormonal contraception associated with&#xD;
+             inhibition of ovulation, progestogen-only oral/injectable/implantable hormonal&#xD;
+             contraception associated with inhibition of ovulation, intrauterine device (IUD),&#xD;
+             intrauterine hormone-releasing system, bilateral tubal occlusion, vasectomised&#xD;
+             partner, or sexual abstinence or same sex relationship.&#xD;
+&#xD;
+          4. Male participants who have, or may have female sexual partners during the course of&#xD;
+             the study must agree to use a double method of contraception including condom plus&#xD;
+             diaphragm, or condom plus stable insertable (implant or IUD), injectable, transdermal&#xD;
+             or combination oral contraceptive by the female partner, from the time of informed&#xD;
+             consent through to 90 days after the last dose of the IMP (covering a full&#xD;
+             spermatogenesis cycle of 60 days starting after 5 half-lives of last dose of IMP. This&#xD;
+             duration is based on the predicted half-life of IMP, and may be amended once the&#xD;
+             actual half-life is calculated during this study).&#xD;
+&#xD;
+             Abstinent male participants must agree to start a double method if they begin a sexual&#xD;
+             relationship with a female during the trial, and through to 90 days after the last&#xD;
+             dose of the IMP. Male participants with female partners that are surgically sterile or&#xD;
+             post-menopausal (defined as being amenorrhoeic for at least 12 months without an&#xD;
+             alternative medical cause), or male participants who have undergone sterilisation and&#xD;
+             have had testing to confirm the success of the sterilisation, may also be included and&#xD;
+             will not be required to use above described methods of contraception. Male&#xD;
+             participants must also agree not to donate sperm up to 3 months after dosing with the&#xD;
+             IMP.&#xD;
+&#xD;
+          5. Total body weight greater than or equal to 50 kg, and body mass index (BMI) between 18&#xD;
+             and 32 kg/m2 inclusive.&#xD;
+&#xD;
+          6. Certified as healthy by a comprehensive clinical assessment (detailed medical history&#xD;
+             and complete physical examination).&#xD;
+&#xD;
+          7. Normal vital signs after 5 minutes resting in supine position:&#xD;
+&#xD;
+               -  Systolic blood pressure (SBP) - 90-140 mmHg,&#xD;
+&#xD;
+               -  Diastolic blood pressure (DBP) - 40-90 mmHg,&#xD;
+&#xD;
+               -  Heart rate (HR) 40-100 bpm.&#xD;
+&#xD;
+          8. Standard 12-lead electrocardiogram (ECG) parameters after 10 minutes resting in supine&#xD;
+             position in the following ranges for both males and females: QT ≤ 500 msec, QTcF ≤450&#xD;
+             msec, QTcB ≤450 msec, and PR interval ≤210 msec; and normal ECG tracing unless the&#xD;
+             Principal Investigator or delegate considers an ECG tracing abnormality to be not&#xD;
+             clinically significant.&#xD;
+&#xD;
+          9. Having given written informed consent prior to undertaking any study-related&#xD;
+             procedure.&#xD;
+&#xD;
+         10. Available for the duration of the study and for 2 weeks following the End of Study&#xD;
+             visit.&#xD;
+&#xD;
+         11. In the opinion of the Principal Investigator or delegate, the individual has a high&#xD;
+             probability of adherence with and completion of the study, and willing and able to&#xD;
+             withdraw and refrain from restricted medications.&#xD;
+&#xD;
+         12. Fluent in English and able to understand and comply with written and verbal&#xD;
+             protocol-related requirements.&#xD;
+&#xD;
+         13. Willing to defer blood donations to a blood service for a minimum of 6 months after&#xD;
+             the End of Study visit.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. Haematology, biochemistry or urinalysis results that are abnormal/outside of&#xD;
+             laboratory normal reference ranges AND are either:&#xD;
+&#xD;
+               -  considered clinically significant by the Principal Investigator or delegate; OR&#xD;
+&#xD;
+               -  considered not clinically significant by the Principal Investigator or delegate&#xD;
+                  BUT ARE ALSO outside of the Sponsor-approved clinically acceptable laboratory&#xD;
+                  ranges in Appendix 1 of the protocol.&#xD;
+&#xD;
+             NOTE: Participants are not excluded if abnormal/out of laboratory normal reference&#xD;
+             range results are considered not clinically significant by the Principal Investigator&#xD;
+             or delegate AND are within the ranges specified in Appendix 1 of the protocol of .&#xD;
+&#xD;
+          2. Positive serum pregnancy test at screening, positive urine pregnancy test upon&#xD;
+             admission or at other timepoints as specified by schedule of assessments.&#xD;
+&#xD;
+          3. Male participants with a female partner(s) who is (are) pregnant or lactating from the&#xD;
+             time of the administration of study medication.&#xD;
+&#xD;
+          4. Any history or presence of clinically relevant cardiovascular, broncho-pulmonary,&#xD;
+             gastrointestinal, hepatic/ gallbladder*/ bile duct, renal, metabolic, haematological,&#xD;
+             neurological, musculoskeletal/rheumatologic, systemic, ocular, gynaecologic (if&#xD;
+             female), or infectious disease, or signs of acute illness. *including medical history&#xD;
+             of asymptomatic gallbladder stones.&#xD;
+&#xD;
+          5. Any gastrointestinal surgery or any condition or disease that could affect drug&#xD;
+             absorption, distribution or excretion (eg, gastrectomy, cholecystectomy, diarrhoea).&#xD;
+&#xD;
+          6. Severe recurring headaches (cluster or migrainous headaches) requiring prescription&#xD;
+             medication/s. History of recurrent nausea and/or vomiting (for vomiting only: more&#xD;
+             than twice a month).&#xD;
+&#xD;
+          7. Participation in any research study involving blood sampling (more than 450 mL/unit of&#xD;
+             blood) or blood donation during the 8 weeks prior to IMP administration (Parts 1 and&#xD;
+             2).&#xD;
+&#xD;
+          8. Any documented evidence of current or past cardiovascular disease including cardiac&#xD;
+             arrhythmias or family history of congenital long QT syndrome, Brugada syndrome, or&#xD;
+             unexplained sudden cardiac death. Symptomatic postural hypotension at screening&#xD;
+             (confirmed on two consecutive readings), irrespective of the decrease in blood&#xD;
+             pressure, or asymptomatic postural hypotension defined as a decrease in systolic blood&#xD;
+             pressure ≥20 mmHg within 2-3 min when changing from supine to standing position.&#xD;
+&#xD;
+          9. History or presence of diagnosed (by an allergist/immunologist) or treated (by a&#xD;
+             physician) food or known drug allergies, or any history of anaphylaxis or other severe&#xD;
+             allergic reactions including face, mouth, or throat swelling or any difficulty&#xD;
+             breathing. Participants with seasonal allergies/hay fever or allergy to animals or&#xD;
+             house dust mite that are untreated and asymptomatic at the time of dosing can be&#xD;
+             enrolled in the trial.&#xD;
+&#xD;
+         10. History of convulsion (including drug or vaccine-induced episodes). A medical history&#xD;
+             of a single febrile convulsion during childhood is not an exclusion criterion.&#xD;
+&#xD;
+         11. History of substance use disorder(s) within 5 years of screening, including alcohol&#xD;
+             consumption of more than 40g/4 units/4 standard drinks per day or any prior&#xD;
+             intravenous use of an illicit substance.&#xD;
+&#xD;
+         12. Smoked &gt;1 pack of cigarettes per day for &gt;10 years, or who currently (within 14 days&#xD;
+             prior to IMP administration (Parts 1 and 2) smokes &gt;5 cigarettes per day.&#xD;
+&#xD;
+         13. Any medication (including herbal such as St John´s Wort, vitamin supplements and over&#xD;
+             the counter [OTC]) within 5 half-lives prior to IMP administration (Parts 1 and 2),&#xD;
+             except occasional intakes (for acute pain) of ibuprofen at doses up to 1.8g/day,&#xD;
+             paracetamol at doses up to 4g/day, acetylsalicylic acid (300 to 650 mg orally every 4&#xD;
+             to 6 hours as needed Maximum dose: 4g in 24 hours), diclofenac (diclofenac potassium&#xD;
+             liquid-filled capsules: 25mg orally 4 times a day; diclofenac free acid capsules: 18&#xD;
+             or 35 mg orally 3 times a day; diclofenac potassium immediate-release tablets: 50mg&#xD;
+             orally 3 times a day [initial dose of 100mg orally followed by 50mg oral doses&#xD;
+             acceptable if required for better relief]) and contraceptives.&#xD;
+&#xD;
+         14. Any individual who, in the judgement of the Principal Investigator or delegate, is&#xD;
+             likely to be noncompliant during the study, or unable to cooperate because of a&#xD;
+             language problem or poor mental development.&#xD;
+&#xD;
+         15. Any individual in the exclusion period of a previous study according to applicable&#xD;
+             regulations.&#xD;
+&#xD;
+         16. Any individual who cannot be contacted in case of emergency.&#xD;
+&#xD;
+         17. Any individual who is the Investigator, or delegates, research assistant, pharmacist,&#xD;
+             study coordinator, project manager, or other staff thereof, directly involved in&#xD;
+             conducting the study.&#xD;
+&#xD;
+         18. Any individual without a good peripheral venous access.&#xD;
+&#xD;
+         19. Participation in any investigational product study within the 12 weeks preceding IMP&#xD;
+             administration (Parts 1 and 2) or 5 times the half-life of the Investigational&#xD;
+             product, whichever is longer.&#xD;
+&#xD;
+         20. Positive serology test for hepatitis B (positive HB sAG or anti-HBc Ab), hepatitis C&#xD;
+             (anti-HCV) or human immune deficiency virus (HIV) (positive for anti-HIV1 and&#xD;
+             anti-HIV2 Ab).&#xD;
+&#xD;
+         21. Positive urine drug test at screening or prior to IMP dosing. Any drug from the list&#xD;
+             of drugs tested unless there is an acceptable explanation to the Principal&#xD;
+             Investigator or delegate (eg, participant has stated in advance that they consumed a&#xD;
+             prescription of over the counter product which contained the detected drug) and/or the&#xD;
+             participant has a negative urine drug screen on retest. Any participant tested&#xD;
+             positive for paracetamol at screening may still be eligible for study participation,&#xD;
+             at the Principal Investigator's or delegate's discretion.&#xD;
+&#xD;
+         22. Positive alcohol screen at screening or prior to IMP dosing.&#xD;
+&#xD;
+         23. Any consumption of citrus fruits (grapefruit, Seville oranges) or their juices within&#xD;
+             5 days prior to IMP administration.&#xD;
+&#xD;
+         24. Use of antidepressant medication in the past 12 months prior to IMP administration in&#xD;
+             Part 1 and 2.&#xD;
+&#xD;
+         25. Individuals with history of schizophrenia, bipolar disorder psychoses, disorders&#xD;
+             requiring lithium, attempted or planned suicide, or any other severe (disabling)&#xD;
+             chronic psychiatric diagnosis including generalised anxiety and obsessivecompulsive&#xD;
+             disorders.&#xD;
+&#xD;
+         26. Individuals who have been hospitalised within five years prior to enrolment for either&#xD;
+             a psychiatric illness or due to danger to self or others.&#xD;
+&#xD;
+         27. History of an episode of mild/moderate depression lasting more than 6 months that&#xD;
+             required pharmacological therapy and/or psychotherapy within the last 5 years; or any&#xD;
+             episode of major depression. The Beck Depression Inventory (BDIII) will be used as a&#xD;
+             validated tool for the assessment of depression at screening. In addition to the&#xD;
+             conditions listed above, individuals with a score of 20 or more on the BDI-II and/or a&#xD;
+             response of 1, 2 or 3 for item 9 of this inventory (related to suicidal ideation) will&#xD;
+             not be eligible for participation. These individuals will be referred to a general&#xD;
+             practitioner or medical specialist as appropriate. Individuals with a BDI-II score of&#xD;
+             17 to 19 may be enrolled at the discretion of an Investigator if they do not have a&#xD;
+             history of the psychiatric conditions mentioned in this criterion and their mental&#xD;
+             state is not considered to pose additional risk to the health of the individual or to&#xD;
+             the execution of the trial and interpretation of the data gathered.&#xD;
+&#xD;
+         28. History of malignancy of any organ system (other than localized basal cell carcinoma&#xD;
+             of the skin or in situ cervical cancer considered treated and cured), treated or&#xD;
+             untreated, within 5 years of screening, regardless of whether there is no evidence of&#xD;
+             local recurrence or metastases.&#xD;
+&#xD;
+         29. Any vaccination within 28 days of screening.&#xD;
+&#xD;
+         30. Any medical condition that in the opinion of the Principal Investigator or delegate&#xD;
+             would jeopardize the individual's involvement in the study.&#xD;
+&#xD;
+             Specific to Part 2 only:&#xD;
+&#xD;
+         31. Any individual who, in the opinion of the Principal Investigator or delegate, would be&#xD;
+             unwilling or unable to consume the pre-dose test meal during the fed arm.&#xD;
+&#xD;
+         32. Individuals with food intolerance or food allergy are excluded. Vegetarian individuals&#xD;
+             must be excluded, unless they agree to eat a full diet during the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jason Lickliter, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nucleus Network Corporate</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anne Mwangi, BSc</last_name>
+    <phone>00254735441318</phone>
+    <email>mwangia-consultants@mmv.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ilaria Di Resta, MSc</last_name>
+    <phone>: +41.79.6081937</phone>
+    <email>direstai@mmv.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nucleus Network Corporate</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexandria Davies</last_name>
+      <phone>+61 3 9089 8252</phone>
+      <email>a.davies@nucleusnetwork.com.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jessica Faggian</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>March 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 26, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Safety</keyword>
+  <keyword>Tolerability</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Malaria</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

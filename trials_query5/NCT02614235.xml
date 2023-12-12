@@ -1,0 +1,224 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02614235</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EP-CHUAC-01</org_study_id>
+    <nct_id>NCT02614235</nct_id>
+  </id_info>
+  <brief_title>Diagnosis of Arrhythmias in Syncope by Pocket-ECG III® or Conventional Holter</brief_title>
+  <acronym>SINPocket</acronym>
+  <official_title>Diagnosis of Arrhythmias in Patients With Syncope by Continuous Cardiac Telemetry (Pocket-ECG III® System) or Conventional Holter</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Complexo Hospitalario Universitario de A Coruña</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Complexo Hospitalario Universitario de A Coruña</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether continuous cardiac telemetry with the&#xD;
+      Pocket-ECG III® system is more useful than conventional Holter to find out the cause of&#xD;
+      syncope&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study population: adult patients with recurrent and/or with probable cardiac origin syncopes&#xD;
+      with indication of cardiac rhythm monitoring.&#xD;
+&#xD;
+      Estimated sample size: COLAPS trial showed that conventional 48-hours Holter and 4-weeks&#xD;
+      external loop recorder got a diagnosis in 22% and 56%, respectively, in patients with&#xD;
+      syncope. Based on this data, to compare two matched-proportions with α-risk=0.05 and&#xD;
+      β-risk=0.2, 34 patients would be needed; to compensate a 15-20% percentage of lost patients&#xD;
+      during follow-up, it is estimated that 40 patients is the number to include in the trial to&#xD;
+      demonstrate the effect.&#xD;
+&#xD;
+      Variables to collect:&#xD;
+&#xD;
+      Baseline variables: birthdate date (month, year), inclusion date, gender, number and features&#xD;
+      of syncopes, cardiovascular risk factors, electrocardiogram, type of cardiopathy, left&#xD;
+      ventricular ejection fraction, comorbidities and treatments.&#xD;
+&#xD;
+      Monitoring findings: diagnostic event and diagnostic fulfilled criteria, date of diagnostic&#xD;
+      event, date of last follow-up.&#xD;
+&#xD;
+      Safety and adverse events: monitoring length, unexpected battery depletion, number of losses&#xD;
+      of mobile phone signal, cutaneous reactions to electrodes.&#xD;
+&#xD;
+      Costs: the costs of every diagnostic procedure used from inclusion to the end of follow-up&#xD;
+      will be added, based on prespecified costs of every item (Decreto 56/2014 of the Consellería&#xD;
+      de Sanidade de la Xunta de Galicia, which specifies the costs of every diagnostic or&#xD;
+      therapeutic intervention in centers depending on the Servicio Gallego de Salud).&#xD;
+&#xD;
+      Intervention description: patients with indication of conventional Holter monitoring will be&#xD;
+      consecutively included. After signing written informed consent, a Pocket-ECG III® system will&#xD;
+      be given to the patient. All participants will be monitored by the Pocket-ECG III® system&#xD;
+      until a diagnosis is achieved or for a maximum of two months (whatever it happens first).&#xD;
+      Everyday daily reports sent via e-mail by the manufacturer company (MEDICALgorithmics© S.A.)&#xD;
+      will be reviewed by the investigator team; in case of a diagnosis event (according to&#xD;
+      prespecified diagnostic criteria from the European Society of Cardiology), appropriate&#xD;
+      treatment will be applied.&#xD;
+&#xD;
+      Every patient will be his/her own control. Conventional 24-hours Holter monitoring will be&#xD;
+      simulated using data obtained by the Pocket-ECG III® system in the first 24 hours, ignoring&#xD;
+      the registries of the rest of days. Two and Three 24-hours conventional Holter strategies&#xD;
+      will also be simulated analyzing data from first 24 hours and 1-2 additional days,&#xD;
+      respectively, chosen by means of a random number creation system which will identify the days&#xD;
+      of registry to be considered. Diagnostic criteria in this virtual control group will be the&#xD;
+      same as used in the actual Pocket-ECG III® system monitoring group.&#xD;
+&#xD;
+      Follow-up: patients will be followed-up by two complementary manners&#xD;
+&#xD;
+        1. Real-time remote: Pocket-ECG III® system sends continuously the registered&#xD;
+           electrocardiogram sinal via GSM mobile phone to a central unit sited in Poland, where&#xD;
+           the signal is processed and interpreted. From this central unit, a daily report and a&#xD;
+           weekly summary report is sent by e-mail to the investigator team. If a lost in the&#xD;
+           mobile phone coverage happens, the system stores the registry in its memory until the&#xD;
+           coverage is recovered, when the whole stored registry is sent.&#xD;
+&#xD;
+        2. Purpose-created outpatient clinic.&#xD;
+&#xD;
+      Statistical methods: categorical variables will be expressed as &quot;absolute number&#xD;
+      (percentage)&quot; and continuous variables as &quot;mean ± standard deviation&quot;, adding &quot;median&#xD;
+      (interquartile range)&quot; when the distribution of values is far from normal distribution&#xD;
+      assessed by Kolmogorov-Smirnov and Shapiro-Wilk methods. Proportion of diagnosis achieved by&#xD;
+      each strategy will be compared by McNemar for intrasubject measures or binomial exact&#xD;
+      methods, whichever applies. Economic burden of each strategy will be compared with the&#xD;
+      t-Student for intrasubject measures or T de Wilcoxon methods, whichever applies. All tests of&#xD;
+      significance will be 2-sided, with p&lt;0.05 considered statistically significant. The analysis&#xD;
+      will be conducted using PASW Statistics version 18.0 (IBM, Armonk, New York) and EPIDAT 3.1&#xD;
+      (provided by the Direccion Xeral de Saude Publica de la Consellería de Sanidade de la Xunta&#xD;
+      de Galicia).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2016</start_date>
+  <completion_date type="Actual">June 2017</completion_date>
+  <primary_completion_date type="Actual">June 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>number of etiology diagnosis of syncope</measure>
+    <time_frame>two months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>length of time until diagnosis</measure>
+    <time_frame>two months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall and per diagnosis costs</measure>
+    <time_frame>Two months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>length of properly analyzable registry</measure>
+    <time_frame>two months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Syncope</condition>
+  <arm_group>
+    <arm_group_label>Pocket-ECG III System</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>After signing written informed consent, a Pocket-ECG III® system will be given to the patient. All participants will be monitored by the Pocket-ECG® system until a diagnosis is achieved or for a maximum of two months (whatever it happens first). Everyday daily reports sent via e-mail by the manufacturer company (MEDICALgorithmics© S.A.) will be reviewed by the investigator team; in case of a diagnosis event (according to prespecified diagnostic criteria from the European Society of Cardiology), appropriate treatment will be applied.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional Holter</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Every patient will be his/her own control. Conventional 24-hours Holter monitoring will be simulated using data obtained by the Pocket-ECG III® system in the first 24 hours, ignoring the registries of the rest of days. Two and Three 24-hours conventional Holter strategies will also be simulated analyzing data from first 24 hours and 1-2 additional days, respectively, chosen by means of a random number creation system which will identify the days of registry to be considered.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Pocket-ECG III system</intervention_name>
+    <description>Continuous cardiac telemetry until diagnosis or a maximum of two months</description>
+    <arm_group_label>Conventional Holter</arm_group_label>
+    <arm_group_label>Pocket-ECG III System</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with syncope refered to perform 24-hours conventional Holter who fulfill at&#xD;
+             least one of the following conditions:&#xD;
+&#xD;
+               1. ≥2 episodes of syncope in the last year, provided that they are not typical&#xD;
+                  vasovagal syncope, and/or&#xD;
+&#xD;
+               2. ≥1 episode of syncope with any criterion of suspicion of cardiac-arrhythmic&#xD;
+                  aetiology, according to current European Guidelines about management of syncope&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Carrier of any cardiac implantable electronic device or internal loop recorder, as&#xD;
+             well as stablished indication for it according to current guidelines.&#xD;
+&#xD;
+          -  Aetiologic diagnosis of syncope already known.&#xD;
+&#xD;
+          -  Left ventricular ejection fraction ≤35%.&#xD;
+&#xD;
+          -  Unability to perform the monitorization&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ignacio Mosquera, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Complexo Hospitalario Universitario A Coruna</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Complexo Hospitalario Universitario de A Coruna</name>
+      <address>
+        <city>A Coruna</city>
+        <zip>15006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>July 2017</verification_date>
+  <study_first_submitted>November 23, 2015</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 25, 2015</study_first_posted>
+  <last_update_submitted>July 16, 2017</last_update_submitted>
+  <last_update_submitted_qc>July 16, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 19, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Complexo Hospitalario Universitario de A Coruña</investigator_affiliation>
+    <investigator_full_name>Ignacio Mosquera</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <keyword>Cardiac Arrhythmia</keyword>
+  <keyword>Syncope</keyword>
+  <keyword>Ambulatory Electrocardiography Monitoring</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syncope</mesh_term>
+    <mesh_term>Arrhythmias, Cardiac</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,181 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03289702</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MT03-KR16MST907</org_study_id>
+    <nct_id>NCT03289702</nct_id>
+  </id_info>
+  <brief_title>CORETOX® in Treatment of Post Stroke Upper Limb Spasticity</brief_title>
+  <official_title>A Randomized, Double-blind, Active Drug Controlled, Multi-Center, Phase I/III Clinical Trial to Evaluate the Efficacy and Safety of CORETOX® in Treatment of Post Stroke Upper Limb Spasticity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medy-Tox</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medy-Tox</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of CORETOX® in the treatment&#xD;
+      of Post stroke upper limb spasticity&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 17, 2017</start_date>
+  <completion_date type="Actual">November 9, 2018</completion_date>
+  <primary_completion_date type="Actual">June 30, 2018</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MAS(Modified Ashworth Scale)of wrist flexor</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Change from baseline at week 4 for wrist flexor muscle tone as measured on the MAS(Modified Ashworth Scale)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MAS(modified Ashworth Score)of elbow and finger flexor</measure>
+    <time_frame>4 weeks after injection</time_frame>
+    <description>Change from baseline at week 4 for elbow flexor and finger flexor muscle tone as measured on MAS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MAS(modified Ashworth Score)of wrist, elbow and finger flexor</measure>
+    <time_frame>8, 12 weeks after injection</time_frame>
+    <description>Change from baseline at week 8, 12 for wrist flexor, elbow flexor and finger flexor muscle tone as measured on MAS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of treatment responder at week 4, 8, 12 after injection</measure>
+    <time_frame>4, 8, 12 weeks after injection</time_frame>
+    <description>A treatment response is defined as 1-point improvement on the MAS of injection site</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">250</enrollment>
+  <condition>Muscle Spasticity</condition>
+  <arm_group>
+    <arm_group_label>CORETOX®</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BOTOX®</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CORETOX®</intervention_name>
+    <description>upper limb will be injected and evaluated in the study. Maximun injection dose is 360U.</description>
+    <arm_group_label>CORETOX®</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BOTOX®</intervention_name>
+    <description>upper limb will be injected and evaluated in the study. Maximun injection dose is 360U.</description>
+    <arm_group_label>BOTOX®</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female patients ≥ 19 years&#xD;
+&#xD;
+          -  ≥ 6 months since the last stroke&#xD;
+&#xD;
+          -  ≥ 2 points in the focal spasticity of wrist flexor and ≥ 1 point at least one of elbow&#xD;
+             flexor and finger flexor as measured on MAS(0 to 4)&#xD;
+&#xD;
+          -  Informed consent has been obtained&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Neuromuscular disorders such as Lambert-Eaton syndrome, myasthenia gravis, or&#xD;
+             amyotrophic lateral sclerosis&#xD;
+&#xD;
+          -  History(within 4 months of screening visit) or planned(during study period) treatment&#xD;
+             with phenol or alcohol injection or surgery in the target limb&#xD;
+&#xD;
+          -  History(within 4 months of screening visit) or planned(during study period) treatment&#xD;
+             with tendon lengthening in the target limb&#xD;
+&#xD;
+          -  Fixed joint/muscle contracture&#xD;
+&#xD;
+          -  Severe atrophy&#xD;
+&#xD;
+          -  Concurrent treatment with an intrathecal baclofen&#xD;
+&#xD;
+          -  Patients who have bleeding tendency or taking anti-coagulant&#xD;
+&#xD;
+          -  Dysphagia and Breathing Difficulties&#xD;
+&#xD;
+          -  History(within 4 months of screening visit) Planned(during study period) treatment&#xD;
+             with Botulinum Toxin&#xD;
+&#xD;
+          -  Known allergy or sensitivity to study medication or its components&#xD;
+&#xD;
+          -  Concurrent or planed Muscle relaxants and/or benzodiazepine medication If patient has&#xD;
+             taken these medication stable from one month before screening and no treatment changes&#xD;
+             are not planned during the study, participation is allowed.&#xD;
+&#xD;
+          -  Current Physical, occupational, Splinting therapy These therapy regimens will be&#xD;
+             permitted if they have been stable in the one month before screening; no treatment and&#xD;
+             no changes are planned during the study.&#xD;
+&#xD;
+          -  Patient who are participating in other clinical trials at the screening&#xD;
+&#xD;
+          -  Females who are pregnant, breastfeeding, or planning a pregnancy during the study&#xD;
+             period, or female of childbearing potential, not using a reliable means of&#xD;
+             contraception.&#xD;
+&#xD;
+          -  Patients who are not eligible for this study at the discretion of the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>September 19, 2017</study_first_submitted>
+  <study_first_submitted_qc>September 19, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 21, 2017</study_first_posted>
+  <last_update_submitted>August 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Muscle Spasticity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

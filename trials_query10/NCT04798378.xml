@@ -1,0 +1,273 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04798378</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Neurosleeve 20D.372</org_study_id>
+    <nct_id>NCT04798378</nct_id>
+  </id_info>
+  <brief_title>NuroSleeve Powered Brace to Restore Arm Function</brief_title>
+  <official_title>Myoelectric Devices for Restoration of Independent Arm Function in Children and Adults With Neurological Disease and Injury</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Thomas Jefferson University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Thomas Jefferson University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate if a person with weakness or paralysis in one or&#xD;
+      both arms, can use the NuroSleeve combined powered arm brace (orthosis) and muscle&#xD;
+      stimulation system to help restore movement in one arm sufficient to perform daily&#xD;
+      activities. This study could lead to the development of a product that could allow people&#xD;
+      with arm weakness or arm paralysis to use the NuroSleeve and similar devices to improve arm&#xD;
+      health and independent function.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      People can develop arm weakness due to stroke and other neurological conditions. Portable&#xD;
+      powered braces and functional electrical stimulation can help restore functional arm movement&#xD;
+      in these individuals. Powered braces and muscle stimulation may be triggered by detecting&#xD;
+      movement or electrical activity of proximal muscles that the person still can control. The&#xD;
+      overall objective of this study is to establish that children and adults with chronic, stable&#xD;
+      neurological motor impairment can achieve voluntary control over the NuroSleeve myoelectric&#xD;
+      elbow-wrist-hand orthosis, that incorporates optional functional electrical stimulation, and&#xD;
+      that they can use this voluntary control to perform functionally beneficial tasks to enhance&#xD;
+      independence, mental and physical health. While myoelectric prostheses have been studied for&#xD;
+      decades in children with limb loss, it is necessary to gather pilot data on the use of&#xD;
+      orthoses with optional electrical stimulation in people with intact yet paralyzed limbs.&#xD;
+      These adults and children have persistent motor deficits even after intensive physical and&#xD;
+      occupational therapy. The NuroSleeve and similar devices could help all people who have arm&#xD;
+      weakness.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Canadian Occupational Performance Measure score at 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The Canadian Occupational Performance Measure (COPM) is an individualized measure designed for use by occupational therapists to detect self-perceived change in occupational performance problems over time. From Law et al., 2000.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Action Research Arm Test (ARAT) score at 8 weeks</measure>
+    <time_frame>8 Weeks</time_frame>
+    <description>The Action Research Arm Test (ARAT) measures specific changes in the arm function in people who sustained cerebral damage resulting in arm weakness. The ARAT consists of 19 items grouped into four subscales: grasp, grip, pinch and gross movements. Each sub scale has items ordered according to ascending difficulty: 0- can not perform any part of the test, 1- performs the test partialy, 2- completes the test, but takes abnormally long time, 3- performs the test normally. The sum of all subscales are added to compute the total score. The total score ranges between 0 to 57. The higher score is considered to be better outcome.&#xD;
+From: Yozbatiran et al. A standardized approach to performing the action research arm test. Neurorehabil. Neural Repair, 2008.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change from Baseline Motricity Index score at 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The Motricity Index measures strength in the arms and legs after stroke. The weighted score is based on the ordinal 6 point scale of Medical Research Council to measure maximal isometric muscle strength.&#xD;
+From: Collin and Wade. Assessing motor impairment after stroke: A pilot reliability study. J. Neurol. Neurosurg. Psychiatry, 1990.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in ABILHAND-Kids questionnaire score at 8 weeks (for participants aged &lt; 18)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The ABILHAND-Kids questionnaire was developed as a measure of manual ability and explores the most representative inventory of manual activities. The 21 items of ABILHAND-Kids defined a valid and reliable manual ability scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Box and Blocks score at 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The experimented counts how many uniformly sized cubes that can be moved from one half of an opened wooden box, over a partition to the other half of the opened box the participant can move in one minute, This measure reflects dexterity, grasp strength, ability to release, and speed of movement and will be performed while the participant is using the NuroSleeve. From Mathiowetz et al, 1985.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Neurologic Diseases</condition>
+  <condition>Hemiparesis</condition>
+  <condition>Quadriplegia</condition>
+  <condition>Muscular Dystrophies</condition>
+  <condition>Arthrogryposis</condition>
+  <condition>Spinal Cord Injuries</condition>
+  <condition>Charcot-Marie-Tooth</condition>
+  <condition>Stroke</condition>
+  <condition>Weakness of Extremities as Sequela of Stroke</condition>
+  <condition>Weakness Due to Upper Motor Neuron Dysfunction</condition>
+  <condition>Amyotrophic Lateral Sclerosis</condition>
+  <condition>Spinal Muscular Atrophy</condition>
+  <condition>Arm Paralysis</condition>
+  <condition>Cerebral Palsy</condition>
+  <arm_group>
+    <arm_group_label>Treatment Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will received a customized NuroSleeve and undergo 8 weeks of occupational therapy using the NuroSleeve (45 minutes three times per week).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Neurosleeve</intervention_name>
+    <description>Myoelectric devices for restoration of independent arm function</description>
+    <arm_group_label>Treatment Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:• Must be 4 years or older&#xD;
+&#xD;
+          -  Must have weakness in one or both arms such that wrist flexion and wrist extension are&#xD;
+             3/5 on the Manual Muscle Testing Scale&#xD;
+&#xD;
+          -  The etiology of weakness is due to a neurological disease or injury that occurred 6 or&#xD;
+             more months ago&#xD;
+&#xD;
+          -  Participant is willing to comply with trial instructions&#xD;
+&#xD;
+          -  Adult participant is able to provide informed consent prior to enrollment in the&#xD;
+             study, and for children, child is able to provide assent and designated caregiver&#xD;
+             (parent or guardian) is able to provide informed consent&#xD;
+&#xD;
+          -  The participant is fluent in English and, if the participant were a child, at least&#xD;
+             one parent/guardian were fluent in English&#xD;
+&#xD;
+          -  Medically stable and living at home in the community.&#xD;
+&#xD;
+          -  No joint contracture, spasticity or other limitations to range of motion in the&#xD;
+             affected lower limb(s) precluding the operation of a wearable, powered orthotic device&#xD;
+             on the arm&#xD;
+&#xD;
+          -  Sufficient sitting balance to sit in a chair&#xD;
+&#xD;
+          -  No condition (e.g., severe arthritis, central pain) that would interfere with movement&#xD;
+             of the legs, ability to understand verbal commands and cooperate with test procedures.&#xD;
+&#xD;
+          -  No condition that would pose a risk to the application of electrical current to the&#xD;
+             body (e.g., skin conditions or skin breakdown)&#xD;
+&#xD;
+        Exclusion Criteria:• Visual impairment such that following visually-guided instructions&#xD;
+        would be challenging even with ordinary corrective lenses&#xD;
+&#xD;
+          -  Orthopedic conditions of either arm that would affect performance on study&#xD;
+&#xD;
+          -  Untreated psychiatric or neurologic disturbances that would affect motivation and&#xD;
+             trial participation&#xD;
+&#xD;
+          -  Excessive pain in one or both of the arms (&gt; 5 on a 10-point visual analog scale)&#xD;
+&#xD;
+          -  Excessive spasticity at one or both arms, as defined as a score of &gt; 2 on the Modified&#xD;
+             Ashworth Spasticity Scale&#xD;
+&#xD;
+          -  Advice from any of the participant's health providers that upper extremity powered&#xD;
+             orthotics or electrical stimulation were contra-indicated&#xD;
+&#xD;
+          -  Presence of an implanted medical device in the body (such as cardiac pacemaker,&#xD;
+             implanted defibrillator, metallic device)&#xD;
+&#xD;
+          -  Metal implants or exposed metal in the weak or paralyzed arm&#xD;
+&#xD;
+          -  Lack of access to internet or wireless coverage to enable telemedicine-guided sessions&#xD;
+&#xD;
+          -  Any history of seizure or epilepsy&#xD;
+&#xD;
+          -  Currently taking the medication bupropion&#xD;
+&#xD;
+          -  Any history of prior neurosurgical procedure (only an exclusion criterion for those&#xD;
+             seeking to undergo optional transcranial magnetic stimulation)&#xD;
+&#xD;
+          -  Known or suspected skull defect (only an exclusion criterion for those seeking to&#xD;
+             undergo optional transcranial magnetic stimulation)&#xD;
+&#xD;
+          -  Any history of alcohol or other substance use&#xD;
+&#xD;
+          -  Other conditions or circumstances that, in the opinion of the investigators, would&#xD;
+             preclude safe and/or effective participation, including severe skin conditions, and/or&#xD;
+             other sequelae that may be contraindicated for using a powered orthotic or using&#xD;
+             electrical stimulation, as well as personal circumstances&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Erica Jones</last_name>
+    <phone>2159558922</phone>
+    <email>Erica.Jones@jefferson.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Erica Jones</last_name>
+      <phone>215-955-8922</phone>
+      <email>erica.jones@jefferson.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mijail Serruya</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://research.jefferson.edu/labs/researcher/serruya-research.html</url>
+    <description>Neurorestoration laboratory web page</description>
+  </link>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 15, 2021</study_first_posted>
+  <last_update_submitted>March 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Thomas Jefferson University</investigator_affiliation>
+    <investigator_full_name>Mijail Serruya</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Arm weakness, paralysis</keyword>
+  <keyword>orthosis</keyword>
+  <keyword>functional electrical stimulation</keyword>
+  <keyword>brace</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Muscular Dystrophies</mesh_term>
+    <mesh_term>Arthrogryposis</mesh_term>
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Spinal Cord Injuries</mesh_term>
+    <mesh_term>Cerebral Palsy</mesh_term>
+    <mesh_term>Motor Neuron Disease</mesh_term>
+    <mesh_term>Amyotrophic Lateral Sclerosis</mesh_term>
+    <mesh_term>Muscular Atrophy</mesh_term>
+    <mesh_term>Paralysis</mesh_term>
+    <mesh_term>Muscular Atrophy, Spinal</mesh_term>
+    <mesh_term>Paresis</mesh_term>
+    <mesh_term>Charcot-Marie-Tooth Disease</mesh_term>
+    <mesh_term>Nerve Compression Syndromes</mesh_term>
+    <mesh_term>Hereditary Sensory and Motor Neuropathy</mesh_term>
+    <mesh_term>Quadriplegia</mesh_term>
+    <mesh_term>Nervous System Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

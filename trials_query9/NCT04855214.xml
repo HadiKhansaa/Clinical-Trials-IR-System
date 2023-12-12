@@ -1,0 +1,263 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04855214</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-02</org_study_id>
+    <nct_id>NCT04855214</nct_id>
+  </id_info>
+  <brief_title>Evaluating the Experience of Upper Limb Prosthesis Use</brief_title>
+  <official_title>Evaluating the Impact of Prosthetic Device Features on the Experience of Prosthesis Use</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Louis Stokes VA Medical Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Louis Stokes VA Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Our goal is to understand the critical factors associated with outcome acceptance following&#xD;
+      upper limb loss. We aim to develop a unified theoretical model that describes the&#xD;
+      psychosocial experience of upper limb prosthesis use and predicts outcome acceptance&#xD;
+      following upper limb loss. This conceptual framework will enable clinicians and researchers&#xD;
+      to evaluate and predict patient outcomes following limb loss, and to design interventions&#xD;
+      that improve outcomes. The proposed two-year study is a mixed methods (qualitative and&#xD;
+      quantitative) study using an observational design. The qualitative component of the study&#xD;
+      will involve data collection through telephone interviews with 18 participants and analyses&#xD;
+      using a grounded theory approach with constant comparison methods. The quantitative component&#xD;
+      involves administration of standardized measures quantifying constructs of the theoretical&#xD;
+      model in 120 participants and analyses to produce a structural equation model of outcome&#xD;
+      acceptance. Participants will include persons with unilateral acquired upper limb loss at the&#xD;
+      trans radial or trans humeral level who use currently available prosthetic devices.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background Use of an upper limb prosthesis can improve function and quality of life, but&#xD;
+      these devices are frequently abandoned or used only intermittently. Two critical reasons for&#xD;
+      abandonment identified by prosthesis rejecters are insufficient prosthesis functionality and&#xD;
+      insufficient sensory feedback. Living with major limb loss is a complex experience involving&#xD;
+      multiple physical, psychological, and social factors. While many studies have investigated&#xD;
+      the needs and design priorities of prosthesis users, few have investigated how prosthesis&#xD;
+      features interact with other psychosocial aspects of the prosthesis use experience and&#xD;
+      overall attitude towards or acceptance of the device (outcome acceptance). To provide better&#xD;
+      prosthetic device options and improve rehabilitation outcomes, we must understand the&#xD;
+      relationships between prosthesis functional and sensory capabilities, the subjective&#xD;
+      experience of the prosthesis, and outcome acceptance following limb loss.&#xD;
+&#xD;
+      Objective Our goal is to understand the critical factors associated with outcome acceptance&#xD;
+      following upper limb loss. We aim to develop a unified theoretical model that describes the&#xD;
+      psychosocial experience of upper limb prosthesis use and predicts outcome acceptance&#xD;
+      following upper limb loss. This conceptual framework will enable clinicians and researchers&#xD;
+      to evaluate and predict patient outcomes following limb loss, and to design interventions&#xD;
+      that improve outcomes.&#xD;
+&#xD;
+      Specific Aims&#xD;
+&#xD;
+        -  Specific Aim 1: Assess the impact of the experience of prosthesis dexterity and control&#xD;
+           on outcome acceptance.&#xD;
+&#xD;
+        -  Specific Aim 2: Assess the impact of sensory feedback experience on outcome acceptance.&#xD;
+&#xD;
+        -  Specific Aim 3: Refine the theoretical model derived from qualitative analyses by&#xD;
+           exploring the quantitative relationships between aspects of the model of outcome&#xD;
+           acceptance.&#xD;
+&#xD;
+      Hypotheses Qualitative analyses will yield a theoretical model of outcome acceptance that&#xD;
+      includes psychosocial factors and prosthetic device factors related to dexterity, control,&#xD;
+      and sensory feedback. We hypothesize that experiences of prosthesis dexterity, control, and&#xD;
+      sensory feedback will both directly influence and modulate psychosocial factors of prosthesis&#xD;
+      use and user attitudes. We hypothesize that quantitative data collected through survey&#xD;
+      research will triangulate findings from the qualitative analyses, confirm the directionality&#xD;
+      of the conceptual relationships, and predict the relative weightings of relationships.&#xD;
+&#xD;
+      Study Design The proposed study is a mixed methods (qualitative and quantitative) study using&#xD;
+      an observational design. The qualitative component of the study will involve data collection&#xD;
+      through telephone interviews with 18 participants and analyses using a grounded theory&#xD;
+      approach with constant comparison methods. The quantitative component involves administration&#xD;
+      and analyses of standardized measures quantifying constructs of the theoretical model in 120&#xD;
+      participants and use of these measures in a structural equation model of outcome acceptance.&#xD;
+      Participants will include persons with unilateral acquired upper limb loss at the trans&#xD;
+      radial or trans humeral level who use currently available prosthetic devices.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 16, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient Experience Measure (PEM)</measure>
+    <time_frame>Two years</time_frame>
+    <description>Measures the participant's perception of various psychosocial outcomes including self-efficacy, embodiment, body image, prosthesis efficiency, and social touch. It is rated 0-4, where a higher score in each sub-scale indicates a better outcome.</description>
+  </primary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">138</enrollment>
+  <condition>Prosthesis User</condition>
+  <condition>Amputation</condition>
+  <condition>Upper Limb Amputation at the Wrist</condition>
+  <condition>Upper Limb Amputation Above Elbow (Injury)</condition>
+  <condition>Upper Limb Amputation Below Elbow (Injury)</condition>
+  <arm_group>
+    <arm_group_label>Body-powered Prosthesis User</arm_group_label>
+    <description>Individuals who use a prosthesis that relies on a system of cables or harnesses which are operated using other parts of the body like the shoulders, chest, or elbows.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Single degree-of-freedom (DOF) myoelectric prosthesis users</arm_group_label>
+    <description>Individuals who use a myoelectric prosthesis that can perform only one movement.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multi-DOF myoelectric prosthesis users</arm_group_label>
+    <description>Individuals who use a myoelectric prosthesis that can perform more than one movement.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sensory Augmentation</arm_group_label>
+    <description>Individuals who experience augmented prosthesis sensory feedback through vibrating devices or pressure bladders, using electrical stimulation applied to the residual limb, or using neural implants.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Qualitative Analysis</intervention_name>
+    <description>Mixed methods analysis of the user's experience with upper limb prosthetics.</description>
+    <arm_group_label>Body-powered Prosthesis User</arm_group_label>
+    <arm_group_label>Multi-DOF myoelectric prosthesis users</arm_group_label>
+    <arm_group_label>Sensory Augmentation</arm_group_label>
+    <arm_group_label>Single degree-of-freedom (DOF) myoelectric prosthesis users</arm_group_label>
+    <other_name>Mixed Methods</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The proposed study will recruit a total of 138 persons with unilateral upper limb loss at&#xD;
+        the trans radial or trans humeral level. Participants may be users of any currently&#xD;
+        available prosthetic device brand, model, or terminal device, as long as their prosthesis&#xD;
+        can be classified into one of the four groups : 1) body-powered prosthesis users, 2) single&#xD;
+        degree-of-freedom (DOF) myoelectric prosthesis users, 3) multi-DOF myoelectric prosthesis&#xD;
+        users, and 4) user's who experience augmented sensory feedback in their prosthesis.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years or older&#xD;
+&#xD;
+          -  Ability to give verbal informed consent&#xD;
+&#xD;
+          -  Ability to speak and understand English&#xD;
+&#xD;
+          -  Unilateral acquired trans-radial or trans-humeral amputee&#xD;
+&#xD;
+          -  At least six months from time of limb loss&#xD;
+&#xD;
+          -  Current user of an upper limb prosthesis&#xD;
+&#xD;
+          -  Use of the device they will be describing for at least six months (with the exception&#xD;
+             of sensory augmentation)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant hearing impairment which would prevent telephone communication.&#xD;
+&#xD;
+          -  Unwillingness or inability to discuss experiences with prostheses&#xD;
+&#xD;
+          -  Emotional disturbance related to discussion the prosthesis or limb loss&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Dustin J Tyler, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Louis Stokes VA Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alesia N Lambert, BS</last_name>
+    <phone>440-645-8710</phone>
+    <email>axl854@case.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Melissa S Schmitt, BSN, RN</last_name>
+    <phone>216-791-3800</phone>
+    <phone_ext>63801</phone_ext>
+    <email>Melissa.Schmitt@va.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Louis Stokes VA Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Holly Henry</last_name>
+      <phone>216-791-3800</phone>
+      <phone_ext>64657</phone_ext>
+      <email>Holly.Henry@va.gov</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 22, 2021</study_first_posted>
+  <last_update_submitted>April 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Louis Stokes VA Medical Center</investigator_affiliation>
+    <investigator_full_name>Dustin J.Tyler PhD</investigator_full_name>
+    <investigator_title>Career Scientist</investigator_title>
+  </responsible_party>
+  <keyword>Upper Limb Prosthesis User</keyword>
+  <keyword>Survey</keyword>
+  <keyword>Interview</keyword>
+  <keyword>User Experience</keyword>
+  <keyword>Body-powered</keyword>
+  <keyword>Myoelectric</keyword>
+  <keyword>Multiple degree of freedom</keyword>
+  <keyword>Sensory Feedback</keyword>
+  <keyword>Prosthetic device features</keyword>
+  <keyword>Upper Limb Loss</keyword>
+  <keyword>Amputee</keyword>
+  <keyword>Outcome Acceptance</keyword>
+  <keyword>Qualitative Research</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>De-identified data will be made available upon request.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

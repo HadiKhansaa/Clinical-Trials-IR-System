@@ -1,0 +1,197 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04564235</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019/0401/HP</org_study_id>
+    <nct_id>NCT04564235</nct_id>
+  </id_info>
+  <brief_title>Risk of Recurrence of de Novo Mutations: Research and Quantification of Paternal Germinal Mosaicism by the Combined Use of Genomic Tools</brief_title>
+  <acronym>RRMUT</acronym>
+  <official_title>Risk of Recurrence of de Novo Mutations: Research and Quantification of Paternal Germinal Mosaicism by the Combined Use of Genomic Tools</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Rouen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Rouen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      1. Inclusion of 5 families Inclusions will be made by the clinical genetics department of&#xD;
+           the Rouen University Hospital (monocentric study) and will correspond to trios of&#xD;
+           parents + child with unexplained developmental abnormalities. The inclusion of patients&#xD;
+           will be integrated in routine care and will have as immediate benefit for the included&#xD;
+           families the extensive analysis of the proband and their parents' genomes by short and&#xD;
+           long read sequencing techniques, which represent the most comprehensive diagnostic tests&#xD;
+           for developmental diseases, and which are not currently routinely available. Inclusion&#xD;
+           in clinical genetics by clinicians accustomed to prescribing genome-wide analyses will&#xD;
+           allow clear and complete information to families. Collection of consents. The trio's DNA&#xD;
+           will already be available at the molecular genetics laboratory, and a new blood sample&#xD;
+           may be proposed if necessary. Collection of sperm from the father.&#xD;
+&#xD;
+        2. Identification of a large set of de novo mutations. Extraction of blood DNA and sending&#xD;
+           for sequencing of the complete genome to the National Centre for Research in Human&#xD;
+           Genomics (CNRGH, Evry), in the framework of a collaboration already initiated. Analysis&#xD;
+           of the sequencing data thanks to the already existing expertise in Rouen. Identification&#xD;
+           of about 40-120 de novo mutations per trio. At this stage: interpretation of the&#xD;
+           variations identified with the secondary objective of identifying the cause of the&#xD;
+           disease in children. Long read genomes will allow to phase the de novo variants to the&#xD;
+           paternal or to the maternal haplotype.&#xD;
+&#xD;
+        3. Search for de novo mutations in paternal sperm samples. Extraction of spermatic DNA.&#xD;
+           Design of a sequencing panel targeting the genetic variations identified in the&#xD;
+           different trios. Preparation of the libraries, targeted high throughput sequencing at&#xD;
+           great depth thanks to the techniques and equipment already operational. Specific search&#xD;
+           for the de novo variations identified in the probands (in 2.), with for each evaluation&#xD;
+           of (i) the presence of the variation in the sperm sample, (ii) the quantity of&#xD;
+           mosaicism, reflecting the proportion of carrier spermatozoa and therefore the risk of&#xD;
+           recurrence, (iii) the presence of my variation in the blood sample of both parents in&#xD;
+           deep sequencing.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">October 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of the patient's de novo mutations detectable in the father's sperm</measure>
+    <time_frame>Day 1</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients for whom molecular diagnosis has been obtained (cause of developmental disability identified) ≥1</measure>
+    <time_frame>Day 1</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">5</enrollment>
+  <condition>Developmental Disorders</condition>
+  <arm_group>
+    <arm_group_label>Indication for a genome-wide analysis in the proband</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>genome-wide analyses</intervention_name>
+    <description>genome-wide analyses will be done in patients and parents (father, mother)</description>
+    <arm_group_label>Indication for a genome-wide analysis in the proband</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Search for de novo mutations in paternal sperm samples</intervention_name>
+    <description>Sperm analysis will be done in paternal samples</description>
+    <arm_group_label>Indication for a genome-wide analysis in the proband</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Trio consisting of a child with a developmental disorder and both unaffected parents&#xD;
+&#xD;
+          -  Absence of etiology after clinical expertise and genetic testing&#xD;
+&#xD;
+          -  Indication of a genome-wide sequencing analysis&#xD;
+&#xD;
+          -  Child from spontaneous pregnancy without ovulation stimulation treatment&#xD;
+&#xD;
+          -  Availability of DNA blood samples&#xD;
+&#xD;
+          -  Affiliation to a social insurance&#xD;
+&#xD;
+          -  Patient or patient's legal representative who has read and understood the information&#xD;
+             letter and has signed the consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Lack of indication for a genome-wide analysis in the proband&#xD;
+&#xD;
+          -  Etiology of the developmental disorder already identified&#xD;
+&#xD;
+          -  Proband born after In-Vitro Fertilization&#xD;
+&#xD;
+          -  Impossibility of non-invasive sperm collection from the father&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>François LECOQUIERRE, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rouen University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>François LECOQUIERRE, MD</last_name>
+    <phone>+3323288</phone>
+    <phone_ext>8858</phone_ext>
+    <email>francois.lecoquierre@chu-rouen.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julien BLOT</last_name>
+    <phone>+3323288</phone>
+    <email>julien.blot@chu-rouen.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rouen University Hospital</name>
+      <address>
+        <city>Rouen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>François LECOQUIERRE, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Gael NICOLAS, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nathalie RIVES, Pr</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 25, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Recurrence</mesh_term>
+    <mesh_term>Developmental Disabilities</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

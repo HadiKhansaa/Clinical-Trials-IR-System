@@ -1,0 +1,321 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03344913</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HP-00076861</org_study_id>
+    <secondary_id>1P30NR016579-01</secondary_id>
+    <nct_id>NCT03344913</nct_id>
+  </id_info>
+  <brief_title>Biologic Mechanisms for Pain Variation After Physical Activity in Osteoarthritis</brief_title>
+  <official_title>Bioenergetics, Inflammation, and Protein Expression as Mechanisms for Variation in Pain Sensitivity After Physical Activity in Adults With Knee Osteoarthritis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Maryland, Baltimore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Nursing Research (NINR)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Maryland, Baltimore</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Osteoarthritis (OA) in the knee is characterized by chronic inflammatory pain that is not&#xD;
+      necessarily related to the amount of joint damage. Clinical practice guidelines recommend&#xD;
+      physical activity (PA) for osteoarthritis pain, but most adults with OA do not engage in PA.&#xD;
+      One reason for this is that while PA can reduce OA related joint pain, it does not work for&#xD;
+      everyone. PA decreases pain sensitivity for about half of adults with OA but increases pain&#xD;
+      sensitivity for the other half. The investigators are hypothesizing that individual&#xD;
+      differences in how well cells work to make energy, inflammation, and different proteins&#xD;
+      available in blood cells explains who PA will work to reduce pain and who it won't among&#xD;
+      adults with OA. The purpose of this pilot study is to determine if blood cells' ability to&#xD;
+      make cellular energy, inflammation and proteins help explain the difference about who PA&#xD;
+      reduces activity for and who it doesn't. The investigators will compare these biologic&#xD;
+      factors and pain sensitivity before walking, immediately after 30 minutes of walking (i.e.&#xD;
+      &quot;acute&quot;) and after six weeks of walking three times a week for 30 minutes (i.e. &quot;long-term&quot;)&#xD;
+      in adults with hip or knee osteoarthritis. The investigators will also compare these results&#xD;
+      to adults without OA. The investigators will recruit a sample of 40 adults with radiologic&#xD;
+      (e.g x-ray or CT scan) evidence of hip or knee OA and 20 age/gender matched healthy adults&#xD;
+      without OA to address the following study aims: Aim 1: To examine the effects of a six week&#xD;
+      (three days/week) walking program on pain in adults with OA as compared to healthy controls.&#xD;
+      Aim 2: To test the cells' ability to make energy as a mechanism for variation in pain after&#xD;
+      &quot;acute&quot; and &quot;long-term&quot; PA in older adults with lower extremity osteoarthritis. Aim3: To test&#xD;
+      the role of inflammation as a mechanism for variation in pain after &quot;acute&quot; and &quot;long-term&quot;&#xD;
+      physical activity in adults with lower extremity osteoarthritis. Aim 4: To generate&#xD;
+      hypotheses regarding the role of proteomics in variation in pain after &quot;acute&quot; and&#xD;
+      &quot;long-term&quot; physical activity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Osteoarthritis (OA) in the knee is characterized by chronic inflammatory pain that is not&#xD;
+      necessarily associated with the amount of joint damage.1 Clinical practice guidelines&#xD;
+      recommend physical activity (PA) for osteoarthritis pain,2 but uptake of PA among adults with&#xD;
+      OA is very low.3 One reason for this is that while PA can reduce pain among adults with lower&#xD;
+      extremity OA,4,5 it does so differentially, decreasing pain sensitivity for about half of&#xD;
+      adults with OA but actually increasing pain sensitivity for the other half.6 Further, a&#xD;
+      recent meta-analysis revealed that engaging in a single type of PA (e.g. aerobic exercise or&#xD;
+      resistance training) reduces OA knee pain, but there was large heterogeneity in the results&#xD;
+      which could not be explained by age, sex, BMI, alignment in the knee, disease severity, or&#xD;
+      baseline pain.5 One of the goals of developing individualized PA interventions for adults&#xD;
+      with OA is to elucidate the mechanisms by which PA reduces OA pain and for whom PA most&#xD;
+      effectively diminishes the pain.&#xD;
+&#xD;
+      Aerobic physical activity, such as walking, increases cellular capacity for energy generation&#xD;
+      (ATP production) via oxidative phosphorylation up to 2-fold by stimulating mitochondrial&#xD;
+      biogenesis.7,8 This phenomenon occurs not only in skeletal muscle,7 but also in brain&#xD;
+      cells,9,10 liver cells,9,11,12 adipose tissue,13 kidney cells,12 and leukocytes14 indicating&#xD;
+      that PA likely increases metabolic demand systemically. Moreover, PA is thought to create&#xD;
+      adaptive changes in the activity and/or abundance of proteins involved in processes related&#xD;
+      to mitochondrial function.8 Mitochondrial function, including energy generation through&#xD;
+      oxidative phosphorylation; inflammation; and mitochondrial related protein expression are key&#xD;
+      features in osteoarthritis15,16 and chronic inflammatory pain.17,18 Animal models of&#xD;
+      inflammatory pain demonstrate a cellular metabolic shift from oxidative phosphorylation to&#xD;
+      glycolysis in chronic inflammatory states via the pyruvate dehydrogenase kinase 2/4&#xD;
+      (PKD2/4)-pyruvate dehydrogenase (PDH)-lactic acid axis.19 This results in an increase in&#xD;
+      lactic acid production in the affected area. The ensuing acidic microenvironment amplifies&#xD;
+      the nociceptive response via recruitment of additional pro-algesic proinflammatory cytokines&#xD;
+      which &quot;activate nociceptors and spinal glia to cause peripheral and central sensitizations,&#xD;
+      respectively&quot;.19 Thus, improvement in the capacity to generate ATP through oxidative&#xD;
+      phosphorylation, and associated reduction of glycolysis, may reduce pain sensitivity.&#xD;
+      However, while a large body of animal and correlational data supports a strong link between&#xD;
+      oxidative potential and pain outcomes, experimental evidence of cause and effect remains&#xD;
+      sparse, especially in humans.8&#xD;
+&#xD;
+      The investigators are hypothesizing that individual differences in systemic cellular&#xD;
+      bioenergetic function, inflammation, and protein expression influence the effect of PA to&#xD;
+      reduce pain sensitivity in adults with knee OA. The purpose of this quasi-experimental pilot&#xD;
+      study is to test mitochondrial bioenergetics (oxidative phosphorylation, mitochondrial&#xD;
+      content) in platelets, inflammation (cytokines) and protein expression as mechanisms for&#xD;
+      variation in pain sensitivity immediately after 30 minutes of walking (i.e. &quot;acute&quot;) and&#xD;
+      after six weeks of walking three times a week for 30 minutes (i.e. &quot;long-term&quot;) in adults&#xD;
+      with knee osteoarthritis. The investigators will address the following specific aims and&#xD;
+      hypotheses in a sample of 40 adults with radiologic evidence of hip or knee OA and 20&#xD;
+      age/gender matched healthy controls:&#xD;
+&#xD;
+      Aim 1: To examine the effects of a six week (three days/week) walking program on pain&#xD;
+      thresholds in adults with knee OA as compared to healthy controls H1.1: Pain sensitivity&#xD;
+      (Quantitative Sensory Testing) will increase in approximately 50% of adults with OA and&#xD;
+      decrease in approximately 50% of adults with OA after acute and long-term PA.&#xD;
+&#xD;
+      H1.2: Pain sensitivity will decrease in healthy controls after acute and long-term PA.&#xD;
+&#xD;
+      Aim2: To test the role of mitochondrial bioenergetics (oxidative phosphorylation,&#xD;
+      mitochondrial content) as a mechanism for variation in pain sensitivity after PA in older&#xD;
+      adults with knee OA.&#xD;
+&#xD;
+      H2.1: Pain sensitivity is negatively associated with mitochondrial function (oxidative&#xD;
+      phosphorylation, mitochondrial content) in platelets at baseline, after acute PA and&#xD;
+      long-term PA H2.2: Healthy controls will have higher capacity for oxidative phosphorylation&#xD;
+      in platelets than OA participants.&#xD;
+&#xD;
+      Aim3: To test the role of inflammation as a mechanism for variation in pain sensitivity after&#xD;
+      physical activity in older adults with knee OA.&#xD;
+&#xD;
+      H3.1: Pain sensitivity is positively associated with increased circulating proinflammatory&#xD;
+      cytokines (c-reactive protein, interleukin (IL)-1, IL-1β, IL-6, IL-10, tumor necrosis factor&#xD;
+      (TNF)-α, PGES) at baseline, after acute and long-term PA.&#xD;
+&#xD;
+      Aim 4: To generate hypotheses regarding the role of proteomics in variation in pain&#xD;
+      sensitivity after physical activity (immediacy following and after six weeks of walking&#xD;
+      program) Changes in protein expression will depend on the half-life of the protein being&#xD;
+      expressed which can range from minutes to days.8 Thus, it is important to examine adaptive&#xD;
+      changes in protein expression in both the short (minutes/day post PA) and long term&#xD;
+      (days/weeks between bouts of physical activity).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 7, 2018</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Adults with knee osteoarthritis and healthy controls will both undergo the same walking intervention. The goal is to examine basic mechanism for pain sensitivity after walking.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pain sensitivity</measure>
+    <time_frame>Baseline and immediately after 30 minutes of walking</time_frame>
+    <description>Change from baseline pain threshold/tolerance after 30 minutes of walking</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pain sensitivity</measure>
+    <time_frame>Baseline and within 4 weeks after completing six weeks of walking for 30 minutes three days/week</time_frame>
+    <description>Change from baseline pain threshold/tolerance after six weeks of walking for 30 minutes three days/week</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>platelet mitochondrial function</measure>
+    <time_frame>immediately after 30 minutes of walking</time_frame>
+    <description>platelet oxygen consumption as indicator of cellular energy production via oxidative phosphorylation or glycolysis; mitochondrial copy number; mitochondrial proteins</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>platelet mitochondrial function</measure>
+    <time_frame>after six weeks of walking for 30 minutes</time_frame>
+    <description>platelet oxygen consumption as indicator of cellular energy production via oxidative phosphorylation or glycolysis; mitochondrial copy number; mitochondrial proteins</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory markers in plasma</measure>
+    <time_frame>immediately after 30 minutes of walking</time_frame>
+    <description>c-reactive protein (CRP), Interleukin (IL)-1, IL-1β, IL-6, IL-10, Tumor Necrosis factor-alpha (TNF-α), prostaglandin-e (PGES)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory markers in plasma</measure>
+    <time_frame>after six weeks of walking for 30 minutes</time_frame>
+    <description>c-reactive protein (CRP), Interleukin (IL)-1, IL-1β, IL-6, IL-10, Tumor Necrosis factor-alpha (TNF-α), prostaglandin-e (PGES)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet protein signatures</measure>
+    <time_frame>immediately after 30 minutes of walking</time_frame>
+    <description>Platelet protein signatures will be explored using nanocapillary liquid chromatography-mass spectrometry (LC-MS/MS) coupled to an Orbitrap MS that combines two mass analyzers to allow simultaneous precursor ion scans from which relative quantitative data is derived between two groups (hi and low pain groups) and fragmentation data from which peptide sequence matches are made.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet protein signatures</measure>
+    <time_frame>after six weeks of walking for 30 minutes</time_frame>
+    <description>Platelet protein signatures will be explored using nanocapillary liquid chromatography-mass spectrometry (LC-MS/MS) coupled to an Orbitrap MS that combines two mass analyzers to allow simultaneous precursor ion scans from which relative quantitative data is derived between two groups (hi and low pain groups) and fragmentation data from which peptide sequence matches are made.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">11</enrollment>
+  <condition>Osteoarthritis, Knee</condition>
+  <condition>Pain</condition>
+  <condition>Physical Activity</condition>
+  <condition>Mitochondrial Pathology</condition>
+  <arm_group>
+    <arm_group_label>Adults with knee Osteoarthritis</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>walking 30 minutes per day, three days/week for 6 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>walking 30 minutes per day, three days/week for 6 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Walking</intervention_name>
+    <description>walking 30 minutes per day, three days/week for 6 weeks with a member of study team.</description>
+    <arm_group_label>Adults with knee Osteoarthritis</arm_group_label>
+    <arm_group_label>Healthy controls</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Adults with Osteoarthritis:&#xD;
+&#xD;
+          -  Age 50-80&#xD;
+&#xD;
+          -  radiographic evidence of knee osteoarthritis (OA participants)&#xD;
+&#xD;
+          -  self-report current non-smoker&#xD;
+&#xD;
+          -  willing and able to walk for 30 minutes a day three days a week for six weeks at a&#xD;
+             location that is within 30 minutes from University of Maryland Baltimore&#xD;
+&#xD;
+          -  speaks English&#xD;
+&#xD;
+        Healthy Controls:&#xD;
+&#xD;
+          -  Age 50-80&#xD;
+&#xD;
+          -  self-reports no osteoarthritis&#xD;
+&#xD;
+          -  self-report current non-smoker&#xD;
+&#xD;
+          -  willing and able to walk for 30 minutes a day three days a week for six weeks at a&#xD;
+             location that is within 30 minutes from University of Maryland Baltimore&#xD;
+&#xD;
+          -  speaks English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  unable to pass the evaluation to sign consent&#xD;
+&#xD;
+          -  diagnosis of rheumatoid arthritis&#xD;
+&#xD;
+          -  diagnosis of gout&#xD;
+&#xD;
+          -  diagnosis of heart failure&#xD;
+&#xD;
+          -  diagnosis of chronic obstructive pulmonary disease&#xD;
+&#xD;
+          -  diagnosis of diabetes&#xD;
+&#xD;
+          -  diagnosis of Parkinson's disease&#xD;
+&#xD;
+          -  diagnosis of Alzheimer's disease&#xD;
+&#xD;
+          -  diagnosis of autoimmune disease&#xD;
+&#xD;
+          -  currently taking long-term steroid medications such as methotrexate&#xD;
+&#xD;
+          -  weight less than 110 lbs.&#xD;
+&#xD;
+          -  direct employee of the PI&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jennifer Klinedinst, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Maryland, Baltimore</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Maryland, Baltimore</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>November 8, 2017</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2017</study_first_posted>
+  <last_update_submitted>April 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Maryland, Baltimore</investigator_affiliation>
+    <investigator_full_name>Jennifer Klinedinst</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>This is a pilot study with a very small sample size.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

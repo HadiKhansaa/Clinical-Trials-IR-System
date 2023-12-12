@@ -1,0 +1,520 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04579367</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DSE-BMP-01-20-EU</org_study_id>
+    <nct_id>NCT04579367</nct_id>
+  </id_info>
+  <brief_title>Treatment With Bempedoic Acid and/or Its Fixed-dose Combination With Ezetimibe in Hypercholesterolemia or Mixed Dyslipidemia</brief_title>
+  <acronym>MILOS</acronym>
+  <official_title>Non-interventional Study on the Treatment With Bempedoic Acid and/or Its Fixed-dose Combination With Ezetimibe in Routine Clinical Practice in Patients With Hypercholesterolemia or Mixed Dyslipidemia (MILOS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daiichi Sankyo Europe, GmbH, a Daiichi Sankyo Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Daiichi Sankyo, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is to describe in the real-world setting patient characteristics and&#xD;
+      outcomes of patients with primary hypercholesterolaemia (heterozygous familial and&#xD;
+      non-familial) or mixed dyslipidaemia using bempedoic acid and/or its fixed-dose combination&#xD;
+      with ezetimibe in managing plasma levels of low-density lipoprotein cholesterol (LDL-C).&#xD;
+&#xD;
+      Secondary objectives are to document and evaluate as applicable:&#xD;
+&#xD;
+        -  Assessment of the cardiovascular risk of patients treated with bempedoic acid and/or its&#xD;
+           fixed-dose combination with ezetimibe using different risk scores (e.g. SMART score for&#xD;
+           Very High Risk patients and Framingham risk score for High Risk patients. The scores&#xD;
+           will be re-calculated during the analysis and used as an analytical tool only).&#xD;
+&#xD;
+        -  Changes in low-density lipoprotein cholesterol (LDL-C) levels prior to treatment with&#xD;
+           bempedoic acid and/or its fixed-dose combination with ezetimibe compared to 1 year&#xD;
+           follow-up and subsequent data collection points, if applicable.&#xD;
+&#xD;
+        -  Characterize plasma levels of other potentially ASCVD-modifying cholesterol fragments,&#xD;
+           namely, LDL-C, total cholesterol (TC), apolipoprotein B (apoB), high-density lipoprotein&#xD;
+           cholesterol (HDL-C), non-HDL-C, triglycerides (TGs) and lipoprotein A (Lp[a]) compared&#xD;
+           to 1 year follow-up and subsequent data collection points, if applicable.&#xD;
+&#xD;
+        -  Changes in the levels of inflammatory marker hsCRP compared to 1 year follow-up and&#xD;
+           subsequent data collection points, if applicable.&#xD;
+&#xD;
+        -  Adverse Drug Reactions associated to bempedoic acid and/or its fixed-dose combination&#xD;
+           with ezetimibe.&#xD;
+&#xD;
+        -  Changes in uric acid levels compared to 1 year follow-up and subsequent data collection&#xD;
+           points, if applicable.&#xD;
+&#xD;
+        -  Relevant CV events:&#xD;
+&#xD;
+             -  Myocardial infarction&#xD;
+&#xD;
+             -  Unstable angina&#xD;
+&#xD;
+             -  Coronary artery bypass graft surgery (CABG)&#xD;
+&#xD;
+             -  Percutaneous transluminal coronary angioplasty (PTCA)&#xD;
+&#xD;
+             -  Stroke&#xD;
+&#xD;
+             -  Transient ischemic attack (TIA)&#xD;
+&#xD;
+             -  Acute peripheral arterial occlusion&#xD;
+&#xD;
+             -  All-cause death&#xD;
+&#xD;
+             -  Cardiovascular (CV)-death&#xD;
+&#xD;
+        -  Adverse effects associated with lipid-modifying treatment (LMT)&#xD;
+&#xD;
+             -  Laboratory abnormalities&#xD;
+&#xD;
+             -  Muscle-associated symptoms&#xD;
+&#xD;
+             -  New onset and/or worsening diabetes&#xD;
+&#xD;
+             -  Changes in the patients´ glycemic status over time&#xD;
+&#xD;
+        -  Site characteristics (sites and practitioners) caring for patients treated with&#xD;
+           bempedoic acid and/or its fixed-dose combination with ezetimibe.&#xD;
+&#xD;
+        -  Use of LMTs prior or concomitantly to receiving bempedoic acid and/or its fixed-dose&#xD;
+           combination with ezetimibe (therapies including combination treatments).&#xD;
+&#xD;
+        -  Bempedoic acid and/or its fixed-dose combination with ezetimibe treatment parameters&#xD;
+           such as treatment duration by therapy, dosage, prescription intervals, permanent&#xD;
+           discontinuations, switches and reasons for these, (concomitant medication, additional&#xD;
+           therapy/interventions).&#xD;
+&#xD;
+        -  Healthcare resource use especially consultation visits with specialist, nurse time and&#xD;
+           hospitalizations as well as patient-reported outcome using EQ-5D-5L and PAM-13.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This non-interventional study will be conducted to characterize the risks and benefits of&#xD;
+      bempedoic acid and/or its fixed-dose combination with ezetimibe in a real-world clinical&#xD;
+      setting in adult patients with hypercholesterolaemia or mixed dyslipidaemia and to gain&#xD;
+      insight into the effectiveness (managing plasma levels of low-density lipoprotein&#xD;
+      cholesterol) as well as safety (clinical events associated with the treatment modalities).&#xD;
+      Real world evidence will be collected in 8000 participants, treated by specialized as well as&#xD;
+      non-specialized physicians in hospitals and office based centers.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 15, 2021</start_date>
+  <completion_date type="Anticipated">March 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Summary of patient characteristics in patients with hypercholesterolemia or mixed dyslipidemia following treatment with bempedoic acid and/or its fixed-dose combination with ezetimibe</measure>
+    <time_frame>Baseline up to 1 year minimum or 3 year maximum follow up (depending on the availability of bempedoic acid in countries)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overview of the cardiovascular risk of patients with hypercholesterolemia or mixed dyslipidemia following treatment with bempedoic acid/ and/or its fixed-dose combination with ezetimibe</measure>
+    <time_frame>Baseline up to 1 year minimum or 3 year maximum follow up (depending on the availability of bempedoic acid in countries)</time_frame>
+    <description>Cardiovascular risk scores will be assessed using the Second manifestations of arterial disease (SMART) and Framingham risk scores. The SMART risk score will estimate 10-year risk for very high-risk participants based on clinical patient characteristics. The gender-specific Framingham risk score will be used to estimate 10-year cardiovascular risk for high-risk participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Summary of changes in plasma low-density lipoprotein cholesterol levels following treatment with bempedoic acid and/or its fixed-dose combination with ezetimibe in patients with hypercholesterolemia or mixed dyslipidemia</measure>
+    <time_frame>Baseline up to 1 year minimum or 3 year maximum follow up (depending on the availability of bempedoic acid in countries)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Summary in changes in plasma levels of atherosclerotic cardiovascular disease-modifying cholesterol fragments following treatment with bempedoic acid and/or its fixed-dose combination with ezetimibe</measure>
+    <time_frame>Baseline up to 1 year minimum or 3 year maximum follow up (depending on the availability of bempedoic acid in countries)</time_frame>
+    <description>Plasma levels of total cholesterol (TC), apolipoprotein B (apoB), high-density lipoprotein cholesterol (HDL-C), triglycerides (TGs) and lipoprotein a (Lp[a]) will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Summary of changes in plasma inflammatory marker hsCRP levels following treatment with bempedoic acid and/or its fixed-dose combination with ezetimibe in patients with hypercholesterolemia or mixed dyslipidemia</measure>
+    <time_frame>Baseline up to 1 year minimum or 3 year maximum follow up (depending on the availability of bempedoic acid in countries)</time_frame>
+    <description>Inflammatory status was assessed using high-sensitive C-reactive protein.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">8000</enrollment>
+  <condition>Hypercholesterolemia</condition>
+  <condition>Mixed Dyslipidemia</condition>
+  <arm_group>
+    <arm_group_label>Bempedoic acid and/or fixed-dose combination with ezetimibe</arm_group_label>
+    <description>Participants with hypercholesterolemia or mixed dyslipidemia who received bempedoic acid and/or its fixed-dose combination with ezetimibe.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bempedoic acid and/or its fixed-dose combination with ezetimibe</intervention_name>
+    <description>This is a non-interventional study. No study medication will be provided to the patients. Medication will be prescribed by the treating physician in line with the clinical practice.</description>
+    <arm_group_label>Bempedoic acid and/or fixed-dose combination with ezetimibe</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will include participants with hypercholesterolemia or mixed&#xD;
+        dyslipidemia who are being treated with bempedoic acid and/or its fixed dose combination&#xD;
+        with ezetimibe.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent to participate&#xD;
+&#xD;
+          -  At least 18 years of age&#xD;
+&#xD;
+          -  Participants suffering from documented hypercholesterolemia or mixed dyslipidemia&#xD;
+             treated or intended to be treated with bempedoic acid and/or its fixed dose&#xD;
+             combination with ezetimibe at the discretion of the physician are appropriate for&#xD;
+             participation in the observation.&#xD;
+&#xD;
+          -  No contraindications exist according to the SmPC of bempedoic acid and/or its&#xD;
+             fixed-dose combination with ezetimibe&#xD;
+&#xD;
+          -  No concurrent participation in an interventional study (simultaneous participation in&#xD;
+             other non-interventional study is possible)&#xD;
+&#xD;
+          -  Life expectancy &gt; 1 year&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  As this is a non-interventional study, no explicit exclusion criteria are defined. The&#xD;
+             prescribing behavior will not be influenced. Only patients will be included where the&#xD;
+             decision has been made by the treating physician to treat the patients either with&#xD;
+             bempedoic acid and/or its fixed-dose combination with ezetimibe.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Global Clinical Leader</last_name>
+    <role>Study Director</role>
+    <affiliation>Daiichi Sankyo Europe, GmbH, a Daiichi Sankyo Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Daiichi Sankyo Contact for Clinical Trial Information</last_name>
+    <phone>908-992-6400</phone>
+    <email>CTRinfo@dsi.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>MVZ Helios Aue</name>
+      <address>
+        <city>Aue</city>
+        <zip>08280</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kardiologische Praxis Enders</name>
+      <address>
+        <city>Bad Elster</city>
+        <zip>08645</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CIMS Studienzentrum Bamberg GmbH Drs. Kirschner/Haas/Ritzel</name>
+      <address>
+        <city>Bamberg</city>
+        <zip>96049</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kardiologische Praxis</name>
+      <address>
+        <city>Bechhofen</city>
+        <zip>66894</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Praxis Rankestraße</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10789</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kardiologie im Friedrichspalast Bruchsal</name>
+      <address>
+        <city>Bruchsal</city>
+        <zip>76646</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MVZ am Küchwald</name>
+      <address>
+        <city>Chemnitz</city>
+        <zip>09113</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cardiologicum Dresden/Pirna</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01277</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kardiologie Dr. med. E. Persicke / Dr. med. O. Scheuermann</name>
+      <address>
+        <city>Kornwestheim</city>
+        <zip>70806</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MVZ Stoffwechselmedizin Leipzig</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04317</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Praxis Dr. I.Simon-Wagner</name>
+      <address>
+        <city>Lichtenfels</city>
+        <zip>96215</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kardiologische Praxis</name>
+      <address>
+        <city>Markkleeberg</city>
+        <zip>04416</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Praxis Haj-Yehia</name>
+      <address>
+        <city>Moers</city>
+        <zip>47441</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gemeinschaftspraxis Dr. Prohaska/Dr. Schulte</name>
+      <address>
+        <city>Mühldorf</city>
+        <zip>84453</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kardiologie Mühldorf am Inn</name>
+      <address>
+        <city>Mühldorf</city>
+        <zip>84453</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hausärztlich-Kardiologisches MVZ &quot;Am Felsenkeller&quot; GmbH</name>
+      <address>
+        <city>Pirna</city>
+        <zip>01796</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VieSante Herzmedizin Potsdam</name>
+      <address>
+        <city>Potsdam</city>
+        <zip>14469</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kardiologische Gemeinschaftspraxis</name>
+      <address>
+        <city>Potsdam</city>
+        <zip>14471</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Praxis Dr Knöbel u. Partner</name>
+      <address>
+        <city>Straubing</city>
+        <zip>94315</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>October 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2020</study_first_posted>
+  <last_update_submitted>March 31, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hypercholesterolemia</keyword>
+  <keyword>Mixed dyslipidemia</keyword>
+  <keyword>Bempedoic acid and/or its fixed-dose combination with ezetimibe</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypercholesterolemia</mesh_term>
+    <mesh_term>Dyslipidemias</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>8-hydroxy-2,2,14,14-tetramethylpentadecanedioic acid</mesh_term>
+    <mesh_term>Ezetimibe</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified individual participant data (IPD) and applicable supporting clinical trial documents may be available upon request at https://vivli.org/. In cases where clinical trial data and supporting documents are provided pursuant to our company policies and procedures, Daiichi Sankyo will continue to protect the privacy of our clinical trial participants. Details on data sharing criteria and the procedure for requesting access can be found at this web address: https://vivli.org/ourmember/daiichi-sankyo/</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Studies for which the medicine and indication have received European Union (EU) and United States (US), and/or Japan (JP) marketing approval on or after 01 January 2014 or by the US or EU or JP Health Authorities when regulatory submissions in all regions are not planned and after the primary study results have been accepted for publication.</ipd_time_frame>
+    <ipd_access_criteria>Formal request from qualified scientific and medical researchers on IPD and clinical study documents from clinical trials supporting products submitted and licensed in the United States, the European Union and/or Japan from 01 January 2014 and beyond for the purpose of conducting legitimate research. This must be consistent with the principle of safeguarding study participants' privacy and consistent with provision of informed consent.</ipd_access_criteria>
+    <ipd_url>https://vivli.org/ourmember/daiichi-sankyo/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,174 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03592719</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20180516</org_study_id>
+    <nct_id>NCT03592719</nct_id>
+  </id_info>
+  <brief_title>Motivational Interviewing to Increase PrEP Uptake (MI-PrEP)</brief_title>
+  <acronym>MI-PrEP</acronym>
+  <official_title>Motivational Interviewing to Increase PrEP Uptake (MI-PrEP)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Miami</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Miami</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test a counseling program for Black women at high risk for&#xD;
+      HIV&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2018</start_date>
+  <completion_date type="Actual">November 11, 2019</completion_date>
+  <primary_completion_date type="Actual">November 11, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Motivation for PrEP</measure>
+    <time_frame>Baseline, Up to 6 weeks</time_frame>
+    <description>Motivation to use PrEP will be measured with the Contemplation Ladder and the Readiness Ruler, which assess intention to use PrEP and the perceived importance of using PrEP. The Contemplation Ladder and the Readiness Ruler each have a total score range from 0 to 10. Higher scores on the Contemplation Ladder indicate higher levels of contemplation or consideration about PrEP use. Higher scores on the Readiness Ruler indicate higher perceived importance of starting PrEP.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in PrEP uptake</measure>
+    <time_frame>Baseline, Up to 6 weeks</time_frame>
+    <description>PrEP uptake will be verified by the participants' providers.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Knowledge of PrEP</measure>
+    <time_frame>Baseline, Up to 6 weeks</time_frame>
+    <description>Knowledge of PrEP will be measured using a PrEP fact sheet, with basic information about PrEP. The PrEP Fact Sheet has a total score range of 0 to 12, with higher scores indicating higher levels of PrEP knowledge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Barriers for PrEP</measure>
+    <time_frame>Baseline, Up to 6 weeks</time_frame>
+    <description>Perceived barriers to PrEP uptake/usage will be measured by an adapted version of the Barriers to Care Scale, in which participants are asked about factors that make it difficult to receive PrEP related services. The Barriers to Care scale has a total score range of 7 to 28, with higher scores indicating increased difficulty regarding barriers to PrEP uptake.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">50</enrollment>
+  <condition>Risk Factor</condition>
+  <arm_group>
+    <arm_group_label>MI-PrEP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm will receive the manualized two-session intervention entitled &quot;Motivational Interviewing to Increase PrEP Uptake&quot;</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Enhanced Treatment as Usual (E-TAU)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will receive two sessions which entail psychoeducation on PrEP.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Experimental Intervention (MI-PrEP)</intervention_name>
+    <description>The experimental intervention will consist of two sessions. The first session will involve psycho-education on PrEP and Motivational Interviewing to explore ambivalence about PrEP uptake. The second session will involve Motivational Interviewing and case management to explore barriers to accessing PrEP.</description>
+    <arm_group_label>MI-PrEP</arm_group_label>
+    <other_name>Motivational Interviewing to Increase PrEP Uptake (MI-PrEP)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Enhanced Treatment as Usual (E-TAU)</intervention_name>
+    <description>Participants assigned to the control condition will receive two sessions, both of which involve psychoeducation on PrEP.</description>
+    <arm_group_label>Enhanced Treatment as Usual (E-TAU)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  HIV-negative&#xD;
+&#xD;
+          -  Identify as Black and/or African American&#xD;
+&#xD;
+          -  Age 18 or older&#xD;
+&#xD;
+          -  Cis-gender Female&#xD;
+&#xD;
+          -  English speaking&#xD;
+&#xD;
+          -  Is capable of completing and fully understanding the informed consent process and the&#xD;
+             study procedures and&#xD;
+&#xD;
+          -  Meets the Center for Disease Control's indications for PrEP use (17): (a) any sex with&#xD;
+             opposite sex partners in the past 6 months and (b) not in a monogamous partnership&#xD;
+             with a recently tested HIV-negative partner or (c) any injection of drugs not&#xD;
+             prescribed by a clinician in the past 6 months AND (d) at least one of the following:&#xD;
+             (i) infrequently uses condoms in sex with one/more partners of unknown HIV status (ii)&#xD;
+             in a sexual relationship with an HIV-positive partner or (iii) any sharing of&#xD;
+             injection/drug preparation equipment in past 6 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not capable of completing/fully understanding the consent process and the study&#xD;
+             procedures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sannisha K Dale, PhD, EdM</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Miami</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>July 9, 2018</study_first_submitted>
+  <study_first_submitted_qc>July 9, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 19, 2018</study_first_posted>
+  <last_update_submitted>December 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Miami</investigator_affiliation>
+    <investigator_full_name>Sannisha K Dale</investigator_full_name>
+    <investigator_title>Assistant Professor of Psychology</investigator_title>
+  </responsible_party>
+  <keyword>HIV Prevention</keyword>
+  <keyword>PrEP</keyword>
+  <keyword>Black</keyword>
+  <keyword>African American</keyword>
+  <keyword>Women</keyword>
+  <keyword>Motivational Interviewing</keyword>
+  <keyword>At risk for HIV</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

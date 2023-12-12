@@ -1,0 +1,188 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04561999</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Ultrasound in Lymphadenopathy</org_study_id>
+    <nct_id>NCT04561999</nct_id>
+  </id_info>
+  <brief_title>Elastography in Superficial Lymphadenopathy</brief_title>
+  <official_title>Value of Ultrasound Elastography in Characterization of Superficial Lymphadenopathy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluation of the role of Ultrasound Elastography in differentiation between benign and&#xD;
+      malignant lymph nodes and its additional information over the classic gray scale and color&#xD;
+      Doppler ultrasound.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Lymph nodes are part of the body immune system which are located throughout the body&#xD;
+      including head and neck, armpit, and groin.&#xD;
+&#xD;
+      Lymphadenopathy is defined as an abnormality in the size or character of lymph nodes caused&#xD;
+      by the invasion or propagation of either inflammatory or neoplastic cells into the nodes.&#xD;
+&#xD;
+      The differentiation of malignant from benign lymph nodes is essential because it predicts the&#xD;
+      patient prognosis and help in the decision making regarding the management plan.&#xD;
+&#xD;
+      On ultrasound, gray scale sonography helps to evaluate nodal morphology, whilst color doppler&#xD;
+      is used to assess vascular pattern. The qualitative criteria for malignancy were heterogenous&#xD;
+      hypoechoic cortex, irregular margins, lack of hyperechoic fatty hilum and abnormal blood&#xD;
+      vessels penetrating the lymph nodes capsule.The avascular or hilar patterns were defined as&#xD;
+      LNs with normal vascularity pattern, and the peripheral or mixed (peripheral and hilar)&#xD;
+      pattern as LNs with abnormal vascularity pattern. On B-mode and color doppler ultrasound,&#xD;
+      there is no specific criteria for differentiating metastatic lymph nodes from reactive lymph&#xD;
+      nodes with 100% accuracy.&#xD;
+&#xD;
+      Fine-needle aspiration biopsy is the reference standard for differentiating metastatic lymph&#xD;
+      nodes from reactive lymph nodes. However, restrictions of fine-needle aspiration biopsy are&#xD;
+      that it is an invasive procedure, and it is not possible to perform for lymph nodes smaller&#xD;
+      than 5 mm.Therefore, a simple, reliable, and non-invasive imaging modality for&#xD;
+      differentiating malignant lymph nodes is required.&#xD;
+&#xD;
+      Ultrasound elastography (UE) is a rather new, non-invasive imaging technique that can be used&#xD;
+      to depict tissue stiffness and elastic properties. Ultrasound elastography (UE) can be&#xD;
+      divided broadly into 2 groups depending on the type of tissue displacement:&#xD;
+&#xD;
+        1. Strain elastography (SE): measures tissue displacements along the axis of an applied&#xD;
+           force.Strain elastography provides semi - quantitative scores based on elastographic&#xD;
+           pattern (scores based on percentage of stiff area within the lesion) and strain ratio&#xD;
+           (ratio between the lesion and the background tissue).&#xD;
+&#xD;
+        2. Shear wave elastography (SWE): measures a different type of waves that is also produced&#xD;
+           when tissues are mechanically stimulated. Shear wave elastography is also a quantitative&#xD;
+           method of analysis for elasticity images using shear wave speed (m/s) or elastic modulus&#xD;
+           (kPa).&#xD;
+&#xD;
+      Ultrasound elastography (UE) is easy, rather cheap, non-invasive, and quick to perform, well&#xD;
+      tolerated by patients, and offers a strong diagnostic power.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">October 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the role of Ultrasound Elastography in differentiation between benign and malignant lymph nodes by its additional information over the classic gray scale and color Doppler ultrasound.</measure>
+    <time_frame>one year</time_frame>
+    <description>Strain elastography (SE): measures tissue displacements along the axis of an applied force. Strain elastography provides semi - quantitative scores based on elastographic pattern (scores based on percentage of stiff area within the lesion) and strain ratio (ratio between the lesion and the background tissue).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To evaluate the role of Ultrasound Elastography in differentiation between benign and malignant lymph nodes by its additional information over the classic gray scale and color Doppler ultrasound.</measure>
+    <time_frame>one year</time_frame>
+    <description>Shear wave elastography (SWE): measures a different type of waves that is also produced when tissues are mechanically stimulated. Shear wave elastography is also a quantitative method of analysis for elasticity images using shear wave speed (m/s).</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Superficial Lymphadenopathy</condition>
+  <arm_group>
+    <arm_group_label>Patients with Superficial Lymphadenopathy</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Elastography</intervention_name>
+    <description>Performance of Ultrasound, Elastography</description>
+    <arm_group_label>Patients with Superficial Lymphadenopathy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients with enlarged lymph nodes.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        • Patients presented with enlarged lymph nodes by clinical examination.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who previously receive any medical treatment or chemo or radiotherapy.&#xD;
+&#xD;
+          -  Patients who previously underwent fine needle aspiration cytology or biopsy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/</url>
+    <description>Related Info</description>
+  </link>
+  <reference>
+    <citation>Kılıç A, Çolakoğlu Er H. Virtual touch tissue imaging quantification shear wave elastography for determining benign versus malignant cervical lymph nodes: a comparison with conventional ultrasound. Diagn Interv Radiol. 2019 Mar;25(2):114-121. doi: 10.5152/dir.2019.18406.</citation>
+    <PMID>30774094</PMID>
+  </reference>
+  <reference>
+    <citation>Acu L, Oktar SÖ, Acu R, Yücel C, Cebeci S. Value of Ultrasound Elastography in the Differential Diagnosis of Cervical Lymph Nodes: A Comparative Study With B-mode and Color Doppler Sonography. J Ultrasound Med. 2016 Nov;35(11):2491-2499.</citation>
+    <PMID>27794132</PMID>
+  </reference>
+  <reference>
+    <citation>Naik RM, Pai A, Guruprasad Y, Singh R. Efficacy of colour Doppler ultrasound in diagnosis of cervical lymphadenopathy. J Maxillofac Oral Surg. 2013 Jun;12(2):123-9. doi: 10.1007/s12663-012-0395-1. Epub 2012 Aug 24.</citation>
+    <PMID>24431828</PMID>
+  </reference>
+  <reference>
+    <citation>Suh CH, Choi YJ, Baek JH, Lee JH. The diagnostic performance of shear wave elastography for malignant cervical lymph nodes: A systematic review and meta-analysis. Eur Radiol. 2017 Jan;27(1):222-230. Epub 2016 May 5. Review.</citation>
+    <PMID>27147221</PMID>
+  </reference>
+  <reference>
+    <citation>Desmots F, Fakhry N, Mancini J, Reyre A, Vidal V, Jacquier A, Santini L, Moulin G, Varoquaux A. Shear Wave Elastography in Head and Neck Lymph Node Assessment: Image Quality and Diagnostic Impact Compared with B-Mode and Doppler Ultrasonography. Ultrasound Med Biol. 2016 Feb;42(2):387-98. doi: 10.1016/j.ultrasmedbio.2015.10.019. Epub 2015 Nov 23.</citation>
+    <PMID>26617244</PMID>
+  </reference>
+  <reference>
+    <citation>Bhatia KS, Lee YY, Yuen EH, Ahuja AT. Ultrasound elastography in the head and neck. Part I. Basic principles and practical aspects. Cancer Imaging. 2013 Jul 22;13(2):253-9. doi: 10.1102/1470-7330.2013.0026. Review.</citation>
+    <PMID>23876352</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng KL, Choi YJ, Shim WH, Lee JH, Baek JH. Virtual Touch Tissue Imaging Quantification Shear Wave Elastography: Prospective Assessment of Cervical Lymph Nodes. Ultrasound Med Biol. 2016 Feb;42(2):378-86. doi: 10.1016/j.ultrasmedbio.2015.10.003. Epub 2015 Nov 6.</citation>
+    <PMID>26553206</PMID>
+  </reference>
+  <reference>
+    <citation>Choi YJ, Lee JH, Lim HK, Kim SY, Han MW, Cho KJ, Baek JH. Quantitative shear wave elastography in the evaluation of metastatic cervical lymph nodes. Ultrasound Med Biol. 2013 Jun;39(6):935-40. doi: 10.1016/j.ultrasmedbio.2012.12.009. Epub 2013 Feb 27.</citation>
+    <PMID>23453381</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>September 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2020</study_first_posted>
+  <last_update_submitted>January 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Nermin Gamal Eldin Ahmed Abdel Sattar</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphadenopathy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

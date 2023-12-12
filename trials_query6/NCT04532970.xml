@@ -1,0 +1,233 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04532970</url>
+  </required_header>
+  <id_info>
+    <org_study_id>842937</org_study_id>
+    <secondary_id>R01DA045604</secondary_id>
+    <nct_id>NCT04532970</nct_id>
+  </id_info>
+  <brief_title>BAPS in Botswana: The Thotloetso Trial</brief_title>
+  <acronym>BOTS</acronym>
+  <official_title>Testing the Combination of Behavioral Activation and Problem Solving as a Novel Behavioral Smoking Cessation Intervention for Smokers With HIV in Botswana</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Botswana</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this research study is to compare traditional behavioral smoking&#xD;
+      cessation therapy with a different type of behavioral therapy-known as behavioral activation&#xD;
+      problem solving (BAPS)-for smoking cessation. Standard smoking cessation counseling (SC)&#xD;
+      focuses on self-monitoring, identifying smoking triggers and how to manage them, relaxation&#xD;
+      and social support for non-smoking, and relapse prevention. BAPS focuses on recognizing he&#xD;
+      feelings you are having that lead to smoking and how to overcome those feelings and focus on&#xD;
+      activities that discourage you from smoking and avoid activities that encourage you to smoke.&#xD;
+      Both counseling types include gathering information about your personal smoking patterns,&#xD;
+      your likes, dislikes, and other personal characteristics about your lifestyle.&#xD;
+&#xD;
+      Half of participants who enroll in the study will receive standard smoking cessation&#xD;
+      counseling (SC) and half will receive BAPS counseling. We will compare the rates of quitting&#xD;
+      smoking across the two groups at the end of treatment (study week 10), and 12 weeks after the&#xD;
+      end of treatment (study week 26)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Eligible patients will be randomized to one of the treatment arms, which will involve 5&#xD;
+      phone-delivered counseling sessions over a 9-week treatment phase. While enrolled in this&#xD;
+      research study, you will also be asked not to use any smoking cessation treatment (including&#xD;
+      medication or behavioral therapy) other than that which is provided to you within the context&#xD;
+      of this clinical study.&#xD;
+&#xD;
+      The session will either be run by a study coordinator or a counselor. The study coordinator&#xD;
+      gathers information about you so we can understand whether or not the program is working. The&#xD;
+      study coordinator will be the person conducting the assessments. The counselor works with you&#xD;
+      to help you stop smoking.&#xD;
+&#xD;
+      Study visits are described in more detail below.&#xD;
+&#xD;
+      Intake&#xD;
+&#xD;
+        -  Complete the study informed consent with a research staff member. You will have the&#xD;
+           opportunity to have your questions answered before signing the study consent form. If&#xD;
+           you chose not to sign this form, no procedures will be performed&#xD;
+&#xD;
+        -  Complete a breath carbon monoxide (CO) assessment to measure your smoke exposure. Carbon&#xD;
+           monoxide is a poisonous gas that comprises less than 1% of the air we breathe and is&#xD;
+           also produced through smoking a cigarette. Your CO levels provide an indication of how&#xD;
+           much cigarette smoke you have been exposed to.&#xD;
+&#xD;
+        -  Complete paper and pencil assessments of your demographics, alcohol and smoking history,&#xD;
+           smoking and health behaviors, and mood.&#xD;
+&#xD;
+      Weeks 1,3,5,7, and 9&#xD;
+&#xD;
+        -  Phone-delivered counseling session (SC or BAPS) that will last between 30-60 min to help&#xD;
+           prepare you for your upcoming quit attempt (Week 2, Target Quit Day)&#xD;
+&#xD;
+        -  These sessions will focus on reinforcing your success and reviewing your quit plan or on&#xD;
+           reestablishing another quit date and restarting the smoking cessation process&#xD;
+&#xD;
+      Weeks 10 and 26&#xD;
+&#xD;
+        -  Assessments only, the same ones administered during the intake session&#xD;
+&#xD;
+        -  If you are quit (have not smoked in the past 7 days), you will be asked to come in to&#xD;
+           provide a CO breath sample&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 26, 2021</start_date>
+  <completion_date type="Anticipated">August 2, 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 2, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>We will use permuted block randomization with random block sizes between 6 and 9 and stratified by sex and depressive symptoms. The blocks will ensure near 1:1 balance throughout the study. The random block sizes will protect against selection bias by preventing staff from predicting which intervention any one individual will be assigned. We will stratify by sex to ensure balance of women in both arms since smoking is more common in men. We will stratify by depressive symptoms to ensure balance in testing whether the effect of BAPS is differential between those with and without greater degrees of distress. While a Mood Module of PRIME-MD score of &gt;5 symptoms is commonly used as a threshold for depression (Spitzer et al., 1994), we are also targeting lower level symptoms with this intervention having found that lower levels are associated with health behaviors such as medication adherence (Gross et al., 2017).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Smoking Cessation</measure>
+    <time_frame>At week 26, EOT</time_frame>
+    <description>be 7-day point prevalence abstinence at week 26 (24-weeks post-TQD; self-reported abstinence for 7 days prior to the assessment and breath CO ≤8 ppm)</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">650</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Smoking Cessation</condition>
+  <condition>Smoking</condition>
+  <arm_group>
+    <arm_group_label>Standard</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Eligible patients will be randomized to one of the treatment arms, which will involve 5 phone-delivered counseling sessions over a 9 week treatment phase. SC will be based on the 2008 PHS Clinical Practice Guideline (Fiore et al., 2008) and on SC in our ongoing two-site trials (R01DA025078; R01CA165001) This intervention arm will begin with a &quot;pre-quit&quot; session designed to help participants prepare for their Target Quit Day (TDQ). The TQD session will occur at week 1. The SC arm will focus on self-monitoring, identifying smoking triggers and alternative trigger management strategies, relaxation, social support for non-smoking, relapse prevention, and homework. The pre-quit session prepares participants for their TQD by reviewing their experience with quitting, beliefs about smoking/quitting, perceived barriers to cessation, and creating a quit plan to identify smoking triggers and implement alternative strategies to manage those triggers without smoking.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BAPS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Key components of BAPS include activity monitoring and rewarding activity scheduling, assessment of personal goals and values, assessment and altering of avoidance behavior and other maladaptive coping strategies, and contingency management. BAPS focuses on reducing stress pile-up and loss of pleasure that accompanies the cessation process and on identifying and establishing environmental/social changes to promote abstinence. BAPS addresses smoking as a behavior that prevents and restricts opportunities for contact with healthy rewarding behaviors. These changes are achieved through altering daily routines previously associated with smoking in ways that increase pleasure and mastery across life domains, reducing rumination, and increasing behavioral skills to prevent return to smoking as a means of avoiding stressors.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cessation Counseling</intervention_name>
+    <description>Two different types of smoking cessation counseling</description>
+    <arm_group_label>BAPS</arm_group_label>
+    <arm_group_label>Standard</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  &gt;18 years old&#xD;
+&#xD;
+          -  Smoking cigarettes daily for the past 30 days&#xD;
+&#xD;
+          -  HIV+ with HIV viral load of &lt;1000 copies/mL, obtained within the 6 months prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          -  Receiving HIV care at Infectious Diseases Care Clinics (IDCCs) in and around Gaborone&#xD;
+&#xD;
+          -  Able to communicate in English OR Setswana and provide written informed consent&#xD;
+&#xD;
+          -  Planning on residing in the geographic area for at least the next 7 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cognitive deficits that impair their ability to provide informed consent&#xD;
+&#xD;
+          -  Current untreated and unstable diagnosis of alcohol dependence (if past use and stable&#xD;
+             for &gt;30 days, eligible)&#xD;
+&#xD;
+          -  Psychosis&#xD;
+&#xD;
+          -  Use of chewing tobacco, snuff or snus&#xD;
+&#xD;
+          -  Recent , current, or planned use (next 7 months) of nicotine substitutes or smoking&#xD;
+             cessation treatments&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Robert Gross, MD</last_name>
+    <phone>215-898-2437</phone>
+    <email>grossr@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robert Schnoll, PhD</last_name>
+    <phone>215-746-7143</phone>
+    <email>schnoll@pennmedicine.upenn.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Botswana</name>
+      <address>
+        <city>Gaborone</city>
+        <country>Botswana</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Billy Tsima, MD MSCE</last_name>
+      <email>tsimab@ub.ac.bw</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Botswana</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 31, 2020</study_first_posted>
+  <last_update_submitted>April 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Robert Gross</investigator_full_name>
+    <investigator_title>Professor of Medicine and Epidemiology Co-Director, Center for AIDS Research, Penn/CHOP/Wistar</investigator_title>
+  </responsible_party>
+  <keyword>Botswana</keyword>
+  <keyword>Smoking cessation</keyword>
+  <keyword>BAPS</keyword>
+  <keyword>Counseling</keyword>
+  <keyword>HIV</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>IPD will only be shared with researchers at University of Pennsylvania and researchers at University of Botswana</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

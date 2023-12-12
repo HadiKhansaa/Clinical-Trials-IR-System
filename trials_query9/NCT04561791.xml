@@ -1,0 +1,171 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04561791</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018P002403</org_study_id>
+    <nct_id>NCT04561791</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Tethered Capsule Endomicroscopy as a Screening Tool for Barrett's Esophagus in the Primary Care Setting</brief_title>
+  <official_title>Evaluation of Tethered Capsule Endomicroscopy as a Screening Tool for Barrett's Esophagus in the Primary Care Setting</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators will conduct a large study in the primary care clinic to determine the&#xD;
+      feasibility of using tethered capsule endomicroscopy as a screening method for Barrett's&#xD;
+      esophagus (BE) in the primary care practice environment. The investigators are also&#xD;
+      determining the prevalence of Barrett's esophagus in a primary care practice cohort at MGH.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators have developed a tethered capsule OCT device intended as an inexpensive&#xD;
+      screening tool for BE. The capsule, which is attached to a thin, flexible tether, is reusable&#xD;
+      after being processed by a standard disinfection technique. Used without sedation, the&#xD;
+      capsule is swallowed by the participant and travels in the esophagus to the gastroesophageal&#xD;
+      junction (GEJ) via peristalsis. Cross-sectional microscopic OCT images of the entire&#xD;
+      esophagus are collected during transit. The total time needed for swallowing, imaging and&#xD;
+      retrieval does not exceed 10 minutes, with a total of 30 minutes for the procedure. The&#xD;
+      investigators have tested the feasibility and the tolerability of this new OCT screening&#xD;
+      technology in 250 procedures in healthy volunteers and patients with various esophageal&#xD;
+      diseases including BE. The procedure has been safe and well tolerated. High quality&#xD;
+      microscopic images of the esophagus have been obtained in 90% of the enrolled subjects.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">January 2, 2019</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Subject Tolerability of TCE swallow</measure>
+    <time_frame>During the single study visit (avg 30.mins), and before leaving, the participant will fill out the tolerability survey</time_frame>
+    <description>We will ask the participant about their comfort level throughout the procedure. They will be asked to score the tolerability of the procedure using a scoring system from 0-10. 0= the least tolerable, 10= the most tolerable.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalence of Barrett's esophagus within the single PCP cohort.</measure>
+    <time_frame>Imaging data is collected during the procedure, and analyzed within 1 year of collection.</time_frame>
+    <description>The PI will identify signs of Barrett's esophagus from the imaging data. This is a qualitative assessment performed by the PI, as this imaging technique is to novel to have standard quality grading.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Barrett Esophagus</condition>
+  <condition>Barrett's Esophagus Without Dysplasia</condition>
+  <condition>Barretts Esophagus With Dysplasia</condition>
+  <arm_group>
+    <arm_group_label>Feasibility of TCE &amp; Prevalence of BE</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Feasibility of using tethered capsule endomicroscopy as a screening method for Barrett's esophagus in the primary care practice environment&#xD;
+Determine the prevalence of Barrett's esophagus in a primary care practice cohort at MGH</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Tethered Capsule Endomicroscopy</intervention_name>
+    <description>Participants will be asked to swallow the TCE. They may use mild numbing spray, and lubrication spray to help swallowing. Imaging will be conducted once the TCE is past the pharynx. We will advance the TCE until the stomach and then slowly pull the TCE back up the esophagus. This may be repeated twice.</description>
+    <arm_group_label>Feasibility of TCE &amp; Prevalence of BE</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects registered as patients at the Assembly Row primary care practice.&#xD;
+&#xD;
+          -  18 years or older&#xD;
+&#xD;
+          -  Able to give informed consent&#xD;
+&#xD;
+          -  Subject must have no food for 1 hour before the procedure&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects older than 75 years.&#xD;
+&#xD;
+          -  Subjects with current symptoms of dysphagia&#xD;
+&#xD;
+          -  Subjects with gastro-intestinal strictures with a diameter less than 8mm, prior GI&#xD;
+             surgery (Esophageal and/or stomach surgeries), or history of intestinal Crohn's&#xD;
+             disease&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Patients scheduled for an urgent care visit for the following symptoms: fever, sore&#xD;
+             throat, upper respiratory infection symptoms, nausea, vomiting, diarrhea, abdominal&#xD;
+             pain, or other symptoms as per clinical staff discretion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Guillermo Tearney, M.D, PhD.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Guillermo Tearney</investigator_full_name>
+    <investigator_title>Guillermo J. Tearney, MD, PhD, FACC, FCAP, FNAI</investigator_title>
+  </responsible_party>
+  <keyword>OCT</keyword>
+  <keyword>Optical Coherence Tomography</keyword>
+  <keyword>Endomicroscopy</keyword>
+  <keyword>Capsule Endomicroscopy</keyword>
+  <keyword>Tethered Capsule Endomicroscopy</keyword>
+  <keyword>TCE</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Barrett Esophagus</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

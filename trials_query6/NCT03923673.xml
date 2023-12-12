@@ -1,0 +1,225 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03923673</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18-010106</org_study_id>
+    <nct_id>NCT03923673</nct_id>
+  </id_info>
+  <brief_title>Minimally Invasive Pericardiotomy as a New Treatment for Heart Failure</brief_title>
+  <official_title>TtP: Minimally Invasive Pericardiotomy as a New Treatment for Heart Failure (Transform the Practice)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Researchers are studying the safety and efficacy of a minimally invasive treatment called a&#xD;
+      pericardiotomy, which creates a small opening in the sac that surrounds the heart.&#xD;
+      Researchers will test the short and long term effects of this procedure by monitoring&#xD;
+      subjects heart function and symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 1, 2019</start_date>
+  <completion_date type="Anticipated">May 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Major Adverse Cardiac and Cerebrovascular Events</measure>
+    <time_frame>6 months</time_frame>
+    <description>The number of major cardiac and cerebrovascular events reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in left ventricular filling pressures during volume loading</measure>
+    <time_frame>baseline, 6 months</time_frame>
+    <description>The number of subjects to demonstrate an increase in pulmonary capillary wedge pressure in response to volume loading after pericardiotomy vs. prior to pericardiotomy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Quality of Life</measure>
+    <time_frame>baseline, 6 months</time_frame>
+    <description>Measured using Kansas City Cardiomyopathy Questionnaire (KCCQ)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in exercise capacity</measure>
+    <time_frame>baseline, 6 months</time_frame>
+    <description>Measured by Cardiopulmonary Exercise Testing</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">4</enrollment>
+  <condition>Heart Failure</condition>
+  <arm_group>
+    <arm_group_label>Subjects with Heart Failure with Preserved Ejection Fraction</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects with Heart Failure with Preserved Ejection Fraction (HFpEF) will receive a minimally invasive treatment called a pericardiotomy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Pericardiotomy</intervention_name>
+    <description>The minimally invasive procedure that creates a small opening in the sac that surrounds the heart.</description>
+    <arm_group_label>Subjects with Heart Failure with Preserved Ejection Fraction</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Age ≥ 30 years&#xD;
+&#xD;
+          -  Symptoms of severe dyspnea (III-IV) without evidence of a non-cardiac or ischemic&#xD;
+             explanation for dyspnea&#xD;
+&#xD;
+          -  EF of &gt; or = 50% determined on most recent imaging study within the preceding 5 years,&#xD;
+             with no change in clinical status suggesting potential for deterioration in systolic&#xD;
+             function&#xD;
+&#xD;
+          -  One of the following:&#xD;
+&#xD;
+               -  Previous hospitalization for HF with radiographic evidence (pulmonary venous&#xD;
+                  hypertension, vascular congestion, interstitial edema, pleural effusion) of&#xD;
+                  pulmonary congestion or&#xD;
+&#xD;
+               -  Catheterization documented elevated filling pressures at rest (PCWP ≥15 or LVEDP&#xD;
+                  ≥18) or with exercise (PCWP ≥25) or&#xD;
+&#xD;
+               -  Elevated NT-proBNP (&gt;400 pg/ml) or BNP(&gt;200 pg/ml) or&#xD;
+&#xD;
+               -  Echo evidence of diastolic dysfunction/elevated filling pressures manifest by&#xD;
+                  medial E/e' ratio≥15 and/or left atrial enlargement and chronic treatment with a&#xD;
+                  diuretic for signs or symptoms of heart failure&#xD;
+&#xD;
+          -  Heart failure is primary factor limiting activity as indicated by answering # 2 to the&#xD;
+             following question: My ability to be active is most limited by:&#xD;
+&#xD;
+               -  Joint, foot, leg, hip or back pain&#xD;
+&#xD;
+               -  Shortness of breath and/or fatigue and/or chest pain&#xD;
+&#xD;
+               -  Unsteadiness or dizziness&#xD;
+&#xD;
+               -  Lifestyle, weather, or I just don't like to be active&#xD;
+&#xD;
+               -  Ambulatory (not wheelchair / scooter dependent)&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Recent (&lt; 1 month) hospitalization for heart failure&#xD;
+&#xD;
+          -  Left or right ventricular dilatation noted on cardiac imaging study prior to&#xD;
+             enrollment (either echocardiography or MRI).&#xD;
+&#xD;
+          -  Any hemoglobin (Hgb) &lt; 8.0 g/dl within 30 days prior to randomization&#xD;
+&#xD;
+          -  Any GFR &lt; 20 ml/min/1.73 m2 within 30 days prior to randomization&#xD;
+&#xD;
+          -  Significant alternative cause of dyspnea such as severe chronic obstructive pulmonary&#xD;
+             disease that is a primary contributor to symptoms in the opinion of the investigator&#xD;
+&#xD;
+          -  Ischemia thought to contribute to dyspnea in the opinion of the investigator&#xD;
+&#xD;
+          -  Acute coronary syndrome within 3 months defined by electrocardiographic (ECG) changes&#xD;
+             and biomarkers of myocardial necrosis (e.g., troponin) in an appropriate clinical&#xD;
+             setting (chest discomfort or anginal equivalent)&#xD;
+&#xD;
+          -  PCI, coronary artery bypass grafting, or new biventricular pacing within past 3 months&#xD;
+&#xD;
+          -  Obstructive hypertrophic cardiomyopathy&#xD;
+&#xD;
+          -  Known infiltrative cardiomyopathy (amyloid)&#xD;
+&#xD;
+          -  Pericardial disease (constriction, pericarditis, tamponade)&#xD;
+&#xD;
+          -  Active myocarditis&#xD;
+&#xD;
+          -  Complex congenital heart disease&#xD;
+&#xD;
+          -  Active collagen vascular disease&#xD;
+&#xD;
+          -  Significant valvular heart disease (greater than mild stenosis or greater than&#xD;
+             moderate regurgitant lesions)&#xD;
+&#xD;
+          -  Acute or chronic severe liver disease as evidenced by any of the following:&#xD;
+             encephalopathy, variceal bleeding, INR &gt; 1.7 in the absence of anticoagulation&#xD;
+             treatment&#xD;
+&#xD;
+          -  Terminal illness (other than HF) with expected survival of less than 1 year&#xD;
+&#xD;
+          -  Enrollment or planned enrollment in another therapeutic clinical trial in next 3&#xD;
+             months.&#xD;
+&#xD;
+          -  Inability to comply with planned study procedures&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding mothers&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Barry A Borlaug, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.mayo.edu/research/clinical-trials</url>
+    <description>Mayo Clinic Clinical Trials</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>April 16, 2019</study_first_submitted>
+  <study_first_submitted_qc>April 18, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 22, 2019</study_first_posted>
+  <last_update_submitted>January 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mayo Clinic</investigator_affiliation>
+    <investigator_full_name>Barry Borlaug</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

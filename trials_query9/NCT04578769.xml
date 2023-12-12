@@ -1,0 +1,315 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04578769</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PUMCH-POEM-1</org_study_id>
+    <nct_id>NCT04578769</nct_id>
+  </id_info>
+  <brief_title>Assessment of Different Modified POEM for Achalasia</brief_title>
+  <official_title>Comparison Study of Conventional Peroral Endoscopic Myotomy (POEM) and Different Modified Procedures of POEM for Achalasia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peking Union Medical College Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking Union Medical College Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aims of this study are 1) to compare the efficacy and safety of conventional myotomy&#xD;
+      (long myotomy) and modified myotomy (short myotomy) in the treatment of type I/II achalasia&#xD;
+      patients diagnosed according to Chicago Classification; 2) to compare the efficacy and safety&#xD;
+      of conventional myotomy (circular myotomy) and modified myotomy (full-thickness myotomy) in&#xD;
+      the treatment of type I/II achalasia patients; 3) to compare the efficacy and safety of&#xD;
+      conventional myotomy (non-tailored myotomy) and modified myotomy (tailored myotomy) in the&#xD;
+      treatment of type III achalasia patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Peroral endoscopic myotomy (POEM) is a novel clinical technique used to treat achalasia. The&#xD;
+      conventional POEM myotomy length averages 8 to 10 cm (4-6 cm in the esophagus, 2-4cm in the&#xD;
+      LES, 2cm in the cardia &amp; 6-8 cm above and 2 cm below the gastroesophageal junction [GEJ]) for&#xD;
+      typical achalasia (Chicago classification I, II), but there is no guideline or expert&#xD;
+      consensus with regard to minimal myotomy length recommended in POEM.&#xD;
+&#xD;
+      Based on the facts that achalasia is a primary motor disorder of LES dysfunction, patients&#xD;
+      with type I/II achalasia may achieve a satisfactory outcome with shorter myotomy in procedure&#xD;
+      of modified POEM, which only focused on the forced relaxation of the LES. Recently, some&#xD;
+      retrospective studies have suggested that shorter myotomy is comparable with longer myotomy&#xD;
+      for treating achalasia with regard to clinical efficacy and has the advantage of shorter&#xD;
+      procedure time, which needs to be further confirmed by more prospective studies.&#xD;
+&#xD;
+      In terms with the International Peroral Endoscopic Myotomy Survey, a longer myotomy is&#xD;
+      recommended for patients with type III achalasia. The length of myotomy in type III achalasia&#xD;
+      can be gauged by high-resolution manometry (HRM). Recent research showed that postoperative&#xD;
+      Eckardt score was significantly improved in the tailored group (myotomy length informed by&#xD;
+      HRM) versus non-tailored for type III achalasia, but this study was limited by its&#xD;
+      retrospective nature.&#xD;
+&#xD;
+      There is still no conclusion on the thickness of muscle bundle dissection recommended during&#xD;
+      POEM. Selective circular muscle myotomy is designed to avoid gastroesophageal reflux (GER)&#xD;
+      postoperatively and decrease morbidity during POEM. But one meta-analysis showed that&#xD;
+      Heller's surgery could keep patients in long-time remission, mainly because of its&#xD;
+      full-thickness muscle bundle dissection to make sure of persist relaxation of LES. A&#xD;
+      retrospective study comparing the outcomes of full-thickness and circular muscle myotomy&#xD;
+      showed no differences in efficacy, GER or adverse events, although the procedural time was&#xD;
+      shorter in the full thickness myotomy group.&#xD;
+&#xD;
+      Further randomized controlled trials are warranted to assess the efficacy and safety of&#xD;
+      different modified myotomy approaches in POEM for patients with achalasia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 2, 2020</start_date>
+  <completion_date type="Anticipated">December 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Therapeutic success of short term</measure>
+    <time_frame>6 months after the procedure</time_frame>
+    <description>Therapeutic success is defined as a reduction in the Eckardt score to ≤3. The Eckardt score is the sum of the symptom scores for dysphagia, regurgitation, and chest pain (with a score of 0 indicating the absence of symptoms, 1 indicating occasional symptoms, 2 indicating daily symptoms, and 3 indicating symptoms at each meal) and weight loss (with 0 indicating no weight loss, 1 indicating a loss of &lt;5 kg, 2 indicating a loss of 5 to 10 kg, and 3 indicating a loss of &gt;10 kg) (Eckardt, V. Gastroenterology, 1992. 103(6): 1732-8.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Therapeutic success of long term</measure>
+    <time_frame>2 years after the procedure</time_frame>
+    <description>Therapeutic success is defined as a reduction in the Eckardt score to ≤3.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of intra-procedure complications</measure>
+    <time_frame>During the endoscopic procedure</time_frame>
+    <description>Complications encountered during the procedure will be noted. (perforation, delayed bleeding, pneumothorax, subcutaneous emphysema, anastomotic leak etc.)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of GERD</measure>
+    <time_frame>2 years after the procedure</time_frame>
+    <description>Gastro-esophageal reflux disease (GERD) is identified by positive results of esophageal pH-impedance/pH-monitoring (DeMeester score), gastro-esophageal reflux symptom assessment (GerdQ questionnaire) or esophagogastroduodenoscopy (reflux esophagitis).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Procedure time</measure>
+    <time_frame>During the endoscopic procedure</time_frame>
+    <description>The duration of the endoscopic procedures for each patients will be calculated, in minutes, since the mucosal incision until the endoscopic closure of the mucosal entry with the last endoscopic clip.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pressure changes by high-resolution manometry (HRM)</measure>
+    <time_frame>2 years after the procedure</time_frame>
+    <description>Basal lower esophageal sphincter (LES) pressure and integrated relaxation pressure (IRP)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in barium column height by barium esophagogram</measure>
+    <time_frame>2 years after the procedure</time_frame>
+    <description>Barium swallow studies will be done to evaluate the oesophageal emptying at 5 minutes</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">325</enrollment>
+  <condition>Esophageal Achalasia</condition>
+  <arm_group>
+    <arm_group_label>conventional myotomy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>conventional myotomy for achalasia type I, II and III</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>short myotomy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>modified myotomy (short myotomy) for achalasia type I and II</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>full-thickness myotomy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>modified myotomy (full-thickness myotomy) for achalasia type I and II</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>tailored myotomy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>modified myotomy (tailored myotomy) for achalasia type III</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>conventional myotomy</intervention_name>
+    <description>Initial mucosal incision. After submucosal injection, a reverse T entry incision is made at approximately 10 cm proximal to the gastroesophageal junction (GEJ).&#xD;
+Submucosal tunnel establishment. A submucosal tunnel is created to 2-3 cm distal to the GEJ.&#xD;
+Endoscopic myotomy. A selective circular muscle myotomy is carried out in a proximal to distal direction, from 2 cm distal to the mucosal entry down to 2 cm distal to the GEJ.&#xD;
+Zippered closure of mucosal entry. The mucosal incision is closed using hemostatic clips.</description>
+    <arm_group_label>conventional myotomy</arm_group_label>
+    <other_name>long myotomy</other_name>
+    <other_name>circular myotomy</other_name>
+    <other_name>non-tailored myotomy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>short myotomy</intervention_name>
+    <description>Initial mucosal incision. After submucosal injection, a reverse T entry incision is made at approximately 6 cm proximal to the gastroesophageal junction (GEJ).&#xD;
+Submucosal tunnel establishment. A submucosal tunnel is created to 2-3 cm distal to the GEJ.&#xD;
+Endoscopic myotomy. A selective circular muscle myotomy is carried out in a proximal to distal direction, from 2 cm distal to the mucosal entry down to 2 cm distal to the GEJ.&#xD;
+Zippered closure of mucosal entry. The mucosal incision is closed using hemostatic clips.</description>
+    <arm_group_label>short myotomy</arm_group_label>
+    <other_name>modified myotomy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>full-thickness myotomy</intervention_name>
+    <description>Initial mucosal incision. After submucosal injection, a reverse T entry incision is made at approximately 10 cm proximal to the gastroesophageal junction (GEJ).&#xD;
+Submucosal tunnel establishment. A submucosal tunnel is created to 2-3 cm distal to the GEJ.&#xD;
+Endoscopic myotomy. A selective circular muscle myotomy is carried out in a proximal to distal direction, from 2 cm distal to the mucosal entry down to 4 cm proximal to the GEJ, and a full-thickness muscle myotomy is continually carried out from 4cm proximal to the GEJ down to 2 cm distal to the GEJ.&#xD;
+Zippered closure of mucosal entry. The mucosal incision is closed using hemostatic clips.</description>
+    <arm_group_label>full-thickness myotomy</arm_group_label>
+    <other_name>modified myotomy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>tailored myotomy</intervention_name>
+    <description>Initial mucosal incision. After submucosal injection, a reverse T entry incision is made at approximately 2 cm proximal to the spastic segment within the esophageal body, which is identified based on information gained from high-resolution manometry (HRM).&#xD;
+Submucosal tunnel establishment. A submucosal tunnel is created to 2-3 cm distal to the GEJ.&#xD;
+Endoscopic myotomy. A selective circular muscle myotomy is carried out in a proximal to distal direction, from 2 cm distal to the mucosal entry down to 2 cm distal to the GEJ.&#xD;
+Zippered closure of mucosal entry. The mucosal incision is closed using hemostatic clips.</description>
+    <arm_group_label>tailored myotomy</arm_group_label>
+    <other_name>modified myotomy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects diagnosed as achalasia type I, II, or III on the basis of the results of&#xD;
+             established methods (barium swallow, manometry, esophagogastroduodenoscopy)&#xD;
+&#xD;
+          -  Candidate for a POEM&#xD;
+&#xD;
+          -  No contra-indication to general anesthesia&#xD;
+&#xD;
+          -  Their age is ≥14years and ≤70 years&#xD;
+&#xD;
+          -  Able to give written consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous myotomy for achalasia: any of previous Heller myotomy, endoscopic myotomy&#xD;
+&#xD;
+          -  Previous mediastinal surgery&#xD;
+&#xD;
+          -  Any anatomical esophageal anomaly that in the opinion of the investigator may render&#xD;
+             the intervention more difficult, such as sigmoid esophagus on the pre-operative barium&#xD;
+             swallow, esophageal diverticula or hiatal hernia.&#xD;
+&#xD;
+          -  Any medical condition, which in the judgment of the Investigator and/or designee makes&#xD;
+             the subject a poor candidate for the investigational procedure&#xD;
+&#xD;
+          -  Pregnant or lactating female&#xD;
+&#xD;
+          -  Subjects with coagulopathy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tao Guo, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking Union Medical College Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tao Guo, MD</last_name>
+    <phone>8610-69155017</phone>
+    <email>guoqiong990@126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Gastroenterology, Peking Union Medical College Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100730</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tao Guo, MD</last_name>
+      <phone>8610-69155017</phone>
+      <email>guoqiong990@126.com</email>
+    </contact>
+    <investigator>
+      <last_name>Tao Guo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Kahrilas PJ, Bredenoord AJ, Fox M, Gyawali CP, Roman S, Smout AJ, Pandolfino JE; International High Resolution Manometry Working Group. The Chicago Classification of esophageal motility disorders, v3.0. Neurogastroenterol Motil. 2015 Feb;27(2):160-74. doi: 10.1111/nmo.12477. Epub 2014 Dec 3.</citation>
+    <PMID>25469569</PMID>
+  </reference>
+  <reference>
+    <citation>Inoue H, Shiwaku H, Kobayashi Y, Chiu PWY, Hawes RH, Neuhaus H, Costamagna G, Stavropoulos SN, Fukami N, Seewald S, Onimaru M, Minami H, Tanaka S, Shimamura Y, Santi EG, Grimes K, Tajiri H. Statement for gastroesophageal reflux disease after peroral endoscopic myotomy from an international multicenter experience. Esophagus. 2020 Jan;17(1):3-10. doi: 10.1007/s10388-019-00689-6. Epub 2019 Sep 26. Review.</citation>
+    <PMID>31559513</PMID>
+  </reference>
+  <reference>
+    <citation>Inoue H, Shiwaku H, Iwakiri K, Onimaru M, Kobayashi Y, Minami H, Sato H, Kitano S, Iwakiri R, Omura N, Murakami K, Fukami N, Fujimoto K, Tajiri H. Clinical practice guidelines for peroral endoscopic myotomy. Dig Endosc. 2018 Sep;30(5):563-579. doi: 10.1111/den.13239.</citation>
+    <PMID>30022514</PMID>
+  </reference>
+  <reference>
+    <citation>Wang J, Tan N, Xiao Y, Chen J, Chen B, Ma Z, Zhang D, Chen M, Cui Y. Safety and efficacy of the modified peroral endoscopic myotomy with shorter myotomy for achalasia patients: a prospective study. Dis Esophagus. 2015 Nov-Dec;28(8):720-7. doi: 10.1111/dote.12280. Epub 2014 Sep 12.</citation>
+    <PMID>25214469</PMID>
+  </reference>
+  <reference>
+    <citation>Li L, Chai N, Linghu E, Li Z, Du C, Zhang W, Zou J, Xiong Y, Zhang X, Tang P. Safety and efficacy of using a short tunnel versus a standard tunnel for peroral endoscopic myotomy for Ling type IIc and III achalasia: a retrospective study. Surg Endosc. 2019 May;33(5):1394-1402. doi: 10.1007/s00464-018-6414-7. Epub 2018 Sep 5.</citation>
+    <PMID>30187204</PMID>
+  </reference>
+  <reference>
+    <citation>Kane ED, Budhraja V, Desilets DJ, Romanelli JR. Myotomy length informed by high-resolution esophageal manometry (HREM) results in improved per-oral endoscopic myotomy (POEM) outcomes for type III achalasia. Surg Endosc. 2019 Mar;33(3):886-894. doi: 10.1007/s00464-018-6356-0. Epub 2018 Jul 27.</citation>
+    <PMID>30054739</PMID>
+  </reference>
+  <reference>
+    <citation>Wang XH, Tan YY, Zhu HY, Li CJ, Liu DL. Full-thickness myotomy is associated with higher rate of postoperative gastroesophageal reflux disease. World J Gastroenterol. 2016 Nov 14;22(42):9419-9426.</citation>
+    <PMID>27895430</PMID>
+  </reference>
+  <reference>
+    <citation>Li QL, Chen WF, Zhou PH, Yao LQ, Xu MD, Hu JW, Cai MY, Zhang YQ, Qin WZ, Ren Z. Peroral endoscopic myotomy for the treatment of achalasia: a clinical comparative study of endoscopic full-thickness and circular muscle myotomy. J Am Coll Surg. 2013 Sep;217(3):442-51. doi: 10.1016/j.jamcollsurg.2013.04.033. Epub 2013 Jul 25.</citation>
+    <PMID>23891074</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2020</study_first_posted>
+  <last_update_submitted>October 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Peking Union Medical College Hospital</investigator_affiliation>
+    <investigator_full_name>Tao Guo</investigator_full_name>
+    <investigator_title>Associated professor</investigator_title>
+  </responsible_party>
+  <keyword>peroral endoscopic myotomy</keyword>
+  <keyword>Achalasia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Esophageal Achalasia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

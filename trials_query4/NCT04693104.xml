@@ -1,0 +1,370 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04693104</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PVA-001</org_study_id>
+    <nct_id>NCT04693104</nct_id>
+  </id_info>
+  <brief_title>Intra-articular PVA Hydrogel in Knee Osteoarthritis</brief_title>
+  <official_title>Effects of PVA Hydrogel in Comparison With Synvisc-One®, in Patients With Knee Osteoarthritis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rottapharm Biotech</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rottapharm Biotech</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This multicentre, prospective, randomized, double-blind, active-controlled, parallel group&#xD;
+      clinical investigation is aimed to assess the safety and the clinical performance over 6&#xD;
+      months of a single intra-articular injection of PVA Hydrogel, novel polyvinyl alcohol&#xD;
+      preparation, as compared to hyalan G-F20, (Synvisc-One®) one of the most commonly used and&#xD;
+      best performing hyaluronic acid based products, in patients with symptomatic knee&#xD;
+      osteoarthitis (OA).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To compare the effects of a single intra-articular injection of a novel polyvinyl alcohol&#xD;
+      preparation (PVA Hydrogel) and hylan G-F20 (Synvisc-One®) in patients with symptomatic knee&#xD;
+      OA.&#xD;
+&#xD;
+      Patients with knee OA (ACR clinical and radiological criteria) symptoms for ≥6 months,&#xD;
+      insufficient/failed response to analgesics, K&amp;L stage II-III (x-Rays within past 12 months),&#xD;
+      a knee pain score of 4-9 (0-10 NRS) in the target knee and &lt;3 in the contralateral knee, will&#xD;
+      be enrolled in a randomised, controlled, double-blind, parallel group 26-week clinical&#xD;
+      investigation to receive a single intra-articular injection of PVA Hydrogel or Synvisc-One®.&#xD;
+      Safety (both at the injection site (primary end-point) and overall) and efficacy (change in&#xD;
+      pain in the target knee (0-10 NRS), WOMAC Osteoarthritis Index (total and subscales) and&#xD;
+      Patient's Global Assessment of knee OA (0-10 NRS)) will be evaluated.&#xD;
+&#xD;
+      After signing an informed consent, patients will be screened at least 7 days before&#xD;
+      randomisation, when they will received a single intra-articular injection of either PVA&#xD;
+      Hydrogel or Synvisc-One® (1:1 allocation ratio) and will be then seen for follow-up 1, 2 and&#xD;
+      4 days (this latter just in case of AE occurrence at the target knee) and 2, 4, 8, 12, 18 and&#xD;
+      26 weeks after IA injection.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2019</start_date>
+  <completion_date type="Actual">May 20, 2020</completion_date>
+  <primary_completion_date type="Actual">May 20, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Given the impossibility of obtaining identical presentations of the compared interventions, double-blind conditions will be ensured by appointing at each site one &quot;injector investigator&quot; in charge only of the administration of the treatments and one &quot;clinical assessor investigator&quot; as Outcome Assessor, in charge of all safety and efficacy assessments, who will remain always blinded to the treatment. Patient blinding will be ensured by avoiding visual access to the injection field by the use of a screen between the patient and his/her knee.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adverse Events at the injection site (target knee)</measure>
+    <time_frame>6 months</time_frame>
+    <description>patient reported symptom and/or investigator detected clinical sign</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse Device Events</measure>
+    <time_frame>6 months</time_frame>
+    <description>AEs considered as related to the device and/or to the IA procedure.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Device Deficiencies</measure>
+    <time_frame>6 months</time_frame>
+    <description>malfunctions, use errors and inadequate labelling occurred before, during or after the use of the devices</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>6 months</time_frame>
+    <description>any AE irrespective of target knee involvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical examination</measure>
+    <time_frame>6 months</time_frame>
+    <description>a complete physical examination will be carried out at all scheduled clinic visits and/or at any unscheduled/early termination visit in case of premature discontinuation. Clinically significant findings of the physical examination at screening will be documented as concomitant diseases. New findings or worsening of a finding at all visits following the screening visit will recorded as adverse events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood pressure</measure>
+    <time_frame>6 months</time_frame>
+    <description>Systolic and diastolic blood pressure (mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulse rate</measure>
+    <time_frame>6 months</time_frame>
+    <description>Radial pulse rate (beats/minute)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Body temperature</measure>
+    <time_frame>6 months</time_frame>
+    <description>Body temperature will be assessed via a mouth thermometer (degrees Celsius (°C)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Knee pain</measure>
+    <time_frame>6 months</time_frame>
+    <description>0-10 NRS (&quot;0=no pain&quot; to &quot;10=the worst possible pain&quot;) during past 48 hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WOMAC Index</measure>
+    <time_frame>6 months</time_frame>
+    <description>tri-dimensional, disease-specific, self-administered, health status measure, to assess pain, stiffness and physical function in patients with knee OA, NRS format, version 3.1, 48 hours recall period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's Global Assessment of knee OA</measure>
+    <time_frame>6 months</time_frame>
+    <description>overall judgment of efficacy (&quot;Considering all the ways your knee osteoarthritis affects you, how would you rate the severity of your condition over the last week?&quot; according to a 0-10 NRS scale, anchored at 0 = &quot;I am feeling very well&quot; and 10 = &quot;I am feeling as bad as possible&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rescue medication use</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of paracetamol tablets taken each day</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">43</enrollment>
+  <condition>Knee Osteoarthritis</condition>
+  <arm_group>
+    <arm_group_label>PVA Hydrogel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PVA Hydrogel (Rottapharm Biotech, Monza): 2 mL prefilled syringe for intra-articular injection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Synvisc-One®</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Synvisc-One® (Genzyme Corporation, Ridegield, New Jersey, USA): 6 mL prefilled syringe for intra-articular injection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>PVA Hydrogel</intervention_name>
+    <description>PVA Hydrogel will be supplied in 2 mL sterile and endotoxins-free pre-filled syringes containing a biocompatible polyvinyl alcohol crosslinked (PVA CL, main component) and buffered water for injections.</description>
+    <arm_group_label>PVA Hydrogel</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Synvisk-One®</intervention_name>
+    <description>Synvisc One® (comparator) will be supplied in a 6 mL sterile and non-pyrogenic syringe containing containing Hylan polymers (hylan A + hylan B) (main component), sodium chloride, disodium hydrogen phosphate, sodium dihydrogen phosphate monohydrate and water for injections.</description>
+    <arm_group_label>Synvisc-One®</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Signed and dated informed consent obtained before undergoing any&#xD;
+             clinical-investigation-related procedure.&#xD;
+&#xD;
+          2. Male or female aged between 40 and 80 years.&#xD;
+&#xD;
+          3. Documented diagnosis of primary OA of the knee, based on the clinical and radiological&#xD;
+             American College of Rheumatology (ACR) criteria for knee OA:&#xD;
+&#xD;
+               -  Knee pain,&#xD;
+&#xD;
+               -  X-ray osteophytes,&#xD;
+&#xD;
+               -  at least one of the following: (a) age &gt;50 years; (b) morning stiffness &lt;30&#xD;
+                  minutes in duration; (c) crepitus on active motion.&#xD;
+&#xD;
+          4. Grade II-III according to the Kellgren and Lawrence classification (X-ray evidence at&#xD;
+             enrolment or within the previous 12 months).&#xD;
+&#xD;
+          5. Knee OA symptoms for at least six months.&#xD;
+&#xD;
+          6. Failure to respond (i.e. did not respond sufficiently) to analgesics and/or regular&#xD;
+             NSAIDs, or proven intolerance to regular use of NSAIDs or to weak opioids analgesics.&#xD;
+&#xD;
+          7. Presence of pain in the target knee, with a value ≥4 and ≤9 on the NRS, providing that&#xD;
+             pain in the contralateral knee I less than 3 (see also Exclusion Criteria n. 3).&#xD;
+&#xD;
+          8. Ability and willingness to communicate, participate, and comply with the requirements&#xD;
+             and scheduled procedures of the clinical investigation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        (a) Medical history and Concomitant Diseases related criteria&#xD;
+&#xD;
+          1. Presence of isolated or predominantly symptomatic patellofemoral OA of the knee (i.e.&#xD;
+             pain when climbing stairs or forcing the patient to extend his leg when sitting on a&#xD;
+             low sit).&#xD;
+&#xD;
+          2. Presence of secondary osteoarthritis and/or other rheumatic diseases. In particular,&#xD;
+             history or presence of the following diseases should be excluded: septic arthritis,&#xD;
+             inflammatory joint disease, gout, recurrent episodes of pseudogout, Paget's disease of&#xD;
+             bone, articular fracture, ochronosis, acromegaly, haemocromatosis, Wilson's disease,&#xD;
+             primary osteochondromatosis.&#xD;
+&#xD;
+          3. Contralateral (i.e. non-target) knee pain &gt;3 on the NRS&#xD;
+&#xD;
+          4. Any knee OA treatment for both knees (other than the clinical investigation&#xD;
+             viscosupplementation of the target knee) anticipated within the next 6 months.&#xD;
+&#xD;
+          5. Presence of pain (any severity) in the ipsilateral and/or contralateral hip.&#xD;
+&#xD;
+          6. Presence of disease of the spine or other lower extremity joints of sufficient&#xD;
+             severity to affect the clinical investigation assessments.&#xD;
+&#xD;
+          7. Anterior cruciate ligament repair, reconstruction or injury in the target knee within&#xD;
+             the previous 3 years.&#xD;
+&#xD;
+          8. Cartilage repair/surgery in the target knee within the previous 3 years.&#xD;
+&#xD;
+          9. Any surgery in the lower limbs within the previous 12 months&#xD;
+&#xD;
+         10. Any planned surgery of the lower limbs during the clinical investigation period.&#xD;
+&#xD;
+         11. Significant articular deformities of the lower limbs, i.e. major dysplasia and&#xD;
+             congenital abnormalities.&#xD;
+&#xD;
+         12. Presence of varus or valgus knee deformity ≥ 8°.&#xD;
+&#xD;
+         13. History or presence of osteonecrosis in the lower limbs.&#xD;
+&#xD;
+         14. Presence of any significant injury of the ipsilateral limb within the previous 6&#xD;
+             months.&#xD;
+&#xD;
+         15. Presence of joint effusion and/or infection at the target knee.&#xD;
+&#xD;
+         16. Presence of local skin abnormalities (e.g. infection or disease) at the target knee.&#xD;
+&#xD;
+         17. History or presence of knee joint infection secondary to previous intra-articular&#xD;
+             injections, or increased predisposition to infections.&#xD;
+&#xD;
+         18. History or high risk of venous thromboembolism and/or venous or lymphatic stasis of&#xD;
+             the limb of the target knee.&#xD;
+&#xD;
+         19. History of allergy or known hypersensitivity to hyaluronic acid, to any of the&#xD;
+             components of the products under clinical investigation, or to paracetamol.&#xD;
+&#xD;
+         20. History of hypersensitivity to avian proteins.&#xD;
+&#xD;
+         21. Morbidly obese patients (BMI≥35).&#xD;
+&#xD;
+         22. Severe concomitant disease at any organ or apparatus (including acute or chronic&#xD;
+             infectious diseases) that may interfere with the free use and evaluation of the&#xD;
+             affected knee for the 6 months course of the clinical investigation and/or malignancy&#xD;
+             (with the exception of adequately treated or excised non metastatic basal cell or&#xD;
+             squamous cell cancer of the skin or in situ uterine cervical cancer) active within the&#xD;
+             previous 12 months.&#xD;
+&#xD;
+         23. History of drug, alcohol, or other substance abuse, or other factors limiting the&#xD;
+             ability to cooperate during the clinical investigation.&#xD;
+&#xD;
+         24. Any other clinically relevant disease and condition that, in the opinion of the&#xD;
+             principal investigators, may jeopardize the clinical investigation conduct according&#xD;
+             to the CIP or performance or safety assessments or may compromise the patients' safety&#xD;
+             or may place the patient at an undue risk by participating in the clinical&#xD;
+             investigation.&#xD;
+&#xD;
+             (b) Previous or concomitant treatments&#xD;
+&#xD;
+         25. Patients requiring systemic analgesics (including opiates)/NSAIDs for the target knee,&#xD;
+             or for indications other than OA pain at the target knee but likely to use these&#xD;
+             medications for more than 5 consecutive days, or for more than 10 non-consecutive days&#xD;
+             in one month, or unable to stop them during the 2 days preceding a clinic visit.&#xD;
+&#xD;
+         26. Patients requiring topical analgesics/NSAIDs for the target knee.&#xD;
+&#xD;
+         27. Patient requiring intra-articular corticosteroids into any joint or periarticular&#xD;
+             structure in the lower limb, or systemic corticosteroids (oral or injected for any&#xD;
+             indication).&#xD;
+&#xD;
+         28. Patients who underwent tidal lavage of the knee joint(s) during the three months prior&#xD;
+             to randomization.&#xD;
+&#xD;
+         29. Viscosupplementation in the lower limbs within the previous 12 months.&#xD;
+&#xD;
+         30. Patients on SYSADOAs or a dietary supplement containing compounds considered specific&#xD;
+             for OA (e.g. glucosamine, chondroitin sulphate, diacerein) if the dosage has not been&#xD;
+             stable within the previous 3 months.&#xD;
+&#xD;
+         31. Patients on anticoagulant treatment other than direct oral anticoagulants (DOACS).&#xD;
+&#xD;
+         32. Non-pharmacological therapy for the lower extremities, unless stable for more than one&#xD;
+             month (and not to be substantially altered during the clinical investigation).&#xD;
+             Physical therapy is allowed.&#xD;
+&#xD;
+         33. Patients using assistive devices other than a cane (walking stick) or knee brace.&#xD;
+&#xD;
+         34. Concomitant participation in any clinical study/investigation or treatment with any&#xD;
+             investigational drugs/treatments/devices within the previous 3 months or 5 of&#xD;
+             half-lives (whichever is longer).&#xD;
+&#xD;
+         35. Contraindication to use of hyaluronic acid.&#xD;
+&#xD;
+         36. Contraindication to use of paracetamol. (c) Other&#xD;
+&#xD;
+         37. For women of childbearing potential, not surgically sterile or postmenopausal:&#xD;
+&#xD;
+               -  Pregnancy (i.e. positive pregnancy test at screening) or breastfeeding;&#xD;
+&#xD;
+               -  Failure to agree to practice a highly effective method of contraception for 3&#xD;
+                  months after the IA injection.&#xD;
+&#xD;
+         38. For sexually active men with a female partner of childbearing potential: failure to&#xD;
+             use a reliable method of birth control for 3 months after the IA injection.&#xD;
+&#xD;
+        Randomization Criteria:&#xD;
+&#xD;
+          1. Pain value in the target knee ≥4 and ≤9 on the NRS.&#xD;
+&#xD;
+          2. Absence of joint effusion in the target knee.&#xD;
+&#xD;
+          3. Absence of local skin abnormalities (e.g. infection or disease) at the target knee.&#xD;
+&#xD;
+          4. No use of analgesics/NSAIDs during the 2 days preceding the Randomization Visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tomaz Blicharski</last_name>
+    <role>Study Director</role>
+    <affiliation>Lubelskie Centrum Diagnostyczne, Swidnik, Poland</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Lubelskie Centrum Diagnostyczne</name>
+      <address>
+        <city>Świdnik</city>
+        <zip>21-040</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 5, 2021</study_first_posted>
+  <last_update_submitted>December 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

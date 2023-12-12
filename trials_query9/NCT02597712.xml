@@ -1,0 +1,1291 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02597712</url>
+  </required_header>
+  <id_info>
+    <org_study_id>T-016</org_study_id>
+    <nct_id>NCT02597712</nct_id>
+  </id_info>
+  <brief_title>YF476 in Barrett's Esophagus</brief_title>
+  <official_title>Randomized, Placebo-controlled Trial of YF476, a Gastrin Receptor Antagonist, in Barrett's Esophagus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Trio Medicines Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Cambridge</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Trio Medicines Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A phase 2, randomised, double-blind, out-patient trial to determine if YF476 is a safe and&#xD;
+      effective treatment in patients with Barrett's esophagus.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 15, 2013</start_date>
+  <completion_date type="Actual">December 27, 2017</completion_date>
+  <primary_completion_date type="Actual">November 28, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Ki67 Biomarker Expression</measure>
+    <time_frame>Baseline and Week 12</time_frame>
+    <description>Esophagogastroduodenoscopy (EGD) was performed to enable taking biopsies for assessment of Ki67 expression, a marker of cellular proliferation. Ki67 expression was assessed by immunohistochemistry and calculating the number of Ki67 positive cells per mm^2 of Barrett's epithelium.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Expression of Biomarkers Potentially Associated With Esophageal Adenocarcinoma (EAC)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Blood samples were taken for assay of biomarkers associated with esophageal adenocarcinoma. Changes in biomarker expression were derived from RNA-Sequencing and calculated as log-fold change comparing the treatment group to the placebo group. The nature of how results are derived by RNA-sequencing means summary statistics cannot be generated individually for each arm and a value has not been calculated for each individual participant. Therefore, results are reported as the relative change in biomarker expression in the treatment arm compared to the placebo arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Abundance of Biomarkers of Gastric Acid Suppression</measure>
+    <time_frame>Week 4, Week 6, Week 8, Week 12 and Follow-up (4 weeks after stopping YF476 treatment)</time_frame>
+    <description>Blood samples were taken to assess the effects of YF476 on fasting serum gastrin, a marker of gastric acid suppression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Abundance of Biomarkers of ECL Cell Hyperplasia</measure>
+    <time_frame>Week 4, Week 6, Week 8, Week 12 and Follow-up (4 weeks after stopping YF476 treatment)</time_frame>
+    <description>Blood samples were taken to assess the effects of YF476 on fasting plasma CgA, a marker of ECL cell hyperplasia</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">27</enrollment>
+  <condition>Barrett's Esophagus</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will take 25 mg YF476 once daily for 12 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>YF476 Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients will take matching placebo once daily for 12 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>YF476</intervention_name>
+    <description>gastrin receptor antagonist</description>
+    <arm_group_label>Treatment</arm_group_label>
+    <other_name>netazepide</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>YF476 placebo</intervention_name>
+    <description>placebo</description>
+    <arm_group_label>YF476 Placebo</arm_group_label>
+    <other_name>netazepide placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged &gt;18 years, with histologically confirmed diagnosis of Barrett's esophagus (BE)&#xD;
+             without dysplasia. A prior endoscopy with biopsies read as indefinite for dysplasia is&#xD;
+             permitted if biopsies from the most recent endoscopy prior to study entry demonstrated&#xD;
+             BE without dysplasia.&#xD;
+&#xD;
+          -  Minimum of 1 cm circumferential Barrett's mucosa on endoscopy or at least 2 cm maximal&#xD;
+             contiguous extent of Barrett's mucosa, as measured from the top of the gastric folds&#xD;
+             to the squamocolumnar junction (Prague criteria C&gt;1, any M or any C, M&gt;2).&#xD;
+&#xD;
+          -  Proton pump inhibitor use at least once daily, for at least 12 months prior to&#xD;
+             enrolment, and stable dose of PPI for the 3 months before enrolment. Any PPI, dose,&#xD;
+             and frequency allowable.&#xD;
+&#xD;
+          -  ECOG performance status &lt;2 and Karnofsky &gt;60%&#xD;
+&#xD;
+          -  Normal organ and marrow function, defined as white blood cells &gt;3 x 10e9, absolute&#xD;
+             neutrophil count &gt;1.5 x 10e9, platelets &gt;100 x 10e9, creatinine &lt;1.5 mg/dL, total&#xD;
+             bilirubin &lt;1.5 mg/dL, AST &lt;100 U/L, ALT &lt;100 U/L.&#xD;
+&#xD;
+          -  Use of adequate contraception during the study, as follows;&#xD;
+&#xD;
+          -  Post-menopausal women must have had their last menstrual period at least 1 year ago.&#xD;
+&#xD;
+          -  Pre-menopausal women, who are sexually-active, must have had a hysterectomy or&#xD;
+             bilateral oophorectomy; or must use an intrauterine device (IUD), or spermicide with a&#xD;
+             diaphragm, cap or condom. Streroid contraceptives such as 'the pill' are not allowed&#xD;
+             unless in combination with one of the aforementioned barrier contraceptive methods.&#xD;
+&#xD;
+          -  Men must use a condom and spermicide.&#xD;
+&#xD;
+          -  Willingness to comply with all treatment and follow-up procedures.&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document.&#xD;
+&#xD;
+          -  Up to date with all age-appropriate cancer screening tests, as per American Cancer&#xD;
+             Society guidelines, (Columbia University only), and no cancer screening tests planned&#xD;
+             for the next 21 weeks.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed BE with high-grade dysplasia.&#xD;
+&#xD;
+          -  Histologically confirmed diagnosis of invasive carcinoma of the esophagus.&#xD;
+&#xD;
+          -  Histologically confirmed BE with low-grade dysplasia that has been diagnosed by at&#xD;
+             least 2 expert gastrointestinal pathologists.&#xD;
+&#xD;
+          -  Prior endoscopic therapy for BE.&#xD;
+&#xD;
+          -  Any history of esophageal or gastric surgery.&#xD;
+&#xD;
+          -  History of atrophic gastritis, pernicious anemia, or Zollinger-Ellison syndrome.&#xD;
+&#xD;
+          -  Participation in a trial of an IMP within the previous 28 days.&#xD;
+&#xD;
+          -  Prolonged QTc interval &gt;450 msec.&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical composition&#xD;
+             of YF476.&#xD;
+&#xD;
+          -  History of baseline findings of:&#xD;
+&#xD;
+          -  diabetes mellitus requiring insulin therapy&#xD;
+&#xD;
+          -  pancreatitis (baseline amylase and/or lipase &gt;2.0 x ULN)&#xD;
+&#xD;
+          -  hepatitis B, hepatitis C or HIV&#xD;
+&#xD;
+          -  malabsorption syndrome or inability to swallow or retain oral medicine&#xD;
+&#xD;
+          -  major surgery &lt;28 days prior to enrolment&#xD;
+&#xD;
+          -  ECOG performance status &gt;2&#xD;
+&#xD;
+          -  another cancer within 3 years except for basal carcinoma of the skin or cervical&#xD;
+             carcinoma in-situ&#xD;
+&#xD;
+          -  also, any clinically significant and uncontrolled major morbidity including but not&#xD;
+             limited to: serious cardiac disease (unstable angina, s/p myocardial infarction &lt;1&#xD;
+             month); respiratory disease (advanced COPD or pulmonary fibrosis); uncontrolled&#xD;
+             hypertension; active systemic infection; or psychiatric illness/social situations that&#xD;
+             would limit compliance with study requirements.&#xD;
+&#xD;
+          -  Certain medicines and herbal remedies taken during the 7 days before the start of the&#xD;
+             study drug.&#xD;
+&#xD;
+          -  A history of cancer &gt;3 years from the time of enrolment, and the patient is not up to&#xD;
+             date with surveillance for that cancer (based on the American Cancer Society&#xD;
+             guidelines, Columbia University only), has evidence of cancer at the time of&#xD;
+             enrolment, or has surveillance tests planned within 21 weeks after enrolment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julian A Abrams, MD MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Columbia University, Division of Digestive &amp; Liver Diseases</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MRC Cancer Unit, University of Cambridge</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Cambridgeshire</state>
+        <zip>CB2 0XZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>June 3, 2015</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 5, 2015</study_first_posted>
+  <results_first_submitted>January 8, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 9, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 12, 2021</results_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>acid reflux</keyword>
+  <keyword>intragastric pH</keyword>
+  <keyword>gastrin</keyword>
+  <keyword>hypergastrinemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Barrett Esophagus</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 26, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/12/NCT02597712/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 10, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/12/NCT02597712/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Three patients were enrolled but failed screening due to elevated lipase, prolonged QTc or being diagnosed with lymphoma.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Treatment</title>
+          <description>Patients will take 25 mg YF476 once daily for 12 weeks&#xD;
+YF476: gastrin receptor antagonist</description>
+        </group>
+        <group group_id="P2">
+          <title>YF476 Placebo</title>
+          <description>Patients will take matching placebo once daily for 12 weeks&#xD;
+YF476 placebo: placebo</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Baseline biopsies showed indefinite for dysplasia</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Baseline biopsies showed low grade dysplasia</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Recurrent metastatic prostate cancer</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Treatment</title>
+          <description>Patients will take 25 mg YF476 once daily for 12 weeks&#xD;
+YF476: gastrin receptor antagonist</description>
+        </group>
+        <group group_id="B2">
+          <title>YF476 Placebo</title>
+          <description>Patients will take matching placebo once daily for 12 weeks&#xD;
+YF476 placebo: placebo</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="13"/>
+            <count group_id="B2" value="11"/>
+            <count group_id="B3" value="24"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>United Kingdom</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ki67 expression</title>
+          <units>cells/mm^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1539" spread="514"/>
+                    <measurement group_id="B2" value="1556" spread="622"/>
+                    <measurement group_id="B3" value="1548" spread="559"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Fasting serum gastrin concentration (marker of gastric acid suppression)</title>
+          <units>pmol/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66.74" spread="41.736"/>
+                    <measurement group_id="B2" value="51.85" spread="29.104"/>
+                    <measurement group_id="B3" value="56.45" spread="35.997"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Fasting plasma CgA concentration (marker of ECL cell hyperplasia)</title>
+          <units>nmol/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12.93" spread="17.210"/>
+                    <measurement group_id="B2" value="9.12" spread="4.98"/>
+                    <measurement group_id="B3" value="11.18" spread="13.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Ki67 Biomarker Expression</title>
+        <description>Esophagogastroduodenoscopy (EGD) was performed to enable taking biopsies for assessment of Ki67 expression, a marker of cellular proliferation. Ki67 expression was assessed by immunohistochemistry and calculating the number of Ki67 positive cells per mm^2 of Barrett's epithelium.</description>
+        <time_frame>Baseline and Week 12</time_frame>
+        <population>3 patients in the treatment arm and 1 patient in the placebo arm were withdrawn from the study due to reasons unrelated to the treatment. Therefore, Week 12 data show results from 10 patients per arm.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment</title>
+            <description>Patients will take 25 mg YF476 once daily for 12 weeks&#xD;
+YF476: gastrin receptor antagonist</description>
+          </group>
+          <group group_id="O2">
+            <title>YF476 Placebo</title>
+            <description>Patients will take matching placebo once daily for 12 weeks&#xD;
+YF476 placebo: placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Ki67 Biomarker Expression</title>
+          <description>Esophagogastroduodenoscopy (EGD) was performed to enable taking biopsies for assessment of Ki67 expression, a marker of cellular proliferation. Ki67 expression was assessed by immunohistochemistry and calculating the number of Ki67 positive cells per mm^2 of Barrett's epithelium.</description>
+          <population>3 patients in the treatment arm and 1 patient in the placebo arm were withdrawn from the study due to reasons unrelated to the treatment. Therefore, Week 12 data show results from 10 patients per arm.</population>
+          <units>cells/mm^2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                    <count group_id="O2" value="11"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1539" spread="514"/>
+                    <measurement group_id="O2" value="1556" spread="622"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1575" spread="620.7"/>
+                    <measurement group_id="O2" value="1864" spread="640.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Expression of Biomarkers Potentially Associated With Esophageal Adenocarcinoma (EAC)</title>
+        <description>Blood samples were taken for assay of biomarkers associated with esophageal adenocarcinoma. Changes in biomarker expression were derived from RNA-Sequencing and calculated as log-fold change comparing the treatment group to the placebo group. The nature of how results are derived by RNA-sequencing means summary statistics cannot be generated individually for each arm and a value has not been calculated for each individual participant. Therefore, results are reported as the relative change in biomarker expression in the treatment arm compared to the placebo arm.</description>
+        <time_frame>Week 12</time_frame>
+        <population>3 patients in the treatment arm were withdrawn from the study due to reasons unrelated to the treatment. Therefore, results are reported for 10 patients.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment</title>
+            <description>Patients will take 25 mg YF476 once daily for 12 weeks&#xD;
+YF476: gastrin receptor antagonist</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Expression of Biomarkers Potentially Associated With Esophageal Adenocarcinoma (EAC)</title>
+          <description>Blood samples were taken for assay of biomarkers associated with esophageal adenocarcinoma. Changes in biomarker expression were derived from RNA-Sequencing and calculated as log-fold change comparing the treatment group to the placebo group. The nature of how results are derived by RNA-sequencing means summary statistics cannot be generated individually for each arm and a value has not been calculated for each individual participant. Therefore, results are reported as the relative change in biomarker expression in the treatment arm compared to the placebo arm.</description>
+          <population>3 patients in the treatment arm were withdrawn from the study due to reasons unrelated to the treatment. Therefore, results are reported for 10 patients.</population>
+          <units>relative log-fold change</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>CCK2R, Week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>PTGS2, Week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>DCLK1, Week 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Abundance of Biomarkers of Gastric Acid Suppression</title>
+        <description>Blood samples were taken to assess the effects of YF476 on fasting serum gastrin, a marker of gastric acid suppression</description>
+        <time_frame>Week 4, Week 6, Week 8, Week 12 and Follow-up (4 weeks after stopping YF476 treatment)</time_frame>
+        <population>After 6 patients (3 per treatment) had their Week 4 and 8 visits, the protocol was amended so that those visits were replaced by a single visit at Week 6 in order to reduce the total number of visits.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment</title>
+            <description>Patients will take 25 mg YF476 once daily for 12 weeks&#xD;
+YF476: gastrin receptor antagonist</description>
+          </group>
+          <group group_id="O2">
+            <title>YF476 Placebo</title>
+            <description>Patients will take matching placebo once daily for 12 weeks&#xD;
+YF476 placebo: placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Abundance of Biomarkers of Gastric Acid Suppression</title>
+          <description>Blood samples were taken to assess the effects of YF476 on fasting serum gastrin, a marker of gastric acid suppression</description>
+          <population>After 6 patients (3 per treatment) had their Week 4 and 8 visits, the protocol was amended so that those visits were replaced by a single visit at Week 6 in order to reduce the total number of visits.</population>
+          <units>pmol/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="242.6" spread="142.3"/>
+                    <measurement group_id="O2" value="43.6" spread="9.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 6</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="7"/>
+                    <count group_id="O2" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="103.3" spread="89.9"/>
+                    <measurement group_id="O2" value="63.9" spread="32.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="234.3" spread="156.5"/>
+                    <measurement group_id="O2" value="96.4" spread="54.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="146.8" spread="112.8"/>
+                    <measurement group_id="O2" value="49.2" spread="20.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Follow-up</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94.9" spread="78.8"/>
+                    <measurement group_id="O2" value="64.7" spread="37.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Abundance of Biomarkers of ECL Cell Hyperplasia</title>
+        <description>Blood samples were taken to assess the effects of YF476 on fasting plasma CgA, a marker of ECL cell hyperplasia</description>
+        <time_frame>Week 4, Week 6, Week 8, Week 12 and Follow-up (4 weeks after stopping YF476 treatment)</time_frame>
+        <population>After 6 patients (3 per treatment) had their Week 4 and 8 visits, the protocol was amended so that those visits were replaced by a single visit at Week 6 in order to reduce the total number of visits.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Treatment</title>
+            <description>Patients will take 25 mg YF476 once daily for 12 weeks&#xD;
+YF476: gastrin receptor antagonist</description>
+          </group>
+          <group group_id="O2">
+            <title>YF476 Placebo</title>
+            <description>Patients will take matching placebo once daily for 12 weeks&#xD;
+YF476 placebo: placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Abundance of Biomarkers of ECL Cell Hyperplasia</title>
+          <description>Blood samples were taken to assess the effects of YF476 on fasting plasma CgA, a marker of ECL cell hyperplasia</description>
+          <population>After 6 patients (3 per treatment) had their Week 4 and 8 visits, the protocol was amended so that those visits were replaced by a single visit at Week 6 in order to reduce the total number of visits.</population>
+          <units>nmol/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Week 4</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.9" spread="1.8"/>
+                    <measurement group_id="O2" value="8.8" spread="3.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 6</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="7"/>
+                    <count group_id="O2" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.8" spread="0.9"/>
+                    <measurement group_id="O2" value="16.9" spread="9.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 8</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8" spread="1.8"/>
+                    <measurement group_id="O2" value="10.9" spread="6.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Week 12</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.9" spread="2.5"/>
+                    <measurement group_id="O2" value="10.6" spread="7.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Follow-up</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19.8" spread="26.1"/>
+                    <measurement group_id="O2" value="11.9" spread="7.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>16 weeks</time_frame>
+      <desc>Any untoward medical occurrence in a study participant that does not necessarily have a causal relationship with the treatment</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Treatment</title>
+          <description>Patients will take 25 mg YF476 once daily for 12 weeks&#xD;
+YF476: gastrin receptor antagonist</description>
+        </group>
+        <group group_id="E2">
+          <title>YF476 Placebo</title>
+          <description>Patients will take matching placebo once daily for 12 weeks&#xD;
+YF476 placebo: placebo</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (Unspecified)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Scrotal abscess</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA (Unspecified)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="13"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bundle branch block right</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Rectal haemorrhage</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Abdominal distension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Abdominal upper pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Gatrooesophageal reflux disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Mouth ulveration</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Rash pustular</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoglycemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="13"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Presyncope</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Rhintis allergic</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dermatitis acneiform</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr Malcolm Boyce</name_or_title>
+      <organization>Trio Medicines Ltd</organization>
+      <phone>+44 20 8961 4130</phone>
+      <email>mboyce@triomedicines.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

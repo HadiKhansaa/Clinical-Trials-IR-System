@@ -1,0 +1,180 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04691414</url>
+  </required_header>
+  <id_info>
+    <org_study_id>35RC20_8894_EXOMEDIANE</org_study_id>
+    <nct_id>NCT04691414</nct_id>
+  </id_info>
+  <brief_title>Retrospective Study Using Next Generation Sequencing (NGS) on Biological Samples to Improve Genetic Counseling for Patients With Previously Explored Craniofacial Midline Defects.</brief_title>
+  <acronym>EXOMEDIANE</acronym>
+  <official_title>EXOMEDIANE - Retrospective Study Using High Throughput Sequencing (HTS) on Biological Samples to Improve Genetic Counseling for Patients With Previously Explored Craniofacial Midline Defects.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rennes University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rennes University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Holoprosencephaly, or HPE, is the most common congenital cerebral malformation in humans and&#xD;
+      the most severe of a group of pathologies related to a deficiency of the SHH signalling&#xD;
+      pathway (Sonic Hedgehog SHH-D). It is characterized by severe cerebral and craniofacial&#xD;
+      abnormalities.&#xD;
+&#xD;
+      The regulation of SHH concentration is therefore crucial for correct craniofacial&#xD;
+      development.&#xD;
+&#xD;
+      Despite the recent identification of about 20 genes, 70% of cases of EHPE and craniofacial&#xD;
+      midline abnormalities of genetic origin do not have a molecular diagnosis. It is therefore&#xD;
+      important to continue the search for new candidate genes to improve the understanding of&#xD;
+      brain and facial development and to improve genetic counseling for these families.&#xD;
+&#xD;
+      The development of Next-Generation Sequencing (NGS) technologies opens up the possibility of&#xD;
+      studying the exome or even the genome in a single manipulation. The latter type of analysis&#xD;
+      is particularly well suited to the discovery of new genes and will therefore improve the care&#xD;
+      of patients and their families.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 10, 2021</start_date>
+  <completion_date type="Anticipated">September 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 10, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients with an identified genetic abnormality</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of patients with an identified genetic abnormality</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of new genes identified</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of new genes identified, and possible recurrence of variants in one or more new genes of interest.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pathogenic variants</measure>
+    <time_frame>6 months</time_frame>
+    <description>Percentage of pathogenic variants identified in genes of the SHH pathway</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modes of transmission of pathogenic variants</measure>
+    <time_frame>6 months</time_frame>
+    <description>Percentage of variants identified according to the different modes of transmission (de novo, autosomal dominant, X-linked, autosomal recessive, oligogenism)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">51</enrollment>
+  <condition>Holoprosencephaly</condition>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>NGS</intervention_name>
+    <description>next-generation sequencing on preexisting samples</description>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      national biobank&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        17 Trios : 17 patient with Craniofacial Midline Facial Anomalies and both parents already&#xD;
+        diagnosed in routine care. Blood samples for all trio must be available in the biobank and&#xD;
+        parents and patient if he's not a minor have to accept genetic analyses.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with Craniofacial Midline Facial Anomalies (CMFLA) collected for genetic&#xD;
+             analysis&#xD;
+&#xD;
+          -  Patients and relatives for whom consent for research-related genetic testing is&#xD;
+             available. A &quot;trio&quot; - patient and both parents is required for analysis of variant&#xD;
+             segregation and determination of mode of transmission.&#xD;
+&#xD;
+          -  For patients who are minors, parental authority(ies) who have given consent for&#xD;
+             research genetic testing.&#xD;
+&#xD;
+          -  Affiliation to a social security scheme&#xD;
+&#xD;
+          -  Patient and parents do not object to their participation in the research.&#xD;
+&#xD;
+          -  In the case of a patient who has reached the age of majority since the initial consent&#xD;
+             was obtained, a patient who has given consent to proceed with genetic analyses for&#xD;
+             research purposes.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  adults subject to legal protection (safeguard of justice, curatorship, guardianship),&#xD;
+             persons deprived of liberty.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alinoë LAVILLAUREIX</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Rennes</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alinoë LAVILLAUREIX, Md</last_name>
+    <phone>299263656</phone>
+    <phone_ext>+33</phone_ext>
+    <email>alinoe.lavillaureix@chu-rennes.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alinoë Lavillaureix, Md</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>December 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 31, 2020</study_first_posted>
+  <last_update_submitted>March 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 10, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Holoprosencephaly</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

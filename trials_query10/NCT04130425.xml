@@ -1,0 +1,689 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04130425</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18-008562</org_study_id>
+    <nct_id>NCT04130425</nct_id>
+  </id_info>
+  <brief_title>A Comparison Study of Three Standard Elbow Wrist Hand Orthoses to Limit Forearm Rotation</brief_title>
+  <official_title>A Comparison Study of Three Standard Elbow Wrist Hand Orthoses to Limit Forearm Rotation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Researchers are trying to assess which splint limits forearm rotation the best. These&#xD;
+      splints are commonly used in hand therapy to limit forearm rotation. This data will help hand&#xD;
+      surgery and hand therapy provide better outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Common upper extremity injuries often need to heal with no wrist and forearm range of motion.&#xD;
+      Forearm range of motion includes supination and pronation. Injuries that necessitate limiting&#xD;
+      forearm range of motion include fracture patterns involving the distal radioulnar joint&#xD;
+      (DRUJ), proximal radioulnar joint (PRUJ), triangular fibrocartilage complex (TFCC), both bone&#xD;
+      forearm fractures, ulnar shortening procedures, radial and ulnar osteotomies, DRUJ&#xD;
+      instability. Long arm orthoses, sugar tong orthoses and muenster style orthoses can all limit&#xD;
+      forearm rotation.&#xD;
+&#xD;
+      Past research has indicated common methods of immobilization to include the following: sugar&#xD;
+      tongs cast/orthosis, muenster cast/orthosis, long arm cast/orthosis/or short arm&#xD;
+      cast/orthosis, and an antirotation orthosis.&#xD;
+&#xD;
+      Currently, there are no research studies that compare the amount of forearm rotation in a&#xD;
+      traditional thermoplastic orthoses to newer materials such as a Delta Cast orthosis, or&#xD;
+      prefabricated muenster orthoses such as the Hely and Weber MTC Fracture Brace. The purpose of&#xD;
+      this study is to assess which orthosis-a traditional thermoplastic ulnar based muenster, a&#xD;
+      delta cast style muenster and the Hely and Weber MTC Fracture Brace-allows for the least&#xD;
+      amount of supination and pronation in a healthy population in the dominant extremity.&#xD;
+&#xD;
+      The researchers will assess the 3 different orthoses using a standard measuring device for&#xD;
+      pronation and supination. The participants will also be asked questions regarding comfort,&#xD;
+      fit, and style of each orthosis. 30 Participants data will be collected during the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 6, 2019</start_date>
+  <completion_date type="Actual">January 31, 2020</completion_date>
+  <primary_completion_date type="Actual">January 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Degree of Forarm Rotation With Thermoplastic Ulnar Based Muenster Orthosis, Delta-Cast Orthosis and Hely and Weber Fracture Brace MTC</measure>
+    <time_frame>1 day</time_frame>
+    <description>Degree of forarm rotation (supination/pronation) measured by an electronic goniometer device reported unit of measurement in degrees while wearing each of the orthoses.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Orthotics and Prosthetics User's Survey (OPUS )</measure>
+    <time_frame>1 day</time_frame>
+    <description>The OPUS is a well validated, self-report questionnaire which consists of five modules; specifically, five questions from the OPUS: Satisfaction with Device and Services Module were used. These five questions were scored on a 5-point Likert scale from strongly agree to strongly disagree. A sixth option of &quot;don't know&quot; or &quot;not applicable&quot; was also available. Strongly agree = 5, Agree = 4, Neutral =3, Disagree =2, Strongly Disagree =1. If the participant chose don't know or not applicable that question was excluded for that participant.&#xD;
+The five questions included-&#xD;
+. My orthosis fits well.&#xD;
+. The weight of my orthosis is manageable.&#xD;
+. It is easy to put on my orthosis.&#xD;
+. My orthosis is pain free to wear.&#xD;
+. My orthosis looks good.&#xD;
+The remaining 16 questions from the module were excluded, as they did not pertain to healthy volunteers wearing the orthosis only during his/her research participation.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Healthy Individuals</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subject will be measured for forearm rotation while wearing the custom orthoses Hely &amp; Weber MTC Fracture Brace, thermoplastic orthosis, and delta cast orthosis.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Hely &amp; Weber MTC Fracture Brace</intervention_name>
+    <description>Prefabricated muenster orthosis</description>
+    <arm_group_label>Healthy Individuals</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Thermoplastic orthosis</intervention_name>
+    <description>Muenster orthosis fabricated out of thermoplastics and secured with Velcro</description>
+    <arm_group_label>Healthy Individuals</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Delta cast orthosis</intervention_name>
+    <description>Muenster orthosis fabricated out of Delta Cast and secured with Velcro</description>
+    <arm_group_label>Healthy Individuals</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  No prior wrist or elbow injuries on the dominant side of his/her body&#xD;
+&#xD;
+          -  Ability to complete study in one sitting of 90-120 minutes&#xD;
+&#xD;
+          -  Between the ages of 18 years and 100 years&#xD;
+&#xD;
+          -  Ability to follow directions and speak and read English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior wrist or elbow injuries on the dominant side of his/her body&#xD;
+&#xD;
+          -  Subjects with known rheumatoid arthritis deformities of the wrist or any prior wrist&#xD;
+             surgeries are excluded&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stepanie Kannas, CHT, OT, OTD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.mayo.edu/research/clinical-trials</url>
+    <description>Mayo Clinic Clinical Trials</description>
+  </link>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 13, 2019</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 17, 2019</study_first_posted>
+  <results_first_submitted>October 2, 2020</results_first_submitted>
+  <results_first_submitted_qc>November 30, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 1, 2020</results_first_posted>
+  <last_update_submitted>November 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mayo Clinic</investigator_affiliation>
+    <investigator_full_name>Stephanie N. Kannas</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 16, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/25/NCT04130425/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Hely &amp; Weber MTC Fracture Brace, Thermoplastic Orthosis and Delta-Cast Orthosis</title>
+          <description>Each participant received a sequence of three different orthotic interventions and served as his/her own match control to assess forearm range of motion.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Healthy Individuals</title>
+          <description>Subject will be measured for forearm rotation while wearing the custom orthoses Hely &amp; Weber MTC Fracture Brace, thermoplastic orthosis, and delta cast orthosis.&#xD;
+Hely &amp; Weber MTC Fracture Brace: Prefabricated muenster orthosis&#xD;
+Thermoplastic orthosis: Muenster orthosis fabricated out of thermoplastics and secured with Velcro&#xD;
+Delta cast orthosis: Muenster orthosis fabricated out of Delta Cast and secured with Velcro</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="30"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36.9" spread="12.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Degree of Forarm Rotation With Thermoplastic Ulnar Based Muenster Orthosis, Delta-Cast Orthosis and Hely and Weber Fracture Brace MTC</title>
+        <description>Degree of forarm rotation (supination/pronation) measured by an electronic goniometer device reported unit of measurement in degrees while wearing each of the orthoses.</description>
+        <time_frame>1 day</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Thermoplastic Results</title>
+            <description>The 30 healthy participants trialing the thermoplastic orthosis. Total arc of motion reported.</description>
+          </group>
+          <group group_id="O2">
+            <title>Delta-Cast Results</title>
+            <description>The 30 healthy participants trialing the Delta-Cast orthosis. Results are total arc of motion.</description>
+          </group>
+          <group group_id="O3">
+            <title>Hely and Weber Fracture Brace MTC</title>
+            <description>The 30 healthy participants trialing the Hely and Weber Fracture Brace MTC. Results reported in total arc of motion.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Degree of Forarm Rotation With Thermoplastic Ulnar Based Muenster Orthosis, Delta-Cast Orthosis and Hely and Weber Fracture Brace MTC</title>
+          <description>Degree of forarm rotation (supination/pronation) measured by an electronic goniometer device reported unit of measurement in degrees while wearing each of the orthoses.</description>
+          <units>degrees</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+                <count group_id="O3" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="88.4" spread="35.8"/>
+                    <measurement group_id="O2" value="49.1" spread="24.2"/>
+                    <measurement group_id="O3" value="67.2" spread="34.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Orthotics and Prosthetics User's Survey (OPUS )</title>
+        <description>The OPUS is a well validated, self-report questionnaire which consists of five modules; specifically, five questions from the OPUS: Satisfaction with Device and Services Module were used. These five questions were scored on a 5-point Likert scale from strongly agree to strongly disagree. A sixth option of &quot;don't know&quot; or &quot;not applicable&quot; was also available. Strongly agree = 5, Agree = 4, Neutral =3, Disagree =2, Strongly Disagree =1. If the participant chose don't know or not applicable that question was excluded for that participant.&#xD;
+The five questions included-&#xD;
+. My orthosis fits well.&#xD;
+. The weight of my orthosis is manageable.&#xD;
+. It is easy to put on my orthosis.&#xD;
+. My orthosis is pain free to wear.&#xD;
+. My orthosis looks good.&#xD;
+The remaining 16 questions from the module were excluded, as they did not pertain to healthy volunteers wearing the orthosis only during his/her research participation.</description>
+        <time_frame>1 day</time_frame>
+        <population>Participants were excluded from overall analysis if they answered don't know or not applicable for certain questions in the study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Hely &amp; Weber MTC Fracture Brace</title>
+            <description>Each participant is their own matched control for the three orthoses. This data describes only the Hely &amp; Weber MTC Fracture Brace.</description>
+          </group>
+          <group group_id="O2">
+            <title>Thermoplastic Orthosis</title>
+            <description>Each participant is their own matched control for the three orthoses. This data describes only the Thermoplastic Orthosis</description>
+          </group>
+          <group group_id="O3">
+            <title>Delta-Cast Orthosis</title>
+            <description>Each participant is their own matched control for the three orthoses. This data describes only the Delta Cast orthosis</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Orthotics and Prosthetics User's Survey (OPUS )</title>
+          <description>The OPUS is a well validated, self-report questionnaire which consists of five modules; specifically, five questions from the OPUS: Satisfaction with Device and Services Module were used. These five questions were scored on a 5-point Likert scale from strongly agree to strongly disagree. A sixth option of &quot;don't know&quot; or &quot;not applicable&quot; was also available. Strongly agree = 5, Agree = 4, Neutral =3, Disagree =2, Strongly Disagree =1. If the participant chose don't know or not applicable that question was excluded for that participant.&#xD;
+The five questions included-&#xD;
+. My orthosis fits well.&#xD;
+. The weight of my orthosis is manageable.&#xD;
+. It is easy to put on my orthosis.&#xD;
+. My orthosis is pain free to wear.&#xD;
+. My orthosis looks good.&#xD;
+The remaining 16 questions from the module were excluded, as they did not pertain to healthy volunteers wearing the orthosis only during his/her research participation.</description>
+          <population>Participants were excluded from overall analysis if they answered don't know or not applicable for certain questions in the study.</population>
+          <units>Likert scale unit</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+                <count group_id="O3" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>My orthosis fits well</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="30"/>
+                    <count group_id="O2" value="30"/>
+                    <count group_id="O3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.2" spread="0.9"/>
+                    <measurement group_id="O2" value="4.0" spread="0.7"/>
+                    <measurement group_id="O3" value="4.7" spread="0.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>The weight is manageable</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="30"/>
+                    <count group_id="O2" value="30"/>
+                    <count group_id="O3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.1" spread="0.9"/>
+                    <measurement group_id="O2" value="4.3" spread="0.7"/>
+                    <measurement group_id="O3" value="4.4" spread="0.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Easy to put on orthosis</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="30"/>
+                    <count group_id="O2" value="30"/>
+                    <count group_id="O3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.5" spread="1.2"/>
+                    <measurement group_id="O2" value="4.2" spread="0.8"/>
+                    <measurement group_id="O3" value="3.8" spread="1.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>My orthosis is pain free to wear</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="29"/>
+                    <count group_id="O2" value="29"/>
+                    <count group_id="O3" value="29"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.2" spread="0.9"/>
+                    <measurement group_id="O2" value="4.0" spread="0.9"/>
+                    <measurement group_id="O3" value="4.5" spread="0.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>My orthosis looks good</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="28"/>
+                    <count group_id="O2" value="28"/>
+                    <count group_id="O3" value="28"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.5" spread="1.2"/>
+                    <measurement group_id="O2" value="4.2" spread="0.8"/>
+                    <measurement group_id="O3" value="3.4" spread="1.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 day</time_frame>
+      <desc>The nature of the study was completing normal standard of care for orthotic positioning. All safety practices were in place that are followed for standard clinic operations.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Hely &amp; Weber MTC Fracture Brace</title>
+          <description>Participants served as their own matched controls for each of the three orthoses.</description>
+        </group>
+        <group group_id="E2">
+          <title>Thermoplastic Orthosis</title>
+          <description>Participants served as their own matched controls for each of the three orthoses.</description>
+        </group>
+        <group group_id="E3">
+          <title>Delta-Cast Orthosis</title>
+          <description>Participants served as their own matched controls for each of the three orthoses.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="30"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="30"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="30"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>All measurements were performed on healthy individuals versus an injured arm. Since participants did not have symptoms, it made donning and doffing the orthoses easier. During testing, participants were asked to pronate and supinate until they felt resistance using sensory feedback as the stop point. This limitation allowed for the wide variant in allowable motion of each orthosis, as each participant's perception could be different when it comes to feeling resistance in an orthosis.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Stephanie Kannas, OTR/L, OTD, CHT</name_or_title>
+      <organization>Mayo Clinic</organization>
+      <phone>507-284-8841</phone>
+      <email>kannas.stephanie@mayo.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

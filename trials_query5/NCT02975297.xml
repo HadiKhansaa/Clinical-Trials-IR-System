@@ -1,0 +1,1270 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02975297</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSC-MS-17-0802</org_study_id>
+    <secondary_id>CCTS Research Scholar Award</secondary_id>
+    <nct_id>NCT02975297</nct_id>
+  </id_info>
+  <brief_title>Exenatide Once Weekly for Smoking Cessation</brief_title>
+  <official_title>Exenatide Once Weekly for Smoking Cessation: A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center, Houston</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Texas Health Science Center, Houston</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to identify a potential new treatment for smoking cessation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 2016</start_date>
+  <completion_date type="Actual">January 3, 2020</completion_date>
+  <primary_completion_date type="Actual">January 3, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Self-Reported Abstinence and Who Were Biochemically Verified as Abstinent Via Expired CO Level of ≤ 5ppm</measure>
+    <time_frame>6 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-quit Craving as Assessed by the Questionnaire of Smoking Urges</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Withdrawal Symptoms as Assessed by the Wisconsin Smoking Withdrawal Scale</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>The Wisconsin Smoking Withdrawal Scale is a 28-item questionnaire designed to assess different aspects of the smoking withdrawal syndrome. Participants rate each item on a Likert scale from zero (strongly disagree) to four (strongly agree). Total score ranges from 0 to 112, with a higher score indicating greater withdrawal.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cue-induced Craving for Cigarettes Following Virtual Reality Exposure as Assessed by the Questionnaire of Smoking Urges</measure>
+    <time_frame>1 week</time_frame>
+    <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cue-induced Craving for Cigarettes Following Virtual Reality Exposure as Assessed by the Questionnaire of Smoking Urges</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Self-Reported Abstinence and Who Were Biochemically Verified as Abstinent Via Expired CO Level of ≤ 5ppm</measure>
+    <time_frame>7 weeks (1 week after end of treatment)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Self-Reported Abstinence and Who Were Biochemically Verified as Abstinent Via Expired CO Level of ≤ 5ppm</measure>
+    <time_frame>10 weeks (4 weeks after end of treatment)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-quit Craving as Assessed by the Questionnaire of Smoking Urges</measure>
+    <time_frame>7 weeks (1 week after end of treatment)</time_frame>
+    <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-quit Craving as Assessed by the Questionnaire of Smoking Urges</measure>
+    <time_frame>10 weeks (4 weeks after end of treatment)</time_frame>
+    <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">84</enrollment>
+  <condition>Smoking Cessation</condition>
+  <arm_group>
+    <arm_group_label>Exenatide plus NRT plus counseling</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo plus NRT plus counseling</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Exenatide</intervention_name>
+    <description>Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.</description>
+    <arm_group_label>Exenatide plus NRT plus counseling</arm_group_label>
+    <other_name>Bydureon</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NRT</intervention_name>
+    <description>Nicotine Patch (21mg) / 24 hours.</description>
+    <arm_group_label>Exenatide plus NRT plus counseling</arm_group_label>
+    <arm_group_label>Placebo plus NRT plus counseling</arm_group_label>
+    <other_name>Nicotine patch</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Counseling</intervention_name>
+    <description>Brief individual behavioral smoking cessation counseling.</description>
+    <arm_group_label>Exenatide plus NRT plus counseling</arm_group_label>
+    <arm_group_label>Placebo plus NRT plus counseling</arm_group_label>
+    <other_name>Smoking cessation counseling</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal saline.</description>
+    <arm_group_label>Placebo plus NRT plus counseling</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be English-speaking volunteers who desire to quit smoking and are willing to make a&#xD;
+             quit attempt during the course of the study;&#xD;
+&#xD;
+          -  Have smoked ≥10 cigarettes a day for at least one year and provide a breath carbon&#xD;
+             monoxide (CO) ≥10 ppm;&#xD;
+&#xD;
+          -  Have a negative pregnancy test, if female of childbearing potential;&#xD;
+&#xD;
+          -  Have HbA1C levels between 5.7 and 6.4% or BMI of or greater than 25 kg/square meters&#xD;
+&#xD;
+          -  Not currently using any therapy for glycemic control (either injectable [i.e. insulin]&#xD;
+             or oral agents);&#xD;
+&#xD;
+          -  Have vital signs as follows: resting pulse between 50 and 95 bpm, BP between 90-150&#xD;
+             mmHg systolic and 45-95 mmHg diastolic;&#xD;
+&#xD;
+          -  Have hematology and chemistry laboratory tests that are within reference limits&#xD;
+             (within 10% above or below), with the following exception: pancreatic tests (lipase&#xD;
+             and amylase) must be within normal limits;&#xD;
+&#xD;
+          -  Have a medical history and brief physical examination demonstrating no clinically&#xD;
+             significant contraindications for study participation, in the judgment of the&#xD;
+             principal investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Meet criteria for the following psychiatric and/or substance use disorders as assessed&#xD;
+             by the Mini International Neuropsychiatric Interview (MINI): items C (current manic or&#xD;
+             hypomanic episode only), I (alcohol abuse - Alcohol Addendum-past 3 months only;&#xD;
+             current alcohol dependence), J (substance abuse -Substance Abuse Addendum - past 3&#xD;
+             months only; current substance dependence), K (current psychotic disorder or current&#xD;
+             mood disorder with psychotic features).&#xD;
+&#xD;
+          -  Individuals who meet criteria for non-exclusionary psychiatric disorders that are&#xD;
+             considered clinically unstable and/or unsuitable to participate as determined by the&#xD;
+             Principal Investigator and/or Study Physician.&#xD;
+&#xD;
+          -  Individuals rated as moderate (9-16) to high (17 or greater) on suicidality as&#xD;
+             assessed by Module B of the MINI.&#xD;
+&#xD;
+          -  Have personal or family history of medullary thyroid carcinoma or multiple endocrine&#xD;
+             neoplasia syndrome type 2;&#xD;
+&#xD;
+          -  Have type 1 diabetes mellitus;&#xD;
+&#xD;
+          -  Have severe cardiovascular disease (history of myocardial infarction, life-threatening&#xD;
+             arrhythmia, or worsening angina pectoris);&#xD;
+&#xD;
+          -  Have active temporomandibular joint disease;&#xD;
+&#xD;
+          -  Have severe gastrointestinal disease (i.e. severe gastroparesis);&#xD;
+&#xD;
+          -  Have previous history of pancreatitis or are at risk for pancreatitis;&#xD;
+&#xD;
+          -  Have creatinine clearance (CrCl) &lt; 30;&#xD;
+&#xD;
+          -  Have any previous medically adverse reaction to study medications, nicotine, or&#xD;
+             menthol;&#xD;
+&#xD;
+          -  Be pregnant or lactating or unwilling to provide a negative pregnancy test before&#xD;
+             study entry;&#xD;
+&#xD;
+          -  Not using a reliable form of contraception (e.g., abstinence, birth control pills,&#xD;
+             intrauterine device, condoms, or spermicide);&#xD;
+&#xD;
+          -  Have any illness which in the opinion of the primary investigator would preclude safe&#xD;
+             and/or successful completion of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luba Yammine, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Texas Health Science Center, Houston</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Yammine L, Kosten TR, Cinciripini PM, Green CE, Meininger JC, Minnix JA, Newton TF. Exenatide once weekly for smoking cessation: study protocol for a randomized clinical trial. Medicine (Baltimore). 2018 Jan;97(2):e9567. doi: 10.1097/MD.0000000000009567.</citation>
+    <PMID>29480848</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 18, 2016</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 29, 2016</study_first_posted>
+  <results_first_submitted>January 2, 2021</results_first_submitted>
+  <results_first_submitted_qc>January 26, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 28, 2021</results_first_posted>
+  <last_update_submitted>January 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Texas Health Science Center, Houston</investigator_affiliation>
+    <investigator_full_name>Luba Yammine</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>smoking</keyword>
+  <keyword>pre-diabetes</keyword>
+  <keyword>overweight</keyword>
+  <keyword>exenatide</keyword>
+  <keyword>Glucagon-like peptide-1 (GLP-1) agonists</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Exenatide</mesh_term>
+    <mesh_term>Nicotine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 20, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/97/NCT02975297/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>1 participant in the exenatide arm did not receive exenatide, and 1 participant in the placebo arm did not receive placebo.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Exenatide Plus NRT Plus Counseling</title>
+          <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo Plus NRT Plus Counseling</title>
+          <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="41"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="34"/>
+                <participants group_id="P2" count="35"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Exenatide Plus NRT Plus Counseling</title>
+          <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo Plus NRT Plus Counseling</title>
+          <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="41"/>
+            <count group_id="B2" value="41"/>
+            <count group_id="B3" value="82"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51.0" spread="9.1"/>
+                    <measurement group_id="B2" value="51.2" spread="9.4"/>
+                    <measurement group_id="B3" value="51.1" spread="9.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                    <measurement group_id="B2" value="29"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Black/African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic/Latino</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                    <measurement group_id="B2" value="41"/>
+                    <measurement group_id="B3" value="82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Marital Status</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Never Married</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Divorced/Separated</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="37"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Married</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Widowed</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Highest Level of Education</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>8th Grade or Less</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>High School</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="51"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>College Degree</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="23"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Graduate Degree</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Household Income</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;$19,999</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="49"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>$20,000-39,999</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>$40,000-59,999</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>$60,000-79,999</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>$80,000-99,999</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;$100,000</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Cigarettes Smoked per Day</title>
+          <units>Cigarettes Smoked per Day</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18.5" spread="8.7"/>
+                    <measurement group_id="B2" value="18.4" spread="9.3"/>
+                    <measurement group_id="B3" value="18.4" spread="8.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Years of Regular Smoking</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27.4" spread="11"/>
+                    <measurement group_id="B2" value="26.6" spread="12.7"/>
+                    <measurement group_id="B3" value="27.0" spread="11.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Nicotine Dependence as Assessed by the Fagerstrom Test for Nicotine Dependence (FTND)</title>
+          <description>Total score ranges from 0-10. The higher the total Fagerström score, the more intense the physical dependence on nicotine.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6.3" spread="1.9"/>
+                    <measurement group_id="B2" value="6" spread="2.5"/>
+                    <measurement group_id="B3" value="6.2" spread="2.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Positive Affect as Assessed by the Positive and Negative Affect Schedule (PANAS)</title>
+          <description>Score ranges from 10-50, with a higher score representing higher levels of Positive Affect.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35.9" spread="10.1"/>
+                    <measurement group_id="B2" value="32.5" spread="9.8"/>
+                    <measurement group_id="B3" value="34.2" spread="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Negative Affect as Assessed by the Positive and Negative Affect Schedule (PANAS)</title>
+          <description>Score ranges from 10-50, with a higher score representing higher levels of Negative Affect.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18.6" spread="7.6"/>
+                    <measurement group_id="B2" value="20.1" spread="8.0"/>
+                    <measurement group_id="B3" value="19.3" spread="7.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Depressive Symptoms as Assessed by the Patient Health Questionnaire (PHQ-8)</title>
+          <description>Total score ranges from 0 to 24, with a higher score indicating greater depression.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8.3" spread="6.4"/>
+                    <measurement group_id="B2" value="8.6" spread="5.9"/>
+                    <measurement group_id="B3" value="8.5" spread="6.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Self-Reported Abstinence and Who Were Biochemically Verified as Abstinent Via Expired CO Level of ≤ 5ppm</title>
+        <time_frame>6 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide Plus NRT Plus Counseling</title>
+            <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Plus NRT Plus Counseling</title>
+            <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Self-Reported Abstinence and Who Were Biochemically Verified as Abstinent Via Expired CO Level of ≤ 5ppm</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="41"/>
+                <count group_id="O2" value="41"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Post-quit Craving as Assessed by the Questionnaire of Smoking Urges</title>
+        <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+        <time_frame>6 weeks</time_frame>
+        <population>Data were not collected for 7 participants in the Exenatide plus NRT plus counseling arm and 6 participants in the Placebo plus NRT plus counseling arm. Overall Number of Participants Analyzed reflects participants who completed the study visit.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide Plus NRT Plus Counseling</title>
+            <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Plus NRT Plus Counseling</title>
+            <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Post-quit Craving as Assessed by the Questionnaire of Smoking Urges</title>
+          <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+          <population>Data were not collected for 7 participants in the Exenatide plus NRT plus counseling arm and 6 participants in the Placebo plus NRT plus counseling arm. Overall Number of Participants Analyzed reflects participants who completed the study visit.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17.2" spread="11.0"/>
+                    <measurement group_id="O2" value="16.9" spread="9.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Withdrawal Symptoms as Assessed by the Wisconsin Smoking Withdrawal Scale</title>
+        <description>The Wisconsin Smoking Withdrawal Scale is a 28-item questionnaire designed to assess different aspects of the smoking withdrawal syndrome. Participants rate each item on a Likert scale from zero (strongly disagree) to four (strongly agree). Total score ranges from 0 to 112, with a higher score indicating greater withdrawal.</description>
+        <time_frame>6 weeks</time_frame>
+        <population>Data were not collected for 7 participants in the Exenatide plus NRT plus counseling arm and 6 participants in the Placebo plus NRT plus counseling arm. Overall Number of Participants Analyzed reflects participants who completed the study visit.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide Plus NRT Plus Counseling</title>
+            <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Plus NRT Plus Counseling</title>
+            <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Withdrawal Symptoms as Assessed by the Wisconsin Smoking Withdrawal Scale</title>
+          <description>The Wisconsin Smoking Withdrawal Scale is a 28-item questionnaire designed to assess different aspects of the smoking withdrawal syndrome. Participants rate each item on a Likert scale from zero (strongly disagree) to four (strongly agree). Total score ranges from 0 to 112, with a higher score indicating greater withdrawal.</description>
+          <population>Data were not collected for 7 participants in the Exenatide plus NRT plus counseling arm and 6 participants in the Placebo plus NRT plus counseling arm. Overall Number of Participants Analyzed reflects participants who completed the study visit.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="34"/>
+                <count group_id="O2" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="40.5" spread="18.3"/>
+                    <measurement group_id="O2" value="44.5" spread="18.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Cue-induced Craving for Cigarettes Following Virtual Reality Exposure as Assessed by the Questionnaire of Smoking Urges</title>
+        <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+        <time_frame>1 week</time_frame>
+        <population>Virtual reality exposure was not done due to transfer of the study to a different site; therefore, data for this outcome measure were not collected.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide Plus NRT Plus Counseling</title>
+            <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Plus NRT Plus Counseling</title>
+            <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cue-induced Craving for Cigarettes Following Virtual Reality Exposure as Assessed by the Questionnaire of Smoking Urges</title>
+          <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+          <population>Virtual reality exposure was not done due to transfer of the study to a different site; therefore, data for this outcome measure were not collected.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Cue-induced Craving for Cigarettes Following Virtual Reality Exposure as Assessed by the Questionnaire of Smoking Urges</title>
+        <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+        <time_frame>3 weeks</time_frame>
+        <population>Virtual reality exposure was not done due to transfer of the study to a different site; therefore, data for this outcome measure were not collected.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide Plus NRT Plus Counseling</title>
+            <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Plus NRT Plus Counseling</title>
+            <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cue-induced Craving for Cigarettes Following Virtual Reality Exposure as Assessed by the Questionnaire of Smoking Urges</title>
+          <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+          <population>Virtual reality exposure was not done due to transfer of the study to a different site; therefore, data for this outcome measure were not collected.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Self-Reported Abstinence and Who Were Biochemically Verified as Abstinent Via Expired CO Level of ≤ 5ppm</title>
+        <time_frame>7 weeks (1 week after end of treatment)</time_frame>
+        <population>Data were not collected for 22 participants in the Exenatide plus NRT plus counseling arm and 30 participants in the Placebo plus NRT plus counseling arm. The Overall Number of Participants Analyzed reflects the number of participants who were abstinent [self-reported and verified by expired carbon monoxide (CO) levels (CO≤5 ppm)] at 6 weeks (end of treatment).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide Plus NRT Plus Counseling</title>
+            <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Plus NRT Plus Counseling</title>
+            <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Self-Reported Abstinence and Who Were Biochemically Verified as Abstinent Via Expired CO Level of ≤ 5ppm</title>
+          <population>Data were not collected for 22 participants in the Exenatide plus NRT plus counseling arm and 30 participants in the Placebo plus NRT plus counseling arm. The Overall Number of Participants Analyzed reflects the number of participants who were abstinent [self-reported and verified by expired carbon monoxide (CO) levels (CO≤5 ppm)] at 6 weeks (end of treatment).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Self-Reported Abstinence and Who Were Biochemically Verified as Abstinent Via Expired CO Level of ≤ 5ppm</title>
+        <time_frame>10 weeks (4 weeks after end of treatment)</time_frame>
+        <population>Data were not collected for 22 participants in the Exenatide plus NRT plus counseling arm and 30 participants in the Placebo plus NRT plus counseling arm. The Overall Number of Participants Analyzed reflects the number of participants who were abstinent [self-reported and verified by expired carbon monoxide (CO) levels (CO≤5 ppm)] at 6 weeks (end of treatment).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide Plus NRT Plus Counseling</title>
+            <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Plus NRT Plus Counseling</title>
+            <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Self-Reported Abstinence and Who Were Biochemically Verified as Abstinent Via Expired CO Level of ≤ 5ppm</title>
+          <population>Data were not collected for 22 participants in the Exenatide plus NRT plus counseling arm and 30 participants in the Placebo plus NRT plus counseling arm. The Overall Number of Participants Analyzed reflects the number of participants who were abstinent [self-reported and verified by expired carbon monoxide (CO) levels (CO≤5 ppm)] at 6 weeks (end of treatment).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Post-quit Craving as Assessed by the Questionnaire of Smoking Urges</title>
+        <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+        <time_frame>7 weeks (1 week after end of treatment)</time_frame>
+        <population>Data were not collected for 25 participants in the Exenatide plus NRT plus counseling arm and 32 participants in the Placebo plus NRT plus counseling arm. The Overall Number of Participants Analyzed reflects those who completed the study visit.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide Plus NRT Plus Counseling</title>
+            <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Plus NRT Plus Counseling</title>
+            <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Post-quit Craving as Assessed by the Questionnaire of Smoking Urges</title>
+          <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+          <population>Data were not collected for 25 participants in the Exenatide plus NRT plus counseling arm and 32 participants in the Placebo plus NRT plus counseling arm. The Overall Number of Participants Analyzed reflects those who completed the study visit.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.3" spread="7.86"/>
+                    <measurement group_id="O2" value="14.2" spread="8.47"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Post-quit Craving as Assessed by the Questionnaire of Smoking Urges</title>
+        <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+        <time_frame>10 weeks (4 weeks after end of treatment)</time_frame>
+        <population>Data were not collected for 30 participants in the Exenatide plus NRT plus counseling arm and 37 participants in the Placebo plus NRT plus counseling arm. The Overall Number of Participants Analyzed reflects those who completed the study visit.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exenatide Plus NRT Plus Counseling</title>
+            <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Plus NRT Plus Counseling</title>
+            <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Post-quit Craving as Assessed by the Questionnaire of Smoking Urges</title>
+          <description>Questionnaire of Smoking Urges (QSU) is a 10-item scale (total score range = 10-70, a lower score indicates lower cravings for cigarettes) that evaluates the intention and desire to smoke and anticipation of relief from withdrawal-associated negative affect.</description>
+          <population>Data were not collected for 30 participants in the Exenatide plus NRT plus counseling arm and 37 participants in the Placebo plus NRT plus counseling arm. The Overall Number of Participants Analyzed reflects those who completed the study visit.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="11"/>
+                <count group_id="O2" value="4"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.5" spread="5.13"/>
+                    <measurement group_id="O2" value="11.2" spread="2.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>10 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Exenatide Plus NRT Plus Counseling</title>
+          <description>Once weekly exenatide Injectable Product, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+Exenatide: Exenatide Injectable Product will be administered at a dose of 2 mg subcutaneously once a week for 6 weeks.&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo Plus NRT Plus Counseling</title>
+          <description>Once weekly placebo, Nicotine Replacement Therapy (NRT) Patch, smoking cessation counseling&#xD;
+NRT: Nicotine Patch (21mg) / 24 hours.&#xD;
+Counseling: Brief individual behavioral smoking cessation counseling.&#xD;
+Placebo: Normal saline.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="41"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="41"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="41"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="41"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="41"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="41"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Injection site nodule</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="41"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="41"/>
+              </event>
+              <event>
+                <sub_title>Pruritus at the site of nicotine patch application</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="41"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="41"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Luba Yammine, PhD, APRN, FNP-C, Associate Professor</name_or_title>
+      <organization>The University of Texas Health Science Center at Houston</organization>
+      <phone>(713) 500-2005</phone>
+      <email>Luba.Yammine@uth.tmc.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

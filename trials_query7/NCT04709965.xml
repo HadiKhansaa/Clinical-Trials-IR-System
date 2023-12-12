@@ -1,0 +1,227 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04709965</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R04765</org_study_id>
+    <nct_id>NCT04709965</nct_id>
+  </id_info>
+  <brief_title>Evaluating Face-Recognition Technology in Syndrome Diagnosis</brief_title>
+  <official_title>Evaluating the Clinical Utility of Face-Recognition Technology in Syndrome Diagnosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Manchester University NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>FDNA Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Manchester University NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Birth defects are relatively common, occurring in 1 in 40 live born babies. They can be&#xD;
+      single, or multiple. They may occur as part of multiple malformation syndromes, often in&#xD;
+      association with growth disturbance or intellectual disability. Over 7000 rare syndromes have&#xD;
+      been identified. Thus, though they are rare they are collectively important. Understanding&#xD;
+      how a multiple malformation syndrome came about, defining what investigations and health&#xD;
+      surveillance is needed for affected children and identifying whether there is a treatment is&#xD;
+      very important for parents and professionals caring for affected children and also for&#xD;
+      genetic counselling of their extended families, since the majority will have a genetic basis.&#xD;
+      Diagnosis of these rare disorders is therefore important,but as many syndromes are rare this&#xD;
+      can be extremely difficult and requires specialist knowledge, many investigations and many&#xD;
+      hospital appointments. This study aims to determine whether using face-recognition software&#xD;
+      can improve diagnosis of rare syndromes when used in addition to current routine practice.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Clinicians see over 2000 patients per year who have rare syndromes in Manchester NHS clinics.&#xD;
+      In the majority of these individuals the cause is unknown. Many will have a genetic cause,&#xD;
+      but knowing which genes to test and being able to access these tests is difficult. When a&#xD;
+      patient comes to the clinic, details of their medical and developmental history are collected&#xD;
+      , and they are examined in detail to look at their investigation results. New tests may also&#xD;
+      be ordered for patients. In many cases, subtle differences in physical features, especially&#xD;
+      facial features may provide an important clue to the underlying diagnosis. However, because&#xD;
+      many of the conditions seen are so rare and doctors may not have seen that particular&#xD;
+      condition before, the diagnosis may not be made immediately at the appointment. In those&#xD;
+      cases, permission will be sought to take photographs so that further opinions can be sought&#xD;
+      within the department or by sharing with national and sometimes international colleagues.&#xD;
+      This is routine practice. Where consent has been obtained for photos, these are then first&#xD;
+      reviewed in a departmental case-review meeting. They may then also be presented at regional,&#xD;
+      national or even international meetings aimed at syndrome diagnosis with patient consent.&#xD;
+&#xD;
+      The study aims to recruit patients who are attending clinics for syndrome diagnosis, and who&#xD;
+      have differences in their facial features. Such patients will undergo a full routine&#xD;
+      diagnostic work-up as outlined above. Following that, if patients have consented to having&#xD;
+      photographs taken as part of standard care, they will be asked if they would consent to&#xD;
+      upload of the facial photographs to a digital face recognition system, along with upload of a&#xD;
+      list of key clinical features, to see which diagnoses are suggested by this software.&#xD;
+&#xD;
+      A group of Inherited Metabolic Disease patients with known diagnoses will be included under&#xD;
+      the Faces sub-study to establish whether the technology may help to define their phenotype.&#xD;
+      This group of patients would be asked to send photos to the research team either by email via&#xD;
+      a secure email address or by post. The study would request one facial photo of each of the&#xD;
+      biological parents (where applicable and available).&#xD;
+&#xD;
+      There will first of all be routine discussion of patients and photographs in a case review&#xD;
+      meeting as per standard practice. Differential diagnoses will be formulated and recorded&#xD;
+      based on this. Following this, the facial photo will be uploaded to a face recognition system&#xD;
+      and suggested diagnoses from this recorded. Any diagnostic suggestions considered worthy of&#xD;
+      investigation will be followed up in line with standard practice.&#xD;
+&#xD;
+      The investigators will then determine whether this was made a) in the standard way b) only&#xD;
+      suggested by the face recognition software or c) utilising the two methods together.&#xD;
+&#xD;
+      Patients will be followed up to see if a final diagnosis is confirmed. The patient/parents&#xD;
+      will also be sent a questionnaire by email or post 6 months after recruitment. The&#xD;
+      questionnaire will ask if they had any concerns about using FDNA, if they found it helpful&#xD;
+      and if so in what way. Another questionnaire to professionals will collect information on how&#xD;
+      easy they found it to use, how helpful they found it ranging 1-5, did it alter patient&#xD;
+      management, if so how, and other comments&#xD;
+&#xD;
+      . The investigators will document whether utilising the software helped to arrive at an&#xD;
+      earlier diagnosis, whether it impeded the diagnosis by providing misleading or incorrect&#xD;
+      guidance, whether parents and professionals found its use acceptable and whether it impacted&#xD;
+      on the patient's management.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 30, 2018</start_date>
+  <completion_date type="Actual">November 25, 2020</completion_date>
+  <primary_completion_date type="Actual">November 25, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of diagnoses</measure>
+    <time_frame>through study completion, an average of 2 years</time_frame>
+    <description>The number of diagnoses of rare syndrome disorders made, measured after standard practice</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of diagnoses</measure>
+    <time_frame>through study completion, an average of 2 years</time_frame>
+    <description>The number of diagnoses of rare syndrome disorders made, Measured after use of the Face2Gene app</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patient satisfaction</measure>
+    <time_frame>6 months after recruitment.</time_frame>
+    <description>Level of satisfaction of parents with use of a face recognition system and with e-health approaches to genetic counselling and diagnosis in general. Measured via a patient experiences questionnaire that requires both quantitative and qualitative responses. The proportion of patients who found use of the software acceptable will be measured. There results will not be reported on a fixed scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Professional satisfaction</measure>
+    <time_frame>24 months</time_frame>
+    <description>Level of satisfaction of professionals with use of a face recognition system. Measured via a colleagues experiences questionnaire that requires both quantitative and qualitative responses. The proportion of professionals who found using the software acceptable/helpful and would continue using the software in practice will be measured. There results will not be reported on a fixed scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of syndromes</measure>
+    <time_frame>24 months</time_frame>
+    <description>Number of syndromes identified where face recognition software has facilitated genetic investigation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">111</enrollment>
+  <condition>Multiple Anomalies</condition>
+  <condition>Dysmorphic Features</condition>
+  <condition>Inborn Errors of Metabolism</condition>
+  <arm_group>
+    <arm_group_label>Main Study</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients attending routine genetic clinic/paediatric clinic appointments for diagnosis of a multiple anomaly syndrome where distinctive facial features form part of their presenting pattern.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Faces Sub Study</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients eligible to be recruited to the Faces Sub Study will have biochemically or genetically confirmed diagnosis of inborn disorder of metabolism where no well described dysmorphic facial features are known to be associated with disorder.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Face2Gene</intervention_name>
+    <description>This study investigates whether a new diagnostic intervention (Face2Gene facial recognition software) is better than using standard approach to diagnosis.</description>
+    <arm_group_label>Faces Sub Study</arm_group_label>
+    <arm_group_label>Main Study</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Patients attending routine genetic clinic/paediatric clinic appointments for diagnosis of&#xD;
+        a multiple anomaly syndrome where distinctive facial features form part of their presenting&#xD;
+        pattern.&#xD;
+&#xD;
+        OR:&#xD;
+&#xD;
+        - Biochemically or genetically confirmed diagnosis of inborn disorder of metabolism where&#xD;
+        no well described dysmorphic facial features are known to be associated with disorder&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients under 8 months of age where face-recognition technology has not been shown to&#xD;
+             be effective.&#xD;
+&#xD;
+          -  Patients who decline clinical photography as part of standard care.&#xD;
+&#xD;
+          -  Patients who do not wish to consent to participation in the study even though they&#xD;
+             consent to photos being taken for standard care.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>8 Months</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sofia Douzgou, MD PhD FRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Manchester University NHS Foundation Trust</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Manchester University NHS Foundation Trust</name>
+      <address>
+        <city>Manchester</city>
+        <state>Greater Manchester</state>
+        <zip>M13 9WL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 14, 2021</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metabolism, Inborn Errors</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

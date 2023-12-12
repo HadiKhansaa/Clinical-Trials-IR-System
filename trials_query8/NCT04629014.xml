@@ -1,0 +1,509 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04629014</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P00032389</org_study_id>
+    <nct_id>NCT04629014</nct_id>
+  </id_info>
+  <brief_title>Prospective Multisite Study of Quality of Life in Pediatric Intestinal Failure</brief_title>
+  <official_title>Prospective Multisite Study of Quality of Life in Pediatric Intestinal Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Seattle Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Lurie Children's Hospital of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Duke University Health System</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Texas Southwestern Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Alberta Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>British Columbia Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Hospital for Sick Children</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study proposes to quantify and describe the quality of life of children with intestinal&#xD;
+      failure, and to identify the medical and socio-economic factors that impact this quality of&#xD;
+      life, using data from multiple multidisciplinary intestinal failure centers across the United&#xD;
+      States and Canada specializing in the care of these participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Health related quality of life is becoming an increasingly important topic as medical&#xD;
+      advancements continue to increase life expectancies in various illnesses. Quality of life&#xD;
+      (QoL) encompasses the physical, psychological, and social well-being of a person. Studies&#xD;
+      focusing on health related QoL show that providers have a limited understanding of the QoL of&#xD;
+      their patients, demonstrating a need for further research. Mortality rates in pediatric&#xD;
+      intestinal failure (PIF) have significantly dropped over the past 3-4 decades and long-term&#xD;
+      morbidity rather than survival has come into focus as the outcome of interest. However, there&#xD;
+      remains a significant knowledge gap regarding the specific factors that contribute to QoL&#xD;
+      among PIF patients and their families. Insight into the challenges these patients face can&#xD;
+      promote enhanced support services and psycho-education for caregivers of these children as&#xD;
+      well as help to tailor medical and surgical treatment with a focus on improved QoL. Due to&#xD;
+      the rare nature of PIF, and despite a recent bloom in multidisciplinary PIF centers,&#xD;
+      experience is limited in individual centers and a multi-site study with a robust and diverse&#xD;
+      patient population is optimal to study QoL in pediatric intestinal failure.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 27, 2020</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Health-related quality of life (hrQOL)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>hrQOL as determined by PedsQL Generic Core at time of enrollment and corrected for time from onset of disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Health-related quality of life (hrQOL) Change over time</measure>
+    <time_frame>Trend over 5 years</time_frame>
+    <description>hrQOL as determined by PedsQL Generic Core, assessed annually, looking at trend in change over 5 years of assessment and corrected for time from onset of disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disease-specific Health-related quality of life (hrQOL)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Disease-specific hrQOL as determined by PedsQL GI Symptoms Scale at time of enrollment and corrected for time from onset of disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disease-specific Health-related quality of life (hrQOL)</measure>
+    <time_frame>Trend over 5 years</time_frame>
+    <description>Disease-specific hrQOL as determined by PedsQL GI Symptoms Scale, assessed annually, looking at trend in change over 5 years of assessment and corrected for time from onset of disease</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Family Impact</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Family impact as determined by the PedsQL Family Impact Module</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Family Impact</measure>
+    <time_frame>Trend over 5 years</time_frame>
+    <description>Family impact as assessed by the PedsQL Family Impact Module, assessed annually, looking at trend in change over 5 years of assessment and corrected for time from onset of disease</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Pediatric Intestinal Failure</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be children with a specific diagnosis of intestinal failure as determined&#xD;
+        by parenteral nutrition dependence at any point in their history for more than 60 out of 74&#xD;
+        consecutive days who are managed at one of the intestinal rehabilitation programs located&#xD;
+        at the study participating sites.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants will be followed in a participating institution's intestinal&#xD;
+             rehabilitation program&#xD;
+&#xD;
+          -  Participants will have a diagnosis of intestinal failure due to functional or&#xD;
+             structural intestinal dysfunction with current or prior history of specialized&#xD;
+             nutritional support (parenteral nutrition requirement for 60 out of 74 consecutive&#xD;
+             days)&#xD;
+&#xD;
+          -  Participants will be age 6 months to 25 years old.&#xD;
+&#xD;
+          -  Parents/caregivers must be able to complete questionnaire without assistance.&#xD;
+&#xD;
+          -  English or Spanish speaking&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants aged less than 6 months or greater than 25 years will not be included in&#xD;
+             this study&#xD;
+&#xD;
+          -  Participants will not be enrolled less than 3 months from index admission or initial&#xD;
+             outpatient evaluation&#xD;
+&#xD;
+          -  Participants will not be enrolled less than 1 month from inpatient admission (any&#xD;
+             admission greater than 24 hours in duration)&#xD;
+&#xD;
+          -  Participants will not be enrolled less than 1 month from any operative intervention&#xD;
+             requiring general anesthesia.&#xD;
+&#xD;
+          -  Primary language other than English or Spanish.&#xD;
+&#xD;
+          -  Participants who have a currently functional small bowel, liver/small bowel or&#xD;
+             multivisceral transplant&#xD;
+&#xD;
+          -  While other major co-morbidities may be excluded at a later time during data analysis,&#xD;
+             or may be analyzed as a specific sub-group, they will not be excluded outright. For&#xD;
+             example, participants with global developmental delay may have parent surveys only,&#xD;
+             and therefore would need to be excluded from paired analysis of proxy vs. participant&#xD;
+             perception of HRQOL&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>25 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patrick J Javid, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Seattle Children's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Biren P Modi, MD MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston Children's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Biren P Modi, MD MPH</last_name>
+    <phone>857-218-4651</phone>
+    <email>biren.modi@childrens.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Children's of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David Galloway, MD</last_name>
+      <email>dgalloway@peds.uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David Galloway, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Mattel Children's Hospital</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Venick, MD</last_name>
+      <email>rvenick@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Venick, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lurie Children's Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Valeria Cohran, MD</last_name>
+      <email>vcohran@luriechildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Valeria Cohran, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Biren P Modi, MD MPH</last_name>
+      <phone>857-218-4651</phone>
+      <email>biren.modi@childrens.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Biren P Modi, MD MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>C.S. Mott Children's Hospital</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Meghan Arnold, MD</last_name>
+      <email>meghanar@med.umich.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Meghan Arnold, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis Children's Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63100</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brad Warner, MD</last_name>
+      <email>brad.warner@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Brad Warner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Children's Hospital</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Debra Sudan, MD</last_name>
+      <email>debra.sudan@duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Debra Sudan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dallas Children's Hospital</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nandini Channabasappa, MD</last_name>
+      <email>nandini.channabasappa@utsouthwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Nandini Channabasappa, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Children's Hospital</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrick J Javid, MD</last_name>
+      <email>patrick.javid@seattlechildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Patrick J Javid, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alberta Children's Hospital</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T3B 6A8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dana Boctor, MD</last_name>
+      <email>dana.boctor@albertahealthservices.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Dana Boctor, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>BC Children's Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6H 3N1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hannah Piper, MD</last_name>
+      <email>hannah.piper@cw.bc.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Hannah Piper, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul Wales, MD</last_name>
+      <email>paul.wales@sickkids.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Paul Wales, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Diamond IR, de Silva N, Pencharz PB, Kim JH, Wales PW; Group for the Improvement of Intestinal Function and Treatment. Neonatal short bowel syndrome outcomes after the establishment of the first Canadian multidisciplinary intestinal rehabilitation program: preliminary experience. J Pediatr Surg. 2007 May;42(5):806-11.</citation>
+    <PMID>17502188</PMID>
+  </reference>
+  <reference>
+    <citation>Javid PJ, Malone FR, Reyes J, Healey PJ, Horslen SP. The experience of a regional pediatric intestinal failure program: Successful outcomes from intestinal rehabilitation. Am J Surg. 2010 May;199(5):676-9. doi: 10.1016/j.amjsurg.2010.01.013.</citation>
+    <PMID>20466115</PMID>
+  </reference>
+  <reference>
+    <citation>Modi BP, Langer M, Ching YA, Valim C, Waterford SD, Iglesias J, Duro D, Lo C, Jaksic T, Duggan C. Improved survival in a multidisciplinary short bowel syndrome program. J Pediatr Surg. 2008 Jan;43(1):20-4. doi: 10.1016/j.jpedsurg.2007.09.014.</citation>
+    <PMID>18206449</PMID>
+  </reference>
+  <reference>
+    <citation>Mutanen A, Kosola S, Merras-Salmio L, Kolho KL, Pakarinen MP. Long-term health-related quality of life of patients with pediatric onset intestinal failure. J Pediatr Surg. 2015 Nov;50(11):1854-8. doi: 10.1016/j.jpedsurg.2015.05.012. Epub 2015 Jun 3.</citation>
+    <PMID>26078213</PMID>
+  </reference>
+  <reference>
+    <citation>Norsa L, Artru S, Lambe C, Talbotec C, Pigneur B, Ruemmele F, Colomb V, Capito C, Chardot C, Lacaille F, Goulet O. Long term outcomes of intestinal rehabilitation in children with neonatal very short bowel syndrome: Parenteral nutrition or intestinal transplantation. Clin Nutr. 2019 Apr;38(2):926-933. doi: 10.1016/j.clnu.2018.02.004. Epub 2018 Feb 15.</citation>
+    <PMID>29478887</PMID>
+  </reference>
+  <reference>
+    <citation>Sanchez SE, McAteer JP, Goldin AB, Horslen S, Huebner CE, Javid PJ. Health-related quality of life in children with intestinal failure. J Pediatr Gastroenterol Nutr. 2013 Sep;57(3):330-4. doi: 10.1097/MPG.0b013e3182999961.</citation>
+    <PMID>23648789</PMID>
+  </reference>
+  <reference>
+    <citation>Varni JW, Limbers CA, Burwinkle TM. Impaired health-related quality of life in children and adolescents with chronic conditions: a comparative analysis of 10 disease clusters and 33 disease categories/severities utilizing the PedsQL 4.0 Generic Core Scales. Health Qual Life Outcomes. 2007 Jul 16;5:43.</citation>
+    <PMID>17634123</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2020</study_first_posted>
+  <last_update_submitted>November 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Boston Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Biren Modi</investigator_full_name>
+    <investigator_title>Associate Surgical Director, Center for Advanced Intestinal Rehabilitation</investigator_title>
+  </responsible_party>
+  <keyword>intestinal failure</keyword>
+  <keyword>short bowel syndrome</keyword>
+  <keyword>short gut syndrome</keyword>
+  <keyword>parenteral nutrition</keyword>
+  <keyword>specialized nutrition</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

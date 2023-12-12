@@ -1,0 +1,259 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04554953</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BR-FMS-OS-406</org_study_id>
+    <nct_id>NCT04554953</nct_id>
+  </id_info>
+  <brief_title>A Combination Drug Including Fimasartan and Statins in Patients With Hypertension and Dyslipidemia</brief_title>
+  <acronym>FIMASTAR</acronym>
+  <official_title>A Multi-center, Prospective Observational Study to Evaluate the Effectiveness of a Combination Drug Including Fimasartan and Statins in Patients With Hypertension and Dyslipidemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boryung Pharmaceutical Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boryung Pharmaceutical Co., Ltd</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the effectiveness of a combination drug&#xD;
+      containing fimasartan and statins on the control of hypertension and dyslipidemia, and the&#xD;
+      secondary objective is to evaluate the drug cost reduction effect, patients' satisfaction&#xD;
+      level and safety of the combination drug administration.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is designed as a non-interventional, multicenter, prospective observational study&#xD;
+      for patients with hypertension and dyslipidemia. If a patient voluntarily provides written&#xD;
+      consent to provide information for this study, the enrollment number will be assigned to&#xD;
+      subjects who meet the inclusion/exclusion criteria, and follow-up will be conducted for&#xD;
+      approximately 12 weeks. Pre-specified study-related data will be collected in the case report&#xD;
+      form during the observation period.&#xD;
+&#xD;
+      This is an observational study, and the number or interval of subjects' visits to the&#xD;
+      hospital is determined by the investigators' clinical judgment under actual medical&#xD;
+      circumstances in principle. Whether to participate in this study will not affect the&#xD;
+      patients' treatment (physician's prescription or diagnostic, therapeutic decisions).&#xD;
+&#xD;
+      The follow-up time points specified below indicate the time points of data collection. That&#xD;
+      is, the schedule of subjects' visits is freely determined by the investigators based on the&#xD;
+      medical condition of the subjects regardless of the follow-up time points specified in this&#xD;
+      protocol, but data that are generated during the study period and are deemed necessary in&#xD;
+      relation to the study may be collected in the case report form.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 13, 2020</start_date>
+  <completion_date type="Anticipated">May 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Blood pressure controlled to the target level</measure>
+    <time_frame>Week12</time_frame>
+    <description>Proportion of patients with blood pressure controlled to the target level (SiSBP, SiDBP) according to '2018 Guidelines for Management of Hypertension2' at Week 12. Site staff will be measuring Systolic and Diastolic Blood Pressure.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>LDL-C controlled to the target level</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Proportion of patients with LDL-C controlled to the target level according to 'Guidelines for Management of Dyslipidemia 4th Edition1' at Week 12</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Medication Satisfaction Questionnaire</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Score (or change in the scores) of Medication Satisfaction Questionnaire (MSQ) assessed by patients at Week 12/ The scale title is MSQ(Medication satisfaction Questionnaire). The minimum score is '1' and maximum score is '7'. Higher score means a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Average cost-effectiveness ratio (ACER)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Average cost-effectiveness ratio (ACER) of the study drug at Week 12</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>both blood pressure and LDL-C controlled</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Proportion of patients with both blood pressure and LDL-C controlled to the target level simultaneously at Week 12</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>non-HDL-C controlled</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Proportion of patients with non-HDL-C controlled to the target level at Week 12</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood pressure</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Change in blood pressure at Week 12 from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Lipid panel</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Lipid panel at Week 12 from baseline&#xD;
+Percent change in TC&#xD;
+Percent change in HDL-C&#xD;
+Percent change in TG&#xD;
+Percent change in LDL-C&#xD;
+Percent change in non-HDL-C</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">10990</enrollment>
+  <condition>Hypertension and Dyslipidemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Combination drug containing fimasartan and statins</intervention_name>
+    <description>Patients who correspond to one of the following:&#xD;
+Patients who are planning to be treated with a combination drug containing fimasartan and statins after being newly diagnosed with essential hypertension and primary hypercholesterolemia&#xD;
+Patients who are planning to switch to a combination drug of fimasartan and statins, among those who have been diagnosed with essential hypertension or primary hypercholesterolemia and are receiving hypertension treatment that is containing an ARB or dyslipidemia treatment that is containing a statin&#xD;
+Patients who are planning to switch to a combination drug of fimasartan and statins, among those who have been diagnosed with essential hypertension and primary hypercholesterolemia and are receiving hypertension treatment that is containing an ARB and dyslipidemia treatment that is containing a statin</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        10,990 subjects This study involves patients with hypertension and dyslipidemia, and its&#xD;
+        purpose is to investigate the control rate of hypertension and dyslipidemia, drug cost&#xD;
+        reduction effect, patients' satisfaction level, and rare adverse events of combination&#xD;
+        drugs containing fimasartan and statins.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Participation in this study is possible only if all of the inclusion criteria below are&#xD;
+        satisfied.&#xD;
+&#xD;
+          1. Patients who provide written consent on the consent form for use of personal&#xD;
+             information after listening to explanations regarding the purpose, method, etc. of&#xD;
+             this study&#xD;
+&#xD;
+          2. Adult males and females aged 19 years or above&#xD;
+&#xD;
+          3. Patients who correspond to one of the following:&#xD;
+&#xD;
+          1. Patients who are planning to be treated with a combination drug containing fimasartan&#xD;
+             and statins after being newly diagnosed with essential hypertension and primary&#xD;
+             hypercholesterolemia&#xD;
+&#xD;
+          2. Patients who are planning to switch to a combination drug of fimasartan and statins,&#xD;
+             among those who have been diagnosed with essential hypertension or primary&#xD;
+             hypercholesterolemia and are receiving hypertension treatment that is containing an&#xD;
+             ARB or dyslipidemia treatment that is containing a statin&#xD;
+&#xD;
+          3. Patients who are planning to switch to a combination drug of fimasartan and statins,&#xD;
+             among those who have been diagnosed with essential hypertension and primary&#xD;
+             hypercholesterolemia and are receiving hypertension treatment that is containing an&#xD;
+             ARB and dyslipidemia treatment that is containing a statin 4. The following test&#xD;
+             results available within 4 weeks prior to the enrollment date&#xD;
+&#xD;
+               -  Total Cholesterol (TC)&#xD;
+&#xD;
+                    -  HDL-C ③ Triglyceride (TG) ④ LDL-C or LDL-C (Friedewald formula*)&#xD;
+&#xD;
+                         -  non-HDL-C (Total cholesterol - HDL-C (mg/dL)) *LDL-C = Total&#xD;
+                            cholesterol - HDL-C - (triglyceride/5) (mg/dL)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients cannot participate in this study if any of the following exclusion criteria is&#xD;
+        applicable.&#xD;
+&#xD;
+          1. Contraindication according to the drug labeling of the combination drug ingredients&#xD;
+             (fimasartan, amlodipine) for hypertension containing fimasartan&#xD;
+&#xD;
+          2. Contraindication according to the drug labeling of statins (rosuvastatin,&#xD;
+             atorvastatin)&#xD;
+&#xD;
+          3. Secondary hypertension or suspected secondary hypertension - Aortic coarctation,&#xD;
+             hyperaldosteronemia, renal artery stenosis, renal hypertension, pheochromocytoma,&#xD;
+             Cushing's syndrome, polycystic kidney disease, etc.&#xD;
+&#xD;
+          4. Secondary dyslipidemia or suspected secondary dyslipidemia&#xD;
+&#xD;
+             - Nephrotic syndrome, dysproteinemia, obstructive liver disease, Cushing's syndrome,&#xD;
+             etc.&#xD;
+&#xD;
+          5. Patients currently hospitalized or scheduled to be hospitalized&#xD;
+&#xD;
+          6. If an investigational drug has been administered within 12 weeks of the enrollment&#xD;
+             date, or if participation in another clinical study during this study participation&#xD;
+             period is planned&#xD;
+&#xD;
+          7. Patients who are deemed ineligible for study participation at the discretion of the&#xD;
+             investigators for other reasons&#xD;
+&#xD;
+             -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>HyoJea Kim</last_name>
+    <role>Study Director</role>
+    <affiliation>Boryung Pharmaceutical Co., Ltd</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>HyoJea Kim</last_name>
+    <phone>02-708-8203</phone>
+    <phone_ext>010-2552-2711</phone_ext>
+    <email>igniter@boryung.co.kr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chonnam National University Hospital</name>
+      <address>
+        <city>Gwangju</city>
+        <state>Jebong-ro, Jangseong-eup, Jangseong-gun</state>
+        <zip>42</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>MyungHo Jung</last_name>
+      <phone>82-10-2665-6243</phone>
+      <phone_ext>82-62-220-6243</phone_ext>
+      <email>mhjeong@chonnam.ac.kr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 18, 2020</study_first_posted>
+  <last_update_submitted>December 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Fimasartan and Statins</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Dyslipidemias</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,306 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04224948</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-5429</org_study_id>
+    <nct_id>NCT04224948</nct_id>
+  </id_info>
+  <brief_title>The PET- Retroperitoneal Sarcoma Study</brief_title>
+  <acronym>PET-RPS</acronym>
+  <official_title>The PET-RPS Study: Utility of PET for Assessment of Response to Preoperative Chemotherapy in Primary Retroperitoneal Sarcoma (RPS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Retroperitoneal sarcoma(RPS) is a rare cancer that is difficult to cure as it typically&#xD;
+      presents as a very large abdominal mass, and complete removal with clear margins is&#xD;
+      challenging . This study will focus on improving the outcomes of surgery by treating RPS&#xD;
+      before surgery, to make resection more effective. The role of chemotherapy as a preoperative&#xD;
+      treatment for RPS is highly controversial. Response to chemotherapy is unpredictable and if&#xD;
+      the patient's tumour progresses instead of responding, the window of opportunity for&#xD;
+      resection will be lost. Conventional cross sectional imaging (CT scan) is inadequate to&#xD;
+      measure response to chemotherapy until 5-6 cycles have been given, possibly with no&#xD;
+      improvement. Thus it is critical to develop an earlier and reliable way to assess response.&#xD;
+      Functional imaging by PET scan is used in other tumour types to identify early response to&#xD;
+      treatment. PET imaging may provide a more meaningful assessment of RPS response to systemic&#xD;
+      therapy much earlier in the course of treatment than conventional imaging, allowing timely&#xD;
+      modification of the treatment plan. This study will define the role of PET imaging in&#xD;
+      evaluating early response to systemic therapy in high grade RPS, improving patient treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Soft tissue sarcomas (STS) are derived from mesenchymal cells, and can arise at any site.&#xD;
+      Retroperitoneal sarcomas (RPS) account for ~15% of STS, and patients have much worse survival&#xD;
+      outcomes than for extremity STS. Local (abdominal) recurrence of RPS is very common, due to&#xD;
+      the challenges of obtaining complete resection of these large masses that abut critical&#xD;
+      central compartment structures, such as the inferior vena cava and aorta. There is currently&#xD;
+      intense interest in using preoperative therapy to downsize/cytoreduce RPS and hopefully&#xD;
+      improve oncologic outcomes. Studies have shown that preoperative radiation does not&#xD;
+      cytoreduce these tumours. In this study, the potential of systemic therapy for cytoreduction&#xD;
+      will be examined.&#xD;
+&#xD;
+      The standard systemic therapy regimen for treatment of patients with STS remains&#xD;
+      Adriamycin/Ifosphamide, although side effects can be tolerated only by relatively young and&#xD;
+      fit patients. The use of this regimen preoperatively for extremity STS results in average&#xD;
+      response rates of about 30-40%, as judged by histologic assessment of the resected specimen.&#xD;
+      The international experience with preoperative chemotherapy for RPS is very limited, and&#xD;
+      there are no published reports.&#xD;
+&#xD;
+      Functional imaging may provide a more meaningful assessment of tumour response to systemic&#xD;
+      therapy. PET-MR is a newer modality that may hold promise in assessing solid tumour response&#xD;
+      and its potential utility is currently of rapidly growing interest. Conventional MRI can&#xD;
+      offer a more detailed assessment of tumour relationships to adjacent structures than can CT,&#xD;
+      particularly in STS. Integration of PET with MR has the potential to provide information&#xD;
+      about metabolic tumour volume (MTV) and to help guide surgical planning.There are no data&#xD;
+      available on the utility of PET-MR in evaluating tumour response to chemotherapy in STS.&#xD;
+&#xD;
+      At present, the role of chemotherapy as a preoperative treatment for retroperitoneal sarcoma&#xD;
+      (RPS) is undefined and controversial. The sarcoma group at Princess Margaret Cancer Centre&#xD;
+      (PMCC) has had some experience with this treatment paradigm, but like most sarcoma groups in&#xD;
+      Ontario, and Canada, has reserved preoperative chemotherapy for frankly unresectable and&#xD;
+      borderline resectable tumours for which downsizing would potentially render resection more&#xD;
+      feasible. At present, CT-scan imaging is performed after 2 cycles of chemotherapy, and if&#xD;
+      there is no frank progression of the cancer, chemotherapy is continued for another 3-4&#xD;
+      cycles. By that point the tumour is smaller on CT scan in about 30% of patients. There are 2&#xD;
+      main problems with this approach: 1)70% of the patients may have undergone 5-6 cycles of&#xD;
+      chemotherapy with no apparent benefit; and 2) there may be a metabolic response and&#xD;
+      associated benefit without a change in tumour size. The ability to reliably assess tumour&#xD;
+      response earlier on (i.e. after 1 cycle) would significantly influence the care of these&#xD;
+      patients as ineffective chemotherapy could be terminated after 1 cycle and the regimen could&#xD;
+      be modified, or surgery could happen right away before the window of resectability is lost.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 9, 2019</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 9, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation of PET imaging with histologic response following preoperative chemotherapy.</measure>
+    <time_frame>3 years</time_frame>
+    <description>Pathology of RPS specimens, resected following standard ifosfamide/doxorubicin chemotherapy every 3 weeks for 5-6 cycles, will be compared with PET response (FDG uptake) after cycle 1 of chemotherapy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of CT imaging with histologic response, and comparing prognostic accuracy of PET-MR vs.CT imaging for histologic response, recurrence status, and survival.</measure>
+    <time_frame>3 years</time_frame>
+    <description>Pathology of resected RPS specimens, resected following standard ifosfamide/doxorubicin chemotherapy every 3 weeks for 5-6 cycles, will be compared with CT response after 2 and 5/6 cycles of preoperative chemotherapy. PET imaging and CT imaging will be compared as prognosticators of histological response, recurrence and survival.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Retroperitoneal Sarcoma</condition>
+  <arm_group>
+    <arm_group_label>PET-MR arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Every eligible patient will be scanned by PET-MR at baseline and following 1 cycle of chemotherapy. PET-CT at baseline will also be obtained as it is the current standard of care and will be used to determine trial eligibility (no evidence metastasis at baseline).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>PET MRI scan</intervention_name>
+    <description>Standard of care includes a baseline PET-CT and conventional CT after 2 cycles of neoadjuvant chemotherapy, and after 5-6 cycles, of neoadjuvant chemotherapy, as per current practice/ standard of care.&#xD;
+Patients that enroll in the trial will receive two additional PET MRI scans- one at baseline and one after 1 cycle of chemotherapy</description>
+    <arm_group_label>PET-MR arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Tumour-related criteria&#xD;
+&#xD;
+          -  Primary soft tissue sarcoma of retroperitoneal space or infra-peritoneal spaces of&#xD;
+             pelvis&#xD;
+&#xD;
+          -  Sarcoma not originated from bone structure, abdominal or gynecological viscera&#xD;
+&#xD;
+          -  Unifocal tumour (not multifocal disease)&#xD;
+&#xD;
+          -  Absence of extension through the sciatic notch or across the diaphragm&#xD;
+&#xD;
+          -  Histologically-proven RPS (local pathologist/ imaging-guided or surgical biopsy), only&#xD;
+             including the following histological sub-types:&#xD;
+&#xD;
+          -  High grade Leiomyosarcoma&#xD;
+&#xD;
+          -  High grade Dedifferentiated Liposarcoma&#xD;
+&#xD;
+          -  Tumour not previously treated (no previous surgery -excluding diagnosis biopsy-,&#xD;
+             radiotherapy or systemic therapy)&#xD;
+&#xD;
+          -  Tumour both operable and suitable for chemotherapy (This will be based on pretreatment&#xD;
+             CT scan/MRI and multidisciplinary consultation with surgeon medical oncologist and&#xD;
+             radiologist (anticipated macroscopically complete resection, R0/R1resection)&#xD;
+&#xD;
+          -  Patients for whom surgery is expected to be R2 on the CT-scan before randomization are&#xD;
+             not eligible&#xD;
+&#xD;
+          -  Patients must have American Society of Anesthesiologist (ASA) score ≤ 2 (see Appendix&#xD;
+             G)&#xD;
+&#xD;
+          -  The criteria for non-resectability are:&#xD;
+&#xD;
+          -  (i) involvement of superior mesenteric artery&#xD;
+&#xD;
+          -  (ii) involvement of aorta&#xD;
+&#xD;
+          -  (iii) involvement of bone&#xD;
+&#xD;
+          -  distant metastatic disease&#xD;
+&#xD;
+          -  Patient must have radiologically measurable disease (RECIST 1.1)&#xD;
+&#xD;
+        Patient-related criteria&#xD;
+&#xD;
+          -  ≥ 18 years' old&#xD;
+&#xD;
+          -  WHO performance status ≤ 2 (see Appendix C)&#xD;
+&#xD;
+          -  Absence of history of bowel obstruction or mesenteric ischemia or severe chronic&#xD;
+             inflammatory bowel disease&#xD;
+&#xD;
+          -  Normal renal function:&#xD;
+&#xD;
+          -  Calculated creatinine clearance within normal value Functional contra-lateral kidney&#xD;
+             to the side involved by the RPS as assessed by intravenous pyelogram (done during the&#xD;
+             baseline CT-scan) or differential renal isotope scan&#xD;
+&#xD;
+          -  Normal bone marrow and hepatic function:&#xD;
+&#xD;
+          -  White Blood cells ≥ 2.5 x10 9 cells/L&#xD;
+&#xD;
+          -  Platelets ≥ 80 x10 9 cells/L&#xD;
+&#xD;
+          -  Total bilirubin &lt; 1.5 time the institutional upper limit normal of value (ULN)&#xD;
+&#xD;
+          -  Adequate cardiac function: less or equal to NYHA II&#xD;
+&#xD;
+          -  Normal 12 lead ECG (without clinically significant abnormalities)&#xD;
+&#xD;
+          -  No co-existing malignancy within the last 5 years except for adequately treated basal&#xD;
+             cell carcinoma of the skin or carcinoma in situ of the cervix&#xD;
+&#xD;
+          -  No prior abdominal or pelvic irradiation for other prior malignancy or other disease&#xD;
+&#xD;
+          -  Absence of any psychological, familial, sociological or geographical condition&#xD;
+             potentially hampering compliance with the study protocol and follow-up schedule&#xD;
+&#xD;
+          -  Excluding patients who presented after incomplete resection and underwent immediate&#xD;
+             completion surgery.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age&lt; 18 years&#xD;
+&#xD;
+          -  Recurrent tumour&#xD;
+&#xD;
+          -  Benign retroperitoneal tumours&#xD;
+&#xD;
+          -  Presence of second active cancer&#xD;
+&#xD;
+          -  Serious psychiatric disease that precludes informed consent or limits compliance&#xD;
+&#xD;
+          -  impossible to ensure adequate follow up&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carol Swallow, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sinai Health System</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Wendy Johnston, PhD</last_name>
+    <phone>4165864800</phone>
+    <phone_ext>5476</phone_ext>
+    <email>Wendy.Johnston@sinaihealth.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Harini Suraweera, MSc</last_name>
+    <phone>4165864800</phone>
+    <phone_ext>7935</phone_ext>
+    <email>Harini.Suraweera@sinaihealth.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Health Network and The Sinai Health System</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wendy Johnston, PhD</last_name>
+      <phone>(416) 596-4200</phone>
+      <phone_ext>5476</phone_ext>
+      <email>wendy.johnston@sinaihealth.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Harini Suraweera, MSc</last_name>
+      <phone>(416) 596-4200</phone>
+      <phone_ext>7935</phone_ext>
+      <email>harini.suraweera@sinaihealth.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Carol Swallow, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>July 4, 2019</study_first_submitted>
+  <study_first_submitted_qc>January 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 13, 2020</study_first_posted>
+  <last_update_submitted>April 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Retroperitoneal Sarcoma</keyword>
+  <keyword>Retroperitoneal</keyword>
+  <keyword>Sarcoma</keyword>
+  <keyword>Neoadjuvant Chemotherapy</keyword>
+  <keyword>preoperative Chemotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sarcoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

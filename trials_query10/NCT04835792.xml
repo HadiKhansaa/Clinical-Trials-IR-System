@@ -1,0 +1,160 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04835792</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FP-LD-001</org_study_id>
+    <nct_id>NCT04835792</nct_id>
+  </id_info>
+  <brief_title>Biomarker Study of Previously Treated Lyme Disease Volunteers in Comparison to Healthy Volunteers</brief_title>
+  <official_title>Biomarker Study to Evaluate Participants With Previously Treated Lyme Disease in Comparison to Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>FlightPath Biosciences, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>FlightPath Biosciences, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Non-interventional study evaluating stool and blood samples collected from individuals&#xD;
+      previously treated with Lyme disease versus healthy volunteers&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 21, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>• To evaluate and compare the microbiome of normal participants and participants with previously treated Lyme Disease</measure>
+    <time_frame>30 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>• To evaluate and compare the transcriptome of normal participants and participants with previously treated Lyme Disease</measure>
+    <time_frame>30 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>• To evaluate and compare the metabolome of normal participants and participants with previously treated Lyme Disease</measure>
+    <time_frame>30 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>• Evaluation of symptoms and prior medications/treatments of normal participants and participants with previously treated Lyme Disease</measure>
+    <time_frame>30 days</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Lyme Disease</condition>
+  <arm_group>
+    <arm_group_label>Previously Treated for Lyme Disease</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Stool and blood collection</intervention_name>
+    <description>One-time stool and blood collection</description>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Previously Treated for Lyme Disease</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Previously treated Lyme disease volunteers and healthy volunteers&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Males and females ≥18 years of age.&#xD;
+&#xD;
+          2. Able to read, understand, and provide signed informed consent.&#xD;
+&#xD;
+          3. Willing to provide blood and stool samples.&#xD;
+&#xD;
+          4. Able to communicate adequately and to comply with the requirements for the entire&#xD;
+             study.&#xD;
+&#xD;
+          5. Must be willing to discontinue antibiotics 2 weeks prior to sample collection.&#xD;
+&#xD;
+          6. If participating in the previously treated Lyme Disease arm, the participants must&#xD;
+             meet the following criteria: 1) Diagnosis of prior Lyme Disease supported by either an&#xD;
+             erythema migrans rash (either classic &quot;bull's eye&quot; or irregular) OR a CDC-positive&#xD;
+             Western blot, 2) previously treated with antibiotics for Lyme Disease, 3) remains ill&#xD;
+             six months or more after receiving preliminary treatment with antibiotics for Lyme&#xD;
+             disease (e.g., fatigue, musculoskeletal pain, or neurocognitive symptoms).&#xD;
+&#xD;
+          7. If participating in the healthy volunteer arm, the participants must meet the&#xD;
+             following criteria: 1) must not have had a Lyme Disease diagnosis, 2) in generally&#xD;
+             good health&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. Unwilling or unable to comply with the protocol (e.g., scheduled visits, laboratory&#xD;
+        tests, other study procedures, and study restrictions).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Matt Tindall</last_name>
+    <phone>415-530-1828</phone>
+    <email>matt@flightpath.bio</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Dr. Curtis Scribner</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <zip>94710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matt Tindall</last_name>
+      <phone>415-530-1828</phone>
+      <email>matt@flightpath.bio</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lyme Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,292 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04659525</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Evolocumab02</org_study_id>
+    <nct_id>NCT04659525</nct_id>
+  </id_info>
+  <brief_title>Evolocumab Plus Ezetimibe in Haemodialized Statin-intolerant Patients With Hypercholesterolemia</brief_title>
+  <official_title>Phase IV Study for Efficacy and Safety of Evolocumab Added to Ezetimibe (Standard of Care) in High Cardiovascular Risk Haemodialized Statin Intolerant Patients With Hypercholesterolemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Policlinico Casilino ASL RMB</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>IRCCS San Raffaele</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Policlinico Casilino ASL RMB</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evolocumab is a monoclonal antibody that inhibits proprotein convertase subtilisin-kexin type&#xD;
+      9 (PCSK9) and lowers low-density lipoprotein (LDL) cholesterol, reducing in turn the risk of&#xD;
+      cardiovascular events. Whether evolcumab is effective in haemodialized patients is uncertain.&#xD;
+      The investigators will conduct a randomized, double-blind, placebo-controlled trial to assess&#xD;
+      the feasibility, safety, and LDL-C-lowering efficacy of evolocumab in high cardiovascular&#xD;
+      risk haemodialized statin intolerant patients with hypercholesterolemia. Patients will be&#xD;
+      randomly assigned to receive evolocumab (140 mg subcutaneous every 2 weeks + ezetimibe 10 mg&#xD;
+      per os daily) or matching placebo (subcutaneous every 2 weeks + ezetimibe 10 mg per os daily)&#xD;
+      for 24 weeks. The primary efficacy end point will be the proportion of patients that will&#xD;
+      reduce LDL-C &lt; 55 mg/dL in the evolocumab group compared to placebo at 24 weeks. The key&#xD;
+      secondary efficacy end points will be: the reduction of LDL-C from baseline at 4, 6 and 12&#xD;
+      weeks; the reduction of HDL-C, non-HDL cholesterol and triglycerides from baseline at 24&#xD;
+      weeks. Every adverse event (serious and non-serious) correlated to drug infusion will be&#xD;
+      recorded (safety end-point).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>LDL cholesterol change dichotomic</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>proportion of patients that achieve an LDL cholesterol level &lt; 55 mg/dL</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>LDL cholesterol change time-points</measure>
+    <time_frame>4 weeks, 12 weeks, 24 weeks</time_frame>
+    <description>change in LDL cholesterol levels from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HDL cholesterol change</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>change in HDL cholesterol levels from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>non-HDL cholesterol change</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>change in non-HDL cholesterol levels from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Triglycerides change</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>change in triglycerides levels from baseline</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Hypercholesterolemia</condition>
+  <condition>CKD Stage 5</condition>
+  <condition>Chronic Kidney Disease Requiring Chronic Dialysis</condition>
+  <arm_group>
+    <arm_group_label>Evolocumab + Ezetimibe</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this arm will receive subcutaneous evolocumab 140 mg every two weeks plus ezetimibe 10 mg per os daily for 24 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + Ezetimibe</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients in this arm will receive subcutaneous placebo every two weeks plus ezetimibe 10 mg per os daily for 24 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Evolocumab</intervention_name>
+    <description>In the intervention arm evolocumab 140 mg subcutaneous every 2 weeks will be administered for 24 weeks to high cardiovascular risk haemodialized statin intolerant patients with hypercholesterolemia</description>
+    <arm_group_label>Evolocumab + Ezetimibe</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ezetimibe</intervention_name>
+    <description>Ezetimibe 10 mg daily will be administered for 24 weeks to high cardiovascular risk haemodialized statin intolerant patients with hypercholesterolemia in both the placebo arm (plus placebo) and in the intervention arm (plus evolocumab)</description>
+    <arm_group_label>Evolocumab + Ezetimibe</arm_group_label>
+    <arm_group_label>Placebo + Ezetimibe</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>In the placebo arm placebo subcutaneous every 2 weeks will be administered for 24 weeks to high cardiovascular risk haemodialized statin intolerant patients with hypercholesterolemia</description>
+    <arm_group_label>Placebo + Ezetimibe</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  high cardiovascular risk defined as patients with: Documented cardiovascular disease&#xD;
+             (CVD), clinical or unequivocal on imaging. Documented clinical CVD includes previous&#xD;
+             acute myocardial infarction, coronary revascularization and other arterial&#xD;
+             revascularization procedures, stroke and TIA, aortic aneurysm and PAD. Unequivocally&#xD;
+             documented CVD on imaging includes plaque on coronary angiography or carotid&#xD;
+             ultrasound; DM with target organ damage or with a major risk factor such as smoking or&#xD;
+             marked hypercholesterolaemia or marked hypertension.&#xD;
+&#xD;
+          -  History of statin intolerance, demonstrated by: trial of ≥2 statins with intolerance&#xD;
+             of any dose or to increase statin dose above the total maximum doses because of&#xD;
+             intolerable: Myopathy or myalgia (muscle pain, ache, or weakness without CK&#xD;
+             elevation), or Myositis (muscle symptoms with increased CK levels), or Rhabdomyolysis&#xD;
+             (muscle symptoms with marked CK elevation) and Resolution or improvement of symptoms&#xD;
+             when the statin dose was decreased or discontinued&#xD;
+&#xD;
+          -  patients with LDL-C &gt;55 mg/dL&#xD;
+&#xD;
+          -  end-stage renal disease on chronic hemodialysis&#xD;
+&#xD;
+          -  Participant is willing and able to give informed consent for participation in the&#xD;
+             study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  secondary hypercholesterolemia (i.e. hypothyroidism, Primary biliary cholangitis, etc)&#xD;
+&#xD;
+          -  Use of drugs or dietary supplements that can impact on cholesterol value (i.e.&#xD;
+             progestinic, red yeast rice, niacin &gt;200 mg/d, lipid-regulating drugs - eg, ﬁbrates or&#xD;
+             derivatives, ezetimibe, bile-acid sequestrants, stanols, or stanol esters - )&#xD;
+&#xD;
+          -  Previous treatment with evolocumab or any other anti-PCSK9 therapy&#xD;
+&#xD;
+          -  Inability to provide informed consent or to attend follow-up visits&#xD;
+&#xD;
+          -  Unreliability as a study participant based on judgment of investigator's knowledge of&#xD;
+             the subject (eg, alcohol or other drug abuse, inability or unwillingness to adhere to&#xD;
+             the protocol, psychosis)&#xD;
+&#xD;
+          -  Current enrollment in another investigational device or drug study or &lt;30 d since&#xD;
+             ending another investigational device or drug study&#xD;
+&#xD;
+          -  serum triglycerides level &gt; 400 mg/dL at baseline&#xD;
+&#xD;
+          -  Pregnancy, breastfeeding, or inadequate birth control in premenopausal female subjects&#xD;
+&#xD;
+          -  Laboratory values at screening CK &gt;3 × ULN; AST or ALT &gt;2 × ULN&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Gennaro Cice, MD</last_name>
+    <phone>0039330915294</phone>
+    <email>gennarocice@hormail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Leonardo Calò, MD</last_name>
+    <phone>0623188406</phone>
+    <email>leonardocalo.doc@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Policlinico Casilino</name>
+      <address>
+        <city>Rome</city>
+        <zip>00169</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leonardo Calò, MD</last_name>
+      <phone>00393388589677</phone>
+      <email>leonardocalo.doc@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Luca Monzo, MD, PhD</last_name>
+      <phone>00393460242037</phone>
+      <email>luca.monzo@uniroma1.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gennaro Cice, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Luca Monzo, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maurizio Volterrani, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Leonardo Calò, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Mach F, Baigent C, Catapano AL, Koskinas KC, Casula M, Badimon L, Chapman MJ, De Backer GG, Delgado V, Ference BA, Graham IM, Halliday A, Landmesser U, Mihaylova B, Pedersen TR, Riccardi G, Richter DJ, Sabatine MS, Taskinen MR, Tokgozoglu L, Wiklund O; ESC Scientific Document Group. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. Eur Heart J. 2020 Jan 1;41(1):111-188. doi: 10.1093/eurheartj/ehz455. Erratum in: Eur Heart J. 2020 Nov 21;41(44):4255.</citation>
+    <PMID>31504418</PMID>
+  </reference>
+  <reference>
+    <citation>Wanner C, Krane V, März W, Olschewski M, Mann JF, Ruf G, Ritz E; German Diabetes and Dialysis Study Investigators. Atorvastatin in patients with type 2 diabetes mellitus undergoing hemodialysis. N Engl J Med. 2005 Jul 21;353(3):238-48. Erratum in: N Engl J Med. 2005 Oct 13;353(15):1640.</citation>
+    <PMID>16034009</PMID>
+  </reference>
+  <reference>
+    <citation>Fellström BC, Jardine AG, Schmieder RE, Holdaas H, Bannister K, Beutler J, Chae DW, Chevaile A, Cobbe SM, Grönhagen-Riska C, De Lima JJ, Lins R, Mayer G, McMahon AW, Parving HH, Remuzzi G, Samuelsson O, Sonkodi S, Sci D, Süleymanlar G, Tsakiris D, Tesar V, Todorov V, Wiecek A, Wüthrich RP, Gottlow M, Johnsson E, Zannad F; AURORA Study Group. Rosuvastatin and cardiovascular events in patients undergoing hemodialysis. N Engl J Med. 2009 Apr 2;360(14):1395-407. doi: 10.1056/NEJMoa0810177. Epub 2009 Mar 30. Erratum in: N Engl J Med. 2010 Apr 15;362(15):1450.</citation>
+    <PMID>19332456</PMID>
+  </reference>
+  <reference>
+    <citation>Baigent C, Landray MJ, Reith C, Emberson J, Wheeler DC, Tomson C, Wanner C, Krane V, Cass A, Craig J, Neal B, Jiang L, Hooi LS, Levin A, Agodoa L, Gaziano M, Kasiske B, Walker R, Massy ZA, Feldt-Rasmussen B, Krairittichai U, Ophascharoensuk V, Fellström B, Holdaas H, Tesar V, Wiecek A, Grobbee D, de Zeeuw D, Grönhagen-Riska C, Dasgupta T, Lewis D, Herrington W, Mafham M, Majoni W, Wallendszus K, Grimm R, Pedersen T, Tobert J, Armitage J, Baxter A, Bray C, Chen Y, Chen Z, Hill M, Knott C, Parish S, Simpson D, Sleight P, Young A, Collins R; SHARP Investigators. The effects of lowering LDL cholesterol with simvastatin plus ezetimibe in patients with chronic kidney disease (Study of Heart and Renal Protection): a randomised placebo-controlled trial. Lancet. 2011 Jun 25;377(9784):2181-92. doi: 10.1016/S0140-6736(11)60739-3. Epub 2011 Jun 12.</citation>
+    <PMID>21663949</PMID>
+  </reference>
+  <reference>
+    <citation>Stroes E, Colquhoun D, Sullivan D, Civeira F, Rosenson RS, Watts GF, Bruckert E, Cho L, Dent R, Knusel B, Xue A, Scott R, Wasserman SM, Rocco M; GAUSS-2 Investigators. Anti-PCSK9 antibody effectively lowers cholesterol in patients with statin intolerance: the GAUSS-2 randomized, placebo-controlled phase 3 clinical trial of evolocumab. J Am Coll Cardiol. 2014 Jun 17;63(23):2541-2548. doi: 10.1016/j.jacc.2014.03.019. Epub 2014 Mar 30.</citation>
+    <PMID>24694531</PMID>
+  </reference>
+  <reference>
+    <citation>Schwartz GG, Steg PG, Szarek M, Bhatt DL, Bittner VA, Diaz R, Edelberg JM, Goodman SG, Hanotin C, Harrington RA, Jukema JW, Lecorps G, Mahaffey KW, Moryusef A, Pordy R, Quintero K, Roe MT, Sasiela WJ, Tamby JF, Tricoci P, White HD, Zeiher AM; ODYSSEY OUTCOMES Committees and Investigators. Alirocumab and Cardiovascular Outcomes after Acute Coronary Syndrome. N Engl J Med. 2018 Nov 29;379(22):2097-2107. doi: 10.1056/NEJMoa1801174. Epub 2018 Nov 7.</citation>
+    <PMID>30403574</PMID>
+  </reference>
+  <reference>
+    <citation>Sabatine MS, Giugliano RP, Keech AC, Honarpour N, Wiviott SD, Murphy SA, Kuder JF, Wang H, Liu T, Wasserman SM, Sever PS, Pedersen TR; FOURIER Steering Committee and Investigators. Evolocumab and Clinical Outcomes in Patients with Cardiovascular Disease. N Engl J Med. 2017 May 4;376(18):1713-1722. doi: 10.1056/NEJMoa1615664. Epub 2017 Mar 17.</citation>
+    <PMID>28304224</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2020</study_first_posted>
+  <last_update_submitted>December 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Policlinico Casilino ASL RMB</investigator_affiliation>
+    <investigator_full_name>Leonardo Calò, MD</investigator_full_name>
+    <investigator_title>Head of Cardiology Department</investigator_title>
+  </responsible_party>
+  <keyword>Hypercholesterolemia</keyword>
+  <keyword>Chronic Dialysis</keyword>
+  <keyword>Statin intollerant patients</keyword>
+  <keyword>LDL reduction</keyword>
+  <keyword>Cardiovascular risk</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+    <mesh_term>Hypercholesterolemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ezetimibe</mesh_term>
+    <mesh_term>Evolocumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

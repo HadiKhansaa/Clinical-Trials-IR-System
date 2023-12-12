@@ -1,0 +1,264 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04801550</url>
+  </required_header>
+  <id_info>
+    <org_study_id>38RC20.370</org_study_id>
+    <nct_id>NCT04801550</nct_id>
+  </id_info>
+  <brief_title>Study of Somatosensory Responses During Millimeter Waves Application</brief_title>
+  <acronym>RESOM</acronym>
+  <official_title>Study of Somatosensory Responses During Millimeter Waves Application (RESOM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Grenoble</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Commissariat à l'énergie atomique et aux énergies alternatives (CEA)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Remedee Labs SAS</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Grenoble</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The brain activity induced by a sensory stimulus and measured by magnetoencephalography will&#xD;
+      be compared before and after exposure to millimeter waves. We hypothesize that brain activity&#xD;
+      is modified after exposure to millimeter waves. The neuromodulatory effects of millimeter&#xD;
+      waves may lead to future development on therapeutic management in anxiety and pain.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Several studies showed clinical efficacy of millimeter waves in pain management, with no&#xD;
+      side-effects.&#xD;
+&#xD;
+      However, its mechanism of action is still partly unknown. Preclinical studies showed that the&#xD;
+      use of millimeter waves near highly-innervated areas stimulates subcutaneous receptors, even&#xD;
+      at low power.&#xD;
+&#xD;
+      To achieve safe millimeter wave stimulation, we will use a bracelet (Remedee Labs) emitting&#xD;
+      millimeter waves, that has been developped for human use. It complies with radiofrequency&#xD;
+      exposure regulation (CE-marked).&#xD;
+&#xD;
+      This study aims to provide a better understanding of the mechanism by which millimeter waves&#xD;
+      interact with somatosensory system in brain.&#xD;
+&#xD;
+      For this purpose, the analysis of brain activity will focus on somatosensory responses&#xD;
+      elicited by electrical stimulation of the right thumb.&#xD;
+&#xD;
+      Subjects will complete two sessions during which the brain activity will be recorded by&#xD;
+      magnetoencephalography (MEG) before, during and after the use of a bracelet emitting&#xD;
+      millimeter waves.&#xD;
+&#xD;
+      Magnetoencephalography is chosen for its good temporal resolution, its sensitivity in the low&#xD;
+      frequencies and its accuracy to locate neural sources when matching with an Magnetic&#xD;
+      Resonance (MR) Imagery. It will allow us to study the shape and the delay of the&#xD;
+      somatosensory response in primary somatosensory cortex (SI) and secondary somatosensory&#xD;
+      cortex (SII) cortical areas of the brain.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2021</start_date>
+  <completion_date type="Anticipated">April 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>This is an exploratory and prospective study. Each volunteer will undergo two MEG examinations (4h-long each) without knowing the millimeter wave emitter status. Each volunteer acts as their own control. The status of exposure to millimeter waves is randomized.&#xD;
+The study is cross-over and double-blinded.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the somatosensory responses induced by the application of millimeter waves to the wrist</measure>
+    <time_frame>4 hours</time_frame>
+    <description>Statistically significant change in the evoked somatosensory magnetic activity time course</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Variation of the sympathovagal balance following the application of millimeter waves</measure>
+    <time_frame>4 hours</time_frame>
+    <description>Comparison of heart rate variability before and after application of millimeter waves</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in resting brain activity during or after application of millimeter waves to the wrist</measure>
+    <time_frame>4 hours</time_frame>
+    <description>Characterization of oscillatory brain activity by frequency bands (power maps)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Millimeter wave emitter status 1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Somatosensory stimulus during Magnetoencephalography (MEG) records</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Millimeter wave emitter status 2</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Somatosensory stimulus during Magnetoencephalography (MEG) records</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Millimeter waves local exposure</intervention_name>
+    <description>several blocks of somatosensory evoked potentials with or without Millimeter waves local exposure</description>
+    <arm_group_label>Millimeter wave emitter status 1</arm_group_label>
+    <arm_group_label>Millimeter wave emitter status 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy male voluntary subject, aged 18 to 40 inclusive.&#xD;
+&#xD;
+          2. Right-handed subject verified by the Edinburgh test.&#xD;
+&#xD;
+          3. Body mass index (BMI) between 18 and 25 kg/m2 inclusive.&#xD;
+&#xD;
+          4. Blood pressure and heart rate considered clinically normal by the investigators.&#xD;
+&#xD;
+          5. Having benefited from a medical examination before participating in the research.&#xD;
+&#xD;
+          6. Volunteer with a wrist circumference between 14.5 and 21 cm (wrist compatible with the&#xD;
+             size of the bracelet).&#xD;
+&#xD;
+          7. Adults, having expressed their consent to research, affiliated to a social security&#xD;
+             scheme and registered in the national file of people who lend themselves to biomedical&#xD;
+             research&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any history or presence of chronic disease.&#xD;
+&#xD;
+          2. Volunteer presenting chronic pain and / or headache.&#xD;
+&#xD;
+          3. Metal or silicon allergy.&#xD;
+&#xD;
+          4. Volunteer with a piercing or an implanted metallic material on the internal face of&#xD;
+             the right wrist.&#xD;
+&#xD;
+          5. Volunteer with a tattoo on the inside of the right wrist.&#xD;
+&#xD;
+          6. People with contraindications to MRI.&#xD;
+&#xD;
+          7. Taking treatment that could impact the physiological measurements recorded.&#xD;
+&#xD;
+          8. Consumption of analgesics or anti-inflammatory drugs during the week before each MEG&#xD;
+             examination.&#xD;
+&#xD;
+          9. Surgical intervention within the last 3 months.&#xD;
+&#xD;
+         10. Alcohol consumption within the last 24 hours, for each visit.&#xD;
+&#xD;
+         11. Achievement of a sporting effort within the last 24 hours, for each visit.&#xD;
+&#xD;
+         12. Volunteer with difficulties to be cooperative during the study in the opinion of the&#xD;
+             investigator (i.e.: language problem, poor mental development, etc.).&#xD;
+&#xD;
+         13. Volunteer in period of exclusion from another study.&#xD;
+&#xD;
+         14. Volunteer deprived of liberty by a judicial or administrative decision, subject to&#xD;
+             psychiatric treatment, or major subject subject to a legal protection measure&#xD;
+             (guardianship, guardianship and safeguard of justice) referred to in articles 1121-6&#xD;
+             to 1121-8 of the French public health code.&#xD;
+&#xD;
+         15. Volunteer who would receive more than 4,500 euros in compensation as a result of his&#xD;
+             participation in other research involving the human person in the 12 months preceding&#xD;
+             this study.&#xD;
+&#xD;
+         16. Volunteer who cannot be contacted in case of emergency.&#xD;
+&#xD;
+         17. Volunteer who have already used an millimeter wave emitter before the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Caroline MAINDET, MD</last_name>
+    <phone>04 76 76 52 13</phone>
+    <email>Cmaindet@chu-grenoble.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Caroline SANDRE-BALLESTER, PhD</last_name>
+    <phone>04 38 78 28 51</phone>
+    <email>csandreballester@chu-grenoble.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clinatec Cea/Chuga</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Daniel ANGLADE, MD</last_name>
+      <phone>04 38 78 02 48</phone>
+      <email>danglade@chu-grenoble.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Caroline SANDRE-BALLESTER, PhD</last_name>
+      <phone>04 38 78 28 51</phone>
+      <email>csandreballester@chu-grenoble.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Caroline MAINDET, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel ANGLADE, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Fioravanti C, Kajal SD, Carboni M, Mazzetti C, Ziemann U, Braun C. Inhibition in the somatosensory system: An integrative neuropharmacological and neuroimaging approach. Neuroimage. 2019 Nov 15;202:116139. doi: 10.1016/j.neuroimage.2019.116139. Epub 2019 Aug 30.</citation>
+    <PMID>31476429</PMID>
+  </reference>
+  <reference>
+    <citation>Radzievsky AA, Gordiienko OV, Alekseev S, Szabo I, Cowan A, Ziskin MC. Electromagnetic millimeter wave induced hypoalgesia: frequency dependence and involvement of endogenous opioids. Bioelectromagnetics. 2008 May;29(4):284-95.</citation>
+    <PMID>18064600</PMID>
+  </reference>
+  <reference>
+    <citation>Rojavin MA, Ziskin MC. Electromagnetic millimeter waves increase the duration of anaesthesia caused by ketamine and chloral hydrate in mice. Int J Radiat Biol. 1997 Oct;72(4):475-80.</citation>
+    <PMID>9343112</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 17, 2021</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Somatosensory stimulus</keyword>
+  <keyword>Millimeter Waves</keyword>
+  <keyword>Magnetoencephalography</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,335 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04595942</url>
+  </required_header>
+  <id_info>
+    <org_study_id>99-2-408-49493</org_study_id>
+    <nct_id>NCT04595942</nct_id>
+  </id_info>
+  <brief_title>Midodrine and Fludrocortisone for Vasovagal Syncope</brief_title>
+  <acronym>COMFORTS</acronym>
+  <official_title>Comparison of Outcomes With Midodrine and Fludrocortisone for Objective Recurrence in Treating Syncope (COMFORTS Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tehran Heart Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mahidol University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rajaie Cardiovascular Medical and Research Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tehran Arrhythmia Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Imam Khomeini Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AJA University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Urmia University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Isfahan University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Shahid Beheshti University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ahvaz Jundishapur University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tehran Heart Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Syncope is a common condition which can disturb daily functions of the patients and impair&#xD;
+      their quality of lives. It contributes to 0.8 to 2.4% of the visits of emergency rooms.&#xD;
+      Noticeably, studies demonstrated that the lifetime prevalence of syncope is as high as 41%&#xD;
+      with a 13.5% recurrence rate.&#xD;
+&#xD;
+      The cornerstone of the treatment of vasovagal syncope (VVS), the most common type of syncope,&#xD;
+      is lifestyle modifications and patient education to avoid potential triggers of syncope.&#xD;
+      These recommendations alleviate vasovagal spells in many patients; however, some patients&#xD;
+      experience life-disturbing vasovagal attacks despite compliance with these modifications.&#xD;
+      This fact underscores the importance of efficient pharmacological interventions as well.&#xD;
+&#xD;
+      Currently, there is an ongoing controversy about the efficacy of midodrine and&#xD;
+      fludrocortisone as adjunct pharmacological interventions for the prevention of VVS. In the&#xD;
+      COMFORTS trial, we are going to evaluate the efficacy of midodrine, fludrocortisone, and&#xD;
+      lifestyle modifications for prevention of vasovagal attacks in patients with VVS.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background: The cornerstone of the treatment of vasovagal syncope (VVS) is lifestyle&#xD;
+      modifications; however, some patients incur life-disturbing attacks despite compliance with&#xD;
+      these treatments which underscores the importance of pharmacological interventions.&#xD;
+&#xD;
+      Methods: In the COMFORTS trial, a multi-center randomized controlled trial, 1375 patients&#xD;
+      with VVS will be randomized into three parallel arms with a 2:2:1 ratio to receive midodrine,&#xD;
+      fludrocortisone, or just lifestyle modifications. All patients will receive recommendations&#xD;
+      for lifestyle modifications. In the pharmacological intervention arms, patients will receive&#xD;
+      5 mg of midodrine three times a day or 0.1 mg of fludrocortisone twice daily. In case of&#xD;
+      intolerance, the dosage will be cut by half. If the patient does not tolerate even the&#xD;
+      reduced dosage, the medication will be discontinued and the patient will be advised to use&#xD;
+      compression garments, practice tilt training exercises, or switch to the other medication.&#xD;
+      The patients will be followed on 3, 6, and 12 months after dose stabilization. Primary&#xD;
+      efficacy outcomes of the study is the time to the first syncopal episode. The secondary&#xD;
+      efficacy outcome are the recurrence rate of syncope, number of syncopal episodes and the&#xD;
+      quality of life of the patients which will be assessed by the 36-Item Short Form Survey&#xD;
+      questionnaire at the enrollment and 12 months after dose stabilization.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 19, 2020</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to first episode of syncope</measure>
+    <time_frame>The follow-up continues for 12 months after randomization</time_frame>
+    <description>Time from randomization to occurrence of the first episode of vasovagal syncope during the follow-up.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Recurrence rate of vasovagal syncope</measure>
+    <time_frame>The follow-up continues for 12 months after randomization</time_frame>
+    <description>The proportion of patients who incurred at least one episode of vasovagal syncope during the follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in quality of life</measure>
+    <time_frame>Baseline (It will be evaluated at randomization) and 12 months after randomization.</time_frame>
+    <description>It is measured by the 36-item short form (SF-36) questionnaire.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major side effects</measure>
+    <time_frame>The follow-up continues for 12 months after randomization</time_frame>
+    <description>The proportion of patients who do not tolerate the initial dosage of medications which leads to either a reduced dosage or discontinuation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minor side effects</measure>
+    <time_frame>The follow-up continues for 12 months after randomization</time_frame>
+    <description>The proportion of patients who experience minor side effects without dosage changes.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1375</enrollment>
+  <condition>Syncope, Vasovagal</condition>
+  <arm_group>
+    <arm_group_label>Midodrine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10 mg midodrine three times a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fludrocortisone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0.1 mg fludrocortisone two times a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lifestyle modification</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Education, salt and water intake, counter-pressure maneuvers</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Midodrine Hydrochloride Tablets</intervention_name>
+    <description>Patients will be started on 5 mg Midodrine three times a day and after one week the dosage will be up-titrated to 10 mg three times a day and continued for 12 months. They will receive the medication at four-hour intervals upon rising in the morning (the last dose should not be taken later than 6 PM). In case of intolerance, the dosage will be reduced to 2.5 mg three times a day. Patients will also receive recommendations for lifestyle modifications including drinking 2 to 3 liters of fluid per day, daily consumption of 10 grams of salt, and practicing counter-pressure maneuvers (handgrip, arm-tensing, leg crossing and squatting).</description>
+    <arm_group_label>Midodrine</arm_group_label>
+    <other_name>Gutron</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludrocortisone Acetate Tablets</intervention_name>
+    <description>Patients will be started on 0.05 mg of fludrocortisone twice daily and after one week the dosage will be up-titrated to 0.1 mg fludrocortisone twice daily taken for 12 months. Patients will also receive recommendations for lifestyle modifications including drinking 2 to 3 liters of fluid per day, daily consumption of 10 grams of salt, and practicing counter-pressure maneuvers (handgrip, arm-tensing, leg crossing and squatting). In this arm, potassium levels will be checked 7-14 days after dose stabilization.</description>
+    <arm_group_label>Fludrocortisone</arm_group_label>
+    <other_name>Florinef</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Lifestyle modification</intervention_name>
+    <description>Patients will be recommended to drink 2 to 3 liters of fluid per day, consume 10 grams of salt per day, and practice counter-pressure maneuvers (handgrip, arm-tensing, leg crossing and squatting) for 12 months.</description>
+    <arm_group_label>Fludrocortisone</arm_group_label>
+    <arm_group_label>Lifestyle modification</arm_group_label>
+    <arm_group_label>Midodrine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Vasovagal syncope as the cause of transient loss of consciousness (Clinical diagnosis&#xD;
+             AND Calgary Syncope Symptom Score ≥ -2; Head-up tilt test is not mandatory for&#xD;
+             diagnosis)&#xD;
+&#xD;
+          -  ≥2 episodes of syncope during the last year&#xD;
+&#xD;
+          -  Medication-naïve or have at least a 2-week washout period prior to randomization&#xD;
+&#xD;
+          -  The capability of giving informed consent&#xD;
+&#xD;
+          -  Signed written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other causes of transient loss of consciousness including orthostatic hypotension,&#xD;
+             postural tachycardia, carotid sinus hypersensitivity, or seizure&#xD;
+&#xD;
+          -  Cardiac rhythm disorders including ventricular tachycardia, long QT syndrome, Brugada&#xD;
+             syndrome, arrhythmogenic right ventricular cardiomyopathy, complete heart block, and&#xD;
+             any conduction abnormality on electrocardiogram&#xD;
+&#xD;
+          -  Severe valvular heart disease&#xD;
+&#xD;
+          -  Hypertrophic cardiomyopathy&#xD;
+&#xD;
+          -  Cardiac systolic dysfunction (ejection fraction≤40%)&#xD;
+&#xD;
+          -  Obstructive coronary artery disease&#xD;
+&#xD;
+          -  Hypertension&#xD;
+&#xD;
+          -  Diabetes mellitus&#xD;
+&#xD;
+          -  Cirrhosis&#xD;
+&#xD;
+          -  Renal failure stage≥3&#xD;
+&#xD;
+          -  Known intolerance or hypersensitivity to midodrine or fludrocortisone&#xD;
+&#xD;
+          -  Urinary retention&#xD;
+&#xD;
+          -  Pheochromocytoma&#xD;
+&#xD;
+          -  Thyrotoxicosis&#xD;
+&#xD;
+          -  Glaucoma&#xD;
+&#xD;
+          -  Previous use of midodrine or fludrocortisone for treatment of VVS or another condition&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arash Jalali, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Tehran Heart Center, Tehran University of Medical Sciences</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Arya Aminorroaya, MD, MPH</last_name>
+    <role>Study Director</role>
+    <affiliation>Tehran Heart Center, Tehran University of Medical Sciences</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Hamed Tavolinejad, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Tehran Heart Center, Tehran University of Medical Sciences</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Saeed Sadeghian, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Tehran Heart Center, Tehran University of Medical Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Masih Tajdini, MD</last_name>
+    <phone>+982188029640</phone>
+    <email>mtajdini@sina.tums.ac.ir</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tehran Heart Center</name>
+      <address>
+        <city>Tehran</city>
+        <zip>1411713138</zip>
+        <country>Iran, Islamic Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Masih Tajdini, MD</last_name>
+      <phone>+982188029640</phone>
+      <email>mtajdini@sina.tums.ac.ir</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Iran, Islamic Republic of</country>
+  </location_countries>
+  <link>
+    <url>http://comfortstrial.com</url>
+    <description>The COMFORTS Trial website</description>
+  </link>
+  <reference>
+    <citation>Aminorroaya A, Tavolinejad H, Sadeghian S, Jalali A, Alaeddini F, Emkanjoo Z, Mollazadeh R, Bozorgi A, Oraii S, Kiarsi M, Shahabi J, Akbarzadeh MA, Rahimi B, Joharimoghadam A, Mohsenizade A, Mohammadi R, Oraii A, Ariannejad H, Apakuppakul S, Ngarmukos T, Tajdini M. Comparison of Outcomes with Midodrine and Fludrocortisone for Objective Recurrence in Treating Syncope (COMFORTS trial): Rationale and design for a multi-center randomized controlled trial. Am Heart J. 2021 Mar 6. pii: S0002-8703(21)00067-3. doi: 10.1016/j.ahj.2021.03.002. [Epub ahead of print]</citation>
+    <PMID>33689731</PMID>
+  </reference>
+  <reference>
+    <citation>Sadeghian S, Aminorroaya A, Tajdini M. The Syncope Unit of Tehran Heart Center. Eur Heart J. 2021 Jan 7;42(2):148-150. doi: 10.1093/eurheartj/ehaa532.</citation>
+    <PMID>33346809</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>October 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2020</study_first_posted>
+  <last_update_submitted>April 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tehran Heart Center</investigator_affiliation>
+    <investigator_full_name>Masih Tajdini, MD</investigator_full_name>
+    <investigator_title>Assistant Professor of Cardiology</investigator_title>
+  </responsible_party>
+  <keyword>Syncope, Vasovagal</keyword>
+  <keyword>Syncope</keyword>
+  <keyword>Midodrine</keyword>
+  <keyword>Fludrocortisone</keyword>
+  <keyword>Randomized Controlled Trial</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syncope</mesh_term>
+    <mesh_term>Syncope, Vasovagal</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fludrocortisone</mesh_term>
+    <mesh_term>Midodrine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The data is not publicly available due to privacy/ethical restrictions. The data can be shared upon reasonable request to the trial committee,</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

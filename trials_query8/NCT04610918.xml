@@ -1,0 +1,288 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04610918</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1000069821</org_study_id>
+    <nct_id>NCT04610918</nct_id>
+  </id_info>
+  <brief_title>Comparing Body Composition Assessment Methods</brief_title>
+  <official_title>Comparing Body Composition Assessment Methods, Evaluating Physical Activity and Strength in Children With Intestinal Failure: Building a Framework for More Personalized and Holistic Care in Pediatric Intestinal Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Hospital for Sick Children</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Rare Disease Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Hospital for Sick Children</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Improvement in clinical care has resulted in longer life expectancy of children&#xD;
+      with intestinal failure (IF). However, recent data indicate that their body composition (BC)&#xD;
+      is abnormal with a relatively high fat mass (FM) and low fat free mass (FFM). Abnormal BC is&#xD;
+      linked to poor prognosis and increased length of hospital stay; yet BC is not assessed in&#xD;
+      pediatric clinical practice. Instead, growth charts which lack sensitivity to detect changes&#xD;
+      in BC are used. Physical activity (PA) is the most important predictor of FFM and increased&#xD;
+      PA contributes to decreased FM. Decreased PA in childhood is associated with increased FM and&#xD;
+      decreased FFM which are linked to diabetes and cardiovascular disease in adulthood.&#xD;
+      Dual-energy X-ray Absorptiometry (DXA) is considered the reference method for measuring BC in&#xD;
+      the clinical setting but it is expensive and not suitable for routine use. Bioelectrical&#xD;
+      Impedance Analysis (BIA) on the other hand is relatively inexpensive and non-invasive but&#xD;
+      needs to be validated for use in patients with IF. Objectives: 1) validate BIA against DXA as&#xD;
+      a clinical tool for monitoring changes in BC in children with IF, 2) quantify PA levels using&#xD;
+      activity counts from accelerometers and 3) assess strength. Design: 1-18 years, with IF&#xD;
+      followed by the intestinal rehabilitation program at SickKids. All subjects receiving a DXA&#xD;
+      for routine clinical monitoring are eligible. BIA and muscle strength will be measured in&#xD;
+      clinic. Demographic data and IF related factors including height, weight, PN prescription,&#xD;
+      age, diagnosis, bowel length and length of time off PN for those who have achieved enteral&#xD;
+      autonomy will be obtained. DXA measurement will be done by Diagnostic Imaging at SickKids.&#xD;
+      Patients will be fitted with an accelerometer to be worn for 7 days. Statistics: Differences&#xD;
+      between sexes will be assessed by t test. Relationship between PA and BC, and BC and muscular&#xD;
+      strength will be assessed by linear regression analysis. Agreement between DXA and BIA will&#xD;
+      be assessed using a Bland-Altman test. Significance will be set at p&lt;0.05. Significance: This&#xD;
+      study has the potential to establish BIA as a convenient clinical tool to assess BC and&#xD;
+      provide a more accurate basis for nutritional and PA prescriptions to optimize long-term&#xD;
+      outcomes and quality of life in IF patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      METHODOLOGY:&#xD;
+&#xD;
+      Subjects:&#xD;
+&#xD;
+      Participants with IF will be recruited from patients followed by our multidisciplinary&#xD;
+      intestinal rehabilitation program at SickKids.&#xD;
+&#xD;
+      Exclusion criteria: patients who are wheelchair bound or non-weight bearing, those unwilling&#xD;
+      to participate.&#xD;
+&#xD;
+      Methods:&#xD;
+&#xD;
+      An annual DXA is ordered for all our patients beginning at 1-year of age as part of routine&#xD;
+      clinical monitoring. On the day of the scheduled DXA, FFM using BIA, FM using Skinfolds and&#xD;
+      muscle strength will be measured in clinic. After DXA measurement, patients will be fitted&#xD;
+      with an accelerometer to be worn for 7 days.&#xD;
+&#xD;
+      Body composition: 3 methods - BIA, Skinfolds &amp; DXA&#xD;
+&#xD;
+      Whole body and segmental BIA (leg, trunk and arm) will be taken on the right side of the body&#xD;
+      using a fixed frequency analyzer (50kHz) (BIA model 101A: RJL Systems). Resistance (R) and&#xD;
+      reactance (Xc) measurements will be made using 4-terminal bioelectrical impedance analyzer&#xD;
+      according to the manufacturer's recommendations after 10 hour overnight fasting for patients&#xD;
+      on enteral nutrition. Three readings R and Xc (in) will be taken from each subject. Patients&#xD;
+      on parenteral nutrition (PN) will be prescribed a standard fluid intake of 130 mls/kg and be&#xD;
+      cycled off PN for 3 hrs before measurement of BC. Body composition will also be assessed by&#xD;
+      BIA in clinic and DXA (GE-Lunar DPS Pro (EG Healthcare, Waukesha, WI, USA), at the Radiology&#xD;
+      Department, SickKids as part of routine annual clinical monitoring.&#xD;
+&#xD;
+      Four SF thicknesses (triceps, biceps, subscapular, and super iliac) will measured to the&#xD;
+      nearest 1mm with a Harpenden caliper to obtain estimates of fat mass.&#xD;
+&#xD;
+      Anthropometric &amp; IF related factors: Data will be collected on PN prescription, % of calories&#xD;
+      on PN and enteral nutrition, number of months weaned of PN (if off PN), age, sex, diagnosis,&#xD;
+      weight and height.&#xD;
+&#xD;
+      Physical activity level:&#xD;
+&#xD;
+      Physical activity will be measured by accelerometry using the Actigraph GT3X accelerometer&#xD;
+      for measuring activity counts. It provides quantitative information regarding vertical&#xD;
+      acceleration of the trunk, and lower body parts at specified time intervals and can be used&#xD;
+      to evaluate frequency, intensity and duration of PA. Their small size and robust design make&#xD;
+      them an excellent alternative for use in children. They are less burdensome relative to heart&#xD;
+      rate monitors and capable of detecting the intermittent activity patterns characteristic of&#xD;
+      children.&#xD;
+&#xD;
+      Participants will be asked to wear the accelerometer for 7 consecutive days, including two&#xD;
+      weekend days during waking hours except when participating in water related activities (e.g.,&#xD;
+      showering, swimming). The accelerometer will be worn on an elastic belt on the right hip,&#xD;
+      above the iliac crest. Each subject will receive a call by a research coordinator to remind&#xD;
+      them to wear the monitor. Subjects will also be given a handout that will include common&#xD;
+      solutions to potential barriers for wearing the monitor along with a prepaid envelope to&#xD;
+      return the accelerometer at the completion of the 7 days. Data from the accelerometers will&#xD;
+      be downloaded and analyzed with the manufacturer's software.&#xD;
+&#xD;
+      Muscle strength&#xD;
+&#xD;
+      In this study, objective measures will be used to assess both functional strength and&#xD;
+      specific muscle strength of the participants. The Bruininks-Oseretsky Test of Motor&#xD;
+      Proficiency-2 (BOT-2) is norm referenced and designed to measure gross and fine motor skills&#xD;
+      in children and youth 4-21 years of age. It is a widely accepted test with a reliable and&#xD;
+      efficient measure of motor proficiency. The strength subtest will be utilized in this study&#xD;
+      and is designed to measure functional strength. Children will be tested on their grip&#xD;
+      strength using a Jamar 5030J1 dynamometer. Specific muscle strength of select arm and leg&#xD;
+      muscles will also be measured clinically by a physiotherapist.&#xD;
+&#xD;
+      Subjects:&#xD;
+&#xD;
+      Patient with intestinal failure:&#xD;
+&#xD;
+      Patients with IF will undergo all tests as described above. Before clinic visit, patients&#xD;
+      will be contacted by the person preparing for clinic (a study team member) and the study will&#xD;
+      be introduced to the parents or child by a member of the health care team. If parents are&#xD;
+      interested, the study will be further explained in clinic and any questions answered by a&#xD;
+      study team member. The same person will obtain informed consent/assent (study team member but&#xD;
+      not a member of the health care team) Patients will be recruited in clinic.&#xD;
+&#xD;
+      All patients with IF followed by the GIFT team at the hospital and aged 1-18 years will be&#xD;
+      eligible to participate except those who are wheel chair bound.&#xD;
+&#xD;
+      Control participants:&#xD;
+&#xD;
+      Healthy control participants will be recruited by posting flyers in common areas at the&#xD;
+      Hospital for Sick Children and the PGCRL. Contact information for the study team member&#xD;
+      accepting enquire will be included on the flyer. These postings will be negotiated through&#xD;
+      Public Affairs. Healthy controls will also be recruited through families of patients with IF&#xD;
+      and children of staff members and other colleagues at the Hospital for Sick Children. Two&#xD;
+      healthy controls will be recruited for each case.&#xD;
+&#xD;
+      Healthy controls will be age, race and sex matched. Age will be matched within ±2 months for&#xD;
+      subjects between 1-3 years and within ±6 month for those 4 years and above.&#xD;
+&#xD;
+      Both IF patents and controls will be fitted with an accelerometer and sent home to wear it&#xD;
+      for 7 days. A stamped and addressed envelope will be given to mail the accelerometer back to&#xD;
+      the hospital for those patient who live outside of the GTA. For those residing within the&#xD;
+      GTA, the accelerometers will be picked up from their homes or an arranged location by study&#xD;
+      team members.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 20, 2020</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>3 Years</target_duration>
+  <primary_outcome>
+    <measure>Body composition of children with intestinal failure compared with healthy controls.</measure>
+    <time_frame>11/1 2020 - 10/1/2023</time_frame>
+    <description>measurement of fat and fat-free mass by BIA and DXA</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To measure physical activity and strength of children with intestinal failure compared with healthy controls.</measure>
+    <time_frame>11/1 2020 - 10/1/2023</time_frame>
+    <description>Strength will be measured in children with intestinal failure and healthy age and sex matched controls using standard instruments.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Body Composition</condition>
+  <condition>Gastrointestinal Failure</condition>
+  <condition>Pediatric ALL</condition>
+  <arm_group>
+    <arm_group_label>Cases - Pediatric Intestinal Failure Patients</arm_group_label>
+    <description>DXA BIA Skin fold measurements Strength tests Physical activity monitoring</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls</arm_group_label>
+    <description>BIA Skin fold measurements Strength tests Physical activity monitoring</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with Intestinal failure (IF) which is the inability of the gastrointestinal tract&#xD;
+        to absorb adequate fluid and nutrients for growth and maintenance due to disease associated&#xD;
+        loss of absorption.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants with Intestinal Failure will be recruited from patients followed by our&#xD;
+             multidisciplinary intestinal rehabilitation program at SickKids. A total of about 133&#xD;
+             patients are seen annually.&#xD;
+&#xD;
+          -  Healthy controls will be age, race and sex matched. Age will be matched within ±2&#xD;
+             months for subjects between 1-3 years and within ±6 month for those 4 years and above.&#xD;
+&#xD;
+          -  Aged 1-18 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  patients who are wheelchair bound or non-weight bearing, those unwilling to&#xD;
+             participate.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Glenda Courtney-Martin, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Hospital for Sick Children</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dianna Yanchis</last_name>
+    <phone>416-813-7654</phone>
+    <phone_ext>228620</phone_ext>
+    <email>dianna.yanchis@sickkids.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Glenda Courtney-Martin, PhD</last_name>
+    <phone>4168135744</phone>
+    <email>glenda.courtney-martin@sickkids.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dianna Yanchis</last_name>
+      <phone>4168137654</phone>
+      <phone_ext>228620</phone_ext>
+      <email>Dianna.yanchis@sickkids.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Glenda Courtney-Martin</last_name>
+      <phone>4168135744</phone>
+      <email>glenda.courtney-martin@sickkids.ca</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 2, 2020</study_first_posted>
+  <last_update_submitted>October 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Hospital for Sick Children</investigator_affiliation>
+    <investigator_full_name>Glenda Courtney-Martin</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

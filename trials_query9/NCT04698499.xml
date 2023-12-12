@@ -1,0 +1,427 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04698499</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HREBA.CC-20-0072</org_study_id>
+    <nct_id>NCT04698499</nct_id>
+  </id_info>
+  <brief_title>Swallowing Therapy With the Assistance of a Mobile Health Device in Head and Neck Cancer Patients: a Pan-Alberta Study</brief_title>
+  <official_title>Swallowing Therapy With the Assistance of a Mobile Health Device in Head and Neck Cancer Patients: a Pan-Alberta Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alberta</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alberta</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dysphagia affects 22% of those over the age of 50, which equates to 250 million people&#xD;
+      worldwide and 360,000 in Alberta. At high risk are survivors of head and neck cancer (70%).&#xD;
+      Difficulties with swallowing are not only life threatening and resource-intense, but also&#xD;
+      socially limiting. To regain swallowing function and avoid or reduce the consequences of&#xD;
+      dysphagia, patients require regular, intensive therapy over many months to strengthen&#xD;
+      swallowing muscles and improve swallow coordination. This therapy is often coupled with&#xD;
+      visual biofeedback that uses surface electromyography (sEMG). Despite evidence that&#xD;
+      swallowing exercises are effective when provided with an intensive regimen and when coupled&#xD;
+      with sEMG biofeedback, patients rarely receive it.&#xD;
+&#xD;
+      The primary aim of this study is to understand adherence to swallowing therapy with and&#xD;
+      without a mobile health system. Secondary aims include understanding patient reported&#xD;
+      outcomes, nutrition, health, and patient-associated costs of remote treatment.&#xD;
+&#xD;
+      Sixty adults with oropharyngeal dysphagia secondary to OPSCC treatment will be enrolled in&#xD;
+      the study. This study will follow a cross over randomized design such that all participants&#xD;
+      will be provided with both types of treatment: using pen and paper (Treatment Arm A) and&#xD;
+      using the mobile health system (Treatment Arm B).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background Dysphagia affects 22% of those over the age of 50, which equates to 250 million&#xD;
+      people worldwide and 360,000 in Alberta. At high risk are survivors of head and neck cancer&#xD;
+      (70%), stroke patients (78%), people with Parkinson's disease (82%) and those who've had a&#xD;
+      traumatic brain injury (65%). Left untreated, dysphagia has serious health consequences, such&#xD;
+      as malnutrition, aspiration pneumonia, and even death. The associated longer hospital stays&#xD;
+      and complications result in an estimated annual burden of care of $547 billion in USA. In&#xD;
+      Alberta, managing just one consequence of dysphagia (aspiration pneumonia) in patients with&#xD;
+      head and neck cancer and stroke cost the healthcare system $2.53 million CAD a year.&#xD;
+      Difficulties with swallowing are not only life threatening and resource-intense, but also&#xD;
+      socially limiting. Patients with dysphagia avoid social situations that involve eating, are&#xD;
+      disproportionately affected by depression, and miss more than 3 times the number of workdays&#xD;
+      than individuals without swallowing difficulties.&#xD;
+&#xD;
+      To regain swallowing function and avoid or reduce the aforementioned consequences of&#xD;
+      dysphagia, patients require regular, intensive therapy over many months to strengthen&#xD;
+      swallowing muscles and improve swallow coordination. This therapy is often coupled with&#xD;
+      visual biofeedback that uses surface electromyography (sEMG). sEMG biofeedback lets patients&#xD;
+      know how hard their muscles are contracting and for how long during a given exercise. sEMG&#xD;
+      biofeedback is used to teach patients how to perform exercises correctly, elicit maximum&#xD;
+      effort, and demonstrate incremental improvements in performance.&#xD;
+&#xD;
+      Despite evidence that swallowing exercises are effective when provided with an intensive&#xD;
+      regimen and when coupled with sEMG biofeedback, patients rarely receive it. This limited&#xD;
+      access stems from poor patient and clinician resources. For patients, getting to the clinic&#xD;
+      to access a clinician and the equipment is inconvenient and costly. In our clinic, the&#xD;
+      investigators estimated that only 10% of patients who would benefit from one-on-one in-clinic&#xD;
+      therapy actually came in for it. In order to cope with limited patient engagement, clinicians&#xD;
+      are more likely to manage dysphagia by providing diet modifications, by prescribing feeding&#xD;
+      tubes, and by giving patients maneuvers and exercises on a printed sheet of paper. First,&#xD;
+      these approaches to the management of dysphagia are inadequate to meet the needs of patients.&#xD;
+      Furthermore, a recent systematic review found that average adherence to dysphagia management&#xD;
+      recommendations was between 22% and 52%. Second, there will never be enough trained&#xD;
+      clinicians to meet the global need for swallowing rehabilitation. Few clinicians have the&#xD;
+      equipment needed or the time to see patients with the intensity and consistency required for&#xD;
+      improvement. This means that the solution must be mobile, must scale exponentially, and must&#xD;
+      avoid the human and resource bottleneck.&#xD;
+&#xD;
+      Mobile swallowing therapy system The Mobili-T is a mobile swallowing therapy system that&#xD;
+      provides equitable access to therapy for patients with swallowing difficulties. Mobili-T&#xD;
+      allows patients to reliably complete their prescribed intensive swallowing therapy on a daily&#xD;
+      basis, from the comfort of their own home, all while still being connected to a clinician.&#xD;
+&#xD;
+      The Mobili-T system is comprised of a mobile device, a smartphone patient app, proprietary&#xD;
+      software, and a clinician portal. The patient wears the mobile device during exercise. The&#xD;
+      mobile device uses clinical grade surface electromyography (sEMG) and sticks under the chin&#xD;
+      with an adhesive. The sEMG hardware comes with a charging dock that doubles as a carrying&#xD;
+      case.&#xD;
+&#xD;
+      The sEMG signal is wirelessly transmitted to the smartphone app. Here, the sEMG is shown to&#xD;
+      the patient customer as visual biofeedback, where the deflection of the biofeedback signal&#xD;
+      reflects the strength and duration of muscle contraction. The muscles monitored are found&#xD;
+      under the chin (submental area) and are those targeted during swallowing rehabilitation. The&#xD;
+      app uses a smart software that walks patients through a set of clinically proven swallowing&#xD;
+      exercises, uses a back-end algorithm to detect whether or not the sEMG signal collected was&#xD;
+      elicited by a swallow (as opposed to other extraneous movements such as head movements), and&#xD;
+      calculates effort targets based on the patient's abilities. Clinicians can remotely monitor&#xD;
+      patient progress, adherence, and adjust prescriptions.&#xD;
+&#xD;
+      One of the unique aspects of Mobili-T is that the investigators have involved patients and&#xD;
+      clinicians in the design from the inception of the project. The investigators also have&#xD;
+      conducted usability and feasibility research testing. Our first study was a feasibility trial&#xD;
+      with 20 patients with dysphagia secondary to head and neck cancer (submitted). The&#xD;
+      investigators evaluated whether or not patients could successfully complete swallowing&#xD;
+      therapy using the Mobili-T at home under the remote clinical supervision of our speech&#xD;
+      language pathologist. The investigators found that patients successfully used Mobili-T. Our&#xD;
+      results also showed that patients reported improved swallowing, improved confidence when&#xD;
+      eating, shorter mealtimes, and increased selection of food options.&#xD;
+&#xD;
+      Next, the investigators will conduct a pan-Alberta trial with head and neck cancer patients&#xD;
+      with the aims stated below.&#xD;
+&#xD;
+      Adherence and Swallowing outcomes research hypotheses:&#xD;
+&#xD;
+      Hypothesis 1. Adherence for swallowing therapy will be higher when using the Mobili-T system&#xD;
+      than when using the standard of care recommendations (pen and paper): as measured by diary&#xD;
+      format and objective data capture from the Mobili-T system&#xD;
+&#xD;
+      Hypothesis 2. Swallowing outcomes, as measured by patient self-perception, will see the&#xD;
+      greatest change from pre- to post-therapy in patients who have high treatment adherence.&#xD;
+&#xD;
+      Economic outcomes research hypotheses:&#xD;
+&#xD;
+      Hypothesis 3. As a group, head and neck cancer patients will span all socioeconomic&#xD;
+      circumstances; however, sustained weekly adherence of 80% or higher to therapy will be&#xD;
+      associated with a higher socioeconomic subgroup. The cost of administering swallowing therapy&#xD;
+      remotely will be estimated.&#xD;
+&#xD;
+      General study details for ITA A total for 60 patient participants will be recruited, 30 per&#xD;
+      study arm. The study will last 3 months and one week (or 13 weeks). However, the study will&#xD;
+      remain open until all participants have been recruited and have completed the trial (expected&#xD;
+      to take 1 year).&#xD;
+&#xD;
+      Participants 1.1 Recruitment. Participants will be recruited at the University of Alberta&#xD;
+      Hospital, Cross Cancer Institute, Institute for Reconstructive Sciences in Medicine, and Home&#xD;
+      Nutrition Support Program, Foothills Medical Center, Tom Baker Cancer Center and Central&#xD;
+      Alberta Cancer Center. Participants will be identified by their physicians or speech-language&#xD;
+      pathologists (SLPs). Participants also will be recruited from a pool of individuals who have&#xD;
+      contacted the research team during the feasibility trial or following media events, wishing&#xD;
+      to be notified about upcoming trials.&#xD;
+&#xD;
+      1.2 Inclusion/ Exclusion Criteria. Participants will be enrolled in the study if they have a&#xD;
+      diagnosis of oropharyngeal dysphagia secondary to treatment for squamous cell carcinoma&#xD;
+      (OPSCC). SCCs make up 90% of all HNCs. Participants will be consecutively recruited, until&#xD;
+      the sample size is achieved. Participants will be recruited any time 3 months or later&#xD;
+      post-surgery or post-(chemo)radiation therapy. This time frame was selected to avoid&#xD;
+      duplication of services for patients who may receive swallowing therapy during their&#xD;
+      radiation therapy and to target patients with chronic and stable dysphagia. Participants will&#xD;
+      be included: 1) if they have received treatment for head and neck cancer (e.g., +/-surgery,&#xD;
+      +/-radiation therapy, +/- chemotherapy), 2) if their attending speech-language pathologist&#xD;
+      has confirmed from a Modified Barium Swallow (MBS) assessment that the patient is a candidate&#xD;
+      for the effortful swallow and/or the Mendelsohn maneuver therapy. These exercises target&#xD;
+      specific physiological impairments of the swallow that are common to OPSCC patients.&#xD;
+      Participants will be excluded: 1) if they have a history of cognitive delay, 2) a history of&#xD;
+      stroke or traumatic brain injury, and 3) if they cannot reliably navigate the Mobili-T system&#xD;
+      after the training session. Participants also will be excluded if they have a beard that they&#xD;
+      are not willing to shave or partially shave (as the device adheres under the chin, on the&#xD;
+      surface of the skin). Finally, participants will be excluded if they are unable to travel to&#xD;
+      Edmonton 3 times during a 3 month period).&#xD;
+&#xD;
+      1.3 Sample Size. The investigators used a previous study to guide our sample size selection.&#xD;
+      In the cited study, a total of 79 OPSCC patients were randomized to 3 treatment arms (26 or&#xD;
+      27 patients participants per arm), where one of the treatment arms included swallowing&#xD;
+      therapy using an app. As the present study has 2 treatment arms, the investigators will&#xD;
+      recruit 52 to 60 participants.&#xD;
+&#xD;
+      2.0 General Procedure: Sixty adults with oropharyngeal dysphagia secondary to OPSCC treatment&#xD;
+      will be enrolled in the study. This study will follow a cross over randomized design such&#xD;
+      that all participants will be provided with both types of treatment: using the mobile health&#xD;
+      system and using pen and paper. Randomized allocation will be determined using Sealed&#xD;
+      Envelope, a Randomization and online database for clinical trials&#xD;
+      (https://www.sealedenvelope.com/) Once a patient expresses interest in the study/ is referred&#xD;
+      to the study by their clinician (e.g., SLP), the clinician researcher on this study, Dr. Gabi&#xD;
+      Constantinescu, will contact the participants with more information and screening questions.&#xD;
+      An electronic or hard copy version of the Letter of Information and Consent form will be&#xD;
+      shared with the patient. The information and questions are meant to ensure that patients&#xD;
+      interested in the study fit most exclusion/ inclusion criteria before traveling to Edmonton.&#xD;
+      Consent will be obtained before participants are invited to Edmonton for their first&#xD;
+      appointment.&#xD;
+&#xD;
+      The patient's attending SLP will be contacted to ensure that services are not duplicated&#xD;
+      elsewhere, that the patient is not booked for other procedures that may impact outcomes in&#xD;
+      this trial (e.g., esophageal dilation), that a swallow assessment was not recently completed&#xD;
+      and that the SLP believes the patient will be a good candidate for the swallowing therapy&#xD;
+      offered through this study. If the patient participant's Modified Barium Swallow (MBS) is&#xD;
+      available on ConnectCare, it will be further reviewed by the study team.&#xD;
+&#xD;
+      All pre-, washout, and post-treatment sessions will take place in Edmonton.&#xD;
+&#xD;
+      2.1 Pre-treatment session. The Letter of Information and Consent will be reviewed again. The&#xD;
+      MD Anderson Dysphagia Inventory (MDADI) and a Socioeconomic Status questionnaire (both&#xD;
+      described in section 3.0 Outcome Measures) will be administered. Next, Dr. Constantinescu&#xD;
+      will: (1) determine the order of treatment blocks for the participant (i.e., Group1, or Group&#xD;
+      2); (2) introduce the Mobili-T system (if applicable); (3) introduce the swallowing exercises&#xD;
+      and allow time for practice; (4) explain the treatment block format and associated documents.&#xD;
+&#xD;
+      The swallowing therapy exercises will be explained and practiced until patients can&#xD;
+      demonstrate competency on their own. This ability is defined as the successful completion of&#xD;
+      five consecutive trials of each exercise, where the success will be judged by clinical visual&#xD;
+      inspection.&#xD;
+&#xD;
+      Participants will be sent home with the Three-Day Dietary Intake Record to complete and&#xD;
+      return. Clinician(s) in this study (i.e., SLP research associate) will remotely monitor the&#xD;
+      session data sent by patient participants and will be available to answer questions and&#xD;
+      troubleshoot technology issues. Again, data will only include the number on the hardware, not&#xD;
+      patient identifiers.&#xD;
+&#xD;
+      If patient participants are randomized to the Treatment Arm with the Mobili-T system, then&#xD;
+      training with the Mobili-T will conclude once the patient appears comfortable with the&#xD;
+      device, has shown that he/ she can set up the device and start the software independently,&#xD;
+      and has demonstrated competency with the exercises. Patients will not be identified on the&#xD;
+      device, app, or clinician portal. The app simply records the serial number on the device&#xD;
+      hardware (e.g., 001). This is noted in the researcher's records (e.g., J Smith - 001).&#xD;
+&#xD;
+      2.2 Treatment blocks A and B. Patients will be asked to practice at home for 3 months&#xD;
+      targeting a daily total of 8 sets of 3 exercise types with 3 repetitions of each. The daily&#xD;
+      total target will be 72 trials (8 sets * 3 exercise types * 3 repetitions of each). Exercise&#xD;
+      type and dose will be the same for all participants, for a daily total of 24 regular saliva&#xD;
+      swallows, 24 effortful saliva swallows, and 24 Mendelsohn maneuver saliva swallows. Treatment&#xD;
+      Arm A will consist of using pen and paper to complete the exercises. This is considered&#xD;
+      standard care. Treatment Arm B will consist of using Mobili-T to complete the exercises.&#xD;
+&#xD;
+      2.3 Post-treatment session. Following the first Treatment Arm, there will be a one week&#xD;
+      washout period. During this week, as well as following the second Treatment Arm, a&#xD;
+      post-treatment session will be booked and the Three-Day Dietary Intake Record provided for&#xD;
+      home completion. This session will consist of administering the MDADI, a patient&#xD;
+      treatment-attributable costs survey, and either returning or providing the Mobili-T system.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent adherence to recommended number of exercises</measure>
+    <time_frame>The duration of the trial, up to approximately 13 weeks</time_frame>
+    <description>Daily adherence logs will be collected via diary forms completed using pen and paper for Treatment Arm A. For Treatment Arm B, daily adherence logs will be collected remotely, by the Mobili-T system Adherence can range from 0% (no adherence) to 100% (best adherence).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the MD Anderson Dysphagia Inventory (MDADI)</measure>
+    <time_frame>Basline (Pre-treatment)</time_frame>
+    <description>Patient questionnaire The MD Anderson Dysphagia Inventory (MDADI) is a validated and reliable self-administered questionnaire that was specifically designed for patients with a history of head and neck cancer. MDADI consists of 20 questions and results in 4 subscales: global, emotional, functional and physical.&#xD;
+Scores are summed, and a mean score is calculated. This mean score is multiplied by 20 to obtain a score with a range of 0 (extremely low functioning) to 100 (high functioning).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the MD Anderson Dysphagia Inventory (MDADI)</measure>
+    <time_frame>6 weeks post-baseline</time_frame>
+    <description>Patient questionnaire The MD Anderson Dysphagia Inventory (MDADI) is a validated and reliable self-administered questionnaire that was specifically designed for patients with a history of head and neck cancer. MDADI consists of 20 questions and results in 4 subscales: global, emotional, functional and physical.&#xD;
+Scores are summed, and a mean score is calculated. This mean score is multiplied by 20 to obtain a score with a range of 0 (extremely low functioning) to 100 (high functioning).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the MD Anderson Dysphagia Inventory (MDADI)</measure>
+    <time_frame>13 weeks post-baseline</time_frame>
+    <description>Patient questionnaire The MD Anderson Dysphagia Inventory (MDADI) is a validated and reliable self-administered questionnaire that was specifically designed for patients with a history of head and neck cancer. MDADI consists of 20 questions and results in 4 subscales: global, emotional, functional and physical.&#xD;
+Scores are summed, and a mean score is calculated. This mean score is multiplied by 20 to obtain a score with a range of 0 (extremely low functioning) to 100 (high functioning).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Three-Day Dietary Intake Record</measure>
+    <time_frame>Baseline (Pre-treatment)</time_frame>
+    <description>Patient questionnaire (diary entry format)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Three-Day Dietary Intake Record</measure>
+    <time_frame>6 weeks post-baseline</time_frame>
+    <description>Patient questionnaire (diary entry format)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Three-Day Dietary Intake Record</measure>
+    <time_frame>13 weeks post-baseline</time_frame>
+    <description>Patient questionnaire (diary entry format)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Health Questionnaire (EuroQoL EQ-5D)</measure>
+    <time_frame>Baseline (Pre-treatment)</time_frame>
+    <description>Patient questionnaire &quot;EuroQol consists of an association (the EuroQol Group) and a foundation (the EuroQol Research Foundation). EQ-5D is a standardised measure of health status developed by the EuroQol Group to provide a simple, generic measure of health for clinical and economic appraisal.&quot; Scores range from 0 (&quot;the worst health you can imagine&quot;) to 100 (&quot;the best health you can imagine&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Health Questionnaire (EuroQoL EQ-5D)</measure>
+    <time_frame>1 week post-baseline</time_frame>
+    <description>Patient questionnaire &quot;EuroQol consists of an association (the EuroQol Group) and a foundation (the EuroQol Research Foundation). EQ-5D is a standardised measure of health status developed by the EuroQol Group to provide a simple, generic measure of health for clinical and economic appraisal.&quot; Scores range from 0 (&quot;the worst health you can imagine&quot;) to 100 (&quot;the best health you can imagine&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Health Questionnaire (EuroQoL EQ-5D)</measure>
+    <time_frame>2 weeks post-baseline</time_frame>
+    <description>Patient questionnaire &quot;EuroQol consists of an association (the EuroQol Group) and a foundation (the EuroQol Research Foundation). EQ-5D is a standardised measure of health status developed by the EuroQol Group to provide a simple, generic measure of health for clinical and economic appraisal.&quot; Scores range from 0 (&quot;the worst health you can imagine&quot;) to 100 (&quot;the best health you can imagine&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Health Questionnaire (EuroQoL EQ-5D)</measure>
+    <time_frame>1 month post-baseline</time_frame>
+    <description>Patient questionnaire &quot;EuroQol consists of an association (the EuroQol Group) and a foundation (the EuroQol Research Foundation). EQ-5D is a standardised measure of health status developed by the EuroQol Group to provide a simple, generic measure of health for clinical and economic appraisal.&quot; Scores range from 0 (&quot;the worst health you can imagine&quot;) to 100 (&quot;the best health you can imagine&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Health Questionnaire (EuroQoL EQ-5D)</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Patient questionnaire &quot;EuroQol consists of an association (the EuroQol Group) and a foundation (the EuroQol Research Foundation). EQ-5D is a standardised measure of health status developed by the EuroQol Group to provide a simple, generic measure of health for clinical and economic appraisal.&quot; Scores range from 0 (&quot;the worst health you can imagine&quot;) to 100 (&quot;the best health you can imagine&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Health Questionnaire (EuroQoL EQ-5D)</measure>
+    <time_frame>6 months post-baseline</time_frame>
+    <description>Patient questionnaire &quot;EuroQol consists of an association (the EuroQol Group) and a foundation (the EuroQol Research Foundation). EQ-5D is a standardised measure of health status developed by the EuroQol Group to provide a simple, generic measure of health for clinical and economic appraisal.&quot; Scores range from 0 (&quot;the worst health you can imagine&quot;) to 100 (&quot;the best health you can imagine&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Health Questionnaire (EuroQoL EQ-5D)</measure>
+    <time_frame>12 months post-baseline</time_frame>
+    <description>Patient questionnaire &quot;EuroQol consists of an association (the EuroQol Group) and a foundation (the EuroQol Research Foundation). EQ-5D is a standardised measure of health status developed by the EuroQol Group to provide a simple, generic measure of health for clinical and economic appraisal.&quot; Scores range from 0 (&quot;the worst health you can imagine&quot;) to 100 (&quot;the best health you can imagine&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Socioeconomic status (SES) questionnaire</measure>
+    <time_frame>Pre-treatment</time_frame>
+    <description>Two questions on Socioeconomic Status will be administered: one question will be related to income, the other question to education level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient treatment-attributable costs</measure>
+    <time_frame>Pre-treatment</time_frame>
+    <description>Six questions related to estimates on costs associated to medical appointment visits (short answer format).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Dysphagia</condition>
+  <condition>Head and Neck Cancer</condition>
+  <arm_group>
+    <arm_group_label>Pen and Paper</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will complete swallowing exercises using printed materials and diary for tracking.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mobile health system</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will complete swallowing exercises using a mobile health system with surface electromyography (sEMG) biofeedback.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Swallowing exercise from home</intervention_name>
+    <description>Treatment Arm A will consist of using pen and paper to complete the exercises. This is considered standard care. Treatment Arm B will consist of using Mobili-T to complete the exercises.</description>
+    <arm_group_label>Mobile health system</arm_group_label>
+    <arm_group_label>Pen and Paper</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  prior diagnosis of oropharyngeal dysphagia secondary to treatment for squamous cell&#xD;
+             carcinoma (OPSCC)&#xD;
+&#xD;
+          -  3 months or later post-surgery or post-(chemo)radiation therapy&#xD;
+&#xD;
+          -  received treatment for head and neck cancer (e.g., +/-surgery, +/-radiation therapy,&#xD;
+             +/- chemotherapy)&#xD;
+&#xD;
+          -  attending speech-language pathologist has confirmed from a Modified Barium Swallow&#xD;
+             (MBS) assessment that the patient is a candidate for the effortful swallow and/or the&#xD;
+             Mendelsohn maneuver therapy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  history of cognitive delay&#xD;
+&#xD;
+          -  history of stroke or traumatic brain injury&#xD;
+&#xD;
+          -  cannot reliably navigate the Mobili-T system after the training session&#xD;
+&#xD;
+          -  have a beard or not willing to shave or partially shave&#xD;
+&#xD;
+          -  unable to travel to Edmonton 3 times during a 3 month period&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jana Rieger, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alberta</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gabriela Constantinescu, PhD</last_name>
+    <phone>780-909-0306</phone>
+    <email>constant@ualberta.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jana M Rieger, PhD</last_name>
+    <phone>780-492-4992</phone>
+    <email>jana.rieger@ualberta.ca</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 7, 2021</study_first_posted>
+  <last_update_submitted>January 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Adherence</keyword>
+  <keyword>Remote care</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,236 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04667884</url>
+  </required_header>
+  <id_info>
+    <org_study_id>201911143</org_study_id>
+    <nct_id>NCT04667884</nct_id>
+  </id_info>
+  <brief_title>Effects of Prebiotic or Probiotic Supplements on Symptoms of Functional Constipation</brief_title>
+  <official_title>Effects of Prebiotic or Probiotic Supplements on Symptoms of Functional Constipation Among Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Health Science Center of Xi'an Jiaotong University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Health Science Center of Xi'an Jiaotong University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study intends to evaluate the effects of three prebiotic solid beverages (mainly dietary&#xD;
+      fiber and prebiotics) and one probiotic solid beverage on the laxative effect of patients&#xD;
+      with functional constipation through randomized controlled trials. The influence of tract&#xD;
+      flora is expected to provide a basis for related therapies for patients with functional&#xD;
+      constipation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 15, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of bowel movements per week</measure>
+    <time_frame>week 0 to 4</time_frame>
+    <description>bowel movements will be recorded per week</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Classification of bowel status</measure>
+    <time_frame>day 0, 14, 28</time_frame>
+    <description>Classification according to the difficulty of defecation 9/5000 According to the difficulty of defecation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bristol classification of stool characteristics</measure>
+    <time_frame>day 0, 14, 28</time_frame>
+    <description>Bristol classification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>glucose</measure>
+    <time_frame>day 0, 14, 28</time_frame>
+    <description>Fasting plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HDL-C</measure>
+    <time_frame>day 0, 14, 28</time_frame>
+    <description>Fasting plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LDL-C</measure>
+    <time_frame>day 0, 14, 28</time_frame>
+    <description>Fasting plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TG</measure>
+    <time_frame>day 0, 14, 28</time_frame>
+    <description>Fasting plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tch</measure>
+    <time_frame>day 0, 14, 28</time_frame>
+    <description>Fasting plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>diversity and abundance of intestinal flora</measure>
+    <time_frame>day 0, 14, 28</time_frame>
+    <description>16s rRNA</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Constipation</condition>
+  <arm_group>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>a mixture of Xylooligosaccharides, Stachyose, Fructooligosaccharides, and Water-soluble Dietary Fiber, 12 g/d, 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>a mixture of Fructooligosaccharide, water-soluble dietary fiber, polydextrose, and isomalt oligosaccharide, 12 g/d, 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>a mixture of Polydextrose, wheat fiber, and Seed shell of Plantago rotundifolia, 12 g/d, 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group D</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>a mixture of Fructooligosaccharides, Bifidobacterium lactis HN019 and Lactobacillus rhamnosus HN001, 3 g/d, 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group E</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Maltodextrin， 3 g/d, 4 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Prebiotics or Probiotics</intervention_name>
+    <description>All the supplements were provided in solid drinks，and required to drink with plain water 35-40℃, and lifestyle intervention was provided to all the groups by reading materials.</description>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_label>Group B</arm_group_label>
+    <arm_group_label>Group C</arm_group_label>
+    <arm_group_label>Group D</arm_group_label>
+    <arm_group_label>Group E</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults: 18 to 70 years old (not less than 50% of the final population over 45 years&#xD;
+             old, and not less than 30% of men);&#xD;
+&#xD;
+          2. Patients with functional constipation (refer to Rome IV diagnostic criteria for&#xD;
+             functional constipation); * Symptoms appeared for at least 6 months before diagnosis,&#xD;
+             and met the above diagnostic criteria in the past 3 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant and lactating women;&#xD;
+&#xD;
+          2. Unable to take the test sample and complete the inspection items as required due to&#xD;
+             inability to take food by mouth, weakness, allergies or other reasons (including the&#xD;
+             inability to complete all items due to recent travel plans);&#xD;
+&#xD;
+          3. Unclear main complaint and obvious abnormal mental state;&#xD;
+&#xD;
+          4. The liver and kidney function indexes are obviously abnormal (combined with the&#xD;
+             results of physical examination within the past 1 year);&#xD;
+&#xD;
+          5. Acute gastrointestinal diseases occurred in the past month, and constipation caused by&#xD;
+             surgical operations in the past month;&#xD;
+&#xD;
+          6. Take antibiotics, laxatives or topical agents, anticholinergics, antidiarrheals&#xD;
+             frequently in the past 1 month, and the frequency is more than 1 time/week&#xD;
+&#xD;
+          7. Have been diagnosed with the following diseases: cancer (especially cancer of the&#xD;
+             digestive tract), severe enteritis, intestinal obstruction, inflammatory bowel&#xD;
+             disease, hypothyroidism, mental illness;&#xD;
+&#xD;
+          8. Have been diagnosed with the following diseases: severe systemic diseases such as&#xD;
+             stroke, heart disease, liver cirrhosis, renal failure, hematopoietic system, or&#xD;
+             qualitative intestinal diseases caused by colonoscopy or imaging display;&#xD;
+&#xD;
+          9. In the past 3 months, there are often abdominal pain, abdominal pain accompanied by&#xD;
+             changes in bowel characteristics or frequency, blood in the stool, diarrhea or&#xD;
+             involuntary weight loss;&#xD;
+&#xD;
+         10. Clinical manifestations or diseases that other researchers believe are not suitable&#xD;
+             for participating in the project.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xin Liu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Health Science Center of Xi'an Jiaotong University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xin Liu, PhD</last_name>
+    <phone>+86015009202712</phone>
+    <email>xinliu@xjtu.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Xi'an Jiaotong University</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shaanxi</state>
+        <zip>710061</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hao Lai, M.D.</last_name>
+      <phone>+86 18292039079</phone>
+      <email>18292039079@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>August 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 16, 2020</study_first_posted>
+  <last_update_submitted>December 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Health Science Center of Xi'an Jiaotong University</investigator_affiliation>
+    <investigator_full_name>Jiaomei Yang</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Constipation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

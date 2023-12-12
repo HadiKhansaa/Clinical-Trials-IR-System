@@ -1,0 +1,279 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04771741</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00099067</org_study_id>
+    <nct_id>NCT04771741</nct_id>
+  </id_info>
+  <brief_title>Opiate Free Multimodal Pain Pathway in Elective Foot and Ankle Surgery: A Prospective Study</brief_title>
+  <official_title>Opiate Free Multimodal Pain Pathway in Elective Foot and Ankle Surgery: A Prospective Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Prisma Health-Midlands</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Prisma Health-Midlands</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Orthopedic surgeons frequently prescribe and over-prescribe narcotic pain medications during&#xD;
+      the postoperative period, despite the ongoing opioid crisis in the United States. While&#xD;
+      opioid-free multimodal pathways have shown promising results, there remains a lack of&#xD;
+      published literature evaluating opiate-free multimodal pain protocols for elective outpatient&#xD;
+      foot and ankle surgeries. This study aims to evaluate post-operative pain following the use&#xD;
+      of an opioid-free pain treatment plan for patients undergoing foot and ankle surgeries.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Despite the presence and increased understanding of the opioid crisis in the United States,&#xD;
+      orthopedic surgeons frequently prescribe and over-prescribe narcotic pain medications during&#xD;
+      the postoperative period. In an effort to minimize narcotic analgesia and its potential side&#xD;
+      effects, opioid-free multimodal pathways have been developed in many orthopaedic&#xD;
+      sub-specialties with promising results. There have been early studies reporting the results&#xD;
+      of non-narcotic protocols during the intra-operative period. Likewise, there have been&#xD;
+      several studies reporting the results of inpatient non-narcotic pain protocols in select foot&#xD;
+      and ankle surgeries. However, there remains a lack of published literature evaluating&#xD;
+      opiate-free multimodal pain protocols for elective outpatient foot and ankle surgeries.&#xD;
+      Currently, our practice utilizes an opioid-free post-operative pain protocol for patients&#xD;
+      undergoing elective outpatient foot and ankle surgery. The goal of this study is to evaluate&#xD;
+      post-operative pain using this opioid-free multimodal pain protocol at days 1,3, and 8&#xD;
+      following elective outpatient foot and ankle surgery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">December 1, 2020</start_date>
+  <completion_date type="Anticipated">March 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient satisfaction with opioid-free multimodal postoperative protocol.</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Study participants will complete a survey at the 2 week follow-up visit asking yes or no if they were satisfied with the opioid-free pain management protocol.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of failure of opioid-free multimodal postoperative protocol.</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>At 2 weeks, patients will be asked yes or no if they used any additional medications for pain outside of prescriptions that were provided in the opioid-free multimodal pain protocol.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Post-operative Pain: Day 1</measure>
+    <time_frame>1 day</time_frame>
+    <description>Study participants will be asked to rate their pain using a Visual Analog Scale (VAS) from 0 (no pain) to 10 (worst pain) at post-operative day 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-operative Pain: Day 3</measure>
+    <time_frame>3 days</time_frame>
+    <description>Study participants will be asked to rate their pain using a Visual Analog Scale (VAS) from 0 (no pain) to 10 (worst pain) at post-operative day 3.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-operative Pain: Day 8</measure>
+    <time_frame>8 days</time_frame>
+    <description>Study participants will be asked to rate their pain using a Visual Analog Scale (VAS) from 0 (no pain) to 10 (worst pain) at post-operative day 8.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Bunion of Unspecified Foot</condition>
+  <condition>Bunionette of Unspecified Foot</condition>
+  <condition>Hammertoe</condition>
+  <condition>Ankle Fractures</condition>
+  <condition>Achilles Tendon Surgery</condition>
+  <arm_group>
+    <arm_group_label>Multimodal Pain Pathway</arm_group_label>
+    <description>This group will receive the multimodal pain pathway cocktail of medications. This cocktail includes:&#xD;
+Tylenol (acetominophen), 1000 mg, every 6 hours as needed for pain&#xD;
+Ketorolac (Toradol), 10 mg, every 6 hours as needed for pain until post-op day 3&#xD;
+Mobic (Meloxicam), 15 mg once daily, beginning on post-op day 4&#xD;
+Flexeril (Cyclobenzaprine), 10 mg every 8 hours as needed for pain&#xD;
+Pregabalin (Lyrica), 75 mg every 12 hours as needed for pain</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acetominophen</intervention_name>
+    <description>1,000 mg every 6 hours</description>
+    <arm_group_label>Multimodal Pain Pathway</arm_group_label>
+    <other_name>Tylenol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Toradol</intervention_name>
+    <description>10 mg every 6 hours, days 0-3</description>
+    <arm_group_label>Multimodal Pain Pathway</arm_group_label>
+    <other_name>Ketorolac</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Meloxicam</intervention_name>
+    <description>15 mg once daily, beginning post-op day 4</description>
+    <arm_group_label>Multimodal Pain Pathway</arm_group_label>
+    <other_name>Mobic</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclobenzaprine</intervention_name>
+    <description>10 mg every 8 hours</description>
+    <arm_group_label>Multimodal Pain Pathway</arm_group_label>
+    <other_name>Flexeril</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lyrica</intervention_name>
+    <description>75 mg every 12 hours</description>
+    <arm_group_label>Multimodal Pain Pathway</arm_group_label>
+    <other_name>Pregabalin</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Included in this study will be adult outpatient, elective, primary foot and ankle surgery&#xD;
+        that is not due to infection performed at Prisma Health Orthopedics.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≥18 years of age&#xD;
+&#xD;
+          -  Outpatient, elective, primary foot and ankle surgery not due to infection including:&#xD;
+&#xD;
+          -  Bunion or bunionette surgery, hammertoe surgery, ankle fracture, Achilles tendon&#xD;
+             surgery (primary mid-substance repair, Haglund's deformity correction with&#xD;
+             debridement), ankle arthroscopy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  &lt;18 years of age&#xD;
+&#xD;
+          -  Undergoing revision surgery&#xD;
+&#xD;
+          -  Allergic to more than 1 medication listed in protocol&#xD;
+&#xD;
+          -  Creatinine clearance &gt;1.5&#xD;
+&#xD;
+          -  Known end-stage renal, stage 2 or higher&#xD;
+&#xD;
+          -  History of GI bleed, ulcer, NSAID-induced gastritis, and/or gastric bypass&#xD;
+&#xD;
+          -  History of active liver disease or Child-Pugh Class 2 liver failure or above&#xD;
+&#xD;
+          -  History of pain syndromes including: fibromyalgia, complex regional pain&#xD;
+             syndrome/reflex sympathetic dystrophy, hyperalgesia&#xD;
+&#xD;
+          -  Inability to undergo regional anesthesia due to inability to obtain nerve block, prior&#xD;
+             nerve damage or anatomy, or anesthesiologic best judgement&#xD;
+&#xD;
+          -  Currently pregnant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>J. Benjamin Jackson, MD, MBA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Prisma Health-Midlands</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Prisma Health Midlands</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Haddad DK, Sherman OH. Developing opioid prescribing recommendations in the postoperative orthopedic setting. J Opioid Manag. 2019 Jul/Aug;15(4):333-341. doi: 10.5055/jom.2019.0518.</citation>
+    <PMID>31637685</PMID>
+  </reference>
+  <reference>
+    <citation>Janakiram C, Fontelo P, Huser V, Chalmers NI, Lopez Mitnik G, Brow AR, Iafolla TJ, Dye BA. Opioid Prescriptions for Acute and Chronic Pain Management Among Medicaid Beneficiaries. Am J Prev Med. 2019 Sep;57(3):365-373. doi: 10.1016/j.amepre.2019.04.022. Epub 2019 Aug 1.</citation>
+    <PMID>31377093</PMID>
+  </reference>
+  <reference>
+    <citation>Young JD, Bhashyam AR, Qudsi RA, Parisien RL, Shrestha S, van der Vliet QMJ, Fils J, Losina E, Dyer GSM. Cross-Cultural Comparison of Postoperative Discharge Opioid Prescribing After Orthopaedic Trauma Surgery. J Bone Joint Surg Am. 2019 Jul 17;101(14):1286-1293. doi: 10.2106/JBJS.18.01022.</citation>
+    <PMID>31318808</PMID>
+  </reference>
+  <reference>
+    <citation>Bean BA, Connor PM, Schiffern SC, Hamid N. Outpatient Shoulder Arthroplasty at an Ambulatory Surgery Center Using a Multimodal Pain Management Approach. J Am Acad Orthop Surg Glob Res Rev. 2018 Oct 23;2(10):e064. doi: 10.5435/JAAOSGlobal-D-18-00064. eCollection 2018 Oct.</citation>
+    <PMID>30656252</PMID>
+  </reference>
+  <reference>
+    <citation>Seki H, Ideno S, Ishihara T, Watanabe K, Matsumoto M, Morisaki H. Postoperative pain management in patients undergoing posterior spinal fusion for adolescent idiopathic scoliosis: a narrative review. Scoliosis Spinal Disord. 2018 Sep 12;13:17. doi: 10.1186/s13013-018-0165-z. eCollection 2018. Review.</citation>
+    <PMID>30214945</PMID>
+  </reference>
+  <reference>
+    <citation>Garcia RM, Cassinelli EH, Messerschmitt PJ, Furey CG, Bohlman HH. A multimodal approach for postoperative pain management after lumbar decompression surgery: a prospective, randomized study. J Spinal Disord Tech. 2013 Aug;26(6):291-7. doi: 10.1097/BSD.0b013e318246b0a6.</citation>
+    <PMID>23887076</PMID>
+  </reference>
+  <reference>
+    <citation>Seiter M, Aiyer A. Current Trends in Anesthesia Management in Hallux Valgus. Foot Ankle Clin. 2020 Mar;25(1):47-57. doi: 10.1016/j.fcl.2019.10.002. Epub 2019 Nov 20. Review.</citation>
+    <PMID>31997746</PMID>
+  </reference>
+  <reference>
+    <citation>Lee JK, Kang C, Hwang DS, Lee GS, Hwang JM, Park EJ, Ga IH. An Innovative Pain Control Method Using Peripheral Nerve Block and Patient-Controlled Analgesia With Ketorolac After Bone Surgery in the Ankle Area: A Prospective Study. J Foot Ankle Surg. 2020 Jul - Aug;59(4):698-703. doi: 10.1053/j.jfas.2019.12.001. Epub 2020 Feb 10.</citation>
+    <PMID>32057624</PMID>
+  </reference>
+  <reference>
+    <citation>Michelson JD, Addante RA, Charlson MD. Multimodal analgesia therapy reduces length of hospitalization in patients undergoing fusions of the ankle and hindfoot. Foot Ankle Int. 2013 Nov;34(11):1526-34. doi: 10.1177/1071100713496224. Epub 2013 Jul 8.</citation>
+    <PMID>23836812</PMID>
+  </reference>
+  <reference>
+    <citation>McDonald EL, Daniel JN, Rogero RG, Shakked RJ, Nicholson K, Pedowitz DI, Raikin SM, Bilolikar V, Winters BS. How Does Perioperative Ketorolac Affect Opioid Consumption and Pain Management After Ankle Fracture Surgery? Clin Orthop Relat Res. 2020 Jan;478(1):144-151. doi: 10.1097/CORR.0000000000000978.</citation>
+    <PMID>31567579</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 25, 2021</study_first_posted>
+  <last_update_submitted>February 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hammer Toe Syndrome</mesh_term>
+    <mesh_term>Ankle Fractures</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acetaminophen</mesh_term>
+    <mesh_term>Ketorolac</mesh_term>
+    <mesh_term>Ketorolac Tromethamine</mesh_term>
+    <mesh_term>Meloxicam</mesh_term>
+    <mesh_term>Pregabalin</mesh_term>
+    <mesh_term>Cyclobenzaprine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

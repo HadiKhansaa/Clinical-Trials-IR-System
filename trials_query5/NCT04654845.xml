@@ -1,0 +1,310 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04654845</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PULP</org_study_id>
+    <nct_id>NCT04654845</nct_id>
+  </id_info>
+  <brief_title>Patient Perception Between Two Emergency Treatments of Symptomatic Irreversible Pulpitis.</brief_title>
+  <official_title>Patient Perception Between Two Emergency Treatments of Symptomatic Irreversible Pulpitis. A Randomized Multicenter Clinical Trial.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aula Dental Avanzada</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Aula Dental Avanzada</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate in a comparative way the perception of the patient who comes with pain due to&#xD;
+      irreversible pulpitis in a tooth and who receives two types of treatment: complete pulpectomy&#xD;
+      (or control group) or pulpotomy (or experimental group).&#xD;
+&#xD;
+      Prospective randomized and multicenter study. It will be carried out in 4 centers of similar&#xD;
+      socio-professional characteristics, with the same operative protocol. On a significant sample&#xD;
+      of emergency patients with a concrete clinical manifestation of symptomatic irreversible&#xD;
+      pulpitis, one type of intervention or another will be performed randomly. The data will be&#xD;
+      collected by means of a visual numeric scale (NRS).&#xD;
+&#xD;
+      The null hypothesis is that both interventions provide the same reduction of pain in patients&#xD;
+      who present symptomatic irreversible pulpitis.&#xD;
+&#xD;
+      All the patients who come to one of the private centers with irreversible pulpitis and who&#xD;
+      meet the defined criteria for inclusion and exclusion will be selected.&#xD;
+&#xD;
+      The type of procedure that will be performed in the control group will be the complete&#xD;
+      removal of the pulp by means of a defined instrumentation technique, also called Pulpectomy.&#xD;
+      The procedure to be performed in the experimental group will be the removal of the pulp only&#xD;
+      at coronal level, also called Pulpotomy. The interventions will be assigned randomly and the&#xD;
+      &quot;List Randomizer&quot; (random.org) will be used for the randomization.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Clinical procedure will be the same in both groups with regard to the anesthetic technique,&#xD;
+      and the cavity access and provisional closure of the aperture. The characteristics of both&#xD;
+      interventions will be described in detail in order to homogenize the procedures. The patient&#xD;
+      will be conveniently informed before requesting his/her Informed Consent for his/her&#xD;
+      voluntary participation in the study. Their identification data will be treated in accordance&#xD;
+      with the provisions of Regulation (EU) 2016/679 of the European Parliament and Council of&#xD;
+      April 27, 2016, and the Organic Law 3/2018 of 5/12, currently in force, will remain in&#xD;
+      custody at the Center where they receive treatment and will not be shared by the other&#xD;
+      centers of the study.&#xD;
+&#xD;
+      The patient will not be aware of the type of procedure he has been assigned for and will&#xD;
+      express in a numerical scale according to his perception of the pain on 4 occasions: before&#xD;
+      starting treatment, at 8-12, 24 and 72 hours after treatment. Likewise, right after receiving&#xD;
+      the treatment, he will answer some questions related to the degree of comfort during the&#xD;
+      treatment and about his perception of the time of the intervention.&#xD;
+&#xD;
+      Data sheets will be collected and treated statistically.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 16, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 16, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants with irreversible pulpitis are randomly assigned to one type of intervention.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>The patient will not be aware of the type of procedure he has been assigned for.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patients´ pain perception</measure>
+    <time_frame>Through study completion, an average of 1 year.</time_frame>
+    <description>The patient's perception of the degree of post-operative pain following emergency treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Procedure time</measure>
+    <time_frame>Through study completion, an average of 1 year.</time_frame>
+    <description>The time it takes for each procedure.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Irreversible Pulpitis</condition>
+  <arm_group>
+    <arm_group_label>Pulpotomy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Only the tissue in the pulp chamber will be removed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pulpectomy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Both the chamber´s and root´s pulp tissue will be removed up to a 25 gauge.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Pulpotomy</intervention_name>
+    <description>Access to pulp chamber. Removal of the pulp chamber tissue. Use of Sodium Hypochlorite (5.25% NaCl) during the whole procedure and in the amount considered appropriate by each operator.&#xD;
+Wait until confirmation of absence of bleeding from the conducts. Placement of polytetrafluroethylene in pulp chamber. Placement of temporary filling. Reduction of the occlusal surface of the tooth until there is no contact with the articulating paper from 200μ.</description>
+    <arm_group_label>Pulpotomy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Pulpectomy</intervention_name>
+    <description>Access to pulp chamber. Removal of the pulp chamber tissue. Use of Sodium Hypochlorite (5.25% NaCl) during the whole procedure and in the amount considered appropriate by each operator.&#xD;
+Establishment of working length by means of Electronic Apex Locator and a number 8 K file.&#xD;
+Access to all conducts with a number 10 K file. Rotary instrumentation with one reciprocating system up to working length and up to an apical diameter of 25.&#xD;
+Placement of polytetrafluroethylene in pulp chamber. No intermediate medication will be filled into the conducts.&#xD;
+Placement of temporary filling. Reduction of the occlusal surface of the tooth until there is no contact with the articulating paper from 200μ.</description>
+    <arm_group_label>Pulpectomy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient in American Society of Anesthesiologists I or II condition.&#xD;
+&#xD;
+          -  Patient who comes to the emergency room with irreversible pulpitis in a single tooth.&#xD;
+&#xD;
+          -  Patients of age &gt;20 years.&#xD;
+&#xD;
+          -  Positive response to the vitality test and bleeding after pulp exposure.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  American Society of Anesthesiologists patients&gt;II.&#xD;
+&#xD;
+          -  Pharmacological allergies that contraindicate the intervention.&#xD;
+&#xD;
+          -  Teeth with negative vitality test and no bleeding after pulp exposure.&#xD;
+&#xD;
+          -  Signs of concomitant periodontal infection such as swelling or fistula.&#xD;
+&#xD;
+          -  Teeth with immature roots.&#xD;
+&#xD;
+          -  Patients who are medicated with anxiolytics.&#xD;
+&#xD;
+          -  Abuse of psychotropic drugs or medication that may alter the perception of pain 15&#xD;
+             days before the intervention.&#xD;
+&#xD;
+          -  Pregnant or breast-feeding women.&#xD;
+&#xD;
+          -  Interventions with conscious sedation.&#xD;
+&#xD;
+          -  Pathological mental state (dementia, psychosis).&#xD;
+&#xD;
+          -  Lack of collaboration or non-acceptance of the consent of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Guillem Esteve-Pardo, DDS</last_name>
+    <phone>+34 965215755</phone>
+    <email>guillem@clinicaesteve.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clínica Dental 4</name>
+      <address>
+        <city>Ferrol</city>
+        <state>A Coruña</state>
+        <zip>15402</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pedro Barreiro-Gabeiras, DDS</last_name>
+    </contact>
+    <investigator>
+      <last_name>Pedro Barreiro-Gabeiras, DDS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clínica Dental Corbalán</name>
+      <address>
+        <city>Ceutí</city>
+        <state>Murcia</state>
+        <zip>30562</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alejandro Pagán-Ruiz, DDS</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alejandro Pagán-Ruiz, DDS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Dental Navarro Ferri</name>
+      <address>
+        <city>Cullera</city>
+        <state>Valencia</state>
+        <zip>46400</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Juan Navarro-Ferri, DDS</last_name>
+    </contact>
+    <investigator>
+      <last_name>Juan Navarro-Ferri, DDS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clínica Dental esteve</name>
+      <address>
+        <city>Alicante</city>
+        <zip>03001</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Guillem Esteve-Pardo, DDS</last_name>
+      <phone>+34 965215755</phone>
+      <email>guillem@clinicaesteve.es</email>
+    </contact>
+    <investigator>
+      <last_name>Guillem Esteve-Pardo, DDS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Gatewood RS, Himel VT, Dorn SO. Treatment of the endodontic emergency: a decade later. J Endod. 1990 Jun;16(6):284-91.</citation>
+    <PMID>2074427</PMID>
+  </reference>
+  <reference>
+    <citation>Lee M, Winkler J, Hartwell G, Stewart J, Caine R. Current trends in endodontic practice: emergency treatments and technological armamentarium. J Endod. 2009 Jan;35(1):35-9. doi: 10.1016/j.joen.2008.10.007.</citation>
+    <PMID>19084121</PMID>
+  </reference>
+  <reference>
+    <citation>Nyerere JW, Matee MI, Simon EN. Emergency pulpotomy in relieving acute dental pain among Tanzanian patients. BMC Oral Health. 2006 Jan 21;6:1.</citation>
+    <PMID>16426455</PMID>
+  </reference>
+  <reference>
+    <citation>Pak JG, White SN. Pain prevalence and severity before, during, and after root canal treatment: a systematic review. J Endod. 2011 Apr;37(4):429-38. doi: 10.1016/j.joen.2010.12.016. Review.</citation>
+    <PMID>21419285</PMID>
+  </reference>
+  <results_reference>
+    <citation>Eghbal MJ, Haeri A, Shahravan A, Kazemi A, Moazami F, Mozayeni MA, Saberi E, Samiei M, Vatanpour M, Akbarzade Baghban A, Fazlyab M, Parhizkar A, Ahmadi M, Akbarian Rad N, Bijari S, Bineshmarvasti D, Davoudi P, Dehghan R, Dehghani M, Ebrahimi H, Emami N, Farajian N, Fereidooni R, Ghobadi G, Ghodrati M, Gohari A, Hashemi A, Hosseini M, Karami E, Kheirabadi N, Kozegari S, Labaf Ghasemi H, Majidi A, Malekzadeh P, Mehrabi V, Mohammadi M, Moradi Eslami L, Noghani A, Omatali N, Pourhatami N, Rahbani Nobar B, Rahmani S, Shafaq P, Soofiabadi S, Teimoori S, Vatandoost F, Asgary S. Postendodontic Pain after Pulpotomy or Root Canal Treatment in Mature Teeth with Carious Pulp Exposure: A Multicenter Randomized Controlled Trial. Pain Res Manag. 2020 Jun 30;2020:5853412. doi: 10.1155/2020/5853412. eCollection 2020.</citation>
+    <PMID>32676136</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Eren B, Onay EO, Ungor M. Assessment of alternative emergency treatments for symptomatic irreversible pulpitis: a randomized clinical trial. Int Endod J. 2018 Apr;51 Suppl 3:e227-e237. doi: 10.1111/iej.12851. Epub 2017 Oct 16.</citation>
+    <PMID>28857203</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Oguntebi BR, DeSchepper EJ, Taylor TS, White CL, Pink FE. Postoperative pain incidence related to the type of emergency treatment of symptomatic pulpitis. Oral Surg Oral Med Oral Pathol. 1992 Apr;73(4):479-83.</citation>
+    <PMID>1574311</PMID>
+  </results_reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 4, 2020</study_first_posted>
+  <last_update_submitted>December 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Aula Dental Avanzada</investigator_affiliation>
+    <investigator_full_name>Guillem Esteve-Pardo</investigator_full_name>
+    <investigator_title>DDS</investigator_title>
+  </responsible_party>
+  <keyword>Pulpotomy</keyword>
+  <keyword>Pulpectomy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulpitis</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

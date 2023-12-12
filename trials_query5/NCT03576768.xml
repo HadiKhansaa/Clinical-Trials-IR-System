@@ -1,0 +1,849 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03576768</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00074769</org_study_id>
+    <nct_id>NCT03576768</nct_id>
+  </id_info>
+  <brief_title>QuitFast: Evaluating Transcranial Magnetic Stimulation as a Tool to Reduce Smoking Directly Following a Quit Attempt</brief_title>
+  <official_title>QuitFast: Evaluating Transcranial Magnetic Stimulation as a Tool to Reduce Smoking Directly Following a Quit Attempt</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Virginia Tech Carilion School of Medicine and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical University of South Carolina</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cigarette smoking constitutes the greatest preventable cause of mortality and morbidity in&#xD;
+      the US. The most critical period for long term success of smoking cessation appears to be in&#xD;
+      the first 7 days after the quit date. A metaanalysis of 3 pharmacotherapy trials revealed&#xD;
+      that abstinence during the first 7 days was the strongest predictor of 6 month outcomes&#xD;
+      (n=1649; Odds ratio: 1.4, P &lt;0.0001; Ashare et al. 2013). Prodigious relapse rates during&#xD;
+      this first week of smoking cessation are likely due to behavioral and neurobiological factors&#xD;
+      that contribute to high cue-associated craving and low executive control over smoking. The&#xD;
+      long term goal of the research is to develop evidence-based transcranial magnetic stimulation&#xD;
+      protocols to facilitate abstinence during this critical period.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The competing neurobehavioral decision systems (CNDS) theory posits that in addiction, choice&#xD;
+      results from a regulatory imbalance between two decision systems (impulsive and executive).&#xD;
+      These behavioral systems are functionally linked to two discrete frontal-striatal circuits&#xD;
+      which regulate limbic and executive control. Modulating these competing neural circuits (e.g.&#xD;
+      either dampening the limbic/impulsive system or amplifying the executive control system), may&#xD;
+      render smokers less vulnerable to factors associated with relapse. The scientific premise for&#xD;
+      the proposed research is that direct modulation of these neural circuits will induce changes&#xD;
+      in cigarette valuation and brain reactivity to smoking cues.&#xD;
+&#xD;
+      However, the relative efficacy of targeting one or the other systems is unknown. To address&#xD;
+      this gap the investigators will target the two components derived from the CNDS.&#xD;
+&#xD;
+      These two frontal-striatal neural circuits - the limbic loop (ventromedial prefrontal cortex&#xD;
+      (vmPFC)-ventral striatum), and executive control loop (dorsolateral PFC (dlPFC)-dorsal&#xD;
+      striatum) can be differentially stimulated by theta burst stimulation (TBS), a patterned form&#xD;
+      of transcranial magnetic stimulation (TMS). Continuous TBS (cTBS) results in long term&#xD;
+      depression (LTD) of cortical excitability and intermittent TBS (iTBS) results in potentiation&#xD;
+      (LTP). Recent studies by our group have demonstrated that LTD-like cTBS to the vmPFC (Aim 1)&#xD;
+      attenuates brain activity in the nucleus accumbens (Hanlon et al. 2015) and salience network&#xD;
+      (2017). In a collaborative MUSC/VTCRI study, 5 days of vmPFC cTBS reduced the value of&#xD;
+      cigarettes, preference for immediate gratification, and smoking cue-evoked brain activity.&#xD;
+      Alternatively, other investigators have demonstrated that LTP-like stimulation to the dlPFC&#xD;
+      (Aim 2) decreases cigarette craving and cigarette use. These studies support the targets&#xD;
+      specified by CNDS. The investigators will evaluate the relative efficacy of these 2&#xD;
+      strategies as novel tools to change smoking-related behaviors and dampen brain reactivity to&#xD;
+      cues in two double-blind, sham-controlled neuroimaging studies. The investigators long-term&#xD;
+      vision is that TBS would be used as an acute intervention enabling individuals to get through&#xD;
+      the first week after a smoking quit attempt without relapsing, and transition to more&#xD;
+      sustainable mechanisms of behavioral change (e.g., medication, cognitive behavioral therapy).&#xD;
+&#xD;
+      Aim 1 (Strategy 1): Modulating the limbic system as an approach to treatment: vmPFC cTBS.&#xD;
+      Cigarette smokers will be randomized to receive 10 days of real cTBS or sham cTBS directed to&#xD;
+      the vmPFC. Intermittently the desire to smoke, cigarette value using behavioral economic&#xD;
+      demand, preference for immediate gratification (delay discounting), and cigarette&#xD;
+      self-administration will be assessed. Smoking cue-evoked brain activity will also be measured&#xD;
+      when individuals are asked to 'crave' (passive limbic engagement) versus 'resist' the craving&#xD;
+      (executive engagement). The investigators hypothesize that cTBS will: 1) decrease the&#xD;
+      behavioral smoking measures described above, which will be explained by a selective 2)&#xD;
+      decrease in the neural response to cues when individuals 'allow' themselves to crave, and 3)&#xD;
+      sustain these changes over a time period sufficient to overcome the initial quit attempt&#xD;
+      (~7-14 days).&#xD;
+&#xD;
+      Aim 2 (Strategy 2): Modulating the executive system as an approach to treatment: dlPFC iTBS.&#xD;
+      Aim 2 will follow the design of Aim 1. The procedures will be identical, except iTBS will be&#xD;
+      delivered to the left dlPFC. The investigators hypothesize that iTBS will: 1) decrease the&#xD;
+      behavioral smoking measures described above, which will be explained by a selective 2)&#xD;
+      increase in the neural response to cues when individuals attempt to 'resist' the cues, and&#xD;
+      again 3) sustain these changes over a similar period as specified in Aim 1.&#xD;
+&#xD;
+      Exploratory Aim: Evaluate baseline frontal striatal connectivity and discounting rate as&#xD;
+      factors to predict an individual's likelihood of responding to Strategy 1 versus Strategy 2.&#xD;
+      The investigators will test the hypotheses that individuals with a higher ratio of&#xD;
+      (vmPFC-striatal)/(dlPFC-striatal) connectivity will be more likely to have a behavioral&#xD;
+      change after Strategy 1. Various demographics (e.g. gender, smoking history, socioeconomic&#xD;
+      status, subclinical depressive symptoms, self-efficacy, &amp; motivation to quit will be&#xD;
+      evaluated as explanatory variables.&#xD;
+&#xD;
+      The outcomes of the present aims will resolve a critical gap in the investigator's knowledge&#xD;
+      regarding the relative efficacy of 2 promising TMS treatment strategies. These outcomes will&#xD;
+      be directly translated to a larger longitudinal study evaluating a multipronged approach to&#xD;
+      improving outcomes in traditional pharmacotherapy or behavioral treatments.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Study terminated due to PI leaving the institution.&#xD;
+  </why_stopped>
+  <start_date type="Actual">September 4, 2018</start_date>
+  <completion_date type="Actual">October 25, 2019</completion_date>
+  <primary_completion_date type="Actual">October 25, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Cigarette Dependence After 10 Days of Treatment</measure>
+    <time_frame>Baseline and 10 days</time_frame>
+    <description>The Fagerstrom Test for Nicotine Dependence will be measured at Visit 1 and after 10 days of treatment (Visit 10). In scoring the Fagerstrom Test for Nicotine Dependence, yes/no items are scored from 0 to 1 and multiple-choice items are scored from 0 to 3. The items are summed to yield a total score of 0-10. The higher the total Fagerstrom score, the more intense is the patient's physical dependence on nicotine. .For this outcome we will measure the difference in the score for those that completed the study. This difference will be compared between the study arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Urge for a Cigarette</measure>
+    <time_frame>Baseline and 10 days</time_frame>
+    <description>The urge for a cigarette will be measured at Visit 1 and after 10 days of treatment (Visit 10) using the Questionnaire of Smoking Urges 10 question assessment with a scoring range of 0-100. The lower the score, the lower the urge to smoke a cigarette. The higher the score, the higher the urge to smoke a cigarette. For this outcome we will measure the difference at Visit 10 versus Visit 1 for those that completed the study. This difference will be compared between the study arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Cigarette Use</measure>
+    <time_frame>Baseline and 10 days</time_frame>
+    <description>The number of cigarettes smoked in the previous week will be measured at Visit 1 and after 10 days of treatment (Visit 10) via an environmental momentary assessment which is passed on self-report. The dependent measure will be a 'count' of cigarettes. The difference will be compared between the study arms.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">25</enrollment>
+  <condition>Smoking, Cigarette</condition>
+  <condition>Craving</condition>
+  <condition>Addiction</condition>
+  <condition>Nicotine</condition>
+  <arm_group>
+    <arm_group_label>Real cTBS to the vmPFC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ten sessions of real continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham cTBS to the vmPFC</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Ten sessions of sham continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Real iTBS to the dlPFC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ten sessions of real intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham iTBS to the dlPFC</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Ten sessions of sham intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Real cTBS</intervention_name>
+    <description>This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key)</description>
+    <arm_group_label>Real cTBS to the vmPFC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham cTBS</intervention_name>
+    <description>This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+    <arm_group_label>Sham cTBS to the vmPFC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Real iTBS</intervention_name>
+    <description>This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key).</description>
+    <arm_group_label>Real iTBS to the dlPFC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham iTBS</intervention_name>
+    <description>This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+    <arm_group_label>Sham iTBS to the dlPFC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18 70 (to maximize participation, and minimize effects of cortical atrophy on&#xD;
+             neuroimaging data)&#xD;
+&#xD;
+          2. Current cigarette smoker&#xD;
+&#xD;
+          3. Able to read and understand questionnaires and informed consent.&#xD;
+&#xD;
+          4. Has accommodations within 50 miles of the study site.&#xD;
+&#xD;
+          5. Is not at elevated risk of seizure (i.e., does not have a history of seizures, is not&#xD;
+             currently prescribed medications known to lower seizure threshold)&#xD;
+&#xD;
+          6. Does not have metal objects in the head/neck.&#xD;
+&#xD;
+          7. Does not have a history of traumatic brain injury, including a head injury that&#xD;
+             resulted in hospitalization, loss of consciousness for more than 10 minutes, or having&#xD;
+             ever been informed that they have an epidural, subdural, or subarachnoid hemorrhage.&#xD;
+&#xD;
+          8. Does not have a history of claustrophobia leading to significant clinical anxiety&#xD;
+             symptoms.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any psychoactive illicit substance use (except marijuana, alcohol, and nicotine)&#xD;
+             within the last 30 days by self-report and urine drug screen. For marijuana, no use&#xD;
+             within the last seven days by verbal report and negative (or decreasing) urine THC&#xD;
+             levels. Participation will be discontinued if participants use psychoactive illicit&#xD;
+             substances (except nicotine and alcohol) after study initiation.&#xD;
+&#xD;
+          2. Meets DSM IV criteria for current axis I disorders of major depression, panic&#xD;
+             disorder, obsessive-compulsive disorder, post traumatic stress syndrome, bipolar&#xD;
+             affective disorder, schizophrenia, dissociate disorders, eating disorders, and any&#xD;
+             other psychotic disorder or organic mental disorder.&#xD;
+&#xD;
+          3. Has current suicidal ideation or homicidal ideation.&#xD;
+&#xD;
+          4. Has the need for r acute treatment with any psychoactive medication including&#xD;
+             anti-seizure medications and medications for ADHD.&#xD;
+&#xD;
+          5. Females of childbearing potential who are pregnant (by urine HCG), nursing, or who are&#xD;
+             not using a reliable form of birth control.&#xD;
+&#xD;
+          6. Has current charges pending for a violent crime (not including DUI related offenses).&#xD;
+&#xD;
+          7. Does not have a stable living situation.&#xD;
+&#xD;
+          8. Suffers from chronic migraines.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Colleen A Hanlon, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>June 12, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 21, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 3, 2018</study_first_posted>
+  <results_first_submitted>October 27, 2020</results_first_submitted>
+  <results_first_submitted_qc>March 1, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 24, 2021</results_first_posted>
+  <last_update_submitted>March 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Transcranial Magnetic Stimulation</keyword>
+  <keyword>Brain Stimulation</keyword>
+  <keyword>Treatment</keyword>
+  <keyword>Neuroimaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Behavior, Addictive</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No individual participant data will be shared. All data is de-identified.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 11, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/68/NCT03576768/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Real cTBS to the vmPFC</title>
+          <description>Ten sessions of real continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Real cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key)</description>
+        </group>
+        <group group_id="P2">
+          <title>Sham cTBS to the vmPFC</title>
+          <description>Ten sessions of sham continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+        </group>
+        <group group_id="P3">
+          <title>Real iTBS to the dlPFC</title>
+          <description>Ten sessions of real intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Real iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key).</description>
+        </group>
+        <group group_id="P4">
+          <title>Sham iTBS to the dlPFC</title>
+          <description>Ten sessions of sham intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="12"/>
+                <participants group_id="P3" count="0">The study was ended before recruitment into this arm started.</participants>
+                <participants group_id="P4" count="0">The study was ended before recruitment into this arm started.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="9"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>The study was ended before recruitment into the Real iTBS and Sham iTBS arms started.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Real cTBS to the vmPFC</title>
+          <description>Ten sessions of real continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Real cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key)</description>
+        </group>
+        <group group_id="B2">
+          <title>Sham cTBS to the vmPFC</title>
+          <description>Ten sessions of sham continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+        </group>
+        <group group_id="B3">
+          <title>Real iTBS to the dlPFC</title>
+          <description>Ten sessions of real intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Real iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key).</description>
+        </group>
+        <group group_id="B4">
+          <title>Sham iTBS to the dlPFC</title>
+          <description>Ten sessions of sham intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="13"/>
+            <count group_id="B2" value="12"/>
+            <count group_id="B3" value="0"/>
+            <count group_id="B4" value="0"/>
+            <count group_id="B5" value="25"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B5" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B5" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B5" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B5" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B5" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B5" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Cigarette Dependence After 10 Days of Treatment</title>
+        <description>The Fagerstrom Test for Nicotine Dependence will be measured at Visit 1 and after 10 days of treatment (Visit 10). In scoring the Fagerstrom Test for Nicotine Dependence, yes/no items are scored from 0 to 1 and multiple-choice items are scored from 0 to 3. The items are summed to yield a total score of 0-10. The higher the total Fagerstrom score, the more intense is the patient's physical dependence on nicotine. .For this outcome we will measure the difference in the score for those that completed the study. This difference will be compared between the study arms.</description>
+        <time_frame>Baseline and 10 days</time_frame>
+        <population>Data was analyzed for all participants that completed the experiment per protocol</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Real cTBS to the vmPFC</title>
+            <description>Ten sessions of real continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Real cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key)</description>
+          </group>
+          <group group_id="O2">
+            <title>Sham cTBS to the vmPFC</title>
+            <description>Ten sessions of sham continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+          </group>
+          <group group_id="O3">
+            <title>Real iTBS to the dlPFC</title>
+            <description>Ten sessions of real intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Real iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key).</description>
+          </group>
+          <group group_id="O4">
+            <title>Sham iTBS to the dlPFC</title>
+            <description>Ten sessions of sham intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Cigarette Dependence After 10 Days of Treatment</title>
+          <description>The Fagerstrom Test for Nicotine Dependence will be measured at Visit 1 and after 10 days of treatment (Visit 10). In scoring the Fagerstrom Test for Nicotine Dependence, yes/no items are scored from 0 to 1 and multiple-choice items are scored from 0 to 3. The items are summed to yield a total score of 0-10. The higher the total Fagerstrom score, the more intense is the patient's physical dependence on nicotine. .For this outcome we will measure the difference in the score for those that completed the study. This difference will be compared between the study arms.</description>
+          <population>Data was analyzed for all participants that completed the experiment per protocol</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="0"/>
+                <count group_id="O4" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.70" spread="0.99"/>
+                    <measurement group_id="O2" value="-1.44" spread="0.96"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Urge for a Cigarette</title>
+        <description>The urge for a cigarette will be measured at Visit 1 and after 10 days of treatment (Visit 10) using the Questionnaire of Smoking Urges 10 question assessment with a scoring range of 0-100. The lower the score, the lower the urge to smoke a cigarette. The higher the score, the higher the urge to smoke a cigarette. For this outcome we will measure the difference at Visit 10 versus Visit 1 for those that completed the study. This difference will be compared between the study arms.</description>
+        <time_frame>Baseline and 10 days</time_frame>
+        <population>The study was ended before individuals were randomized into the Real iTBS and Sham iTBS arms</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Real cTBS to the vmPFC</title>
+            <description>Ten sessions of real continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Real cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key)</description>
+          </group>
+          <group group_id="O2">
+            <title>Sham cTBS to the vmPFC</title>
+            <description>Ten sessions of sham continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+          </group>
+          <group group_id="O3">
+            <title>Real iTBS to the dlPFC</title>
+            <description>Ten sessions of real intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Real iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key).</description>
+          </group>
+          <group group_id="O4">
+            <title>Sham iTBS to the dlPFC</title>
+            <description>Ten sessions of sham intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Urge for a Cigarette</title>
+          <description>The urge for a cigarette will be measured at Visit 1 and after 10 days of treatment (Visit 10) using the Questionnaire of Smoking Urges 10 question assessment with a scoring range of 0-100. The lower the score, the lower the urge to smoke a cigarette. The higher the score, the higher the urge to smoke a cigarette. For this outcome we will measure the difference at Visit 10 versus Visit 1 for those that completed the study. This difference will be compared between the study arms.</description>
+          <population>The study was ended before individuals were randomized into the Real iTBS and Sham iTBS arms</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="0"/>
+                <count group_id="O4" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-29.2" spread="11.04"/>
+                    <measurement group_id="O2" value="-28.8" spread="14.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Cigarette Use</title>
+        <description>The number of cigarettes smoked in the previous week will be measured at Visit 1 and after 10 days of treatment (Visit 10) via an environmental momentary assessment which is passed on self-report. The dependent measure will be a 'count' of cigarettes. The difference will be compared between the study arms.</description>
+        <time_frame>Baseline and 10 days</time_frame>
+        <population>The study ended before participants were randomized to the Real and Sham iTBS arms.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Real cTBS to the vmPFC</title>
+            <description>Ten sessions of real continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Real cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key)</description>
+          </group>
+          <group group_id="O2">
+            <title>Sham cTBS to the vmPFC</title>
+            <description>Ten sessions of sham continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+          </group>
+          <group group_id="O3">
+            <title>Real iTBS to the dlPFC</title>
+            <description>Ten sessions of real intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Real iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key).</description>
+          </group>
+          <group group_id="O4">
+            <title>Sham iTBS to the dlPFC</title>
+            <description>Ten sessions of sham intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Cigarette Use</title>
+          <description>The number of cigarettes smoked in the previous week will be measured at Visit 1 and after 10 days of treatment (Visit 10) via an environmental momentary assessment which is passed on self-report. The dependent measure will be a 'count' of cigarettes. The difference will be compared between the study arms.</description>
+          <population>The study ended before participants were randomized to the Real and Sham iTBS arms.</population>
+          <units>cigarettes</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="0"/>
+                <count group_id="O4" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.55" spread="1.01"/>
+                    <measurement group_id="O2" value="8.89" spread="1.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse Events were collected over the course of the study until study termination which was 2 months.</time_frame>
+      <desc>The study was ended before any participants were randomized to the real or Sham iTBS arms.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Real cTBS to the vmPFC</title>
+          <description>Ten sessions of real continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Real cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key)</description>
+        </group>
+        <group group_id="E2">
+          <title>Sham cTBS to the vmPFC</title>
+          <description>Ten sessions of sham continuous Theta Burst Stimulation (cTBS) will be delivered to the left medial prefrontal cortex (mPFC) (1 train of stimulation over the left frontal pole (FP1); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 40 sec, 600 pulses/train, 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham cTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+        </group>
+        <group group_id="E3">
+          <title>Real iTBS to the dlPFC</title>
+          <description>Ten sessions of real intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Real iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key).</description>
+        </group>
+        <group group_id="E4">
+          <title>Sham iTBS to the dlPFC</title>
+          <description>Ten sessions of sham intermittent Theta Burst Stimulation (iTBS) will be delivered to the left dorsolateral prefrontal cortex (dlPFC) (20 trains of stimulation over dlPFC (middle frontal gyrus) (F3); each train: 3 pulse bursts presented at 5Hz, 15 pulses/sec for 2 sec, 8 sec rest, 200 pulses/train; 110% RMT, MagPro; 600 pulses total)&#xD;
+Sham iTBS: This will be delivered with the Magventure Magpro system; 600 pulses with the active sham coil (double blinded using the USB key). The MagVenture MagPro system has an integrated active sham that passes current through two surface electrodes placed on the skin beneath the B60 coil.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <description>Migraine headache</description>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="0"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Colleen Hanlon, PhD</name_or_title>
+      <organization>Medical University of South Carolina</organization>
+      <phone>843-792-9888</phone>
+      <email>hanlon@musc.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

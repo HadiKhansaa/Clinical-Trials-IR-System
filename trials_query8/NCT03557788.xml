@@ -1,0 +1,403 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03557788</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2017/00977</org_study_id>
+    <nct_id>NCT03557788</nct_id>
+  </id_info>
+  <brief_title>Changes in Microbiota and Metabolomic Profile Between Rifaximin Responders and Non-responders In Diarrhoea-Predominant Irritable Bowel Syndrome</brief_title>
+  <official_title>Changes in Microbiota and Metabolomic Profile Between Rifaximin Responders and Non-responders In Diarrhoea-Predominant Irritable Bowel Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National University Hospital, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National University, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National University Hospital, Singapore</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Irritable Bowel Syndrome (IBS) carries a high prevalence worldwide and imposes substantial&#xD;
+      economic burden on patients, healthcare systems and society. In recent years, dysbiosis of&#xD;
+      the gut microbiota and bile acid (BA) malabsorption have been identified as putative&#xD;
+      pathophysiological mechanisms. Bile acid metabolism and gut microbiota are closely related.&#xD;
+      When patients with IBS-D were compared to healthy subjects, total levels of faecal BAs do not&#xD;
+      differ, but increased faecal primary BAs and reduced secondary BAs have been repeatedly&#xD;
+      observed in patients with IBS-D, suggesting abnormal BA deconjugation. Rifaximin, a&#xD;
+      non-absorbable antibiotic, has been shown in a recent meta-analysis to produce a therapeutic&#xD;
+      clinical gain compared to other treatment options for IBS, including placebo, paralleled by a&#xD;
+      high safety profile. It is also now known that changes in fecal microbiota have been observed&#xD;
+      in patients with IBS who have responded positively to Rifaximin. The relationship between&#xD;
+      microbiota changes, metabolomics changes after Rifaximin is unclear. There is emerging data&#xD;
+      to suggest duodenal dysbiosis as a putative pathophysiology, which in one study, clustered&#xD;
+      together with salivary microbiota than with fecal microbiota. However, the oral microbiome in&#xD;
+      patients with IBS has never been explored, which could possibly explain the downstream&#xD;
+      observations of duodenal and fecal dysbiosis. The investigators aim to assess the changes in&#xD;
+      metabolomic and microbiota profile after Rifaximin treatment, between responders and&#xD;
+      non-responders. The investigators will also explore the oral microbiome in IBS patients, and&#xD;
+      assess its relationship with fecal microbiome between responders and non-responders.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary hypothesis of the study is that amongst responders to Rifaximin, fecal primary&#xD;
+      BAs will be significantly reduced, and faecal secondary BAs significantly increased after&#xD;
+      treatment.&#xD;
+&#xD;
+      The secondary hypotheses include:&#xD;
+&#xD;
+        1. Reduction in Escherichia and increase in Lactobacillus after treatment, as a possible&#xD;
+           mechanism to explain the increased deconjugation of primary BAs observed.&#xD;
+&#xD;
+        2. Oral microbiome correlates with gut microbiome dysbiosis in IBS-D subjects.&#xD;
+&#xD;
+        3. Rifaximin therapy alters both oral and gut microbiota, and that responders to Rifaximin&#xD;
+           harbour different microbiota compared to non-responders.&#xD;
+&#xD;
+             1. Primary Objectives Primary Objective: To compare oral microbiome and fecal&#xD;
+                microbiome in IBS-D patients before and after Rifaximin, examining differences&#xD;
+                between responders and non-responders.&#xD;
+&#xD;
+             2. Secondary Objectives Secondary objectives: To examine the differences between stool&#xD;
+                and salivary metabolomics, urinary metabolomics and serum immunomics and&#xD;
+                metabolomics, between responders and non-responders to Rifaximin in IBS-D subjects.&#xD;
+&#xD;
+      Responders to Rifaximin will be defined as patients having a 50 point or more reduction in&#xD;
+      the IBS Symptom Severity Score (IBS-SSS) after treatment. This indicates that the patient has&#xD;
+      experienced a significant improvement in the reduction of symptoms. The IBS-SSS is a&#xD;
+      well-validated questionnaire that is patient-administered. This questionnaire will be&#xD;
+      administered at Day 0 and Day 14 of Rifaximin.&#xD;
+&#xD;
+      Up to 50 subjects with Diarrhoea-predominant Irritable Bowel Syndrome (IBS-D) will be&#xD;
+      recruited from the National University Hospital Gastroenterology clinic and Singapore General&#xD;
+      Hospital Gastroenterology clinic. There will be subject restrictions on race, so as to limit&#xD;
+      variation due to inter-racial differences and ensure homogeneity in the subject population.&#xD;
+&#xD;
+      Determination of Sample Size Adopted from the sample size calculation table for human&#xD;
+      microbiome studies by La Rosa (La Rosa et al. 2012), the study will require 15 subjects to&#xD;
+      have 80% power at p&lt;0.05 significance level. To account for multiple testing, investigators&#xD;
+      will require at least 25 subjects for each category to have 90% power at p&lt;0.01 significance&#xD;
+      level. The investigating team will be recruiting a total of 40 respondents and 40&#xD;
+      non-respondents from both NUH and SGH.&#xD;
+&#xD;
+      Statistical and Analytical Plans Pair-wise comparison will be conducted between the 2 sample&#xD;
+      groups for differences in the microbiome. Concordance will be examined between the oral and&#xD;
+      fecal groups, both before and after treatment. Identified species will be examined for&#xD;
+      possible metabolic pathways based on their genetic profiles generated by the metagenomic&#xD;
+      analysis.&#xD;
+&#xD;
+      Data Quality Assurance Demographics will be collected from the patient medical records. The&#xD;
+      oral conditions will be recorded in data collection form after oral examinations. The data&#xD;
+      collection form will be checked and signed off by PI. All the records will be entered twice&#xD;
+      into database by the delegated study team members to ensure accuracy of data.&#xD;
+&#xD;
+      Data Entry and Storage Initial collection will be on paper-based data collection form. All&#xD;
+      subjects will be assigned a unique study subject code and the data collection form will be&#xD;
+      labelled with subject recruitment number. The de-identified data will be transferred into&#xD;
+      analysis software and kept on an encrypted flash drive kept by the delegated study team&#xD;
+      members. The data collection form will be put in lockable cabinet for 6 years after study&#xD;
+      completion, being accessed by study team only. De-identified data may be provided to a&#xD;
+      biostatistician for further analysis.&#xD;
+&#xD;
+      Study Visits and Procedures This is a multi-centre open-label prospective cohort study.&#xD;
+      Recruited subjects will be patients who are newly diagnosed IBS-D, who undergo a two-week&#xD;
+      course of Rifaximin as indicated by their primary physician. Patients with symptomatic&#xD;
+      improvement (responders) after treatment will be compared to patients who do not improve&#xD;
+      (non-responders), based on a validated IBS Symptom Severity Score. As this is a cohort study,&#xD;
+      there will be no randomization or blinding. All patients will receive Rifaximin and no&#xD;
+      placebo will be used.&#xD;
+&#xD;
+      The study will consist of the following phases:&#xD;
+&#xD;
+      Visit 1: Screening The screening phase will include assessing eligibility based on the&#xD;
+      inclusion and exclusion criteria, obtaining informed consent, followed by a one-week symptom,&#xD;
+      bowel and 3-day dietary diary. All subjects will undergo further oral examination to&#xD;
+      determine oral status such as caries and periodontal status. This is to accurately evaluate&#xD;
+      the patient's baseline symptoms, bowel and dietary habits. Patients will be given a stool&#xD;
+      collection kit for collection of stool sample (10-20g) to be returned before or at the next&#xD;
+      visit.&#xD;
+&#xD;
+      Visit 2: Enrolment and treatment (Day 1 Rifaximin) After the screening phase, patients will&#xD;
+      complete the IBS-SSS, and will be enrolled if a score of 300 or greater is obtained. Urine&#xD;
+      (50ml), saliva (5-10ml), 2 buccal swabs and blood samples (20ml) will be obtained during this&#xD;
+      visit as well.&#xD;
+&#xD;
+      Patients will then initiate Rifaximin for two weeks. During these two weeks, patients will&#xD;
+      continue the symptom, bowel and 3-day dietary dairy, and also whether they have remembered to&#xD;
+      take their medication, and any side effects observed.&#xD;
+&#xD;
+      Visit 3: Follow-up post-treatment (Day 14 Rifaximin) Patients will be asked to provide stool&#xD;
+      (10-20g), urine (50ml), saliva (5-10ml), 2 buccal swabs and blood samples (20ml) again at or&#xD;
+      1-week after Day 14, and repeat the IBS-SSS. The diaries will be collected, and compliance to&#xD;
+      medication will be verified.&#xD;
+&#xD;
+      Subjects who discontinue the study early due to an AE will be followed until resolution or&#xD;
+      stabilization of the event.&#xD;
+&#xD;
+      Visit 4: Review of symptoms 90 days after completing Rifaximin treatment. Patients will be&#xD;
+      asked to repeat the IBS-SSS. The symptom, bowel and 3-day dietary dairy will be collected and&#xD;
+      patients will be asked to provide stool (10-20g), urine (50ml), saliva (5-10ml), 2 buccal&#xD;
+      swabs and blood samples (20ml).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date type="Actual">May 7, 2018</start_date>
+  <completion_date type="Anticipated">May 7, 2019</completion_date>
+  <primary_completion_date type="Anticipated">May 7, 2019</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in IBS-SSS questionnaire</measure>
+    <time_frame>Start of Rifaximin treatment (Visit 2, which is 1 week after first/screening visit), End of Rifaximin treatment (Visit 3, which is 2 weeks after Visit 2), and 3 months after end of treatment (Visit 4)</time_frame>
+    <description>Severity of IBS-D will be measured using IBS-SSS questionnaire, at baseline (visit 2) and at completion of 2 week course of Rifaximin (Visit 3) as well as 3 months after end of Rifaximin (Visit 4). A responder will be defined as a reduction of IBS-SSS by more than 50 points.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Irritable Bowel Syndrome With Diarrhea</condition>
+  <arm_group>
+    <arm_group_label>Rifaximin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who receive PO Rifaximin 500mg TDS for 2 weeks. All patients will receive treatment to evaluate the effect of the intervention. This is a single-arm study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rifaximin Oral Tablet</intervention_name>
+    <description>PO 550mg TDS for 2 weeks</description>
+    <arm_group_label>Rifaximin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  A subject will be eligible for inclusion in this study if he/she meets all of the&#xD;
+             following criteria:&#xD;
+&#xD;
+               1. Chinese subjects between 21 to 65 years of age.&#xD;
+&#xD;
+               2. Male or female Females of childbearing (reproductive) potential must have a&#xD;
+                  negative serum pregnancy test at screening and agree to use an acceptable method&#xD;
+                  of contraception throughout their participation in the study. Acceptable methods&#xD;
+                  of contraception include double barrier methods (condom with spermicide jelly or&#xD;
+                  diaphragm with spermicide), hormonal methods (oral contraceptives, patches or&#xD;
+                  medroxyprogesterone acetate), or an intrauterine device (IUD) with a documented&#xD;
+                  failure rate of less than 1% per year. Abstinence may be considered an acceptable&#xD;
+                  method of contraception at the discretion of the investigator.&#xD;
+&#xD;
+                  Note: Females who have been surgically sterilized (eg, hysterectomy or bilateral&#xD;
+                  tubal ligation) or who are postmenopausal (total cessation of menses for &gt;1 year)&#xD;
+                  will not be considered &quot;females of childbearing potential&quot;.&#xD;
+&#xD;
+               3. Subject has IBS-D confirmed by the Rome III or IV diagnostic criteria below:&#xD;
+&#xD;
+                  a. Rome IV Criteria: i. Recurrent abdominal pain, on average, at least 1 day per&#xD;
+                  week in the last 3 months, associated with 2 or more of the following criteria:&#xD;
+&#xD;
+               1. Related to defecation&#xD;
+&#xD;
+               2. Associated with a change in frequency of stool&#xD;
+&#xD;
+               3. Associated with a change in form (appearance) of stool ii. Criteria fulfilled for&#xD;
+                  the last 3 months with symptom onset at least 6 months before diagnosis b. Rome&#xD;
+                  III Criteria: i. Recurrent abdominal pain or discomfort at least 3 days/month in&#xD;
+                  the last 3 months associated with two or more of the following:&#xD;
+&#xD;
+               1. Improvement with defecation&#xD;
+&#xD;
+               2. Onset associated with a change in frequency of stool&#xD;
+&#xD;
+               3. Onset associated with a change in form (appearance) of stool ii. Criterion&#xD;
+                  fulfilled for the last 3 months with symptom onset at least 6 months prior to&#xD;
+                  diagnosis iii. &quot;Discomfort&quot; means an uncomfortable sensation not described as&#xD;
+                  pain. iv. Pain/discomfort frequency of at least 2 days a week. c. IBS-Diarrhoea&#xD;
+                  (IBS-D) i. Predominant bowel habits are based on stool form on days with at least&#xD;
+                  one abnormal bowel movement. Subtyping based on at least 2 weeks of daily diary&#xD;
+                  data is recommended, using the &quot;25% rule.&quot; Subtyping established when the patient&#xD;
+                  is evaluated off medications used to treat bowel habit abnormalities. Patients&#xD;
+                  must have more than 25% of bowel movements with Bristol stool form types 6 or 7&#xD;
+                  and less than 25% of bowel movements with Bristol stool form types 1 or 2.&#xD;
+&#xD;
+               4. Subject does not have adequate relief of IBS symptoms on the first day of&#xD;
+                  screening (Day 0) and has an IBS-SSS of at least 300 out of 500.&#xD;
+&#xD;
+               5. Subject had a colonic evaluation (either colonoscopy or CT Colonography) within&#xD;
+                  the last 5 years as part of an evaluation for IBS or IBS symptoms (which excludes&#xD;
+                  inflammatory or neoplastic disease).&#xD;
+&#xD;
+               6. Subject must maintain a stable diet for the duration of the study.&#xD;
+&#xD;
+               7. Subject is capable of understanding the requirements of the study, is willing to&#xD;
+                  comply with all study procedures, understands the language of the informed&#xD;
+                  consent form, and is capable and willing to sign the informed consent form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A subject will not be eligible for inclusion in this study if he/she meets any of the&#xD;
+             following criteria:&#xD;
+&#xD;
+               1. Subject has other forms of IBS (Constipation predominant, Alternating, or Mixed)&#xD;
+&#xD;
+               2. Subject has failed to record at least 3 days of the daily diary assessments&#xD;
+                  during the Screening Phase.&#xD;
+&#xD;
+               3. Subject has current evidence of duodenal ulcer, gastric ulcer, diverticulitis, or&#xD;
+                  infectious gastroenteritis. Note: Subjects with gastroesophageal reflux disease&#xD;
+                  controlled by stable doses of medication or diet are eligible to participate in&#xD;
+                  the study&#xD;
+&#xD;
+               4. Subject has a history of inflammatory bowel disease (eg, Crohn's disease,&#xD;
+                  ulcerative colitis, celiac disease), GI malignancy, GI obstruction,&#xD;
+                  gastroparesis, carcinoid syndrome, pancreatitis, amyloidosis, ileus or&#xD;
+                  cholelithiasis&#xD;
+&#xD;
+               5. Subject has diabetes (Type 1 or Type 2)&#xD;
+&#xD;
+               6. History of surgery to remove a segment of the gastrointestinal tract or bariatric&#xD;
+                  surgery for obesity, or cholecystectomy at any time&#xD;
+&#xD;
+               7. Appendectomy within 2 months or other abdominal surgeries within 6 months before&#xD;
+                  entry into the trial&#xD;
+&#xD;
+               8. Subject has a positive stool test for Yersinia enterocolitica, Campylobacter&#xD;
+                  jejuni, Salmonella, Shigella, ovum and parasites, and/or Clostridium difficile&#xD;
+&#xD;
+               9. Subject who has psychiatric disorders which are not controlled (&quot;controlled&quot; is&#xD;
+                  based on the Investigator's medical judgment); subjects with psychoses are&#xD;
+                  excluded regardless of current therapy.&#xD;
+&#xD;
+              10. Subject has current or recent history (within 12 months before signing informed&#xD;
+                  consent) of drug, laxative or alcohol abuse&#xD;
+&#xD;
+              11. Subject is pregnant or lactating&#xD;
+&#xD;
+              12. Subject has a history of human immunodeficiency virus (HIV) or hepatitis (B or C)&#xD;
+&#xD;
+              13. Subject has a history of abnormal thyroid function not controlled by thyroid&#xD;
+                  medications&#xD;
+&#xD;
+              14. Subject has unstable cardiovascular or pulmonary disease, categorized by a&#xD;
+                  worsening in the disease condition that required a change in treatment or medical&#xD;
+                  care within 1 month of randomization&#xD;
+&#xD;
+              15. Subject has known allergy to rifaximin or rifampin or excipients&#xD;
+&#xD;
+              16. Subject has participated in an investigational drug or device study within the 30&#xD;
+                  days prior to signing informed consent&#xD;
+&#xD;
+              17. Subject has active malignancy within the last 5 years (exceptions: basal cell&#xD;
+                  carcinomas of the skin, or if female, in situ cervical carcinoma that has been&#xD;
+                  surgically excised)&#xD;
+&#xD;
+              18. Subject has ever taken Rifaximin prior to this study&#xD;
+&#xD;
+              19. Antibiotics and probiotic consumption within the last1 month.&#xD;
+&#xD;
+              20. Drugs that could alter GI transit time or microbiome, or bile acid sequestrants.&#xD;
+                  These include antidiarrheals (eg, loperamide), narcotics, prokinetic drugs.&#xD;
+&#xD;
+        NOTE: Tricyclic antidepressants and serotonin re-uptake inhibitors are allowed if the&#xD;
+        subject is at stable doses for at least 6 weeks prior to signing informed consent and the&#xD;
+        dose will remain stable throughout the duration of the study.&#xD;
+&#xD;
+        Medication to be avoided&#xD;
+&#xD;
+        The following concomitant medications are to be avoided if possible, after initiation of&#xD;
+        the diary eligibility period and throughout the study:&#xD;
+&#xD;
+          -  Any experimental drugs&#xD;
+&#xD;
+          -  Probiotic supplements&#xD;
+&#xD;
+          -  Antibiotics&#xD;
+&#xD;
+          -  Antipsychotic drugs&#xD;
+&#xD;
+          -  Antispasmodics&#xD;
+&#xD;
+          -  Antidiarrheals (eg, loperamide and bismuth subsalicylate)&#xD;
+&#xD;
+          -  IBS drugs (e.g., Alosetron)&#xD;
+&#xD;
+          -  Lubiprostone&#xD;
+&#xD;
+          -  Narcotics (specifically opioid analgesics)&#xD;
+&#xD;
+          -  Prokinetic drugs&#xD;
+&#xD;
+          -  Warfarin&#xD;
+&#xD;
+          -  Nonsteroidal anti-inflammatory drugs are prohibited if used for the treatment of IBS&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Soh Yu Sen, Alex</name>
+      <address>
+        <city>Singapore</city>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alex Soh, MB BCh, MRCP, FAMS</last_name>
+      <phone>+6567724354</phone>
+      <email>alex_ys_soh@nuhs.edu.sg</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>May 2018</verification_date>
+  <study_first_submitted>May 2, 2018</study_first_submitted>
+  <study_first_submitted_qc>June 4, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 15, 2018</study_first_posted>
+  <last_update_submitted>June 4, 2018</last_update_submitted>
+  <last_update_submitted_qc>June 4, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 15, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Rifaximin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Irritable Bowel Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Diarrhea</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rifaximin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

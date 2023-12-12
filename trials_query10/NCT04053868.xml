@@ -1,0 +1,381 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04053868</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-28309</org_study_id>
+    <secondary_id>2R01DA039264-04A1</secondary_id>
+    <nct_id>NCT04053868</nct_id>
+  </id_info>
+  <brief_title>Evaluating the Comparative Pharmacokinetics of Nicotine After Administration Via JUUL or Tobacco Cigarettes</brief_title>
+  <official_title>Evaluating the Comparative Pharmacokinetics of Nicotine After Administration Via JUUL or Tobacco Cigarettes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an observational, crossover design that will examine the pharmacokinetics and&#xD;
+      pharmacodynamics of impact of smoking tobacco cigarettes or vaping the JUUL electronic&#xD;
+      cigarette.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of this study is to better understand the pharmacokinetic and pharmacodynamics&#xD;
+      responses produced by the JUUL e-cigarette, compared to tobacco cigarettes, in e-cigarette&#xD;
+      and tobacco cigarette smokers.&#xD;
+&#xD;
+      Specific Aim #1- To categorize the nicotine pharmacokinetic (PK) profile (maximum plasma&#xD;
+      concentration; time to maximum plasma concentration and area under the concentration-time&#xD;
+      curve) and compare when using the JUUL e-cigarette vs. a tobacco cigarette in a standardized&#xD;
+      manner.&#xD;
+&#xD;
+      Specific Aim #2- To categorize the nicotine PK profile (maximum plasma concentration; time to&#xD;
+      maximum plasma concentration and area under the concentration-time curve(AUC)) and compare&#xD;
+      when using the JUUL e-cigarette vs a tobacco cigarette when using the product ad libitum.&#xD;
+&#xD;
+      Specific Aim #3- To evaluate various outcomes following JUUL e-cigarette or tobacco cigarette&#xD;
+      use, both with standardized and ad lib use including: heart rate, plasma catecholamines,&#xD;
+      pulmonary function testing.&#xD;
+&#xD;
+      Specific Aim #4- To evaluate and compare the effects on craving, reward and satisfaction when&#xD;
+      using the JUUL e-cigarette vs. tobacco cigarette.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 9, 2019</start_date>
+  <completion_date type="Anticipated">August 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Nicotine Exposure</measure>
+    <time_frame>6 Hours</time_frame>
+    <description>Plasma nicotine area under the concentrated time curve (AUC) (ng/ml*h)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular Effects: Heart Rate</measure>
+    <time_frame>Hospital Days 1-2</time_frame>
+    <description>Participant heart rate will be measured in beats per minute throughout both inpatient stays on each arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular Effects: Systolic Blood Pressure</measure>
+    <time_frame>Hospital Days 1-2</time_frame>
+    <description>Participant systolic blood pressure will be taken during e-cigarette and/or tobacco cigarette use on each arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular Effects: Diastolic Blood Pressure</measure>
+    <time_frame>Hospital Days 1-2</time_frame>
+    <description>Participant diastolic blood pressure will be taken during e-cigarette and/or tobacco cigarette use on each arm.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Nicotine Administration &amp; Dosage</condition>
+  <condition>E-cigarettes</condition>
+  <condition>Vaping</condition>
+  <condition>E-Liquid</condition>
+  <condition>Tobacco Smoking</condition>
+  <arm_group>
+    <arm_group_label>Electronic Cigarette</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants will participate in a standardized vaping session using a JUUL E-cigarette device with a JUUL e-liquid pod.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tobacco Cigarette</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants will participate in a standardized smoking session using commercial tobacco cigarettes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>JUUL</intervention_name>
+    <description>Electronic Cigarette</description>
+    <arm_group_label>Electronic Cigarette</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Tobacco</intervention_name>
+    <description>Tobacco Cigarette</description>
+    <arm_group_label>Tobacco Cigarette</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy on the basis of medical history and limited physical examination, as described&#xD;
+             below:&#xD;
+&#xD;
+          -  - Heart rate &lt; 105 beats per minute (bpm)&#xD;
+&#xD;
+          -  - - Considered out of range if both machine and manual readings are above/below these&#xD;
+             thresholds.&#xD;
+&#xD;
+          -  - Systolic Blood Pressure &lt; 160 and &gt; 90*&#xD;
+&#xD;
+          -  - Diastolic Blood Pressure &lt; 100 and &gt; 50*&#xD;
+&#xD;
+          -  Age: &gt;= 21 &amp; &lt;=70 years old&#xD;
+&#xD;
+          -  Body Mass Index (BMI) &lt;= 38.0 (at PI's discretion for higher BMI if no other&#xD;
+             concurrent health issues)&#xD;
+&#xD;
+          -  Willingness to avoid combusted marijuana up to 48 hours before each study visit&#xD;
+&#xD;
+          -  Nicotine strength of e-liquid of usual e-cigarette &gt; 0 mg/ml&#xD;
+&#xD;
+          -  Group 1 Experienced E-cigarette users&#xD;
+&#xD;
+          -  - Current use of tobacco cigarettes (&lt;5 cigarettes per day)&#xD;
+&#xD;
+          -  - Current e-cigarette use at least 15 days out of the past 30 days of a non-mod&#xD;
+             e-cigarette&#xD;
+&#xD;
+          -  Group 2 Primary Tobacco cigarette users:&#xD;
+&#xD;
+          -  - Currently smoking &gt;= 5 cigarettes per day&#xD;
+&#xD;
+          -  - Current e-cigarette use must be &lt; 5 times per month&#xD;
+&#xD;
+          -  Saliva cotinine &gt;=50 ng/ml or urine cotinine and/or NicAlert=6&#xD;
+&#xD;
+          -  Must have a smart phone, computer, or tablet and internet access (for remote&#xD;
+             procedures)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Medical&#xD;
+&#xD;
+          -  - Heart disease&#xD;
+&#xD;
+          -  - Seizures&#xD;
+&#xD;
+          -  - Cancer&#xD;
+&#xD;
+          -  - Thyroid disease (okay if controlled with medication)&#xD;
+&#xD;
+          -  - Diabetes&#xD;
+&#xD;
+          -  - Hepatitis B or C or Liver disease&#xD;
+&#xD;
+          -  - Glaucoma&#xD;
+&#xD;
+          -  - Kidney disease or urinary retention&#xD;
+&#xD;
+          -  - History of stroke&#xD;
+&#xD;
+          -  - An ulcer in the past year&#xD;
+&#xD;
+          -  - Active use of an inhaler for Asthma or Chronic Obstructive Pulmonary Disease (COPD)&#xD;
+&#xD;
+          -  Psychiatric conditions&#xD;
+&#xD;
+          -  - Current or past schizophrenia, and/or current or past bipolar disorder&#xD;
+&#xD;
+          -  - Major depression, current or within the past year&#xD;
+&#xD;
+          -  - Major personality disorder&#xD;
+&#xD;
+          -  - Participants with current or past minor or moderate depression and/or anxiety&#xD;
+             disorders will be reviewed by the principal investigator (PI) and/or medical monitor&#xD;
+             and considered for inclusion&#xD;
+&#xD;
+          -  - History of psychiatric hospitalizations are not exclusionary, but study&#xD;
+             participation will be determined as per PI's or medical monitor's approval&#xD;
+&#xD;
+          -  Drug/Alcohol Dependence&#xD;
+&#xD;
+          -  - Alcohol or illicit drug dependence within the past 12 months with the exception of&#xD;
+             those who have recently completed an alcohol/drug treatment program&#xD;
+&#xD;
+          -  - Positive toxicology test for illicit drugs at the screening visit&#xD;
+             (Tetrahydrocannabinol (THC) &amp; prescribed medications okay)&#xD;
+&#xD;
+          -  - Opioid replacement therapy (including methadone, buprenorphine, or other)&#xD;
+&#xD;
+          -  Psychiatric medications&#xD;
+&#xD;
+          -  - Current regular use of any psychiatric medications is exclusionary, with the&#xD;
+             exception of Selective Serotonin Reuptake Inhibitor (SSRI) and&#xD;
+             serotonin-norepinephrine reuptake Inhibitor (SNRI) and current evaluation by the PI&#xD;
+             and/or medical monitor that the participant is otherwise healthy, stable, and able to&#xD;
+             participate&#xD;
+&#xD;
+          -  Medications&#xD;
+&#xD;
+          -  - Use of sympatholytic medications for cardiovascular conditions including&#xD;
+             hypertension (Example: beta and alpha-blockers)&#xD;
+&#xD;
+          -  - Use of medications that are inducers of nicotine metabolizing enzyme CYP2A6&#xD;
+             (Example: rifampicin, carbamazepine, phenobarbital, and other anticonvulsant drugs)&#xD;
+&#xD;
+          -  - Concurrent use of nicotine-containing medications&#xD;
+&#xD;
+          -  - Any stimulant medications (example: Adderall) generally given for attention deficit&#xD;
+             hyperactivity disorder (ADHD) treatment&#xD;
+&#xD;
+          -  Use of Other Tobacco Products (OTP)&#xD;
+&#xD;
+          -  - Any of the following products in combination more than 15 times in the past month&#xD;
+&#xD;
+          -  - - smokeless tobacco (snus, oral snuff, chewing tobacco)&#xD;
+&#xD;
+          -  - - pipes&#xD;
+&#xD;
+          -  - - cigars, cigarillos, little cigars&#xD;
+&#xD;
+          -  - - blunts, spliffs&#xD;
+&#xD;
+          -  - - hookah&#xD;
+&#xD;
+          -  Other/Misc. Chronic Health Conditions&#xD;
+&#xD;
+          -  Fainting (within the last 30 days)&#xD;
+&#xD;
+          -  Other &quot;life threatening illnesses&quot; as per PI's or medical monitor's discretion&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  - Pregnancy (self-reported and urine pregnancy test)&#xD;
+&#xD;
+          -  - Breastfeeding (determined by self-report)&#xD;
+&#xD;
+          -  Concurrent participation in another clinical trial (at PI's discretion)&#xD;
+&#xD;
+          -  Inability to read and write in English&#xD;
+&#xD;
+          -  Planning to quit smoking or vaping within the next 60 days&#xD;
+&#xD;
+          -  Recent onset or change (worsening) in cough, fever and/or abdominal symptoms (vomiting&#xD;
+             or pain) in the past two weeks&#xD;
+&#xD;
+          -  Diagnosis of pneumonia in the past 3 months&#xD;
+&#xD;
+          -  Uncomfortable with blood draws&#xD;
+&#xD;
+          -  Known allergy to propylene glycol or vegetable glycerin&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neal L Benowitz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sundos Yassin</last_name>
+    <phone>(628) 206-8955</phone>
+    <email>sundos.yassin@ucsf.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jeremy P Giberson, BS</last_name>
+    <phone>415-706-6023</phone>
+    <email>jeremy.giberson@ucsf.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Zuckerberg San Francisco General Hospital</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeremy P Giberson, BS</last_name>
+      <phone>415-706-6023</phone>
+      <email>jeremy.giberson@ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sundos Yassin, BS</last_name>
+      <phone>(628) 206-8955</phone>
+      <email>sundos.yassin@ucsf.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Neal L Benowitz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gideon St. Helen, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeremy P Giberson, BS</last_name>
+      <phone>415-706-6023</phone>
+      <email>jeremy.giberson@ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sundos Yassin</last_name>
+      <phone>(628) 206-8955</phone>
+      <email>sundos.yassin@ucsf.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Neal L Benowitz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gideon St. Helen, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>August 9, 2019</study_first_submitted>
+  <study_first_submitted_qc>August 9, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 13, 2019</study_first_posted>
+  <last_update_submitted>April 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

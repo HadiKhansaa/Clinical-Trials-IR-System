@@ -1,0 +1,162 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03660592</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LUS/HF</org_study_id>
+    <nct_id>NCT03660592</nct_id>
+  </id_info>
+  <brief_title>Contribution and Reproducibility of Lung Ultrasound in the Diagnosis of Acute Heart Failure in the ED</brief_title>
+  <official_title>Contribution LUS and Reproducibility of Lung Ultrasound in the Diagnosis of Acute Heart Failure in the Emergency Department (ED)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Monastir</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Monastir</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Discrimination between cardiac and non-cardiac causes of dyspnea can be challenging, causing&#xD;
+      excessive delay before adequate therapy. In clinical practice lung ultrasound (LUS) is&#xD;
+      becoming an easy and reliable noninvasive tool for the evaluation of dyspnea and can shorten&#xD;
+      the time to diagnosis .However the reproductibility of this test was not extensively studied.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Dyspnea is one of the most distressing situations for the patient . Emergency cases do not&#xD;
+      always present in conditions that are ideal for immediate diagnosis, which sometimes&#xD;
+      compromises outcome. Physical examination, laboratory findings and radiography are imperfect,&#xD;
+      resulting in a need for sophisticated test results that delay management.&#xD;
+&#xD;
+      Lung ultrasonography is becoming a standard tool in critical cases in the ED.&#xD;
+&#xD;
+      the investigators aim to perform ultrasonography on consecutive patients admitted to the ICU&#xD;
+      with dyspnea, comparing lung ultrasonography results on initial presentation with the final&#xD;
+      diagnosis by the ICU team.&#xD;
+&#xD;
+      Three items were assessed: artifacts (horizontal A lines or vertical B lines indicating&#xD;
+      interstitial syndrome), lung sliding, and alveolar consolidation and/or pleural effusion,&#xD;
+      these items were grouped to assess ultrasound profiles.&#xD;
+&#xD;
+      This study assesses the potential of lung ultrasonography to diagnose heart failure.The&#xD;
+      second aim of this study was to evaluate the inter-observer reproducibility of LUS performed&#xD;
+      by ED residents in the evaluation of cardiac causes of acute dyspnea.&#xD;
+&#xD;
+      Patients presenting to the ED with acute dyspnea will be prospectively enrolled in this&#xD;
+      study. In each patient, LUS was performed by two ED residents blinded to clinical diagnoses.&#xD;
+&#xD;
+      AHF was determined on the base of clinical exam, chest x-ray , brain natriuretic peptide&#xD;
+      (BNP) and echocardiographic findings.&#xD;
+&#xD;
+      A patient lung comet score (LCS) was obtained by summing the number of comets in each of the&#xD;
+      scanned spaces.&#xD;
+&#xD;
+      Then the probability of AHF was defined as :&#xD;
+&#xD;
+      low probability (LCS&lt;15) intermediate probability (15 &lt;LCS&lt;30), and high probability (LCS&gt;30&#xD;
+      ).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2016</start_date>
+  <completion_date type="Actual">January 1, 2017</completion_date>
+  <primary_completion_date type="Actual">January 1, 2017</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>the reproductibility of LUS in the diagnosis of heart failure</measure>
+    <time_frame>0 days</time_frame>
+    <description>the reproductibility of the LUS in the diagnosis of heart failure between two different operators (using the Kappa and the agreement index)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>the accuracy of LUS in the diagnosis of heart failure the accuracy of LUS in the diagnosis of heart failure measured by sensitivity ,specificity, and area under the roc curve</measure>
+    <time_frame>0 days</time_frame>
+    <description>the accuracy of LUS in the diagnosis of heart failure measured by sensitivity ,specificity, and area under the roc curve</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">1024</enrollment>
+  <condition>Dyspnea; Cardiac</condition>
+  <arm_group>
+    <arm_group_label>operator 1</arm_group_label>
+    <description>ED resident experimented in pulmonary ultrasonography and blinded to the final diagnosis</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>operator 2</arm_group_label>
+    <description>a different ED resident experimented in pulmonary ultrasonography and blinded to the final diagnosis</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        all patients admitted to the ED with acute dyspnea, with the final diagnosis of heart&#xD;
+        failure by the ICU team&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  non traumatic dyspnea with the final diagnosis of heart failure&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  impossibility to give consent to participate in the study, post traumatic dyspnea,&#xD;
+             pregnant women, and need for endotracheal intubation or inotropic drugs patients who&#xD;
+             were deemed too unstable for sonography by the treating team were also excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nouira semir, professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>university of ùmonastir</affiliation>
+  </overall_official>
+  <link>
+    <url>http://www.urgencemonastir.com</url>
+    <description>official department website</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 6, 2018</study_first_submitted>
+  <study_first_submitted_qc>September 5, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 6, 2018</study_first_posted>
+  <last_update_submitted>September 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Monastir</investigator_affiliation>
+    <investigator_full_name>Pr. Semir Nouira</investigator_full_name>
+    <investigator_title>Pr Nouira Semir</investigator_title>
+  </responsible_party>
+  <keyword>Lung ultrasound</keyword>
+  <keyword>heart failure</keyword>
+  <keyword>diagnosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dyspnea</mesh_term>
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

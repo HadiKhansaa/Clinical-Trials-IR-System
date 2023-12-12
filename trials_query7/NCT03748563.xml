@@ -1,0 +1,601 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03748563</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CENTERS</org_study_id>
+    <nct_id>NCT03748563</nct_id>
+  </id_info>
+  <brief_title>Accuracy of Magnetically Maneuvered Capsule Endoscopy for Detection of GEV in Patients With Cirrhosis</brief_title>
+  <official_title>Accuracy of Magnetically Maneuvered Capsule Endoscopy for Detection of Gastroesophageal Varices (GEV) in Patients With Cirrhosis: A Multicenter Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Changhai Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ruijin Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Shanghai Tongji Hospital, Tongji University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Dongfang Hospital Affiliated to Tongji University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Yangpu District Central Hospital Affiliated to Tongji University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Qilu Hospital of Shandong University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The First Affiliated Hospital of Soochow University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Third Xiangya Hospital of Central South University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>First Affiliated Hospital Xi'an Jiaotong University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Wuhan Union Hospital, China</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>the Fifth Affiliated Hospital of Zunyi Medical University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The First Affiliated Hospital of Zhejiang Chinese Medical University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Zhujiang Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Changhai Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a non-interventional diagnostic accuracy study. Using EGD as the golden standard, to&#xD;
+      assess the accuracy of the ds-MCE in identifying and grading gastroesophageal varices in&#xD;
+      patients undergoing screening or surveillance for gastroesophageal varices. And the efficacy&#xD;
+      of the ds-MCE in detecting various pathological changes of cirrhosis in small bowel will be&#xD;
+      assessed as well.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cirrhosis is the major cause of liver disease-related morbidity and mortality worldwide.&#xD;
+      Portal hypertension (PH) is the hemodynamic abnormality in patients with cirrhosis, which is&#xD;
+      associated with various pathological changes throughout the entire gastrointestinal tract,&#xD;
+      manifesting as gastroesophageal varices, portal hypertensive gastropathy (PHG), and portal&#xD;
+      hypertensive enteropathy (PHE). Baveno consensus and other practice guidelines recommended&#xD;
+      that all patients with cirrhosis undergo endoscopic screening for varices at the time of&#xD;
+      diagnosis and undergo periodic surveillance endoscopy throughout the whole course of&#xD;
+      cirrhosis.&#xD;
+&#xD;
+      Esophagogastroduodenoscopy (EGD) is recognized as the gold standard for detection and&#xD;
+      follow-up of gastroesophageal varices in cirrhotic patients, allowing for direct mucosal&#xD;
+      visualization and therapeutic intervention. EGD is however an invasive procedure and there is&#xD;
+      potential for procedure-related complications, such as perforation and bleeding. The capsule&#xD;
+      endoscopy (CE) system provides a noninvasive and relatively comfortable approach to visualize&#xD;
+      the GI tract, and the development of esophageal capsule endoscopy (ECE) makes it possible to&#xD;
+      capture clear images of esophageal disease without the need for sedation. However, ECE was&#xD;
+      reported to have variable sensitivity and was not accurate enough to replace EGD in&#xD;
+      diagnosing or grading esophageal varices. Besides, previous studies presented that the&#xD;
+      sensitivity of ECE for detecting gastric varices (GVs) and PHG varies from 3% to 69%, which&#xD;
+      denoted ECE was far from a suitable alternative for diagnosing gastric lesions.&#xD;
+&#xD;
+      To overcome these limitations, a new technique, so-called detachable string magnetically&#xD;
+      controlled capsule endoscopy (ds-MCE) was developed. The ds-MCE system consists of two parts:&#xD;
+      the magnetically controlled capsule endoscopy (MCE) system and a transparent latex sleeve&#xD;
+      with a hollow string. The magnetically controlled capsule endoscopy (MCE) system (Ankon&#xD;
+      Technologies, Shanghai, China) detects focal lesions in the stomach with comparable accuracy&#xD;
+      with conventional EGD. One end of the hollow string is a transparent thin latex sleeve that&#xD;
+      can be wrapped on the surface of the capsule, and the other end of the string is connected to&#xD;
+      the syringe. The capsule, which is partially enclosed within the sleeve, can be actively&#xD;
+      moved in the esophagus through the control of string. In this case, investigator can examine&#xD;
+      the entire esophageal mucosa several times under real time views. The capsule then could be&#xD;
+      detached from the string system through injecting air into the hollow string with the syringe&#xD;
+      after completing the examination of esophagus. The pilot study of ds-MCE confirmed it was a&#xD;
+      feasible, safe and well-tolerated method for completely viewing esophagus and stomach,&#xD;
+      without the need for sedation. Besides, the 8-10h battery life of the ds-MCE enables complete&#xD;
+      examination of the small bowel, which provides the possibility for screening pathological&#xD;
+      changes in the entire gastrointestinal tract.&#xD;
+&#xD;
+      Considering all these backgrounds, in the current prospective study, the primary aim is to&#xD;
+      assess the diagnostic yield of the ds-MCE in identifying the presence of gastroesophageal&#xD;
+      varices in LC patients using EGD as the golden standard. The secondary aim is to assess the&#xD;
+      accuracy of ds-MCE in grading esophageal varices (EV), identifying high-risk EVs, gastric&#xD;
+      varices and portal hypertensive gastropathy (PHG) in LC patients using EGD as the gold&#xD;
+      standard, and to define the mucosal abnormalities of portal hypertensive enteropathy (PHE).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 7, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Diagnostic accuracy study</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>the diagnostic yield of the ds-MCE in identifying the presence of gastroesophageal varices</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To assess the diagnostic yield (sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV)) of the ds-MCE in identifying the presence of gastroesophageal varices in cirrhosis patients undergoing screening or surveillance for gastroesophageal varices by EGD.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>the accuracy of the ds-MCE in identifying the presence of esophageal varices</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To assess the accuracy of the ds-MCE in identifying the presence of esophageal varices, using EGD as the gold standard.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the accuracy of the ds-MCE in differentiating medium/large esophageal varices from small or absent varices</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To assess the accuracy of the ds-MCE in differentiating medium/large esophageal varices from small or absent varices compared to EGD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>association between the grade (size) of esophageal varices seen on ds-MCE and variceal grade by EGD</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To identify an association between the grade (size) of esophageal varices seen on ds-MCE (using the circumference grading system) and variceal grade by EGD. And then to select an optimal cutoff value which is sufficient to grade esophageal varices under ds-MCE.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the accuracy of the ds-MCE in differentiating high-risk esophageal varices</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To assess the accuracy of the ds-MCE in differentiating high-risk esophageal varices compared to EGD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the accuracy of the ds-MCE in detecting gastric varices</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To assess the accuracy of the ds-MCE in detecting gastric varices compared to EGD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the diagnostic accuracy of the ds-MCE in identifying portal hypertensive gastropathy</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To assess the diagnostic accuracy of the ds-MCE in identifying portal hypertensive gastropathy (PHG) compared to EGD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the prevalence and classification of the mucosal abnormalities of portal hypertensive enteropathy</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To assess the prevalence and classification of the mucosal abnormalities of portal hypertensive enteropathy (PHE) under ds-MCE.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the association between the mucosal abnormalities of PHE and other clinical characteristics related to liver disease</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To determine the association between the mucosal abnormalities of portal hypertensive enteropathy (PHE) and the severity of liver disease, gastroesophageal varices, portal gastropathy, or other clinical characteristics.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the transit time of ds-MCE in the GI tract</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To evaluate the transit time of ds-MCE in the gastrointestinal tract (esophagus, stomach and small bowel).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>the patient satisfaction of the ds-MCE</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To assess the patient satisfaction of the ds-MCE compared to standard EGD.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">591</enrollment>
+  <condition>Cirrhosis, Liver</condition>
+  <condition>Portal Hypertension</condition>
+  <condition>Esophageal Varices</condition>
+  <condition>Gastric Varix</condition>
+  <arm_group>
+    <arm_group_label>ds-MCE and EGD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All the enrolled participants will undergo the examination of detachable string magnetically controlled capsule endoscopy (ds-MCE) first, followed by EGD within 48 hours.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>ds-MCE and EGD</intervention_name>
+    <description>Procedure of ds-MCE:&#xD;
+The ds-MCE system mainly consists of two parts: the NaviCam magnetic capsule endoscopy guidance system and the detachable string part. The capsule, which is partially enclosed within the sleeve, can be actively moved in the esophagus through the control of string. Investigator can examine the entire esophagus several times under real time views. The capsule then could be detached from the string system through injecting air into the hollow string with the syringe after completing the examination of esophagus. Then, the examination of stomach under magnetic control and small bowel under the natural action of peristalsis follows.&#xD;
+Procedure of EGD:&#xD;
+The EGD will be performed using conventional upper gastrointestinal video endoscopy, according to the standard procedure at individual centers. EGD will be performed within 48 hours after ds-MCE procedure and usually during the same endoscopic session.</description>
+    <arm_group_label>ds-MCE and EGD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Gender is not limited.&#xD;
+&#xD;
+          2. Patients aged 18 years or older.&#xD;
+&#xD;
+          3. Both inpatients and outpatients.&#xD;
+&#xD;
+          4. Clinically evident or biopsy-proven liver cirrhosis, without previous diagnosis of&#xD;
+             gastroesophageal varices but with clinical indication for screening endoscopy for the&#xD;
+             detection of varices, or with prior endoscopic diagnosis of gastroesophageal varices&#xD;
+             and indication for surveillance endoscopy.&#xD;
+&#xD;
+          5. Able to provide informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients aged less than 18 years.&#xD;
+&#xD;
+          2. Patients with active upper gastrointestinal bleeding.&#xD;
+&#xD;
+          3. Patients who have participated in or are participating in other clinical trials within&#xD;
+             three months.&#xD;
+&#xD;
+          4. Patients with cancer on active treatment with chemotherapy and/or radiation therapy.&#xD;
+&#xD;
+          5. Pregnancy or suspected pregnancy.&#xD;
+&#xD;
+          6. Suspected or known intestinal stenosis or other known risk factors for capsule&#xD;
+             retention.&#xD;
+&#xD;
+          7. Pacemaker or other implanted electromedical devices which could interfere with&#xD;
+             magnetic resonance.&#xD;
+&#xD;
+          8. Patients with dysphagia.&#xD;
+&#xD;
+          9. Life-threatening conditions.&#xD;
+&#xD;
+         10. Patients who refuse to undergo or can't tolerate EGD.&#xD;
+&#xD;
+         11. Patients whose consents for removal of remained ds-MCE are unable to be obtained.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zhuan Liao</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Changhai Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zhuan Liao, M.D.</last_name>
+    <phone>86-21-31161004</phone>
+    <email>liaozhuan@smmu.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Zhujiang Hospital</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Hua Mao</last_name>
+      <email>1109663087@qq.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>the Fifth Affiliated Hospital of Zunyi Medical University</name>
+      <address>
+        <city>Zhuhai</city>
+        <state>Guangdong</state>
+        <zip>519000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Chaohui He</last_name>
+      <email>zhaohui0415@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wuhan Union Hospital, China</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jun Liu</last_name>
+      <email>liujun0129@hust.edu.cn</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Third Xiangya Hospital of Central South University</name>
+      <address>
+        <city>Changsha</city>
+        <state>Hunan</state>
+        <zip>410000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Xiaoyan Wang</last_name>
+      <email>wxy220011@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Soochow University</name>
+      <address>
+        <city>Suzhou</city>
+        <state>Jiangxi</state>
+        <zip>215000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rui Li</last_name>
+      <email>sdfyylirui@126.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Qilu Hospital of Shandong University</name>
+      <address>
+        <city>Jinan</city>
+        <state>Shandong</state>
+        <zip>250000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Xiuli Zuo</last_name>
+      <email>zuoxiuli_s@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dongfang Hospital Affiliated to Tongji University</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Meidong Xu</last_name>
+      <email>xumeidongeh@126.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ruijin Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Duowu Zou</last_name>
+      <email>zdw_pi@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xinjian Wan</last_name>
+      <email>slwanxj2019@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai Tongji Hospital, Tongji University School of Medicine</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Changqing Yang</last_name>
+      <email>cqyang@tongji.edu.cn</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Yangpu District Central Hospital Affiliated to Tongji University</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200433</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Li Li</last_name>
+      <email>11i10437@sina.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>First Affiliated Hospital Xi'an Jiaotong University</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shanxi</state>
+        <zip>710000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shuixiang He</last_name>
+      <email>hesx123@126.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Zhejiang Chinese Medical University</name>
+      <address>
+        <city>Hanzhou</city>
+        <state>Zhejiang</state>
+        <zip>310000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shuo Zhang</last_name>
+      <email>zhangshuotcm@163.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Changhai Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200433</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhuan Liao, professor</last_name>
+      <phone>86-021-31161004</phone>
+      <email>liaozhuan@smmu.edu.cn</email>
+    </contact>
+    <investigator>
+      <last_name>Xi Jiang</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jun Pan</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>de Franchis R; Baveno VI Faculty. Expanding consensus in portal hypertension: Report of the Baveno VI Consensus Workshop: Stratifying risk and individualizing care for portal hypertension. J Hepatol. 2015 Sep;63(3):743-52. doi: 10.1016/j.jhep.2015.05.022. Epub 2015 Jun 3.</citation>
+    <PMID>26047908</PMID>
+  </reference>
+  <reference>
+    <citation>North Italian Endoscopic Club for the Study and Treatment of Esophageal Varices. Prediction of the first variceal hemorrhage in patients with cirrhosis of the liver and esophageal varices. A prospective multicenter study. N Engl J Med. 1988 Oct 13;319(15):983-9.</citation>
+    <PMID>3262200</PMID>
+  </reference>
+  <reference>
+    <citation>Spina GP, Arcidiacono R, Bosch J, Pagliaro L, Burroughs AK, Santambrogio R, Rossi A. Gastric endoscopic features in portal hypertension: final report of a consensus conference, Milan, Italy, September 19, 1992. J Hepatol. 1994 Sep;21(3):461-7. Review.</citation>
+    <PMID>7836719</PMID>
+  </reference>
+  <reference>
+    <citation>Sarin SK, Lahoti D, Saxena SP, Murthy NS, Makwana UK. Prevalence, classification and natural history of gastric varices: a long-term follow-up study in 568 portal hypertension patients. Hepatology. 1992 Dec;16(6):1343-9.</citation>
+    <PMID>1446890</PMID>
+  </reference>
+  <reference>
+    <citation>Kodama M, Uto H, Numata M, Hori T, Murayama T, Sasaki F, Tsubouchi N, Ido A, Shimoda K, Tsubouchi H. Endoscopic characterization of the small bowel in patients with portal hypertension evaluated by double balloon endoscopy. J Gastroenterol. 2008;43(8):589-96. doi: 10.1007/s00535-008-2198-1. Epub 2008 Aug 17.</citation>
+    <PMID>18709480</PMID>
+  </reference>
+  <reference>
+    <citation>D'Amico G, De Franchis R; Cooperative Study Group. Upper digestive bleeding in cirrhosis. Post-therapeutic outcome and prognostic indicators. Hepatology. 2003 Sep;38(3):599-612.</citation>
+    <PMID>12939586</PMID>
+  </reference>
+  <reference>
+    <citation>Garcia-Tsao G, Sanyal AJ, Grace ND, Carey W; Practice Guidelines Committee of the American Association for the Study of Liver Diseases; Practice Parameters Committee of the American College of Gastroenterology. Prevention and management of gastroesophageal varices and variceal hemorrhage in cirrhosis. Hepatology. 2007 Sep;46(3):922-38. Erratum in: Hepatology. 2007 Dec;46(6):2052.</citation>
+    <PMID>17879356</PMID>
+  </reference>
+  <reference>
+    <citation>Lapalus MG, Dumortier J, Fumex F, Roman S, Lot M, Prost B, Mion F, Ponchon T. Esophageal capsule endoscopy versus esophagogastroduodenoscopy for evaluating portal hypertension: a prospective comparative study of performance and tolerance. Endoscopy. 2006 Jan;38(1):36-41.</citation>
+    <PMID>16429353</PMID>
+  </reference>
+  <reference>
+    <citation>Gralnek IM, Adler SN, Yassin K, Koslowsky B, Metzger Y, Eliakim R. Detecting esophageal disease with second-generation capsule endoscopy: initial evaluation of the PillCam ESO 2. Endoscopy. 2008 Apr;40(4):275-9. doi: 10.1055/s-2007-995645.</citation>
+    <PMID>18389444</PMID>
+  </reference>
+  <reference>
+    <citation>de Franchis R, Eisen GM, Laine L, Fernandez-Urien I, Herrerias JM, Brown RD, Fisher L, Vargas HE, Vargo J, Thompson J, Eliakim R. Esophageal capsule endoscopy for screening and surveillance of esophageal varices in patients with portal hypertension. Hepatology. 2008 May;47(5):1595-603. doi: 10.1002/hep.22227.</citation>
+    <PMID>18435461</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 12, 2018</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2018</study_first_posted>
+  <last_update_submitted>March 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Changhai Hospital</investigator_affiliation>
+    <investigator_full_name>Zhuan Liao</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Capsule Endoscopy</keyword>
+  <keyword>Portal Hypertension</keyword>
+  <keyword>Cirrhosis</keyword>
+  <keyword>Esophageal Varices</keyword>
+  <keyword>Gastric Varix</keyword>
+  <keyword>Portal hypertensive enteropathy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Cirrhosis</mesh_term>
+    <mesh_term>Hypertension, Portal</mesh_term>
+    <mesh_term>Esophageal and Gastric Varices</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Varicose Veins</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>After finishing this study, we will make the data available to other researchers: including study protocol, statistical analysis plan (SAP), informed consent form (ICF), clinical study report (CSR)</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>3 years.</ipd_time_frame>
+    <ipd_access_criteria>The website of the journal where the results published, and ClinicalTrials.gov web site.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

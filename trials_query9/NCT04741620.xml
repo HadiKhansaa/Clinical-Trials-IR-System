@@ -1,0 +1,421 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04741620</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PI18/00241</org_study_id>
+    <nct_id>NCT04741620</nct_id>
+  </id_info>
+  <brief_title>Subacute Effect of Pharyngeal Pharmacological Sensory Stimulation in Elderly Patients With Oropharyngeal Dysphagia</brief_title>
+  <acronym>FIS2018</acronym>
+  <official_title>Subacute Effect of Pharmacological Sensory Stimulation of the Oropharynx by Agonists of TRP Receptors in Swallowing Neurophysiology in the Elderly With Oropharyngeal Dysphagia.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital de Mataró</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital de Mataró</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Oropharyngeal sensory impairments are a potential target for treatment of oropharyngeal&#xD;
+      dysphagia (OD) in older patients. We previously found acute administration of TRP sensory&#xD;
+      stimulants improved VFS signs and swallow response. We hypothesized that sub-acute&#xD;
+      administration of TRP pharyngeal sensory stimulants, would improve cortical neuroplasticity&#xD;
+      and will lead into a faster and stronger swallow response, however desensitization of TRP&#xD;
+      receptors may occur. Therefore, the aim of the present study was to assess the biomechanical&#xD;
+      (Videofluoroscopy) and neurophysiological (pharyngeal sensory evoked potentials -PSEPs- and&#xD;
+      motor-evoked potentials (MEPs)) effect of 2 week treatment with TRP agonists in older&#xD;
+      patients with OD. Design: 150 older (&gt;70yr) patients with OD will be included in a Randomized&#xD;
+      Control Trial assessing the effect of oral administration of either: a) capsaicin (TRPV1); b)&#xD;
+      piperine (TRPV1/TRPA1) c) cinnamaldehyde (TRPA1); d) citric acid (ASIC3); e) capsaicin+citric&#xD;
+      acid (TRPV1/ASIC3); and f) placebo (Control). Measurements: 1) VFS signs of safety and&#xD;
+      efficacy of swallow and timing and extent of swallow response; 2) Latency, amplitude and&#xD;
+      cortical representation of PSEP and MEP; 3) Substance P concentration in saliva by ELISA as a&#xD;
+      marker of peripheral stimulation. Results from this study might help to develop new and&#xD;
+      effective pharmacological treatments for older dysphagic patients, from compensation to&#xD;
+      recovery of swallow function.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The project consists of a randomized, double-blind controlled interventional clinical trial&#xD;
+      (patient and analysis of results) with five treatment arms and a control group (placebo)&#xD;
+      involving a total of 150 elderly patients with oropharyngeal dysphagia (25 patients per&#xD;
+      group).&#xD;
+&#xD;
+      The recruitment of participants for the study will be carried out from the patients referred&#xD;
+      to the Dysphagia Unit of the Hospital de Mataró for the evaluation of swallowing disorders.&#xD;
+      The swallowing function of all candidates to be included in the study will be clinically&#xD;
+      evaluated using the volume-viscosity swallowing test (V-VST). Those patients with signs of&#xD;
+      impaired safety of swallowing during the examination (cough, decreased O2 saturation greater&#xD;
+      than 2% or voice change) will be candidates to participate in the study. They will be&#xD;
+      informed and in case of acceptance a saliva sample will be taken, and a videofluoroscopy&#xD;
+      (VFS) will be performed. If the patient presents impaired safety of swallow (Penetration&#xD;
+      aspiration scale higher or equal than 2), the patient will be definitively randomized to one&#xD;
+      of the branches of intervention and the rest of the explorations will proceed (sensory evoked&#xD;
+      potentials to pharyngeal electrical stimulation and pharyngeal motor evoked potentials to&#xD;
+      transcranial magnetic stimulation). After the treatment period a second evaluation of study&#xD;
+      procedures will be performed.&#xD;
+&#xD;
+      The treatment will consist of administering 10mL solution of the study product, according to&#xD;
+      randomization, 3 times a day (before breakfast, lunch and dinner) for 14 consecutive days&#xD;
+      after inclusion in the study. Treatment selected according our previous studies&#xD;
+      (Alvarez-Berdugo et al. Neurogastroenterol Motil 2017) are: Capsaicin 10microM, Piperine&#xD;
+      150microM, Cinnamaldehyde 756,6microM + zinc 70microM, citric acid 457,5microM (pH=3,5),&#xD;
+      Capsaicin 10microM + citric acid 457,5microM (pH=3,5). For the control group, placebo product&#xD;
+      will be administered, which will be the vehicle solution with a more neutral pH.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 17, 2019</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the score of the Penetration Aspiration Scale</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Differences found in the videofluoroscopy Penetration Aspiration Scale (from 1 (safe swallow) to 8 (silent aspiration)) between treatments and vs. the placebo group.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Impaired safety of swallow</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Videofluoroscopic signs of impaired safety of swallow (penetrations an aspirations)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impaired efficacy</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Videofluoroscopic signs of impaired efficacy of swallow (oral and pharyngeal residue)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oropharyngeal swallow response (laryngeal vestibule closure time)</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Laryngeal vestibule closure time (ms) in videofluoroscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oropharyngeal swallow response (upper esophageal opening time)</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Upper esophageal opening time (ms) in videofluoroscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oropharyngeal swallow response (laryngeal vestibule opening time)</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Laryngeal vestibule opening time (ms) in videofluoroscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oropharyngeal swallow response (Bolus final velocity)</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Bolus final velocity (m/s) in videofluoroscopy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharyngeal sensory evoked potentials</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Latency and amplitude of N1, P1, N2 and P2 peaks of the Pharyngeal sensory evoked potentials.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharyngeal motor evoked potentials</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Latency, amplitude, duration and area under de curve of the Pharyngeal motor evoked potentials.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensory threshold</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Sensory threshold to pharyngeal electrical stimulation (mA)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Substance P</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Concentration of substance P in saliva.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Palatability and comfort with the treatment.</measure>
+    <time_frame>Baseline versus 2/3 days after the intervention</time_frame>
+    <description>Palatability and comfort with the treatment.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Oropharyngeal Dysphagia</condition>
+  <condition>Dysphagia</condition>
+  <condition>Swallowing Disorder</condition>
+  <arm_group>
+    <arm_group_label>Capsaicin 10microM</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10mL capsaicin 10microM solution 3 times/day during 14 consecutive days (2 weeks).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Piperine 150microM</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10mL Piperine 150microM solution 3 times/day during 14 consecutive days (2 weeks).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cinnamaldehyde 756,6microM + zinc 70microM</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10mL Cinnamaldehyde 756,6microM + zinc 70microM solution 3 times/day during 14 consecutive days (2 weeks).3 times/day during 14 consecutive days (2 weeks).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10mL Citric acid 457,5microM (pH=3,5) solution 3 times/day during 14 consecutive days (2 weeks).3 times/day during 14 consecutive days (2 weeks).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Capsaicin 10microM + Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10mL Capsaicin 10microM + Citric acid 457,5microM (pH=3,5) solution 3 times/day during 14 consecutive days (2 weeks).3 times/day during 14 consecutive days (2 weeks).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>10mL placebo solution 3 times/day during 14 consecutive days (2 weeks).3 times/day during 14 consecutive days (2 weeks).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Capsaicin 10microM (TRPV1 natural agonist)</intervention_name>
+    <description>10 mL Capsaicin 10microM solution 3 times per day (before each meal) during 14 consecutive days.</description>
+    <arm_group_label>Capsaicin 10microM + Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Cinnamaldehyde 756,6microM + zinc 70microM</arm_group_label>
+    <arm_group_label>Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Piperine 150microM</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Piperine 150microM (TRPV1 &amp; TRPA1 natural agonist)</intervention_name>
+    <description>10 mL Piperine 150microM solution 3 times per day (before each meal) during 14 consecutive days.</description>
+    <arm_group_label>Capsaicin 10microM</arm_group_label>
+    <arm_group_label>Capsaicin 10microM + Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Cinnamaldehyde 756,6microM + zinc 70microM</arm_group_label>
+    <arm_group_label>Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Cinnamaldehyde 756,6microM + zinc 70microM (TRPA1 natural agonist)</intervention_name>
+    <description>10 mL Cinnamaldehyde 756,6microM + zinc 70microM solution 3 times per day (before each meal) during 14 consecutive days.</description>
+    <arm_group_label>Capsaicin 10microM</arm_group_label>
+    <arm_group_label>Capsaicin 10microM + Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Piperine 150microM</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Citric acid 457,5microM (pH=3,5) (ASIC3 natural agonist)</intervention_name>
+    <description>10 mL Citric acid 457,5microM (pH=3,5) solution 3 times per day (before each meal) during 14 consecutive days.</description>
+    <arm_group_label>Capsaicin 10microM</arm_group_label>
+    <arm_group_label>Capsaicin 10microM + Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Cinnamaldehyde 756,6microM + zinc 70microM</arm_group_label>
+    <arm_group_label>Piperine 150microM</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Capsaicin 10microM + Citric acid 457,5microM (pH=3,5) (TRPV1 &amp; ASIC3 natural agonists)</intervention_name>
+    <description>10 mL Capsaicin 10microM + Citric acid 457,5microM (pH=3,5) solution 3 times per day (before each meal) during 14 consecutive days.</description>
+    <arm_group_label>Capsaicin 10microM</arm_group_label>
+    <arm_group_label>Cinnamaldehyde 756,6microM + zinc 70microM</arm_group_label>
+    <arm_group_label>Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Piperine 150microM</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo (Methyl benzoate, Propyl benzoate, Propylenglycol)</intervention_name>
+    <description>10 mL placebo solution 3 times per day (before each meal) during 14 consecutive days.</description>
+    <arm_group_label>Capsaicin 10microM</arm_group_label>
+    <arm_group_label>Capsaicin 10microM + Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Cinnamaldehyde 756,6microM + zinc 70microM</arm_group_label>
+    <arm_group_label>Citric acid 457,5microM (pH=3,5)</arm_group_label>
+    <arm_group_label>Piperine 150microM</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  More than 70 years old.&#xD;
+&#xD;
+          -  Oropharyngeal dysphagia with impaired safety of swallow (penetration aspiration score&#xD;
+             higher or equal than 2).&#xD;
+&#xD;
+          -  Patients able to comply with the study protocol.&#xD;
+&#xD;
+          -  Signature or the written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous history of severe gastrointestinal diseases.&#xD;
+&#xD;
+          -  Epilepsy or previous convulsive crisis episodes.&#xD;
+&#xD;
+          -  Pacemaker or implanted defibrillator carriers.&#xD;
+&#xD;
+          -  Cardiopulmonary instability.&#xD;
+&#xD;
+          -  Oropharyngeal dysphagia of structural cause.&#xD;
+&#xD;
+          -  Previous history of head and neck surgery.&#xD;
+&#xD;
+          -  Neurodegenerative disease.&#xD;
+&#xD;
+          -  Advanced dementia (GDS higher than 5).&#xD;
+&#xD;
+          -  Gastroesophageal reflux.&#xD;
+&#xD;
+          -  Taking drugs with effects on dopamine.&#xD;
+&#xD;
+          -  Neoplasia or active infection.&#xD;
+&#xD;
+          -  Alcohol, tobacco or drugs dependence.&#xD;
+&#xD;
+          -  Participate or have participated in another interventionist clinical trial in the 4&#xD;
+             weeks prior to inclusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>70 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pere Clavé, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital de Mataró</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pere Clavé, PhD</last_name>
+    <phone>+34937417700</phone>
+    <phone_ext>1046</phone_ext>
+    <email>pere.clave@ciberehd.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Omar Ortega, PhD</last_name>
+    <phone>+34937417700</phone>
+    <phone_ext>2284</phone_ext>
+    <email>oortega@csdm.cat</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Consorci Sanitari del Maresme (Hospital de Mataró)</name>
+      <address>
+        <city>Mataró</city>
+        <state>Barcelona</state>
+        <zip>08301</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pere Clavé, MD, PhD</last_name>
+      <phone>+34937417700</phone>
+      <phone_ext>1046</phone_ext>
+      <email>pere.clave@ciberehd.org</email>
+    </contact>
+    <investigator>
+      <last_name>Omar Ortega, MSc, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alberto Martín, Nurse</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mireia Bolívar, Pharmacist</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Weslania Nascimento, SLP, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Noemí Tomsen, Biologist</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Viridiana Arreola, SLP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Silvia Carrión, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Desiree Muriana, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ernest Palomeras, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lluís Mundet, Nurse, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pilar Sanz, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Emilia Michou, SLP, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pere Clavé, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 5, 2021</study_first_posted>
+  <last_update_submitted>February 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital de Mataró</investigator_affiliation>
+    <investigator_full_name>Pere Clave</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Oropharyngeal dysphagia</keyword>
+  <keyword>TRP agonists</keyword>
+  <keyword>Pharmacological stimulation</keyword>
+  <keyword>Sensory stimulation</keyword>
+  <keyword>Elderly</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deglutition Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cinnamic aldehyde</mesh_term>
+    <mesh_term>Capsaicin</mesh_term>
+    <mesh_term>Sodium Citrate</mesh_term>
+    <mesh_term>Citric Acid</mesh_term>
+    <mesh_term>Piperine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,478 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04508088</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-P00034878</org_study_id>
+    <nct_id>NCT04508088</nct_id>
+  </id_info>
+  <brief_title>Skeletal Health and Bone Marrow Composition in Newly Diagnosed Adolescent Girls With Crohn Disease</brief_title>
+  <official_title>Skeletal Health and Bone Marrow Composition in Newly Diagnosed Adolescent Girls With Crohn Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boston Children's Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators will be evaluating bone marrow composition via magnetic resonance imaging&#xD;
+      in newly diagnosed adolescent girls with Crohn disease compared to healthy, matched controls.&#xD;
+      The investigators will also be assessing their bone mineral density via other imaging&#xD;
+      modalities, including dual-energy X-ray absorptiometry and peripheral quantitative computed&#xD;
+      tomography. In this pilot study, data will be collected via chart review and novel imaging&#xD;
+      evaluation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Less than optimal bone health has been seen in children that have inflammatory bowel disease&#xD;
+      (IBD), including Crohn disease (CD). This can present as low bone density or altered bone&#xD;
+      structure, weakening the bones and increasing fragility and fracture risk. As adolescence is&#xD;
+      especially important in bone development, conditions such as CD during this time can lead to&#xD;
+      long term bone issues. The underlying mechanisms are not well understood, but what is known&#xD;
+      is that red bone marrow converts to fat-rich yellow marrow. This pilot study aims to focus on&#xD;
+      abnormalities in bone marrow, and specifically whether adolescent girls who have been&#xD;
+      diagnosed with CD have more bone marrow fat.&#xD;
+&#xD;
+      The primary hypothesis is that newly diagnosed CD is associated with increased fat levels in&#xD;
+      bone, which is associated with lesser bone formation and worse bone health. The central&#xD;
+      objective is to obtain pilot data on the differences in bone marrow between healthy&#xD;
+      adolescent girls and those with CD. Long term, the investigators want to study how abnormal&#xD;
+      fat tissue and sub-optimal bone health relate to each other.&#xD;
+&#xD;
+      The study involves 10 adolescent females recently diagnosed with CD and 10 healthy females.&#xD;
+      Eligibility criteria include no other chronic diseases that affect bone health and limited&#xD;
+      use of bone altering medications in the last three months. The CD females will be matched&#xD;
+      with healthy females based on age, stage of puberty, height percentile, and BMI percentile.&#xD;
+      Additional data on CD participants will be collected via a chart review that will enable us&#xD;
+      to more fully characterize their CD.&#xD;
+&#xD;
+      Imaging will include MRIs of the knee. Measurements will include a visual assessment and&#xD;
+      quantitative marrow fat analysis, dual-energy X-ray absorptiometry (DXA), and peripheral&#xD;
+      quantitative computed tomography (pQCT). All scans will be for research purposes only. The&#xD;
+      MRIs will be evaluated for any abnormalities, and if there is an incidental finding, it will&#xD;
+      be reported to the primary care physician.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 10, 2020</start_date>
+  <completion_date type="Anticipated">August 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Bone marrow adiposity by magnetic resonance imaging (MRI)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Bone marrow adiposity measured by MRI (T1 maps)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Magnetic resonance spectroscopy (MRS)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>T2 corrected fat/(fat+ water) ratios</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total body bone mineral density Z-score by Dual-energy X-ray absorptiometry (DXA)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Total body BMD Z-score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spine BMD Z-score by DXA</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Lumbar spine BMD Z-score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spine apparent density Z-score by DXA</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Lumbar spine bone mineral apparent density (g/cm3)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volumetric bone mineral density (vBMD)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Quantitative computed tomography (pQCT) scans will be obtained at sites 3%, 38%, and 66% of tibial length proximal to the distal growth plate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bone strength by quantitative computed tomography pQCT</measure>
+    <time_frame>Baseline</time_frame>
+    <description>PQCT scans will be obtained at sites 3%, 38%, and 66% of tibial length proximal to the distal growth plate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Current Crohn's Disease Activity</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Current Crohn's disease activity will be assessed using the pediatric Crohn disease activity index (PCDAI). The assessment will be made based on questionnaires answered.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical Activity</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Physical activity will be assessed through a physical activity questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dietary Calcium Intake</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Dietary calcium intake will be assessed through a targeted dietary questionnaire</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Inflammatory Bowel Disease</condition>
+  <condition>Crohn Disease</condition>
+  <arm_group>
+    <arm_group_label>Crohn Disease</arm_group_label>
+    <description>This group will be 10 adolescent girls, ages 13-20, who have been recently (within 12 months) diagnosed with Crohn Disease.&#xD;
+All participants will have a single study visit during which the listed diagnostic testing will be performed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Controls will be matched for age, Tanner staging, and both height percentile and BMI percentile.&#xD;
+All participants will have a single study visit during which the listed diagnostic testing will be performed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Coronal T1 weighted spin echo images</intervention_name>
+    <description>Coronal T1 weighted spin echo images will be obtained through the knee with a field of view of 16cm to include distal femoral and proximal tibial metaphyses.</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Crohn Disease</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Spin-lattice relaxation (T1)</intervention_name>
+    <description>Spin-lattice relaxation (T1) relaxometry acquisition consisting of seven fast spin echo (FSE) acquisitions through the knee. T1 maps from the T1 relaxometry images will be generated using a two-parameter-fit iterative algorithm developed in-house using IDL software (Harris Geospatial Solutions, Melbourne, FL, USA). Mean T1 values for each region will be recorded. The anatomical locations of these regions will be consistent in size for all subjects and location. The locations chosen for the primary endpoints are ones that are known to be rich in red and yellow marrow, respectively.</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Crohn Disease</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Magnetic resonance spectroscopy</intervention_name>
+    <description>Magnetic resonance spectroscopy. MRS will be performed within a 1 mL voxel situated in the medial aspect of the distal femoral metaphysis. A single voxel point resolved spectral acquisition (PRESS) technique will be used to acquire non-water suppressed spectra at echo times of 20, 30, 40, and 50 ms using 32 signal averages per echo time with a TR of 2.5 s (total scan time = 5.4 minutes). Spectral fits using JMRUI MRS processing software (www.jmrui.eu) to the water and methylene/methyl resonances will be used to quantify peak areas and establish T2 corrected fat/(fat + water) ratios.</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Crohn Disease</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The experimental group will be adolescent females aged 13-20 with newly diagnosed CD&#xD;
+        (within 12 months of diagnosis, based on histologic diagnosis and verified with their&#xD;
+        gastroenterologist).&#xD;
+&#xD;
+        The control group will be matched for age (within 1 year), pubertal stage (based on Tanner&#xD;
+        staging), and both height percentile and BMI percentile. Tanner staging will be based on&#xD;
+        clinically documented Tanner stage by GI physician for participants with CD and by their&#xD;
+        primary care physician for control participants. If there is no documented Tanner staging,&#xD;
+        then it will either be performed by the participants primary care physician, or by a&#xD;
+        pediatric endocrinologist.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Crohn's Disease diagnosed within the past 12 months, or a healthy, matched control&#xD;
+&#xD;
+          -  height between 5-95%&#xD;
+&#xD;
+          -  body mass index (BMI) between 5-95%&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with chronic disease known to affect skeletal metabolism&#xD;
+&#xD;
+          -  Participants on certain medications within the prior 3 months that are known to affect&#xD;
+             skeletal metabolism&#xD;
+&#xD;
+          -  Participants who are pregnant&#xD;
+&#xD;
+          -  Participants who have a history of: claustrophobia, internal body metal that is not&#xD;
+             compatible with MRI machine, or a known abnormality on or adjacent to the left knee&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>20 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rebecca Gordon, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston Children's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rebecca Gordon, MD</last_name>
+    <phone>(617) 355-7476</phone>
+    <email>rebecca.gordon@childrens.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rebecca Gordon, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Gupta A, Paski S, Issenman R, Webber C. Lumbar spine bone mineral density at diagnosis and during follow-up in children with IBD. J Clin Densitom. 2004 Fall;7(3):290-5.</citation>
+    <PMID>15319499</PMID>
+  </reference>
+  <reference>
+    <citation>Sylvester FA, Wyzga N, Hyams JS, Davis PM, Lerer T, Vance K, Hawker G, Griffiths AM. Natural history of bone metabolism and bone mineral density in children with inflammatory bowel disease. Inflamm Bowel Dis. 2007 Jan;13(1):42-50.</citation>
+    <PMID>17206638</PMID>
+  </reference>
+  <reference>
+    <citation>Schmidt S, Mellström D, Norjavaara E, Sundh SV, Saalman R. Low bone mineral density in children and adolescents with inflammatory bowel disease: a population-based study from Western Sweden. Inflamm Bowel Dis. 2009 Dec;15(12):1844-50. doi: 10.1002/ibd.20962. Epub 2009 Apr 30.</citation>
+    <PMID>19408319</PMID>
+  </reference>
+  <reference>
+    <citation>Werkstetter KJ, Pozza SB, Filipiak-Pittroff B, Schatz SB, Prell C, Bufler P, Koletzko B, Koletzko S. Long-term development of bone geometry and muscle in pediatric inflammatory bowel disease. Am J Gastroenterol. 2011 May;106(5):988-98. doi: 10.1038/ajg.2010.495. Epub 2011 Jan 11.</citation>
+    <PMID>21224841</PMID>
+  </reference>
+  <reference>
+    <citation>Bechtold S, Alberer M, Arenz T, Putzker S, Filipiak-Pittroff B, Schwarz HP, Koletzko S. Reduced muscle mass and bone size in pediatric patients with inflammatory bowel disease. Inflamm Bowel Dis. 2010 Feb;16(2):216-25. doi: 10.1002/ibd.21021.</citation>
+    <PMID>19637389</PMID>
+  </reference>
+  <reference>
+    <citation>Dubner SE, Shults J, Baldassano RN, Zemel BS, Thayu M, Burnham JM, Herskovitz RM, Howard KM, Leonard MB. Longitudinal assessment of bone density and structure in an incident cohort of children with Crohn's disease. Gastroenterology. 2009 Jan;136(1):123-30. doi: 10.1053/j.gastro.2008.09.072. Epub 2008 Nov 1.</citation>
+    <PMID>19026647</PMID>
+  </reference>
+  <reference>
+    <citation>Bonjour JP, Theintz G, Law F, Slosman D, Rizzoli R. Peak bone mass. Osteoporos Int. 1994;4 Suppl 1:7-13. Review.</citation>
+    <PMID>8081064</PMID>
+  </reference>
+  <reference>
+    <citation>Tuchman S, Thayu M, Shults J, Zemel BS, Burnham JM, Leonard MB. Interpretation of biomarkers of bone metabolism in children: impact of growth velocity and body size in healthy children and chronic disease. J Pediatr. 2008 Oct;153(4):484-90. doi: 10.1016/j.jpeds.2008.04.028. Epub 2008 Jun 16.</citation>
+    <PMID>18555484</PMID>
+  </reference>
+  <reference>
+    <citation>Waitches G, Zawin JK, Poznanski AK. Sequence and rate of bone marrow conversion in the femora of children as seen on MR imaging: are accepted standards accurate? AJR Am J Roentgenol. 1994 Jun;162(6):1399-406.</citation>
+    <PMID>8192007</PMID>
+  </reference>
+  <reference>
+    <citation>Taccone A, Oddone M, Dell'Acqua AD, Occhi M, Ciccone MA. MRI &quot;road-map&quot; of normal age-related bone marrow. II. Thorax, pelvis and extremities. Pediatr Radiol. 1995;25(8):596-606.</citation>
+    <PMID>8570312</PMID>
+  </reference>
+  <reference>
+    <citation>Taccone A, Oddone M, Occhi M, Dell'Acqua AD, Ciccone MA. MRI &quot;road-map&quot; of normal age-related bone marrow. I. Cranial bone and spine. Pediatr Radiol. 1995;25(8):588-95.</citation>
+    <PMID>8570311</PMID>
+  </reference>
+  <reference>
+    <citation>Thayu M, Leonard MB, Hyams JS, Crandall WV, Kugathasan S, Otley AR, Olson A, Johanns J, Marano CW, Heuschkel RB, Veereman-Wauters G, Griffiths AM, Baldassano RN; Reach Study Group. Improvement in biomarkers of bone formation during infliximab therapy in pediatric Crohn's disease: results of the REACH study. Clin Gastroenterol Hepatol. 2008 Dec;6(12):1378-84. doi: 10.1016/j.cgh.2008.07.010.</citation>
+    <PMID>19081527</PMID>
+  </reference>
+  <reference>
+    <citation>Thornton D, Gordon CM. Restrictive Eating Disorders and Skeletal Health in Adolescent Girls and Young Women. Calcif Tissue Int. 2017 May;100(5):449-460. doi: 10.1007/s00223-016-0164-0. Epub 2016 Jun 23. Review.</citation>
+    <PMID>27339670</PMID>
+  </reference>
+  <reference>
+    <citation>Ecklund K, Vajapeyam S, Feldman HA, Buzney CD, Mulkern RV, Kleinman PK, Rosen CJ, Gordon CM. Bone marrow changes in adolescent girls with anorexia nervosa. J Bone Miner Res. 2010 Feb;25(2):298-304. doi: 10.1359/jbmr.090805.</citation>
+    <PMID>19653811</PMID>
+  </reference>
+  <reference>
+    <citation>Ecklund K, Vajapeyam S, Mulkern RV, Feldman HA, O'Donnell JM, DiVasta AD, Gordon CM. Bone marrow fat content in 70 adolescent girls with anorexia nervosa: Magnetic resonance imaging and magnetic resonance spectroscopy assessment. Pediatr Radiol. 2017 Jul;47(8):952-962. doi: 10.1007/s00247-017-3856-3. Epub 2017 Apr 22.</citation>
+    <PMID>28432403</PMID>
+  </reference>
+  <reference>
+    <citation>Meunier P, Aaron J, Edouard C, Vignon G. Osteoporosis and the replacement of cell populations of the marrow by adipose tissue. A quantitative study of 84 iliac bone biopsies. Clin Orthop Relat Res. 1971 Oct;80:147-54.</citation>
+    <PMID>5133320</PMID>
+  </reference>
+  <reference>
+    <citation>Yeung DK, Griffith JF, Antonio GE, Lee FK, Woo J, Leung PC. Osteoporosis is associated with increased marrow fat content and decreased marrow fat unsaturation: a proton MR spectroscopy study. J Magn Reson Imaging. 2005 Aug;22(2):279-85.</citation>
+    <PMID>16028245</PMID>
+  </reference>
+  <reference>
+    <citation>Griffith JF, Yeung DK, Antonio GE, Lee FK, Hong AW, Wong SY, Lau EM, Leung PC. Vertebral bone mineral density, marrow perfusion, and fat content in healthy men and men with osteoporosis: dynamic contrast-enhanced MR imaging and MR spectroscopy. Radiology. 2005 Sep;236(3):945-51. Epub 2005 Jul 29.</citation>
+    <PMID>16055699</PMID>
+  </reference>
+  <reference>
+    <citation>Shen W, Chen J, Punyanitya M, Shapses S, Heshka S, Heymsfield SB. MRI-measured bone marrow adipose tissue is inversely related to DXA-measured bone mineral in Caucasian women. Osteoporos Int. 2007 May;18(5):641-7. Epub 2006 Dec 1.</citation>
+    <PMID>17139464</PMID>
+  </reference>
+  <reference>
+    <citation>Bredella MA, Fazeli PK, Miller KK, Misra M, Torriani M, Thomas BJ, Ghomi RH, Rosen CJ, Klibanski A. Increased bone marrow fat in anorexia nervosa. J Clin Endocrinol Metab. 2009 Jun;94(6):2129-36. doi: 10.1210/jc.2008-2532. Epub 2009 Mar 24.</citation>
+    <PMID>19318450</PMID>
+  </reference>
+  <reference>
+    <citation>Botolin S, McCabe LR. Bone loss and increased bone adiposity in spontaneous and pharmacologically induced diabetic mice. Endocrinology. 2007 Jan;148(1):198-205. Epub 2006 Oct 19.</citation>
+    <PMID>17053023</PMID>
+  </reference>
+  <reference>
+    <citation>Saha MT, Sievänen H, Salo MK, Tulokas S, Saha HH. Bone mass and structure in adolescents with type 1 diabetes compared to healthy peers. Osteoporos Int. 2009 Aug;20(8):1401-6. doi: 10.1007/s00198-008-0810-0. Epub 2008 Dec 13.</citation>
+    <PMID>19083073</PMID>
+  </reference>
+  <reference>
+    <citation>Maggio AB, Ferrari S, Kraenzlin M, Marchand LM, Schwitzgebel V, Beghetti M, Rizzoli R, Farpour-Lambert NJ. Decreased bone turnover in children and adolescents with well controlled type 1 diabetes. J Pediatr Endocrinol Metab. 2010 Jul;23(7):697-707.</citation>
+    <PMID>20857842</PMID>
+  </reference>
+  <reference>
+    <citation>Gunczler P, Lanes R, Paoli M, Martinis R, Villaroel O, Weisinger JR. Decreased bone mineral density and bone formation markers shortly after diagnosis of clinical type 1 diabetes mellitus. J Pediatr Endocrinol Metab. 2001 May;14(5):525-8.</citation>
+    <PMID>11393573</PMID>
+  </reference>
+  <reference>
+    <citation>Vives-Pi M, Somoza N, Fernández-Alvarez J, Vargas F, Caro P, Alba A, Gomis R, Labeta MO, Pujol-Borrell R. Evidence of expression of endotoxin receptors CD14, toll-like receptors TLR4 and TLR2 and associated molecule MD-2 and of sensitivity to endotoxin (LPS) in islet beta cells. Clin Exp Immunol. 2003 Aug;133(2):208-18.</citation>
+    <PMID>12869026</PMID>
+  </reference>
+  <reference>
+    <citation>Liu D, Cardozo AK, Darville MI, Eizirik DL. Double-stranded RNA cooperates with interferon-gamma and IL-1 beta to induce both chemokine expression and nuclear factor-kappa B-dependent apoptosis in pancreatic beta-cells: potential mechanisms for viral-induced insulitis and beta-cell death in type 1 diabetes mellitus. Endocrinology. 2002 Apr;143(4):1225-34.</citation>
+    <PMID>11897677</PMID>
+  </reference>
+  <reference>
+    <citation>Willcox A, Richardson SJ, Bone AJ, Foulis AK, Morgan NG. Analysis of islet inflammation in human type 1 diabetes. Clin Exp Immunol. 2009 Feb;155(2):173-81. doi: 10.1111/j.1365-2249.2008.03860.x.</citation>
+    <PMID>19128359</PMID>
+  </reference>
+  <reference>
+    <citation>Braidotti P, Stagni L. A critical damping approach for assessing the role of marrow fat on the mechanical strength of trabecular bone. Med Hypotheses. 2007;69(1):43-6. Epub 2007 Feb 6.</citation>
+    <PMID>17287095</PMID>
+  </reference>
+  <reference>
+    <citation>Schellinger D, Lin CS, Lim J, Hatipoglu HG, Pezzullo JC, Singer AJ. Bone marrow fat and bone mineral density on proton MR spectroscopy and dual-energy X-ray absorptiometry: their ratio as a new indicator of bone weakening. AJR Am J Roentgenol. 2004 Dec;183(6):1761-5.</citation>
+    <PMID>15547224</PMID>
+  </reference>
+  <reference>
+    <citation>Pittenger MF, Mackay AM, Beck SC, Jaiswal RK, Douglas R, Mosca JD, Moorman MA, Simonetti DW, Craig S, Marshak DR. Multilineage potential of adult human mesenchymal stem cells. Science. 1999 Apr 2;284(5411):143-7.</citation>
+    <PMID>10102814</PMID>
+  </reference>
+  <reference>
+    <citation>Tontonoz P, Hu E, Graves RA, Budavari AI, Spiegelman BM. mPPAR gamma 2: tissue-specific regulator of an adipocyte enhancer. Genes Dev. 1994 May 15;8(10):1224-34.</citation>
+    <PMID>7926726</PMID>
+  </reference>
+  <reference>
+    <citation>Tontonoz P, Hu E, Spiegelman BM. Stimulation of adipogenesis in fibroblasts by PPAR gamma 2, a lipid-activated transcription factor. Cell. 1994 Dec 30;79(7):1147-56. Erratum in: Cell 1995 Mar 24;80(6):following 957.</citation>
+    <PMID>8001151</PMID>
+  </reference>
+  <reference>
+    <citation>Hassan MQ, Tare RS, Lee SH, Mandeville M, Morasso MI, Javed A, van Wijnen AJ, Stein JL, Stein GS, Lian JB. BMP2 commitment to the osteogenic lineage involves activation of Runx2 by DLX3 and a homeodomain transcriptional network. J Biol Chem. 2006 Dec 29;281(52):40515-26. Epub 2006 Oct 23.</citation>
+    <PMID>17060321</PMID>
+  </reference>
+  <reference>
+    <citation>Gaur T, Lengner CJ, Hovhannisyan H, Bhat RA, Bodine PV, Komm BS, Javed A, van Wijnen AJ, Stein JL, Stein GS, Lian JB. Canonical WNT signaling promotes osteogenesis by directly stimulating Runx2 gene expression. J Biol Chem. 2005 Sep 30;280(39):33132-40. Epub 2005 Jul 25.</citation>
+    <PMID>16043491</PMID>
+  </reference>
+  <reference>
+    <citation>Beresford JN, Bennett JH, Devlin C, Leboy PS, Owen ME. Evidence for an inverse relationship between the differentiation of adipocytic and osteogenic cells in rat marrow stromal cell cultures. J Cell Sci. 1992 Jun;102 ( Pt 2):341-51.</citation>
+    <PMID>1400636</PMID>
+  </reference>
+  <reference>
+    <citation>Lecka-Czernik B, Moerman EJ, Grant DF, Lehmann JM, Manolagas SC, Jilka RL. Divergent effects of selective peroxisome proliferator-activated receptor-gamma 2 ligands on adipocyte versus osteoblast differentiation. Endocrinology. 2002 Jun;143(6):2376-84.</citation>
+    <PMID>12021203</PMID>
+  </reference>
+  <reference>
+    <citation>Gimble JM, Morgan C, Kelly K, Wu X, Dandapani V, Wang CS, Rosen V. Bone morphogenetic proteins inhibit adipocyte differentiation by bone marrow stromal cells. J Cell Biochem. 1995 Jul;58(3):393-402.</citation>
+    <PMID>7593260</PMID>
+  </reference>
+  <reference>
+    <citation>Akune T, Ohba S, Kamekura S, Yamaguchi M, Chung UI, Kubota N, Terauchi Y, Harada Y, Azuma Y, Nakamura K, Kadowaki T, Kawaguchi H. PPARgamma insufficiency enhances osteogenesis through osteoblast formation from bone marrow progenitors. J Clin Invest. 2004 Mar;113(6):846-55.</citation>
+    <PMID>15067317</PMID>
+  </reference>
+  <reference>
+    <citation>Vajapeyam S, Ecklund K, Mulkern RV, Feldman HA, O'Donnell JM, DiVasta AD, Rosen CJ, Gordon CM. Magnetic resonance imaging and spectroscopy evidence of efficacy for adrenal and gonadal hormone replacement therapy in anorexia nervosa. Bone. 2018 May;110:335-342. doi: 10.1016/j.bone.2018.02.021. Epub 2018 Feb 26.</citation>
+    <PMID>29496516</PMID>
+  </reference>
+  <reference>
+    <citation>Moore SG, Dawson KL. Red and yellow marrow in the femur: age-related changes in appearance at MR imaging. Radiology. 1990 Apr;175(1):219-23.</citation>
+    <PMID>2315484</PMID>
+  </reference>
+  <reference>
+    <citation>Ricci C, Cova M, Kang YS, Yang A, Rahmouni A, Scott WW Jr, Zerhouni EA. Normal age-related patterns of cellular and fatty bone marrow distribution in the axial skeleton: MR imaging study. Radiology. 1990 Oct;177(1):83-8.</citation>
+    <PMID>2399343</PMID>
+  </reference>
+  <reference>
+    <citation>Carter DR, Bouxsein ML, Marcus R. New approaches for interpreting projected bone densitometry data. J Bone Miner Res. 1992 Feb;7(2):137-45.</citation>
+    <PMID>1570758</PMID>
+  </reference>
+  <reference>
+    <citation>Kalkwarf HJ, Zemel BS, Gilsanz V, Lappe JM, Horlick M, Oberfield S, Mahboubi S, Fan B, Frederick MM, Winer K, Shepherd JA. The bone mineral density in childhood study: bone mineral content and density according to age, sex, and race. J Clin Endocrinol Metab. 2007 Jun;92(6):2087-99. Epub 2007 Feb 20.</citation>
+    <PMID>17311856</PMID>
+  </reference>
+  <reference>
+    <citation>Shepherd JA, Wang L, Fan B, Gilsanz V, Kalkwarf HJ, Lappe J, Lu Y, Hangartner T, Zemel BS, Fredrick M, Oberfield S, Winer KK. Optimal monitoring time interval between DXA measures in children. J Bone Miner Res. 2011 Nov;26(11):2745-52. doi: 10.1002/jbmr.473.</citation>
+    <PMID>21773995</PMID>
+  </reference>
+  <reference>
+    <citation>Leonard MB, Elmi A, Mostoufi-Moab S, Shults J, Burnham JM, Thayu M, Kibe L, Wetzsteon RJ, Zemel BS. Effects of sex, race, and puberty on cortical bone and the functional muscle bone unit in children, adolescents, and young adults. J Clin Endocrinol Metab. 2010 Apr;95(4):1681-9. doi: 10.1210/jc.2009-1913. Epub 2010 Feb 15.</citation>
+    <PMID>20157194</PMID>
+  </reference>
+  <reference>
+    <citation>Thayu M, Shults J, Burnham JM, Zemel BS, Baldassano RN, Leonard MB. Gender differences in body composition deficits at diagnosis in children and adolescents with Crohn's disease. Inflamm Bowel Dis. 2007 Sep;13(9):1121-8.</citation>
+    <PMID>17427245</PMID>
+  </reference>
+  <reference>
+    <citation>Augat P, Reeb H, Claes LE. Prediction of fracture load at different skeletal sites by geometric properties of the cortical shell. J Bone Miner Res. 1996 Sep;11(9):1356-63.</citation>
+    <PMID>8864911</PMID>
+  </reference>
+  <reference>
+    <citation>Liu D, Manske SL, Kontulainen SA, Tang C, Guy P, Oxland TR, McKay HA. Tibial geometry is associated with failure load ex vivo: a MRI, pQCT and DXA study. Osteoporos Int. 2007 Jul;18(7):991-7. Epub 2007 Feb 1.</citation>
+    <PMID>17268944</PMID>
+  </reference>
+  <reference>
+    <citation>Kanal E, Barkovich AJ, Bell C, Borgstede JP, Bradley WG Jr, Froelich JW, Gilk T, Gimbel JR, Gosbee J, Kuhni-Kaminski E, Lester JW Jr, Nyenhuis J, Parag Y, Schaefer DJ, Sebek-Scoumis EA, Weinreb J, Zaremba LA, Wilcox P, Lucey L, Sass N; ACR Blue Ribbon Panel on MR Safety. ACR guidance document for safe MR practices: 2007. AJR Am J Roentgenol. 2007 Jun;188(6):1447-74.</citation>
+    <PMID>17515363</PMID>
+  </reference>
+  <reference>
+    <citation>Thomas SR, Kalkwarf HJ, Buckley DD, Heubi JE. Effective dose of dual-energy X-ray absorptiometry scans in children as a function of age. J Clin Densitom. 2005 Winter;8(4):415-22.</citation>
+    <PMID>16311426</PMID>
+  </reference>
+  <reference>
+    <citation>Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. Research electronic data capture (REDCap)--a metadata-driven methodology and workflow process for providing translational research informatics support. J Biomed Inform. 2009 Apr;42(2):377-81. doi: 10.1016/j.jbi.2008.08.010. Epub 2008 Sep 30.</citation>
+    <PMID>18929686</PMID>
+  </reference>
+  <reference>
+    <citation>DiVasta AD, Mulkern RV, Gordon CM, Ecklund K. MR Imaging in a case of severe anorexia nervosa: the 'flip-flop' effect. Pediatr Radiol. 2015 Apr;45(4):617-20. doi: 10.1007/s00247-014-3145-3. Epub 2014 Aug 17.</citation>
+    <PMID>25129340</PMID>
+  </reference>
+  <reference>
+    <citation>Suzawa M, Takada I, Yanagisawa J, Ohtake F, Ogawa S, Yamauchi T, Kadowaki T, Takeuchi Y, Shibuya H, Gotoh Y, Matsumoto K, Kato S. Cytokines suppress adipogenesis and PPAR-gamma function through the TAK1/TAB1/NIK cascade. Nat Cell Biol. 2003 Mar;5(3):224-30. Retraction in: Nat Cell Biol. 2014 Nov;16(11):1126.</citation>
+    <PMID>12598905</PMID>
+  </reference>
+  <reference>
+    <citation>Harris L, Senagore P, Young VB, McCabe LR. Inflammatory bowel disease causes reversible suppression of osteoblast and chondrocyte function in mice. Am J Physiol Gastrointest Liver Physiol. 2009 May;296(5):G1020-9. doi: 10.1152/ajpgi.90696.2008. Epub 2009 Mar 19.</citation>
+    <PMID>19299577</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>July 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 11, 2020</study_first_posted>
+  <last_update_submitted>October 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Boston Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Rebecca Gordon</investigator_full_name>
+    <investigator_title>Rebecca Gordon, MD Attending Physician, Division of Endocrinology Instructor of Pediatrics, Harvard Medical School</investigator_title>
+  </responsible_party>
+  <keyword>Crohn</keyword>
+  <keyword>Bone Marrow</keyword>
+  <keyword>Dual-energy X-ray absorptiometry</keyword>
+  <keyword>Peripheral Quantitative Computed Tomography</keyword>
+  <keyword>Magnetic Resonance Imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Crohn Disease</mesh_term>
+    <mesh_term>Inflammatory Bowel Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,793 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03710577</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2017-0980</org_study_id>
+    <secondary_id>A176000</secondary_id>
+    <secondary_id>EDUC/KINESIOLOGY/KINESIO</secondary_id>
+    <nct_id>NCT03710577</nct_id>
+  </id_info>
+  <brief_title>Endocannabinoid and Psychological Responses to Yoga in Healthy Adults</brief_title>
+  <official_title>Endocannabinoid and Psychological Responses to Yoga in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Wisconsin, Madison</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Wisconsin, Madison</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates the acute effect of yoga on plasma levels of endocannabinoids and mood&#xD;
+      (i.e., mood disturbance, anxiety, pain) compared to one session of quiet rest. Participants&#xD;
+      completed one session of yoga and one session of quiet rest on two separate days.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 12, 2017</start_date>
+  <completion_date type="Actual">May 16, 2018</completion_date>
+  <primary_completion_date type="Actual">May 16, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>The proposed study is an acute, single group, crossover pilot study where participants will complete control and experimental conditions.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Plasma Concentration of N-arachidonoylethanolamine</measure>
+    <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+    <description>Plasma concentration of anandamide, one effector of the endocannabinoid system</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Plasma Concentration of 2-Arachidonoylglycerol (2-AG)</measure>
+    <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+    <description>Plasma concentration of 2-AG, one effector of the endocannabinoid system</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Total Mood Disturbance as Measured by the Profile of Mood States</measure>
+    <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+    <description>65-item self-reported mood questionnaire that measures mood &quot;right now.&quot; Scores range from 0-200 with higher scores indicating higher mood disturbance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in State Anxiety as Measured by the State-Trait Anxiety Inventory</measure>
+    <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+    <description>20-item self-reported anxiety questionnaire that measures anxiety &quot;right now.&quot; Scores range from 20-80 with higher scores indicating higher anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Total Pain as Measured by the Short-form McGill Pain Questionnaire</measure>
+    <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+    <description>15-item self-reported pain questionnaire that measures pain &quot;right now.&quot; Scores range from 0-45 with higher scores indicating higher pain.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">12</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Yoga</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>40 minutes of Vinyasa yoga</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Quiet Rest</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>40 minutes of quiet rest</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Yoga</intervention_name>
+    <description>1 session</description>
+    <arm_group_label>Yoga</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Quiet Rest</intervention_name>
+    <description>1 session</description>
+    <arm_group_label>Quiet Rest</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  greater than or equal to 18 years old and &lt; 45 years old and&#xD;
+&#xD;
+          -  report being healthy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Being pregnant or planning to become pregnant,&#xD;
+&#xD;
+          -  currently smoking,&#xD;
+&#xD;
+          -  having a history of light headedness or fainting during blood draws or physical&#xD;
+             activity,&#xD;
+&#xD;
+          -  having a history of chest pain during physical activity,&#xD;
+&#xD;
+          -  having a bone, joint, cardiac, or other medical condition that a doctor has said may&#xD;
+             be worsened by physical activity,&#xD;
+&#xD;
+          -  taking medications for any chronic diseases such as high blood pressure or diabetes,&#xD;
+&#xD;
+          -  responding 'Yes' to any of the seven questions on the Par-Q.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kelli Koltyn, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin, Madison</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Wisconsin-Madison Natatorium</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>June 21, 2018</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 18, 2018</study_first_posted>
+  <results_first_submitted>September 30, 2020</results_first_submitted>
+  <results_first_submitted_qc>September 30, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 26, 2020</results_first_posted>
+  <last_update_submitted>November 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 6, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/77/NCT03710577/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Volunteers were recruited from students, faculty, and staff at the University of Wisconsin - Madison to participate in this study.</recruitment_details>
+      <pre_assignment_details>Volunteer eligibility was determined through a preliminary phone screen, participants were randomly assigned to receive the experimental task (Yoga) or the control task (quiet rest) first. Participants will then cross over 2-5 days after their first task to act as their own controls.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Yoga, Then Quiet Rest</title>
+          <description>40 minutes of Vinyasa yoga Yoga: 1 session&#xD;
+2-5 days between sessions&#xD;
+40 minutes of quiet rest Quiet Rest: 1 session</description>
+        </group>
+        <group group_id="P2">
+          <title>Quiet Rest, Then Yoga</title>
+          <description>40 minutes of quiet rest Quiet Rest: 1 session&#xD;
+2-5 days between sessions&#xD;
+40 minutes of Yoga Yoga: 1 session</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>First Intervention</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Time Between Sessions (2-5 Days)</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Second Intervention</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Yoga, the Quiet Rest</title>
+          <description>40 minutes of Vinyasa yoga Yoga: 1 session&#xD;
+2-5 days between sessions&#xD;
+40 minutes of Quiet Rest Quiet Rest: 1 session</description>
+        </group>
+        <group group_id="B2">
+          <title>Quiet Rest, Then Yoga</title>
+          <description>40 minutes of quiet rest Quiet Rest: 1 session&#xD;
+2-5 days between sessions&#xD;
+40 minutes of Yoga Yoga: 1 session</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="8"/>
+            <count group_id="B2" value="4"/>
+            <count group_id="B3" value="12"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25.75" spread="6.92"/>
+                    <measurement group_id="B2" value="23" spread="3.16"/>
+                    <measurement group_id="B3" value="24.83" spread="5.92"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <description>Participants who marked their Ethnicity as 'Hispanic or Latino' also marked their Race as 'Hispanic or Latino'.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Race</title>
+              <category_list>
+                <category>
+                  <title>American Indian or Native American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian or Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or not reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Plasma Concentration of N-arachidonoylethanolamine</title>
+        <description>Plasma concentration of anandamide, one effector of the endocannabinoid system</description>
+        <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+        <population>All participants for whom plasma samples were taken at baseline and post exercise</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Yoga</title>
+            <description>40 minutes of Vinyasa yoga&#xD;
+Yoga: 1 session</description>
+          </group>
+          <group group_id="O2">
+            <title>Quiet Rest</title>
+            <description>40 minutes of quiet rest&#xD;
+Quiet Rest: 1 session</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Plasma Concentration of N-arachidonoylethanolamine</title>
+          <description>Plasma concentration of anandamide, one effector of the endocannabinoid system</description>
+          <population>All participants for whom plasma samples were taken at baseline and post exercise</population>
+          <units>pmol/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-.013" spread=".928"/>
+                    <measurement group_id="O2" value="-.655" spread=".724"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Plasma Concentration of 2-Arachidonoylglycerol (2-AG)</title>
+        <description>Plasma concentration of 2-AG, one effector of the endocannabinoid system</description>
+        <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+        <population>All participants for whom plasma samples were taken at baseline and post exercise</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Yoga</title>
+            <description>40 minutes of Vinyasa yoga&#xD;
+Yoga: 1 session</description>
+          </group>
+          <group group_id="O2">
+            <title>Quiet Rest</title>
+            <description>40 minutes of quiet rest&#xD;
+Quiet Rest: 1 session</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Plasma Concentration of 2-Arachidonoylglycerol (2-AG)</title>
+          <description>Plasma concentration of 2-AG, one effector of the endocannabinoid system</description>
+          <population>All participants for whom plasma samples were taken at baseline and post exercise</population>
+          <units>pmol/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value=".032" spread=".074"/>
+                    <measurement group_id="O2" value="-.008" spread=".049"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Total Mood Disturbance as Measured by the Profile of Mood States</title>
+        <description>65-item self-reported mood questionnaire that measures mood &quot;right now.&quot; Scores range from 0-200 with higher scores indicating higher mood disturbance.</description>
+        <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+        <population>All participants who completed the Profile of Mood States.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Yoga</title>
+            <description>40 minutes of Vinyasa yoga&#xD;
+Yoga: 1 session</description>
+          </group>
+          <group group_id="O2">
+            <title>Quiet Rest</title>
+            <description>40 minutes of quiet rest&#xD;
+Quiet Rest: 1 session</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Total Mood Disturbance as Measured by the Profile of Mood States</title>
+          <description>65-item self-reported mood questionnaire that measures mood &quot;right now.&quot; Scores range from 0-200 with higher scores indicating higher mood disturbance.</description>
+          <population>All participants who completed the Profile of Mood States.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-9.41" spread="9.12"/>
+                    <measurement group_id="O2" value="-7.17" spread="14.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in State Anxiety as Measured by the State-Trait Anxiety Inventory</title>
+        <description>20-item self-reported anxiety questionnaire that measures anxiety &quot;right now.&quot; Scores range from 20-80 with higher scores indicating higher anxiety.</description>
+        <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+        <population>All participants who completed the State-Trait Anxiety Inventory.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Yoga</title>
+            <description>40 minutes of Vinyasa yoga&#xD;
+Yoga: 1 session</description>
+          </group>
+          <group group_id="O2">
+            <title>Quiet Rest</title>
+            <description>40 minutes of quiet rest&#xD;
+Quiet Rest: 1 session</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in State Anxiety as Measured by the State-Trait Anxiety Inventory</title>
+          <description>20-item self-reported anxiety questionnaire that measures anxiety &quot;right now.&quot; Scores range from 20-80 with higher scores indicating higher anxiety.</description>
+          <population>All participants who completed the State-Trait Anxiety Inventory.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.58" spread="10.48"/>
+                    <measurement group_id="O2" value="-1.92" spread="8.40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Total Pain as Measured by the Short-form McGill Pain Questionnaire</title>
+        <description>15-item self-reported pain questionnaire that measures pain &quot;right now.&quot; Scores range from 0-45 with higher scores indicating higher pain.</description>
+        <time_frame>This will be measured 2 times during each study visit, once before the assigned study task (i.e., baseline) and once upon task completion (i.e., approx. 40 min. later)</time_frame>
+        <population>All participants who completed the Short-form McGill Pain Questionnaire.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Yoga</title>
+            <description>40 minutes of Vinyasa yoga&#xD;
+Yoga: 1 session</description>
+          </group>
+          <group group_id="O2">
+            <title>Quiet Rest</title>
+            <description>40 minutes of quiet rest&#xD;
+Quiet Rest: 1 session</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Total Pain as Measured by the Short-form McGill Pain Questionnaire</title>
+          <description>15-item self-reported pain questionnaire that measures pain &quot;right now.&quot; Scores range from 0-45 with higher scores indicating higher pain.</description>
+          <population>All participants who completed the Short-form McGill Pain Questionnaire.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.50" spread="1.57"/>
+                    <measurement group_id="O2" value="0.00" spread="2.63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Participants were monitored for adverse events while completing the research protocol on-site (i.e., 2 sessions on separate days, lasting about 1 hour each).</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Yoga</title>
+          <description>40 minutes of Vinyasa yoga&#xD;
+Yoga: 1 session</description>
+        </group>
+        <group group_id="E2">
+          <title>Quiet Rest</title>
+          <description>40 minutes of quiet rest&#xD;
+Quiet Rest: 1 session</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="12"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Kelli Koltyn</name_or_title>
+      <organization>Univerisity of Wisconsin-Madison</organization>
+      <phone>608-262-4234</phone>
+      <email>koltyn@education.wisc.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

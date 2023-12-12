@@ -1,0 +1,203 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04628975</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-A00891-38</org_study_id>
+    <nct_id>NCT04628975</nct_id>
+  </id_info>
+  <brief_title>PeRfusion Emergency VEiNlite Transillumination</brief_title>
+  <acronym>PREVENT</acronym>
+  <official_title>Evaluation of the Efficacy of Transillumination on Peripheral Venous Line Placement in Patients With a Difficult Vascular Approach Who Are Managed in the Emergency Department.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Central Hospital, Nancy, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Central Hospital, Nancy, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      When taking care of an emergency patient (Emergency Reception Service: UAS and Urgent Medical&#xD;
+      Assistance Service: SAMU), the installation of a peripheral venous route (VVP) is an&#xD;
+      important step. The benchmark method is the most widely used technique. This vascular access&#xD;
+      will allow the necessary therapy to be delivered quickly and efficiently. This can be&#xD;
+      difficult and sometimes doomed to failure for reasons related both to the patient (venous&#xD;
+      capital not very visible / felt or limited due to the profile of the patient), or sometimes&#xD;
+      also for reasons related to the patient. environment (limited lighting, difficult patient&#xD;
+      access). The only current alternatives lie in the use of a device such as the Intra-Bone&#xD;
+      Device (IID) or the installation of a central venous line. On the other hand, these&#xD;
+      alternatives are particularly invasive and / or very algogenic.&#xD;
+&#xD;
+      There are other techniques, which are more affordable and &quot;transportable&quot; outside the&#xD;
+      hospital. Indeed, trans-illumination with a very short training seems to be a particularly&#xD;
+      interesting alternative. It allows, thanks to LEDs in contact with the skin, to backlight the&#xD;
+      superficial veins.&#xD;
+&#xD;
+      It is proposed through this project to evaluate this tool for a category of patients&#xD;
+      considered &quot;difficult&quot; to infuse, both within hospital and outside hospital.&#xD;
+&#xD;
+      The main objective of the study is to assess the effectiveness of the transillumination&#xD;
+      device, compared to the absence of such a device, on the placement of a peripheral venous&#xD;
+      line (PVP) in patients with a difficult vascular approach and managed in the emergency room&#xD;
+      and whose clinical condition does not require the installation of an intraosseous device.&#xD;
+&#xD;
+      This is a multicenter, prospective, controlled, randomized and open clinical study, according&#xD;
+      to a cross-over design. The intervention evaluated is the placement of a PVR using the&#xD;
+      trans-illumination device. The control intervention is the placement of a PVR without this&#xD;
+      device, according to the reference method, which is the benchmark method.&#xD;
+&#xD;
+      400 patients presenting to the emergency room will be included in the centers of Nancy, Toul&#xD;
+      and Pont-à-Mousson.&#xD;
+&#xD;
+      Depending on their randomization group, nurses will perform peripheral venous insertion by&#xD;
+      the transillumination method or by the control method.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>multi-center prospective randomized cross-over study</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of patients for whom peripheral venous vein placement was successful on the first attempt</measure>
+    <time_frame>immediately after procedure</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>number of attempts before successful venous line placement</measure>
+    <time_frame>during the procedure</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>patient pain</measure>
+    <time_frame>during the procedure</time_frame>
+    <description>The patient's pain is measured by the digital pain scale (scale ranging from 0 (no pain) to 10 (intolerable pain)).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>nurse stress</measure>
+    <time_frame>during the procedure</time_frame>
+    <description>Nurse stress is measured by the digital stress scale (scale ranging from 0 (no stress) to 10 (intolerable stress)).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The caliber of the peripheral venous route</measure>
+    <time_frame>during the procedure</time_frame>
+    <description>measured by the type of catheter gauge used</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Emergencies</condition>
+  <condition>Toxicomania</condition>
+  <condition>Hypotension</condition>
+  <condition>Obesity</condition>
+  <condition>Cachexia</condition>
+  <condition>Hypothermia</condition>
+  <arm_group>
+    <arm_group_label>with transillumination</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The nurses will use the Transillumination method for a period P1. Then these same nurses will use the control method (without transillumination) for a period P2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>without transillumination (control method)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The nurses will use the control method for a period P1. Then these same nurses will use the Transillumination method for a period P2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>transillumination dispositif</intervention_name>
+    <description>infrared light</description>
+    <arm_group_label>with transillumination</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        &gt;= 18 years old&#xD;
+&#xD;
+          -  extrem body mass index&#xD;
+&#xD;
+          -  hypotension&#xD;
+&#xD;
+          -  toxicomania&#xD;
+&#xD;
+          -  limited ponction site&#xD;
+&#xD;
+          -  hypotherm patient&#xD;
+&#xD;
+          -  dehydrated patient&#xD;
+&#xD;
+          -  generalized edema&#xD;
+&#xD;
+          -  non-supportive environment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  parturient / pregnant female / breastfeeding mother&#xD;
+&#xD;
+          -  unemancipated minor&#xD;
+&#xD;
+          -  adults under legal protection&#xD;
+&#xD;
+          -  person under judicial protection, guardianship or curatorship&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Catherine Staszewski</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CH Pont à Mousson</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Julie Lecomte</last_name>
+    <phone>0383155278</phone>
+    <email>ju.lecomte@chru-nancy.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Catherine Staszewski</last_name>
+    <email>cathpam@hotmail.fr</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>October 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2020</study_first_posted>
+  <last_update_submitted>November 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adult</keyword>
+  <keyword>peripheral venous approach</keyword>
+  <keyword>emergency</keyword>
+  <keyword>transillumation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypotension</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+    <mesh_term>Hypothermia</mesh_term>
+    <mesh_term>Cachexia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

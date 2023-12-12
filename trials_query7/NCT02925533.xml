@@ -1,0 +1,384 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02925533</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16-246</org_study_id>
+    <nct_id>NCT02925533</nct_id>
+  </id_info>
+  <brief_title>Ph 1B B-701 in Combination With Pembrolizumab in Metastatic Transitional Cell Carcinoma of the Urothelial Tract</brief_title>
+  <official_title>A Phase 1B Study of B-701 in Combination With Pembrolizumab in Relapsed or Refractory Locally Advanced or Metastatic Transitional Cell Carcinoma of the Urothelial Tract</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mark Pomerantz, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rainier Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dana-Farber Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research study is studying a combination of two experimental drugs as a possible&#xD;
+      treatment for Bladder Cancer that recurred after treatment with standard therapy, or Bladder&#xD;
+      Cancer that got worse while on treatment with standard therapy.&#xD;
+&#xD;
+      The following interventions will be involved in this study:&#xD;
+&#xD;
+        -  B-701&#xD;
+&#xD;
+        -  Pembrolizumab&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This research study is a Phase I clinical trial, which tests the safety of an investigational&#xD;
+      intervention and also tries to define the appropriate dose of the investigational&#xD;
+      intervention to use for further studies. &quot;Investigational&quot; means that the intervention is&#xD;
+      being studied.&#xD;
+&#xD;
+      The FDA (the U.S. Food and Drug Administration) has not approved B-701 as a treatment for any&#xD;
+      disease.&#xD;
+&#xD;
+      The FDA has not approved Pembrolizumab for Bladder Cancer but it has been approved for other&#xD;
+      uses.&#xD;
+&#xD;
+      This is the first time that B-701 in combination with Pembrolizumab will be given to humans.&#xD;
+&#xD;
+      In this research study, Investigators are...&#xD;
+&#xD;
+        -  Testing the effectiveness and safety of the combination of two experimental drugs (B-701&#xD;
+           and Pembrolizumab);&#xD;
+&#xD;
+        -  Learning about the good and/or bad effects the drugs have on participants and their&#xD;
+           cancer;&#xD;
+&#xD;
+        -  Administering B-701 and Pembrolizumab, which are antibodies (proteins that bind to other&#xD;
+           molecules), because...&#xD;
+&#xD;
+             -  B-701 binds to a protein receptor called FGFR3 (fibroblast growth factor receptor&#xD;
+                3). FGFR3 has been found to be present (expressed) or changed (mutated) on the&#xD;
+                surface of in many types of cancer cells. Targeting FGFR3 may inhibit cancer&#xD;
+                growth.&#xD;
+&#xD;
+             -  Pembrolizumab binds to a protein cell surface receptor called PD-1, which is found&#xD;
+                on certain types of lymphocytes and which are also involved in many types of&#xD;
+                cancer;&#xD;
+&#xD;
+        -  Treating participants with Pembrolizumab, which is approved by the FDA for the treatment&#xD;
+           of Metastatic Melanoma, a Cancer of the skin;&#xD;
+&#xD;
+        -  Collecting blood and tissue samples and other related medical information to learn more&#xD;
+           about the development of cancer and predictors of response;&#xD;
+&#xD;
+        -  And hoping to learn how the combination of study drugs work in the treatment of cancer&#xD;
+           to help develop new treatments.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Terminated due to safety concerns.&#xD;
+  </why_stopped>
+  <start_date type="Actual">December 14, 2016</start_date>
+  <completion_date type="Actual">June 2017</completion_date>
+  <primary_completion_date type="Actual">June 2017</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Preliminarily Evaluate The Safety Of B-701 In Combination With Pembrolizumab For The Treatment Of TCC</measure>
+    <time_frame>2 years</time_frame>
+    <description>Safety will be assessed through summaries of AEs (adverse events), changes in laboratory test results, ECGs (electrocardiograms), and changes in vital signs</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To Assess The Efficacy Of B-701 In Combination With Pembrolizumab For The Treatment Of TCC</measure>
+    <time_frame>2 years</time_frame>
+    <description>Measured by RECIST-based assessment of response and progression</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">1</enrollment>
+  <condition>Bladder Cancer</condition>
+  <arm_group>
+    <arm_group_label>B-701 and Pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>B-701 will be administered every 3 weeks intravenously&#xD;
+Pembrolizumab will be administered every 3 weeks intravenously</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>B-701</intervention_name>
+    <description>B-701 is a phage-derived, affinity-matured, human monoclonal antibody (mAb) specific for FGFR3. It is based on a human immunoglobulin G1 (IgG1) framework containing heavy chain VHIII and light chain VκI subgroup sequences.</description>
+    <arm_group_label>B-701 and Pembrolizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Pembrolizumab is an mAb that binds to the programmed cell death protein 1 (PD-1) receptor and blocks its interaction with programmed death-ligand 1 (PD-L1) and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response. In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tumor growth.</description>
+    <arm_group_label>B-701 and Pembrolizumab</arm_group_label>
+    <other_name>Keytruda, MK-3475</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants must have Stage IV, locally advanced or metastatic (T4b, any N; or any T,&#xD;
+             N2-3) urothelial bladder cancer or transitional cell carcinoma (TCC) arising in&#xD;
+             another location of the urinary tract, including urethra, ureter, and renal pelvis.&#xD;
+             The diagnosis must be histologically or cytologically confirmed. Mixed histologies are&#xD;
+             permitted as long as TCC is the major component (i.e. &gt; 50% of the pathologic&#xD;
+             specimen). Pure or predominant squamous cell carcinomas or adenocarcinomas are not&#xD;
+             permitted.&#xD;
+&#xD;
+          -  Relapsed after or refractory to one or two prior lines of chemotherapy for advanced or&#xD;
+             metastatic/recurrent disease (at least one cycle each) which have not included a PD-L1&#xD;
+             or FGFR inhibitor. At least one regimen should have included a platinum agent unless&#xD;
+             contraindicated for the subject. Prior neoadjuvant or adjuvant chemotherapy (without a&#xD;
+             PD-L1 or FGFR inhibitor) is permitted and will not be counted as first-line&#xD;
+             chemotherapy, as long as the subject has not progressed within 12 months of the last&#xD;
+             dose. However, a regimen of neoadjuvant or adjuvant chemotherapy will be counted as&#xD;
+             first-line chemotherapy if the patient progressed within 12 months of the last dose.&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Eastern cooperative oncology group (ECOG) performance status ≤ 1 (Karnofsky ≥ 60%)&#xD;
+&#xD;
+          -  Participants must have normal organ and marrow function as defined below:&#xD;
+&#xD;
+               -  leukocytes ≥ 3000/mcL&#xD;
+&#xD;
+               -  absolute neutrophil count ≥ 1500/mcL&#xD;
+&#xD;
+               -  platelets ≥ 75,000/mcL&#xD;
+&#xD;
+               -  hemoglobin ≥ 9 g/dL or ≥ 5.6 mmol/L&#xD;
+&#xD;
+               -  total bilirubin within normal institutional limits&#xD;
+&#xD;
+               -  EXCEPTION: Subjects with known Gilbert's disease: total bilirubin ≤ 3 ×&#xD;
+                  institutional upper limit of normal (ULN)&#xD;
+&#xD;
+               -  aspartate aminotransferase (AST) or serum glutamic oxaloacetic transaminase&#xD;
+                  (SGOT)/Alanine aminotransferase (ALT) serum glutamic pyruvic transaminase (SGPT)&#xD;
+                  ≤ 2.5 × institutional ULN&#xD;
+&#xD;
+               -  EXCEPTION: Subjects with documented liver metastases: AST and/or ALT ≤ 5 ×&#xD;
+                  institutional ULN&#xD;
+&#xD;
+               -  creatinine within normal institutional limits OR&#xD;
+&#xD;
+               -  creatinine clearance ≥ 60 mL/min/1.73 m2 for participants with creatinine levels&#xD;
+                  above institutional normal (derived by the Cockcroft-Gault formula [Cockcroft&#xD;
+                  1976])&#xD;
+&#xD;
+               -  albumin ≥ 2.5 mg/dL&#xD;
+&#xD;
+               -  prothrombin time/international normalized ratio (PT/INR) and partial&#xD;
+                  thromboplastin time (PTT) ≤ 1.5 × institutional ULN&#xD;
+&#xD;
+          -  Note: Screening labs should be performed within 10 days of treatment initiation.&#xD;
+&#xD;
+          -  Absence of any psychological, familial, sociological, or geographical condition&#xD;
+             potentially hampering compliance with the study protocol and follow-up schedule (such&#xD;
+             conditions should be discussed with the subject before study entry)&#xD;
+&#xD;
+          -  The effects of B-701 on the developing human fetus are unknown. For this reason and&#xD;
+             because PD-1 inhibitors such as pembrolizumab may potentially cause fetal harm, women&#xD;
+             of child-bearing potential (defined as those who have not been surgically sterilized&#xD;
+             or have not been free from menses for &gt; 1 year) and men must agree to use adequate&#xD;
+             contraception (hormonal or barrier method of birth control; abstinence) prior to study&#xD;
+             entry and for the duration of study participation. Should a woman become pregnant or&#xD;
+             suspect she is pregnant while she or her partner is participating in this study, she&#xD;
+             should inform her treating physician immediately. Men treated or enrolled on this&#xD;
+             protocol must also agree to use adequate contraception prior to the study, for the&#xD;
+             duration of study participation, and 4 months after completion of study drug&#xD;
+             administration.&#xD;
+&#xD;
+          -  Female of childbearing potential should have a negative urine or serum pregnancy test&#xD;
+             within 72 hours prior to receiving the first dose of study medications. If the urine&#xD;
+             test is positive or cannot be confirmed as negative, a serum pregnancy test will be&#xD;
+             required.&#xD;
+&#xD;
+          -  Female of childbearing potential must be willing to use 2 methods of birth control or&#xD;
+             be surgically sterile, or abstain from heterosexual activity for the course of the&#xD;
+             study and through 4 months after the last dose of study medication.&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants who have had chemotherapy, targeted small molecule therapy, or&#xD;
+             radiotherapy within 2 weeks (6 weeks for nitrosoureas or mitomycin C) prior to&#xD;
+             entering the study or those who have not recovered from adverse events due to agents&#xD;
+             administered more than 2 weeks earlier.&#xD;
+&#xD;
+          -  Participants who are receiving, or have received, any other investigational drugs or&#xD;
+             devices within the 2 weeks prior to the first dose of study medications.&#xD;
+&#xD;
+          -  Participants who received major surgery must be recovered adequately from the toxicity&#xD;
+             and/or complications from the interventions prior to starting therapy.&#xD;
+&#xD;
+          -  Participants with a diagnosis of immunodeficiency or who are receiving systemic&#xD;
+             steroid therapy (&gt;5 mg prednisone or its equivalent) or any other form of&#xD;
+             immunosuppressive therapy within 7 days prior to the first dose of study treatment.&#xD;
+&#xD;
+          -  Participants who have a primary central nervous system (CNS) malignancy, or&#xD;
+             untreated/active CNS metastases (progressing or requiring anticonvulsants or&#xD;
+             corticosteroids for symptomatic control). Individuals with a history of treated CNS&#xD;
+             metastases are eligible, provided they meet all of the following criteria:&#xD;
+&#xD;
+               -  Evaluable or measurable disease outside the CNS&#xD;
+&#xD;
+               -  Radiographic demonstration of stability upon the completion of CNS directed&#xD;
+                  therapy and no evidence of interim progression (for at least 4 weeks prior to the&#xD;
+                  first dose of study drug) between the completion of CNS-directed therapy and the&#xD;
+                  screening radiographic procedure&#xD;
+&#xD;
+               -  The screening CNS radiographic procedure is ≥ 8 weeks since completion of&#xD;
+                  radiotherapy and ≥ 4 weeks since the discontinuation of corticosteroids and&#xD;
+                  anticonvulsants Note: These exceptions do not include carcinomatous meningitis&#xD;
+                  which is excluded regardless of clinical stability.&#xD;
+&#xD;
+          -  Participants with a history of allergic reactions attributed to monoclonal antibody&#xD;
+             therapy (or recombinant antibody-related fusion proteins)&#xD;
+&#xD;
+          -  Participants with active autoimmune disease that has required systemic treatment (&gt;5&#xD;
+             mg of prednisone or its equivalent) in the past 2 years (i.e. with use of disease&#xD;
+             modifying agents, corticosteroids, or immunosuppressive drugs). Replacement therapy&#xD;
+             (eg., thyroxine, insulin, or physiologic corticosteroid replacement therapy for&#xD;
+             adrenal or pituitary insufficiency, etc.) is not considered a form of systemic&#xD;
+             treatment.&#xD;
+&#xD;
+          -  Participants with known evidence of active, non-infectious pneumonitis.&#xD;
+&#xD;
+          -  Participants with an active infection requiring systemic therapy.&#xD;
+&#xD;
+          -  Participants who have received a live vaccine within 30 days of planned start of study&#xD;
+             therapy.&#xD;
+&#xD;
+        Note: Seasonal influenza vaccines for injection are generally inactivated flu vaccines and&#xD;
+        are allowed; however intranasal influenza vaccines (e.g., Flu-Mist®) are live attenuated&#xD;
+        vaccines, and are not allowed.&#xD;
+&#xD;
+          -  Participants who have had a prior anti-cancer monoclonal antibody (mAb) within 2 weeks&#xD;
+             prior to Cycle 1 Day 1 or who have not recovered (i.e., ≤ Grade 1 or at baseline) from&#xD;
+             adverse events due to agents administered more than 2 weeks earlier.&#xD;
+&#xD;
+          -  Participants unwilling or unable to discontinue use of prohibited therapies, including&#xD;
+             any cytotoxic chemotherapy, radiotherapy, immunotherapy or biologic agent (approved or&#xD;
+             investigational) for the treatment of TCC are ineligible.&#xD;
+&#xD;
+          -  Participants with uncontrolled intercurrent illness including, but not limited to,&#xD;
+             ongoing or active infection, symptomatic congestive heart failure, unstable angina&#xD;
+             pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would&#xD;
+             limit compliance with study requirements.&#xD;
+&#xD;
+          -  Participants who have undergone a major surgical procedure or trauma within 4 weeks&#xD;
+             prior to Cycle 1, Day 1. All wounds must be fully healed on Cycle 1, Day 1&#xD;
+&#xD;
+          -  Participants with a history of other malignancy which could affect compliance with the&#xD;
+             protocol or interpretation of results. Individuals with a history of curatively&#xD;
+             treated basal or squamous cell carcinoma of the skin or in situ carcinoma of the&#xD;
+             cervix are allowed. Participants with a malignancy that has been treated with curative&#xD;
+             intent will also be allowed if the malignancy has been in remission without treatment&#xD;
+             for ≥ 2 years prior to Cycle 1, Day 1.&#xD;
+&#xD;
+          -  Pregnant women are excluded from this study because the risks with B-701 are unknown&#xD;
+             and pembrolizumab is a PD-1 inhibitor with the potential for teratogenic or&#xD;
+             abortifacient effects. Because there is an unknown but potential risk for adverse&#xD;
+             events in nursing infants secondary to treatment of the mother with B-701 and&#xD;
+             pembrolizumab, breastfeeding should be discontinued. Women of child-bearing potential&#xD;
+             must agree to use adequate birth control throughout the study duration.&#xD;
+&#xD;
+          -  Hepatitis B, hepatitis C, and HIV serology-positive (or known history of HIV&#xD;
+             seropositive status) participants are ineligible because these underlying diseases&#xD;
+             will confound interpretation of important safety assessments, e.g. liver function&#xD;
+             tests, increased potential for reactivation or exacerbation of viral infections. Such&#xD;
+             individuals may be taking or require other drugs, and may be at higher risk of&#xD;
+             opportunistic infections and adverse effects. Hepatitis B, hepatitis C, and HIV&#xD;
+             serology-positive individuals were excluded from the pivotal pembrolizumab clinical&#xD;
+             trial in melanoma, so safety of this drug in this setting is unknown.&#xD;
+&#xD;
+          -  Known active bacterial, viral, fungal, mycobacterial, parasitic, or other infection&#xD;
+             (excluding fungal infections of nail beds) at screening or any major episode of&#xD;
+             infection requiring treatment with IV antibiotics or hospitalization (relating to the&#xD;
+             completion of the course of antibiotics) within 4 weeks prior to Cycle 1, Day 1&#xD;
+&#xD;
+          -  Has a known history of active TB (Bacillus Tuberculosis)&#xD;
+&#xD;
+          -  Participants who weigh &gt; 110 kg will be ineligible due to study drug limitations&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark Pomerantz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2017</verification_date>
+  <study_first_submitted>October 4, 2016</study_first_submitted>
+  <study_first_submitted_qc>October 4, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 6, 2016</study_first_posted>
+  <last_update_submitted>June 26, 2017</last_update_submitted>
+  <last_update_submitted_qc>June 26, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 27, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Dana-Farber Cancer Institute</investigator_affiliation>
+    <investigator_full_name>Mark Pomerantz, MD</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine, Harvard Medical School</investigator_title>
+  </responsible_party>
+  <keyword>Bladder Cancer</keyword>
+  <keyword>Urothelial Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Transitional Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,173 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04496986</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB202001367</org_study_id>
+    <secondary_id>OCR39324</secondary_id>
+    <nct_id>NCT04496986</nct_id>
+  </id_info>
+  <brief_title>Dysphagia Risk Stratification Tool and Clinical Bedside Screening Tool in the CICU.</brief_title>
+  <official_title>Development of a Dysphagia Risk Stratification Tool and Clinical Bedside Screening Tool in Cardiovascular Surgical Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Florida</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Florida</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The proposed study seeks to determine the incidence of dysphagia and vocal fold mobility&#xD;
+      impairment (VFMI) in individuals undergoing cardiovascular surgical procedures. It also seeks&#xD;
+      to determine the impact of postoperative swallowing impairment on health-related outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Swallowing impairment and VFMI are common, yet often overlooked, complications of&#xD;
+      cardiovascular surgical procedures. The true incidence of both dysphagia and VFMI in this&#xD;
+      patient population is unclear due to a lack of rigorous study using instrumental assessment&#xD;
+      techniques and validated outcomes in all patients undergoing cardiovascular surgery. The&#xD;
+      study is therefore aimed to determine the incidence of dysphagia and VFMI in this patient&#xD;
+      population and to characterize impairment profiles related to swallowing safety and&#xD;
+      efficiency. In addition, the study is also aimed to assess the relative impact of VFMI and&#xD;
+      dysphagia on health-related outcomes such as length of hospital stay, pneumonia, sepsis,&#xD;
+      reintubation, and discharge status. Participants will undergo two research visits (one pre&#xD;
+      and one postoperative) where they will undergo an instrumental swallowing test and complete&#xD;
+      several patient report outcomes and quick clinical tests. Finally, health-related outcomes&#xD;
+      will be indexed in enrolled participants to determine the impact of dysphagia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Penetration Aspiration Scale</measure>
+    <time_frame>Baseline (Prior to surgery)</time_frame>
+    <description>This scale is a validated measure used by trained blinded clinicians to assign ratings of safety to swallowing bolus trials. The development and use of an 8-point, equal-appearing interval scale (8 being best; 1 being worst) to describe penetration and aspiration events are described. Scores are determined primarily by the depth to which material passes in the airway and by whether or not material entering the airway is expelled.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Penetration Aspiration Scale</measure>
+    <time_frame>Follow-up - Within 72 hours following extubation from surgery</time_frame>
+    <description>This scale is a validated measure used by trained blinded clinicians to assign ratings of safety to swallowing bolus trials. The development and use of an 8-point, equal-appearing interval scale (8 being best; 1 being worst) to describe penetration and aspiration events are described. Scores are determined primarily by the depth to which material passes in the airway and by whether or not material entering the airway is expelled.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Yale Residue Severity Rating Scale</measure>
+    <time_frame>Baseline (Prior to surgery)</time_frame>
+    <description>This scale is a validated measure used by trained blinded clinicians to assign ratings of efficiency to swallowing bolus trials. The Yale Pharyngeal Residue Severity Rating Scale was developed, standardized, and validated to provide reliable, anatomically defined, and image-based assessment of post-swallow pharyngeal residue severity as observed during fiberoptic endoscopic evaluation of swallowing (FEES). It is a five-point ordinal rating scale based on residue location (vallecula and pyriform sinus) and amount (none, trace, mild, moderate, and severe).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Yale Residue Severity Rating Scale</measure>
+    <time_frame>Follow-up - Within 72 hours following extubation from surgery</time_frame>
+    <description>This scale is a validated measure used by trained blinded clinicians to assign ratings of efficiency to swallowing bolus trials. The Yale Pharyngeal Residue Severity Rating Scale was developed, standardized, and validated to provide reliable, anatomically defined, and image-based assessment of post-swallow pharyngeal residue severity as observed during fiberoptic endoscopic evaluation of swallowing (FEES). It is a five-point ordinal rating scale based on residue location (vallecula and pyriform sinus) and amount (none, trace, mild, moderate, and severe).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Vocal Fold Mobility Impairment</measure>
+    <time_frame>Baseline (Prior to surgery)</time_frame>
+    <description>During a Fiberoptic Endoscopic Evaluation of Swallowing (FEES), the vocal folds will be visualized using a small camera passed through the open nasal passage. The patient will be asked to make a series of vocal tasks so that we can visualize their movement, any immobility will be notated.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Vocal Fold Mobility Impairment</measure>
+    <time_frame>Follow-up - Within 72 hours following extubation from surgery</time_frame>
+    <description>During a Fiberoptic Endoscopic Evaluation of Swallowing (FEES), the vocal folds will be visualized using a small camera passed through the open nasal passage. The patient will be asked to make a series of vocal tasks so that we can visualize their movement, any immobility will be notated.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">360</enrollment>
+  <condition>Cardiovascular Diseases</condition>
+  <arm_group>
+    <arm_group_label>Cardiovascular Surgical Patients</arm_group_label>
+    <description>Participants will undergo a Fiberoptic Endoscopic Evaluation of Swallowing (FEES)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Fiberoptic Endoscopic Evaluation of Swallowing</intervention_name>
+    <description>This procedure involves inserting a flexible laryngoscope that contains a light source and video camera on the end through the open passage of the nose towards the back of the throat in order to visualize the swallowing mechanism.</description>
+    <arm_group_label>Cardiovascular Surgical Patients</arm_group_label>
+    <other_name>FEES</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        360 individuals undergoing cardiovascular surgery will be enrolled in this study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. adults aged 18 - 90 years old&#xD;
+&#xD;
+          2. undergoing planned or emergent cardiovascular surgery via sternotomy and/or extended&#xD;
+             thoracotomy&#xD;
+&#xD;
+          3. confirmed COVID-19 negative test (completed in all patients as standard of care)&#xD;
+&#xD;
+          4. willing to participate in two research testing sessions&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. individuals under the age of 18&#xD;
+&#xD;
+          2. pregnant women&#xD;
+&#xD;
+          3. those testing positive for COVID-19&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Emily K Plowman, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Florida</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amber R Anderson, MS</last_name>
+    <phone>352-427-6579</phone>
+    <email>amber.anderson@phhp.ufl.edu</email>
+  </overall_contact>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>July 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 4, 2020</study_first_posted>
+  <last_update_submitted>February 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dysphagia</keyword>
+  <keyword>Extubation</keyword>
+  <keyword>Vocal Fold Mobility Impairment</keyword>
+  <keyword>Peak Cough Flow (PCF)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deglutition Disorders</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

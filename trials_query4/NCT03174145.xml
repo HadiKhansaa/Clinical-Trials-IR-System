@@ -1,0 +1,326 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03174145</url>
+  </required_header>
+  <id_info>
+    <org_study_id>T1010-01</org_study_id>
+    <nct_id>NCT03174145</nct_id>
+  </id_info>
+  <brief_title>Validation Study to Investigate the Effect of a New Treatment in Patients With Osteoarthritic Pain</brief_title>
+  <official_title>Validation Study to Investigate the Effect of a New Treatment in Patients With Osteoarthritic Pain of Knee or Hip</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tools4Patient</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tools4Patient</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this clinical trial conducted in patients suffering from chronic pain is to&#xD;
+      study the relationship between individual patients' profile and their analgesic response&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 18, 2017</start_date>
+  <completion_date type="Actual">August 24, 2018</completion_date>
+  <primary_completion_date type="Actual">August 24, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient's change from baseline of pain severity, as measured by the weekly means of the daily Average Pain Score (APS) in the last 24 hours during a 12-week treatment therapy period</measure>
+    <time_frame>Time zero equals baseline (Day-28) up to Day 85</time_frame>
+    <description>11-point Numeric Rating Scale (NRS)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patient's change from baseline of pain severity as measured by the weekly means of the worst pain score (WPS) in the last 24 hours</measure>
+    <time_frame>Time zero equals baseline (Day-28) up to Day 85</time_frame>
+    <description>11-point NRS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's change from baseline of pain severity as measured by the weekly means of the least pain score (LPS) in the last 24 hours</measure>
+    <time_frame>Time zero equals baseline (Day-28) up to Day 85</time_frame>
+    <description>11-point NRS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's change from baseline of condition as measured by the western Ontario and McMaster universities arthritis index (WOMAC)</measure>
+    <time_frame>From baseline (Day-28) up to Day 85</time_frame>
+    <description>Scales</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's change from baseline of pain severity as measured by the brief pain inventory (BPI)</measure>
+    <time_frame>From baseline (Day-28) up to Day 85</time_frame>
+    <description>Scales</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's change from baseline of Investigator and Patient Global Assessment of Changes (IGAC and PGAC)</measure>
+    <time_frame>From baseline (Day-28) up to Day 85</time_frame>
+    <description>11-point NRS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cronbach alpha assessment of MPSQ</measure>
+    <time_frame>Day 1 and Day 85</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">73</enrollment>
+  <condition>Osteoarthritis</condition>
+  <arm_group>
+    <arm_group_label>Active group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Positive behaviour</intervention_name>
+    <description>Information about T4P1010 treatment</description>
+    <arm_group_label>Active group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>T4P1010 administration</intervention_name>
+    <description>Provide treatment to be taken twice a day between Visit 2 and Visit 5 as add-on therapy to patient's regular analgesic treatment</description>
+    <arm_group_label>Active group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Pharmacogenetic</intervention_name>
+    <description>Blood sample of 10 millilitres maximum</description>
+    <arm_group_label>Active group</arm_group_label>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaires and diary completion</intervention_name>
+    <description>Personality, pain and disease questionnaires completion during the study Diary completion between Visit 1 and Visit 5</description>
+    <arm_group_label>Active group</arm_group_label>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Men or women of at least 18 years of age.&#xD;
+&#xD;
+          2. Osteoarthritis (OA) of knee or hip diagnosed since at least 6 months.&#xD;
+&#xD;
+          3. Affiliated with national welfare.&#xD;
+&#xD;
+          4. Reliable and willing to make themselves available for the duration of the study and&#xD;
+             are willing to follow study procedures.&#xD;
+&#xD;
+          5. Have given written informed consent approved by the relevant Ethics Committee&#xD;
+             governing the study sites.&#xD;
+&#xD;
+          6. Pain scores reported during the baseline period preceding randomization with a mean&#xD;
+             APS on the last 14 reported values before Visit 2 between 3.6 and 8.4 inclusive and to&#xD;
+             have completed at least 2/3 of each pain score in their diary between Visit 1 and&#xD;
+             Visit 2.&#xD;
+&#xD;
+          7. Patient with a unilateral or bilateral OA of the knee or hip diagnosed according to&#xD;
+             the American College of Rheumatology (ACR) criteria based on clinical and radiographic&#xD;
+             evidence (Altman et al., 1986) (in case of bilateral OA or OA of both knee and hip,&#xD;
+             the joint to consider should be the most affected one). The clinical diagnosis of OA&#xD;
+             will be confirmed by the ACR clinical criteria and medical imaging criteria for&#xD;
+             classification of OA of the knee or hip based upon the following criteria:&#xD;
+&#xD;
+               1. Knee or hip pain as an average at least half of the time for the last 3 months&#xD;
+                  before screening visit.&#xD;
+&#xD;
+               2. OA of the knee, at least 1 of the following 3 conditions:&#xD;
+&#xD;
+             i. age &gt; 50, ii. morning stiffness &lt;30 minutes, iii. crepitus on active motion and&#xD;
+             osteophytes.&#xD;
+&#xD;
+             OA of the hip, at least 2 of the following 3 conditions:&#xD;
+&#xD;
+             i. erythrocyte sedimentation rate &lt; 20mm/hour, ii. femoral and/or acetabular&#xD;
+             osteophytes, iii. joint space narrowing (superior, axial, and/or medial). c. Kellgren&#xD;
+             and Lawrence grade &gt; 1 as assessed by a recent medical imaging of the referred joint&#xD;
+             to confirm the diagnosis. If no imaging available, a new anterior- posterior view will&#xD;
+             be obtained and reviewed by Investigator or his/her delegate(s) to verify that the&#xD;
+             patient meets the disease diagnostic criteria.&#xD;
+&#xD;
+             Exclusion Criteria:&#xD;
+&#xD;
+          8. Change in the &quot; regular analgesic therapy &quot; or introduction of a &quot; regular analgesic&#xD;
+             therapy &quot; (if none beforehand) for OA in the last 4 weeks prior to Visit 1 or during&#xD;
+             the study.&#xD;
+&#xD;
+          9. Invariable pain scores reported between Visit 1 and Visit 2 (systematically the same&#xD;
+             minimum score reported all along, the same mean score reported all along and the same&#xD;
+             maximum score reported all along).&#xD;
+&#xD;
+         10. Have initiated (or plan to initiate) a program (or modify an existing program in&#xD;
+             frequency and/or intensity) of physiotherapy or behavioral therapy such as pain&#xD;
+             self-management, hypnosis, sophrology, meditation program within 2 weeks prior to&#xD;
+             Visit 1 or during the study.&#xD;
+&#xD;
+         11. Pregnant, breastfeeding, or willing to be pregnant during the study.&#xD;
+&#xD;
+         12. Patients with a current or recent history, as determined by the Investigator, of&#xD;
+             severe, progressive, and/or uncontrolled renal, hepatic, hematological,&#xD;
+             gastrointestinal, endocrine, pulmonary, cardiac, neurological, or cerebral disease&#xD;
+             which would interfere with the patient's participation in the study.&#xD;
+&#xD;
+         13. Uncontrolled epilepsy.&#xD;
+&#xD;
+         14. Any current primary psychiatric condition, including depression or personality&#xD;
+             disorders (such as Axe II of Diagnostic and Statistical Manual of Mental Disorders&#xD;
+             (DSM-V); personality disorders and mental retardation).&#xD;
+&#xD;
+         15. Alcohol dependence or regular use of known drugs of abuse (e.g., amphetamines,&#xD;
+             barbiturates, benzodiazepines, cannabinoids, cocaine, methadone, opiates, and&#xD;
+             phencyclidine).&#xD;
+&#xD;
+         16. Any other relevant medical disorder/acute disease state/pain condition like&#xD;
+             fibromyalgia, lumbalgia, generalized OA judged by the Investigator as likely to&#xD;
+             interfere with the trial or represent a risk for the patient.&#xD;
+&#xD;
+         17. Any close relationship with the Investigators or the Sponsor (i.e. belonging to&#xD;
+             immediate family or subordination link).&#xD;
+&#xD;
+         18. Under legal protection, according to the national law.&#xD;
+&#xD;
+         19. Having completed or withdrawn from this study or any study investigating T4P1001.&#xD;
+&#xD;
+         20. Patient currently enrolled in a clinical trial involving use of an investigational&#xD;
+             drug or device, or concurrently enrolled in any other type of medical research judged&#xD;
+             not to be scientifically or medically compatible with this study, or in an exclusion&#xD;
+             period according to the national law.&#xD;
+&#xD;
+         21. Have planned total knee or hip replacement intervention of the referred joint.&#xD;
+&#xD;
+         22. Reduced mobility due to OA (use of lower extremity assistive devices other than a cane&#xD;
+             or a knee sleeve such as crutches or walker or a knee brace or a &quot;shoe lift&quot; in&#xD;
+             relation to OA is not allowed).&#xD;
+&#xD;
+         23. Use or plan to use systemic corticosteroids 4 weeks prior to Visit 1 or during the&#xD;
+             study; Intra-muscular corticosteroid injections or Intra-articular injection of&#xD;
+             steroids into the referred knee/hip within 3 months before Visit 1 or during the&#xD;
+             study; Intra-articular injection of corticosteroids into any other sites than the&#xD;
+             referred knee/hip within 4 weeks prior to Visit 1 or during the study (corticosteroids&#xD;
+             in topical use are allowed).&#xD;
+&#xD;
+         24. Have used viscosupplementation or intra articular injection of hyaluronic acid in the&#xD;
+             referred joint within 3 months prior to Visit 1 or plan to use during the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alvaro Pereira</last_name>
+    <role>Study Director</role>
+    <affiliation>Tools4Patient</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>CHU Liège, Médecine de l'appareil locomoteur</name>
+      <address>
+        <city>Liège</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Eurofins Optimed</name>
+      <address>
+        <city>Gières</city>
+        <zip>38610</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Saint Antoine AP-HP Rhumatologie</name>
+      <address>
+        <city>Paris</city>
+        <zip>75012</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Cochin AP-HP Evaluation et traitement de la Douleur</name>
+      <address>
+        <city>Paris</city>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mac Clinical Research</name>
+      <address>
+        <city>Cannock</city>
+        <zip>WS11 0BN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mac Clinical Research</name>
+      <address>
+        <city>Liverpool</city>
+        <zip>L34 1BH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>https://www.clinicaltrialsregister.eu/ctr-search/trial/2017-001028-23/results</url>
+    <description>Clinical Trial Results published on EU Clinical Trials Register</description>
+  </link>
+  <verification_date>December 2019</verification_date>
+  <study_first_submitted>May 29, 2017</study_first_submitted>
+  <study_first_submitted_qc>June 1, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 2, 2017</study_first_posted>
+  <last_update_submitted>December 12, 2019</last_update_submitted>
+  <last_update_submitted_qc>December 12, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 16, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Osteoarthritis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

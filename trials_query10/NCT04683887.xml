@@ -1,0 +1,173 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04683887</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TapeK_Gesso_ABM_PSO</org_study_id>
+    <nct_id>NCT04683887</nct_id>
+  </id_info>
+  <brief_title>Taping to Control Edema in Patients With Forearm Plaster for Wrist Fracture.</brief_title>
+  <official_title>Randomized and Controlled Prospective Study on Use of the Adhesive Elastic Tape to Control Hand Edema in Patients With a Wrist Fracture Treated With Forearm Plaster.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Azienda Unità Sanitaria Locale di Piacenza</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Azienda Unità Sanitaria Locale di Piacenza</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Wrist fractures are a very common event affecting patients of all ages and are estimated to&#xD;
+      account for approximately 10% -25% of all fractures. 70-90% of fractures are treated with&#xD;
+      closed reduction and forearm cast. In 2019, 17.4% of wrist fractured patients treated with a&#xD;
+      plaster cast at the Orthopedic Emergency Department (OED) of the Local Health Unit (&quot;Azienda&#xD;
+      Unità Sanitaria Locale&quot;, AUSL) of Piacenza had a second access to the OED for edema, pain or&#xD;
+      &quot;intolerance to the plaster cast &quot;.&#xD;
+&#xD;
+      In literature, there are several studies that demonstrate the effectiveness of adhesive&#xD;
+      elastic tape for edema control, mostly lymphedema secondary to breast cancer or&#xD;
+      post-operative edema after knee arthroplasty, although a definitive evidence is still needed.&#xD;
+&#xD;
+      With this trial, the investigators aim to evaluate the tape effectiveness in counteracting&#xD;
+      hand edema formation in wrist fractured adult patients treated with forearm cast.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>Data processing will be blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>thumb circumference</measure>
+    <time_frame>1 week</time_frame>
+    <description>thumb circumference difference between baseline (T0) and follow-up on day 7 (T1)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>remaining 4 finger circumference</measure>
+    <time_frame>1 week</time_frame>
+    <description>difference between T0 and T1 in the circumference of the remaining 4 fingers merged and measured at the first phalanx</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>pain degree</measure>
+    <time_frame>1 week</time_frame>
+    <description>pain degree at T1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>painkillers</measure>
+    <time_frame>1 week</time_frame>
+    <description>taking painkillers in the 4 hours prior to T1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OED entries</measure>
+    <time_frame>1 week</time_frame>
+    <description>number of OED entries for &quot;intolerance to plaster cast&quot; between T0 and T1</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>Edema Arm</condition>
+  <condition>Fracture; Wrist</condition>
+  <arm_group>
+    <arm_group_label>Tape application</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No tape application</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Tape application</intervention_name>
+    <description>Application of the tape with lymphatic technique to the fingers, both dorsally and volarly, of wrist fractured patients treated with a forearm cast</description>
+    <arm_group_label>Tape application</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with growth plates closed on radiographic examination&#xD;
+&#xD;
+          -  Unilateral distal radius fracture associated or not with ulnar styloid fracture&#xD;
+&#xD;
+          -  Wrist fracture requiring bloodless reduction and immobilization with a forearm cast&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with multiple fractures&#xD;
+&#xD;
+          -  Polytrauma patients&#xD;
+&#xD;
+          -  Patients with previous plegia / paralysis of the fractured limb&#xD;
+&#xD;
+          -  Patients with previous lymphedema of the fractured limb&#xD;
+&#xD;
+          -  Patients with access to the OED during the night when the organization does not&#xD;
+             guarantee the presence of 2 nurses&#xD;
+&#xD;
+          -  Wounds or abrasions in the area of application of the tape&#xD;
+&#xD;
+          -  Acute thrombosis (upper limb veins)&#xD;
+&#xD;
+          -  Scars not perfectly healed in the area of application of the tape&#xD;
+&#xD;
+          -  Dermatitis, psoriatic manifestations or erythema in the area of application of the&#xD;
+             tape&#xD;
+&#xD;
+          -  Known allergy to acrylic (patch glue)&#xD;
+&#xD;
+          -  Solid neoplasms&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Massimo Guasconi, MSN</last_name>
+    <phone>+390523303854</phone>
+    <email>m.guasconi2@ausl.pc.it</email>
+  </overall_contact>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>December 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 24, 2020</study_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Azienda Unità Sanitaria Locale di Piacenza</investigator_affiliation>
+    <investigator_full_name>Massimo Guasconi</investigator_full_name>
+    <investigator_title>RN, MSN</investigator_title>
+  </responsible_party>
+  <keyword>tape</keyword>
+  <keyword>forearm cast</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Edema</mesh_term>
+    <mesh_term>Fractures, Bone</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

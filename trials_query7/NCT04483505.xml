@@ -1,0 +1,493 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04483505</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ROGABREAST</org_study_id>
+    <secondary_id>2020-000055-12</secondary_id>
+    <nct_id>NCT04483505</nct_id>
+  </id_info>
+  <brief_title>Rogaratinib, Palbociclib y Fulvestrant in Patients With Breast Cancer.</brief_title>
+  <acronym>ROGABREAST</acronym>
+  <official_title>Rogaratinib, Palbociclib and Fulvestrant in Advanced Hormone Receptor Positive, FGFR1/2/3-positive Breast Cancer: Phase I Clinical Trial Plus an Expansion Cohort</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundacion CRIS de Investigación para Vencer el Cáncer</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Apices Soluciones S.L.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fundacion CRIS de Investigación para Vencer el Cáncer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is an open, multicenter, prospective phase I dose escalation clinical trial&#xD;
+      followed by an expansion cohort. The aim of this study is to asses the Recommended Phase 2&#xD;
+      Dose (R2PD) and the safety profile, among other efficacy, in FGFR1/2/3 positive, hormone&#xD;
+      receptor-positive breast cancer (HRPBC) patients with metastatic disease after progression to&#xD;
+      the combination of an aromatase inhibitor plus palbociclib, abemaciclib or ribociclib,&#xD;
+      according RECIST 1.1 criteria.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 25, 2020</start_date>
+  <completion_date type="Anticipated">February 3, 2023</completion_date>
+  <primary_completion_date type="Anticipated">February 3, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Open label, prospective, multicenter, single-arm, phase I dose-escalation study.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recommended Phase 2 Dose</measure>
+    <time_frame>2 months</time_frame>
+    <description>Highest dose at which &lt;1 out of 6 patients experience a DLT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Event</measure>
+    <time_frame>2 years</time_frame>
+    <description>Percentage of patients with each adverse event.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>2 years</time_frame>
+    <description>Time from the date of first dose of study treatment to the date of progression or death (from any cause).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic interactions of fulvestrant and palbociclib over rogaratinib metabolism.</measure>
+    <time_frame>16 days</time_frame>
+    <description>Plasmatic levels of fulvestrant, palbociclib and rogaratinib</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamic markers levels of FGFR1 Blockade</measure>
+    <time_frame>16 days</time_frame>
+    <description>Plasma levels of phosphate and FGF23.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate</measure>
+    <time_frame>1 year</time_frame>
+    <description>Percentage of patients that achieve response according to RECIST 1.1 criteria.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">19</enrollment>
+  <condition>Breast Cancer Metastatic</condition>
+  <condition>Hormone Receptor Positive Malignant Neoplasm of Breast</condition>
+  <arm_group>
+    <arm_group_label>Rogaratinib + palbociclib + fulvestrant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Combination, Rogaratinib + palbociclib + fulvestrant</intervention_name>
+    <description>Patients will receive rogaratinib, palbociclib and fulvestrant in cycles of 28 days.&#xD;
+Escalation Dose will follow a classic 3+3 schedule.The planned dose-levels are as follows:&#xD;
+Level 1: Rogaratinib 400 mg PO BID + standard fulvestrant 500 mg every 2nd weeks until the start of the 2nd cycle, becoming every 4 weeks + palbociclib 100 mg PO per day until day 22 followed by a 7-day rest, escalable to 125 mg per day in cycle 2 (N = 3 patients).&#xD;
+Level 2: Rogaratinib 600 mg PO BID + fulvestrant 500 mg IM every 2nd weeks until the start of the 2nd cycle, becoming every 4 weeks + palbociclib 100 mg PO per day until day 22 followed by a 7-day rest, escalable to 125 mg per day in cycle 2 (N = 6 patients).&#xD;
+Treatment will continue until disease progression.</description>
+    <arm_group_label>Rogaratinib + palbociclib + fulvestrant</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Women ≥18 years-old.&#xD;
+&#xD;
+          2. Diagnostic of metastatic or locally advanced non-resectable breast cancer.&#xD;
+&#xD;
+          3. Ability to understand and signing of the PIS/ICF for FGFR testing. FGFR testing will&#xD;
+             be performed centrally at CNIO (RNAscope and FISH).&#xD;
+&#xD;
+          4. Ability to understand and signing the written PIS/ICF for study treatment eligibility.&#xD;
+&#xD;
+          5. Availability of fresh tumor biopsy specimen for FGFR1/3 mRNA expression and FISH&#xD;
+             testing.&#xD;
+&#xD;
+          6. Hormone-receptor positivity defined by at least 5% positivity of ER and/or PR (no&#xD;
+             central laboratory testing is required).&#xD;
+&#xD;
+          7. Positivity of FGFR1/2/3 by RNA-scope and/or FISH.&#xD;
+&#xD;
+          8. Patients must have undergone a previous hormonal treatment line for metastatic&#xD;
+             disease, with anastrozole, letrozole or exemestane, plus a cell cycle inhibitor&#xD;
+             (palbociclib, ribociclib or abemaciclib).&#xD;
+&#xD;
+          9. Recovery of toxicities from previous regimens to equal or below tolerable grade II.&#xD;
+&#xD;
+         10. HER2-negativity (Herceptest 0+, 1+ or 2+ with negative FISH/CISH/SISH).&#xD;
+&#xD;
+         11. ECOG performance status of 0/1.&#xD;
+&#xD;
+         12. Life expectancy of &gt;24 weeks.&#xD;
+&#xD;
+         13. Adequate bone marrow, liver and renal function as assessed by laboratory requirements:&#xD;
+&#xD;
+               1. Absolute neutrophil count (ANC) ≥ 1,500/mm3&#xD;
+&#xD;
+               2. Hemoglobin ≥ 10 g/dL (without transfusion or erythropoietin .&#xD;
+&#xD;
+               3. Platelet count ≥ 100,000/mm3&#xD;
+&#xD;
+               4. Total bilirubin ≤ 1.5 × the upper limit of normal (ULN).&#xD;
+&#xD;
+               5. Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) ≤ 2.5 × ULN&#xD;
+&#xD;
+               6. Alkaline phosphatase ≤ 2.5 times ULN&#xD;
+&#xD;
+               7. Lipase and amylase ≤ 2 × ULN.&#xD;
+&#xD;
+               8. Serum albumin ≥ 2.5 g/dl.&#xD;
+&#xD;
+               9. Glomerular filtration rate (GFR) ≥ 60 mL/min/1.73 m2&#xD;
+&#xD;
+         14. INR ≤ 1.5 × ULN and PTT or activated PTT (aPTT) ≤ 1.5 × ULN.&#xD;
+&#xD;
+         15. Negative serum pregnancy test in women of childbearing potential.&#xD;
+&#xD;
+         16. Women of reproductive potential must agree to use highly effective contraception when&#xD;
+             sexually active.&#xD;
+&#xD;
+         17. Evaluable disease according to RECIST 1.1 criteria.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Involvement in the planning and/or conduct the study.&#xD;
+&#xD;
+          2. Previous enrollment in the present study.&#xD;
+&#xD;
+          3. Previous or concurrent cancer except:&#xD;
+&#xD;
+               1. Cervical carcinoma in situ.&#xD;
+&#xD;
+               2. Treated basal-cell carcinoma or squamous cell skin cancer.&#xD;
+&#xD;
+               3. Any other cancer curatively treated &gt; 3 years before the first study drug&#xD;
+                  administration.&#xD;
+&#xD;
+          4. Receipt the last dose of anticancer therapy at least 21 days prior to the first dose&#xD;
+             of study drug.&#xD;
+&#xD;
+          5. Acute toxic effects of previous anticancer chemotherapy or immunotherapy have to be&#xD;
+             normalized completely&#xD;
+&#xD;
+          6. Anti-cancer therapy is defined as any agent or combination of agents with clinically&#xD;
+             proven anti-tumor activity&#xD;
+&#xD;
+          7. Previous treatment with anti-FGFR directed therapies.&#xD;
+&#xD;
+          8. Irradiation of single bony lesions with risk of fracture. Zoledronic acid or denosumab&#xD;
+             started prior to trial registration is allowed.&#xD;
+&#xD;
+          9. Symptomatic metastatic brain or meningeal tumors.&#xD;
+&#xD;
+         10. History or current condition of an uncontrolled cardiovascular disease including any&#xD;
+             of the following conditions:&#xD;
+&#xD;
+               1. Congestive heart failure, unstable angina (symptoms of angina at rest) or&#xD;
+&#xD;
+               2. New-onset angina&#xD;
+&#xD;
+               3. Myocardial infarction (MI).&#xD;
+&#xD;
+               4. Unstable cardiac arrhythmias requiring anti-arrhythmic therapy.&#xD;
+&#xD;
+               5. Patients with known coronary artery disease, congestive heart failure not meeting&#xD;
+                  the above criteria, must be on a stable medical regimen.&#xD;
+&#xD;
+         11. Known human immunodeficiency virus (HIV) infection.&#xD;
+&#xD;
+         12. Active hepatitis B virus or hepatitis C infection requiring treatment.&#xD;
+&#xD;
+               1. Patients with past HBV infection or resolved HBV infection are eligible if HBV&#xD;
+                  DNA is negative.&#xD;
+&#xD;
+               2. Patients positive for hepatitis C virus are eligible only if polymerase chain&#xD;
+                  reaction is negative for HCV RNA.&#xD;
+&#xD;
+         13. Any condition that in the opinion of the investigator would interfere with evaluation&#xD;
+             of study treatment or interpretation of patient safety or study results, or inability&#xD;
+             to comply with the study and follow-up procedures.&#xD;
+&#xD;
+         14. Previous or concomitant participation in another clinical study with investigational&#xD;
+             medicinal products.&#xD;
+&#xD;
+         15. Active tuberculosis.&#xD;
+&#xD;
+         16. Clinically active infections.&#xD;
+&#xD;
+         17. Treatment with therapeutic oral or i.v. antibiotics.&#xD;
+&#xD;
+         18. Patients receiving prophylactic antibiotics are eligible.&#xD;
+&#xD;
+         19. Seizure disorder requiring medication.&#xD;
+&#xD;
+         20. History of organ allograft.&#xD;
+&#xD;
+         21. Evidence or history of bleeding diathesis or coagulopathy.&#xD;
+&#xD;
+         22. Any hemorrhage / bleeding event CTCAE v.5.0 ≥ Grade 3.&#xD;
+&#xD;
+         23. Serious, non-healing wound, ulcer or bone fracture.&#xD;
+&#xD;
+         24. Known hypersensitivity to any of the study drugs, study drug classes, or excipients in&#xD;
+             the formulation.&#xD;
+&#xD;
+         25. Any malabsorption condition.&#xD;
+&#xD;
+         26. Current diagnosis of any retinal disorders including retinal detachment, retinal&#xD;
+             pigment epithelial detachment (RPED), serous retinopathy or retinal vein occlusion.&#xD;
+&#xD;
+         27. Peripheral sensory neuropathy of CTCAE v.5.0 Grade 2 or higher.&#xD;
+&#xD;
+         28. Current evidence of endocrine alteration of calcium phosphate homeostasis.&#xD;
+&#xD;
+         29. Concomitant therapies that are known to increase serum phosphate levels.&#xD;
+&#xD;
+         30. Any condition that is unstable or could jeopardize the safety of the patient and their&#xD;
+             compliance in the study.&#xD;
+&#xD;
+         31. Breast-feeding.&#xD;
+&#xD;
+         32. Use of strong inhibitors of CYP3A4 and strong inducers of CYP3A4.&#xD;
+&#xD;
+         33. Autologous bone marrow transplant or stem cell rescue.&#xD;
+&#xD;
+         34. Major surgery, open biopsy or significant traumatic injury.&#xD;
+&#xD;
+         35. Renal failure requiring peritoneal dialysis or hemodialysis.&#xD;
+&#xD;
+         36. Systolic/diastolic blood pressure ≤ 100/60 mmHg and concurrent heart rate ≥ 100/min.&#xD;
+&#xD;
+         37. Inability to swallow oral tablets.&#xD;
+&#xD;
+         38. Close affiliation with the investigational site; e.g. a close relative of the&#xD;
+             investigator or a dependent person.&#xD;
+&#xD;
+         39. Substance abuse, medical, psychological or social conditions that may interfere with&#xD;
+             the patient's participation in the study or evaluation of the study results.&#xD;
+&#xD;
+         40. Arterial or venous thrombotic events or embolic events such as cerebrovascular&#xD;
+             accident, deep vein thrombosis or pulmonary embolism.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>In this case gender is important because it is a specific cancer in women.</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Miguel Ángel Quintela-Fandino</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centro Nacional de Investigaciones Oncológicas</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Luis Manso, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Universitario 12 de Octubre</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ramón Colomer i Bosch</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fundación de Investigación Biomédica - Hospital Universitario de La Princesa</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Miguel Ángel Quintela-Fandino, MD</last_name>
+    <phone>+34917328000</phone>
+    <email>mquintela@cnio.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Institut Català d'oncologia - Hospital Duran I Reynals</name>
+      <address>
+        <city>Hospitalet de Llobregat</city>
+        <state>Barcelona</state>
+        <zip>08908</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sonia Pernas, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sonia Pernas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Fuenlabrada</name>
+      <address>
+        <city>Fuenlabrada</city>
+        <state>Madrid</state>
+        <zip>28942</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Miguel Quintela-Fandino, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Miguel Ángel Quintela-Fandino</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Quirónsalud Madrid</name>
+      <address>
+        <city>Pozuelo De Alarcón</city>
+        <state>Madrid</state>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Miguel Ángel Quintela-Fandino, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Miguel Ángel Quintela-Fandino, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Arnau de Vilanova de Lleida</name>
+      <address>
+        <city>Lleida</city>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Serafín Morales, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Serafín Morales, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Ramon y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Noelia Martínez, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Noelia Martínez, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>José Ángel García Saenz, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>José Ángel García Saenz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luis Manso</last_name>
+    </contact>
+    <investigator>
+      <last_name>Luis Manso, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico Universitario de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Begoña Bermejo, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Begoña Bermejo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>July 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 23, 2020</study_first_posted>
+  <last_update_submitted>December 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fulvestrant</mesh_term>
+    <mesh_term>Palbociclib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

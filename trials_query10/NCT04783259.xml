@@ -1,0 +1,459 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04783259</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Debriefing MERGE</org_study_id>
+    <nct_id>NCT04783259</nct_id>
+  </id_info>
+  <brief_title>Structured Debriefings After Medical Escape Rooms</brief_title>
+  <official_title>Exploring the Views of Medical Students on Medical Escape Room Experiences With Narrow Learning Objectives and Structured Debriefings</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Copenhagen Academy for Medical Education and Simulation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Copenhagen Academy for Medical Education and Simulation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An escape room is a game-like experience, where participants solve a series of logic based&#xD;
+      puzzles. Such game-like experiences are being increasingly used in the educations of medical&#xD;
+      professionals. With this research project, the researchers aim to explore medical students'&#xD;
+      experiences and perceived learning outcome of narrow learning objectives in a medical escape&#xD;
+      room experience. The learning experience will be structured with a short lecture, focussed&#xD;
+      instructions, a medical escape room scenario and a structured debriefing. The aim is that the&#xD;
+      study will create the foundation for general principles for the conduct of medical escape&#xD;
+      room experiences.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction&#xD;
+&#xD;
+      Background&#xD;
+&#xD;
+      Current medical students prefer innovative and interactive education styles such as&#xD;
+      gamification. Gamification concerns the act of applying game mechanics to a non-gaming&#xD;
+      environment, e.g. by putting themes of a clinical situation in the frames of a game. This&#xD;
+      concept is being increasingly frequently used in the education of healthcare professionals,&#xD;
+      and studies have shown that it appears to be effective to reach the learning outcome. In the&#xD;
+      study &quot;Priming healthcare students on the importance of non-technical skills in healthcare:&#xD;
+      How to set up a medical escape room game experience&quot; by Rosenkrantz et al. 2019, a medical&#xD;
+      escape room was designed to raise awareness about non-technical skills (NTS) among healthcare&#xD;
+      professionals. The escape room was named Medical Escape Room Gaming Experience (MERGE). As&#xD;
+      with other common escape rooms, MERGE was designed as a game like exercise with puzzles,&#xD;
+      which in this room were medical-themed. However, the primary focus is not the medical&#xD;
+      technical skills, and thus the puzzles are mainly logic-based with a medical twist. This is&#xD;
+      to keep focus on developing NTS.&#xD;
+&#xD;
+      Game-like exercises, like MERGE, tend to have a complexity that allows addressing many&#xD;
+      different learning goals, depending onto what the attention is guided by the educator. In the&#xD;
+      researchers' experience, often a broad learning goal is initiated by a rather general&#xD;
+      instruction to pay attention e.g. to the &quot;non-technical skills&quot; or to &quot;communication&quot;. This&#xD;
+      enables many possible discussions, also taking the interest of participants into account. The&#xD;
+      downside can be that the discussion might be superficial and erratic, as conflicting&#xD;
+      interests in the group might lead to frequent changes in topics. Another approach is to&#xD;
+      specify some narrow learning objectives in more detail, e.g. &quot;identify the different sources&#xD;
+      of information&quot;, directing the discussion on very specific aspects of the scenario. This&#xD;
+      entails that potentially a lot of interesting elements remain uncovered, and that&#xD;
+      participants might not get the chance to discuss what they think is most important for them.&#xD;
+      On the other hand, the discussion of the learning objectives can reach deeper reflection&#xD;
+      levels, as fewer topics need to be covered and as less time is used to coordinate what should&#xD;
+      be discussed.&#xD;
+&#xD;
+      Rosenkrantz et al. and several others have proposed that the participants of an escape rooms&#xD;
+      experiences may achieve a greater learning outcome if they are debriefed by a trained&#xD;
+      professional after participating in the escape room. The trained debriefer can also be a peer&#xD;
+      to the learners. Peer-to-peer feedback is suggested to have a positive effect on learning&#xD;
+      outcome. Debriefing can be defined as the act of reviewing critical actions that unfolded&#xD;
+      during the course of a simulation scenario, and in its form, it is conversational,&#xD;
+      bidirectional, interactive, and reflective. Debriefing is known to enhance the learning&#xD;
+      outcome by allowing for reflection on educational experiences. Several experiments with&#xD;
+      debriefing after medical escape rooms have been carried out in the last few years. However,&#xD;
+      only the studies by Friedrich et al. and the two studies by Zhang et al. had the aspect of&#xD;
+      debriefing as a point of focus. In these three studies, the participants answered different&#xD;
+      questionnaires, where some of the questions regarded the debriefing. All three studies&#xD;
+      concluded that the participants appreciated the post-escape room debriefing. In addition, the&#xD;
+      studies by Zhang et al. concluded that the participants would have preferred a more&#xD;
+      structured debriefing session to help them analyse aspects of communication and&#xD;
+      problem-solving. All of the aforementioned studies with post-escape room debriefing had broad&#xD;
+      learning objectives primarily concerning communication. No studies concerning medical escape&#xD;
+      rooms have evaluated the use of narrow learning objectives in a medical escape room.&#xD;
+&#xD;
+      Aims&#xD;
+&#xD;
+      With this research project, the researchers aim to explore the participants' experiences and&#xD;
+      perceived learning outcome of narrow learning objectives in a medical escape room experience.&#xD;
+      The learning experience will be structured with a short lecture, focussed instructions, the&#xD;
+      MERGE scenario and a structured debriefing. The aim is that the study will create the&#xD;
+      foundation for general principles for the conduct of medical escape room experiences.&#xD;
+&#xD;
+      Method&#xD;
+&#xD;
+      This is an explorative qualitative intervention study. A qualitative, summarising approach is&#xD;
+      used to analyse responses to the intervention. We will achieve this by exploring&#xD;
+      participants' experiences shortly after they have undergone a structured post-escape room&#xD;
+      debriefing. The aforementioned escape room, MERGE, will be conducted with teams of medical&#xD;
+      students. The participants will before the escape room attend a brief lecture and afterwards&#xD;
+      be debriefed by a medical student with experience in peer-to-peer debriefing and thereafter&#xD;
+      interviewed about the experience and their learning outcome.&#xD;
+&#xD;
+      Design&#xD;
+&#xD;
+      Before the escape room begins, the participants will participate in a brief video recorded&#xD;
+      lecture by a medical student concerning the learning objectives. Afterwards, the facilitator&#xD;
+      will brief the participants about the voluntary nature of their participation in the study,&#xD;
+      and the learning objectives of the escape room. These measures are thought to establish a&#xD;
+      common ground for the discussion in the debriefing. When the participants have finished the&#xD;
+      escape room by completing all the riddles, they will be taken to an adjacent room. Here, an&#xD;
+      educator, a person other than the facilitator, will debrief them. The debriefing will follow&#xD;
+      a manual, but the educator will have observed the participants through the see-through mirror&#xD;
+      in order to guide the group in their individual debriefing. Afterwards, the educator will&#xD;
+      leave, and an interviewer will join the group and ask them a series of standardised questions&#xD;
+      regarding the escape room gaming experience and the following debriefing. Lastly, the&#xD;
+      participants will answer a questionnaire regarding, age, gender, and their experience related&#xD;
+      to simulation, debriefing, etc. As all the participants will be Danish speaking, the language&#xD;
+      for both the escape room, the debriefing, the interview and the questionnaire will be in&#xD;
+      Danish.&#xD;
+&#xD;
+      Participants and sample size&#xD;
+&#xD;
+      The participants of this study will be medical students who have completed the fourth year of&#xD;
+      their studies at the University of Copenhagen in Denmark (UCPH). At this point in their&#xD;
+      studies, they have completed four months of internship, experiencing the clinical practice of&#xD;
+      young doctors. As a group, they have little experience with simulation, but everyone will&#xD;
+      have tried it a few times. The recruitment of the participants will be executed by posting a&#xD;
+      notice on a social media platform, including the vast majority of medical students at UCPH.&#xD;
+      The participants are to apply as premade groups of four to five people, and the applicants&#xD;
+      will be chosen based on the order in which they apply.&#xD;
+&#xD;
+      The goal is to conduct eight to ten sessions of the escape room with groups of four to five&#xD;
+      participants each, and participants will only be allowed to participate once. The study group&#xD;
+      estimates that this is the number of simulations required to receive sufficient qualitative&#xD;
+      data. The researchers will check for data saturation during the analysis, which they expect&#xD;
+      will be reached after about six sessions. In case saturation is not reached after all ten&#xD;
+      sessions, further sessions will be conducted until saturation is reached.&#xD;
+&#xD;
+      The Intervention&#xD;
+&#xD;
+      The intervention in this study is a structured experiential learning session including a&#xD;
+      short video lecture, focussed instructions, the MERGE scenario, and a structured standardized&#xD;
+      four-layered post session debriefing with narrow learning objectives. The video lecture will&#xD;
+      concern the learning objectives and will be developed within the research team and recorded&#xD;
+      with a medical student delivering it. Also the focussed instructions will be developed within&#xD;
+      the research team and delivered by the facilitator, who also conducts the MERGE session. The&#xD;
+      debriefing of the participants will be a semi-structured conversation lead by an educator.&#xD;
+      The educator will be a medical student practical experience in peer-to-peer debriefing of&#xD;
+      medical students after medical simulations. The debriefing will have a narrow focus, revolved&#xD;
+      around two learning objectives. Rosenkrantz et al. 2019 suggested that the NTS concerning&#xD;
+      information gathering and exchange are the most viable of being focus points in the MERGE.&#xD;
+      Therefore, the learning objectives of focus in the debriefing will be: &quot;Recognising the&#xD;
+      different ways of exchanging information&quot; and &quot;Discussing the impact of exchanging&#xD;
+      information on problem-solving&quot;. These learning objectives are designed to explore the&#xD;
+      exchange of information on several of Bloom's taxonomical levels. The first learning&#xD;
+      objective concerns knowledge and comprehension, and the second concerns application and&#xD;
+      analysis. The educator will guide the conversation using the manual shown below. The manual&#xD;
+      follows the common four-phase debriefing model inspired by Steinwach 1992 and PEARLS. First,&#xD;
+      the educator sets the scene by explaining the course of the debriefing. The debriefing then&#xD;
+      starts with a reaction phase, where the participants are encouraged to express their feelings&#xD;
+      and ask any technical questions they may have regarding the escape room. This is followed by&#xD;
+      a focused description phase, where the participants discuss the first learning objective by&#xD;
+      describing the different ways they exchanged information during the escape room. Hereafter&#xD;
+      comes the analysis phase, during which the second learning objective concerning the impact of&#xD;
+      exchanging information is explored and discussed. Lastly, the debriefing is rounded off in&#xD;
+      the application phase, where the participants transfer the events of the simulation to&#xD;
+      clinical practice and sum up the key learning points. As the debriefing is a semi-structured&#xD;
+      conversation, the manual is not expected to be followed meticulously regarding the order of&#xD;
+      the points. However, all the points must be covered, and the overall structure with the four&#xD;
+      phases should be maintained in all concerns. The debriefing will be video and audio recorded&#xD;
+      as material for the following analysis.&#xD;
+&#xD;
+      The manuscript for the educator&#xD;
+&#xD;
+      0. Setting the scene (2 min)&#xD;
+&#xD;
+      • &quot;In this debriefing, we are going to reflect on your experiences. It will take about 45&#xD;
+      minutes. We will first discuss shortly, what happened in the escape room. Then we are all&#xD;
+      going to reflect on how you shared information. Lastly, we will look at what you can take&#xD;
+      with you.&quot;&#xD;
+&#xD;
+        1. Reaction (8 min)&#xD;
+&#xD;
+             -  &quot;How are each of you feeling right now?&quot;&#xD;
+&#xD;
+             -  &quot;Are you sitting with any technical questions about the riddles or the escape room&#xD;
+                in general at this moment?&quot;&#xD;
+&#xD;
+             -  &quot;Now then, having answered your questions, I am going to continue with the&#xD;
+                debriefing.&quot;&#xD;
+&#xD;
+        2. Description (10 min)&#xD;
+&#xD;
+             -  &quot;We are - in this debriefing - especially interested in how you shared information&#xD;
+                with each other. We could discuss many things, but we would like to focus on this&#xD;
+                aspect.&quot;&#xD;
+&#xD;
+             -  &quot;I want each of you to answer the question: 'What were the different ways you used&#xD;
+                to exchange information?' I want you to describe how you did it in as much detail&#xD;
+                as possible.&quot; Start with one and then ask the others for additions. Consider taking&#xD;
+                notes that all can see.&#xD;
+&#xD;
+             -  If you noticed any additional examples of information exchange, lead their&#xD;
+                attention to it and make them describe it by saying something like: &quot;I also noticed&#xD;
+                a point where … can you elaborate what happened there?&quot;&#xD;
+&#xD;
+        3. Analysis (15 min)&#xD;
+&#xD;
+             -  &quot;What went well in today's game in regards to the exchange of information, and how&#xD;
+                did it affect your performance in the escape room?&quot;&#xD;
+&#xD;
+             -  &quot;How and why would the progression have been different if you had not been allowed&#xD;
+                to talk to each other?&quot;&#xD;
+&#xD;
+             -  &quot;Were there phases of the escape room, where the exchange of information was more&#xD;
+                or less important? Please elaborate.&quot;&#xD;
+&#xD;
+             -  &quot;Did you experience any situations where you found it difficult to exchange&#xD;
+                information with a member of your team? When and why?&quot;&#xD;
+&#xD;
+             -  &quot;How could you have optimised your exchange of information?&quot;&#xD;
+&#xD;
+        4. Application (10 min)&#xD;
+&#xD;
+             -  &quot;How can the things you learned today be applied in your clinical practice?&quot;&#xD;
+&#xD;
+             -  &quot;Lastly, I want each of you to mention the most important thing that you learned&#xD;
+                from today's events.&quot;&#xD;
+&#xD;
+      Assessment of the intervention: Structured interviews&#xD;
+&#xD;
+      The interview of the participants will be a fully structured group interview concerning the&#xD;
+      participants' perceived value of medical escape rooms and the following debriefing, and their&#xD;
+      opinions about the narrow learning objectives. The interview will follow the questions shown&#xD;
+      below. The interview will be video and audio recorded as material for the following analysis.&#xD;
+&#xD;
+      Questions&#xD;
+&#xD;
+      The escape room&#xD;
+&#xD;
+      • &quot;How was your experience with the escape room? Is there anything you want to emphasise?&quot;&#xD;
+&#xD;
+      The debriefing&#xD;
+&#xD;
+        -  &quot;What do you think about the debriefing?&quot;&#xD;
+&#xD;
+        -  &quot;What are the pros and cons of a structured debriefing like you had versus a different&#xD;
+           format, e.g. an unstructured conversation?&quot;&#xD;
+&#xD;
+        -  &quot;Would you have preferred that the format had been less structured? Why/ why not?&quot;&#xD;
+&#xD;
+        -  &quot;How do you feel about the very narrow focus of the debriefing, i.e. the exchange of&#xD;
+           information?&quot;&#xD;
+&#xD;
+        -  &quot;Were there any topics that you wanted to discuss, but couldn't due to the narrow&#xD;
+           learning objective?&quot;&#xD;
+&#xD;
+        -  &quot;Would you rather have had more time to discuss certain aspects?&#xD;
+&#xD;
+        -  After your considerations in this interview, I ask again: what do you think about the&#xD;
+           debriefing?&#xD;
+&#xD;
+      The learning outcome&#xD;
+&#xD;
+        -  &quot;When during the escape room and/or debriefing do you feel that you learned something&#xD;
+           concerning exchange of information?&quot;&#xD;
+&#xD;
+        -  &quot;Did you learn anything besides exchange of information? What and when?&quot;&#xD;
+&#xD;
+        -  &quot;Do you experience that the debriefing has affected your learning outcome today? How and&#xD;
+           why?&quot;&#xD;
+&#xD;
+      Analysis of debriefings and interviews&#xD;
+&#xD;
+      The debriefings and interviews will provide data for analysis in the form of video and audio&#xD;
+      recordings. These data will be analysed using systematic text condensation. First, the&#xD;
+      recordings of the debriefings and interviews from the first weekend of escape rooms will be&#xD;
+      transcribed. These transcripts will then be coded in a condensating fashion and any relevant&#xD;
+      key points will be identified. Afterwards, the researchers will watch the recordings from the&#xD;
+      second weekend of escape rooms, focusing on whether they provide any new inputs or whether&#xD;
+      saturation has been achieved. Any of these will then be transcribed and coded as well, should&#xD;
+      they provide new inputs. The codes will be grouped in order to create categories, which will&#xD;
+      then be labelled by their common denominator. The categories and their connections will be&#xD;
+      described and discussed. Based on this discussion, the researchers will conclude how&#xD;
+      participants experience the learning setting and what kind of learning outcome they perceive.&#xD;
+      Based on the analysis of the participants' experiences, general principles for the conduct of&#xD;
+      medical escape room experiences will be derived.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 12, 2021</start_date>
+  <completion_date type="Anticipated">September 20, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 20, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Condensed text categories</measure>
+    <time_frame>Within 1 year</time_frame>
+    <description>Debriefings and interviews will be transcribed and analysed by systematic text condensing. Major themes will be presented by occurrence.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">45</enrollment>
+  <condition>Interactive Teaching</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Structured approach</intervention_name>
+    <description>Structured approach with a narrow learning objective. The structured approach concerns a pre-escape room lecture and post-escape room debriefing</description>
+    <other_name>Narrow learning objective</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Medical students who have completed the fourth year of their studies at the University&#xD;
+             of Copenhagen in Denmark&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants not available for the entire duration&#xD;
+&#xD;
+          -  Symptoms indicating viral respiratory disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Copenhagen Academy of Medical Education and Simulation</name>
+      <address>
+        <city>Herlev</city>
+        <state>Capital Region</state>
+        <zip>2730</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <reference>
+    <citation>Adams NE. Bloom's taxonomy of cognitive learning objectives. J Med Libr Assoc. 2015 Jul;103(3):152-3. doi: 10.3163/1536-5050.103.3.010.</citation>
+    <PMID>26213509</PMID>
+  </reference>
+  <reference>
+    <citation>aSarage D, O'Neill BJ, Eaton CM. There is no I in Escape: Using an Escape Room Simulation to Enhance Teamwork and Medication Safety Behaviors in Nursing Students. Simulation &amp; Gaming. 2020:1046878120976706.</citation>
+  </reference>
+  <reference>
+    <citation>Eppich W, Cheng A. Promoting Excellence and Reflective Learning in Simulation (PEARLS): development and rationale for a blended approach to health care simulation debriefing. Simul Healthc. 2015 Apr;10(2):106-15. doi: 10.1097/SIH.0000000000000072.</citation>
+    <PMID>25710312</PMID>
+  </reference>
+  <reference>
+    <citation>Fanning RM, Gaba DM. The role of debriefing in simulation-based learning. Simul Healthc. 2007 Summer;2(2):115-25. doi: 10.1097/SIH.0b013e3180315539. Review.</citation>
+    <PMID>19088616</PMID>
+  </reference>
+  <reference>
+    <citation>Felix HM, Beecham GB, Simon LV. Debriefing Theories and Philosophies in Medical Simulation. StatPearls. Treasure Island (FL): StatPearls Publishing Copyright © 2020, StatPearls Publishing LLC.; 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Friedrich C, Teaford H, Taubenheim A, Boland P, Sick B. Escaping the professional silo: an escape room implemented in an interprofessional education curriculum. J Interprof Care. 2019 Sep-Oct;33(5):573-575. doi: 10.1080/13561820.2018.1538941. Epub 2018 Oct 26.</citation>
+    <PMID>30362849</PMID>
+  </reference>
+  <reference>
+    <citation>Gentry SV, Gauthier A, L'Estrade Ehrstrom B, Wortley D, Lilienthal A, Tudor Car L, Dauwels-Okutsu S, Nikolaou CK, Zary N, Campbell J, Car J. Serious Gaming and Gamification Education in Health Professions: Systematic Review. J Med Internet Res. 2019 Mar 28;21(3):e12994. doi: 10.2196/12994.</citation>
+    <PMID>30920375</PMID>
+  </reference>
+  <reference>
+    <citation>Kinio AE, Dufresne L, Brandys T, Jetty P. Break out of the Classroom: The Use of Escape Rooms as an Alternative Teaching Strategy in Surgical Education. J Surg Educ. 2019 Jan - Feb;76(1):134-139. doi: 10.1016/j.jsurg.2018.06.030. Epub 2018 Aug 17.</citation>
+    <PMID>30126728</PMID>
+  </reference>
+  <reference>
+    <citation>Lerchenfeldt S, Mi M, Eng M. The utilization of peer feedback during collaborative learning in undergraduate medical education: a systematic review. BMC Med Educ. 2019 Aug 23;19(1):321. doi: 10.1186/s12909-019-1755-z.</citation>
+    <PMID>31443705</PMID>
+  </reference>
+  <reference>
+    <citation>McClarty KL, Orr A, Frey PM, Dolan RP, Vassileva V, McVay A. A literature review of gaming in education. Gaming in education. 2012:1-35.</citation>
+  </reference>
+  <reference>
+    <citation>Moore K, Frazier RS. Engineering education for generation Z. American Journal of Engineering Education (AJEE). 2017;8(2):111-26.</citation>
+  </reference>
+  <reference>
+    <citation>Nicholson S. Peeking behind the locked door: A survey of escape room facilities. Pozyskano z http://scottnicholson com/pubs/erfacwhite pdf. 2015.</citation>
+  </reference>
+  <reference>
+    <citation>Rosenkrantz O, Jensen TW, Sarmasoglu S, Madsen S, Eberhard K, Ersbøll AK, Dieckmann P. Priming healthcare students on the importance of non-technical skills in healthcare: How to set up a medical escape room game experience. Med Teach. 2019 Nov;41(11):1285-1292. doi: 10.1080/0142159X.2019.1636953. Epub 2019 Jul 23.</citation>
+    <PMID>31335239</PMID>
+  </reference>
+  <reference>
+    <citation>Sardi L, Idri A, Fernández-Alemán JL. A systematic review of gamification in e-Health. J Biomed Inform. 2017 Jul;71:31-48. doi: 10.1016/j.jbi.2017.05.011. Epub 2017 May 20. Review.</citation>
+    <PMID>28536062</PMID>
+  </reference>
+  <reference>
+    <citation>Schenarts PJ. Now Arriving: Surgical Trainees From Generation Z. J Surg Educ. 2020 Mar - Apr;77(2):246-253. doi: 10.1016/j.jsurg.2019.09.004. Epub 2019 Sep 24.</citation>
+    <PMID>31562032</PMID>
+  </reference>
+  <reference>
+    <citation>Shatto B, Erwin K. Teaching Millennials and Generation Z: Bridging the Generational Divide. Creat Nurs. 2017 Feb 1;23(1):24-28. doi: 10.1891/1078-4535.23.1.24.</citation>
+    <PMID>28196564</PMID>
+  </reference>
+  <reference>
+    <citation>Steinwachs B. How to Facilitate a Debriefing. Simulation &amp; Gaming. 1992;23(2):186-95.</citation>
+  </reference>
+  <reference>
+    <citation>van Gaalen AEJ, Brouwer J, Schönrock-Adema J, Bouwkamp-Timmer T, Jaarsma ADC, Georgiadis JR. Gamification of health professions education: a systematic review. Adv Health Sci Educ Theory Pract. 2021 May;26(2):683-711. doi: 10.1007/s10459-020-10000-3. Epub 2020 Oct 31. Review.</citation>
+    <PMID>33128662</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang XC, Diemer G, Lee H, Jaffe R, Papanagnou D. Finding the 'QR' to Patient Safety: Applying Gamification to Incorporate Patient Safety Priorities Through a Simulated 'Escape Room' Experience. Cureus. 2019 Feb 5;11(2):e4014. doi: 10.7759/cureus.4014.</citation>
+    <PMID>31007972</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang XC, Lee H, Rodriguez C, Rudner J, Chan TM, Papanagnou D. Trapped as a Group, Escape as a Team: Applying Gamification to Incorporate Team-building Skills Through an 'Escape Room' Experience. Cureus. 2018 Mar 2;10(3):e2256. doi: 10.7759/cureus.2256.</citation>
+    <PMID>29725559</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>February 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>March 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Copenhagen Academy for Medical Education and Simulation</investigator_affiliation>
+    <investigator_full_name>Tami Jørgensen</investigator_full_name>
+    <investigator_title>Medical student</investigator_title>
+  </responsible_party>
+  <keyword>Escape room</keyword>
+  <keyword>Debriefing</keyword>
+  <keyword>Structured</keyword>
+  <keyword>Learning goal</keyword>
+  <keyword>Learning objective</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

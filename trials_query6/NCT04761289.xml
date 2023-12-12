@@ -1,0 +1,221 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04761289</url>
+  </required_header>
+  <id_info>
+    <org_study_id>245381</org_study_id>
+    <nct_id>NCT04761289</nct_id>
+  </id_info>
+  <brief_title>Effects of a Multimodal Physical Exercise and Functional Rehabilitation Program on Fatigue, Pain, Functional Capacity and Quality of Life in Cancer Patients With Tumor Asthenia.</brief_title>
+  <official_title>Effects of a Multimodal Physical Exercise and Functional Rehabilitation Program on Fatigue, Pain, Functional Capacity and Quality of Life in Cancer Patients With Tumor Asthenia. Controlled Clinical Trial.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Salamanca</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Salamanca</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Tumor asthenia is the most common symptom associated with cancer and its treatment. Although&#xD;
+      the estimated prevalence varies between 60-90%, and it is considered the longest-lasting&#xD;
+      symptom in cancer patients, having the greatest impact on quality of life parameters, it is a&#xD;
+      problem that is still undervalued in general by health professionals . It has been observed&#xD;
+      that individuals with this process find it difficult to normalize their daily life, either&#xD;
+      due to a deterioration in their clinical condition or due to a problem in the generalization&#xD;
+      of what they have learned during their hospital stay. That is why we plan to carry out a&#xD;
+      clinical trial, to evaluate the effect of a controlled patient follow-up program, and thus be&#xD;
+      able to address these difficulties in the most optimal way. A randomized clinical trial of&#xD;
+      two parallel groups will be carried out, belonging to the oncology service of the University&#xD;
+      Hospital of Salamanca. 44 participants with tumor asthenia, who are admitted at the time of&#xD;
+      inclusion, will be selected through a consecutive sampling. After the baseline evaluation,&#xD;
+      the participants will be randomized into two groups. The subjects of the experimental group&#xD;
+      will carry out a Functional Rehabilitation Program, with a duration of one month. The main&#xD;
+      variable will be the evaluation of the basic activities of daily life (Barthel scale). The&#xD;
+      secondary variables will be oriented to evaluate the change in tumor asthenia, attention and&#xD;
+      cognitive functions, parameters of quality of life, pain, functional capacity and body&#xD;
+      composition. The results of this study could be transferred to the clinic, incorporating them&#xD;
+      into care protocols for cancer patients with tumor asthenia.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Activities of Daily Living (ADL)</measure>
+    <time_frame>BASAL VISIT: It will be carried out at the time prior to the discharge of hospitalization patients.</time_frame>
+    <description>Barthel index (BI) will be used, whose version has been translated and validated into Spanish (4). The scale assigns a score based on their degree of dependency to perform a series of basic activities, obtaining a score on each item that ranges from 0 to 15 points. The global range can vary between 0 (completely dependent) and 100 points (completely independent).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cancer related fatigue</measure>
+    <time_frame>FOLLOW-UP VISITS 15 DAYS AND 1 MONTH: These visits will be identical to the baseline evaluation except for the collection of sociodemographic variables, which will only be carried out in the baseline evaluation.</time_frame>
+    <description>Functional evaluation of cancer therapy- Anemia&quot; FACT-An &quot;in its 4th version and the VAS scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Attention and executive functions</measure>
+    <time_frame>FOLLOW-UP VISITS 15 DAYS AND 1 MONTH: These visits will be identical to the baseline evaluation except for the collection of sociodemographic variables, which will only be carried out in the baseline evaluation.</time_frame>
+    <description>The Trail Making Test (TMT) will be used. The TMT is used to assess attention, flexibility of thought and visuospatial ability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life (HRQL)</measure>
+    <time_frame>FOLLOW-UP VISITS 15 DAYS AND 1 MONTH: These visits will be identical to the baseline evaluation except for the collection of sociodemographic variables, which will only be carried out in the baseline evaluation.</time_frame>
+    <description>It will be evaluated using the EuroQol 5-D questionnaire (EQ-5D). An adapted version of this will be used questionnaire, which has been validated in the Spanish population. Minimum score 5, maximum score 15. Higher scores indicate worse status.Minimum score 5, maximum score 15. Higher scores indicate worse status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cancer pain</measure>
+    <time_frame>FOLLOW-UP VISITS 15 DAYS AND 1 MONTH: These visits will be identical to the baseline evaluation except for the collection of sociodemographic variables, which will only be carried out in the baseline evaluation.</time_frame>
+    <description>Visual Analogue Scale (VAS) will be used. Minimum score 0, maximum score 10. Higher scores indicate worse status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Capacity</measure>
+    <time_frame>FOLLOW-UP VISITS 15 DAYS AND 1 MONTH: These visits will be identical to the baseline evaluation except for the collection of sociodemographic variables, which will only be carried out in the baseline evaluation.</time_frame>
+    <description>The short physical performance battery (SPPB), validated in our setting for primary health care, is a test specifically designed to predict disabilities (10) and has demonstrated the ability to predict adverse events, dependence, institutionalization and mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kinesiophobia</measure>
+    <time_frame>FOLLOW-UP VISITS 15 DAYS AND 1 MONTH: These visits will be identical to the baseline evaluation except for the collection of sociodemographic variables, which will only be carried out in the baseline evaluation.</time_frame>
+    <description>The Tampa Scale for Kinesiophobia (TSK), is a measurement scale developed to evaluate fear of movement related to pain, mainly in patients with musculoskeletal pain. The modified scale of 11 will be applied items (TSK-F), validated version in cancer patients. Minimum score 11, maximum score 44. Higher scores indicate worse status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weight</measure>
+    <time_frame>FOLLOW-UP VISITS 15 DAYS AND 1 MONTH: These visits will be identical to the baseline evaluation except for the collection of sociodemographic variables, which will only be carried out in the baseline evaluation.</time_frame>
+    <description>Kilograms obtaining data on fat mass, fat-free mass, musculoskeletal mass, total body water and body fat percentage. The device used will be the Tanita BC 418 MA (Tanita Corporation, Japan) (13). Height will be measured using a portable system (Seca 222), calculating the average of two measurements registered.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Height</measure>
+    <time_frame>FOLLOW-UP VISITS 15 DAYS AND 1 MONTH: These visits will be identical to the baseline evaluation except for the collection of sociodemographic variables, which will only be carried out in the baseline evaluation.</time_frame>
+    <description>Meters</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Cancer</condition>
+  <condition>Cancer-Related Syndrome</condition>
+  <condition>Fatigue</condition>
+  <arm_group>
+    <arm_group_label>Control group. Health education program</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The participants in this group will undergo the usual clinical practice: compliance and adherence to the prescribed drug treatment will be explained, as well as the established guidelines for individualized health care. A Health Education Program will also be added at discharge, mainly aimed at reinforcing and promoting an active and healthy life.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental Group. Multimodal Exercise and Functional Rehabilitation Program</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Prescription of multimodal physical exercise. A supervised and structured home program will be carried out for one month. It will be carried out daily in two short sessions of 15-20 minutes, one in the morning and one in the afternoon. Each session will be structured in a warm-up, a main part and a cool-down and relaxation (14).&#xD;
+Reeducation of Activities of Daily Living (ADL). Specific training will be carried out after the evaluation and before the discharge of the patients from the university healthcare complex. It is intended to identify the factors that are interfering with the performance of activities of daily living. The intervention will consist of three parts: Direct intervention on Activities of Daily Living (ADL), carried out in situ in the hospitalization and generalizable to their daily environment; teaching in Energy Saving Techniques (APR).&#xD;
+Prescription of support products and adaptations of the environment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Multimodal Exercise and Functional Rehabilitation Program</intervention_name>
+    <description>Prescription of multimodal physical exercise.&#xD;
+Reeducation of Activities of Daily Living (ADL).&#xD;
+Prescription of support products and adaptations of the environment.</description>
+    <arm_group_label>Control group. Health education program</arm_group_label>
+    <arm_group_label>Experimental Group. Multimodal Exercise and Functional Rehabilitation Program</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Having among the reasons for admission a pathological diagnosis of newly diagnosed or&#xD;
+             relapsed oncological disease.&#xD;
+&#xD;
+          -  Being admitted to the Oncology Service of the Salamanca University Hospital.&#xD;
+&#xD;
+          -  Barthel index score between 15 and 55 points.&#xD;
+&#xD;
+          -  Level of tumor asthenia greater than or equal to 4 on the EVA scale for tumor&#xD;
+             asthenia.&#xD;
+&#xD;
+          -  Sign an informed consent in which they authorize their voluntary participation in the&#xD;
+             study (Annex II).&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Present cognitive impairment assessed with the Mini-mental State Examination (MMSE)&#xD;
+             less than 24 points.&#xD;
+&#xD;
+          -  Present hemoglobin levels below 10g / dl.&#xD;
+&#xD;
+        Withdrawal criteria:&#xD;
+&#xD;
+          -  Exitus of the patient.&#xD;
+&#xD;
+          -  Progression of the disease leading to a terminal state.&#xD;
+&#xD;
+          -  Hospitalization of the patient at the time of home monitoring.&#xD;
+&#xD;
+          -  Do not carry out Final Assessment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Universidad de Salamanca</name>
+      <address>
+        <city>Salamanca</city>
+        <zip>37001</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eduardo IP Fernández, PhD</last_name>
+      <phone>699244390</phone>
+      <email>edujfr@usal.es</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>February 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>April 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Salamanca</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. Eduardo J Fernández Rodríguez</investigator_full_name>
+    <investigator_title>PhD</investigator_title>
+  </responsible_party>
+  <keyword>Cancer</keyword>
+  <keyword>Rehabilitation</keyword>
+  <keyword>Occupational therapy</keyword>
+  <keyword>Fatigue</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Fatigue</mesh_term>
+    <mesh_term>Asthenia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

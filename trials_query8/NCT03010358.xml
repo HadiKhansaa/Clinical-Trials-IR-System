@@ -1,0 +1,469 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03010358</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00016140</org_study_id>
+    <secondary_id>NCI-2016-02029</secondary_id>
+    <secondary_id>STUDY00016140</secondary_id>
+    <nct_id>NCT03010358</nct_id>
+  </id_info>
+  <brief_title>Entospletinib and Obinutuzumab in Treating Patients With Relapsed Chronic Lymphocytic Leukemia, Small Lymphocytic Lymphoma, or Non-Hodgkin Lymphoma</brief_title>
+  <official_title>A Phase I/II Study of Syk Inhibitor Entospletinib (GS-9973) in Combination With Obinutuzumab in Patients With Relapsed/Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL) and B-Cell Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alexey Danilov, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Gilead Sciences</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OHSU Knight Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial studies the side effect and best dose of entospletinib when giving&#xD;
+      together with obinutuzumab and to see how well they work in treating patients with chronic&#xD;
+      lymphocytic leukemia, small lymphocytic lymphoma, or non-Hodgkin lymphoma that has come back.&#xD;
+      Entospletinib may stop the growth of cancer cells by blocking some of the enzymes need for&#xD;
+      cell growth. Monoclonal antibodies, such as obinutuzumab, may interfere with the ability of&#xD;
+      cancer cells to grow and spread. Giving entospletinib and obinutuzumab together may work&#xD;
+      better in treating patients with chronic lymphocytic leukemia, small lymphocytic lymphoma, or&#xD;
+      non-Hodgkin lymphoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To evaluate the safety and tolerability of entospletinib administered in combination with&#xD;
+      obinutuzumab in patients with relapsed/refractory chronic lymphocytic leukemia/small&#xD;
+      lymphocytic lymphoma (CLL/SLL) and non-Hodgkin lymphoma (NHL), and identify the dose for&#xD;
+      phase 2 expansion. (Phase I) II. To evaluate the efficacy of entospletinib in combination&#xD;
+      with obinutuzumab in patients with relapsed or refractory CLL/SLL, as measured by complete&#xD;
+      response (CR) rate. (Phase II)&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. Objective response rate (ORR, defined as complete remission, complete response with&#xD;
+      incomplete marrow recovery, partial remission and nodular partial response). (Phase II) II.&#xD;
+      Event free survival defined as the interval between the date of first study treatment and the&#xD;
+      date of objective signs of disease recurrence, subsequent anti-leukemic therapy, or death,&#xD;
+      whichever is first reported. (Phase II) III. Safety and tolerability of entospletinib in&#xD;
+      combination with obinutuzumab by adverse events (AEs). (Phase II)&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVES:&#xD;
+&#xD;
+      I. Peripheral blood B-cell depletion and recovery. II. Preliminary assessment of the&#xD;
+      predictive value of minimal residual disease (MRD).&#xD;
+&#xD;
+      III. Pharmacodynamics effects of in vivo administration of entospletinib on NFkappaB&#xD;
+      activation and expression of anti-apoptotic proteins in CLL cells.&#xD;
+&#xD;
+      IV. Association of established biomarkers (chromosomal abnormalities, immunoglobulin heavy&#xD;
+      chain [IGHV] mutational status, p53 mutational status) with response (ORR and event-free&#xD;
+      survival [EFS]) to entospletinib (ENTO) in combination with obinutuzumab in patients with&#xD;
+      relapsed/refractory CLL.&#xD;
+&#xD;
+      OUTLINE: This is a phase I, dose-escalation study of entospletinib followed by a phase II&#xD;
+      study.&#xD;
+&#xD;
+      Patients receive entospletinib orally (PO) either once a day (QD) or twice a day (BID) on&#xD;
+      days -7 to -1 (run-in phase) depending on the assigned dose level. Patients also receive&#xD;
+      obinutuzumab intravenously (IV) on days 1, 2, 8, and 15 of the first cycle and on day 1 of&#xD;
+      all subsequent cycles. Treatment with obinutuzumab repeats every 28 days for up to 6 cycles&#xD;
+      and daily treatment with entospletinib continues every 28 days for up to 12 cycles in the&#xD;
+      absence of disease progression or unexpected toxicity. Patients who do not receive MRD may&#xD;
+      continue receive entospletinib beyond 12 cycles with approval from the treating physician and&#xD;
+      sponsor-investigator in the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      After completion of study treatment, patients are followed up every 3 months for 12 months&#xD;
+      then every 6 months thereafter.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 17, 2017</start_date>
+  <completion_date type="Anticipated">February 28, 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum tolerated dose (MTD) and/or a recommended phase II dose as measured by the incidence of dose limiting toxicities assessed by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.03 (Phase I)</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Will be measured by the incidence of dose limiting toxicities assessed by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.03. All adverse events will be tabulated and summarized by major organ category, grade, anticipation, and drug attribution. Severe adverse event specific incidence and exact 95% confidence interval will be provided where appropriate.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Complete response (CR) defined as the proportion of subjects who achieve CR (Phase II)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>The CR will be computed and presented together will the exact 95% confidence interval (CI), using the method of Clopper and Pearson. A null hypothesis of a 20% CR will be rejected if at least 7 of 17 patients achieve a CR and a treatment arm will not be considered further if this threshold is not reached.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR) (Phase II)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will be summarized with 95% confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event free survival (EFS) (Phase II)</measure>
+    <time_frame>The interval between the date of first study treatment and the date of objective signs of disease recurrence, subsequent anti leukemic therapy, or death, whichever is first reported, assessed up to 5 years</time_frame>
+    <description>Will be summarized descriptively using the Kaplan-Meier estimate.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will be assessed by National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.03. Will be summarized for the safety population separately for phase 1 and phase 2 portions by dose level. All adverse events (AEs) will be coded by system organ class, Medical Dictionary for Regulatory Activities (MedDRA) preferred term, and severity grade using NCI CTCAE (version 4.03).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Peripheral blood B-cell depletion and recovery</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will be summarized using descriptive statistics.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Predictive value of minimal residual disease (MRD)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will be assessed by flow cytometry. Will be summarized using descriptive statistics.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamics parameters of NFkappaB activation and expression of anti-apoptotic proteins in chronic lymphocytic leukemia (CLL) cells</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Pharmacokinetic parameters including peak and trough levels will be determined by noncompartmental method(s) using the pharmacokinetic profile of entospletinib and obinutuzumab.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Biomarkers (chromosomal abnormalities, IGHV mutational status, p53 mutational status)</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Will be assessed by IgH somatic hypermutation assay version 2.0. Will associate with response (ORR and EFS) to entospletinib (ENTO) in combination with obinutuzumab in patients with relapsed/refractory CLL.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Anemia</condition>
+  <condition>B-Cell Prolymphocytic Leukemia</condition>
+  <condition>Grade 1 Follicular Lymphoma</condition>
+  <condition>Grade 2 Follicular Lymphoma</condition>
+  <condition>Grade 3a Follicular Lymphoma</condition>
+  <condition>Hairy Cell Leukemia</condition>
+  <condition>Lymphoplasmacytic Lymphoma</condition>
+  <condition>Mantle Cell Lymphoma</condition>
+  <condition>Marginal Zone Lymphoma</condition>
+  <condition>Recurrent Chronic Lymphocytic Leukemia</condition>
+  <condition>Recurrent Small Lymphocytic Lymphoma</condition>
+  <condition>Refractory Chronic Lymphocytic Leukemia</condition>
+  <condition>Refractory Small Lymphocytic Lymphoma</condition>
+  <condition>Richter Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Treatment (entospletinib, obinutuzumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive entospletinib PO either QD or BID on days -7 to -1 (run-in phase) depending on the assigned dose level. Patients also receive obinutuzumab IV on days 1, 2, 8, and 15 of the first cycle, and on day 1 of subsequent cycles. Treatment with obinutuzumab repeats every 28 days for up to 6 cycles and daily treatment with entospletinib continues every 28 days for up to 12 cycles in the absence of disease progression or unexpected toxicity. Patients who do not receive MRD may continue receive entospletinib beyond 12 cycles with approval from the treating physician and sponsor-investigator in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Entospletinib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (entospletinib, obinutuzumab)</arm_group_label>
+    <other_name>ENTO</other_name>
+    <other_name>GS 9973</other_name>
+    <other_name>GS-9973</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (entospletinib, obinutuzumab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Obinutuzumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (entospletinib, obinutuzumab)</arm_group_label>
+    <other_name>Anti-CD20 Monoclonal Antibody R7159</other_name>
+    <other_name>GA-101</other_name>
+    <other_name>GA101</other_name>
+    <other_name>Gazyva</other_name>
+    <other_name>huMAB(CD20)</other_name>
+    <other_name>R7159</other_name>
+    <other_name>RO 5072759</other_name>
+    <other_name>RO-5072759</other_name>
+    <other_name>RO5072759</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Pharmacological Study</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (entospletinib, obinutuzumab)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Phase I portion of the study: Histologically or flow cytometry confirmed diagnosis of&#xD;
+             B-CLL/SLL according to National Cancer Institute (NCI)-Working Group (WG) 1996&#xD;
+             guidelines&#xD;
+&#xD;
+          -  Phase I portion of the study: The following types of NHL as documented by medical&#xD;
+             records and with histology based on criteria established by the World Health&#xD;
+             Organization (WHO):&#xD;
+&#xD;
+               -  Mantle cell lymphoma (MCL)&#xD;
+&#xD;
+               -  Follicular lymphoma (FL) - grades 1-3a&#xD;
+&#xD;
+               -  Lymphoplasmacytic lymphoma (LPL)&#xD;
+&#xD;
+               -  Marginal zone lymphoma (MZL)&#xD;
+&#xD;
+               -  CLL in Richter's transformation&#xD;
+&#xD;
+               -  B-cell prolymphocytic leukemia&#xD;
+&#xD;
+          -  Phase I portion of the study: Patients with histologically confirmed classical hairy&#xD;
+             cell leukemia (HCL)&#xD;
+&#xD;
+          -  Phase II portion of the study - histologically or flow cytometry confirmed diagnosis&#xD;
+             of BCLL/SLL according to NCI-WG 1996 guidelines; patients who lack CD23 expression on&#xD;
+             their leukemia cells should be examined for (and found NOT to have) either t(11;14) or&#xD;
+             cyclin D1 overexpression, to rule out mantle cell lymphoma&#xD;
+&#xD;
+          -  Patients underwent &gt;= 1 prior chemotherapy-based or immunotherapy-based regimen or&#xD;
+             targeted therapy (e.g., inhibitors of BTK, PI3K etc.) administered for &gt;= 2 cycles,&#xD;
+             and have had either documented disease progression or no response (stable disease) to&#xD;
+             the most recent treatment regimen&#xD;
+&#xD;
+          -  Patients with CLL/SLL must demonstrate active disease meeting at least 1 of the&#xD;
+             International Workshop on Chronic Lymphocytic Leukemia (IWCLL) 2008 criteria for&#xD;
+             requiring treatment:&#xD;
+&#xD;
+               -  A minimum of any one of the following constitutional symptoms:&#xD;
+&#xD;
+                    -  Unintentional weight loss &gt; 10% within the previous 6 months prior to&#xD;
+                       screening&#xD;
+&#xD;
+                    -  Extreme fatigue (unable to work or perform usual activities)&#xD;
+&#xD;
+                    -  Fevers of greater than 100.5 Fahrenheit (F) for &gt;= 2 weeks without evidence&#xD;
+                       of infection&#xD;
+&#xD;
+                    -  Night sweats without evidence of infection&#xD;
+&#xD;
+               -  Evidence of progressive marrow failure as manifested by the development of, or&#xD;
+                  worsening of anemia or thrombocytopenia&#xD;
+&#xD;
+               -  Massive (i.e., &gt; 6 cm below the left costal margin), progressive or symptomatic&#xD;
+                  splenomegaly&#xD;
+&#xD;
+               -  Massive nodes or clusters (i.e., &gt; 10 cm in longest diameter) or progressive&#xD;
+                  lymphadenopathy&#xD;
+&#xD;
+               -  Progressive lymphocytosis with an increase of &gt; 50% over a 2-month period, or an&#xD;
+                  anticipated doubling time of less than 6 months&#xD;
+&#xD;
+               -  Autoimmune anemia or thrombocytopenia that is poorly responsive to&#xD;
+                  corticosteroids&#xD;
+&#xD;
+          -  Patients with HCL must be intolerant of or not candidates for purine analog-based&#xD;
+             therapy, or failed to achieve response (CR or partial response [PR]) or relapsed&#xD;
+             within 2 years of such therapy, AND meet the standard treatment initiation criteria&#xD;
+             (absolute neutrophil count [ANC] =&lt; 1000/uL, hemoglobin [Hgb] =&lt; 10 g/dL, platelet&#xD;
+             count =&lt; 100,000/uL); patients with indolent lymphoma (FL, LPL, MZL) and patients with&#xD;
+             B-cell prolymphocytic leukemia must have an indication for treatment in the opinion of&#xD;
+             the investigator; patients with MCL and patients with CLL in Richter's transformation&#xD;
+             should have previously received or not be candidates for high dose&#xD;
+             chemotherapy/autologous stem cell transplant&#xD;
+&#xD;
+          -  For diseases other than CLL, LPL, and HCL, presence of radiographically measurable&#xD;
+             lymphadenopathy or extra-nodal lymphoid malignancy (defined as the presence of &gt;= 1&#xD;
+             lesion that measures &gt;= 2.0 cm in the longest dimension [LD] and &gt;= 1.0 cm in the&#xD;
+             longest perpendicular dimension [LPD] as assessed by computed tomography [CT] or&#xD;
+             magnetic resonance imaging [MRI]); for LPL, measurable disease will be defined as&#xD;
+             serum monoclonal IgM &gt; 0.5 g/dL or meeting at least 1 of the recommendations from the&#xD;
+             Second International Workshop on LPL for requiring treatment&#xD;
+&#xD;
+          -  Patients must have Eastern Cooperative Oncology Group (ECOG) performance status =&lt; 2&#xD;
+&#xD;
+          -  Direct bilirubin =&lt; 2 X institutional upper limit of normal (ULN) (unless due to known&#xD;
+             Gilbert's syndrome or compensated hemolysis directly attributable to CLL)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) less than 2.5 X&#xD;
+             institutional ULN&#xD;
+&#xD;
+          -  Estimated creatinine clearance (CrCL) using the Cockcroft-Gault equation &gt;= 50 mL/min&#xD;
+&#xD;
+          -  Platelets &gt;= 50,000/mm^3 independent of transfusion support, with no active bleeding&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &gt;= 1000/mm^3, unless due to disease involvement in the&#xD;
+             bone marrow&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior therapeutic intervention with any of the following:&#xD;
+&#xD;
+               -  Therapeutic anticancer antibodies within 4 weeks (rituximab), except within 6&#xD;
+                  months for obinutuzumab or a similar investigational type II monoclonal antibody;&#xD;
+&#xD;
+               -  Radio- or toxin-immunoconjugates within 10 weeks;&#xD;
+&#xD;
+               -  Inhibitors of BTK (ibrutinib), PI-3K (idelalisib), BH3-mimetic venetoclax,&#xD;
+                  lenalidomide and other &quot;targeted&quot; therapy (including but not limited to&#xD;
+                  investigational BTK and PI-3K inhibitors, etc.) - within 6 half-lives (i.e., 36&#xD;
+                  hours for ibrutinib)&#xD;
+&#xD;
+               -  All other chemotherapy, radiation therapy within 3 weeks prior to initiation of&#xD;
+                  therapy&#xD;
+&#xD;
+               -  SYK inhibitors at any time&#xD;
+&#xD;
+          -  Inadequate recovery from adverse events related to prior therapy to grade =&lt; 1&#xD;
+             (excluding grade 2 alopecia and neuropathy)&#xD;
+&#xD;
+          -  Chronic use of corticosteroids in excess of prednisone 30 mg/day or its equivalent&#xD;
+&#xD;
+          -  Stem cell transplant recipients must have no evidence of and not receive treatment for&#xD;
+             graft-versus-host disease&#xD;
+&#xD;
+          -  Concomitant use or use in the prior two weeks of moderate or strong CYP3A and CYP2C9&#xD;
+             inducers or strong CYP2C9 inhibitors, including nutraceutical preparations, e.g.,&#xD;
+             grapefruit juice and St John's wort&#xD;
+&#xD;
+          -  History prior malignancy except:&#xD;
+&#xD;
+               -  Malignancy treated with curative intent and no known active disease present for&#xD;
+                  &gt;= 2 years prior to initiation of therapy on current study&#xD;
+&#xD;
+               -  Adequately treated non-melanoma skin cancer or lentigo maligna (melanoma in situ)&#xD;
+                  without evidence of disease&#xD;
+&#xD;
+               -  Adequately treated in situ carcinomas (e.g., cervical, esophageal, etc.) without&#xD;
+                  evidence of disease&#xD;
+&#xD;
+               -  Asymptomatic prostate cancer managed with &quot;watch and wait&quot; strategy&#xD;
+&#xD;
+               -  Myelodysplastic syndrome which is clinically well controlled and no evidence of&#xD;
+                  the cytogenetic abnormalities characteristic of myelodysplasia on the bone marrow&#xD;
+                  at screening&#xD;
+&#xD;
+          -  Uncontrolled immune hemolysis or thrombocytopenia (positive direct antiglobulin test&#xD;
+             in absence of hemolysis or history of immune-mediated cytopenias are not exclusions)&#xD;
+&#xD;
+          -  History of human immunodeficiency virus (HIV) infection or active hepatitis B or C&#xD;
+&#xD;
+          -  Major surgery (requiring general anesthesia) within 2 weeks prior to initiation of&#xD;
+             therapy&#xD;
+&#xD;
+          -  Inability to swallow and retain an oral medication; patients with clinically&#xD;
+             significant medical condition of malabsorption, inflammatory bowel disease, chronic&#xD;
+             conditions which manifest with diarrhea, refractory nausea, vomiting or any other&#xD;
+             condition that will interfere significantly with drug absorption are excluded;&#xD;
+             patients must also have adequate venous access&#xD;
+&#xD;
+          -  Need for ongoing therapy with proton pump inhibitors; H2 antagonists are allowed&#xD;
+&#xD;
+          -  Active uncontrolled infection&#xD;
+&#xD;
+          -  Women who are pregnant or lactating&#xD;
+&#xD;
+          -  Fertile men or women of childbearing potential unless 1) permanently sterile or 2)&#xD;
+             using a highly effective measure of contraception such as condoms in males and&#xD;
+             consistent and correct use of one of the following in females: intrauterine device,&#xD;
+             tubal sterilization, Essure micro-insert system, vasectomy in the male partner;&#xD;
+             effective contraception is required for males during treatment with study drug and to&#xD;
+             continue for 3 months after the last dose of either entospletinib or obinutuzumab,&#xD;
+             whichever is later; for women, effective contraception is required to continue for 18&#xD;
+             months after the last dose of obinutuzumab or for 30 days after the last dose of&#xD;
+             entospletinib, whichever is later&#xD;
+&#xD;
+               -  Definition of childbearing potential: for this study, a female subject is&#xD;
+                  considered of childbearing potential until becoming post-menopausal unless&#xD;
+                  permanently sterile or with medically documented ovarian failure; women are&#xD;
+                  considered to be in a postmenopausal state when &gt;= 54 years of age with cessation&#xD;
+                  of previously occurring menses for &gt;= 12 months without an alternative cause;&#xD;
+                  women of any age with amenorrhea of &gt;= 12 months may also be considered&#xD;
+                  post-menopausal if their follicle stimulating hormone (FSH) level is in the&#xD;
+                  post-menopausal range and they are not using hormonal contraception or hormonal&#xD;
+                  replacement therapy; permanent sterilization in females includes hysterectomy,&#xD;
+                  bilateral oophorectomy, or bilateral salpingectomy in a female subject of any&#xD;
+                  age; permanent sterilization in males include bilateral orchiectomy or medical&#xD;
+                  documentation of alternative explanation&#xD;
+&#xD;
+          -  Any condition for which participation in the study is judged by the Investigator to be&#xD;
+             detrimental to the patient with inter-current illness or psychiatric/social situations&#xD;
+             that would jeopardize compliance with study requirements&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Craig Okada, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>OHSU Knight Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>OHSU Knight Cancer Institute</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>January 3, 2017</study_first_submitted>
+  <study_first_submitted_qc>January 3, 2017</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 5, 2017</study_first_posted>
+  <last_update_submitted>October 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>OHSU Knight Cancer Institute</investigator_affiliation>
+    <investigator_full_name>Alexey Danilov, MD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Lymphoma, Follicular</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+    <mesh_term>Leukemia, Hairy Cell</mesh_term>
+    <mesh_term>Leukemia, Prolymphocytic</mesh_term>
+    <mesh_term>Waldenstrom Macroglobulinemia</mesh_term>
+    <mesh_term>Leukemia, Prolymphocytic, B-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obinutuzumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

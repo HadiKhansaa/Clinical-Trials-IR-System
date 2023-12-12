@@ -1,0 +1,181 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04649528</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HHRevma1</org_study_id>
+    <nct_id>NCT04649528</nct_id>
+  </id_info>
+  <brief_title>HIIT for Inflammatory Rheumatic Disease: Man vs Machine</brief_title>
+  <official_title>Digitally Assisted High-intensity Interval Training in Inflammatory Rheumatic Disease Patients: Treatment by Man or Machine?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Molde University College</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Molde University College</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare two modes of delivering high-intensity interval&#xD;
+      training (HIIT) in a population with inflammatory rheumatic disease over 10 weeks. One group&#xD;
+      will recieved HIIT supervised by a healthcare professional, the other group will perform&#xD;
+      self-monitored HITT with guidance by a smarthpone application.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      People with inflammatory rheumatic diseases (IRS) such as rheumatoid arthritis (RA),&#xD;
+      spondyloarthritis (SpA) and systemic lupus erythematosus (SLE) have been shown to have&#xD;
+      reduced cardiovascular fitness and quality of life than the general population.&#xD;
+      Cardiovascular health is the single most important factor of total mortality. It has been&#xD;
+      shown previously that individuals with IRS tolerate both endurance training, resulting in&#xD;
+      improvement in function and cardiovascular health while also having a positive effect on&#xD;
+      disease activity measured through inflammation, pain, joint health and fatigue. In recent&#xD;
+      years, studies have also been conducted that demonstrate both the safety and effect of&#xD;
+      aerobic 4x4min high-intensity interval training (HIIT) for patients with IRS.&#xD;
+&#xD;
+      This study will involve an intervention period consisting of 20 HIIT sessions. Participants&#xD;
+      are randomized into one of two training groups. One group will perform HIIT under the&#xD;
+      supervision of a healthcare professional. The other group will perform the same HIIT training&#xD;
+      with identical instructions, however they will be self-monitored with the aid and guidance of&#xD;
+      a mobilephone application.&#xD;
+&#xD;
+      The purpose of the intervention is to increase maximum oxygen uptake and improve quality of&#xD;
+      life. The intervention period will consist of 2 weekly sessions lasting approximately 35&#xD;
+      minutes performed on non-consecutive days. The endurance training will consist of 4 intervals&#xD;
+      of 4 minutes duration, separated by a 3-4 minute active break and follows the principle of&#xD;
+      intensive aerobic interval training. Before and after the training period, identical testing&#xD;
+      (approximately 30-40 min) will be performed by both intervention groups. The testing will&#xD;
+      include measurements of work economy and maximal oxygen uptake in an endurance test.&#xD;
+      Additionally, quality of life questionnaires will be obtained.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 3, 2018</start_date>
+  <completion_date type="Actual">March 23, 2018</completion_date>
+  <primary_completion_date type="Actual">March 23, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>The exercise physiologist performing the maximal oxygen uptake pre and posttests was blinded with reguards to which intervention group the participants had been assigned.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in physiological measures</measure>
+    <time_frame>At baseline and after 10 weeks of HIIT</time_frame>
+    <description>Maximal oxygen uptake</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in health-related quality of life</measure>
+    <time_frame>At baseline and after 10 weeks of HIIT</time_frame>
+    <description>Questionnaire (Norwegian RAND-36), scoring on a 0-100 scale with higher scores identifying better outcomes</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">49</enrollment>
+  <condition>Inflammatory Rheumatism</condition>
+  <arm_group>
+    <arm_group_label>Supervised HIIT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Exercise intervention, 20 supervised by healthcare professional</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>APP HIIT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Exercise intervention, 20 self-monitored assisted by a mobilephone application</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Effective endurance 4x4 training - Supervised</intervention_name>
+    <description>Exercise intervention utilizing 4x4min aerobic high-intensity interval training</description>
+    <arm_group_label>Supervised HIIT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Effective endurance 4x4 training - APP</intervention_name>
+    <description>Exercise intervention utilizing 4x4min aerobic high-intensity interval training</description>
+    <arm_group_label>APP HIIT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Inflammatory rheumatic disease&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to complete the testing procedures&#xD;
+&#xD;
+          -  Pregancy&#xD;
+&#xD;
+          -  Not able to perform exercise intervention&#xD;
+&#xD;
+          -  Planed surgeries or other plans during initial exercise intervention period than&#xD;
+             directly will effect the testing or training.&#xD;
+&#xD;
+          -  Access to a smartphone&#xD;
+&#xD;
+          -  Less than 80% compliance of planned training sessions&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jan Helgerud, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Norwegian University of Science and Technology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Myworkout - Medical Rehabilitation Clinic</name>
+      <address>
+        <city>Trondheim</city>
+        <state>Please Select</state>
+        <zip>7047</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2020</study_first_posted>
+  <last_update_submitted>November 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>VO2max</keyword>
+  <keyword>Cardiovascular health</keyword>
+  <keyword>Quality of life</keyword>
+  <keyword>Endurance exercise</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rheumatic Fever</mesh_term>
+    <mesh_term>Rheumatic Diseases</mesh_term>
+    <mesh_term>Collagen Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

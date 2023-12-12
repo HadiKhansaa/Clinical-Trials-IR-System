@@ -1,0 +1,382 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04568252</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MISTIC</org_study_id>
+    <nct_id>NCT04568252</nct_id>
+  </id_info>
+  <brief_title>Migraine STImulation Crisis of Migraine</brief_title>
+  <acronym>MISTIC</acronym>
+  <official_title>Evaluation of the Impact of Wearing a Millimetre Wave Bracelet for 3 Months on the Frequency in Number of Days of Migraines in Patients With Episodic Migraines Without Aura</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Remedee Labs SAS</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Remedee Labs SAS</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Migraine is a neurovascular disease whose prevalence is estimated at almost 20% of the adult&#xD;
+      population. Currently, there is no treatment for migraine.&#xD;
+&#xD;
+      Millimeter stimulation of the wrist subcutaneous receptors allows the release of endorphin in&#xD;
+      the brain.&#xD;
+&#xD;
+      MISTIC is a prospective, controlled, multicenter, double-blind, randomized study in which the&#xD;
+      research team are investigating whether millimeter stimulation of subcutaneous wrist&#xD;
+      receptors reduces the frequency of migraine crisis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      MISTIC is a multicenter, controlled, randomized, double-blind study. Eligible patients will&#xD;
+      have to report their migraine crisis in a diary during a one month pre-selection phase. Then,&#xD;
+      patients will be randomized into one of two treatment groups :&#xD;
+&#xD;
+        -  active millimeter wave emission bracelet&#xD;
+&#xD;
+        -  or placebo bracelet&#xD;
+&#xD;
+      Patients will have to use the medical device twice a day for 3 months. The investigators will&#xD;
+      follow them for an additional 3 months to assess the persistence of the effect.&#xD;
+&#xD;
+      Throughout the follow-up, patients will report their migraines crisis in a journal.&#xD;
+&#xD;
+      The primary outcome will be the impact of wearing a millimeter wave bracelet for 3 months, on&#xD;
+      the number of days with migraine headaches.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 4, 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomization : intervention group and control group</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the effects of millimeter waves applied to the wrist (MMW) on the number of days with migraine(s) at 3 months reported by the patient with episodic migraine(s) without aura.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Sequential hierarchical analysis on two criteria :&#xD;
+the difference in the number of days with migraine in the month prior to M3, taking into account the number of days with migraine in the month prior to inclusion, using an ANCOVA (comparison of average between the 2 groups adjusted to the initial value according to the recommendations of Vickers and Altman).&#xD;
+the difference in the proportion of success at M3 (reduction in the number of days with migraine by more than 50% between inclusion and M3), evaluated by the Chi2 test.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To compare the evolution of migraine in terms of monthly monitoring.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Comparison of the evolution's kinetic of the number of days with migraine between the baseline (M0) and 3 months using monthly data (M1-M2-M3).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the effects of wearing a millimeter wave wristband on the severity of migraine crisis.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Headache Impact Test (named HIT-6 questionnaire) Self-Rating Scale (3 levels : mild, moderate, severe).&#xD;
+The HIT-6 questionnaire contains 6 questions (3 first questions assessing the impact of the crisis and 3 last questions assessing the impact of the crisis).&#xD;
+The minimum score is 36 and the maximum score is 78. It can result in a categorical use to define four grades of increasing severity: score ≤ 49: low impact; score 50-50: definite impact; score 56-59: significant impact; score ≥ 60: impact major. The higher the score, the greater the impact of headaches on quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the effects of wearing a millimeter wave wristband on the duration of migraine crisis.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Duration (in minutes) of patient-reported migraine crisis at 3 months from baseline (M0).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the consumption of migraine crisis treatments between the 2 groups.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Number of migraine crisis treatments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the effects of wearing the MMW wristband on the specific (i.e. migraine-related) quality of life of migraine patients (functional disability).</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Evolution of the MIDAS questionnaire score between 0 and M3. The MIDAS questionnaire contains 5 questions.&#xD;
+Description of score : the higher the number of days, the higher severity :&#xD;
+0 to 5 days : no severity 6 to 10 days : little severity 11 to 20 days : moderate severity more 20 days : high severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the effects of wearing the MMW wristband on generic quality of life.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Evolution of the EQ5D-5L questionnaire score between 0 and M3. EQ-5D-5L is a standardized instrument developed by the EuroQol Group as a measure of health-related quality of lige that can be used in a wide range of health conditions and treatments. The EQ5D has 6 items intended to measure general health. The top 5 rate mobility, independence, daily activities, pain / discomfort, and anxiety / depression, and are rated according to 5 values : &quot;No problem&quot;, &quot;little problem&quot;, &quot;moderate problem&quot;, &quot;high problem&quot; and &quot;Incapacity&quot;. This results in an index score. The last item deals with perceived health on the day the questionnaire is filled in and uses a visual analogue scale from 0 (wors) to 100 (best health possible) (Visual Analog Scale Score)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the effects of wearing a millimeter wave wristband on associated anxiety and depressive disorders.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Evolution of the HADS questionnaire between 0 and M3. The HADS questionnaire contains 14 questions. The minimum score is 0 and the maximum score is 42.&#xD;
+The higher the score, the depression is important :&#xD;
+score &lt; 7 : no depression score 8 to 10 : doubtful depression score &gt; 11 : proven depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the effects of wearing a millimeter wave wristband on the quality of sleep.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Evolution of the PSQI questionnaire between 0 and M3. The PSQI questionnaire contains 24 questions. The minimum score is 0 and the maximum score is 21 : a score of 0 corresponds to no difficulty and a score of 21 to important difficulties.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the consumption in consultations (any type of care use) for migraine between the 2 groups.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Comparison of the costs of consultations induced by migraine (hospitalizations, medical consultations).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the consumption of complementary alternative migraine care between the 2 groups.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Comparison of the number of complementary alternative consultations at 3 months between the 2 groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the feasibility of collecting actimetrics and geolocalization data in migraine patients via the Fitbit4 bracelet.</measure>
+    <time_frame>6 months.</time_frame>
+    <description>Number of data per patient for each variable collected with the application named &quot;FitBit&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the stability of the effect of wearing the MMW wristband over the long term in the intervention group.</measure>
+    <time_frame>6 months.</time_frame>
+    <description>Evaluation of the maintenance of the stability of the effect of wearing the MMW at the long term (6 months) on the number of the migraine day for the principal outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events.</measure>
+    <time_frame>6 months.</time_frame>
+    <description>Description of adverse events from M0 to M6 (number and type)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess patient satisfaction with participation in the study.</measure>
+    <time_frame>6 months.</time_frame>
+    <description>Questionnaire of satisfaction with the choice of treatment at 6 months. This questionnaire of satisfaction was created by our team in order to evaluate the satifaction of patient included in this study.&#xD;
+It contains 13 questions. No score will be calculated, only description of answers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Observance of the use of MMW wristband.</measure>
+    <time_frame>3 months.</time_frame>
+    <description>Analysis of the recorded data related to the MMW wristband. The validation of the recordings is defined by the presence of at least 2/3 of the data during the total time of use of the bracelet during 3 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subgroup analysis of the number of migraine day for the principal outcome in relation to patients with or without prior prophylactic treatment.</measure>
+    <time_frame>6 months.</time_frame>
+    <description>To analyse if there is a best adaptation of treatment with ou without prior prophylactic treatment (stratification on the prior prophylactic treatment variable) on the number of migraine day for the principal outocme.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">140</enrollment>
+  <condition>Migraine Without Aura</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Millimetric wave emission bracelet.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Placebo bracelet.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Wristband with millimeter wave emission.</intervention_name>
+    <description>Wristband treatment with millimeter wave emission twice a day for 3 months.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Placebo of wristband with millimeter wave emission.</intervention_name>
+    <description>Treatment with a millimeter wave emission wristband placebo twice a day for 3 months.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient with episodic migraine without aura (according to ICDH3 classification&#xD;
+             criteria)&#xD;
+&#xD;
+          -  Patient with at leat 4 migraine days per month and no more than 8 migraine days per&#xD;
+             months&#xD;
+&#xD;
+          -  Background treatment (or not) stable for at least 1 month&#xD;
+&#xD;
+          -  Drug management of migraine stable for at least one month&#xD;
+&#xD;
+          -  Non-drug management of stable migraine at least 1 month prior to the study&#xD;
+&#xD;
+          -  Patient affiliated to social security or beneficiary of such a scheme&#xD;
+&#xD;
+          -  Patient with a phone allowing installation of the &quot;Fitbit&quot; application&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with chronic migraine (defined according to IHS criteria)&#xD;
+&#xD;
+          -  Patients already included in an interventional clinical research protocol&#xD;
+&#xD;
+          -  Patients with chronic headache due to drug abuse (according to IHS criteria)&#xD;
+&#xD;
+          -  Patients with only migraine crisis with aura&#xD;
+&#xD;
+          -  Wrist size &lt; 14.5 and &gt; 21 cm&#xD;
+&#xD;
+          -  Situations of dermatological pathologies on pre-existing wrists (oozing dermatosis,&#xD;
+             hyper sweating, eg.) or unhealed lesions on both wrists.&#xD;
+&#xD;
+          -  Presence of metallic object (bracelet, watch, piercing...) on both wrists.&#xD;
+&#xD;
+          -  Presence of a tattoo on both wrists&#xD;
+&#xD;
+          -  Allergic reactions on contact with silicone or metal&#xD;
+&#xD;
+          -  Persons referred to in Articles L 1121-5 to L 1121-8 of the CSP (corresponds to all&#xD;
+             protected persons) pregnant women, parturient women, nursing mothers, persons deprived&#xD;
+             of their liberty by judicial or administrative decision, persons subject to a legal&#xD;
+             protection measure&#xD;
+&#xD;
+          -  Women of childbearing age with a short-term pregnancy project&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Caroline MD MAINDET</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHUGA, 38000 Grenoble</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jean-Luc MD BOSSON, PhD</last_name>
+    <phone>+33476765040</phone>
+    <email>jean-luc.bosson@univ-grenoble-alpes.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Claire EYCHENNE</last_name>
+    <phone>+33476766413</phone>
+    <email>claire.eychenne@univ-grenoble-alpes.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU Grenoble Alpes</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Caroline MD MAINDET</last_name>
+    </contact>
+    <investigator>
+      <last_name>Caroline MD MAINDET</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH Fondation Rotschild</name>
+      <address>
+        <city>Paris</city>
+        <zip>75019</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claire-Marie MD RANGON</last_name>
+    </contact>
+    <investigator>
+      <last_name>Claire-Marie MD RANGON</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Catherine MD WIART</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cabinet Saint Ismier</name>
+      <address>
+        <city>Saint-Ismier</city>
+        <zip>38330</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bénédicte MD NOELLE</last_name>
+    </contact>
+    <investigator>
+      <last_name>Bénédicte MD NOELLE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cabinet Neuralpes</name>
+      <address>
+        <city>Saint-Martin-d'Hères</city>
+        <zip>38400</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fanny MD RIGGI</last_name>
+    </contact>
+    <investigator>
+      <last_name>Fanny MD RIGGI</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH Voiron</name>
+      <address>
+        <city>Voiron</city>
+        <zip>38500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gérard MD MICK</last_name>
+    </contact>
+    <investigator>
+      <last_name>Gérard MD MICK</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2020</study_first_posted>
+  <last_update_submitted>March 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Migraine</keyword>
+  <keyword>Prophylaxis</keyword>
+  <keyword>Millimeter waves</keyword>
+  <keyword>Pain</keyword>
+  <keyword>Neuromodulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Migraine Disorders</mesh_term>
+    <mesh_term>Migraine without Aura</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

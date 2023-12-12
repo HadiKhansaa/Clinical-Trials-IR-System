@@ -1,0 +1,306 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04614974</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY20090193</org_study_id>
+    <nct_id>NCT04614974</nct_id>
+  </id_info>
+  <brief_title>Initiation of Acid Suppression Therapy Prospective Outcomes for Laryngomalacia</brief_title>
+  <official_title>Initiation of Acid Suppression Therapy Prospective Outcomes for Laryngomalacia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Reema Padia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Laryngomalacia (LM) is the most common cause of stridor in infants. Symptoms of&#xD;
+      gastroesophageal reflux (GER) are often seen in the setting of LM; therefore, acid&#xD;
+      suppression therapy (AST) has been empirically used in the management of this disorder. The&#xD;
+      investigators recently performed a retrospective chart review assessing improvement of airway&#xD;
+      and dysphagia symptoms, weight gain, and need for surgery with AST. It was found that there&#xD;
+      was a similar improvement between LM severity groups and most patients received AST (96.6%).&#xD;
+      It is unclear if these improvements are due to AST or natural resolution of the disease. With&#xD;
+      heightened concerns of side effects related to AST in infants, particularly among those born&#xD;
+      prematurely, judicious use of these medications is needed. The investigators are now&#xD;
+      performing a prospective study looking at the outcome differences in patients with&#xD;
+      laryngomalacia who are evaluated by speech language therapy (SLP) alone versus those with SLP&#xD;
+      evaluation and acid suppression therapy (famotidine).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Purpose: To determine the outcome differences in patients 6 months and younger with&#xD;
+      laryngomalacia and dysphagia who are evaluated by speech language therapy (SLP) alone versus&#xD;
+      those with both SLP evaluation and acid suppression therapy (AST) (famotidine)&#xD;
+&#xD;
+      Hypothesis: There will be no differences in outcomes between those that had SLP alone versus&#xD;
+      those that had both SLP and AST.&#xD;
+&#xD;
+      Laryngomalacia (LM) is the most common cause of stridor in infants. Symptoms of&#xD;
+      gastroesophageal reflux (GER) are often seen in the setting of LM; therefore, acid&#xD;
+      suppression therapy (AST) has been empirically used in the management of this disorder.&#xD;
+      However, there is no gold standard in treating mild and moderate LM patients and therefore&#xD;
+      this study will help establish guidelines for treatment.&#xD;
+&#xD;
+      A medical chart review will be performed to assess airway and dysphagia symptom improvement&#xD;
+      from consult to the 3-month follow up appointment and then up to a year. The Pittsburgh&#xD;
+      Airway Symptom Score (PASS) questionnaire and the Infant Gastroesophageal Reflux&#xD;
+      Questionnaire (I-GERQ-R) will be given to families at the consult and at the 3-month follow&#xD;
+      up appointment for caregiver assessment. The physician will then perform the standard&#xD;
+      procedures at the clinic appointment. The Flexible Laryngoscopy Findings sheet will be filled&#xD;
+      out in conjunction with the clinic procedures for objective data. The surveys will then be&#xD;
+      scored to determine true GERD (score &gt;=16) and severe laryngomalacia (LM) (RED questions on&#xD;
+      the PASS), which would further exclude these patients. There are 12 total questions on the&#xD;
+      I-GERQ-R. On the PASS, questions 1 &amp; 2 are in the GREEN category and signifies mild LM,&#xD;
+      YELLOW signifies moderate LM, and RED is severe LM. On the PASS questionnaire, &quot;Yes&quot; to&#xD;
+      either #1 or #2 and nothing else is mild LM, &quot;yes&quot; to at least one #3-5 and none of #6-10 is&#xD;
+      moderate LM, and &quot;yes&quot; to any of the #6-10&quot; indicates severe LM. There are 10 total questions&#xD;
+      on the PASS. Mild and moderate LM patients will be block randomized the day before the&#xD;
+      appointment to receive speech language therapy alone or speech language therapy with&#xD;
+      famotidine (Pepcid). Both treatments are standard of care in these patients. Speech language&#xD;
+      therapy (feeding therapy) is part of the normal clinic visit for LM patients. These patients&#xD;
+      will then be re-evaluated at their follow up appointment in 3 months (+/- 1 month). The&#xD;
+      families will take the PASS and I-GERQ-R surveys again to determine LM severity.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 18, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Experimental, open-label randomized control trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Open Label</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Airway symptom score change from consult (baseline) to 3 month follow-up appointment</measure>
+    <time_frame>3 months</time_frame>
+    <description>Score change from pre to post surveys on the Pittsburgh Airway Symptom Score (PASS) questionnaire. The PASS is on a scale from 0-10 with a higher score indicating a worse outcome. This outcome will be assessed at the consult and the 3 month follow-up appointment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dysphagia symptom score change from consult (baseline) to 3 month follow-up appointment</measure>
+    <time_frame>3 months</time_frame>
+    <description>Score change from pre to post surveys on the Pittsburgh Airway Symptom Score (PASS) questionnaire. The PASS is on a scale from 0-10 with a higher score indicating a worse outcome. This outcome will be assessed at the consult and the 3 month follow-up appointment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in incidence of airway symptoms from consult up to 1 year assessed via electronic medical chart review</measure>
+    <time_frame>1 year</time_frame>
+    <description>Change in incidence of airway symptoms from consult up to 1 year assessed via electronic medical chart review. Notes from the Department of Otolaryngology will be reviewed which include reported symptoms from caregivers and symptoms seen upon exam. Airway symptoms included periods of apnea, chest wall retractions, cyanosis, stridor, noisy breathing, and increased respiratory rate.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in incidence of dysphagia symptoms from consult up to 1 year assessed via electronic medical chart</measure>
+    <time_frame>1 year</time_frame>
+    <description>Change in incidence of dysphagia symptoms from consult up to 1 year assessed via electronic medical chart review. Notes from the Department of Otolaryngology will be reviewed which include reported symptoms from caregivers and symptoms seen upon exam. Dysphagia symptoms included choking, coughing, gagging with feeds and/or emesis after feeds.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Weight (kg) from consult up to 1 year</measure>
+    <time_frame>1 year</time_frame>
+    <description>Weight change in kilograms assessed from medical chart review from consult up to 1 year</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infant Gastroesophageal Reflux Questionnaire (I-GERQ-R) score change from consult (baseline) to 3 month follow-up appointment</measure>
+    <time_frame>3 months</time_frame>
+    <description>Score change from pre to post survey on the I-GERQ-R. There are 12 questions on the surveys on a scale of 0-42. A higher score indicates a worse outcome. Those with a score of &gt;=16 on this survey at the initial consult are excluded from the study, indicating true gastroesophageal reflux disease (GERD). This outcome will be assessed at the consult and the 3 month follow-up appointment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with the need for supraglottoplasty surgery (escalation of treatment) up to 1 year</measure>
+    <time_frame>1 year</time_frame>
+    <description>The need for escalation of treatment with supraglottoplasty surgery will be assessed through medical chart review up to 1 year.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with the need for acid suppression therapy medication (famotidine) from speech language therapy alone group from the day after the consult up to the 3 month follow up appointment</measure>
+    <time_frame>3 months</time_frame>
+    <description>The speech language therapy alone group will be assessed for the need for a prescription for acid suppression therapy (famotidine) from the day after the consult up to 1 year.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with each type of laryngomalacia (Types 1-3) found on the Flexible Laryngoscopy procedure at the consult</measure>
+    <time_frame>At initial consult</time_frame>
+    <description>All patients will be scoped with a flexible laryngoscopy at the initial consult and the type of laryngomalacia (Types 1-3) will be noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with the need for a different acid suppression therapy medication (other than famotidine) from the day after the consult up to the 3 month follow up appointment</measure>
+    <time_frame>3 months</time_frame>
+    <description>Both groups will be assessed for the need for a different acid suppression therapy medication (other than famotidine) from the day after the consult up to the 3 month follow up appointment.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Laryngomalacia</condition>
+  <condition>Gastro Esophageal Reflux</condition>
+  <arm_group>
+    <arm_group_label>Speech Language Therapy Alone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this group will receive a routine swallowing evaluation by a speech language pathologist. Patient caregivers will fill out the Infant Gastroesophageal Reflux Questionnaire (I-GERQ-R) and the Pittsburgh Airway Symptom Score (PASS) the day of the appointment and at the 3-month follow up appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Speech Language Therapy and Acid Suppression Therapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients in this group will receive a routine swallowing evaluation by a speech language pathologist and famotidine (acid suppression therapy). Patient caregivers will fill out the Infant Gastroesophageal Reflux Questionnaire (I-GERQ-R) and the Pittsburgh Airway Symptom Score (PASS) the day of the appointment and at the 3-month follow up appointment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Famotidine</intervention_name>
+    <description>Famotidine will be prescribed based on patients' weight. Caregivers will purchase this medication and dosage will be given to families in easy-to-understand language.</description>
+    <arm_group_label>Speech Language Therapy and Acid Suppression Therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Speech Language Therapy</intervention_name>
+    <description>Speech Language Therapy (feeding therapy) will be provided by a speech language pathologist to assess feeding and swallowing.</description>
+    <arm_group_label>Speech Language Therapy Alone</arm_group_label>
+    <arm_group_label>Speech Language Therapy and Acid Suppression Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Pediatric patients ages 0 to 6 months who do need meet the criteria at the initial&#xD;
+             appointment for supraglottoplasty&#xD;
+&#xD;
+          -  Seen in University of Pittsburgh Medical Center (UPMC) Children's Hospital of&#xD;
+             Pittsburgh (CHP) Otolaryngology Department&#xD;
+&#xD;
+          -  Laryngomalacia without prolonged (&gt;20 seconds) cyanosis, apnea, nor failure to thrive.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Children over the age of 6 months old will be excluded from participation.&#xD;
+&#xD;
+          -  Premature infants (&lt;37 weeks gestation)&#xD;
+&#xD;
+          -  Patients with lung disease.&#xD;
+&#xD;
+          -  Laryngomalacia with prolonged (&gt;20 seconds) cyanosis, apnea, and failure to thrive&#xD;
+&#xD;
+          -  Sleep induced laryngomalacia&#xD;
+&#xD;
+          -  Patients with craniofacial abnormalities&#xD;
+&#xD;
+          -  Patients with a syndrome&#xD;
+&#xD;
+          -  Patients with additional airway abnormalities, seen before or at consult&#xD;
+&#xD;
+          -  Patients with symptoms that necessitate surgery&#xD;
+&#xD;
+          -  Patients with a prior cardiac surgery&#xD;
+&#xD;
+          -  Patients with AST prescribed prior to the initial otolaryngology consult.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>6 Months</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Reema Padia, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Division of Pediatric Otolaryngology, Children's Hospital of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jennifer L. McCoy, MA</last_name>
+    <phone>412-692-9879</phone>
+    <email>nelsonjl2@upmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amber D. Shaffer, PhD</last_name>
+    <phone>412-692-6874</phone>
+    <email>shafferad@upmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UPMC Children's Hospital of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer McCoy, MA</last_name>
+      <phone>412-692-9879</phone>
+      <email>nelsonjl2@upmc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Amber Shaffer, PhD</last_name>
+      <phone>412-692-6874</phone>
+      <email>shafferad@upmc.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Rosbe KW, Kenna MA, Auerbach AD. Extraesophageal reflux in pediatric patients with upper respiratory symptoms. Arch Otolaryngol Head Neck Surg. 2003 Nov;129(11):1213-20. Review.</citation>
+    <PMID>14623753</PMID>
+  </reference>
+  <reference>
+    <citation>Hartl TT, Chadha NK. A systematic review of laryngomalacia and acid reflux. Otolaryngol Head Neck Surg. 2012 Oct;147(4):619-26. Epub 2012 Jun 27. Review.</citation>
+    <PMID>22745201</PMID>
+  </reference>
+  <reference>
+    <citation>Bibi H, Khvolis E, Shoseyov D, Ohaly M, Ben Dor D, London D, Ater D. The prevalence of gastroesophageal reflux in children with tracheomalacia and laryngomalacia. Chest. 2001 Feb;119(2):409-13.</citation>
+    <PMID>11171716</PMID>
+  </reference>
+  <reference>
+    <citation>Landry AM, Thompson DM. Laryngomalacia: disease presentation, spectrum, and management. Int J Pediatr. 2012;2012:753526. doi: 10.1155/2012/753526. Epub 2012 Feb 27.</citation>
+    <PMID>22518182</PMID>
+  </reference>
+  <reference>
+    <citation>Thompson DM. Laryngomalacia: factors that influence disease severity and outcomes of management. Curr Opin Otolaryngol Head Neck Surg. 2010 Dec;18(6):564-70. doi: 10.1097/MOO.0b013e3283405e48. Review.</citation>
+    <PMID>20962644</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>October 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2020</study_first_posted>
+  <last_update_submitted>December 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Reema Padia</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Laryngomalacia</keyword>
+  <keyword>Symptom improvement</keyword>
+  <keyword>Famotidine</keyword>
+  <keyword>Speech Language Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Laryngomalacia</mesh_term>
+    <mesh_term>Gastroesophageal Reflux</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Famotidine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,313 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02957474</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GED-0301-CP-001</org_study_id>
+    <nct_id>NCT02957474</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Effect of Food, Formulation Strength, and a Proton Pump Inhibitor on GED 0301 Pharmacokinetics in Healthy Adult Subjects</brief_title>
+  <official_title>A Phase 1, Open Label, Single Center, Randomized, Six-Sequence, Crossover Study to Evaluate the Effect of Food, Formulation Strength, and a Proton Pump Inhibitor on GED 0301 Pharmacokinetics in Healthy Adult Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celgene</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Celgene</source>
+  <brief_summary>
+    <textblock>
+      This is an open label, single-center, 4-period, 6-sequence study in healthy subjects to&#xD;
+      compare the PK of GED 0301 after a single oral dose in the fed and fasted state, and after co&#xD;
+      administration with omeprazole, a proton pump inhibitor.&#xD;
+&#xD;
+      The study will consist of a screening phase, a baseline phase, four treatment periods, and a&#xD;
+      follow up phone call five days (± 1 day) after discharge.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects will be consented and screened within 21 days of dosing. They will undergo routine&#xD;
+      screening procedures including physical examinations (PE), 12 lead electrocardiograms (ECGs),&#xD;
+      vital sign measurements, clinical laboratory safety tests (clinical chemistry, haematology,&#xD;
+      urinalysis), pregnancy tests for females, and serology/drug/alcohol screens.&#xD;
+&#xD;
+      Eligible subjects will return to the clinic site on Day -1 for baseline safety assessments.&#xD;
+      After an overnight fast of at least 10 hours, subjects will be assigned randomly to one of&#xD;
+      six treatment sequences which will determine fasting status and the order in which treatments&#xD;
+      will be administered.&#xD;
+&#xD;
+      Subjects in the fasted arm will receive either a single 160 mg tablet of GED 0301 or four 40&#xD;
+      mg tablets of GED 0301, with approximately 240 mL of room temperature, non-carbonated water.&#xD;
+&#xD;
+      Subjects in the fed arm will be required to fast overnight for at least 10 hours. On the&#xD;
+      morning of dosing, these subjects will be served a high-fat meal. The meal should be entirely&#xD;
+      consumed within 20 minutes of being served. Dosing of a single160 mg tablet of GED 0301 will&#xD;
+      occur within 30 minutes (± 5 minutes) after the start of the meal.&#xD;
+&#xD;
+      During the fourth period, subjects will receive once daily oral doses of 40 mg omeprazole for&#xD;
+      6 days (Days 10 through 16). Subjects will fast on the evening of the fourth day for at least&#xD;
+      10 hours prior to receiving the last treatment, which is a single dose of 160 mg GED 0301&#xD;
+      together with one 40 mg oral dose of omeprazole (Day 15). On Day 16, subjects will take the&#xD;
+      last dose of omeprazole.&#xD;
+&#xD;
+      Serial blood sampling for the determination of GED 0301 levels in plasma will be performed&#xD;
+      during each period for 48 hours post dose.&#xD;
+&#xD;
+      Subjects will be domiciled at the clinic site from Day 1 of Period 1 until Day 17. All&#xD;
+      subjects will be discharged from the clinic site on Day 17 when all required safety and PK&#xD;
+      procedures have been completed.&#xD;
+&#xD;
+      A follow up phone call will occur five days (± 1 day) after discharge from the clinic center.&#xD;
+&#xD;
+      The study will be conducted in compliance with Good Clinical Practice (GCP), as described in&#xD;
+      International Conference on Harmonisation (ICH) Guideline E6 and in accordance with the&#xD;
+      general ethical principles outlined in the Declaration of Helsinki. The study will receive&#xD;
+      approval from an EC prior to commencement. The Investigator will conduct all aspects of this&#xD;
+      study in accordance with applicable national, state, and local laws of the pertinent&#xD;
+      regulatory authorities.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2016</start_date>
+  <completion_date type="Actual">December 2016</completion_date>
+  <primary_completion_date type="Actual">December 2016</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacokinetics - Cmax</measure>
+    <time_frame>Up to Day 17</time_frame>
+    <description>Maximum observed concentration in plasma</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics -AUC0-∞</measure>
+    <time_frame>Up to Day 17</time_frame>
+    <description>Estimation of AUC from time zero extrapolated to infinity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Event (AE)</measure>
+    <time_frame>Up to Day 22</time_frame>
+    <description>Number of participants with adverse events</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">18</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Treatment A = single oral dose GED 0301, fasted</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive a single oral 160 mg dose of GED-0301 after a 10 hour overnight fast</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment B = single oral dose GED 0301, fed</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive a single oral 160 mg dose of GED-0301 after a 10 hour overnight fast, and within 30 minutes of completely consuming a high fat meal.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment C = single oral dose GED 0301 fasted</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive an oral dose of 160 mg of GED-0301 given as 4 tablets of 40 mg, after a 10 hour overnight fast</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment D = oral omeprazole and GED-0301</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive one oral dose of 40 mg omeprazole once a day for 6 days. On the 5th day, a single oral 160 mg dose of GED-0301 will be given together with omeprazole.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GED-0301</intervention_name>
+    <arm_group_label>Treatment A = single oral dose GED 0301, fasted</arm_group_label>
+    <arm_group_label>Treatment B = single oral dose GED 0301, fed</arm_group_label>
+    <arm_group_label>Treatment C = single oral dose GED 0301 fasted</arm_group_label>
+    <arm_group_label>Treatment D = oral omeprazole and GED-0301</arm_group_label>
+    <other_name>Mongersen</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Omeprazole</intervention_name>
+    <arm_group_label>Treatment D = oral omeprazole and GED-0301</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Subjects must satisfy the following criteria to be enrolled in the study:&#xD;
+&#xD;
+          1. Subject is male, or non-pregnant and non-nursing female ≥ 18 and ≤ 65 years of age the&#xD;
+             time of signing the ICF.&#xD;
+&#xD;
+          2. Subject must understand and voluntarily sign an ICF prior to any study related&#xD;
+             assessments/procedures being conducted.&#xD;
+&#xD;
+          3. Subject is willing and able to adhere to the study visit schedule and other protocol&#xD;
+             requirements.&#xD;
+&#xD;
+          4. Satisfactory medical assessment with no clinically significant or relevant&#xD;
+             abnormalities as determined by medical history, physical examination, vital signs,&#xD;
+             12-lead ECG, and clinical laboratory evaluation (haematology, biochemistry,&#xD;
+             coagulation, and urinalysis) that is reasonably likely to interfere with the subject's&#xD;
+             participation in or ability to complete the study as assessed by the Investigator.&#xD;
+&#xD;
+          5. Female subjects NOT of childbearing potential must:&#xD;
+&#xD;
+               1. Have been surgically sterilized (hysterectomy or bilateral oophorectomy; proper&#xD;
+                  documentation required) at least 6 months before screening, or be postmenopausal&#xD;
+                  (defined as 24 consecutive months without menses before screening, with a&#xD;
+                  follicle stimulating hormone [FSH] level of &gt; 40 IU/L at screening).&#xD;
+&#xD;
+          6. Females of childbearing potential (FCBP) must have a negative pregnancy test at the&#xD;
+             Screening and Baseline Visits. While receiving investigational product (IP) and for at&#xD;
+             least 28 days after taking the last dose of IP, FCBP who engage in activity in which&#xD;
+             conception is possible must use one of the approved contraceptive options described&#xD;
+             below:&#xD;
+&#xD;
+             Option 1: Any one of the following highly effective methods: hormonal contraception&#xD;
+             (oral, injection, implant, transdermal patch, vaginal ring); intrauterine device&#xD;
+             (IUD); tubal ligation; or partner's vasectomy.&#xD;
+&#xD;
+             OR Option 2: Male or female condom PLUS 1 additional barrier method: (a) diaphragm&#xD;
+             with spermicide; (b) cervical cap with spermicide; or (c) contraceptive sponge with&#xD;
+             spermicide.&#xD;
+&#xD;
+          7. Male subjects must:&#xD;
+&#xD;
+             a. Practice true abstinence (which must be reviewed on a monthly basis and source&#xD;
+             documented) or agree to use a barrier method of birth control (condoms not made out of&#xD;
+             natural [animal] membrane [latex condoms are recommended]) during sexual contact with&#xD;
+             a pregnant female or FCBP while participating in the study, during dose interruptions,&#xD;
+             and for at least 28 days after the last dose of IP, even if he has undergone a&#xD;
+             successful vasectomy.&#xD;
+&#xD;
+          8. Subject has body mass index (BMI) ≥ 18 and ≤ 33 kg/m2 at screening.&#xD;
+&#xD;
+          9. Subject has clinical laboratory safety test results that are within normal limits or&#xD;
+             acceptable to the Investigator.&#xD;
+&#xD;
+         10. Subject vitals are as follows:&#xD;
+&#xD;
+               1. Tympanic body temperature: 35.0 - 37.5°C.&#xD;
+&#xD;
+               2. Supine blood pressure (BP) after at least 5 minutes supine rest:&#xD;
+&#xD;
+             i. Systolic BP: 90 - 140 mmHg ii. Diastolic BP: 40 - 90 mmHg c. Supine heart rate&#xD;
+             (after at least 5 minutes of rest): 40 - 90 beats per minute d. Postural drop&#xD;
+             (standing BP taken after no more than 1 minute standing) of ≤20 mmHG (systolic) or ≤10&#xD;
+             mmHg (diastolic) associated with clinically relevant symptoms.&#xD;
+&#xD;
+         11. Subject has a normal or clinically acceptable 12 lead ECG at screening. In addition:&#xD;
+&#xD;
+               1. If male, subject has a QTcF value ≤ 430 msec at screening.&#xD;
+&#xD;
+               2. If female, subject has a QTcF value ≤ 450 msec at screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        The presence of any of the following will exclude a subject from enrollment:&#xD;
+&#xD;
+          1. Subject has any significant and relevant medical condition (including but not limited&#xD;
+             to neurological, gastrointestinal, renal, hepatic, cardiovascular, psychological,&#xD;
+             pulmonary, metabolic, endocrine, hematological, allergic disease, drug allergies, or&#xD;
+             other major disorders), laboratory abnormality, or psychiatric illness that would&#xD;
+             prevent the subject from participating in the study.&#xD;
+&#xD;
+          2. Subject has any condition including the presence of laboratory abnormalities, which&#xD;
+             places the subject at unacceptable risk if he/she were to participate in the study.&#xD;
+&#xD;
+          3. Subject has any condition that confounds the ability to interpret data from the study.&#xD;
+&#xD;
+          4. Subjects who have:&#xD;
+&#xD;
+             a. previously been exposed to GED 0301; or b. been exposed to an investigational drug&#xD;
+             (new chemical entity) within 90 days preceding the first dose administration, or five&#xD;
+             half-lives of that investigational drug, if known (whichever is longer).&#xD;
+&#xD;
+          5. Subject has used any prescription drugs or over-the-counter medication (including&#xD;
+             multi-vitamins) in the 14 days prior to the planned admission day.&#xD;
+&#xD;
+        1. Subject has consumed herbal remedies or dietary supplements containing St. John's Wort,&#xD;
+        in the three weeks before the planned admission day.&#xD;
+&#xD;
+        6. Subject has any surgical or medical conditions possibly affecting drug absorption,&#xD;
+        distribution, metabolism, and excretion, eg, bariatric procedure. Appendectomy and&#xD;
+        cholecystectomy are acceptable.&#xD;
+&#xD;
+        7. Subject donated blood or plasma within 8 weeks before the first dose administration to a&#xD;
+        blood bank or blood donation center.&#xD;
+&#xD;
+        8. Subject has a history of drug abuse (as defined by the current version of the Diagnostic&#xD;
+        and Statistical Manual [DSM]) within 2 years before the first dose administration, or&#xD;
+        positive drug screening test reflecting consumption of illicit drugs.&#xD;
+&#xD;
+        9. Subject has a history or clinical evidence of substance and/or alcohol abuse within the&#xD;
+        12 months before screening. Alcohol abuse is defined as regular weekly intake of more than&#xD;
+        14 units (using alcohol tracker http://www.nhs.uk/Tools/Pages/NHSAlcoholtracker.aspx).&#xD;
+&#xD;
+        10. Subject is known to have serum hepatitis or known to be a carrier of hepatitis B&#xD;
+        surface antigen (HBsAg) or hepatitis C antibody (HCV Ab), or have a positive result to the&#xD;
+        test for human immunodeficiency virus (HIV) antibodies at screening.&#xD;
+&#xD;
+        11. Subject smokes &gt; 10 cigarettes per day, or the equivalent in other tobacco products&#xD;
+        (self reported).&#xD;
+&#xD;
+        12. Subject is part of the clinical staff personnel or a family member of the clinical site&#xD;
+        staff.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maria Palminsano, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Celgene Corporation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Richmond Pharmacology, Ltd.</name>
+      <address>
+        <city>Croydon</city>
+        <state>Surrey</state>
+        <zip>CR7 7YE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>January 2017</verification_date>
+  <study_first_submitted>November 3, 2016</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 6, 2016</study_first_posted>
+  <last_update_submitted>January 11, 2017</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2017</last_update_submitted_qc>
+  <last_update_posted type="Estimate">January 12, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Healthy Volunteers</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <keyword>Food Effect</keyword>
+  <keyword>Proton Pump</keyword>
+  <keyword>GED-0301</keyword>
+  <keyword>Mongersen</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Omeprazole</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

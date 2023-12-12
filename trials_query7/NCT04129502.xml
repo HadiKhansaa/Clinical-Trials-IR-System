@@ -1,0 +1,3726 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04129502</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TAK-788-3001</org_study_id>
+    <secondary_id>NL20191212</secondary_id>
+    <secondary_id>2019-001845-42</secondary_id>
+    <secondary_id>U1111-1232-6059</secondary_id>
+    <nct_id>NCT04129502</nct_id>
+  </id_info>
+  <brief_title>TAK-788 as First-line Treatment Versus Platinum-Based Chemotherapy for Non-Small Cell Lung Cancer (NSCLC) With EGFR Exon 20 Insertion Mutations</brief_title>
+  <official_title>A Randomized Phase 3 Multicenter Open-label Study to Compare the Efficacy of TAK-788 as First-line Treatment Versus Platinum-Based Chemotherapy in Patients With Non-Small Cell Lung Cancer With EGFR Exon 20 Insertion Mutations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Millennium Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Takeda</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the efficacy of TAK-788 as first-line treatment with&#xD;
+      that of platinum-based chemotherapy in participants with locally advanced or metastatic&#xD;
+      non-small cell lung cancer (NSCLC) whose tumors harbor epidermal growth factor receptor&#xD;
+      (EGFR) exon 20 insertion mutations.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The drug being tested in this study is called TAK-788. TAK-788 is being tested to evaluate&#xD;
+      the efficacy as a first line treatment compare with platinum-based chemotherapy in the&#xD;
+      participants with locally advanced or metastatic non-small cell lung cancer (NSCLC) whose&#xD;
+      tumors harbor EGFR exon 20 insertion mutations.&#xD;
+&#xD;
+      The study will enroll approximately 318 patients. Participants will be randomly assigned to&#xD;
+      one of the two treatment groups-&#xD;
+&#xD;
+        -  TAK-788 group (Arm A)&#xD;
+&#xD;
+        -  Platinum-based chemotherapy group (Arm B)&#xD;
+&#xD;
+      The participants will be administered with TAK-788 orally in arm A and Pemetrexed/Cisplatin&#xD;
+      or Pemetrexed/Carboplatin intravenously (IV) in arm B until the participants experience&#xD;
+      progressive disease (PD) as assessed by blinded independent review committee (IRC),&#xD;
+      intolerable toxicity or another discontinuation criteria. Participants in the chemotherapy&#xD;
+      group may cross over to treatment with TAK-788 after IRC-assessed PD is documented.&#xD;
+      Randomized treatment with TAK-788 or platinum-based chemotherapy may be continued after PD,&#xD;
+      at the discretion of the investigator and with the sponsor's approval, if there is still&#xD;
+      evidence of clinical benefit.&#xD;
+&#xD;
+      This multi-center trial will be conducted in United States, Europe, and Asia. The overall&#xD;
+      time to participate in this study is until 3 years after the last participant is randomized.&#xD;
+      Participants will make multiple visits to the clinic and will be followed for survival,&#xD;
+      subsequent anticancer therapy, subsequent disease assessment outcome until disease&#xD;
+      progression on a subsequent anticancer therapy, and participant-reported health status&#xD;
+      (EQ-5D-5L) for 3 years after the last participant is randomized in the study and 30 days&#xD;
+      after the last dose of study drug for safety follow-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 6, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS) as Assessed by Blinded Independent Review Committee (IRC) per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>PFS is defined as the time interval from the date of randomization until the first date at which the criteria for PD according to RECIST version 1.1 are met or death, whichever occurs first.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed Objective Response Rate (ORR) as Assessed by Blinded Independent Review Committee (IRC) per RECIST Version 1.1</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>Confirmed ORR is defined as the proportion of participants who are confirmed to have achieved complete response (CR) or partial response (PR). Confirmed responses are responses that persist on repeat imaging ≥4 weeks after initial response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>OS is defined as the interval from the date of randomization until death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS) as Assessed by the Investigator</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>PFS is defined as the time interval from the date of randomization until the first date at which the criteria for progressive disease (PD) according to RECIST version 1.1 are met or death, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed Objective Response Rate (ORR) as Assessed by the Investigator</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>Confirmed ORR is defined as the proportion of participants who are confirmed to have achieved CR or PR. Confirmed responses are responses that persist on repeat imaging ≥4 weeks after initial response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response, as Assessed by the Blinded Independent Review Committee (IRC) and the Investigator</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>Duration of response is defined as the time interval from the time that the measurement criteria are first met for CR/PR (whichever is first recorded) until the first date that PD is objectively documented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Response, as Assessed by the Blinded Independent Review Committee (IRC) and the Investigator</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>Time to response is defined as the time interval from the date of randomization until the initial observation of CR or PR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR) as Assessed by the Blinded Independent Review Committee (IRC) and the Investigator</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>DCR is defined as the percentage of participants who have achieved CR, PR, or stable disease (SD) (in the case of SD, measurements must have met the SD criteria at least once after study entry at a minimum interval of 6 weeks) after the initiation of study drug.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient-reported Symptoms, Functioning, and Health-related Quality of Life (HRQoL) as Assessed by the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire (QLQ)-C30</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>EORTC QLQ-C30 is a cancer-specific questionnaire which comprises of 5 functional scales (physical, role, cognitive, emotional, and social functioning); 3 symptom scales (fatigue, pain, and nausea/vomiting); and a global health status/quality-of-life (QoL) scale. Six single-item scales are also included (dyspnea, insomnia, appetite loss, constipation, diarrhea, and financial difficulties). Raw scores will be converted into scale scores ranging from 0 to 100. For the functional scales and the global health status/QoL scale, higher scores represent better HRQoL, whereas for the symptom scales lower scores represent better HRQoL (i.e., a low level of symptomatology/problems).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participant-reported Symptoms as Assessed by the European Organization for Research and Treatment of Cancer (EORTC) Quality of Life Questionnaire, Lung Cancer Module (QLQ-LC13)</measure>
+    <time_frame>Up to approximately 40 months after the first participant is randomized</time_frame>
+    <description>EORTC QLQ-LC13 is a cancer-specific questionnaire which comprises of 13 questions assessing lung cancer-associated symptoms (cough, hemoptysis, dyspnea, and site-specific pain), treatment-related side effects (sore mouth, dysphagia, peripheral neuropathy, and alopecia), and use of pain medication. Raw scores will be converted into scale scores ranging from 0 to 100. Higher scores represent a high level of symptomatology/problems.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">318</enrollment>
+  <condition>Advanced/Metastatic Non-Small Cell Lung Cancer (NSCLC)</condition>
+  <arm_group>
+    <arm_group_label>TAK-788 Group (Arm A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-788 160 mg, capsules, orally, once daily until the participants experience progressive disease (PD) as assessed by blinded independent review committee (IRC), intolerable toxicity, or another discontinuation criteria.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Platinum-based Chemotherapy Group (Arm B)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Pemetrexed 500 mg/m^2 plus Cisplatin 75 mg/m^2, infusion, intravenously, once on Day 1 of 21-day cycle pemetrexed 500 mg/m^2 plus Carboplatin, infusion, intravenously, once at a dose calculated to produce area under curve (AUC) of 5 mg*min/mL on Day 1 of 21-day cycle until the participants experience PD as assessed by blinded IRC, intolerable toxicity, or another discontinuation criteria. Pemetrexed/Cisplatin or pemetrexed/Carboplatin will be repeated every 3 weeks for 4 cycles, followed by maintenance treatment with pemetrexed 500 mg/m^2, on Day 1 of a 21-day cycle thereafter.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TAK-788</intervention_name>
+    <description>TAK-788 capsule</description>
+    <arm_group_label>TAK-788 Group (Arm A)</arm_group_label>
+    <other_name>AP32788</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed</intervention_name>
+    <description>Pemetrexed IV infusion</description>
+    <arm_group_label>Platinum-based Chemotherapy Group (Arm B)</arm_group_label>
+    <other_name>Alimta</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>Cisplatin IV infusion</description>
+    <arm_group_label>Platinum-based Chemotherapy Group (Arm B)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Carboplatin IV infusion</description>
+    <arm_group_label>Platinum-based Chemotherapy Group (Arm B)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed nonsquamous cell locally advanced not&#xD;
+             suitable for definitive therapy, recurrent, or metastatic (Stage IV) non-small cell&#xD;
+             lung cancer (NSCLC)&#xD;
+&#xD;
+          -  Documented epithelial growth factor receptor (EGFR) in-frame exon 20 insertion&#xD;
+             mutation assessed by a clinical laboratory improvements amendment (CLIA)-certified&#xD;
+             (United States [US] sites) or an accredited (outside of the US) local laboratory The&#xD;
+             EGFR exon 20 insertion mutation can be either alone or in combination with other EGFR&#xD;
+             or HER2 mutations except EGFR mutations for which there are approved anti-EGFR TKIs&#xD;
+             (ie, exon 19 del, L858R, T790M, L861Q, G719X, or S768I, where X is any other amino&#xD;
+             acid)&#xD;
+&#xD;
+          -  Adequate tumor tissue available, either from primary or metastatic sites, for central&#xD;
+             laboratory confirmation of EGFR exon 20 insertion mutation&#xD;
+&#xD;
+          -  At least 1 measurable lesion per response evaluation criteria in solid tumors (RECIST)&#xD;
+             version 1.1&#xD;
+&#xD;
+          -  Life expectancy ≥3 months&#xD;
+&#xD;
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Received prior systemic treatment for locally advanced or metastatic disease&#xD;
+&#xD;
+          -  Received radiotherapy ≤14 days before randomization or has not recovered from&#xD;
+             radiotherapy-related toxicities&#xD;
+&#xD;
+          -  Received a moderate or strong cytochrome P-450 (CYP)3A inhibitor or moderate or strong&#xD;
+             CYP3A inducer within 10 days before randomization&#xD;
+&#xD;
+          -  Have been diagnosed with another primary malignancy other than NSCLC&#xD;
+&#xD;
+          -  Have current spinal cord compression or leptomeningeal disease&#xD;
+&#xD;
+          -  Have uncontrolled hypertension. Participants with hypertension should be under&#xD;
+             treatment on study entry to control blood pressure&#xD;
+&#xD;
+          -  Received a live vaccine within 4 weeks before randomization per Summary of product&#xD;
+             characteristics (SmPCs) for pemetrexed, cisplatin, and carboplatin&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Millennium Pharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Takeda Study Registration Call Center</last_name>
+    <phone>1-877-825-3327</phone>
+    <email>medinfoUS@takeda.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Banner MD Anderson Cancer Center</name>
+      <address>
+        <city>Goodyear</city>
+        <state>Arizona</state>
+        <zip>85338</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>480-256-6444</phone>
+      <email>jiaxin.niu@bannerhealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jiaxin Niu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UC San Diego Moores Cancer Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>858-822-6189</phone>
+      <email>lbazhenova@ucsd.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Lyudmila Bazhenova</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Shores Medical Group</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>562-590-0345</phone>
+      <email>dannyn@pacshoresoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Danny Nguyen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Irvine</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>714-456-7523</phone>
+      <email>zhuvw@uci.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Viola Zhu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304-2205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>650-498-6000</phone>
+      <email>jwneal@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joel Neal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern CT Hematology and Oncology Associates</name>
+      <address>
+        <city>Norwich</city>
+        <state>Connecticut</state>
+        <zip>06360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>860-886-8362</phone>
+      <email>drkapur@echoct.org</email>
+    </contact>
+    <investigator>
+      <last_name>Dinesh Kapur</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Hospital Cancer Institute.</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>407-303-2024</phone>
+      <email>tarek.mekhail.md@flhosp.org</email>
+    </contact>
+    <investigator>
+      <last_name>Tarek Mekhail</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hawaii Pacific Health</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>808-522-4333</phone>
+      <email>ronald.yanagihara@straub.net</email>
+    </contact>
+    <investigator>
+      <last_name>Ronald Yanagihara</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>312-695-4549</phone>
+      <email>jyoti.patel2@nm.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jyoti Patel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland Greenebaum Cancer Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201-1595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>410-328-7224</phone>
+      <email>christian.rolfo@umm.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Christian Rolfo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>617-726-8033</phone>
+      <email>Zofia.Piotrowska@MGH.HARVARD.EDU</email>
+    </contact>
+    <investigator>
+      <last_name>Zofia Piotrowska</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>617-667-9236</phone>
+      <email>dbcosta@bidmc.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Costa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>617-632-6036</phone>
+      <email>pjanne@partners.org</email>
+    </contact>
+    <investigator>
+      <last_name>Pasi Janne</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>212-241-5615</phone>
+      <email>deborah.doroshow@mssm.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Deborah Doroshow</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Levine Cancer Institute (Main Campus)</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>980-442-2000</phone>
+      <email>kathryn.mileham@carolinashealthcare.org</email>
+    </contact>
+    <investigator>
+      <last_name>Kathryn Mileham</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fox Chase Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>215-728-5673</phone>
+      <email>jessica.bauman@fccc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jessica Bauman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>615-320-5090</phone>
+      <email>mjohnson@tnonc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Melissa Johnson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology (Worth) - USOR</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>214-370-1000</phone>
+      <email>kartik.konduri@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Kartik Konduri</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Health System</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>215-527-3357</phone>
+      <email>rg2uc@virginia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ryan Gentzler</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Cancer Institute</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>206-386-2310</phone>
+      <email>min.park@swedish.org</email>
+    </contact>
+    <investigator>
+      <last_name>Min Park</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St George Hospital</name>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2137</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+61291133828</phone>
+      <email>chee.lee@health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Chee Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Cancer Institute, St Leonards</name>
+      <address>
+        <city>St Leonards</city>
+        <state>New South Wales</state>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+61294631172</phone>
+      <email>nick.pavlakis@sydney.edu.au</email>
+    </contact>
+    <investigator>
+      <last_name>Nick Pavlakis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Alexandra Hospital</name>
+      <address>
+        <city>Woolloongabba</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+61731762111</phone>
+      <email>k.obyrne@qut.edu.au</email>
+    </contact>
+    <investigator>
+      <last_name>Kenneth OByrne</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Flinders Medical Centre</name>
+      <address>
+        <city>Bedford Park</city>
+        <state>South Australia</state>
+        <zip>5042</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+61883048997</phone>
+      <email>c.karapetis@flinders.edu.au</email>
+    </contact>
+    <investigator>
+      <last_name>Christos Karapetis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Hobart Hospital</name>
+      <address>
+        <city>Hobart</city>
+        <state>Tasmania</state>
+        <zip>7000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+61362228308</phone>
+      <email>louise.nott@ths.tas.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Louise Nott</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Universitat Graz</name>
+      <address>
+        <city>Graz</city>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4331638581318</phone>
+      <email>gudrun.absenger@klinikum-graz.at</email>
+    </contact>
+    <investigator>
+      <last_name>Gudrun Absenger</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Krankenhaus Nord Klinik Floridsdorf</name>
+      <address>
+        <city>Wien</city>
+        <zip>1210</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>4301910600</phone>
+      <email>maximilian.hochmair@wienkav.at</email>
+    </contact>
+    <investigator>
+      <last_name>Maximilian Hochmair</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cliniques Universitaires Saint-Luc</name>
+      <address>
+        <city>Bruxelles</city>
+        <state>Brussels</state>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+3227642830</phone>
+      <email>philippe.collard@uclouvain.be</email>
+    </contact>
+    <investigator>
+      <last_name>Philippe Collard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Grand Hopital de Charleroi asbl</name>
+      <address>
+        <city>Charleroi</city>
+        <state>Hainaut</state>
+        <zip>6000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>3271107297</phone>
+      <email>benoit.colinet2@ghdc.be</email>
+    </contact>
+    <investigator>
+      <last_name>Benoit Colinet</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Sint-Lucas</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>32053724155</phone>
+      <email>elke.govaerts@azstlucas.be</email>
+    </contact>
+    <investigator>
+      <last_name>Elke Govaerts</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tom Baker Cancer Center</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>(403) 521-3912</phone>
+      <email>Aliyah.Pabani@albertahealthservices.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Aliyah Pabani</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>British Columbia Cancer Agency</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z-4E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>(604) 877-6000</phone>
+      <email>BMelosky@bccancer.bc.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Barbara Melosky</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>William Osler Health System</name>
+      <address>
+        <city>Brampton</city>
+        <state>Ontario</state>
+        <zip>L6R 3J7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>(905) 494-2120</phone>
+      <email>Kirstin.Perdrizet@williamoslerhs.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Kirstin Perdrizet</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>(888) 888-8888</phone>
+      <email>geoffrey.liu@uhn.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Geoffrey Liu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Du Sacre Coeur de Montreal</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4J 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>(514) 338-2222</phone>
+      <email>kevin.jao@mail.mcgill.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Kevin Jao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Cancer Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100142</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+861088140650</phone>
+      <email>fangjian5555@yeah.net</email>
+    </contact>
+    <investigator>
+      <last_name>Jian Fang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Cancer Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100142</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>8613521469355</phone>
+      <email>ohjerry@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jun Zhao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Guangdong Provincial People's Hospital</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangzhou</state>
+        <zip>510080</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>86 13959161908</phone>
+      <email>wbc_gz@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Binchao Wang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henan Cancer Hospital</name>
+      <address>
+        <city>Zhengzhou</city>
+        <state>Henan</state>
+        <zip>450008</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8613938252350</phone>
+      <email>13938252350@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yanqiu Zhao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Chest Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <zip>101149</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8613801126259</phone>
+      <email>libaolan1109@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Baolan Li</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Hospital Chinese Academy of Medical Sciences</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8613911793771</phone>
+      <email>wangyanyifu@126.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yan Wang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Jilin Cancer Hospital</name>
+      <address>
+        <city>Changchun</city>
+        <zip>130012</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8643185871902</phone>
+      <email>jl.cheng@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ying Cheng</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sichuan Cancer Hospital</name>
+      <address>
+        <city>Chengdu</city>
+        <zip>610041</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8613880276636</phone>
+      <email>dr.lijuan@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Juan Li</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital, College of Medicine, Zhejiang University</name>
+      <address>
+        <city>Hangzhou</city>
+        <zip>310003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+86057187236876</phone>
+      <email>drzjy@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jianying Zhou</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Harbin Medical University Tumor Hospital</name>
+      <address>
+        <city>Harbin</city>
+        <zip>150081</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8613804552752</phone>
+      <email>liubaogang1962@sina.com</email>
+    </contact>
+    <investigator>
+      <last_name>Baogang Liu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Second Affiliated Hospital of Nanchang University</name>
+      <address>
+        <city>Nanchang</city>
+        <zip>330006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8613767120022</phone>
+      <email>awliu666@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Anwen Liu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai East Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <zip>200123</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8618964538992</phone>
+      <email>18901681968@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Zhongliang Guo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hubei Cancer Hospital</name>
+      <address>
+        <city>Wuhan</city>
+        <zip>430079</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8613971385149</phone>
+      <email>h-y-p@126.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yanping Hu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Aalborg Universitetshospital</name>
+      <address>
+        <city>Aalborg</city>
+        <state>Nordjylland</state>
+        <zip>DK-9000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4599321111</phone>
+      <email>tine.mcculloch@rn.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Tine McCulloch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Copenhagen University Hospital</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4535451148</phone>
+      <email>jens.benn.soerensen@rh.regionh.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Jens Benn Sorensen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Odense Universitetshospital</name>
+      <address>
+        <city>Odense C</city>
+        <zip>DK-5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4542142977</phone>
+      <email>lise.eckhoff@rsyd.dk</email>
+    </contact>
+    <investigator>
+      <last_name>Lise Eckhoff</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Francois Baclesse</name>
+      <address>
+        <city>Caen</city>
+        <state>Calvados</state>
+        <zip>14076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33231455002</phone>
+      <email>r.gervais@baclesse.unicancer.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Radj Gervais</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Nantes - Hoptal Nord Laennec</name>
+      <address>
+        <city>Nantes</city>
+        <state>Loire-Atlantique</state>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33240165930</phone>
+      <email>jaafar.bennouna@univ-nantes.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Jaafar Bennouna</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Calmette</name>
+      <address>
+        <city>Lille</city>
+        <state>Nord</state>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33320445612</phone>
+      <email>alexis.cortot@chru-lille.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Alexis Benjamin Cortot</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Louis Pradel</name>
+      <address>
+        <city>Bron</city>
+        <state>Rhone</state>
+        <zip>69500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33472357074</phone>
+      <email>michael.duruisseaux@chu-lyon.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Duruisseaux</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Leon Berard</name>
+      <address>
+        <city>Lyon</city>
+        <state>Rhone</state>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33426556732</phone>
+      <email>maurice.perol@lyon.unicancer.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Maurice Perol</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy</name>
+      <address>
+        <city>Villejuif</city>
+        <state>Val-de-Marne</state>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33142114322</phone>
+      <email>benjamin.besse@gustaveroussy.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Besse</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Intercommunal</name>
+      <address>
+        <city>Creteil Cedex</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33157022101</phone>
+      <email>isabelle.monnet@chicreteil.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Isabelle Monnet</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Grenoble</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+0476765453</phone>
+      <email>dmoro-sibilot@chu-grenoble.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Denis Moro-Sibilot</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Nord AP-HM</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13915</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33491744736</phone>
+      <email>pascale.tomasini@ap-hm.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Pascale Tomasini</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CRLC Val d'Aurelle - Paul Lamarque</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34298</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33467612581</phone>
+      <email>xavier.quantin@icm.unicancer.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Xavier Quantin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Tenon</name>
+      <address>
+        <city>Paris</city>
+        <zip>75020</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33156016531</phone>
+      <email>jacques.cadranel@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Jacques Cadranel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital PONTCHAILLOU CHU de Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33299283738</phone>
+      <email>herve.lena@chu-rennes.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Herve Lena</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nouvel Hopital Civil</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+33369550644</phone>
+      <email>bertrand.mennecier@chru-strasbourg.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Bertrand Mennecier</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Larrey</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+0567771837</phone>
+      <email>mazieres.j@chu-toulouse.fr/mazieresjulien@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Julien Mazieres</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik Schillerhohe</name>
+      <address>
+        <city>Gerlingen</city>
+        <state>Baden-Wurttemberg</state>
+        <zip>70839</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4971562037658</phone>
+      <email>evelin.sandner@klinik-schillerhoehe.de</email>
+    </contact>
+    <investigator>
+      <last_name>Evelin Sandner</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Thoraxklinik-Heidelberg gGmbH</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Baden-Wurttemberg</state>
+        <zip>69126</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4962213961301</phone>
+      <email>michael.thomas@med.uni-heidelberg.de</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Thomas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LMU Klinikum der Universitat Munchen</name>
+      <address>
+        <city>Munchen</city>
+        <state>Bayern</state>
+        <zip>80336</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4980440052590</phone>
+      <email>amanda.tufman@med.uni-muenchen.de</email>
+    </contact>
+    <investigator>
+      <last_name>Amanda Tufman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Clinic Regensburg</name>
+      <address>
+        <city>Regensburg</city>
+        <state>Bayern</state>
+        <zip>93053</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+499419447281</phone>
+      <email>christian.schulz@ukr.de</email>
+    </contact>
+    <investigator>
+      <last_name>Christian Schulz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Frankfurt</name>
+      <address>
+        <city>Frankfurt am Main</city>
+        <state>Hessen</state>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+496963017394</phone>
+      <email>albera.burchardt@kgu.de</email>
+    </contact>
+    <investigator>
+      <last_name>Albera Burchardt</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pius Hospital Oldenburg</name>
+      <address>
+        <city>Oldenburg</city>
+        <state>Niedersachsen</state>
+        <zip>26121</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+494412291611</phone>
+      <email>frank.griesinger@pius-hospital.de</email>
+    </contact>
+    <investigator>
+      <last_name>Frank Griesinger</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stadtischen Krankenhaus Kiel</name>
+      <address>
+        <city>Kiel</city>
+        <state>Schleswig-Holstein</state>
+        <zip>24116</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4943116971201</phone>
+      <email>roland.repp@krankenhaus-kiel.de</email>
+    </contact>
+    <investigator>
+      <last_name>Roland Repp</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Helios Klinikum Emil Von Behring</name>
+      <address>
+        <city>Berlin</city>
+        <zip>14165</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+493081021447</phone>
+      <email>jens.kollmeier@helios-gesundheit.de</email>
+    </contact>
+    <investigator>
+      <last_name>Jens Kollmeier</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Malteser Krankenhaus St. Franziskus-Hospital</name>
+      <address>
+        <city>Flensburg</city>
+        <zip>24939</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+494618162512</phone>
+      <email>nadezda.basara@malteser.org</email>
+    </contact>
+    <investigator>
+      <last_name>Nadezda Basara</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Asklepios Fachkliniken GmbH</name>
+      <address>
+        <city>Gauting</city>
+        <zip>82131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4989857914111</phone>
+      <email>n.reinmuth@asklepios.com</email>
+    </contact>
+    <investigator>
+      <last_name>Niels Reinmuth</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LungenClinic Grosshansdorf GmbH</name>
+      <address>
+        <city>Grosshansdorf</city>
+        <zip>22927</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4941026012101</phone>
+      <email>m.reck@lungenclinic.de</email>
+    </contact>
+    <investigator>
+      <last_name>Martin Reck</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Uniklinik Koln</name>
+      <address>
+        <city>Koln</city>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4922147889050</phone>
+      <email>juergen.wolf@uk-koeln.de</email>
+    </contact>
+    <investigator>
+      <last_name>Jurgen Wolf</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sotiria Chest Hospital of Athens</name>
+      <address>
+        <city>Athens</city>
+        <state>Attiki</state>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>302107475034</phone>
+      <email>ksyrigos.trials@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Konstantinos Syrigos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Metaxa Cancer Hospital of Piraeus</name>
+      <address>
+        <city>Piraeus</city>
+        <state>Attiki</state>
+        <zip>18537</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>302132079100</phone>
+      <email>sxyn@otenet.gr</email>
+    </contact>
+    <investigator>
+      <last_name>Spyros Ksinogalos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bioclinic Thessaloniki (Galinos clinic)</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>54622</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>302310898605</phone>
+      <email>ibouk@otenet.gr</email>
+    </contact>
+    <investigator>
+      <last_name>Ioannis Boukovinas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital</name>
+      <address>
+        <city>Kowloon</city>
+        <state>Kowloon City</state>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+85229902803</phone>
+      <email>ackcheng@ha.org.hk</email>
+    </contact>
+    <investigator>
+      <last_name>Ashley Cheng</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pamela Youde Nethersole Eastern Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+85225954183</phone>
+      <email>kty231@ha.org.hk</email>
+    </contact>
+    <investigator>
+      <last_name>Tsz Yeung Michael Kam</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth Hospital (QEH)</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+85229582641</phone>
+      <email>wongkh@ha.org.hk</email>
+    </contact>
+    <investigator>
+      <last_name>Kam-Hung Wong</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Mary Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8522255499</phone>
+      <email>jhocm@hku.hk</email>
+    </contact>
+    <investigator>
+      <last_name>James Ho</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tuen Mun Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+85224685038</phone>
+      <email>sfnyaw@ha.org.hk</email>
+    </contact>
+    <investigator>
+      <last_name>Shi Feng Nyaw</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Sha Tin</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+85235051042</phone>
+      <email>tony@clo.cuhk.edu.hk</email>
+    </contact>
+    <investigator>
+      <last_name>Tony Mok</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Soroka University Medical Centre</name>
+      <address>
+        <city>Beer Sheva</city>
+        <zip>84101</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+97239378146</phone>
+      <email>nirp@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Julia Dudnik</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Medical Center PPDS</name>
+      <address>
+        <city>Haifa</city>
+        <zip>31096</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+97247776409</phone>
+      <email>m_wollner@rambam.health.gov.il</email>
+    </contact>
+    <investigator>
+      <last_name>Mirjana Wollner</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Meir Medical Center</name>
+      <address>
+        <city>Kfar Saba</city>
+        <zip>44281</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+97297472414</phone>
+      <email>maya.gottfried@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Maya Gottfried</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba Medical Center - PPDS</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <email>yair.bar@sheba.health.gov.il</email>
+    </contact>
+    <investigator>
+      <last_name>Jair Bar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AORN Dei Colli- Ospedale Monaldi Napoli</name>
+      <address>
+        <city>Napoli</city>
+        <state>Campania</state>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+390817064300</phone>
+      <email>danilorocc@yahoo.it</email>
+    </contact>
+    <investigator>
+      <last_name>Danilo Rocco</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria Delle Croci</name>
+      <address>
+        <city>Ravenna</city>
+        <state>Emilia-Romagna</state>
+        <zip>48100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+390544286223</phone>
+      <email>federico.cappuzzo@auslromagna.it</email>
+    </contact>
+    <investigator>
+      <last_name>Federico Cappuzzo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Scientifico Romagnolo Per Lo Studio E La Cura Dei Tumori IRST - PPDS</name>
+      <address>
+        <city>Meldola</city>
+        <state>Forli-Cesena</state>
+        <zip>47014</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+390543739100</phone>
+      <email>angelo.delmonte@irst.emr.it</email>
+    </contact>
+    <investigator>
+      <last_name>Angelo Delmonte</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Europeo Di Oncologia</name>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+390257489449</phone>
+      <email>filippo.demarinis@ieo.it</email>
+    </contact>
+    <investigator>
+      <last_name>Filippo De Marinis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Sanitaria Ospedaliera S Luigi Gonzaga</name>
+      <address>
+        <city>Orbassano</city>
+        <state>Piemonte</state>
+        <zip>10043</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+390119026978</phone>
+      <email>silvia.novello@unito.it</email>
+    </contact>
+    <investigator>
+      <last_name>Silvia Novello</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Di Riferimento Oncologico</name>
+      <address>
+        <city>Aviano</city>
+        <state>Pordenone</state>
+        <zip>33081</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+390434659294</phone>
+      <email>abearz@cro.it</email>
+    </contact>
+    <investigator>
+      <last_name>Alessandra Bearz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Policlinico Vittorio Emanuele</name>
+      <address>
+        <city>Catania</city>
+        <state>Sicilia</state>
+        <zip>95122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+390953751496</phone>
+      <email>hsotoparra.ctu@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Hector Soto-Parra</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Nazionale Dei Tumori</name>
+      <address>
+        <city>Milano</city>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+390223903813</phone>
+      <email>marina.garassino@istitutotumori.mi.it</email>
+    </contact>
+    <investigator>
+      <last_name>Marina Garassino</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria di Parma</name>
+      <address>
+        <city>Parma</city>
+        <zip>43126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+390521702316</phone>
+      <email>mtiseo@ao.pr.it</email>
+    </contact>
+    <investigator>
+      <last_name>Marcello Tiseo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Pisana</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+39050993307</phone>
+      <email>iacopo.petrini@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Iacopo Petrini</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chonnam National University Hwasun Hospital</name>
+      <address>
+        <city>Hwasun</city>
+        <state>Jeollanam-do</state>
+        <zip>58128</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>82613797614</phone>
+      <email>kyc0923@chonnam.ac.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Young-Chul Kim</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pusan National University Hospital</name>
+      <address>
+        <city>Busan</city>
+        <zip>49241</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>82 51 240 7216</phone>
+      <email>leemk@pusan.ac.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Min Ki Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chungbuk National University Hospital</name>
+      <address>
+        <city>Cheongju-si</city>
+        <zip>28644</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>82 43 269 6015</phone>
+      <email>kihlee@chungbuk.ac.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Ki Hyeong Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center</name>
+      <address>
+        <city>Goyang</city>
+        <zip>10408</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>82 31 920 1154</phone>
+      <email>jymama@ncc.re.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Ji-Youn Han</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Catholic University of Korea, Seoul St. Mary's Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06591</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+82222587563</phone>
+      <email>oncologykang@naver.com</email>
+    </contact>
+    <investigator>
+      <last_name>JinHyoung Kang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Severance Hospital Yonsei University Health System - PPDS</name>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+82222288216</phone>
+      <email>cbc1971@yuhs.ac</email>
+    </contact>
+    <investigator>
+      <last_name>Byoung Chul Cho</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Korea University Anam Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>2841</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>82 2 920 5350</phone>
+      <email>shinsw@kumc.or.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Sang Won Shin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>3080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>82 2 2072 3559</phone>
+      <email>gabriel9@snu.ac.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Tae Min Kim</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center - PPDS</name>
+      <address>
+        <city>Seoul</city>
+        <zip>5505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>82 2 3010 3215</phone>
+      <email>swkim@amc.seoul.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Sang-We Kim</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center PPDS</name>
+      <address>
+        <city>Seoul</city>
+        <zip>6351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>82234103438</phone>
+      <email>silk.ahn@samsung.com</email>
+    </contact>
+    <investigator>
+      <last_name>Myung-Ju Ahn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VU Medisch Centrum</name>
+      <address>
+        <city>Amsterdam</city>
+        <state>Noord-Holland</state>
+        <zip>1081 HV</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+31204444782</phone>
+      <email>s.hashemi@amsterdamumc.nl</email>
+    </contact>
+    <investigator>
+      <last_name>Sayed Hashemi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Hospitalar do Porto Hospital de Santo Antonio</name>
+      <address>
+        <city>Santa Maria Da Feira</city>
+        <state>Aveiro</state>
+        <zip>4520-211</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+351222077500</phone>
+      <email>amfaraujo@netcabo.pt</email>
+    </contact>
+    <investigator>
+      <last_name>Antonio Araujo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacao Champalimaud</name>
+      <address>
+        <city>Lisboa</city>
+        <zip>1400-038</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>351 210 480 048</phone>
+      <email>nuno.gil@fundacaochampalimaud.pt</email>
+    </contact>
+    <investigator>
+      <last_name>Nuno Gil</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Hospitalar de Lisboa Norte E.P.E Hospital Pulido Valente</name>
+      <address>
+        <city>Lisboa</city>
+        <zip>1769-001</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>351217 548 085</phone>
+      <email>encarnacaoteixeira@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Encarnacao Teixeira</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Cuf Porto</name>
+      <address>
+        <city>Porto</city>
+        <zip>4100-180</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>351220039271</phone>
+      <email>barbaraparente@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Barbara Parente</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Portugues de Oncologia Do Porto Francisco Gentil Epe - PPDS</name>
+      <address>
+        <city>Porto</city>
+        <zip>4200-072</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+3512250840007743</phone>
+      <email>Ana.fernandes.rodrigues@ipoporto.min-saude.pt</email>
+    </contact>
+    <investigator>
+      <last_name>Ana Rodrigues</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Hospitalar de Sao Joao, E.P.E.</name>
+      <address>
+        <city>Porto</city>
+        <zip>4200</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+00351965744014</phone>
+      <email>gabrielafer75@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Gabriela Fernandes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GBUZ Saint Petersburg Clinical Research Center of Specialized Types of Care (Oncology)</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Leningradskaya Oblast</state>
+        <zip>197758</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+79119192688</phone>
+      <email>moiseenkofv@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fedor Moiseenko</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Moscow City Oncology Hospital #62</name>
+      <address>
+        <city>Moscow</city>
+        <zip>143423</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+74955360157</phone>
+      <email>stroyakovskiy@mail.ru; sdaniel@mail.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Daniil Stroyakovskiy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LLC &quot;EuroCityClinic&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>197022</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+78126180800</phone>
+      <email>orloff-sv@mail.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Sergey Orlov</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Scientific Research Institute of Oncology n.a. N.N. Petrov</name>
+      <address>
+        <city>St. Petersburg</city>
+        <zip>197758</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+78125968538</phone>
+      <email>onco.lev@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Evgeny Levchenko</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Centre</name>
+      <address>
+        <city>Singapore</city>
+        <zip>169608</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>(656) 222-3322</phone>
+      <email>tanujaa.rajasekaran@singhealth.com.sg</email>
+    </contact>
+    <investigator>
+      <last_name>Tanujaa Rajasekaran</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ICO lHospitalet Hospital Duran i Reynals</name>
+      <address>
+        <city>L'Hospitalet de Llobregat</city>
+        <state>Barcelona</state>
+        <zip>8908</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34932607744</phone>
+      <email>esnadal@iconcologia.net</email>
+    </contact>
+    <investigator>
+      <last_name>Ernest Nadal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario A Coruna</name>
+      <address>
+        <city>A Coruna</city>
+        <zip>15006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34981178000</phone>
+      <email>maria.rosario.garcia.campelo@sergas.es</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Rosario Garcia Campelo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario de Alicante</name>
+      <address>
+        <city>Alicante</city>
+        <zip>3010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34965933513</phone>
+      <email>massuti.oncoalicante@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Bartomeu Massuti Sureda</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Vall d'Hebron - PPDS</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34932746077</phone>
+      <email>efelip@vhio.net</email>
+    </contact>
+    <investigator>
+      <last_name>Enriqueta Felip Font</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34932275400</phone>
+      <email>nreguart@clinic.cat</email>
+    </contact>
+    <investigator>
+      <last_name>Noemi Reguart</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>C.H. Regional Reina Sofia - PPDS</name>
+      <address>
+        <city>Cordoba</city>
+        <zip>14004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34957736226</phone>
+      <email>isidorobarnetoaranda@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Isidoro Carlos Barneto Aranda</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Maranon</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34 91-586-8115</phone>
+      <email>antonio.calles@live.com</email>
+    </contact>
+    <investigator>
+      <last_name>Antonio Calles Blanco</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Fundacion Jimenez Diaz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34 915504800 Ext 2539</phone>
+      <email>lungtrialsfjd@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Manuel Domine Gomez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34913908923</phone>
+      <email>lpazaresr@seom.org; lpazares@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Luis Paz-Ares Rodriguez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz - PPDS</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34917277118</phone>
+      <email>javier.decastro@salud.madrid.org</email>
+    </contact>
+    <investigator>
+      <last_name>Javier De Castro Carpeno</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Puerta de Hierro - Majadahonda</name>
+      <address>
+        <city>Majadahonda</city>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34911917147</phone>
+      <email>mprovencio.ensayosclinicos@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mariano Provencio Pulla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Universitario de Malaga Hospital General</name>
+      <address>
+        <city>Malaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34951290000</phone>
+      <email>manuelcobodols@yahoo.es</email>
+    </contact>
+    <investigator>
+      <last_name>Ana Maria Galeote</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen del Rocio - PPDS</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41013</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34 955 015 796</phone>
+      <email>reyesbernab@yahoo.es</email>
+    </contact>
+    <investigator>
+      <last_name>Reyes Bernabe Caro</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari i Politecnic La Fe de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>34961245867</phone>
+      <email>juan_osc@gva.es</email>
+    </contact>
+    <investigator>
+      <last_name>Oscar Jose Juan Vidal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Karolinska Universitetssjukhuset Solna</name>
+      <address>
+        <city>Stockholm</city>
+        <state>Sodermanlands Lan</state>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+46851770158</phone>
+      <email>luigi.depetris@ki.se</email>
+    </contact>
+    <investigator>
+      <last_name>Luigi De Petris</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sahlgrenska Universitetssjukhuset</name>
+      <address>
+        <city>Goteborg</city>
+        <zip>413 45</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+46313423354</phone>
+      <email>bengt.bergman@lungall.gu.se</email>
+    </contact>
+    <investigator>
+      <last_name>Bengt Bergman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsspital Basel</name>
+      <address>
+        <city>Basel</city>
+        <state>Basel-Stadt (de)</state>
+        <zip>4031</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+41612655074</phone>
+      <email>sacha.rothschild@usb.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Sacha Rothschild</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Vaudois</name>
+      <address>
+        <city>Lausanne</city>
+        <state>Vaud (fr)</state>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+0041795560192</phone>
+      <email>solange.peters@chuv.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Solange Peters</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kantonsspital Winterthur</name>
+      <address>
+        <city>Winterthur</city>
+        <zip>8401</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4152266</phone>
+      <email>laetitia.mauti@ksw.ch</email>
+    </contact>
+    <investigator>
+      <last_name>Laetitia Mauti</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dalin Tzu Chi Hospital, Buddhist Tzu Chi Medical Foundation</name>
+      <address>
+        <city>Dalin</city>
+        <state>Chiayi</state>
+        <zip>622</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+88652648000x5007</phone>
+      <email>CHESTLAI@tzuchi.com.tw; albertla@ms8.hinet.net</email>
+    </contact>
+    <investigator>
+      <last_name>Chun-Liang Lai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital - YunLin Branch</name>
+      <address>
+        <city>Douliu</city>
+        <zip>640</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+88655323911</phone>
+      <email>y000676@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Chung-Yu Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaohsiung Medical University - Chung-Ho Memorial Hospital</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>807</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+88673121101#5651</phone>
+      <email>jyhung@kmu.edu.tw</email>
+    </contact>
+    <investigator>
+      <last_name>Jen-Yu Hung</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>E-DA hospital</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>82445</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+88676150011x5026</phone>
+      <email>yufeng528@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yu-Feng Wei</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Taichung Veterans General Hospital</name>
+      <address>
+        <city>Taichung City</city>
+        <zip>407</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8864235925253218</phone>
+      <email>jonyin@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Tsung-Ying Yang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chi Mei Medical Center, Liouying</name>
+      <address>
+        <city>Tainan City</city>
+        <zip>736</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+8866622699973132</phone>
+      <email>930828@mail.chimei.org.tw</email>
+    </contact>
+    <investigator>
+      <last_name>Chao-Hsun Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Cheng Kung University Hospital</name>
+      <address>
+        <city>Tainan</city>
+        <zip>704</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+88662353535ext4289</phone>
+      <email>suctc1031@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Wu-Chou Su</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>10002</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+886223123456ext67511</phone>
+      <email>chihyang@ntu.edu.tw</email>
+    </contact>
+    <investigator>
+      <last_name>Chih-Hsin Yang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Taipei Veterans General Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>112</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+886228712121ext3150</phone>
+      <email>chen.yuhmin@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yuh-Min Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baskent University Medical Faculty Adana Practice and Research Center</name>
+      <address>
+        <city>Yuregir</city>
+        <state>Adana</state>
+        <zip>01120</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+905053067506</phone>
+      <email>ozyilkano@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ozgur Ozyilkan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul University Cerrahpasa Medical Faculty Hospital</name>
+      <address>
+        <city>Fatih</city>
+        <state>Istanbul</state>
+        <zip>34098</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+902124143017</phone>
+      <email>ozguroglu@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mustafa Ozguroglu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saguk Bankanligi Istanbul Medeniyet Universitesi Goztepe Egitim ve Arastirma Hastanesi</name>
+      <address>
+        <city>Kadikoy</city>
+        <state>Istanbul</state>
+        <zip>34772</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+905063509061</phone>
+      <email>mgumus@superonline.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mahmut Gumus</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ege University Medical Faculty</name>
+      <address>
+        <city>Bornova</city>
+        <state>Izmir</state>
+        <zip>35100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+905323424532</phone>
+      <email>erdem.goker@ege.edu.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Erdem Goker</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kocaeli University Hospital</name>
+      <address>
+        <city>Izmit</city>
+        <state>Kocaeli</state>
+        <zip>41380</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+905327650185</phone>
+      <email>devrimcabuk@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Devrim Cabuk</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SAKARYA University Medical Faculty</name>
+      <address>
+        <city>Korucuk</city>
+        <state>Sakarya</state>
+        <zip>54290</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+905052014666</phone>
+      <email>cebilir@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Cemil Bilir</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hacettepe University Medical Faculty</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06230</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+00905056604536</phone>
+      <email>skilickap@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Saadettin Kilickap</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Trakya University Medical Faculty</name>
+      <address>
+        <city>Edirne</city>
+        <zip>22030</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+905322480988</phone>
+      <email>irfancicin@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Irfan Cicin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Communal Non-profit Enterprise City Clinical Hospital #4 of Dnipro City Council - PPDS</name>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <state>Dnipropetrovs'ka Oblast</state>
+        <zip>49102</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+380562585372</phone>
+      <email>oncology@dsma.dp.ua</email>
+    </contact>
+    <investigator>
+      <last_name>Igor Bondarenko</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Non-profit Enterprise SubCarpathian Clinical Oncological Centre of Ivano-Frankivsk RC</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>380502094000</phone>
+      <email>anna.nivska@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Anna Kryzhanivska</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Communal Non-profit Enterprise Regional Center of Oncology</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61070</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>380503802915</phone>
+      <email>olegkobzev@ukr.net</email>
+    </contact>
+    <investigator>
+      <last_name>Oleh Kobziev</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Private Enterprise Private Manufacturing Company Acinus</name>
+      <address>
+        <city>Kropyvnytskyi</city>
+        <zip>25006</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>380503219357</phone>
+      <email>doctor.ursol25006@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Grygorii Ursol</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velindre Cancer Centre - PPDS</name>
+      <address>
+        <city>Whitchurch</city>
+        <state>Cardiff</state>
+        <zip>CF14 2TL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+442920615888</phone>
+      <email>paul.shaw@wales.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Paul Shaw</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University College London Hospitals (UCLH)</name>
+      <address>
+        <city>London</city>
+        <state>London, City Of</state>
+        <zip>NW1 2PG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4402076790744</phone>
+      <email>sm.lee@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Siow-Ming Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Royal Marsden NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <state>London, City Of</state>
+        <zip>SW3 6JJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4402078082132</phone>
+      <email>sanjay.popat@rmh.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Sanjay Popat</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clatterbridge Centre For Oncology</name>
+      <address>
+        <city>Bebington</city>
+        <state>Wirral</state>
+        <zip>CH63 4JY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+44 151 5565328</phone>
+      <email>carles.escriu@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Carles Escriu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Leicester General Hospital</name>
+      <address>
+        <city>Leicester</city>
+        <zip>LE1 5WW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+441162586295</phone>
+      <email>Samreen.Ahmed@uhl-tr.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Samreen Ahmed</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Christie NHS Foundation Trust - PPDS</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M20 4GJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Contact</last_name>
+      <phone>+4401614463745</phone>
+      <email>Raffaele.califano@christie.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Raffaele Califano</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>China</country>
+    <country>Denmark</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hong Kong</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>Portugal</country>
+    <country>Russian Federation</country>
+    <country>Singapore</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+    <country>Taiwan</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 7, 2019</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 16, 2019</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Drug Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Pemetrexed</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Takeda provides access to the de-identified individual participant data (IPD) for eligible studies to aid qualified researchers in addressing legitimate scientific objectives (Takeda's data sharing commitment is available on https://clinicaltrials.takeda.com/takedas-commitment?commitment=5). These IPDs will be provided in a secure research environment following approval of a data sharing request, and under the terms of a data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_access_criteria>IPD from eligible studies will be shared with qualified researchers according to the criteria and process described on https://vivli.org/ourmember/takeda/. For approved requests, the researchers will be provided access to anonymized data (to respect patient privacy in line with applicable laws and regulations) and with information necessary to address the research objectives under the terms of a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://vivli.org/ourmember/takeda/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

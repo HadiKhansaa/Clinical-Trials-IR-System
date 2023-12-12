@@ -1,0 +1,345 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04557085</url>
+  </required_header>
+  <id_info>
+    <org_study_id>YKP3089C035</org_study_id>
+    <nct_id>NCT04557085</nct_id>
+  </id_info>
+  <brief_title>Randomized, Double-blind Study to Evaluate Efficacy and Safety of Cenobamate Adjunctive Therapy in Partial Onset Seizures</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled, Multicenter Study to Evaluate the Efficacy and Safety of Cenobamate Adjunctive Therapy in Subjects With Partial Onset Seizures, With Optional Open-Label Extension</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>SK Life Science, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>SK Life Science, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, randomized, double-blind, placebo-controlled, parallel-group,&#xD;
+      adjunctive therapy study in subjects with POS, with optional OLE. The study consists of 4&#xD;
+      periods as follows: An 8-week of Screening/Baseline Period, 24-week of Double-blind Treatment&#xD;
+      Period (including a 18-week Titration Phase and 6-week Maintenance Phase), 52-week of&#xD;
+      Open-label Extension (OLE) Period (applicable for subjects who participate in the OLE) and up&#xD;
+      to 5-week of End of Study (EOS) Follow-up Period.&#xD;
+&#xD;
+      The purpose of this study is to evaluate the efficacy and safety of 100, 200 and 400 mg/day&#xD;
+      of cenobamate as adjunctive therapy compared with placebo in subjects with partial onset&#xD;
+      seizures (POS).&#xD;
+&#xD;
+      The study will also evaluate the long-term safety and tolerability of cenobamate adjunctive&#xD;
+      therapy in subjects with POS who have completed the double-blind treatment period.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects will undergo an 8-week Screening/Baseline Period to assess seizure frequency.&#xD;
+      Subjects with a high enough number of seizures will be randomized in a 1:1:1:1 ratio to&#xD;
+      receive placebo or cenobamate 100, 200, or 400 mg given once per day in the morning. Subjects&#xD;
+      will first enter the 18-week Titration Phase, during which the initial dose will be 12.5&#xD;
+      mg/day or placebo. The dose of cenobamate will be increased in a double-blind fashion from&#xD;
+      12.5 mg/day to 25 mg/day and 50 mg/day (or matching placebo) at 2-week intervals and then&#xD;
+      will be titrated by 50 mg/day (or matching placebo) every 2 weeks. After 18-week&#xD;
+      up-titration, subjects will enter the Maintenance Phase. During the Maintenance Phase,&#xD;
+      subjects are recommended to maintain their dose for 6 weeks. Subjects who have completed the&#xD;
+      Double-blind Treatment Period and who choose to participate in this OLE will enter an 18-week&#xD;
+      Double-blind Conversion Phase before starting the 34-week Open-label Maintenance Phase.&#xD;
+      Subjects who do not enroll into the OLE will enter a 5-week FU period.&#xD;
+&#xD;
+      The primary objective of this study is to evaluate the efficacy of cenobamate as adjunctive&#xD;
+      therapy compared with placebo in subjects with POS. The secondary objectives of this study&#xD;
+      are: To evaluate the safety and tolerability of cenobamate in subjects with POS, to evaluate&#xD;
+      the effect of cenobamate in POS and in specified seizure types, and to assess blood plasma&#xD;
+      exposure of cenobamate in subjects with POS.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">October 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent change from baseline in seizure frequency (seizure rate per 28-day interval) of all simple partial motor, complex partial, or secondarily generalized seizures during the Maintenance Phase.</measure>
+    <time_frame>per 28 days during 6 week maintenance phase</time_frame>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">540</enrollment>
+  <condition>Partial Seizure</condition>
+  <condition>Focal Seizure</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cenobamate 100 mg/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cenobamate 100 mg/day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cenobamate 200 mg/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cenobamate 200 mg/day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cenobamate 400 mg/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cenobamate 400 mg/day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cenobamate</intervention_name>
+    <description>Cenobamate tablets</description>
+    <arm_group_label>Cenobamate 100 mg/day</arm_group_label>
+    <arm_group_label>Cenobamate 200 mg/day</arm_group_label>
+    <arm_group_label>Cenobamate 400 mg/day</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching placebo tablets</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female subject and age 18 to 70 years inclusive at the time of signing the&#xD;
+             informed consent and assent (if applicable)&#xD;
+&#xD;
+          2. Weight at least 35 kg&#xD;
+&#xD;
+          3. Written informed consent signed by the subject prior to entering the study in&#xD;
+             accordance with the ICH GCP guidelines. For all underage subjects according to the&#xD;
+             specific laws of the country, consent will be obtained from the parent/legal guardian.&#xD;
+             If the written informed consent is provided by the parent/legal guardian because the&#xD;
+             subject is unable to do so, a written or verbal assent from the subject must also be&#xD;
+             obtained.&#xD;
+&#xD;
+          4. A diagnosis of partial onset seizures according to the International League Against&#xD;
+             Epilepsy's Classification of Epileptic Seizures (1981). Diagnosis should have been&#xD;
+             established by clinical history and an electroencephalogram (EEG)&#xD;
+&#xD;
+          5. EEG performed within 5 years prior to Visit 1 that is consistent with localization&#xD;
+             related epilepsy; normal interictal EEGs will be allowed provided that the subject&#xD;
+             meets the other diagnosis criterion (i.e., clinical history).&#xD;
+&#xD;
+          6. Need additional antiepileptic drug (AED) treatment despite having been treated with at&#xD;
+             least one AED for the last 2 years.&#xD;
+&#xD;
+          7. During the 8-week Screening/Baseline Period, subjects must have at least 8 partial&#xD;
+             seizures including only simple partial seizures with motor component, complex partial&#xD;
+             seizures, or secondarily generalized seizures without a seizure-free interval of&#xD;
+             greater than 25 days any time during the 8-week period. Subjects must have at least 3&#xD;
+             of these partial seizures during each of the two consecutive 4-week segments of the&#xD;
+             Screening/Baseline Periods, respectively.&#xD;
+&#xD;
+          8. Currently on stable antiepileptic treatment regimen:&#xD;
+&#xD;
+               1. Subject must have been receiving stable doses of 1 to 3 AEDs for at least 4 weeks&#xD;
+                  prior to Visit 1 to be continued unchanged throughout the Double-blind Treatment&#xD;
+                  Period.&#xD;
+&#xD;
+               2. Vagal nerve stimulator (VNS) or deep brain stimulator (DBS) will not be counted&#xD;
+                  as an AED; however, the parameters must remain stable for at least 4 weeks prior&#xD;
+                  to Visit 1 and during the study. VNS or DBS must have been implanted at least 5&#xD;
+                  months prior to Visit 1.&#xD;
+&#xD;
+               3. The daily use of benzodiazepines (except for diazepam) for epilepsy, or for&#xD;
+                  anxiety or sleep disorder, will be counted as 1 AED and must be continued&#xD;
+                  unchanged throughout the study. Therefore, only a maximum of 2 additional&#xD;
+                  approved AEDs will be allowed.&#xD;
+&#xD;
+               4. Subjects receiving felbamate as a concomitant AED must meet the following&#xD;
+                  criteria:&#xD;
+&#xD;
+                    -  Two-year history of felbamate use and a history of a fixed dosing regimen&#xD;
+                       for a minimum of 60 days prior to Visit 1&#xD;
+&#xD;
+                    -  No prior or known history of hepatotoxicity or hematologic disorder due to&#xD;
+                       felbamate&#xD;
+&#xD;
+          9. Computed tomography (CT) or magnetic resonance imaging (MRI) scan performed within the&#xD;
+             past 10 years that ruled out a progressive cause of epilepsy. If a CT or MRI has not&#xD;
+             been performed within the past 10 years, one must be performed prior to randomization.&#xD;
+&#xD;
+         10. Ability to reach subject by telephone&#xD;
+&#xD;
+         11. Use of an acceptable form of birth control by female subjects of childbearing&#xD;
+             potential&#xD;
+&#xD;
+         12. Subject taking a ketogenic diet will be allowed as long as the diet has been stable&#xD;
+             for at least 3 months prior to Visit 1 and will remain stable for the duration of the&#xD;
+             study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Female subjects who are pregnant (or planning to become pregnant during the study),&#xD;
+             lactating or breast-feeding&#xD;
+&#xD;
+          2. History of non-epileptic or psychogenic seizures&#xD;
+&#xD;
+          3. Presence of only non-motor simple partial seizures or primary generalized epilepsies&#xD;
+&#xD;
+          4. History of seizure clusters (episodes lasting less than 30 minutes in which multiple&#xD;
+             seizures occur with such frequency that the initiation and completion of each&#xD;
+             individual seizure cannot be distinguished) within 3 months prior to Visit 1&#xD;
+&#xD;
+          5. Presence or previous history of Lennox-Gastaut syndrome&#xD;
+&#xD;
+          6. Scheduled epilepsy surgery within 8 months of Visit 1&#xD;
+&#xD;
+          7. Evidence of any clinically significant laboratory abnormalities or disease (e.g.,&#xD;
+             psychiatric, behavioral problems, cardiac, respiratory, gastrointestinal, hepatic&#xD;
+             [liver transaminases, ALT or AST, more than twice the upper limit of normal (ULN) or&#xD;
+             total or direct bilirubin not within normal limits], or renal disease) that, in the&#xD;
+             opinion of the Investigator, could affect subject's safety or conduct of the study&#xD;
+&#xD;
+          8. Any clinically significant active central nervous system (CNS) infection,&#xD;
+             demyelinating disease, degenerative neurologic disease, or any CNS disease deemed to&#xD;
+             be progressive during the course of the study that may confound the interpretation of&#xD;
+             the study results&#xD;
+&#xD;
+          9. Presence of psychotic disorders and/or unstable recurrent affective disorders evident&#xD;
+             by use of antipsychotics; presence or recent history (within 6 months) of major&#xD;
+             depressive episode&#xD;
+&#xD;
+         10. Use of intermittent rescue benzodiazepines more than once per month (1 to 2 doses in a&#xD;
+             24-hour period is considered as 1 rescue) in the 1month period prior to Visit 1&#xD;
+&#xD;
+         11. Current or recent use (within 30 days prior to Visit 1) of any of the following&#xD;
+             medications: diazepam/phenytoin/phenobarbital (or metabolites of these drugs),&#xD;
+             clopidogrel, fluvoxamine, amitriptyline, clomipramine, bupropion, methadone,&#xD;
+             ifosfamide, cyclophosphamide, efavirenz, natural progesterone or traditional&#xD;
+             Chinese/herbal medicines&#xD;
+&#xD;
+         12. Current or recent (within 5 months prior to Visit 1) use of vigabatrin or ezogabine.&#xD;
+             Subjects with a prior history of treatment with vigabatrin must have documentation&#xD;
+             showing no evidence of a vigabatrin associated clinically significant abnormality in a&#xD;
+             visual perimetry test. Subjects with a prior history of treatment with ezogabine&#xD;
+             should have no evidence of retinal abnormalities with funduscopic features similar to&#xD;
+             those seen in retinal pigment dystrophies.&#xD;
+&#xD;
+         13. Previous exposure to cenobamate&#xD;
+&#xD;
+         14. Participation in any other trials involving an investigational product or device&#xD;
+             within 30 days prior to Visit 1&#xD;
+&#xD;
+         15. History of alcoholism, drug abuse, or drug addiction within the past 2 years prior to&#xD;
+             Visit 1&#xD;
+&#xD;
+         16. History of status epilepticus within 3 months of Visit 1&#xD;
+&#xD;
+         17. History of any serious drug-induced hypersensitivity reaction (including but not&#xD;
+             limited to Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with&#xD;
+             eosinophilia and systemic symptoms [DRESS]) or any drug-related rash requiring&#xD;
+             hospitalization&#xD;
+&#xD;
+         18. History of AED-associated rash that involved conjunctiva or mucosae&#xD;
+&#xD;
+         19. History of any drug-related hypersensitivity reaction that required discontinuation of&#xD;
+             the medication&#xD;
+&#xD;
+         20. Presence of Familial short QT syndrome or relevant replicated QTc interval (QTcF less&#xD;
+             than 340 msec or greater than 450 msec in males and greater than 470 msec in females)&#xD;
+             on electrocardiogram (ECG)&#xD;
+&#xD;
+         21. Absolute neutrophil count less than 1,500/μL&#xD;
+&#xD;
+         22. Platelet counts lower than 80,000/μL in subjects treated with VPA&#xD;
+&#xD;
+         23. Creatinine clearance less than 60 mL/min, as calculated by Cockcroft-Gault equation&#xD;
+&#xD;
+         24. History of coronavirus disease (COVID-19) or positive antibody/antigen test for&#xD;
+             hepatitis B, hepatitis C, or HIV&#xD;
+&#xD;
+         25. More than 1 lifetime suicide attempt&#xD;
+&#xD;
+         26. Any suicidal ideation (with intent with or without a plan) at Visit 1 (Screening) or&#xD;
+             Visit 3 (Randomization) (i.e., answering YES to Question 4 and/or Question 5 on the&#xD;
+             Suicidal Ideation section of the Columbia Suicide Severity Rating Scale [C-SSRS])&#xD;
+&#xD;
+         27. Subject is a staff member or immediate family member of study staff&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Charles Kwak</last_name>
+    <phone>82-31-8093-0232</phone>
+    <email>ckwak@sk.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Huashan Hospital, Fudan University</name>
+      <address>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Center of Neurology and Psychiatry</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 21, 2020</study_first_posted>
+  <last_update_submitted>September 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Seizures</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,226 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04501081</url>
+  </required_header>
+  <id_info>
+    <org_study_id>200047</org_study_id>
+    <secondary_id>20-DC-0047</secondary_id>
+    <nct_id>NCT04501081</nct_id>
+  </id_info>
+  <brief_title>Natural History of Autosomal Dominant Hearing Loss</brief_title>
+  <official_title>Natural History of Autosomal Dominant Hearing Loss</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Hereditary hearing loss is one of the most common sensory disabilities affecting newborns.&#xD;
+      The main options for people with hereditary hearing loss are hearing aids and cochlear&#xD;
+      implants. Both options have their limitations and do not restore biological hearing.&#xD;
+      Researchers want to learn if gene editing might be a treatment option.&#xD;
+&#xD;
+      Objective:&#xD;
+&#xD;
+      To understand the genes that cause non-syndromic autosomal dominant hearing loss (DFNA) in&#xD;
+      people with DFNA as well as their family members.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      People age 3 99 who have DFNA, affected family members of enrolled participants with DFNA,&#xD;
+      and unaffected family members of enrolled participants&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      Participants will be screened with a medical and hearing history. Their medical records will&#xD;
+      be reviewed.&#xD;
+&#xD;
+      Participants will have hearing tests. They will wear headphones or earplugs. They will listen&#xD;
+      to tones, sounds, and words and may be asked to describe what they hear.&#xD;
+&#xD;
+      Participants will have balance tests. For these, they will wear googles as they watch moving&#xD;
+      lights or as cold or warm air is blown into their ears. They will sit in a spinning chair in&#xD;
+      a quiet, dark booth. From a reclined position, they will raise their head while listening to&#xD;
+      clicking sounds.&#xD;
+&#xD;
+      Participants will have blood drawn through a needle in the arm. Some blood will be used for&#xD;
+      gene testing.&#xD;
+&#xD;
+      Some participants will have 2 skin biopsies. The skin will be washed, and a numbing medicine&#xD;
+      will be injected. Two small pieces of skin will be removed.&#xD;
+&#xD;
+      Participants may have a physical exam.&#xD;
+&#xD;
+      Participation will last for up to 20 years. Participants may give medical updates once a&#xD;
+      year.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hereditary hearing loss is one of the most common sensory disabilities affecting newborns&#xD;
+      (approximately 1/1000 live births). Currently, the main treatment options for patients with&#xD;
+      hereditary hearing loss include hearing aids and cochlear implantation. Both of these&#xD;
+      treatment options have limitations and are incapable of restoring natural hearing. Over the&#xD;
+      past few years, several studies have demonstrated the feasibility of using gene therapy to&#xD;
+      improve hearing in mouse models of human hereditary hearing loss. Nonsyndromic autosomal&#xD;
+      dominant sensorineural hearing loss (DFNA) is an attractive target for gene therapy since&#xD;
+      patients with DFNA usually develop hearing loss later during childhood or even adulthood7.&#xD;
+      This allows for a longer time period during which therapeutic intervention can be delivered&#xD;
+      before the onset of potentially irreversible functional and pathologic changes. The genome&#xD;
+      editing technology has the potential of correcting the underlying genetic mutations in&#xD;
+      affected cell types8. In this study, we plan to assess the efficacy of genome editing on&#xD;
+      cultured primary or immortalized fibroblasts obtained from DFNA patients. These patients and&#xD;
+      their family members will also be followed longitudinally to better characterize the natural&#xD;
+      history of DFNA. This will provide baseline data for DFNA that will be important for&#xD;
+      interpreting the results of future clinical trials of inner ear gene therapy.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 9, 2021</start_date>
+  <completion_date type="Anticipated">August 21, 2029</completion_date>
+  <primary_completion_date type="Anticipated">August 21, 2029</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Family-Based</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determine if genome editing could be applied to modify mutations in primary or immortalized cultured fibroblasts from patients with non-syndromic autosomal dominant hearing loss.</measure>
+    <time_frame>Ongoing</time_frame>
+    <description>After determination of the genetic mutation involved with the hearing loss, gRNAs will be generated which will target the mutation in individual probands. Specific outcome measures that will be collected include, 1) testing the efficiency of individual gRNAs at inducing genome editing in primary or immortalized fibroblast cultures from DFNA patients, and 2) assessing the specificity of individual gRNAs at inducing genome editing in both the mutant10. The efficiency of individual gRNAs at inducing genome editing will be assessed by the presence of indels in the mutant allele using deep sequencing. The specificity of genome editing for each gRNA will be assessed by comparing the genome editing efficiency of each gRNA at targeting the mutant allele vs. the wild type allele.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>severity of hearing loss at baseline (beginning of the study)</measure>
+    <time_frame>ongoing</time_frame>
+    <description>The baseline variables (demographic and clinical characteristics) are:-age of onset of hearing loss-sex-family history of hearing loss-history of noise exposure-history of head trauma-laterality of hearing loss</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>progression of hearing loss.</measure>
+    <time_frame>ongoing</time_frame>
+    <description>-presence of vestibular dysfunction as measured by vestibular testing (VNG, VEMP, rotary chair)-presence of inner ear malformation as assessed by temporal bone CT and or MRI of brain and IAC if deemed clinically necessary</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1100</enrollment>
+  <condition>Hearing Loss</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <description>DFNA patients and their family members (affected)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <description>DFNA patients and their family members (unaffected)</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        We will be recruiting individuals with DFNA and their family members. Based on the&#xD;
+        investigator and clinic's capacity to evaluate an average of 20 subjects and 4 (80)&#xD;
+        additional family members annually, we project our study may accrue up to 200 probands and&#xD;
+        800 family members in the first 10 years and for the duration of the study. Target&#xD;
+        enrollment is 1000, accrual ceiling is 1100 to allow for screen failures, withdrawals and&#xD;
+        dropouts)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+          -  Affected persons with autosomal dominant hereditary sensorineural hearing loss,&#xD;
+             preferably confirmed by prior genetic testing&#xD;
+&#xD;
+          -  Affected family members of enrolled participants with known autosomal dominant&#xD;
+             hereditary hearing loss&#xD;
+&#xD;
+          -  Unaffected Family Members (Healthy Volunteers) of enrolled participant&#xD;
+&#xD;
+          -  Adults must be able to provide informed consent&#xD;
+&#xD;
+          -  Minors must have a parent or guardian able to provide informed consent&#xD;
+&#xD;
+          -  Subjects must be 3-99 years of age&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+          -  Persons with sensorineural hearing loss (SNHL) and/or peripheral vestibular&#xD;
+             dysfunction associated with a non-genetic etiology such as infection, metabolic or&#xD;
+             immunologic disorders, or exposure to ototoxic agents such as cisplatin, or&#xD;
+             aminoglycoside antibiotics will not be included in this protocol.&#xD;
+&#xD;
+          -  Persons with sensorineural hearing loss known to be associated with surgical&#xD;
+             intervention (e.g. acoustic neuroma removal, failed stapedectomy).&#xD;
+&#xD;
+        Prospective study subjects who are cognitively impaired and lack consent capacity, will not&#xD;
+        be enrolled.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carter Van Waes, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute on Deafness and Other Communication Disorders (NIDCD)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marcia L Mulquin, R.N.</last_name>
+    <phone>(240) 858-3752</phone>
+    <email>mmulquin@mail.nih.gov</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>For more information at the NIH Clinical Center contact Office of Patient Recruitment (OPR)</last_name>
+      <phone>800-411-1222</phone>
+      <phone_ext>TTY8664111010</phone_ext>
+      <email>prpl@cc.nih.gov</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2020-DC-0047.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <verification_date>February 19, 2021</verification_date>
+  <study_first_submitted>August 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>February 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>DFNA</keyword>
+  <keyword>Genome Editing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hearing Loss</mesh_term>
+    <mesh_term>Deafness</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

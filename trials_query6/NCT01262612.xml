@@ -1,0 +1,250 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01262612</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UMCNONCO201001</org_study_id>
+    <nct_id>NCT01262612</nct_id>
+  </id_info>
+  <brief_title>Cediranib as Palliative Treatment in Patients With Symptomatic Malignant Ascites or Pleural Effusion</brief_title>
+  <official_title>A Phase II Study of Cediranib as Palliative Treatment in Patients With Symptomatic Malignant Ascites or Pleural Effusion</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Radboud University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Radboud University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In some patients with cancer there are also cancer cells in the abdominal cavity or between&#xD;
+      the lung membranes. These cancer cells create too much moisture in the abdominal cavity or&#xD;
+      between the lung membranes. If there is fluid in the abdominal cavity (ascites fluid) this&#xD;
+      can bring on abdominal distension, abdominal pain, loss of appetite, fatigue, bloating and&#xD;
+      sometimes wheezing. Too much fluid between the lung membranes (we call this pleural fluid)&#xD;
+      gives breathlessness, chest pain and coughing. The use of diuretics may offer a small group&#xD;
+      of patients symptom reduction. Additionally, the fluid can be drained through a needle&#xD;
+      puncture or fluid collection (through a biopsy). But usually, the moisture quickly returns.&#xD;
+&#xD;
+      Previous research done in this hospital with cediranib showed that with some patients with&#xD;
+      cancer who suffered from fluid in the abdominal cavity or between the lung membranes, this&#xD;
+      moisture reduces while using this drug. It also reduced the symptoms caused by this excessive&#xD;
+      moisture.&#xD;
+&#xD;
+      The current study is conducted to see whether patients with cancer and fluid in the abdominal&#xD;
+      cavity or fluid between the lung blades benefit from using cediranib. This involves not only&#xD;
+      whether the amount moisture reduces, but also if the complains decrease. In addition, we will&#xD;
+      carefully consider the possible side effects of cediranib.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Malignant ascites is a difficult clinical problem. Increasing intra-abdominal pressure&#xD;
+      resulting from fluid accumulation may cause anorexia, sleep disturbance, pain, dyspnoea,&#xD;
+      abdominal distension, fatigue, nausea vomiting and reduced mobility. The main complaints of&#xD;
+      pleural effusion are dyspnoea and cough. Paracentesis and thoracentesis provide relief for a&#xD;
+      very limited period.&#xD;
+&#xD;
+      Studies have shown high concentrations of VEGF in malignant ascites and pleural effusion.&#xD;
+      Beneficial effects of treatment with an intravenous or intraperitoneal antibody against VEGF&#xD;
+      on malignant ascites have been reported. In the recent past we have treated two patients with&#xD;
+      symptomatic malignant ascites (colorectal cancer and ovarian cancer, respectively) in a phase&#xD;
+      I study with cediranib. Shortly after start of cediranib, within a couple of days, the&#xD;
+      ascites disappeared. However, after stopping cediranib for progressive disease on other sites&#xD;
+      the ascites reappeared within days. Therefore, one of those patients was treated with&#xD;
+      cediranib as palliative treatment until two days before his death, which was beneficial for&#xD;
+      this patient.&#xD;
+&#xD;
+      In this phase II study we would like to investigate the effects of treatment with cediranib&#xD;
+      as palliative treatment on malignant ascites or pleural effusion.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>April 2010</start_date>
+  <primary_completion_date type="Actual">December 2011</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>puncture free survival</measure>
+    <time_frame>44 days</time_frame>
+    <description>If the puncture free survival after start of treatment with cediranib (time to first need for paracentesis or thoracentesis or time to death, which event occurred first) is more than 44 days the treatment of ascites and/or pleural effusion with cediranib is effective.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">12</enrollment>
+  <condition>Malignant Ascites</condition>
+  <condition>Malignant Pleural Effusion</condition>
+  <arm_group>
+    <arm_group_label>immediate treatment with cediranib</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>8 patients with ascites and 8 patients with pleural effusion will start immediate treatment with cediranib</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>start cediranib after 28 days BSC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>patients in group B will start with cediranib after one month best supportive care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>immediate cediranib</intervention_name>
+    <description>cediranib 30 mg on day one; Special in this study is the possibility to decrease (to a minimum of 15 mg) or increase the dose (to a maximum of 30 mg oid) during the study to get an individualized optimal palliative treatment with cediranib. The patient will continue cediranib as long as a clinical benefit is experienced, independent of tumour evaluation. Each dose changes should be documented with clear reasoning and documentation of the approach taken</description>
+    <arm_group_label>immediate treatment with cediranib</arm_group_label>
+    <other_name>AZD2171</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Start cediranib after 28 days Best Supportive Care</intervention_name>
+    <description>patients in this group will start with cediranib after one month best supportive care. Special in this study is the possibility to decrease (to a minimum of 15 mg) or increase the dose (to a maximum of 30 mg oid) during the study to get an individualized optimal palliative treatment with cediranib. The patient will continue cediranib as long as a clinical benefit is experienced, independent of tumour evaluation. Each dose changes should be documented with clear reasoning and documentation of the approach taken.</description>
+    <arm_group_label>start cediranib after 28 days BSC</arm_group_label>
+    <other_name>AZD2171</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Symptomatic malignant ascites and/or pleural effusion (from a histological proven&#xD;
+             solid malignancy which is refractory to standard anti-tumour therapy of for which no&#xD;
+             standard therapy exists)&#xD;
+&#xD;
+          -  Karnofsky score ≥ 50 if the low performance score is due to ascites and/or pleural&#xD;
+             effusion, otherwise ≥ 60&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Contraindications for treatment with cediranib:&#xD;
+&#xD;
+          -  The presence of a pleural or peritoneal tap&#xD;
+&#xD;
+          -  Untreated unstable brain or meningeal metastases.&#xD;
+&#xD;
+          -  Previous treatment with chemotherapeutic agents or tyrosine kinase inhibitors (TKIs)&#xD;
+             within 14 days prior to the first dose of cediranib, with cetuximab within 30 days&#xD;
+             prior to the first dose of cediranib, or with bevacizumab within 60 days prior to the&#xD;
+             first dose of cediranib&#xD;
+&#xD;
+          -  Inadequate bone marrow reserve as demonstrated by an absolute neutrophil count ≤1.5 x&#xD;
+             109/L or platelet count ≤100 x 109/L&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) ≥ 2,5 x ULN&#xD;
+&#xD;
+          -  Serum creatinine &gt; 1.5 x ULRR or a creatinine clearance of ≤ 50mL/min calculated by&#xD;
+             Cockcroft-Gault&#xD;
+&#xD;
+          -  Greater than +1 proteinuria on two consecutive dipsticks taken no less than 1 week&#xD;
+             apart unless urinary protein &lt; 1.5g in a 24 hr period&#xD;
+&#xD;
+          -  Prothrombin time (PT) and activated partial thromboplastin time (APTT) &gt; 2 x ULN&#xD;
+             History of significant gastrointestinal impairment, as judged by the Investigator,&#xD;
+             that would significantly affect the absorption of cediranib, including the ability to&#xD;
+             swallow the tablet whole. Patients with an ileostoma.&#xD;
+&#xD;
+          -  Patients with a history of poorly controlled hypertension with resting blood pressure&#xD;
+             &gt;150/100 in the presence or absence of a stable regimen of anti-hypertensive therapy.&#xD;
+             Patients who are currently receiving maximal doses of calcium channel blockers or more&#xD;
+             than 1 antihypertensive for the treatment of hypertension are also ineligible.&#xD;
+&#xD;
+          -  Any evidence of severe or uncontrolled diseases e.g., unstable or uncompensated&#xD;
+             respiratory, cardiac, hepatic or renal disease.&#xD;
+&#xD;
+          -  Unresolved toxicity &gt; CTC grade 1 from previous anti-cancer therapy (including&#xD;
+             radiotherapy) except alopecia (if applicable) or polyneuropathy.&#xD;
+&#xD;
+          -  Mean QTc with Bazetts correction &gt;470msec in screening ECG or history of familial long&#xD;
+             QT syndrome&#xD;
+&#xD;
+          -  Significant haemorrhage (&gt;30mL bleeding/episode in previous 3 months) or haemoptysis&#xD;
+             (&gt;5mL fresh blood in previous 4 weeks)&#xD;
+&#xD;
+          -  Recent (&lt;14 days) major surgery prior to entry into the study, or a surgical incision&#xD;
+             that is not fully healed&#xD;
+&#xD;
+          -  Pregnant or breast-feeding women or women of childbearing potential with a positive&#xD;
+             pregnancy test prior to receiving study medication&#xD;
+&#xD;
+          -  Known risk of the patient transmitting HIV, hepatitis B or C via infected blood&#xD;
+&#xD;
+          -  Treatment with an investigational (non-registered) drug within 30 days prior to the&#xD;
+             first dose of cediranib&#xD;
+&#xD;
+          -  Other concomitant anti-cancer therapy (including LHRH agonists) except steroids&#xD;
+&#xD;
+          -  Concomitant use of any medication that may significantly affect hepatic cytochrome&#xD;
+             P450 drug metabolising activity by way of enzyme induction (e.g., phenytoin) or&#xD;
+             inhibition (e.g., ketoconazole, ritonavir, erythromycin) within 2 weeks if the first&#xD;
+             dose of cediranib and throughout the study period&#xD;
+&#xD;
+          -  Patients being treated with anticoagulants (with the exception of low molecular weight&#xD;
+             heparin).&#xD;
+&#xD;
+          -  Patients previously treated with anthracyclines (total of &gt; 550 mg/m2 doxorubicine)&#xD;
+             and an ejection fraction on the MUGA scan below 40%&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>C.M.L. van Herpen, Md PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Medical Centre Nijmegen</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University Medical Centre Nijmegen</name>
+      <address>
+        <city>Nijmegen</city>
+        <state>Gelderland</state>
+        <zip>6500 HB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>July 2013</verification_date>
+  <study_first_submitted>December 15, 2010</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2010</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 17, 2010</study_first_posted>
+  <last_update_submitted>July 12, 2013</last_update_submitted>
+  <last_update_submitted_qc>July 12, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 15, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cediranib</keyword>
+  <keyword>malignant ascites</keyword>
+  <keyword>malignant pleural effusion</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pleural Effusion, Malignant</mesh_term>
+    <mesh_term>Pleural Effusion</mesh_term>
+    <mesh_term>Ascites</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cediranib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

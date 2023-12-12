@@ -1,0 +1,195 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03368079</url>
+  </required_header>
+  <id_info>
+    <org_study_id>836211</org_study_id>
+    <nct_id>NCT03368079</nct_id>
+  </id_info>
+  <brief_title>Utilization of Negative Pressure Suction to Reduce Aspiration in Oropharyngeal Dysphagia</brief_title>
+  <official_title>Utilization of Negative Pressure Suction to Reduce Aspiration in Oropharyngeal Dysphagia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Davis</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, Davis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an investigator initiated prospective study to determine whether the use of a&#xD;
+      negative pressure suction in the hypopharynx will reduce the amount of aspiration during&#xD;
+      Video Fluoroscopic Swallowing Exam (VFSE) among patients with oropharyngeal dysphagia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      During a properly coordinated swallow, the oropharynx, larynx, and hypopharynx undergo a&#xD;
+      series of movements that serve to prepare and expand the pharyngoesophageal segment (PES),&#xD;
+      which is the inlet into the esophagus. Under normal circumstances, a food bolus is safely&#xD;
+      propelled from the oropharynx, through the PES, and into the esophagus. Surgical and&#xD;
+      radiation therapy in the head and neck, as well as deficiencies such as poor coordination,&#xD;
+      mistiming, or obstructing lesions may prevent the food bolus from safely entering the&#xD;
+      esophagus and instead diverting toward the trachea.&#xD;
+&#xD;
+      A number of patients with severe oropharyngeal dysphagia are not able to tolerate any diet&#xD;
+      without risking aspiration and subsequent pneumonia, often to a degree severe enough that&#xD;
+      they cannot manage to safely swallow their secreted saliva. These patients depend on a&#xD;
+      gastrostomy feeding tube in order to obtain adequate daily nutritional requirements and must&#xD;
+      suction or spit out their saliva to prevent aspiration and a sensation of asphyxiation.&#xD;
+      Despite these precautions, many of these patients ultimately suffer life-threatening&#xD;
+      pneumonia. Investigators will be testing if the use of use of a negative pressure suction in&#xD;
+      the hypopharynx will reduce the amount of aspiration during Video Fluoroscopic Swallowing&#xD;
+      Exam (VFSE) among patients with severe oropharyngeal dysphagia&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 30, 2016</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Degree of aspiration</measure>
+    <time_frame>During VFSE, from the beginning of administration of the first bolus size to completion of the VFSE</time_frame>
+    <description>Degree of aspiration or laryngeal penetration, evaluated by the validated Rosenbek Penetration-Aspiration Scale (PAS). The PAS scale is an 8-point (1 to 8), equal-appearing interval scale:&#xD;
+Material does not enter airway&#xD;
+Material enters the airway, remains above the vocal folds, and is ejected from the airway.&#xD;
+Material enters the airway, remains above the vocal folds, and is not ejected from the airway.&#xD;
+Material enters the airway, contacts the vocal folds, and is ejected from the airway.&#xD;
+Material enters the airway, contacts the vocal folds, and is not ejected from the airway.&#xD;
+Material enters the ariway, passes below the vocal folds, and is ejected into the larynx or out of the airway.&#xD;
+Material enters the airway, passes below the vocal folds, and is not ejected from the trachea despite effort.&#xD;
+Material enters the airway, passes below the vocal folds, and no effort is made to eject.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharyngo-esophageal Segment (PES) opening size</measure>
+    <time_frame>During VFSE, PES is measured when the patient administers 20 cc of liquid barium and the PES is maximally distended.</time_frame>
+    <description>Pharyngo-esophageal Segment (PES) is a 2.5 to 4.5 cm manometric high-pressure zone located between the pharynx and esophagus. Normal Pharyngoesophageal segment opening size on lateral view: 0.80 cm +/- 0.40 cm</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharyngeal Constriction Ratio (PCR)</measure>
+    <time_frame>Measurement of the pharyngeal area during maximum contraction are taken after administration of 20 cc liquid barium. The pharyngeal area at rest is measured when 1 cc bolus is held in the oral cavity.</time_frame>
+    <description>Pharyngeal Constriction Ratio: is a measure of pharyngeal clearance pressure. It is calculated by dividing the lateral pharyngeal area during maximal contraction by the area with a 1 cc bolus held in the oral cavity. The area is determined by onscreen tool provided. Normal PCR: 0.14 +/- 0.28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oropharyngeal transit time</measure>
+    <time_frame>Time from when bolus head first passes posterior nasal spine to time bolus head enters base of vallecula</time_frame>
+    <description>Oropharyngeal transit time is measured when the patient administers 20 cc of liquid barium. Normal oropharyngeal transit time: 0.42 sec +/- 0.36 sec</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypopharyngeal transit time</measure>
+    <time_frame>Time from when bolus head exits the vallecula to time when bolus tale exits PES</time_frame>
+    <description>Hypopharyngeal transit time: is measured when the patient administers 20 cc of liquid barium. Normal Hypopharyngeal transit time: 0.77 sec +/- 0.26 sec</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Oropharyngeal Dysphagia</condition>
+  <arm_group>
+    <arm_group_label>Negative Pressure Suction Device</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Negative Pressure Suction Catheter</intervention_name>
+    <description>The negative pressure suction device to be used in the study will be a Foley catheter. The catheter will be placed through the gastrostomy tube site, directed retrograde through the esophagus, and terminating in the PES.</description>
+    <arm_group_label>Negative Pressure Suction Device</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with videofluoroscopic evidence of aspiration with Rosenbek Penetration&#xD;
+             Aspiration Scale (PAS) greater than 5 for all tested food consistencies&#xD;
+&#xD;
+          -  Gastrostomy tube dependence&#xD;
+&#xD;
+          -  Exhaustion of conventional treatment options (physical, medical, and surgical&#xD;
+             therapies)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Complete PES stricture&#xD;
+&#xD;
+          -  Inability to follow commands&#xD;
+&#xD;
+          -  Current malignant disease&#xD;
+&#xD;
+          -  No gastrostomy tube present&#xD;
+&#xD;
+          -  Less than two years of cancer-free survival (if applicable)&#xD;
+&#xD;
+          -  Vulnerable populations: adults unable to consent, pregnant women, and prisoners&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Randev Sandhu, BS</last_name>
+    <phone>916-734-2863</phone>
+    <email>rssandhu@ucdavis.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UC Davis Medical Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Randev Sandhu, BS</last_name>
+      <phone>916-734-2863</phone>
+      <email>rssandhu@ucdavis.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 29, 2017</study_first_submitted>
+  <study_first_submitted_qc>December 4, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 11, 2017</study_first_posted>
+  <last_update_submitted>January 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dysphagia</keyword>
+  <keyword>Oropharyngeal dysphagia</keyword>
+  <keyword>Video Fluoroscopic Swallowing Exam (VFSE)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deglutition Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,346 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00974935</url>
+  </required_header>
+  <id_info>
+    <org_study_id>07-0009</org_study_id>
+    <secondary_id>HHSN272200800006C</secondary_id>
+    <nct_id>NCT00974935</nct_id>
+  </id_info>
+  <brief_title>Phase I STEBVax in Healthy Adults</brief_title>
+  <official_title>Phase I Study of the Safety and Immunogenicity of Recombinant Staphylococcal Enterotoxin B Vaccine (STEBVax) in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to test the safety of a new vaccine, STEBVax, which may&#xD;
+      lead to a useful treatment for toxic shock syndrome. The second purpose is to determine&#xD;
+      whether STEBVax causes the body to produce antibodies (proteins that fight infection) to help&#xD;
+      the body resist disease. Researchers expect STEBVax shots will cause the development of&#xD;
+      antibodies in the blood. Study participants will include up to 42 healthy adults, ages 18-40,&#xD;
+      from the University of Maryland Baltimore community. Participants will be assigned to one of&#xD;
+      7 vaccine dose groups. Assignment to dosage groups will depend on when individuals are&#xD;
+      enrolled in the study. Study procedures will include blood sampling, urine collection, and&#xD;
+      physical examinations. Subjects will maintain a memory aid documenting daily oral&#xD;
+      temperatures and possible vaccine side effects. Participants will be involved in study&#xD;
+      related procedures for up to 201 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a Phase I study of the safety and immunogenicity of recombinant Staphylococcal&#xD;
+      Enterotoxin B vaccine (STEBVax) in healthy adults. STEBVax is a recombinant mutated form of&#xD;
+      staphylococcal enterotoxin B (SEB) containing three point mutations that disrupt the&#xD;
+      interaction of the toxin with human major histocompatibility complex (MHC) class II receptors&#xD;
+      and render the protein non-toxic while retaining most of the immunogenicity. The primary&#xD;
+      intended result of this program is the development of a hyperimmune serum for treatment of&#xD;
+      toxic shock syndrome (TSS) originating from nosocomial, environmental or potential&#xD;
+      bioterrorist events. An additional long-term goal is the development of a multivalent vaccine&#xD;
+      and immunotherapeutic for treating or preventing diseases caused by Staphylococcus (S.)&#xD;
+      aureus. The long-range goal is to develop a vaccine that will protect against a broad range&#xD;
+      of staphylococcal superantigens. The primary objective is to evaluate and assess the safety&#xD;
+      of parenterally administered STEBVax vaccine in healthy adult subjects over a range of doses&#xD;
+      from 0.01 to 20 mcg by intramuscular injection. The secondary objectives are to determine the&#xD;
+      immunogenicity of STEBVax vaccine over a range of doses as determined by the rate and titer&#xD;
+      of seroconversion with serum anti-S. aureus enterotoxin B IgG antibodies measured by&#xD;
+      enzyme-linked-immunosorbent serologic assay (ELISA). Participants will include 28 healthy&#xD;
+      adult subjects from the University of Maryland Baltimore community. Subjects will receive a&#xD;
+      dose of STEBVax in Alhydrogel adjuvant at one of the following doses: 0.01, 0.1, 0.5, 2.5, 10&#xD;
+      or 20 mcg or 2 doses of 20 mcg given 21 days apart. STEBVax will be administered as a single&#xD;
+      0.5 mL intramuscular injection. Subjects will be followed for safety, reactogenicity, and&#xD;
+      immune response after vaccination. Subjects will be observed in the clinic for at least 8&#xD;
+      hours after vaccination and remain in the Baltimore-Washington metropolitan area for 7 days&#xD;
+      after vaccination.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2011</start_date>
+  <completion_date type="Actual">March 2015</completion_date>
+  <primary_completion_date type="Actual">March 2015</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Data describing safety of Staphylococcal Enterotoxin B Vaccine (STEBVax) (clinical observations and clinical laboratory measurements) given in one of several escalating doses.</measure>
+    <time_frame>Through Day 56.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The rate and titer of seroconversion with serum immunoglobulin G (IgG) anti-Staphylococcus aureus enterotoxin B antibodies by enzyme-linked immunosorbent assay (ELISA).</measure>
+    <time_frame>Day 56 and, for the two-dose group, day 77 (56 days after the second dose).</time_frame>
+  </secondary_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Actual">29</enrollment>
+  <condition>Toxic Shock Syndrome Staphylococcal</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of staphylococcal enterotoxin B vaccine (STEBVax) in Alhydrogel adjuvant at 0.01 mcg intramuscular.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of staphylococcal enterotoxin B vaccine (STEBVax) in Alhydrogel adjuvant at 0.1 mcg intramuscular.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of staphylococcal enterotoxin B vaccine (STEBVax) in Alhydrogel adjuvant at 0.5 mcg intramuscular.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of staphylococcal enterotoxin B vaccine (STEBVax) in Alhydrogel adjuvant at 2.5 mcg intramuscular.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of staphylococcal enterotoxin B vaccine (STEBVax) in Alhydrogel adjuvant at 10 mcg intramuscular.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of staphylococcal enterotoxin B vaccine (STEBVax) in Alhydrogel adjuvant at 20 mcg intramuscular.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 7</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two doses of staphylococcal enterotoxin B vaccine (STEBVax) in Alhydrogel adjuvant at 20 mcg intramuscular 21 days apart.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aluminum hydroxide</intervention_name>
+    <description>Single dose of recombinant staphylococcal enterotoxin B vaccine (STEBVax) in Alhydrogel adjuvant at 0.01, 0.1, 0.5, 2.5, 10 or 20 mcg intramuscular and 2 doses of 20 mcg intramuscular 21 days apart. STEBVax vaccine will be administered as a single 0.5 mL intramuscular injection into the deltoid muscle of the non-dominant arm; subjects in the 2 dose cohort will have the vaccine administered in the alternate arm.</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_label>Cohort 6</arm_group_label>
+    <arm_group_label>Cohort 7</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>STEBVax vaccine</intervention_name>
+    <description>Single dose of recombinant staphylococcal enterotoxin B vaccine (STEBVax) in Alhydrogel adjuvant at 0.01, 0.1, 0.5, 2.5, 10 or 20 mcg intramuscular and 2 doses of 20 mcg intramuscular 21 days apart. STEBVax vaccine will be administered as a single 0.5 mL intramuscular injection into the deltoid muscle of the non-dominant arm; subjects in the 2 dose cohort will have the vaccine administered in the alternate arm.</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_label>Cohort 6</arm_group_label>
+    <arm_group_label>Cohort 7</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to provide written informed consent.&#xD;
+&#xD;
+          -  Age 18 - 40 years, inclusive.&#xD;
+&#xD;
+          -  Good &quot;general health&quot; as determined by vital signs (heart rate &lt;100 bpm; blood&#xD;
+             pressure systolic &gt; 90 mm Hg and less than or equal to 140 mm Hg; diastolic &gt; 50 mm Hg&#xD;
+             and less than or equal to 90 mm Hg; oral temperature &lt;100.4 degrees Fahrenheit),&#xD;
+             medical history, and a physical examination within 45 days before administration of&#xD;
+             Recombinant Staphylococcal Enterotoxin B Vaccine (STEBVax). Blood pressure outside&#xD;
+             this range may be repeated once on another occasion.&#xD;
+&#xD;
+          -  Expressed interest and availability to fulfill the study requirements&#xD;
+&#xD;
+          -  Agrees not to become pregnant from the time of study enrollment until at least 90 days&#xD;
+             after the last administration of STEBVax; if a woman is sexually active and capable of&#xD;
+             conception (i.e., no history of hysterectomy or tubal ligation), she must agree to use&#xD;
+             hormonal or barrier birth control such as implants, injectables, combined oral&#xD;
+             contraceptives, some intrauterine devices (IUDs), condoms with spermicidal agents, or&#xD;
+             must have a vasectomized partner, or must be sexually abstinent. A woman is eligible&#xD;
+             if she is monogamous with a vasectomized male&#xD;
+&#xD;
+          -  Agrees not to participate in another clinical trial at any time during the study&#xD;
+             period.&#xD;
+&#xD;
+          -  Agrees to remain in the Baltimore-Washington metropolitan area for 7 days after&#xD;
+             vaccination.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of any of the following medical illnesses:&#xD;
+&#xD;
+               -  Toxic shock syndrome&#xD;
+&#xD;
+               -  Asthma requiring daily prescription medication&#xD;
+&#xD;
+               -  Psychiatric disorder requiring hospitalization&#xD;
+&#xD;
+               -  Anaphylaxis/hypersensitivity reactions to glycine, or alum (vaccine components)&#xD;
+&#xD;
+               -  Coagulopathy&#xD;
+&#xD;
+               -  Kidney disease&#xD;
+&#xD;
+               -  Diabetes&#xD;
+&#xD;
+               -  Cancer&#xD;
+&#xD;
+               -  Heart disease (hospitalization for a heart attack, arrhythmia, or syncope)&#xD;
+&#xD;
+               -  Vascular disease (peripheral vascular disease, coronary artery disease, stroke)&#xD;
+&#xD;
+               -  Arthritis&#xD;
+&#xD;
+               -  Autoimmune disease (e.g., lupus erythematosis, rheumatoid arthritis)&#xD;
+&#xD;
+               -  Unconsciousness (other than a single brief &quot;concussion&quot;)&#xD;
+&#xD;
+               -  Seizures (other than febrile seizures as a child &lt;5 years old)&#xD;
+&#xD;
+               -  Recurrent infections (more than 3 hospitalizations for invasive bacterial&#xD;
+                  infections such as pneumonia or meningitis)&#xD;
+&#xD;
+               -  Any current illness requiring regular medication therapy other than vitamins or&#xD;
+                  birth control&#xD;
+&#xD;
+          -  Any clinically significant abnormality including but not limited to:&#xD;
+&#xD;
+               -  Murmur (other than a functional murmur)&#xD;
+&#xD;
+               -  Focal neurological&#xD;
+&#xD;
+               -  Hepatosplenomegaly&#xD;
+&#xD;
+               -  Lymphadenopathy&#xD;
+&#xD;
+               -  Jaundice&#xD;
+&#xD;
+          -  Lab abnormality, as listed below. Toxicity grading scale provided in Appendix B,&#xD;
+             Normal ranges provided in Appendix C. Laboratories with abnormalities possibly&#xD;
+             transient in nature may be repeated one time.&#xD;
+&#xD;
+               -  Hemoglobin, White blood cell count, Neutrophil count, or Platelet count outside&#xD;
+                  the normal range&#xD;
+&#xD;
+               -  PT, PTT above the normal range&#xD;
+&#xD;
+               -  Sodium, or potassium outside the normal range&#xD;
+&#xD;
+               -  Creatinine above normal range&#xD;
+&#xD;
+               -  Glucose outside the normal range (65 to &lt;110 mg/dL is acceptable if non-fasting&#xD;
+                  test)&#xD;
+&#xD;
+               -  AST, ALT, alkaline phosphatase, total bilirubin of grade 1 or greater on the&#xD;
+                  toxicity grading scale&#xD;
+&#xD;
+               -  Urinalysis with proteinuria or hematuria&#xD;
+&#xD;
+               -  Positive serology for hepatitis C or HIV antibody or hepatitis B surface antigen&#xD;
+                  (Subjects will be informed if their results are positive for hepatitis C, HIV&#xD;
+                  antibody or hepatitis B surface antigen and will be referred to a primary care&#xD;
+                  provider for follow up of these abnormal laboratory tests.)&#xD;
+&#xD;
+          -  Have a positive urine drug screen.&#xD;
+&#xD;
+          -  For women, positive serum pregnancy test within 45 days and urine pregnancy test&#xD;
+             within 24 hours of administering STEBVax at days 0 and for the highest dose group who&#xD;
+             receive two doses of vaccine, on day 21.&#xD;
+&#xD;
+          -  Nursing mother&#xD;
+&#xD;
+          -  Temperature &gt; 38.0 degrees C (100.4 degrees F) or symptoms of an acute self-limited&#xD;
+             illness such as an upper respiratory infection or gastroenteritis within 7 days before&#xD;
+             administration of STEBVax&#xD;
+&#xD;
+          -  Medical, occupational, or family problems as a result of alcohol or illicit drug use&#xD;
+             during the past 12 months&#xD;
+&#xD;
+          -  Failure to pass written examination (70 percent correct answers required to pass) on&#xD;
+             the first attempt. (The exam is administered to assess and document comprehension of&#xD;
+             the material presented which covers all aspects of the study including the purpose,&#xD;
+             procedures, risks, benefits and pertinent microbiology).&#xD;
+&#xD;
+          -  Receipt of an experimental agent (vaccine, drug, device, etc.) within 28 days before&#xD;
+             administration of STEBVax or expects to receive an experimental agent during the study&#xD;
+             period.&#xD;
+&#xD;
+          -  Receipt of any licensed vaccine within 2 weeks (for inactivated vaccines) or 4 weeks&#xD;
+             (for live vaccines) before vaccination in this study or expects to receive a licensed&#xD;
+             vaccine before vaccination in this study.&#xD;
+&#xD;
+          -  Known sensitivity to any ingredient in STEBVax (recombinant protein, glycine, sodium&#xD;
+             chloride, alum)&#xD;
+&#xD;
+          -  Prosthetic joint&#xD;
+&#xD;
+          -  Receipt of immunoglobulin or other blood product within the 3 months prior to&#xD;
+             vaccination in this study.&#xD;
+&#xD;
+          -  Immunosuppression as a result of an underlying illness or treatment with&#xD;
+             immunosuppressive or cytotoxic drugs, or use of anticancer chemotherapy or radiation&#xD;
+             therapy within the preceding 36 months.&#xD;
+&#xD;
+          -  Long-term use (&gt; 2 weeks) of oral or parenteral steroids (glucocorticoids), or&#xD;
+             high-dose inhaled steroids (&gt;800 mcg/day of beclomethasone dipropionate or equivalent)&#xD;
+             within the preceding 6 months (nasal and topical steroids are allowed).&#xD;
+&#xD;
+          -  Other condition that in the opinion of the investigator would jeopardize the safety or&#xD;
+             rights of a volunteer participating in the trial or would render the subject unable to&#xD;
+             comply with the protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Maryland School of Medicine - Center for Vaccine Development - Baltimore</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201-1509</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2014</verification_date>
+  <study_first_submitted>September 10, 2009</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2009</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 11, 2009</study_first_posted>
+  <last_update_submitted>June 18, 2015</last_update_submitted>
+  <last_update_submitted_qc>June 18, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">June 19, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Staphylococcal enterotoxin B, vaccine, Staphylococcus aureus, toxic shock syndrome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Shock, Septic</mesh_term>
+    <mesh_term>Shock</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aluminum Hydroxide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,339 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04566952</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JiangsuCH002</org_study_id>
+    <nct_id>NCT04566952</nct_id>
+  </id_info>
+  <brief_title>Anlotinib Combined With Dose-reduced Olaparib in Patients With Platinum-Sensitive Recurrent Ovarian Cancer</brief_title>
+  <acronym>ANLOLA</acronym>
+  <official_title>A Prospective, Single-arm, Single-center, Exploratory Phase II Study to Evaluate the Efficacy and Safety of Anlotinib Combined With Dose-reduced Olaparib in Patients With Platinum-Sensitive Recurrent Ovarian Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xiaoxiang Chen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Jiangsu Cancer Hospital (Jiangsu Institute of Cancer Research, Nanjing Medical University Affiliated Cancer Hospital)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PARP inhibitors have changed the treatment paradigm of ovarian cancer. Most patients using&#xD;
+      PARP(poly-ADP ribose polymerase) inhibitors will suffer different grades of adverse&#xD;
+      events(AEs), followed by dose reduction. It has not been reported whether the dose-reduced&#xD;
+      olaparib as maintenance treatment have an impact on efficacy. Both PAOLA-1 and AVANOVA 2&#xD;
+      studies showed that combined PARP inhibitors and antiangiogenic drugs have synergistic&#xD;
+      anti-tumor effect. Anlotinib is a novel multi-target tyrosine kinase inhibitor that can&#xD;
+      inhibit VEGFR(vascular endothelial growth factor receptor), FGFR(fibroblast growth factor&#xD;
+      receptor), PDGFR(platelet-derived growth factor receptor) α/β, c-Kit, and Ret. And anlotinib&#xD;
+      has been approved as orphan drug designations for treatment of ovarian cancer by FDA in 2015.&#xD;
+      Previous studies showed that anlotinib had manageable toxicity and promising antitumor&#xD;
+      effect. Our study is expected to investigate the efficacy and safety of anlotinib combined&#xD;
+      with dose-reduced olaparib as maintenance treatment in platinum-sensitive recurrent ovarian&#xD;
+      cancer patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a single-arm, single-center, exploratory phase II study to observe the efficacy&#xD;
+      and safety of anlotinib combined with dose-reduced olaparib in patients with&#xD;
+      platinum-sensitive recurrent ovarian cancer, fallopian tube cancer and primary peritoneal&#xD;
+      cancer. We will enroll the subjects who are treated with olaparib as maintenance treatment&#xD;
+      followed by dose reduction due to adverse events. The primary end points are progression free&#xD;
+      survival and adverse events. The secondary end points include objective response rate,&#xD;
+      disease control rate, overall survival, time from enrollment to first subsequent treatment,&#xD;
+      quality of life.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 28, 2020</start_date>
+  <completion_date type="Anticipated">October 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>PFS is defined as the time in months from the date of first study drug administration to the date of first documentation of progressive disease (PD) or death as assessed by RECIST1.1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse events (AEs)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Number of participants with treatment-related adverse events as assessed by CTCAE 5.0 to further describe safety and assess toxicities encountered with the use of the proposed treatment regimen in participants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate (ORR)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>ORR is defined as the proportion of participants achieving complete response (CR) or partial response (PR) as assessed by RECIST1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>DCR is defined as the proportion of participants achieving complete response (CR), partial response (PR) or stable disease (SD) according to RECIST1.1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>OS is defined as time from randomisation to the first occurrence of death from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from enrollment to first subsequent treatment (TFST)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>TFST is defined as time from enrollment to first subsequent treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life(QoL)</measure>
+    <time_frame>From date of enrollment until the date of first documented progression or date of death from any cause, whichever came first, an average of 1 year</time_frame>
+    <description>EORTC QLQ-C30(European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-C30) is used to evaluate the quality of life. Scores range from 0 to 100, with higher scores indicating better health-related quality of life</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">68</enrollment>
+  <condition>Ovarian Cancer</condition>
+  <condition>Ovarian and Fallopian Tube Cysts and Neoplasms</condition>
+  <condition>Neoplasms by Site</condition>
+  <condition>Neoplasms</condition>
+  <condition>Genital Neoplasms, Female</condition>
+  <condition>Urogenital Neoplasms</condition>
+  <condition>Neoplasms, Glandular and Epithelial</condition>
+  <condition>Neoplasms by Histologic Type</condition>
+  <condition>Carcinoma, Ovarian Epithelial</condition>
+  <condition>Ovarian Diseases</condition>
+  <condition>Adnexal Diseases</condition>
+  <condition>Genital Diseases, Female</condition>
+  <condition>Carcinoma</condition>
+  <condition>Anlotinib</condition>
+  <condition>PARP Inhibitors</condition>
+  <condition>BRCA1 Mutation</condition>
+  <condition>Angiogenesis</condition>
+  <condition>Antineoplastic Agents</condition>
+  <condition>BRCA2 Mutation</condition>
+  <arm_group>
+    <arm_group_label>Anlotinib combined With dose-reduced olaparib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Anlotinib-olaparib combination therapy until disease progression</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anlotinib</intervention_name>
+    <description>Anlotinib will be treated with its minimum dose that is orally 8 mg daily on days 1-14 of a 21-days cycle.</description>
+    <arm_group_label>Anlotinib combined With dose-reduced olaparib</arm_group_label>
+    <other_name>FOCUS V</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Olaparib</intervention_name>
+    <description>Olaparib will be treated with a total daily dose of 450 or 300mg.</description>
+    <arm_group_label>Anlotinib combined With dose-reduced olaparib</arm_group_label>
+    <other_name>Lynparza</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects join the study voluntarily and sign informed consent;&#xD;
+&#xD;
+          2. Female subjects are older than 18 years;&#xD;
+&#xD;
+          3. ECOG(Eastern Cooperative Oncology Group) physical status score is 0-1;&#xD;
+&#xD;
+          4. Life expectancy≥3 months;&#xD;
+&#xD;
+          5. Histologically confirmed FIGO(International Federation of Gynecology and Obstetrics )&#xD;
+             III/IV ovarian cancer, fallopian tube cancer, or primary peritoneal cancer;&#xD;
+             Participants must have high-grade serous or endometrioid histology;&#xD;
+&#xD;
+          6. Platinum-sensitive recurrent ovarian cancer patients treated with olaparib as&#xD;
+             maintenance therapy according to NCCN(National Comprehensive Cancer Network) guideline&#xD;
+             and then suffered dose reduction due to adverse events. The reduction standard of&#xD;
+             olaparib following its instructions. Platinum-sensitive recurrent ovarian cancer is&#xD;
+             defined that patients are response to platinum-based chemotherapy and their&#xD;
+             platinum-free interval is greater than or equal to 6 months.&#xD;
+&#xD;
+          7. Subjects have enough organ function: (1) Blood routine(without blood transfusion or&#xD;
+             hematopoietic stimulating factor within 7 days before screening):&#xD;
+             a.Hemoglobin(HB)≥90g/L; b.absolute neutrophil count(ANC)≥1.5*10^9/L; c.Platelet&#xD;
+             (PLT)≥80*10^9/L; (2) Blood biochemical examination(without blood or albumin&#xD;
+             transfusion within 7 days before screening): a. ALT( Alanine aminotransferase) and&#xD;
+             AST(Aspartate aminotransferase)≤2.5 times the upper limit of normal value and ALT&#xD;
+             (AST≤5 times the upper limit of normal value when liver/bone metastasis); b. total&#xD;
+             bilirubin≤1.5 times the upper limit of normal value; c.serum creatinine≤1.5 times the&#xD;
+             upper limit of normal value or creatinine clearance≥60ml/min; (3)Blood coagulation&#xD;
+             function: a. APTT(activated partial thromboplastin time ), INR(international&#xD;
+             normalized ratio) and PT≤1.5 times the upper limit of normal value; b.Doppler&#xD;
+             echocardiographic evaluation: left ventricular ejection fraction(LVEF)≥50%;&#xD;
+&#xD;
+          8. Women of child-bearing age should have negative results of serum or urine pregnancy&#xD;
+             test within 7 days before recruited and must not be in lactation. Women are willing to&#xD;
+             adopt the appropriate methods of contraception during the trial and 6 months after&#xD;
+             last administration.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. Combined disease/history:&#xD;
+&#xD;
+          1. Hemoptysis occurred within 3 months before admission (hemoptysis&gt;50ml per day), or&#xD;
+             significantly clinical bleeding or definite bleeding tendency, such as&#xD;
+             gastrointestinal bleeding, hemorrhagic gastric ulcer, fecal bleeding or red blood cell&#xD;
+             positive at the baseline, or suffering from vasculitis, etc;&#xD;
+&#xD;
+          2. Arteriovenous thrombosis events occurred within 6 months before grouping, such as&#xD;
+             cerebrovascular accident (including temporary ischemic attack), deep venous thrombosis&#xD;
+             (except venous thrombosis caused by venous catheterization due to prior chemotherapy)&#xD;
+             and pulmonary embolism, etc;&#xD;
+&#xD;
+          3. Uncontrolled hypertension by antihypertensive drugs (systolic blood pressure&gt;140 mmHg&#xD;
+             or diastolic blood pressure&gt;90 mmHg); Myocardial infarction, severe/unstable angina&#xD;
+             pectoris, cardiac insufficiency above NYHA(New York Heart Association) 2,&#xD;
+             supraventricular or ventricular arrhythmias with clinical significance, and&#xD;
+             symptomatic congestive heart failure occurred within 6 months before grouping;&#xD;
+&#xD;
+          4. Interstitial lung disease, non-infectious pneumonia or uncontrollable systemic&#xD;
+             diseases (e.g. diabetes, pulmonary fibrosis and acute pneumonia);&#xD;
+&#xD;
+          5. Renal insufficiency: urine routine indicates urinary protein≥++, or confirms 24-hour&#xD;
+             urinary protein≥1.0g;&#xD;
+&#xD;
+          6. History of live attenuated vaccine vaccination within 28 days before the first study&#xD;
+             medication or expected live attenuated vaccination during the study period;&#xD;
+&#xD;
+          7. HIV infection or known AIDS; active hepatitis (hepatitis B, defined as HBV-DNA≥500&#xD;
+             IU/ml; hepatitis C, defined as HCV-RNA higher than the lower limit of detection by&#xD;
+             analytical method) or co-infection of hepatitis B and hepatitis C;&#xD;
+&#xD;
+          8. There were severe infections within 4 weeks before the first administration,&#xD;
+             including, but not limited to, bacteremia and severe pneumonia requiring&#xD;
+             hospitalization; active infections requiring systemic antibiotics treatment of grade&#xD;
+             CTCAE≥2 within 2 weeks before the first administration, or unexplained fever&gt;38.5°C&#xD;
+             during the screening period/before the first administration (the researchers judged&#xD;
+             that fever caused by tumors could be included in the group); there was evidence of&#xD;
+             active tuberculosis infection within 1 year before administration;&#xD;
+&#xD;
+          9. Any other malignant tumor has been diagnosed within 3 years before enrollment, except&#xD;
+             for fully treated basal cell carcinoma or squamous cell skin cancer or cervical&#xD;
+             carcinoma in situ;&#xD;
+&#xD;
+         10. Major surgery was performed within 28 days before enrollment (tissue biopsy required&#xD;
+             for diagnosis and central venous catheterization via peripheral venipuncture was&#xD;
+             allowed);&#xD;
+&#xD;
+         11. Subjects who have previously received or are prepared to receive allogeneic bone&#xD;
+             marrow transplantation or solid organ transplantation;&#xD;
+&#xD;
+         12. Patients with peripheral neuropathy≥Grade 2; patients with active brain metastasis,&#xD;
+             carcinomatous meningitis, spinal cord compression, or diseases found in brain or&#xD;
+             leptomeninges by CT or MRI examination during screening (patients with brain&#xD;
+             metastasis who had completed treatment 14 days before admission and whose symptoms&#xD;
+             were stable can be enrolled in the group, but they should not suffer symptoms of&#xD;
+             cerebral hemorrhage confirmed by cranial MRI, CT or venography); (13）Factors that&#xD;
+             significantly affect the absorption of oral drugs, such as inability to swallow,&#xD;
+             chronic diarrhea, and intestinal obstruction with clinical significance; 2. Patients&#xD;
+             who are pregnant or lactation, or who plan to be pregnancy during study; 3. Other&#xD;
+             serious physical/mental disorders or laboratory abnormalities that may increase the&#xD;
+             risk of the study or interfere with the results of the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xiaoxiang Chen, MD,PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Jiangsu Cancer Institute &amp; Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiaoxiang Chen, MD,PhD</last_name>
+    <phone>+86 13851647229</phone>
+    <email>cxxxxcyd@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jing Ni, MD</last_name>
+    <phone>+86 13327833586</phone>
+    <email>nijingwulin@126.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>JiangSu Cancer Hospital</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jangsu</state>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaoxiang Chen, PhD</last_name>
+      <phone>+86 13851647229</phone>
+      <email>cxxxxcyd@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jing Ni, MD</last_name>
+      <phone>+86 13327833586</phone>
+      <email>nijingwulin@126.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 28, 2020</study_first_posted>
+  <last_update_submitted>October 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Jiangsu Cancer Hospital (Jiangsu Institute of Cancer Research, Nanjing Medical University Affiliated Cancer Hospital)</investigator_affiliation>
+    <investigator_full_name>Xiaoxiang Chen</investigator_full_name>
+    <investigator_title>Academic secretary of gynecological oncology Committee of Jiangsu anti cancer association</investigator_title>
+  </responsible_party>
+  <keyword>Platinum-Sensitive Recurrent Ovarian Cancer</keyword>
+  <keyword>Anlotinib</keyword>
+  <keyword>Dose-reduced olaparib</keyword>
+  <keyword>Efficacy</keyword>
+  <keyword>Safety</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+    <mesh_term>Neoplasms by Site</mesh_term>
+    <mesh_term>Neoplasms by Histologic Type</mesh_term>
+    <mesh_term>Urogenital Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Glandular and Epithelial</mesh_term>
+    <mesh_term>Genital Neoplasms, Female</mesh_term>
+    <mesh_term>Ovarian Diseases</mesh_term>
+    <mesh_term>Adnexal Diseases</mesh_term>
+    <mesh_term>Hypersensitivity</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Olaparib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Contact Prof. Chen for primary data</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

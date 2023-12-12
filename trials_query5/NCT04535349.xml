@@ -1,0 +1,187 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04535349</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-226</org_study_id>
+    <nct_id>NCT04535349</nct_id>
+  </id_info>
+  <brief_title>Quantitative Analysis of Myocardial Uptake of Bone Radiopharmaceuticals in Patients With Cardiac ATTR Amyloidosis</brief_title>
+  <acronym>REMOD-TTR</acronym>
+  <official_title>Quantitative Analysis of Myocardial Uptake of 99mTclabeled Bone Radiopharmaceuticals Using New Whole-body CZT-based SPECT-CT Cameras, at Baseline and During Medical Treatment With Tafamidis in Patients With Cardiac Transthyretin Amyloidosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Caen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Caen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction: Transthyretin cardiac amyloidosis (ATTR) is an important cause of heart&#xD;
+      failure. Cardiac planar radionuclide imaging using 99mTc-labeled bone seeking&#xD;
+      radiopharmaceuticals is used as a noninvasive diagnostic criterion in patients without&#xD;
+      detectable monoclonal protein. The visual assessment remains the main noninvasive criterion&#xD;
+      for the diagnosis. Medical therapy using tafamidis meglumine that binds to transthyretin and&#xD;
+      prevents amyloidogenesis, recently demonstrated a reduction in all-cause mortality and&#xD;
+      cardiovascular-related hospitalizations. As a consequence, there is a need for quantitative&#xD;
+      approaches that would be useful for diagnosis and prognosis assessment but also for the&#xD;
+      evaluation of patient therapeutic response.&#xD;
+&#xD;
+      Materials and methods: The investigators aim to include 35 patients with a suspected&#xD;
+      diagnosis of cardiac ATTR amyloidosis in whom a cardiac planar radionuclide imaging using&#xD;
+      99mTc-labeled bone seeking radiopharmaceuticals is planned as part of routine noninvasive&#xD;
+      diagnosis work-up. Using a test-retest approach, the aim is to compare a quantitative method&#xD;
+      vs. conventional semi-quantitative approaches for the assessment of cardiac uptake of bone&#xD;
+      radiopharmaceuticals using new 3D CZT-based SPECT-CT cameras in patients with suspected&#xD;
+      cardiac ATTR amyloidosis. The investigators estimated that 20 patients will have a diagnosis&#xD;
+      of cardiac ATTR amyloidosis. In the latter patients, the aim is to evaluate the impact of&#xD;
+      6-month therapy using tafamidis on quantitative and semi-quantitative assessment of cardiac&#xD;
+      uptake of bone radiopharmaceuticals Perspectives: This new non invasive imaging techniques&#xD;
+      for the quantitative assessment of the amyloid burden in patients with cardiac ATTR&#xD;
+      amyloidosis may help identify the responders and the patients who should benefit from dose&#xD;
+      intensification.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 15, 2020</start_date>
+  <completion_date type="Anticipated">March 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 15, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Test-retest reproducibility</measure>
+    <time_frame>10 days</time_frame>
+    <description>Test-retest repeatability will be assessed by comparing the results from two successive 3D CZT imaging examinations performed in two distinct baseline imaging sessions. Repeatability will be evaluated by the mean absolute difference and the coefficient of variation (COV) (mean relative difference) between the results of the assessment of the 3D-myocardial uptake of bone tracers in the two examinations. A measurement will be considered reproducible when COV will be below 20%. Furthermore, the repeatability will also be assessed using the interclass correlation coefficient (ICC) and its 95% confidence interval (95%CI) under an ANOVA random effect model, and Bland Altman plots.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlations between the quantitative assessment of the myocardial uptake of bone tracers and semi-quantitative approaches</measure>
+    <time_frame>10 days</time_frame>
+    <description>Correlations between the quantitative assessment of the myocardial uptake of bone tracers and semi-quantitative approaches will be performed by using linear regression analysis performed by the least squares method and Pearson's correlation coefficient r and Bland Altman plots.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison between the quantitative assessment of the myocardial uptake of bone tracers between baseline and follow-up imaging of each patient, 6 months after the beginning of the treatment by tafamidis</measure>
+    <time_frame>6 months</time_frame>
+    <description>The investigators will compare baseline and follow-up imaging of each patient, 6 months after the beginning of the treatment by tafamidis using paired comparison for quantitative data and concordance tests (Kappa test) for semi-quantitative data.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>Amyloidosis Transthyretin</condition>
+  <arm_group>
+    <arm_group_label>No cardiac ATTR amyloidosis</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Cardiac echocardiography at baseline and whole-body &amp; CZT bone tracer imaging (SPECT).&#xD;
+day 3 - day 10 : second whole-body &amp; CZT bone tracer imaging (SPECT), test-retest Bone tracer imaging Perugini 0 : no cardiac TTR amyloidosis No further follow-up.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cardiac ATTR amyloidosis, no treatment with tafamidis planned</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Cardiac echocardiography at baseline and whole-body &amp; CZT bone tracer imaging (SPECT).&#xD;
+day 3 - day 10 : second whole-body &amp; CZT bone tracer imaging (SPECT), test-retest Bone tracer imaging demonstrating cardiac ATTR amyloidosis but no treament with tafamidis planned.&#xD;
+Cardiac echocardiography at 3 months and whole-body &amp; CZT bone tracer SPECT and cardiac echocardiography at 6 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cardiac ATTR amyloidosis, treatment with tafamidis planned</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Cardiac echocardiography at baseline and whole-body &amp; CZT bone tracer imaging (SPECT).&#xD;
+day 3 - day 10 : second whole-body &amp; CZT bone tracer imaging (SPECT), test-retest Bone tracer imaging demonstrating cardiac ATTR amyloidosis. Start of the treament with tafamidis.&#xD;
+Cardiac echocardiography at 3 months and whole-body &amp; CZT bone tracer SPECT and cardiac echocardiography at 6 months</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Whole-body &amp; CZT bone tracer imaging (SPECT)</intervention_name>
+    <description>Quantitative analysis of myocardial uptake of 99mTc-labeled bone radiopharmaceuticals using new whole-body CZT-based SPECT-CT cameras</description>
+    <arm_group_label>Cardiac ATTR amyloidosis, no treatment with tafamidis planned</arm_group_label>
+    <arm_group_label>Cardiac ATTR amyloidosis, treatment with tafamidis planned</arm_group_label>
+    <arm_group_label>No cardiac ATTR amyloidosis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Medical history of Heart Failure (HF) with at least 1 prior hospitalization for HF or&#xD;
+             clinical evidence of HF (without hospitalization) manifested by signs or symptoms of&#xD;
+             volume overload or elevated intracardiac pressures that required/requires treatment&#xD;
+             with a diuretic for improvement, and an increase of BNP &gt;200 pg/mL and/or NT-proBNP&#xD;
+             &gt;500 pg/mL&#xD;
+&#xD;
+          -  Suspected cardiac ATTR amyloidosis&#xD;
+&#xD;
+          -  Evidence of cardiac involvement by echocardiography with an end-diastolic&#xD;
+             interventricular septal wall thickness &gt; 12 mm&#xD;
+&#xD;
+          -  Patient signed consent&#xD;
+&#xD;
+          -  Contraception method&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  New York Heart Association (NYHA) functional class IV despite diuretic treatment&#xD;
+&#xD;
+          -  Life expectancy &lt;6 month due to the severity of cardiac amyloidosis and/or&#xD;
+             comorbidities&#xD;
+&#xD;
+          -  Aortic valve surgical or percutaneous replacement within 30 days or planned within&#xD;
+             months&#xD;
+&#xD;
+          -  Presence of primary (light chain) amyloidosis&#xD;
+&#xD;
+          -  Contraindication to tafamidis&#xD;
+&#xD;
+          -  Pregnancy and breast feeding ; pregnancy test in women of reproductive age&#xD;
+             irrespective of contraception method)&#xD;
+&#xD;
+          -  Adults with protective measures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Damien Legallois, MD</last_name>
+    <phone>33230165709</phone>
+    <email>damien.legallois@unicaen.fr</email>
+  </overall_contact>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>August 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Amyloidosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

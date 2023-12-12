@@ -1,0 +1,234 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04622969</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00091502</org_study_id>
+    <nct_id>NCT04622969</nct_id>
+  </id_info>
+  <brief_title>The Healthy Child Development Program Study</brief_title>
+  <official_title>Targeting Behavioral Adjustment and Healthy Lifestyle in Preschool-age Children Using an Integrated Family-Based Intervention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of South Carolina</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study conducts a preliminary test of an intervention program delivered in the home to&#xD;
+      assist families of preschool-age children with social, emotional, and behavioral development,&#xD;
+      and the acquisition of healthy lifestyle behaviors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Utilizing referrals from community-based organizations serving high-risk families, this study&#xD;
+      addresses both health and behavioral domains through a family-based intervention. The&#xD;
+      home-delivered prevention intervention includes content on strengthening positive behaviors&#xD;
+      in children, managing misbehavior, and addressing healthy lifestyle choices. Families engage&#xD;
+      in practical skill building and have the opportunity to practice these skills and receive&#xD;
+      feedback.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">February 28, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Child behavior problems</measure>
+    <time_frame>baseline, pre-intervention</time_frame>
+    <description>The Child Behavior Inventory will be utilized to measure parent report of child behavior problems. It is a 36-item measure that records the parent's perception of intensity of the child's disruptive behaviors and whether or not the parent believes this behavior is a problem. Intensity of the child's behavior problem is continuous, ranging from 1 (i.e., child never engages in the behavior) to 7 (i.e., child always engages in the behavior). For behaviors the child engages in, parents respond whether or not this a problem for them.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Child behavior problems</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>The Child Behavior Inventory will be utilized to measure parent report of child behavior problems. It is a 36-item measure that records the parent's perception of intensity of the child's disruptive behaviors and whether or not the parent believes this behavior is a problem. Intensity of the child's behavior problem is continuous, ranging from 1 (i.e., child never engages in the behavior) to 7 (i.e., child always engages in the behavior). For behaviors the child engages in, parents respond whether or not this a problem for them.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Child physical activity</measure>
+    <time_frame>baseline, pre-intervention</time_frame>
+    <description>Child physical activity will be measured using an ActiGraph Link accelerometer to assess the number of minutes each day which the child spends in sedentary, light, moderate, and vigorous physical activity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Child physical activity</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Child physical activity will be measured using an ActiGraph Link accelerometer to assess the number of minutes each day which the child spends in sedentary, light, moderate, and vigorous physical activity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Child screen time</measure>
+    <time_frame>baseline, pre-intervention</time_frame>
+    <description>In addition to measures of sedentary behavior pulled from the wrist-placed ActiGraph Link accelerometer, parents will be asked to log the daily amount of child screen time at home.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Child screen time</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>In addition to measures of sedentary behavior pulled from the wrist-placed ActiGraph Link accelerometer, parents will be asked to log the daily amount of child screen time at home.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Child sleep duration</measure>
+    <time_frame>baseline, pre-intervention</time_frame>
+    <description>Child sleep duration will be measured with the ActiGraph accelerometer. Data will also be verified using parent report of the time the child went to bed and the time the child woke up collected through the daily parent log.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Child sleep duration</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Child sleep duration will be measured with the ActiGraph accelerometer. Data will also be verified using parent report of the time the child went to bed and the time the child woke up collected through the daily parent log.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Parenting difficulties</measure>
+    <time_frame>baseline, pre-intervention</time_frame>
+    <description>Parenting difficulties will be assessed with the Parenting Scale. The 30-item Parenting Scale is a self-report instrument that assesses ineffective parenting in discipline situations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parenting difficulties</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Parenting difficulties will be assessed with the Parenting Scale. The 30-item Parenting Scale is a self-report instrument that assesses ineffective parenting in discipline situations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental stress</measure>
+    <time_frame>baseline, pre-intervention</time_frame>
+    <description>Parental stress will be measured with the Parenting Daily Hassles Scale (PDHS). Parenting stress is associated with parenting behaviors and child behavior problems. The PDHS is a 20-item instrument that measures the extent to which parents feel daily stress from routine events that can make life difficult for families with young children. Frequency scores range from 0-80 with higher scores indicating more frequent child behavior problems. Intensity scores range from 0-100 with higher scores indicating a higher intensity of parenting hassles.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental stress</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Parental stress will be measured with the Parenting Daily Hassles Scale (PDHS). Parenting stress is associated with parenting behaviors and child behavior problems. The PDHS is a 20-item instrument that measures the extent to which parents feel daily stress from routine events that can make life difficult for families with young children. Frequency scores range from 0-80 with higher scores indicating more frequent child behavior problems. Intensity scores range from 0-100 with higher scores indicating a higher intensity of parenting hassles.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental confidence</measure>
+    <time_frame>baseline, pre-intervention</time_frame>
+    <description>Parental confidence will be assessed with the Parenting Sense of Competence scale, a Likert-scale in which higher scores indicate a stronger sense of self-efficacy as a parent. Total scores range from 17-102.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental confidence</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Parental confidence will be assessed with the Parenting Sense of Competence scale, a Likert-scale in which higher scores indicate a stronger sense of self-efficacy as a parent. Total scores range from 17-102.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Intervention involvement and dropout</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Intervention involvement and dropout will be examined through a follow up interview to understand components of the intervention that participants appreciated and reasons for dropping out of the intervention.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of Incomplete responses</measure>
+    <time_frame>baseline, pre-intervention</time_frame>
+    <description>Each measure will be examined for incomplete responses. Within measures with incomplete responses, item by item incomplete totals will be examined.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of Incomplete responses</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Each measure will be examined for incomplete responses. Within measures with incomplete responses, item by item incomplete totals will be examined.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Incomplete use of accelerometer</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Accelerometer data will be examined to determine when incomplete use of the accelerometer occurred.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Acceptability of parent logging and accelerometer procedures</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Acceptability of parent logging and accelerometer procedures will be assessed through semi-structured qualitative interviews with parents.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Level of understanding of the standardized measures</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>During the semi-structured qualitative interview, parents will also be asked to give feedback on their level of understanding of the standardized instruments.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Child Behavior</condition>
+  <condition>Child Health</condition>
+  <condition>Child, Preschool</condition>
+  <condition>Parents</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Provide the 15-week Healthy Child Development Program intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Wait list control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Healthy Child Development Program</intervention_name>
+    <description>The Healthy Child Development Program is a family-based intervention focused on strengthening positive behaviors in children, managing misbehavior, and addressing healthy lifestyle choices.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  parent has primary custody of the child&#xD;
+&#xD;
+          -  one or more children in the home is in the 3 to 4 year old age range&#xD;
+&#xD;
+          -  English-speaking parent&#xD;
+&#xD;
+          -  parent stated an interest to participate in the program&#xD;
+&#xD;
+          -  parent completes informed consent process&#xD;
+&#xD;
+          -  family experiencing economic disadvantage&#xD;
+&#xD;
+          -  parenting challenges due to child behavior&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  an open Child Protective Services maltreatment case on the family&#xD;
+&#xD;
+          -  parent receiving inpatient treatment or enrolled in an institutional-residential&#xD;
+             treatment program&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kristen D Seay, Ph.D., MSW</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of South Carolina</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kristen D Seay, Ph.D., MSW</last_name>
+    <phone>803-777-4221</phone>
+    <email>kdseay@mailbox.sc.edu</email>
+  </overall_contact>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>October 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2020</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of South Carolina</investigator_affiliation>
+    <investigator_full_name>Kristen D. Seay, PhD, MSW</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

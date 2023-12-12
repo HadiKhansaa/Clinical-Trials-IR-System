@@ -1,0 +1,261 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02866240</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BCHEpilepsy</org_study_id>
+    <nct_id>NCT02866240</nct_id>
+  </id_info>
+  <brief_title>Safety and Therapeutic Measures of Tdcs in Patients With Refractory Focal Epilepsy</brief_title>
+  <official_title>Safety and Therapeutic Measures of Cathodal Transcranial Direct Current Stimulation (Tdcs) in Patients With Refractory Focal Epilepsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Neuroelectrics Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Beth Israel Deaconess Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Boston Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Neuroelectrics Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single site, non-randomized, prospective, open-label, interventional&#xD;
+      pilot/feasibility study. Patients recruited will have medically-refractory focal neocortical&#xD;
+      epilepsy, defined on the basis of presence of focal spikes and (if available) focal seizure&#xD;
+      onsets originating from the lateral cortical surface of any lobe. All patients and referring&#xD;
+      physicians will be requested to maintain their current antiepileptic drugs throughout the&#xD;
+      study with changes after enrollment permitted only to maintain pre-enrollment drug levels, or&#xD;
+      if clinically necessary. The primary outcome measure will be the change in seizure frequency&#xD;
+      (seizures/week) as compared to baseline.&#xD;
+&#xD;
+      Patients with medically-refractory neocortical epilepsy will receive cathodal tDCS&#xD;
+      administered to the seizure focus for 10 sessions over a 2-week period with the allowance of&#xD;
+      make-up sessions in week three. Subjects will be evaluated at baseline, during the&#xD;
+      stimulation sessions, and 8 weeks after the completion of the tDCS visits&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Noninvasive neurostimulation techniques include Transcranial magnetic stimulation (TMS) and&#xD;
+      Cathodal Transcranial Direct Current Stimulation (tDCS). Of these, tDCS is uniquely suited to&#xD;
+      mass distribution and treatment, even at home, as it is lightweight, portable, inexpensive&#xD;
+      and has a favorable safety profile. In tDCS, a low intensity (1-2 mA) unidirectional&#xD;
+      electrical current is applied to the scalp to influence underlying cortical excitability.&#xD;
+      Some small preliminary studies suggest that cathodal tDCS may suppress epileptic seizures.&#xD;
+      However, a well-powered randomized-controlled trial demonstrating convincing proof of&#xD;
+      efficacy has not been conducted. This study is intended to test whether tDCS reduces seizures&#xD;
+      in patients with intractable focal neocortical epilepsy. The hypothesis is that repeated&#xD;
+      daily sessions of cathodal tDCS will lead to a clinically significant decrease in seizures in&#xD;
+      this population. Successful completion of this pilot study will be an essential first step&#xD;
+      toward a larger placebo-controlled trial with the goal of establishing cathodal tDCS as a&#xD;
+      novel, non-invasive and inexpensive treatment for drug-resistant seizures, and will provide&#xD;
+      the critical data needed for an application to obtain FDA approval for the use of tDCS in the&#xD;
+      treatment of drug-resistant epilepsy.&#xD;
+&#xD;
+      tDCS is a painless method for focal brain stimulation. tDCS is based on decades-old&#xD;
+      observations that neuronal firing is modulated by low amplitude electrical direct current&#xD;
+      (DC). Specifically, when applied to the cerebral cortex, cathodal DC inhibits neuronal&#xD;
+      firing. The mechanisms by which cathodal DC reduces neuronal firing likely relate to&#xD;
+      hyper-polarization of the soma membrane which occurs when the apical dendrites neuron are&#xD;
+      oriented toward the cathode in a constant electric field. The practical application of tDCS&#xD;
+      is simple: low amplitude DC is administered via scalp electrodes such that the cerebral&#xD;
+      cortex is exposed to cathodal DC beneath one of the electrodes, and the return (anodal)&#xD;
+      electrodes can be placed anywhere else on the body, or in more complex arrangements to&#xD;
+      minimize currents at any one site. tDCS methods have also recently been adapted to rats for&#xD;
+      work with disease models showing success with seizure suppression. Numerous of tDCS studies&#xD;
+      have demonstrated the technique to be well tolerated and safe. Direct electrical current&#xD;
+      stimulation is presently FDA-approved for extracranial use, and FDA applications for tDCS for&#xD;
+      management of mood disorder and chronic pain are in progress.&#xD;
+&#xD;
+      tDCS units are also inexpensive and light-weight. The electrical supply can be derived from&#xD;
+      conventional 9-volt batteries. The scalp electrodes can be fastened in seconds. tDCS can be&#xD;
+      combined easily with other therapies, such as those that may be required for resuscitation of&#xD;
+      an acutely-injured patient. tDCS is presently under investigation as a treatment for&#xD;
+      epilepsy, where excess cortical excitability is a prominent feature of the disease process,&#xD;
+      and where neuronal inhibition may be beneficial. Thus for epilepsy, tDCS may offer a&#xD;
+      practical non-pharmacologic therapy for the large minority, approximately 35%, of patients&#xD;
+      whose seizure cannot be controlled by medication.&#xD;
+&#xD;
+      The tDCS stimulator used in this clinical study is the STARSTIM device (Neuroelectrics, Inc).&#xD;
+      STARSTIM is capable of recording EEG before, during and after tDCS stimulation, and will not&#xD;
+      only allow for a detailed understanding of the tDCS-induced effect on neural activity, but&#xD;
+      may eventually serve as a guidance to fine-tune the stimulation parameters and improve the&#xD;
+      tDCS protocol based on the developmental, behavioral, dynamical, and disease state through&#xD;
+      closed-loop systems.&#xD;
+&#xD;
+      Starstim device is remotely controlled using NIC software that stands for Neuroelectrics&#xD;
+      Instrument Controller (NIC). This application will allow physicians to configure the study&#xD;
+      protocol with all the defined parameters. The provided version of software will only enable&#xD;
+      to apply tDCS protocols to the subjects in the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 21, 2017</start_date>
+  <completion_date type="Actual">December 31, 2019</completion_date>
+  <primary_completion_date type="Actual">December 31, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Seizure frequency in patients with intractable focal neocortical epilepsy using cathodal tDCS.</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Seizure frequency relative to pre-treatment baseline</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">20</enrollment>
+  <condition>Refractory Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Single arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cathodal Transcranial Direct Current Stimulation (tDCS)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Cathodal Transcranial Direct Current Stimulation (tDCS).</intervention_name>
+    <description>Transcranial direct current stimulation (tDCS) is a form of neurostimulation which uses constant, low current delivered to the brain area of interest via electrodes on the scalp.</description>
+    <arm_group_label>Single arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  9 years old or older&#xD;
+&#xD;
+          -  An established diagnosis of medically-refractory neocortical epilepsy (as determined&#xD;
+             by the referring clinician), with a clearly defined seizure focus.&#xD;
+&#xD;
+          -  Diagnosis of epilepsy with focal seizures with or without secondary generalization&#xD;
+             (International League Against Epilepsy classification). Diagnosis established by&#xD;
+             clinical history and an electroencephalogram consistent with localization-related&#xD;
+             epilepsy.&#xD;
+&#xD;
+          -  Continued seizures despite adequate dosage in trials of at least 2 or more&#xD;
+             antiepileptic medications within approximately the last 3 years.&#xD;
+&#xD;
+          -  At least one clearly identified and localizable epileptogenic zone from which 80% or&#xD;
+             more seizures arise, as defined by the referring clinician.&#xD;
+&#xD;
+          -  Currently on 1-4 anti-epileptic drugs (AEDs) with no changes in antiepileptic drug&#xD;
+             doses in the 3 weeks prior to enrollment in the study and no planned dose changes&#xD;
+             during the trial and through the primary endpoint&#xD;
+&#xD;
+          -  A clinical or research MRI scan that is suitable for navigated brain stimulation (NBS)&#xD;
+             and generation of electrical fields&#xD;
+&#xD;
+          -  A reported average of at least 3 seizures per month (focal or secondarily generalized)&#xD;
+             over the three months prior to enrollment, and a minimum of 4 seizures recorded during&#xD;
+             the 8-week baseline period, with no 21-day seizure-free period during the 8 week&#xD;
+             baseline&#xD;
+&#xD;
+          -  Written informed consent (and assent when applicable) obtained from subject or&#xD;
+             subject's legal representative and ability for subject to comply with the requirements&#xD;
+             of the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant, breastfeeding, or unwilling to practice birth control during participation&#xD;
+             in the study. All female participants of child bearing age are required to have a&#xD;
+             pregnancy test. Additionally, all females of childbearing potential will be required&#xD;
+             to use an effective method of birth control including: oral hormonal contraceptives;&#xD;
+             implanted hormonal contraceptives, diaphragm with spermicide; condoms; intra-uterine&#xD;
+             device; abstinence.&#xD;
+&#xD;
+          -  Presence of a condition or abnormality that in the opinion of the Investigator would&#xD;
+             compromise the safety of the patient or the quality of the data.&#xD;
+&#xD;
+          -  Uncertainty regarding the diagnosis of medically-refractory epilepsy.&#xD;
+&#xD;
+          -  History of Non-epileptic or psychogenic seizures, Primary generalized seizures, Status&#xD;
+             epilepticus in the last 12 months, Suspicion for or a significant history of syncope,&#xD;
+             Coexisting significant medical condition that is not in good control, Progressive&#xD;
+             neurologic disease, Progressive brain disorders, Serious systemic diseases,&#xD;
+             Symptomatic cerebrovascular disease, Cardiac disease, Chronic skin disease or Damaged&#xD;
+             skin on scalp that would interfere with tDCS stimulation.&#xD;
+&#xD;
+          -  Any cranial metal implants (excluding dental fillings) or medical devices (i.e.&#xD;
+             cardiac pacemaker, deep brain stimulator, medication infusion pump, cochlear implant,&#xD;
+             vagus nerve stimulator).&#xD;
+&#xD;
+          -  Previous surgeries opening the skull.&#xD;
+&#xD;
+          -  Active or recent substance abuse or dependence within the past year.&#xD;
+&#xD;
+          -  No medication is an absolute exclusion from tDCS/TMS. Medications will be reviewed and&#xD;
+             a decision about inclusion will be made based on the following: patient's past medical&#xD;
+             history, drug dose, history of recent medication changes or duration of treatment, and&#xD;
+             combination with other central nervous system (CNS) active drugs. The published TMS&#xD;
+             guidelines review of medications to be considered with TMS will be taken into&#xD;
+             consideration.&#xD;
+&#xD;
+          -  Any condition that makes the subject, in the opinion of the investigator, unsuitable&#xD;
+             for the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>9 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Boston Children´S Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>August 5, 2016</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 15, 2016</study_first_posted>
+  <last_update_submitted>January 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Epilepsy</mesh_term>
+    <mesh_term>Drug Resistant Epilepsy</mesh_term>
+    <mesh_term>Epilepsies, Partial</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <pending_results>
+    <submitted>February 14, 2021</submitted>
+    <returned>March 5, 2021</returned>
+  </pending_results>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

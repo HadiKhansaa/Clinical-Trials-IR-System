@@ -1,0 +1,171 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04503785</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1701721848</org_study_id>
+    <nct_id>NCT04503785</nct_id>
+  </id_info>
+  <brief_title>Esophageal Impedance and Manometry Measurements and Dysphagia Symptom Scoring</brief_title>
+  <official_title>Esophageal Impedance and Manometry Measurements and Dysphagia Symptom Scoring</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Comparison of manometry measurements and EndoFlip Balloon measurements in patients with&#xD;
+      dysphagia and a known esophageal diagnosis&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Gastrointestinal (GI) motility problems are very common in the general population. Dysphagia,&#xD;
+      difficulty swallowing, is one of the most common issues in gastroenterology. In many&#xD;
+      patients, esophageal obstruction is not identified despite workup with upper endoscopy or&#xD;
+      barium swallow x-ray. Patients are often referred to the Motility Laboratory for evaluation&#xD;
+      of non-obstructive dysphagia. Transnasal esophageal manometry-impedance is a diagnostic test&#xD;
+      to measure the pressures and coordination of the esophagus during swallowing. The Endolumenal&#xD;
+      Functional Lumen Imaging Probe (EndoFLIP) is another instrument used to measure the lumen&#xD;
+      distensibility of the esophagus and pylorus. Both tests are FDA-approved and are currently&#xD;
+      being used in clinical practice. However, correlation of the results obtained from these&#xD;
+      tests with clinical syndromes and symptoms is not clearly understood. Furthermore, the&#xD;
+      relationship between esophageal impedance-manometry and EndoFLIP results has never been&#xD;
+      defined.&#xD;
+&#xD;
+      The primary Aim is to develop a registry of patients undergoing esophageal&#xD;
+      manometry-impedance and Endoflip from the GI Motility Lab at the IU University Hospital&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 17, 2017</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Endoflip parameters for gastroparesis</measure>
+    <time_frame>5 years</time_frame>
+    <description>Compare the distensibility index (mm2/mmHg) of the pylorus at 50 ml distension in patients with postsurgical gastroparesis and compare to patients with idiopathic and diabetic gastroparesis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between endoflip parameters and gastric scintigraphy</measure>
+    <time_frame>5 years</time_frame>
+    <description>Correlate distensibility data (cross-sectional area, pressure, distensibility index) with severity of delayed gastric emptying in patients with gastroparesis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between endoflip parameters and symptom severity</measure>
+    <time_frame>5 years</time_frame>
+    <description>Correlate distensibility data (cross-sectional area, pressure, distensibility index) with severity of gastroparesis symptoms by Patient Assessment GI-Ssymptoms (PAGI-SYM)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Dysphagia, Esophageal</condition>
+  <arm_group>
+    <arm_group_label>Dysphagia</arm_group_label>
+    <description>Patients with Esophageal dysphagia</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Manometry</intervention_name>
+    <description>Transnasal Esophageal manometry and Endoflip Balloon distensibility</description>
+    <arm_group_label>Dysphagia</arm_group_label>
+    <other_name>Endoflip</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Study subjects will be recruited from patients who were referred by their physicians to the&#xD;
+        GI Motility Lab at IU University Hospital for esophageal manometry-impedance and/or&#xD;
+        EndoFLIP&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All patients who presented to GI Motility Lab at IU University Hospital for esophageal&#xD;
+             manometry-impedance and/or EndoFLIP&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt;18 yrs old&#xD;
+&#xD;
+          -  Unable to communicate verbally with the staff&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John M Wo, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Basil Kahwash, MD</last_name>
+    <email>bkahwash@iu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anita Gupta, MBBS</last_name>
+    <phone>3179489227</phone>
+    <email>anigupta@iu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>March 22, 2018</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 7, 2020</study_first_posted>
+  <last_update_submitted>August 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>John M. Wo</investigator_full_name>
+    <investigator_title>Director of Motility and Neurogastroenterology Unit</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Deglutition Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

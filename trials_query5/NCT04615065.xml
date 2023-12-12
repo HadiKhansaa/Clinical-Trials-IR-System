@@ -1,0 +1,429 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04615065</url>
+  </required_header>
+  <id_info>
+    <org_study_id>201900635</org_study_id>
+    <nct_id>NCT04615065</nct_id>
+  </id_info>
+  <brief_title>Acutelines: a Large Data-/Biobank of Acute and Emergency Medicine</brief_title>
+  <acronym>Acutelines</acronym>
+  <official_title>Acutelines: a Large Biobank Aiming to Improve Early Recognition of Acute Diseases, Contribute to the Development of Personalized Medicine and Optimize Short- and Long-term Outcome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hjalmar Bouma</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Medical Center Groningen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Research in acute care faces many challenges, including enrollment challenges, legal&#xD;
+      limitations in data sharing, limited funding, and lack of singular ownership of the domain of&#xD;
+      acute care. To overcome some of these challenges, the Center of Acute Care of the University&#xD;
+      Medical Center Groningen in the Netherlands, has established a de novo data-, image- and&#xD;
+      biobank named &quot;Acutelines&quot;. Acutelines is initiated to improve recognition and treatment of&#xD;
+      acute diseases and obtain insight in the consequences of acute diseases, including factors&#xD;
+      predicting its outcome. Thereby, Acutelines contributes to development of personalized&#xD;
+      treatment and improves prediction of patient outcomes after an acute admission.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acutelines is a prospective biobank including patients with a broad spectrum of acute&#xD;
+      conditions. Its aim is to facilitate interdisciplinary research on the etiology and&#xD;
+      development of acute diseases with the aid of systematically collected biomaterials and&#xD;
+      medical data over various timepoints, both during the course of the patient's disease and&#xD;
+      after recovery. Clinical data, imaging data and biomaterial (i.e. blood, urine, feces, hair)&#xD;
+      are collected for patients presenting to the Emergency Department (ED) with a broad range of&#xD;
+      acute disease presentations. A deferred consent procedure (by proxy), is in place to allow&#xD;
+      collecting data and biomaterials prior to obtaining written consent. The digital&#xD;
+      infrastructure in place and the software used ensures automated capturing of all bed-side&#xD;
+      monitoring data (i.e. electrophysiological waveforms, vital parameters), and the secure&#xD;
+      importation of data from other sources, such as the electronic health records of the&#xD;
+      hospital, ambulance and general practitioner, municipal registration, health insurance&#xD;
+      companies and pharmacy. Follow up data are collected for all included patients during the&#xD;
+      first 72-hours of their hospitalization and 3-months, 1-year, 2-years and 5 years after their&#xD;
+      ED visit.&#xD;
+&#xD;
+      Data and materials to be collected includes:&#xD;
+&#xD;
+        -  Demographic and health data (i.e. [experiences] health, quality of life, functional&#xD;
+           status)&#xD;
+&#xD;
+        -  Medical history (i.e. co-morbidity, intoxications, medication use)&#xD;
+&#xD;
+        -  Admission reason to emergency department&#xD;
+&#xD;
+        -  Physical examination and vital parameters&#xD;
+&#xD;
+        -  Clinical diagnostic data (i.e. [point-of-care] ultrasound, X-ray, CT-scan, laboratory&#xD;
+           results)&#xD;
+&#xD;
+        -  Electrophysiological waveforms (i.e. electrocardiogram [ECG], plethysmography)&#xD;
+&#xD;
+        -  Biomaterials&#xD;
+&#xD;
+        -  Treatment (i.e. medication use, non-pharmacological treatment, treatment decisions,&#xD;
+           length-of-stay in hospital, admission to intensive care unit [ICU])&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">September 1, 2030</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2030</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Years</target_duration>
+  <primary_outcome>
+    <measure>Mortality (time and cause)</measure>
+    <time_frame>Until the death of death from any cause, up to 50 years</time_frame>
+    <description>Mortality will be retrieved from the electronic health records (EHR) from the hospital and municipal registration. The cause of death will be retrieved from the EHR from the hospital, general practitioner and Dutch statistics' office (CBS).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Katz ADL-6 (functioning)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Katz ADL-6 (0-6, fully dependent-independent)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>World Health Organization (WHO) performance status (functioning)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>World Health Organization (WHO) performance status (0-4, normal performance-bedridden)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Karnofsky performance score (functioning)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Karnofsky performance score (10-100, moribund-normal performance)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Utrecht Activity List (daily activities)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Utrecht Activity List (UAL; hours/week spend on (a) paid work, (b) education, (c) household, (d) running errands, (e) unpaid work, (f) sport, (g) hobbies, (h) other use of leisure time )</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Short QUestionnaire to ASsess Health-enhancing physical activity (daily activities)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Short QUestionnaire to ASsess Health-enhancing physical activity (SQUASH; minutes/week and intensity of activity spend (a) commuting, (b) at work, (c) household activities and (d) leisure time; increased score corresponds with increased physical activity)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of Life and experienced symptoms</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>EuroQol-5D (EQ5D; simple descriptive profile and a single index value for health status; higher values corresponding with better health) with visual analogue scale (VAS; 0-100, worse-best experienced health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Experienced somatic symptoms</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Patient Health Questionnaire-15 (PHQ-15; 0-30, minimal-high somatic symptom severity)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Piper Fatigue Scale-12 (PFS-12; 0-10, higher scores reflect more fatigue among four subscales (a) behavior, (b) affect, (c) sensory, (d) cognition)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient Health Questionnaire-2 (mental health)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Patient Health Questionnaire-2 (PHQ-2; 0-6, higher score corresponds to reduced mental health)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient Health Questionnaire-9 (mental health)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Patient Health Questionnaire-9 (PHQ-9; 0-4 no depressive symptoms, 5-9 mild depressive symptoms, 10-14 moderate depressive symptoms, 15-19 moderately severe depressive symptoms, 20-27 severe depressive symptoms)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geriatric Depression scale-15 (mental health)</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Geriatric Depression scale-15 (GDS-15; 0-4 no depressive symptoms, 5-10 mild depressive symptoms, 11-15 depressive symptoms)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient satisfaction</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Patient Satisfaction Questionnaire Short-form (PSQ-18; measuring general satisfaction, technical quality, interpersonal manner, communication, financial aspects, time spent with doctor, and accessibility and convenience; scored per domain, with lower scores corresponding with higher satisfaction)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Decision making</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <description>Outcome prioritization tool (OPT; 0-100% per domain of prioritization for (a) life extension, (b) preserving independence, (c) reducing pain and (d) reducing other symptoms)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Co-morbidity</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Co-morbidity will be retrieved from the electronic health records (EHR) from the hospital, general practitioner and pharmacy. Data will be registered according to the Charlson' co-morbidity index (CCI; 1-2 mild co-morbidity, 3-4 moderate co-morbidity, 5 severe co-morbidity)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length-of-stay in hospital/intensive care unit (ICU)</measure>
+    <time_frame>Until hospital discharge, an average of 2 weeks</time_frame>
+    <description>Length-of-stay in hospital and on intensive care unit (ICU) in days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Biomarkers</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Laboratory values (Hb [mmol/L], leukocytes [/mL), trombocytes [/ml], creatinine [mmol/L], urea [mmol/L], CRP [mg/L], LDL cholesterol [mmol/L], HDL cholesterol [mmol/L], total cholesterol [mmol/L], AST [U/L], ALT [U/L], gGT [U/L], AF [U/L], bilirubin [microl/L], NTproBNP [pg/mL], troponin [microg/L]) will be retrieved from the electronic health records (EHR) from the hospital, general practitioner and pharmacy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medication use</measure>
+    <time_frame>Up to 5 years</time_frame>
+    <description>Medication use will be retrieved from the electronic health records (EHR) from the hospital, general practitioner and pharmacy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment (non-pharmacological, including organ support)</measure>
+    <time_frame>Until hospital discharge, up to 3 months</time_frame>
+    <description>Treatment (non-pharmacological) will be retrieved from the electronic health records (EHR) from the hospital, general practitioner and (helicopter) emergency medical service. Data will include intravenous fluid resuscitation, vasopressors, mechanical ventilation/non-invasive ventilation, oxygen supply, acute dialysis and extra-corporeal membrane oxygenation (ECMO)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sequential organ failure assessment (SOFA)</measure>
+    <time_frame>Up to 72 hours after hospitalization</time_frame>
+    <description>SOFA scores will be available for patients admitted because of an infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vital parameters</measure>
+    <time_frame>Until hospital discharge, up to 3 months</time_frame>
+    <description>Heart rate (bpm), blood pressure (mmHg), oxygen saturation (SpO2, SaO2, PaO2), breathing frequency (per min), consciousness (Glasgow coma scale), pain score (VAS), nausea/vomiting (y/n), defecation (y/n), urination (y/n), body weight (kg), length (cm), fluid balance (ml/day).</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">35000</enrollment>
+  <condition>Acute Disease</condition>
+  <condition>Sepsis</condition>
+  <condition>Pneumonia</condition>
+  <condition>Frailty</condition>
+  <condition>Complication of Treatment</condition>
+  <condition>Pulmonary Embolism</condition>
+  <condition>Thrombosis</condition>
+  <condition>Acute Kidney Injury</condition>
+  <condition>Electrolyte Disturbance</condition>
+  <condition>Hemorrhage</condition>
+  <condition>Shock</condition>
+  <condition>Polypharmacy</condition>
+  <condition>Intoxication by Drug</condition>
+  <condition>Emergencies</condition>
+  <condition>Urinary Tract Infections</condition>
+  <condition>Skin Infection</condition>
+  <condition>Syncope</condition>
+  <condition>Anaphylaxis</condition>
+  <condition>Dyspnea</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Biomaterials will be collected from:&#xD;
+&#xD;
+        -  Patients triaged as one of highest two triage categories (red or orange) according to&#xD;
+           the Manchester triage system;&#xD;
+&#xD;
+        -  Patients with shock;&#xD;
+&#xD;
+        -  Patients with a suspicion of sepsis (based on physicians' judgement, Sepsis-2 or&#xD;
+           Sepsis-3 criteria).&#xD;
+&#xD;
+      Biomaterials to be collected are serum, plasma (EDTA), plasma (Lithium heparin), PAXGene RNA,&#xD;
+      buffy coat (from EDTA), urine, feces, hair&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients admitted to the emergency room for emergency medicine, internal medicine&#xD;
+        [including sub-specializations as allergology, acute medicine, oncology, hematology,&#xD;
+        infectiology, nephrology, vascular medicine, geriatric medicine], pulmonology,&#xD;
+        gastro-enterology and rheumatology.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria, at least one of the following:&#xD;
+&#xD;
+          -  Triaged as one of highest two triage categories (red or orange) according to the&#xD;
+             Manchester triage system;&#xD;
+&#xD;
+          -  Triaged as the third highest triage category (yellow) and arrival by EMS of Helicopter&#xD;
+             Emergency Medical Service (HEMS;&#xD;
+&#xD;
+          -  Shock&#xD;
+&#xD;
+          -  Suspicion of sepsis (based on either physicians' suspicion, Sepsis-2 or Sepsis-3&#xD;
+             criteria)&#xD;
+&#xD;
+          -  Acute kidney injury (AKI)&#xD;
+&#xD;
+          -  Anaphylactic reaction&#xD;
+&#xD;
+          -  Syncope&#xD;
+&#xD;
+          -  Intoxication&#xD;
+&#xD;
+          -  Thrombosis&#xD;
+&#xD;
+          -  Pulmonary embolism&#xD;
+&#xD;
+          -  Bleeding while using anti-coagulant drugs&#xD;
+&#xD;
+          -  Gastro-intestinal bleeding&#xD;
+&#xD;
+          -  Electrolyte disturbance&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Referred for organ transplantation as recipient&#xD;
+&#xD;
+          -  Transfer from other hospital&#xD;
+&#xD;
+          -  Accidental contact patient material (i.e. internal work-related accident)&#xD;
+&#xD;
+        While data- and imaging will be collected from all these patients, biomaterials will only&#xD;
+        be collected from patients fulfilling the first criterion (i.e. triaged as one of highest&#xD;
+        two triage categories [red or orange] according to the Manchester triage system) and from&#xD;
+        patients with shock or a suspicion of sepsis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ewoud ter Avest, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University Medical Center Groningen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jan ter Maaten, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University Medical Center Groningen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Barbara van Munster, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University Medical Center Groningen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Hjalmar Bouma, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Medical Center Groningen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hjalmar Bouma, MD, PhD</last_name>
+    <phone>+31 50 361 6161</phone>
+    <email>acutelines@umcg.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Medical Center Groningen</name>
+      <address>
+        <city>Groningen</city>
+        <zip>9700 RB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hjalmar Bouma, MD, PhD</last_name>
+      <phone>0503616161</phone>
+      <email>acutelines@umcg.nl</email>
+    </contact>
+    <investigator>
+      <last_name>Hjalmar Bouma, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ewoud ter Avest, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jan ter Maaten, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Barbara van Munster, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <link>
+    <url>http://acutelines.umcg.nl</url>
+    <description>Acutelines website UMCG</description>
+  </link>
+  <link>
+    <url>https://twitter.com/Acutelines</url>
+    <description>Acutelines twitter account</description>
+  </link>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2020</study_first_posted>
+  <last_update_submitted>November 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University Medical Center Groningen</investigator_affiliation>
+    <investigator_full_name>Hjalmar Bouma</investigator_full_name>
+    <investigator_title>Internist and Research Fellow</investigator_title>
+  </responsible_party>
+  <keyword>Acute disease</keyword>
+  <keyword>Sepsis</keyword>
+  <keyword>Emergency Medical Service (EMS)</keyword>
+  <keyword>Outcome</keyword>
+  <keyword>Precision medicine</keyword>
+  <keyword>Personalized medicine</keyword>
+  <keyword>Emergency medicine</keyword>
+  <keyword>Multidisciplinary</keyword>
+  <keyword>General practitionar</keyword>
+  <keyword>Pharmacy</keyword>
+  <keyword>Hospitalization</keyword>
+  <keyword>Health insurance</keyword>
+  <keyword>Mortality</keyword>
+  <keyword>Quality of life (QoL)</keyword>
+  <keyword>Overcrowding</keyword>
+  <keyword>Patient logistics</keyword>
+  <keyword>Point-of-care ultrasound (POCUS)</keyword>
+  <keyword>Helicopter Emergency Medical Service (HEMS)</keyword>
+  <keyword>Biobank</keyword>
+  <keyword>Databank</keyword>
+  <keyword>Electrophysiological waveforms</keyword>
+  <keyword>Electrocardiogram (ECG)</keyword>
+  <keyword>Plethysmogram</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Urinary Tract Infections</mesh_term>
+    <mesh_term>Pulmonary Embolism</mesh_term>
+    <mesh_term>Dyspnea</mesh_term>
+    <mesh_term>Syncope</mesh_term>
+    <mesh_term>Acute Kidney Injury</mesh_term>
+    <mesh_term>Thrombosis</mesh_term>
+    <mesh_term>Embolism</mesh_term>
+    <mesh_term>Anaphylaxis</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+    <mesh_term>Hemorrhage</mesh_term>
+    <mesh_term>Frailty</mesh_term>
+    <mesh_term>Acute Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data (IPD) may be available to other researchers if needed for their specific research purposes, which amongst others must be in line with the study protocol, the informed consent form and the general data protection regulations (GDPR). Each request for re-use of data will be reviewed by Acutelines' steering group, manager and local review board (LRb), prior to establishing a material and data transfer agreement (MDTA). No IPD will be shared if not required to answer research question.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Supporting information will become available short after initiation of the study and will remain available until the end of the study (undetermined).</ipd_time_frame>
+    <ipd_access_criteria>Supporting information will either be made available through the website (http://acutelines.umcg.nl), LinkedIn (https://www.linkedin.com/company/acutelines) and/or upon reasonable request.</ipd_access_criteria>
+    <ipd_url>http://acutelines.umcg.nl</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

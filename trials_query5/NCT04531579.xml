@@ -1,0 +1,510 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04531579</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VPA-201</org_study_id>
+    <nct_id>NCT04531579</nct_id>
+  </id_info>
+  <brief_title>Valproic Acid (VPA) for Acute Kidney Injury (AKI) in Trauma Patients</brief_title>
+  <official_title>Evaluation of Valproic Acid (VPA) as Adjunctive Therapy for Trauma Patients With Moderate to Severe Hemorrhage at Risk of Ischemia Reperfusion (I/R) Injury</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Westat</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Clinipace Worldwide</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Westat</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to find out if a drug called valproic acid (VPA) will protect&#xD;
+      organs (such as the kidneys) from damage when a person is injured and loses a large amount of&#xD;
+      blood. The organs may not get enough blood or oxygen when a patient loses a lot of blood.&#xD;
+      After the patient receives fluids such as blood, plasma, or saline and the bleeding is&#xD;
+      stopped, blood and oxygen return to the organs. This process called ischemia/reperfusion&#xD;
+      (I/R) is known to cause injury to organs such as the kidneys and heart. VPA is an approved&#xD;
+      drug for treating conditions like seizures and migraines for many years. However, it is not&#xD;
+      approved for use at the higher dose that will be used in this study or for protecting organs&#xD;
+      from I/R injury. This study will enroll trauma patients and randomly assign them to receive&#xD;
+      either VPA diluted in salt water or salt water without VPA (placebo) and then follow the&#xD;
+      patients and compare their organ function and overall outcome. This study is masked meaning&#xD;
+      that the patients, doctors, and nurses will not know which patient received which treatment.&#xD;
+      The study treatment will be given in addition to the care that trauma patients normally&#xD;
+      receive to treat their injuries. The researchers doing this study believe that VPA will&#xD;
+      lessen organ injury caused by I/R, meaning that patients who receive VPA will experience less&#xD;
+      kidney injury when compared to patients who receive the placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      I/R injury is a critical condition that causes cell damage and organ dysfunction and&#xD;
+      contributes to morbidity and mortality in a wide range of pathologies. Ischemia is defined as&#xD;
+      hypoperfusion of tissues, which can occur in conditions such as hemorrhage, sepsis, organ&#xD;
+      transplantation, and acute coronary syndrome. An imbalance in metabolic supply and demand&#xD;
+      within the ischemic organ results in tissue hypoxia and microvascular dysfunction. Among&#xD;
+      trauma patients who have suffered significant blood loss and prolonged hypotension requiring&#xD;
+      multiple vasopressors, the kidney frequently shows injury due to significant I/R. The rate of&#xD;
+      acute kidney injury (AKI) in trauma patients is reported to be between 25-30%.&#xD;
+&#xD;
+      VPA is an anticonvulsant drug that was approved by the Food and Drug Administration (FDA) in&#xD;
+      1978. VPA was developed for use as monotherapy or adjunctive therapy for the treatment of&#xD;
+      seizure disorders, mania associated with bipolar disorder, and migraine. Both oral and&#xD;
+      intravenous (IV) formulations are available. Doses up to 60 milligram (mg)/kilogram (kg)/day&#xD;
+      for up to 14 days have been demonstrated to be safe and effective. More recently, a study has&#xD;
+      shown that a single dose of intravenous VPA at up to 140 mg/kg is safe in healthy volunteers.&#xD;
+      VPA has been recognized as an histone deacetylase inhibitor (HDACI) shown to reduce the&#xD;
+      inflammatory response and oxidative stress in septic mice, thereby protecting against renal&#xD;
+      injury. The molecular mechanisms conferring anticonvulsant properties associated with VPA&#xD;
+      have not been clearly elucidated to date, but likely include increasing levels of&#xD;
+      γ-aminobutyric acid in the central nervous system (CNS), reduction in&#xD;
+      N-Methyl-D-Aspartate-mediated excitation, and blockade of voltage gated sodium and L-type&#xD;
+      calcium channels. More recently, VPA has shown HDACI potential, specifically targeting class&#xD;
+      I (subclasses Ia and Ib) and class II (subclass IIa) HDAC proteins. Given that VPA modulates&#xD;
+      multiple pathways involved in AKI, it theoretically could prevent kidney dysfunction and&#xD;
+      inflammation that is induced by I/R injury.&#xD;
+&#xD;
+      The aim of this study is to evaluate the effect of VPA on reducing I/R injury related to&#xD;
+      organ damage in the kidneys in trauma patients with moderate-to-severe hemorrhage. The&#xD;
+      primary objective of this study is to evaluate the effect of VPA on reducing AKI compared&#xD;
+      with placebo in trauma patients with expected moderated-to-severe hemorrhage at risk for I/R&#xD;
+      injury. The two secondary objectives are: 1) To assess the post-infusion pharmacokinetics&#xD;
+      (PK) of VPA in trauma patients with moderate-to-severe hemorrhage at risk of I/R injury, and&#xD;
+      2) To evaluate the safety of VPA administered as IV infusion in trauma patients with&#xD;
+      moderate-to-severe hemorrhage at risk of I/R injury.&#xD;
+&#xD;
+      This is a phase 2, single-dose, multicenter, double-blind, randomized, placebo-controlled&#xD;
+      study. Subjects will be randomized in a 1:1 ratio to receive a single dose of 140 mg/kg of&#xD;
+      VPA plus standard of care (SOC) or the placebo plus SOC, administered via IV infusion within&#xD;
+      3 hours (ideally 1 hour) after admittance to the emergency department (ED). Clinical&#xD;
+      evaluations such as physical examination, vital signs, electrocardiogram, and laboratory&#xD;
+      results will be collected. AKI will be used to assess VPA efficacy. Myocardial injury and&#xD;
+      laboratory measurements (hematology, chemistry, coagulation profile, and urinalysis) will be&#xD;
+      used to monitor subject safety. Outcome measures including in-hospital mortality, length of&#xD;
+      intensive care unit (ICU) and/or stepdown unit (SDU) stay, length of hospital stay, number of&#xD;
+      alive and ventilator free days (aVFD), and incidence of renal replacement therapy (RRT) will&#xD;
+      also be collected. Blood samples will be collected for PK analysis. The PK analysis will&#xD;
+      correlate study drug exposures with safety profiles. Specimens (plasma, peripheral blood&#xD;
+      mononuclear cells (PBMCs), and urine) will be stored for future undetermined study-related&#xD;
+      analyses, including pharmacodynamics (PD) and VPA responsiveness studies. These studies may&#xD;
+      correlate PK profiles to molecular changes related to beneficial properties of VPA.&#xD;
+&#xD;
+      Male and non-pregnant, non-breastfeeding female hemorrhaging trauma patients between 18 and&#xD;
+      80 years old will be recruited for the study. Trauma patients will be those whose arrival to&#xD;
+      the ED results in trauma team activation. Only patients who can provide consent or for whom a&#xD;
+      Legally Authorized Representative (LAR) can provide consent, will be enrolled. Approximately&#xD;
+      50 subjects will be recruited from across two major medical centers for participation in this&#xD;
+      study.&#xD;
+&#xD;
+      Based on the available safety profile data from multi-dose clinical trials of VPA, the&#xD;
+      product safety information sheet, as well as the VPA Phase 1 study which evaluated the safety&#xD;
+      of single ascending doses of VPA, it has been determined that a dose of 140 mg/kg is safe and&#xD;
+      well-tolerated with minimal adverse reactions. However, given that patients studied at the&#xD;
+      140 mg/kg dose in the phase 1 study were relatively healthy compared to the proposed patient&#xD;
+      population in this study and unanticipated Adverse Events (AEs) may occur, the study team&#xD;
+      will monitor all study subjects closely for AEs throughout the study. All AEs will be&#xD;
+      evaluated for duration, seriousness, severity, and relationship to the study drug, and&#xD;
+      reported accordingly.&#xD;
+&#xD;
+      This study will be monitored according to the data and safety monitoring plan which will&#xD;
+      outline the different levels of monitoring and the responsible parties. A Safety Review&#xD;
+      Committee (SRC) will review and monitor all safety information and compliance data as well as&#xD;
+      the overall study progress on a regular basis. A Medical Monitor (MM) with relevant clinical&#xD;
+      and research expertise will oversee the clinical study and provide ongoing medical&#xD;
+      monitoring. The clinical site Principal Investigators (PIs) will be responsible for ensuring&#xD;
+      that all AEs that occur in subjects during the AE reporting period are managed and reported&#xD;
+      in accordance with the protocol, Sponsor requirements, and any applicable regulations and&#xD;
+      institutional policies. A Data Monitoring Committee (DMC) will monitor implementation and&#xD;
+      progress of the study and review the accumulating endpoint and safety data by treatment arm&#xD;
+      to detect evidence of early significant benefit or harm for subjects while the study is in&#xD;
+      progress.&#xD;
+&#xD;
+      As the main purpose of this study is to evaluate safety of VPA in the study population and to&#xD;
+      investigate efficacy signal, this is a proof-of-concept (PoC) study. Because it is a PoC&#xD;
+      study rather than a confirmatory one, it has been assumed that a total sample size of 50&#xD;
+      subjects (25 in each treatment arm) will be sufficient to provide adequate clinical evidence&#xD;
+      of safety and potential efficacy, and to support decision-making on whether a larger pivotal&#xD;
+      confirmatory Phase 3 study would be justified.&#xD;
+&#xD;
+      A statistical analysis plan (SAP) that details the analytical principles and statistical&#xD;
+      techniques to be employed in order to address the primary and secondary objectives will be&#xD;
+      developed. Demographic and relevant baseline characteristics will be presented and summarized&#xD;
+      descriptively by treatment for the randomized, modified intent-to-treat (mITT), and&#xD;
+      per-protocol (PP) populations. The primary endpoint of KDIGO stages will be measured in&#xD;
+      ordinal scale as 0, 1, 2, or 3, where 0 indicates normal renal function and the progressively&#xD;
+      higher values indicate worsening renal function. The ordinal scale measurements will be&#xD;
+      analyzed using the proportional odds ordinal logistic regression model. The KDIGO stages will&#xD;
+      be the dependent variable and drug treatment will be used as the independent variable. The&#xD;
+      common odds ratio across the KDIGO stages and its 95% confidence interval will be calculated.&#xD;
+      Binary endpoints (e.g., incidence of AKI) will be analyzed by Fisher's exact test or logistic&#xD;
+      regression with treatment as an independent variable. The odds ratio and its 95% confidence&#xD;
+      interval will be calculated. Continuous outcomes will be analyzed by missed effects models&#xD;
+      with treatment and baseline value of the outcome (if applicable) as independent variables.&#xD;
+      Un-ordered categorical variables with more than two levels of outcome will be analyzed by a&#xD;
+      chi-square test. Ordered categorical variables with more than two levels of outcome will be&#xD;
+      analyzed in the same way as for the primary endpoint. Safety endpoints will be analyzed and&#xD;
+      summarized descriptively. Categorical variables will be summarized by count and percentage.&#xD;
+      Odds ratios and relative risks may be calculated to compare study drug with placebo in&#xD;
+      incidence of certain safety events. Continuous variables will be summarized by mean, SD,&#xD;
+      median, minimum, and maximum. Shift tables may be used to describe changes in certain&#xD;
+      laboratory values. The plan for the PK analysis is two-fold. First, a standard&#xD;
+      noncompartmental analysis will be performed to obtain descriptors of VPA exposure to explore&#xD;
+      potential relationships to the primary outcome), secondary outcomes, or any observed adverse&#xD;
+      effects. A population PK analysis will be performed to examine and, perhaps, explain the&#xD;
+      anticipated differing PK of VPA in the trial. Specifically, low protein binding of VPA and&#xD;
+      massive blood loss are expected to affect the elimination clearance and, perhaps, the volume&#xD;
+      of distribution of VPA. Characterizing the degree to which the PK are perturbed as well as&#xD;
+      the parameter variability in this population will be important for analyzing the relationship&#xD;
+      of VPA exposure to primary and secondary outcomes and determining the effects, if any, of&#xD;
+      factors related to disease or perioperative conditions to the PK of VPA.&#xD;
+&#xD;
+      No interim analyses will be performed for this study. This study does not have a formal&#xD;
+      stopping rule based on statistical testing. See Section 3.9 for more information on stopping&#xD;
+      rules. Missing data can occur in clinical studies, and they may have an impact on the results&#xD;
+      of statistical analyses. Every effort will be made to ensure that the amount of missing data&#xD;
+      is kept at a minimum.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 15, 2021</start_date>
+  <completion_date type="Anticipated">December 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 15, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A phase 2, single-dose, multicenter, double-blind, randomized, placebo-controlled study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>In addition to the individuals listed above, Sponsor's representatives such as clinical research associates who will perform site monitoring, the pharmacovigilance medical monitor, and all staff at the research sites other than the pharmacist of record will be masked.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Stage of AKI as assessed by Kidney Disease: Improving Global Outcomes (KDIGO) stage based on serum creatinine (SCr)</measure>
+    <time_frame>Within the first 48 hours after study drug administration</time_frame>
+    <description>The primary endpoint of AKI as assessed by KDIGO stages will be measured in ordinal scale as 0, 1, 2, or 3, where 0 indicates normal renal function and the progressively higher values indicate worsening renal function</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Blood lipocalin-2 (LCN2)</measure>
+    <time_frame>At baseline, 2 hours, 4 hours, and 24 hours from the end of infusion, and then daily through day of hospital discharge or Day 7, whichever comes first</time_frame>
+    <description>Results of blood LCN2, an early biomarker of AKI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urine lipocalin-2 (LCN2)</measure>
+    <time_frame>At baseline, 2 hours, 4 hours, and 24 hours after study drug administration, and then daily through day of hospital discharge or Day 7, whichever comes first</time_frame>
+    <description>Results of urine LCN2, an early biomarker of AKI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of AKI defined by the occurrence of KDIGO stages 1, 2, or 3 based on SCr, or based on urine output (UO) for those subjects with missing SCr</measure>
+    <time_frame>Within the first 48 hours after study drug administration</time_frame>
+    <description>Incidence of AKI defined by KDIGO stages where stage 0 is no occurrence of AKI and stages 1, 2, or 3 is occurrence of AKI. KDIGO staging will be based on SCr, or based on urine output (UO) for those subjects with missing SCr</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of AKI defined by SCr increase or for those subjects with missing SCr, UO decrease</measure>
+    <time_frame>SCr at 1 hour, 12 hours, 24 hours, 36 hours, and 48 hours after study drug administration, and then daily through day of hospital discharge or Day 7, whichever comes first; or UO every 6 hours through 48 hours after study drug administration</time_frame>
+    <description>Incidence of AKI define by increase in SCr by ≥ 0.3 mg/ dl within 48 hours after study drug administration; or an increase in SCr to ≥ 1.5 times baseline anytime within the 7 days after study drug administration; or for those subjects with missing SCr, UO volume &lt; 0.5 ml/kg/h for 6 hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated glomerular filtration rate (eGFR) based on SCr and/or cystatin C</measure>
+    <time_frame>At 1 hour, 12 hours, 24 hours, 36 hours, and 48 hours after study drug administration, and then daily through day of hospital discharge or Day 7, whichever comes first</time_frame>
+    <description>eGFR to be calculated based on SCr and/or cystatin C using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Serum creatinine (SCr) values</measure>
+    <time_frame>At 1 hour, 12 hours, 24 hours, 36 hours, and 48 hours after study drug administration, and then daily through day of hospital discharge or Day 7, whichever comes first</time_frame>
+    <description>Changes in SCr values through day of hospital discharge or Day 7 after study drug administration, whichever comes first</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Volume of all fluids and blood products received by the subject</measure>
+    <time_frame>At time of ED arrival through 48 hours after study drug administration</time_frame>
+    <description>Volume of all fluids and blood products (including red blood cells (RBC), packed RBC, fresh frozen plasma, platelet, cryoprecipitate, and clotting factors) received by the subject</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Timing of all fluids and blood products received by the subject</measure>
+    <time_frame>At time of ED arrival through 48 hours after study drug administration</time_frame>
+    <description>Timing of all fluids and blood products (including red blood cells (RBC), packed RBC, fresh frozen plasma, platelet, cryoprecipitate, and clotting factors) received by the subject</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Acute Physiology and Chronic Health Evaluation II (APACHE II) score</measure>
+    <time_frame>Daily through day of hospital discharge or Day 7, whichever comes first</time_frame>
+    <description>APACHE II score (minimum score = 0; maximum score = 71) as an assessment of disease severity. Higher score is associated with worst outcome</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Intensive care unit (ICU) and/or stepdown unit (SDU) stay</measure>
+    <time_frame>Through Day 7 after study drug administration</time_frame>
+    <description>Length of time the subject remained in the ICU and/or SDU</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Hospital stay</measure>
+    <time_frame>Through Day 7 after study drug administration</time_frame>
+    <description>Length of time the subject remained hospitalized</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Renal replacement therapy (RRT)</measure>
+    <time_frame>Through Day 7 after study drug administration</time_frame>
+    <description>Incidence of RRT the subject required after study drug administration</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Alive and ventilator free days (aVFD)</measure>
+    <time_frame>Through Day 7 after study drug administration</time_frame>
+    <description>Number of days that the subject was alive and ventilator free</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Through Day 7 after study drug administration</time_frame>
+    <description>Number of subjects who died</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Myocardial injury</measure>
+    <time_frame>At 1 hour, 12 hours, 24 hours, 36 hours, and 48 hours after study drug administration, and then daily through day of hospital discharge or Day 7, whichever comes first</time_frame>
+    <description>Number of subjects with myocardial injury defined by troponin I level greater than 0.04 nanogram/milliliter</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>After study drug administration through Day 7</time_frame>
+    <description>Incidence of TEAEs</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse events of special interest (AESIs)</measure>
+    <time_frame>After study drug administration through Day 7</time_frame>
+    <description>Incidence of AESIs after a single infusion of VPA</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Serious adverse events (SAEs)</measure>
+    <time_frame>After study drug administration through Day 7</time_frame>
+    <description>Incidence of SAEs</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Deaths</measure>
+    <time_frame>After study drug administration through Day 7</time_frame>
+    <description>Incidence of deaths</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Acute Kidney Injury</condition>
+  <condition>Ischemia Reperfusion Injury</condition>
+  <arm_group>
+    <arm_group_label>VPA plus SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single dose of 140 mg/kg of VPA plus standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo plus SOC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>A single dose of isotonic saline solution plus standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Valproic Acid Solution</intervention_name>
+    <description>Valproate sodium in 5-ml single-dose vials containing 100 mg/ml of VPA. The appropriate dose of 140 mg/kg, based on the subject's weight at study entry, will be diluted in isotonic saline solution to a final volume of 300 ml for administration</description>
+    <arm_group_label>VPA plus SOC</arm_group_label>
+    <other_name>valproate sodium</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Isotonic saline solution</intervention_name>
+    <description>Isotonic saline solution consisting of 0.9% sodium chloride in the volume of 300 ml for administration</description>
+    <arm_group_label>Placebo plus SOC</arm_group_label>
+    <other_name>saline solution</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Is aged 18 to 80 years old;&#xD;
+&#xD;
+          -  Is male or non-pregnant, non-breastfeeding female;&#xD;
+&#xD;
+          -  Is able to provide written informed consent or has an LAR from whom consent can be&#xD;
+             obtained;&#xD;
+&#xD;
+          -  Body mass index (BMI) is between 18 kg/m2 and 35 kg/m2;&#xD;
+&#xD;
+          -  Injuries or underlying medical problems are considered likely survivable by the&#xD;
+             attending trauma physician on initial evaluation; and&#xD;
+&#xD;
+          -  Experienced blunt or penetrating trauma that resulted in bleeding with at least two&#xD;
+             systolic blood pressure (SBP) readings ≤100 mmHg at any point during transport to the&#xD;
+             ED or during the Screening period. SBP readings of ≤100 mmHg need not be consecutive.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has a known history of adverse reaction to VPA;&#xD;
+&#xD;
+          -  Is currently receiving VPA;&#xD;
+&#xD;
+          -  Is pregnant or breastfeeding;&#xD;
+&#xD;
+          -  Has inadequate venous access;&#xD;
+&#xD;
+          -  Is in need of a kidney transplant, or currently on RRT for either AKI or hepato-renal&#xD;
+             syndrome, type I (HRS-I);&#xD;
+&#xD;
+          -  Is known to have mitochondrial disorders caused by polymerase γ (POLG) mutations;&#xD;
+&#xD;
+          -  Is currently incarcerated or pending incarceration;&#xD;
+&#xD;
+          -  Is being transferred/transported from a referring facility and 1) spent more than 1&#xD;
+             hour at the referring facility or 2) received any surgical or I/R procedure for&#xD;
+             hemorrhage control. (Blood transfusions and minor ED procedures, i.e., tourniquet&#xD;
+             placement, chest tube placement, etc. are not exclusionary);&#xD;
+&#xD;
+          -  Has a known history of hepatic dysfunction (defined as Model for End-Stage Liver&#xD;
+             Disease (MELD) score &gt;15), pancreatitis (recurrent, recent, or severe), or renal&#xD;
+             insufficiency (defined as SCr result &gt;2.0 mg/dl);&#xD;
+&#xD;
+          -  Has non-survivable injuries based on the judgement of the attending trauma physician&#xD;
+             (e.g., pre-hospital cardiac arrest);&#xD;
+&#xD;
+          -  Has non-hemorrhagic etiologies of shock (e.g., neurogenic, cardiogenic, septic,&#xD;
+             drowning, hanging, etc.);&#xD;
+&#xD;
+          -  Has second or third degree burns of any size or location;&#xD;
+&#xD;
+          -  Has severe trauma brain injury (TBI) defined as a positive head computed tomography&#xD;
+             (CT) scan and a score of less than eight on the Glasgow Coma Scale (GCS); or&#xD;
+&#xD;
+          -  Has other unspecified reason/condition that, in the opinion of the clinical site PI,&#xD;
+             make the patient unsuitable for enrollment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cristina Rabadan-Diehl, PharmD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Westat</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nancy Liu</last_name>
+    <phone>718-980-3937</phone>
+    <email>nancyliu@westat.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Megan Meyer</last_name>
+    <phone>301-610-5147</phone>
+    <email>meganmeyer@westat.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Maryland - Baltimore</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas Scalea, MD</last_name>
+      <email>TScalea@umm.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rosemary Kozar, MD</last_name>
+      <email>RKozar@som.umaryland.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eileen Bulger, MD</last_name>
+      <email>EBulger@u.washington.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Bihorac A, Delano MJ, Schold JD, Lopez MC, Nathens AB, Maier RV, Layon AJ, Baker HV, Moldawer LL. Incidence, clinical predictors, genomics, and outcome of acute kidney injury among trauma patients. Ann Surg. 2010 Jul;252(1):158-65. doi: 10.1097/SLA.0b013e3181deb6bc.</citation>
+    <PMID>20562612</PMID>
+  </reference>
+  <reference>
+    <citation>Chateauvieux S, Morceau F, Dicato M, Diederich M. Molecular and therapeutic potential and toxicity of valproic acid. J Biomed Biotechnol. 2010;2010. pii: 479364. doi: 10.1155/2010/479364. Epub 2010 Jul 29. Review.</citation>
+    <PMID>20798865</PMID>
+  </reference>
+  <reference>
+    <citation>Costantini TW, Fraga G, Fortlage D, Wynn S, Fraga A, Lee J, Doucet J, Bansal V, Coimbra R. Redefining renal dysfunction in trauma: implementation of the Acute Kidney Injury Network staging system. J Trauma. 2009 Aug;67(2):283-7; discussion 287-8. doi: 10.1097/TA.0b013e3181a51a51.</citation>
+    <PMID>19667880</PMID>
+  </reference>
+  <reference>
+    <citation>Georgoff PE, Nikolian VC, Bonham T, Pai MP, Tafatia C, Halaweish I, To K, Watcharotone K, Parameswaran A, Luo R, Sun D, Alam HB. Safety and Tolerability of Intravenous Valproic Acid in Healthy Subjects: A Phase I Dose-Escalation Trial. Clin Pharmacokinet. 2018 Feb;57(2):209-219. doi: 10.1007/s40262-017-0553-1.</citation>
+    <PMID>28497259</PMID>
+  </reference>
+  <reference>
+    <citation>Heegard KD, Stewart IJ, Cap AP, Sosnov JA, Kwan HK, Glass KR, Morrow BD, Latack W, Henderson AT, Saenz KK, Siew ED, Ikizler TA, Chung KK. Early acute kidney injury in military casualties. J Trauma Acute Care Surg. 2015 May;78(5):988-93. doi: 10.1097/TA.0000000000000607.</citation>
+    <PMID>25909420</PMID>
+  </reference>
+  <reference>
+    <citation>Li Y, Alam HB. Creating a pro-survival and anti-inflammatory phenotype by modulation of acetylation in models of hemorrhagic and septic shock. Adv Exp Med Biol. 2012;710:107-33. doi: 10.1007/978-1-4419-5638-5_11.</citation>
+    <PMID>22127890</PMID>
+  </reference>
+  <reference>
+    <citation>Wu MY, Yiang GT, Liao WT, Tsai AP, Cheng YL, Cheng PW, Li CY, Li CJ. Current Mechanistic Concepts in Ischemia and Reperfusion Injury. Cell Physiol Biochem. 2018;46(4):1650-1667. doi: 10.1159/000489241. Epub 2018 Apr 20. Review.</citation>
+    <PMID>29694958</PMID>
+  </reference>
+  <reference>
+    <citation>Zheng Q, Liu W, Liu Z, Zhao H, Han X, Zhao M. Valproic acid protects septic mice from renal injury by reducing the inflammatory response. J Surg Res. 2014 Nov;192(1):163-9. doi: 10.1016/j.jss.2014.05.030. Epub 2014 May 20.</citation>
+    <PMID>24948542</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>February 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>valproic acid</keyword>
+  <keyword>acute kidney injury</keyword>
+  <keyword>ischemia reperfusion injury</keyword>
+  <keyword>hemorrhage</keyword>
+  <keyword>trauma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Kidney Injury</mesh_term>
+    <mesh_term>Reperfusion Injury</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Valproic Acid</mesh_term>
+    <mesh_term>Pharmaceutical Solutions</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,301 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00469196</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LU-11-0077 / 22933</org_study_id>
+    <nct_id>NCT00469196</nct_id>
+  </id_info>
+  <brief_title>Tomotherapy Treatment for Mesothelioma</brief_title>
+  <official_title>Tomotherapy Treatment for Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AHS Cancer Control Alberta</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AHS Cancer Control Alberta</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Mesothelioma is an incurable cancer involving the lining of the lung. Patients usually suffer&#xD;
+      progressive symptoms of shortness of breath and chest pain, until they ultimately succumb to&#xD;
+      the disease. While a very small number of patients qualify for aggressive treatment with&#xD;
+      surgery, chemotherapy and radiation, and enjoy long-term survival, the vast majority of&#xD;
+      patients have incurable disease. The treatment options currently available, including&#xD;
+      chemotherapy and radiation treatment, are only modestly effective at alleviating symptoms and&#xD;
+      improving life expectancy. This trial explores the use of new radiation technology&#xD;
+      (tomotherapy), to treat mesothelioma more aggressively than has been possible before.&#xD;
+      Tomotherapy's ability to treat unusual shaped tumours, particularly when they are wrapped&#xD;
+      around sensitive normal tissues (the lung), enable higher doses of radiation to be used and&#xD;
+      this may improve its effectiveness. We will treat 17 patients with tomotherapy and assess the&#xD;
+      breathing, symptoms, and quality of life of the patients before and after treatment&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background&#xD;
+&#xD;
+      Malignant mesothelioma of the pleura is one of the most challenging diseases to treat in&#xD;
+      oncology. It is often associated with previous exposure to asbestos many years in the past&#xD;
+      with the mean latency period between asbestos exposure and the development of mesothelioma&#xD;
+      being approximately 48 years. The disease most commonly presents in the fifth to seventh&#xD;
+      decade of life, and the natural history is one of relentless progression and eventual death&#xD;
+      in nearly all patients. It can metastasize to regional nodes and/or distant sites, but most&#xD;
+      of the morbidity and mortality comes from local disease in the chest, causing progressive&#xD;
+      constriction, and death from pulmonary insufficiency or infection. Common clinical&#xD;
+      manifestations can include pleural effusions, superior vena cava obstruction, dysphagia, and&#xD;
+      laryngeal nerve palsy. Median survival rates are generally less than one year from the time&#xD;
+      of diagnosis, although there may be a small subset of patients with more indolent disease&#xD;
+      that have longer survival durations. Patients generally suffer from significant symptoms over&#xD;
+      the course of their illness, particularly progressive dyspnea and chest pain.&#xD;
+&#xD;
+      Treatment options with mesothelioma&#xD;
+&#xD;
+      The treatment of mesothelioma has been characterized by disappointment. The only form of&#xD;
+      &quot;curative&quot; treatment that has been attempted is a combination of surgery (extrapleural&#xD;
+      pneumonectomy), chemotherapy, and radiation treatment to the hemithorax. This was described&#xD;
+      by Sugerbaker, who reported 5-year survival rates of 22% of 120 patients treated.&#xD;
+      Unfortunately, this approach is only possible for early stage disease (clinical stage I with&#xD;
+      no nodal involvement) in the absence of comorbid medical illness, and the vast majority of&#xD;
+      patients present with disease too advanced to consider this approach.&#xD;
+&#xD;
+      Role of radiotherapy in malignant mesothelioma:&#xD;
+&#xD;
+      Radiation therapy has been used with both radical and palliative intent. Radical treatment&#xD;
+      with tumoricidal doses is difficult to achieve with conventional treatment machines due to&#xD;
+      the dose limitations of normal tissues. The liver, heart, stomach, and normal lung tissue is&#xD;
+      routinely encompassed within the planning target volumes and all of these tissues have&#xD;
+      tolerances below the doses necessary to control disease. Curative (adjuvant) treatment has&#xD;
+      also been given after extrapleural pneumonectomy, which does not have the problem of&#xD;
+      underlying lung to deal with, but the other nearby normal structures are still difficult to&#xD;
+      avoid.&#xD;
+&#xD;
+      A main component of the problem in both curative and adjuvant radiotherapy is the presence of&#xD;
+      chest wall and diaphragm motion during radiotherapy. Breathing motion affects the chest wall&#xD;
+      and diaphragm primarily, two of the principal targets in mesothelioma. Maneuvers such as&#xD;
+      breath holding and respiratory gating, which have shown limited success in lung cancer&#xD;
+      radiotherapy, are more difficult in mesothelioma due to the presence of significant dyspnea&#xD;
+      and pain in a majority of patients. Clearly any attempt to treat the thoracic pleura with&#xD;
+      high-dose radiotherapy must either limit or at least account for this organ motion.&#xD;
+&#xD;
+      The published results from treating mesothelioma with primary radiotherapy have been&#xD;
+      suboptimal. High dose treatment to the hemithorax using conventional linear accelerators has&#xD;
+      typically resulted in complete loss of function of the underlying lung, with no survival&#xD;
+      benefit over palliative radiotherapy or no treatment. However, studies have suggested that&#xD;
+      specific symptoms can be effectively palliated with focused radiation treatment. Gordon et al&#xD;
+      reviewed 29 courses of palliative radiotherapy in 19 patients, with varying&#xD;
+      dose/fractionation schedules. Overall 11/29 treatment courses resulted in complete,&#xD;
+      &quot;substantial&quot;, or partial relief of symptoms. Furthermore, palliation of symptoms strongly&#xD;
+      correlated with doses over 40 Gy, suggesting a dose-response relationship. Other&#xD;
+      investigators have shown effective palliation with lower doses. Davis et al treated patients&#xD;
+      with 20-30 Gy in 4-10 fractions, with response rates of 60-68%. De Graaf-Strukowska showed&#xD;
+      50% pain response rates in patients treated to a mean dose of 36 Gy at a minimum of 4 Gy per&#xD;
+      fraction.&#xD;
+&#xD;
+      These studies suggest that although radiation is an effective treatment modality against&#xD;
+      mesothelioma, the technical difficulties in treating the pleural space effectively limit the&#xD;
+      risk-benefit ratio.&#xD;
+&#xD;
+      Helical tomotherapy as a technique to treat mesothelioma&#xD;
+&#xD;
+      Tomotherapy is a relatively new technology which delivers intensity modulated radiation in a&#xD;
+      helical fashion, much like a spiral CT scan. Because treatment is given from all angles&#xD;
+      around a patient, the resulting dose distributions are highly conformal and effectively&#xD;
+      reduce nearby normal tissues. Mesothelioma was identified early in tomotherapy's development&#xD;
+      as an ideal site for this technology, since the target volume is extremely difficult to treat&#xD;
+      using conventional techniques but well suited to the tangential beams of tomotherapy. A test&#xD;
+      plan using tomotherapy to &quot;treat&quot; a sample patient resulted in excellent dose coverage of the&#xD;
+      pleural disease with acceptable dose delivered to the ipsilateral and contralateral lungs&#xD;
+      [unpublished data]. Nevertheless, these test plans were designed on static systems in the&#xD;
+      absence of respiratory motion, so the feasibility of treatment on breathing patients remains&#xD;
+      unproven. Tomotherapy is currently in routine clinical and research use in several centres&#xD;
+      across North America, including the Cross Cancer Institute where it was commissioned in 2003.&#xD;
+&#xD;
+      Study Objectives&#xD;
+&#xD;
+      Primary Endpoint&#xD;
+&#xD;
+      The primary endpoint is disease-specific symptom control rate post-treatment, based on&#xD;
+      Palliation Index [Gordon 1982].&#xD;
+&#xD;
+      Secondary Endpoints&#xD;
+&#xD;
+      Overall survival Radiographic response rate at 3 months post-treatment Quality of life scores&#xD;
+      (QLQ-L30) at 1-, 3- and 6-months post-treatment Acute and subacute toxicity of treatment&#xD;
+      Feasibility of using cine-MR, using 3T-MRI, to define target volumes in mesothelioma&#xD;
+      Performance status at 1-, 3- and 6-months post-treatment Pulmonary function test results at&#xD;
+      1-, 3- and 6-months post-treatment&#xD;
+&#xD;
+      Study Design&#xD;
+&#xD;
+      Description of the study&#xD;
+&#xD;
+      This is a single institution single-arm phase II study, assessing the efficacy of&#xD;
+      tomotherapy-delivered radiation in patients with symptomatic mesothelioma. Patients are&#xD;
+      treated with radiation alone (no concurrent chemotherapy), and assessed for symptoms and&#xD;
+      performance status post-therapy.&#xD;
+&#xD;
+      Duration of study&#xD;
+&#xD;
+      Based on our statistical analysis (see below), we will require 14 analyzable patients. With a&#xD;
+      potential drop-out rate of 20%, we will accrue 17 patients in total. Assuming a possible&#xD;
+      accrual rate of one patient every 1-2 months, it may take 24-34 months to complete the&#xD;
+      accrual process.&#xD;
+&#xD;
+      Selection of Patients&#xD;
+&#xD;
+      Eligibility Criteria&#xD;
+&#xD;
+      Histologic diagnosis of pleural mesothelioma Age&gt;18 Life expectancy &gt; 4 months Able to&#xD;
+      breathe comfortably in a supine position for periods of approximately 20 minutes (with or&#xD;
+      without supplemental O2) Has denied treatment with pemetrexed chemotherapy, or has evidence&#xD;
+      of progressive or refractory disease on treatment with pemetrexed.&#xD;
+&#xD;
+      Not eligible or has declined aggressive multimodality (surgical) management for early-stage&#xD;
+      disease Signed informed consent CT scan of chest performed within 6 weeks of study entry&#xD;
+&#xD;
+      Ineligibility Criteria&#xD;
+&#xD;
+      Any contraindications to thoracic radiotherapy In the judgment of the treating physician,&#xD;
+      inadequate pulmonary reserve to tolerate the proposed radiotherapy.&#xD;
+&#xD;
+      Unable to perform shallow breathing in a manner to make tomotherapy delivery possible&#xD;
+      Presence of symptomatic distant metastatic disease&#xD;
+&#xD;
+      Pre-treatment imaging&#xD;
+&#xD;
+      Pre-simulation imaging is required as part of this study in order to quantify the extent of&#xD;
+      chest wall and diaphragm movement during the breathing cycle. Two approaches to this analysis&#xD;
+      are acceptable: MR imaging (using the 3T MRI in the CBIAR facility) or CT/fluoroscopy (using&#xD;
+      equipment in the radiation oncology department). The decision on which technique to use will&#xD;
+      depend on the status of the MRI equipment for breathing assessment at the time of patient&#xD;
+      accrual.&#xD;
+&#xD;
+      Patient follow-up and evaluations&#xD;
+&#xD;
+      Baseline 1- month 3-months 6-months History/physical a a a a PFTs a a a a PS a a a a&#xD;
+      Palliation index a a a a QOL a a a a CT chest a a Planning MR imaging a&#xD;
+&#xD;
+      Statistical considerations&#xD;
+&#xD;
+      The number of patients required is based on the estimated efficacy of the proposed treatment&#xD;
+      regimen and the desired level of statistical significance. The table below indicates the&#xD;
+      relationship between these factors and the number of patients required:&#xD;
+&#xD;
+      Response rate Required &quot;n&quot; P-value 0.05 59 0.048 0.10 29 0.047 0.15 19 0.046 0.20 14 0.044&#xD;
+      0.25 11 0.042 0.30 9 0.040&#xD;
+&#xD;
+      Based on the estimated response rate of the proposed treatment (ability to achieve some&#xD;
+      relief of symptoms), if &quot;n&quot; patients are treated then at least one patient will demonstrate a&#xD;
+      measurable response more than 95% of the time. In this study, an efficacy of 20% was chosen&#xD;
+      as a worst-case scenario, below which the treatment would likely not be offered for&#xD;
+      palliation. Therefore, 14 evaluable patients will be required to refute the null hypotheses&#xD;
+      of the treatment being ineffective.&#xD;
+&#xD;
+      If the true efficacy rate is higher, then the likelihood of a false negative result is lower,&#xD;
+      and an estimate of the true response rate can be learned.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2006</start_date>
+  <completion_date type="Actual">May 2015</completion_date>
+  <primary_completion_date type="Actual">May 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Quality of Life</measure>
+    <time_frame>6 months</time_frame>
+    <description>Disease-specific symptom control rate post-treatment, based on Palliation Index [7].</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Breathing Function</measure>
+    <time_frame>6 months</time_frame>
+    <description>Pulmonary function test results at 1, 3 and 6 months post treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival/Response Rate</measure>
+    <time_frame>6 months</time_frame>
+    <description>performance status at 1, 3 and 6 months post treatment; and overall survival</description>
+  </secondary_outcome>
+  <enrollment type="Actual">18</enrollment>
+  <condition>Mesothelioma</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Tomotherapy</intervention_name>
+    <description>40 Gy in 15 fractions, at one fraction per day. Dose will be prescribed to the 95% isodose line.</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  histologic mesothelioma&#xD;
+&#xD;
+          -  refused/ineligible for surgery or chemotherapy&#xD;
+&#xD;
+          -  life expectancy &gt;3 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  contraindications to thoracic radiotherapy&#xD;
+&#xD;
+          -  unable to lie flat for duration of radiation therapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rufus Scrimger, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>AHS Cancer Control Alberta</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T5N 2R8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>March 2016</verification_date>
+  <study_first_submitted>May 2, 2007</study_first_submitted>
+  <study_first_submitted_qc>May 2, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 4, 2007</study_first_posted>
+  <last_update_submitted>April 5, 2016</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 6, 2016</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>mesothelioma</keyword>
+  <keyword>tomotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mesothelioma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

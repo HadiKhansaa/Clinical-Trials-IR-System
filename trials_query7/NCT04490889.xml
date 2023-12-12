@@ -1,0 +1,223 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04490889</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CS/BVMĐ/20/11</org_study_id>
+    <nct_id>NCT04490889</nct_id>
+  </id_info>
+  <brief_title>Noninvasive Preimplantation Genetic Testing for Aneuploidy</brief_title>
+  <official_title>Noninvasive Preimplantation Genetic Testing for Aneuploidy Using Cell Free DNA on Spent Culture Media</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mỹ Đức Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>My Duc Phu Nhuan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mỹ Đức Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is conducted to evaluate the sensitivity and specificity of non-invasive&#xD;
+      preimplantation genetic testing for aneuploidy (NiPGT-A) using cell free DNA into spent&#xD;
+      culture medium (SCM).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Our study is a diagnostic study, recruit 218 biopsied blastocysts from couples undergoing&#xD;
+      intracytoplasmic sperm injection (ICSI) with Preimplantation genetic testing for aneuploidy&#xD;
+      (PGT-A) or Preimplantation genetic testing for structural rearrangements (PGT-SR) indication.&#xD;
+&#xD;
+      Oocyte retrieval, ICSI and embryo culture are performed by routine protocol.&#xD;
+&#xD;
+      On day 3, each embryo was washed and cultured in single droplets. TE biopsy was conducted and&#xD;
+      10μl SCM of biopsied embryos are collected on day 5 or day 6. Both sample types undergo&#xD;
+      whole-genome amplification (WGA) using Quanti Flour ONE dsDNA system and DNA analysis by&#xD;
+      next-generation sequencing (NGS) using NextSeq High output 150 cycles kit.&#xD;
+&#xD;
+      Comparison of NGS results from trophectoderm (TE) biopsy and SCM is done to identify the&#xD;
+      sensitivity and specificity of the test.&#xD;
+&#xD;
+      A sample size of 218 day 5/day 6 embryos will be needed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 15, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity of NiPGT-A</measure>
+    <time_frame>4 months after recruiting</time_frame>
+    <description>The ability to detect euploid embryo</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Specificity of NiPGT-A</measure>
+    <time_frame>4 months after recruiting</time_frame>
+    <description>The ability to detect aneuploid embryo</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Successful amplification rate</measure>
+    <time_frame>7 days after SCM collection</time_frame>
+    <description>Rate of SCM samples with DNA concentration after WGA greater than or equal 1ng/μl</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total concordance</measure>
+    <time_frame>14 days after SCM collection</time_frame>
+    <description>The match NGS results from TE biopsy and SCM for ploidy and sex</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive pregnancy rate</measure>
+    <time_frame>at 2 weeks after embryo transfer</time_frame>
+    <description>Rate of participants with serum human chorionic gonadotropin level greater than 25 mIU/mL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical pregnancy rate</measure>
+    <time_frame>5 weeks after embryo transfer</time_frame>
+    <description>Rate of participants with at least one gestational sac on ultrasound at 7 weeks' gestation with the detection of heart beat activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ongoing pregnancy rate</measure>
+    <time_frame>At 12 weeks' gestation</time_frame>
+    <description>Rate of participants with detectable heart at 12 weeks' gestation or beyond, after the completion of the first transfer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Implantation rate</measure>
+    <time_frame>3 weeks after embryo transfer</time_frame>
+    <description>as the number of gestational sacs per number of embryos transferred</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">218</enrollment>
+  <condition>Preimplantation Genetic Testing (PGT)</condition>
+  <condition>ICSI</condition>
+  <arm_group>
+    <arm_group_label>Patients with PGT indication</arm_group_label>
+    <description>Patients undergo in vitro fertilization with PGT-A or for PGT-SR indication</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>NiPGT-A</intervention_name>
+    <description>NiPGT-A is the technique to screen the aneuploidy status of an embryo without invasion technique, such as biopsy. We use SCM to isolate cfDNA, then amplify and analyse the aneuploidy of embryo secreting this material using NGS technique.</description>
+    <arm_group_label>Patients with PGT indication</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      TE biopsy of blastocyst and cfDNA into spent culture media.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients undergo in vitro fertilization.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Assisted Reproductive Treatment with ICSI indication&#xD;
+&#xD;
+          -  Having PGT-A or PGT-SR indication&#xD;
+&#xD;
+          -  Having an agreement to be enrolled into NiPGT-A study&#xD;
+&#xD;
+          -  Having blastocyst to biopsy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  In vitro maturation cycle&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lan N Vuong</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mỹ Đức Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dang V Vinh</last_name>
+    <phone>+840908225481</phone>
+    <email>bsvinh.dq@myduchospital.vn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Linh T Do</last_name>
+    <phone>+840774410490</phone>
+    <email>dtlinh@hyvonghospital.vn</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>My Duc Phu Nhuan Hospital</name>
+      <address>
+        <city>Ho Chi Minh City</city>
+        <state>Phu Nhuan</state>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Khang N Vu, MD</last_name>
+      <phone>0983813006</phone>
+      <email>bskhang.vn@myduchospital.vn</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>My Duc Hospital</name>
+      <address>
+        <city>Ho Chi Minh City</city>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vinh Q Dang, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Vietnam</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>September 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>NiPGT-A</keyword>
+  <keyword>Cell free DNA (cfDNA)</keyword>
+  <keyword>SCM</keyword>
+  <keyword>Sensitivity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aneuploidy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

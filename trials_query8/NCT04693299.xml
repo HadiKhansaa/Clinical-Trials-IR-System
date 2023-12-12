@@ -1,0 +1,194 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04693299</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REPREP</org_study_id>
+    <nct_id>NCT04693299</nct_id>
+  </id_info>
+  <brief_title>Factors Related to a Persistent Inadequate Bowel Preparation for Colonoscopy</brief_title>
+  <acronym>REPREP</acronym>
+  <official_title>Factors Related to a Persistent Inadequate Bowel Preparation After a Colonoscopy With Inadequate Colon Cleansing. An Observational Prospective Multicenter Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IRCCS Azienda Ospedaliero-Universitaria di Bologna</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>IRCCS Azienda Ospedaliero-Universitaria di Bologna</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Adequate bowel preparation for colonoscopy has an extremely relevant impact on diagnostic&#xD;
+      yield and procedural success. The guidelines recommend an adequate colon cleansing rate of at&#xD;
+      least 90% of procedures. It has been shown that patients with inadequate colon cleansing&#xD;
+      history have a high probability of not reaching an adequate bowel preparation again.&#xD;
+&#xD;
+      Surprisingly, no evidence-based recommendations are available regarding bowel preparation in&#xD;
+      the patient with inadequate colon cleansing history. Therefore, identifying the factors&#xD;
+      associated with repeated inadequacy of bowel cleansing is crucial in order to define the best&#xD;
+      preparation strategy in this subset of patients. The implications for patients and for&#xD;
+      healthcare system are many: improving the quality of bowel preparation would reduce the need&#xD;
+      to repeat colonoscopy and the risk of conducting unreliable examinations. Furthermore, it&#xD;
+      would reduce the costs for the healthcare system by avoiding to overload endoscopic units.&#xD;
+&#xD;
+      Inclusion criteria:&#xD;
+&#xD;
+      Outpatient and hospitalized patients, adults, candidates for colonoscopy for any pathology,&#xD;
+      as part of the normal care process, with the need to repeat bowel preparation due to&#xD;
+      inadequate cleansing.&#xD;
+&#xD;
+      Exclusion criteria:&#xD;
+&#xD;
+        -  Emergency regime&#xD;
+&#xD;
+        -  Inability to obtain consent&#xD;
+&#xD;
+        -  Refusal of the patient&#xD;
+&#xD;
+      Primary end-point:&#xD;
+&#xD;
+      Identification of factors independently associated with repeated inadequate colon cleansing&#xD;
+      after inadequate bowel preparation at previous colonoscopy, and consequent development (and&#xD;
+      validation) of a predictive model.&#xD;
+&#xD;
+      The colon cleansing will be evaluated according to the Boston Bowel Preparation Scale (BBPS),&#xD;
+      which assigns a score from 0 (presence of solid stools) to 3 (excellent visualization of the&#xD;
+      colonic mucosa) for each of the three main segments of the colon, i.e. right colon,&#xD;
+      transverse colon and left-rectum colon. Colon cleansing will be judged inadequate in case of&#xD;
+      a total score &lt;6 or a score &lt;2 even in only one of the colic segments.&#xD;
+&#xD;
+      Secondary end-point:&#xD;
+&#xD;
+      • Assess the prevalence of repeated inadequate bowel cleansing in the patient with previous&#xD;
+      inadequate cleansing&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Identification of factors related to persistent inadequate colon cleansing at repeat colonoscopy due to inadequate colon cleansing.</measure>
+    <time_frame>Outcome will be assessed during colonoscopy.</time_frame>
+    <description>A logistic regression analysis will be run to identify such factors.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of persistent inadequate colon cleansing at repeat colonoscopy due to inadequate colon cleansing.</measure>
+    <time_frame>Outcome will be assessed during colonoscopy.</time_frame>
+    <description>The prevalence of inadequate colon cleansing at repeat colonoscopy will be assessed</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">407</enrollment>
+  <condition>Colonic Disease</condition>
+  <arm_group>
+    <arm_group_label>Study cohort</arm_group_label>
+    <description>Inclusion criteria:&#xD;
+Outpatient and hospitalized patients, adults, candidates for colonoscopy for any pathology, as part of the normal care process, with the need to repeat bowel preparation due to inadequate cleansing.&#xD;
+Exclusion criteria:&#xD;
+Emergency regime&#xD;
+Inability to obtain consent&#xD;
+Refusal of the patient</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>colonoscopy</intervention_name>
+    <description>A colonoscopy scheduled within the normal pathway of care will be performed. No interventions will be performed.</description>
+    <arm_group_label>Study cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Outpatient and hospitalized adult patients, candidates for colonoscopy for any pathology,&#xD;
+        in the normal pathway of care, with the need to repeat the bowel preparation due to&#xD;
+        inadequate colon cleansing.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Outpatients or hospitalized patients&#xD;
+&#xD;
+          -  adults&#xD;
+&#xD;
+          -  candidates for colonoscopy for any pathology, in the normal pathway of care, with the&#xD;
+             need to repeat the bowel preparation due to inadequate colon cleansing.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Emergency regimen&#xD;
+&#xD;
+          -  Inability to obtain consent&#xD;
+&#xD;
+          -  Patient refusal&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lorenzo Fuccio, MD</last_name>
+    <phone>+39 3383079255</phone>
+    <email>lorenzofuccio@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UOC Gastroenterologia ed Endoscopia Digestiva</name>
+      <address>
+        <city>Bologna</city>
+        <state>BO</state>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lorenzo Fuccio, MD</last_name>
+      <phone>+39 3383079255</phone>
+      <email>lorenzofuccio@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 5, 2021</study_first_posted>
+  <last_update_submitted>December 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>IRCCS Azienda Ospedaliero-Universitaria di Bologna</investigator_affiliation>
+    <investigator_full_name>Lorenzo Fuccio</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colonic Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

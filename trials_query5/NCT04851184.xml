@@ -1,0 +1,378 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04851184</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCR180548</org_study_id>
+    <nct_id>NCT04851184</nct_id>
+  </id_info>
+  <brief_title>Dose of Vestibular Rehabilitation for Vestibular Hypofunction</brief_title>
+  <acronym>VRVR</acronym>
+  <official_title>Dose of Vestibular Rehabilitation Required for Clinical Improvements in Individuals With Vestibular Hypofunction.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>George Washington University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>George Washington University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purposes of this research are to 1) utilize virtual reality (VR) to evaluate the exercise&#xD;
+      dose required to improve symptoms in those with vestibular (dizziness) disorders, 2) compare&#xD;
+      VR vestibular exercises to standard exercises, and 3) compare exercise performance outcomes&#xD;
+      to healthy controls without vestibular disorders. Even though more than 35% of those over 40,&#xD;
+      and ~50% of those who have had concussion have such symptoms, the dose of specific exercises&#xD;
+      targeted to improve symptoms is not well defined. In this study, the investigators will use a&#xD;
+      wireless VR device to measure key parameters and response to exercise. Another advantage of&#xD;
+      the VR device is the ability to control what the individual can see while performing the&#xD;
+      exercise. In normal daily life, moving objects and distracting backgrounds can make&#xD;
+      vestibular exercise too uncomfortable to perform. Using these methods, the investigators aim&#xD;
+      to determine the appropriate type and amount of exercise required for symptom improvement.&#xD;
+      This study will also compare the effectiveness of performing exercises in the virtual reality&#xD;
+      environment to standard physical therapy and to healthy persons without history of vestibular&#xD;
+      disorders. Three categories of vestibular disorders will be investigated with an instrumented&#xD;
+      and usual therapy group of 1) Unilateral hypofunction, 2) bilateral hypofunction, and 3)&#xD;
+      post-concussion.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Disorders of vestibular function are prevalent disorders that result in dizziness, decreased&#xD;
+      balance, and a 12-fold increased risk of falls.1 It has been determined that 20% of&#xD;
+      community-dwelling adults over the age of 60 report vestibular symptoms prompting a medical&#xD;
+      evaluation or intervention over a one year period.2 This equates to approximately $50.0&#xD;
+      billion in annual healthcare costs.3 In the US alone, there are approximately 1.6-3.8 million&#xD;
+      sport concussions each year,4,5 where 50% of concussed athletes have at least one vestibular&#xD;
+      type symptom.6 Although the impact of cost has been demonstrated in older adults, the costs&#xD;
+      of concussion-related dizziness is much more difficult to calculate due simultaneously&#xD;
+      treating symptoms from multiple systems.&#xD;
+&#xD;
+      A common treatment for symptoms related to disorders of vestibular function is vestibular&#xD;
+      rehabilitation, a sub-specialty of physical therapy. These exercises are performed daily by&#xD;
+      Subjects at home and consist of visually fixating on a target while moving the head and/or&#xD;
+      the object on which the subject is fixating. To alter exercise difficulty, exercise&#xD;
+      parameters are altered including: visual background complexity (plain and dark, busy but&#xD;
+      stationary, moving objects, rapidly moving objects), postural positioning (seated, standing&#xD;
+      with a wide base of support, standing with a narrow base of support, standing on one leg),&#xD;
+      and duration of exercise (from 5 seconds to approximately 2 minutes). Early evidence shows&#xD;
+      that vestibular rehabilitation exercises provided by a physical therapist is an effective&#xD;
+      method of ameliorating vestibular hypofunction. Further, effectiveness of vestibular&#xD;
+      rehabilitation does not decline with increasing age of the patient,8 indicating benefit for&#xD;
+      all ages that are affected. Unfortunately, many factors limit the ability to determine&#xD;
+      efficiency and efficacy of treatment and have been highlighted in a recent clinical practice&#xD;
+      guideline9 and systematic review5,10. Limitations include: poor measurement of prescribed&#xD;
+      exercise compliance by depending on subjective report, inability to control for environmental&#xD;
+      factors during home program execution, and the influence of noxious vestibular input&#xD;
+      associated with traveling to attend scheduled physical therapy visits. These factors hinder&#xD;
+      performing high quality efficacy studies, resulting in exercise prescription being largely&#xD;
+      based on expert opinion, the lowest level on the hierarchy of evidence-based practice.11 In&#xD;
+      fact, current opinion indicates that exercises should be performed 3 times a day for a total&#xD;
+      of 12 minutes with each bout lasting approximately 2 minutes, all with no clear indication of&#xD;
+      speed and amplitude of performance. In this study, the investigators aim to use a&#xD;
+      commercially available virtual reality device to deliver usual vestibular rehabilitation&#xD;
+      exercises, while using the device's inbuilt sensors to accurately measure head movement,&#xD;
+      speed and duration. Using this device, the investigators will assess compliance and dose of&#xD;
+      exercises required to reduce symptoms of dizziness and imbalance and to determine if&#xD;
+      performing such exercises in a virtual reality environment will provide similar results to&#xD;
+      that usual rehabilitation techniques.&#xD;
+&#xD;
+      When a potential subject is identified, the subject will be screened for appropriateness of&#xD;
+      inclusion for this study. After informed consent has been obtained from a recruited subject,&#xD;
+      those with Unilateral Vestibular Hypofunction (UVH) will be asked to perform a 4-week&#xD;
+      intervention, while those with Bilateral Vestibular Hypofunction (BVH) or those&#xD;
+      post-concussion will each be asked to perform a 12-week intervention. Those with UVH will&#xD;
+      undergo a shorter intervention due to strong evidence that neural adaptation occurs much more&#xD;
+      quickly (usually 4 weeks) than those with BVH and history of concussion.9,10,17-19 The&#xD;
+      intervention will consist of physical therapy visits combined with a home program of specific&#xD;
+      vestibular exercises. Each subject will be asked to attend physical therapy visits at least&#xD;
+      one time per week throughout the 4- or 12-week period.&#xD;
+&#xD;
+      Assessments will be performed on all groups and consist of a combination of vestibulo-ocular&#xD;
+      assessment, balance and clinical functional outcome measures, and surveys of subject&#xD;
+      satisfaction. Subjects are randomly assigned to the usual rehabilitation or intervention&#xD;
+      group based on each of the following diagnostic categories.&#xD;
+&#xD;
+      The compliance to exercises will be obtained from a log in the virtual reality device for the&#xD;
+      VR group, and will be paper based for the usual physical therapy group. Subjects in the three&#xD;
+      intervention groups will be asked to perform the same type of exercises as the usual&#xD;
+      rehabilitation group, but using a virtual reality device that will be issued to the patient&#xD;
+      for home use. Subjects will use a custom designed program to perform the exercises using a&#xD;
+      commercially available virtual reality device (no specialized hardware or additions to the&#xD;
+      commercially available device will be performed). Subjects will be instructed on the first&#xD;
+      day in how to operate the Virtual Reality Vestibular Rehabilitation (VRVR) program and how to&#xD;
+      properly perform the exercises. The VRVR device and software will simulate a virtual reality&#xD;
+      'room' with an 'X' fixed in front of a wall. There are six different background complexities.&#xD;
+      Exercise sessions will start seated upright in a chair and will progress to standing per the&#xD;
+      home exercise protocol. The system will prompt the patient to begin the exercise and will&#xD;
+      automatically log the frequency and duration of exercise performed. The system will ask the&#xD;
+      patient to rate the severity of their symptoms on a 0-10 scale before and after each bout of&#xD;
+      exercise. Subjects' instruction regarding initial dose and progression will be identical to&#xD;
+      those given in the usual rehabilitation group. Subjects will be asked to bring their device&#xD;
+      with them to their 4 week, 8 week, and 12 weeks appointment to transfer their de-identified&#xD;
+      data and to insure integrity of the data and device. Subjects will be asked to return the&#xD;
+      device at the end of the intervention period.&#xD;
+&#xD;
+      Per patient and therapist discretion, additional physical therapy visits may be scheduled to&#xD;
+      aid in patient understanding of exercise progression protocol, assess correct performance of&#xD;
+      exercise (with or without virtual reality device). Non-study related physical therapy visits&#xD;
+      may be scheduled between sessions in order to address impairments unrelated to&#xD;
+      vestibulo-ocular deficits. These may include interventions to address musculoskeletal&#xD;
+      deficits or other balance related impairments. Any additional sessions of physical therapy&#xD;
+      will be reported in order to determine possible confounding information.&#xD;
+&#xD;
+      There will be an additional group of healthy control subjects that will be tested for only&#xD;
+      one day. Healthy subjects will be recruited through flyers, approved email lists, and word of&#xD;
+      mouth in the general public. This healthy control group will perform the same tests as the&#xD;
+      other groups perform on Day 1. This group will be used to compare outcomes of usual&#xD;
+      rehabilitation and intervention groups, to the function of those without disorders of&#xD;
+      vestibular function.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 22, 2021</start_date>
+  <completion_date type="Anticipated">May 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Dizziness Handicap Inventory from baseline to end of treatment</measure>
+    <time_frame>from 0 to 12 weeks</time_frame>
+    <description>Self-Reported Outcome Measure Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Head Impulse Test from baseline to end of treatment</measure>
+    <time_frame>from 0 to 12 weeks</time_frame>
+    <description>Assessment of VOR-evoked gaze stability</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Visual Vertigo Analogue Scale from baseline to end of treatment</measure>
+    <time_frame>from 0 to 12 weeks</time_frame>
+    <description>The Visual Vertigo Analogue Scale is a patient reported outcome measure of symptoms related to visual motion sensitivity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Functional Gait Assessment from baseline to end of treatment</measure>
+    <time_frame>from 0 to 12 weeks</time_frame>
+    <description>The Functional Gait Assessment is a measure of gait stability under dynamically challenging tasks such as walking with head turns, walking around and over objects, and walking with changes in gait speed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in modified Clinical Test of Sensory Integration and Balance (mCTSIB) from baseline to end of treatment</measure>
+    <time_frame>from 0 to 12 weeks</time_frame>
+    <description>The mCTSIB is a measure of static balance during different sensory conditions (i.e. eyes open vs. eyes closed on firm and compliant surfaces</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">105</enrollment>
+  <condition>Vestibular Disorder</condition>
+  <arm_group>
+    <arm_group_label>Usual Vestibular Rehabilitation Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in this arm will perform typical PT in the clinic and home environment. They will be asked to keep a log to track their HEP.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Home Exercises Using Virtual Reality Device</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm will perform typical PT in the clinic, but will use the virtual reality device as part of their HEP.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Age-matched healthy control subjects will perform all balance, gait, vestibular, and patient reported outcome measure assessments, including performing 30 seconds of each level of gaze stability exercise for an active comparison to outcomes obtained to those with vestibular disorders.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Gaze stabilization Exercises using Virtual Reality Device</intervention_name>
+    <description>Participants will utilize a wireless virtual reality headset to perform their gaze stabilization exercises to better control the background and visual field as well as collect data related to speed, excursion, and duration of head movements.</description>
+    <arm_group_label>Home Exercises Using Virtual Reality Device</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Gaze stabilization non-instrumented</intervention_name>
+    <description>Participants will perform gaze stabilization exercises in a non-instrumented manner. Subjects are instructed to focus on a letter on a piece of paper held at arm's length. They are instructed to move their head back and forth as quickly as they can while keeping the letter in focus. The total duration of the exercise (from 10 - 240 seconds) and background complexity (simple to complex moving) are increased gradually according to patient symptoms.</description>
+    <arm_group_label>Usual Vestibular Rehabilitation Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Known or suspected vestibular dysfunction&#xD;
+&#xD;
+          -  Healthy volunteers without dizziness to serve as healthy control subjects&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous cerebrovacular accident (stroke)&#xD;
+&#xD;
+          -  Reported neurologic or oculuomotor disease&#xD;
+&#xD;
+          -  Taking of medications that affect the vestibular or oculomotor system.&#xD;
+&#xD;
+          -  Current symptoms of benign paroxysmal positional hypofunction&#xD;
+&#xD;
+          -  Concussion occuring less than 7 days prior to enrollment in this study&#xD;
+&#xD;
+          -  Currently pregnant, or plan to become pregnant during the timeline of the study&#xD;
+&#xD;
+          -  Chronic kidney disease&#xD;
+&#xD;
+          -  COPD&#xD;
+&#xD;
+          -  Known coronary artery disease or cardiomyopathy&#xD;
+&#xD;
+          -  immunocompromised state from a solid organ transplant&#xD;
+&#xD;
+          -  Severe Obesity as defined by BMI of greater than or equal to 40 kg/m2&#xD;
+&#xD;
+          -  Sickle cell disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Keith Cole, DPT, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The George Washington University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Keith Cole, DPT, PhD</last_name>
+    <phone>2029940423</phone>
+    <email>keithcole@gwu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Karen Goodman, DPT</last_name>
+    <phone>2029940705</phone>
+    <email>karengoodman@gwu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The George Washington University, Department of Health, Human Function and Rehabilitation Science</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keith Cole, DPT, Ph.D.</last_name>
+      <phone>202-994-0423</phone>
+      <email>keithcole@email.gwu.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Agrawal Y, Carey JP, Della Santina CC, Schubert MC, Minor LB. Disorders of balance and vestibular function in US adults: data from the National Health and Nutrition Examination Survey, 2001-2004. Arch Intern Med. 2009 May 25;169(10):938-44. doi: 10.1001/archinternmed.2009.66. Erratum in: Arch Intern Med. 2009 Aug 10;169(15):1419.</citation>
+    <PMID>19468085</PMID>
+  </reference>
+  <reference>
+    <citation>Sloane PD, Coeytaux RR, Beck RS, Dallara J. Dizziness: state of the science. Ann Intern Med. 2001 May 1;134(9 Pt 2):823-32. Review.</citation>
+    <PMID>11346317</PMID>
+  </reference>
+  <reference>
+    <citation>Florence CS, Bergen G, Atherly A, Burns E, Stevens J, Drake C. Medical Costs of Fatal and Nonfatal Falls in Older Adults. J Am Geriatr Soc. 2018 Apr;66(4):693-698. doi: 10.1111/jgs.15304. Epub 2018 Mar 7.</citation>
+    <PMID>29512120</PMID>
+  </reference>
+  <reference>
+    <citation>Murray DA, Meldrum D, Lennon O. Can vestibular rehabilitation exercises help patients with concussion? A systematic review of efficacy, prescription and progression patterns. Br J Sports Med. 2017 Mar;51(5):442-451. doi: 10.1136/bjsports-2016-096081. Epub 2016 Sep 21. Review.</citation>
+    <PMID>27655831</PMID>
+  </reference>
+  <reference>
+    <citation>Kontos AP, Elbin RJ, Schatz P, Covassin T, Henry L, Pardini J, Collins MW. A revised factor structure for the post-concussion symptom scale: baseline and postconcussion factors. Am J Sports Med. 2012 Oct;40(10):2375-84. Epub 2012 Aug 16.</citation>
+    <PMID>22904209</PMID>
+  </reference>
+  <reference>
+    <citation>Alghadir AH, Iqbal ZA, Whitney SL. An update on vestibular physical therapy. J Chin Med Assoc. 2013 Jan;76(1):1-8. doi: 10.1016/j.jcma.2012.09.003. Epub 2012 Dec 26. Review.</citation>
+    <PMID>23331774</PMID>
+  </reference>
+  <reference>
+    <citation>Whitney SL, Wrisley DM, Marchetti GF, Furman JM. The effect of age on vestibular rehabilitation outcomes. Laryngoscope. 2002 Oct;112(10):1785-90.</citation>
+    <PMID>12368616</PMID>
+  </reference>
+  <reference>
+    <citation>Hall CD, Herdman SJ, Whitney SL, Cass SP, Clendaniel RA, Fife TD, Furman JM, Getchius TS, Goebel JA, Shepard NT, Woodhouse SN. Vestibular Rehabilitation for Peripheral Vestibular Hypofunction: An Evidence-Based Clinical Practice Guideline: FROM THE AMERICAN PHYSICAL THERAPY ASSOCIATION NEUROLOGY SECTION. J Neurol Phys Ther. 2016 Apr;40(2):124-55. doi: 10.1097/NPT.0000000000000120.</citation>
+    <PMID>26913496</PMID>
+  </reference>
+  <reference>
+    <citation>McDonnell MN, Hillier SL. Vestibular rehabilitation for unilateral peripheral vestibular dysfunction. Cochrane Database Syst Rev. 2015 Jan 13;1:CD005397. doi: 10.1002/14651858.CD005397.pub4. Review.</citation>
+    <PMID>25581507</PMID>
+  </reference>
+  <reference>
+    <citation>Mantzoukas S. A review of evidence-based practice, nursing research and reflection: levelling the hierarchy. J Clin Nurs. 2008 Jan;17(2):214-23. Epub 2007 Apr 5. Review.</citation>
+    <PMID>17419779</PMID>
+  </reference>
+  <reference>
+    <citation>Cohen HS, Kimball KT. Increased independence and decreased vertigo after vestibular rehabilitation. Otolaryngol Head Neck Surg. 2003 Jan;128(1):60-70.</citation>
+    <PMID>12574761</PMID>
+  </reference>
+  <reference>
+    <citation>Bergeron M, Lortie CL, Guitton MJ. Use of Virtual Reality Tools for Vestibular Disorders Rehabilitation: A Comprehensive Analysis. Adv Med. 2015;2015:916735. doi: 10.1155/2015/916735. Epub 2015 Apr 30. Review.</citation>
+    <PMID>26556560</PMID>
+  </reference>
+  <reference>
+    <citation>Micarelli A, Viziano A, Augimeri I, Micarelli D, Alessandrini M. Three-dimensional head-mounted gaming task procedure maximizes effects of vestibular rehabilitation in unilateral vestibular hypofunction: a randomized controlled pilot trial. Int J Rehabil Res. 2017 Dec;40(4):325-332. doi: 10.1097/MRR.0000000000000244.</citation>
+    <PMID>28723718</PMID>
+  </reference>
+  <reference>
+    <citation>Rosiak O, Krajewski K, Woszczak M, Jozefowicz-Korczynska M. Evaluation of the effectiveness of a Virtual Reality-based exercise program for Unilateral Peripheral Vestibular Deficit. J Vestib Res. 2018;28(5-6):409-415. doi: 10.3233/VES-180647.</citation>
+    <PMID>30714985</PMID>
+  </reference>
+  <reference>
+    <citation>Alahmari KA, Sparto PJ, Marchetti GF, Redfern MS, Furman JM, Whitney SL. Comparison of virtual reality based therapy with customized vestibular physical therapy for the treatment of vestibular disorders. IEEE Trans Neural Syst Rehabil Eng. 2014 Mar;22(2):389-99. doi: 10.1109/TNSRE.2013.2294904.</citation>
+    <PMID>24608691</PMID>
+  </reference>
+  <reference>
+    <citation>Hillier SL, McDonnell M. Vestibular rehabilitation for unilateral peripheral vestibular dysfunction. Clin Otolaryngol. 2011 Jun;36(3):248-9. doi: 10.1111/j.1749-4486.2011.02309.x. Review.</citation>
+    <PMID>21752206</PMID>
+  </reference>
+  <reference>
+    <citation>Cohen HS, Gottshall KR, Graziano M, Malmstrom EM, Sharpe MH, Whitney SL; Barany Society Ad Hoc Committee on Vestibular Rehabilitation Therapy. International guidelines for education in vestibular rehabilitation therapy. J Vestib Res. 2011;21(5):243-50. doi: 10.3233/VES-2011-0424.</citation>
+    <PMID>22101295</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>April 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 20, 2021</study_first_posted>
+  <last_update_submitted>April 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>George Washington University</investigator_affiliation>
+    <investigator_full_name>Keith Cole</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>gaze stability</keyword>
+  <keyword>vestibular hypofunction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vestibular Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

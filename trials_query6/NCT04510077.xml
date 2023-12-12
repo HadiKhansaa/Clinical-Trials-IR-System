@@ -1,0 +1,207 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on April 27, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510077</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RG1001139</org_study_id>
+    <secondary_id>NCI-2020-05658</secondary_id>
+    <secondary_id>8287</secondary_id>
+    <nct_id>NCT04510077</nct_id>
+  </id_info>
+  <brief_title>SmartQuit Program for Smoking Cessation</brief_title>
+  <official_title>Study of SmartQuit, a Smartphone-Based Smoking Cessation Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fred Hutchinson Cancer Research Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Life Sciences Discovery Fund</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fred Hutchinson Cancer Research Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial investigates how well a smartphone-based smoking cessation program called&#xD;
+      SmartQuit works to help patients stop smoking. SmartQuit is an smartphone application-based&#xD;
+      smoking cessation program that includes a defined program consisting of interactive&#xD;
+      evidence-based exercises for dealing more effectively with urges to smoke, a place to track&#xD;
+      desired behaviors, personalized plans for quitting, and a certificate of completion once the&#xD;
+      recommended program components are completed. SmartQuit may help patients quit smoking, lower&#xD;
+      healthcare costs and reduce premature tobacco-related deaths.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OUTLINE:&#xD;
+&#xD;
+      Patients use the SmartQuit program to learn and practice skill modules as often as they wish&#xD;
+      over 6 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 22, 2014</start_date>
+  <completion_date type="Actual">August 11, 2015</completion_date>
+  <primary_completion_date type="Actual">May 31, 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with 7-day cigarette smoking cessation at 2 months.</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+    <description>No smoking at all in the past 7 or more days (7-day point prevalence quit rate).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>24-hour point prevalence quit rate</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in number of cigarettes smoked per day</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of intentional 24-hour quit attempts</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in readiness to quit</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+    <description>Differences in a participant's readiness to quit will be assessed by comparing their responses to the baseline survey readiness to quit questions with their responses to the 2 month follow-up survey</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nicotine dependence level</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+    <description>Participants will share their nicotine dependence level via survey at their 2 month follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of times logged into the application</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+    <description>Will be assessed via 2 month follow-up survey</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time spent on the application</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+    <description>Will be assessed via 2 month follow-up survey</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participant satisfaction with the application</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+    <description>Will be assessed via 2 month follow-up survey</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participant opinion of the usefulness of the application for quitting smoking</measure>
+    <time_frame>At 2 month follow-up</time_frame>
+    <description>Will be assessed via 2 month follow-up survey</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">99</enrollment>
+  <condition>Cigarette Smoking-Related Carcinoma</condition>
+  <condition>Tobacco-Related Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Prevention (SmartQuit)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients use the SmartQuit program to learn and practice skill modules as often as they wish over 6 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>SmartQuit Smoking and Tobacco Cessation Program</intervention_name>
+    <description>Use SmartQuit program</description>
+    <arm_group_label>Prevention (SmartQuit)</arm_group_label>
+    <other_name>2Morrow</other_name>
+    <other_name>SmartQuit</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Survey Administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Prevention (SmartQuit)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Smokes at least five cigarettes daily for at least past 12 months&#xD;
+&#xD;
+          -  Wants to quit in the next 30 days&#xD;
+&#xD;
+          -  Interested in learning skills to quit smoking&#xD;
+&#xD;
+          -  Resides in United States (US)&#xD;
+&#xD;
+          -  Has at least daily access to their own smartphone&#xD;
+&#xD;
+          -  Knows how to login and download a smartphone application from their smartphone&#xD;
+&#xD;
+          -  Willing and able to read in English&#xD;
+&#xD;
+          -  Not participating in other smoking cessation interventions (including our other&#xD;
+             intervention studies)&#xD;
+&#xD;
+          -  Must be an employee of a company who is participating in recruitment&#xD;
+&#xD;
+          -  Willing to complete one follow-up survey&#xD;
+&#xD;
+          -  Provide email, phone, and mailing address&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Bricker</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fred Hutch/University of Washington Cancer Consortium</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fred Hutch/University of Washington Cancer Consortium</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>August 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
