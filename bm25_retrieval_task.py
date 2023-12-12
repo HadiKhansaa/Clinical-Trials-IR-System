@@ -7,18 +7,6 @@ import json
 from compute_ndcg2 import computeNDCG
 from search_trials_bert import is_eligible_for_trial
 
-#fuction to find trial and load it
-def find_trial(trial_id):
-    PATH_TO_TRIALS = 'trials_query1'
-    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
-        if file[:-4] == trial_id:
-            with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
-                try:
-                    content = f.read()
-                except:
-                    continue
-                return content
-
 def extract_queries(file_path):
     tree = ET.parse(file_path)
     root = tree.getroot()
@@ -52,20 +40,39 @@ def combine_scores(i_scores, e_scores, d_scores, i_weight, e_weight, d_weight):
 
     return combined_scores
 
+#fuction to find trial and load it
+def find_trial(trial_id):
+    PATH_TO_TRIALS = 'trials_query10'
+    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
+        if file[:-4] == trial_id:
+            with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
+                try:
+                    content = f.read()
+                except:
+                    continue
+                return content
+            
+
 if __name__ == "__main__":
     # Extract queries
     extracted_queries = extract_queries("topics.xml")
 
-    with open("files_query1\\IC_bm25_index_SciSpacy_e.json", 'r') as file:
+    # with open("files_query10\\IC_bm25_index_SciSpacy_eis.json", 'r') as file:
+    #     i_index = json.load(file)
+    # with open("files_query10\\EC_bm25_index_SciSpacy_eis.json", 'r') as file:
+    #     e_index = json.load(file)
+    # with open("files_query10\\TSM_bm25_index_SciSpacy_eis.json", 'r') as file:
+    #     d_index = json.load(file)
+    with open("files_query10\\IC_bm25_index.json", 'r') as file:
         i_index = json.load(file)
-    with open("files_query1\\EC_bm25_index_SciSpacy_e.json", 'r') as file:
+    with open("files_query10\\EC_bm25_index.json", 'r') as file:
         e_index = json.load(file)
-    with open("files_query1\\TSM_bm25_index_SciSpacy_e.json", 'r') as file:
+    with open("files_query10\\TSM_bm25_index.json", 'r') as file:
         d_index = json.load(file)
     
     for i,query in enumerate(extracted_queries):
-        # if(i>0):
-        #     break
+        if(i>0):
+            break
         print(f"-------------------------------------------------------------------\nquery: {query}\n")
         query_terms = tokenize_and_stem(query)
         i_scores = retrieve_and_score(query_terms, i_index)
@@ -74,7 +81,7 @@ if __name__ == "__main__":
 
         # Combine scores with weights
         total_scores = combine_scores(i_scores, e_scores, d_scores, 0.33, 0.44, 0.23)
-        # sorted_scores = sorted(total_scores.items(), key=lambda x: x[1], reverse=True)
+        sorted_scores = sorted(total_scores.items(), key=lambda x: x[1], reverse=True)
         
         '''to filter trials based on age and gender'''
         final_scores = defaultdict(float)
@@ -82,15 +89,18 @@ if __name__ == "__main__":
             # Check if the trial is eligible for the topic
             if not is_eligible_for_trial(query, find_trial(trial_xml)):
                 # print(f"Trial {trial_id} is not eligible for topic {topic_id}")
-                trial_score-=0.005 #penalty
+                # trial_score-=0.005 #penalty
+                trial_score-=0.3 #penalty
+                # trial_score-=0.6 #penalty
+                # trial_score-=0.9 #penalty
             final_scores[trial_xml] = trial_score
 
         sorted_scores = sorted(final_scores.items(), key=lambda x: x[1], reverse=True)
         
 
         # Print combined scores for each document
-        # for doc, score in sorted_scores[:10]:
-        #     print(f"Document: {doc}, Score: {score}")
+        for doc, score in sorted_scores[:10]:
+            print(f"Document: {doc}, Score: {score}")
 
 
         json_file_path = 'relevance_feedback.json'
@@ -102,7 +112,7 @@ if __name__ == "__main__":
         document_ids = [doc for doc, _ in sorted_scores[:10]]
 
         # Create an array of relevance scores for the retrieved documents
-        relevance_array = [relevance_scores.get(f"1_{doc_id}", 0) for doc_id in document_ids]
+        relevance_array = [relevance_scores.get(f"10_{doc_id}", 0) for doc_id in document_ids]
 
         # compute ndcg
         print(relevance_array)

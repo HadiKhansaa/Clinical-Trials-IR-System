@@ -80,16 +80,16 @@ if __name__ == "__main__":
     # Extract queries
     extracted_queries = extract_queries("topics.xml")
 
-    with open("files_query3\\IC_tfidf_index_SciSpacy_eis.json", 'r') as file:
+    with open("files_query3\\IC_tfidf_index.json", 'r') as file:
         i_index = json.load(file)
-    with open("files_query3\\EC_tfidf_index_SciSpacy_eis.json", 'r') as file:
+    with open("files_query3\\EC_tfidf_index.json", 'r') as file:
         e_index = json.load(file)
-    with open("files_query3\\TSM_tfidf_index_SciSpacy_eis.json", 'r') as file:
+    with open("files_query3\\TSM_tfidf_index.json", 'r') as file:
         d_index = json.load(file)
     
     for i,query in enumerate(extracted_queries):
-        # if(i>0):
-        #     break
+        if(i>0):
+            break
         print(f"-------------------------------------------------------------------\nquery: {query}\n")
         # Tokenize and preprocess the query terms
         query_terms = query.lower().split()
@@ -104,17 +104,18 @@ if __name__ == "__main__":
         total_scores = combine_scores(i_scores, e_scores, d_scores, 0.33, 0.44, 0.23)
         sorted_scores = sorted(total_scores.items(), key=lambda x: x[1], reverse=True)
         
-        '''to filter trials based on age and gender
+        '''to filter trials based on age and gender'''
         final_scores = defaultdict(float)
         for trial_xml,trial_score in total_scores.items():
             # Check if the trial is eligible for the topic
             if not is_eligible_for_trial(query, find_trial(trial_xml)):
                 # print(f"Trial {trial_id} is not eligible for topic {topic_id}")
-                trial_score-=0.005 #penalty
+                trial_score-=0.1 #penalty
+                # trial_score-=0.9 #penalty
             final_scores[trial_xml] = trial_score
 
         sorted_scores = sorted(final_scores.items(), key=lambda x: x[1], reverse=True)
-        '''
+        
         # Print combined scores for each document
         for doc, score in sorted_scores[:10]:
             print(f"Document: {doc}, Score: {score}")

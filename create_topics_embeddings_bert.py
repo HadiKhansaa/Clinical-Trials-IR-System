@@ -17,14 +17,17 @@ def extract_topics_from_xml(xml_file_path):
 if __name__ == "__main__":
     # Extract topics from the XML file
     topics = extract_topics_from_xml('topics.xml')
-    # tokenizer = AutoTokenizer.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
-    # model = AutoModel.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-    model = BertModel.from_pretrained('bert-base-uncased')
+    tokenizer = AutoTokenizer.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
+    model = AutoModel.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
+    # tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    # model = BertModel.from_pretrained('bert-base-uncased')
+    # tokenizer = AutoTokenizer.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
+    # model = AutoModel.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
+
     # Generate embeddings for each topic
     topic_embeddings = create_bert_embeddings(topics, tokenizer, model)
 
     # Saving the topic embeddings to a JSON file
     topic_embeddings_json = {f"topic_{i+1}": emb for i, emb in enumerate(topic_embeddings)}
-    with open('files_query3\\topic_embeddings_Clinical.json', 'w') as f:
+    with open('files_query1\\topic_embeddings_Clinical.json', 'w') as f:
         json.dump(topic_embeddings_json, f)

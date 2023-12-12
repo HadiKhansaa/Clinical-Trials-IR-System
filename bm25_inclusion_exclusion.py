@@ -79,8 +79,7 @@ if __name__ == "__main__":
     title_desc_mesh = []
     doc_ids = []
 
-    # PATH_TO_TRIALS = 'C:\\Users\\Hp\\Documents\\CMPS M\\CMPS 365\\project\\trecs\\trials'
-    PATH_TO_TRIALS = 'trials_query1'
+    PATH_TO_TRIALS = 'trials_query8'
 
     # get documents with relevence feedback
     # with open('documents.json', 'r') as file:
@@ -100,11 +99,11 @@ if __name__ == "__main__":
                     # inclusion_criteria.append(' '.join(filter_medical_terms(inc)))
                     inclusion_criteria.append(inc)
                 if exc != '':
-                    # exclusion_criteria.append(exc)
-                    exclusion_criteria.append(' '.join(filter_medical_terms(exc)))
+                    exclusion_criteria.append(exc)
+                    # exclusion_criteria.append(' '.join(filter_medical_terms(exc)))
                 if tdm != '':
-                    # title_desc_mesh.append(tdm)
-                    title_desc_mesh.append(' '.join(filter_medical_terms(tdm)))
+                    title_desc_mesh.append(tdm)
+                    # title_desc_mesh.append(' '.join(filter_medical_terms(tdm)))
                 doc_ids.append(file[:-4])  # Assuming file names are the document IDs
                 print(f"Processed {i} files")  # Print progress
                 i += 1
@@ -120,9 +119,9 @@ if __name__ == "__main__":
     title_desc_mesh_index = create_inverted_index(tokenized_title_desc_mesh, doc_ids)
 
     # Save to JSON files
-    with open('files_query1\\IC_bm25_index_SciSpacy_eis.json', 'w') as f:
+    with open('files_query8\\IC_bm25_index_SciSpacy_eis.json', 'w') as f:
         json.dump(inclusion_index, f)
-    with open('files_query1\\EC_bm25_index_SciSpacy_eis.json', 'w') as f:
+    with open('files_query8\\EC_bm25_index_SciSpacy_eis.json', 'w') as f:
         json.dump(exclusion_index, f)
-    with open('files_query1\\TSM_bm25_index_SciSpacy_eis.json', 'w') as f:
+    with open('files_query8\\TSM_bm25_index_SciSpacy_eis.json', 'w') as f:
         json.dump(title_desc_mesh_index, f)

@@ -15,19 +15,6 @@ import spacy
 # Initialize stemmer
 stemmer = PorterStemmer()
 
-#fuction to find trial and load it
-def find_trial(trial_id):
-    PATH_TO_TRIALS = 'trials_query3'
-    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
-        if file[:-4] == trial_id:
-            with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
-                try:
-                    content = f.read()
-                except:
-                    continue
-                return content
-
-
 nlp = spacy.load("en_ner_bc5cdr_md")
 
 def filter_medical_terms(text):
@@ -81,7 +68,7 @@ if __name__ == "__main__":
     doc_ids = []
 
     # PATH_TO_TRIALS = 'trials/ClinicalTrials.2021-04-27.part1'
-    PATH_TO_TRIALS = 'trials_query3'
+    PATH_TO_TRIALS = 'trials_query10'
 
 
     i = 1
@@ -95,14 +82,14 @@ if __name__ == "__main__":
                     continue
                 inc, exc, tdm = extract_components(content)
                 if inc !='':
-                    # inclusion_criteria.append(inc)
-                    inclusion_criteria.append(' '.join(filter_medical_terms(inc)))
+                    inclusion_criteria.append(inc)
+                    # inclusion_criteria.append(' '.join(filter_medical_terms(inc)))
                 if exc != '':
-                    # exclusion_criteria.append(exc)
-                    exclusion_criteria.append(' '.join(filter_medical_terms(exc)))
+                    exclusion_criteria.append(exc)
+                    # exclusion_criteria.append(' '.join(filter_medical_terms(exc)))
                 if tdm != '':
-                    # title_desc_mesh.append(tdm)
-                    title_desc_mesh.append(' '.join(filter_medical_terms(tdm)))
+                    title_desc_mesh.append(tdm)
+                    # title_desc_mesh.append(' '.join(filter_medical_terms(tdm)))
                 doc_ids.append(file[:-4])  # Assuming file names are the document IDs
                 print(f"Processed {i} files")  # Print progress
                 i += 1
@@ -118,9 +105,9 @@ if __name__ == "__main__":
     title_desc_mesh_index = create_inverted_index(vectorizer_title_desc_mesh.get_feature_names_out(), tfidf_title_desc_mesh, doc_ids)
 
     # Save to JSON files
-    with open('files_query3\\IC_tfidf_index_SciSpacy_eis.json', 'w') as f:
+    with open('files_query10\\IC_tfidf_index.json', 'w') as f:
         json.dump(inclusion_index, f)
-    with open('files_query3\\EC_tfidf_index_SciSpacy_eis.json', 'w') as f:
+    with open('files_query10\\EC_tfidf_index.json', 'w') as f:
         json.dump(exclusion_index, f)
-    with open('files_query3\\TSM_tfidf_index_SciSpacy_eis.json', 'w') as f:
+    with open('files_query10\\TSM_tfidf_index.json', 'w') as f:
         json.dump(title_desc_mesh_index, f)

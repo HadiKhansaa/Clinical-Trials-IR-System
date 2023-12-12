@@ -64,7 +64,7 @@ def extract_trial_criteria(trial_xml):
 
 #fuction to find trial and load it
 def find_trial(trial_id):
-    PATH_TO_TRIALS = 'trials_query3'
+    PATH_TO_TRIALS = 'trials_query1'
     # for folder in os.listdir(PATH_TO_TRIALS):
         # for sub_folder in os.listdir(os.path.join(PATH_TO_TRIALS, folder)):
     for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
@@ -160,8 +160,12 @@ if __name__ == "__main__":
     with open(json_file_path, 'r') as file:
         relevance_scores = json.load(file)
 
-    topic_embeddingsClinical = load_embeddings('files_query3\\topic_embeddings_Clinical.json')
-    trial_embeddingsClinical = load_embeddings('files_query3\\trial_embeddings_Clinical_q3.json')
+    topic_embeddingsClinical = load_embeddings('files_query1\\topic_embeddings_Clinical.json')
+    trial_embeddingsClinical = load_embeddings('files_query1\\trial_embeddings_Clinical_q1.json')
+    # topic_embeddingsClinical = load_embeddings('files_query1\\topic_embeddings_BERT.json')
+    # trial_embeddingsClinical = load_embeddings('files_query1\\trial_embeddings_BERT_q1.json')
+    # topic_embeddingsClinical = load_embeddings('files_query1\\topic_embeddings_bioBERT.json')
+    # trial_embeddingsClinical = load_embeddings('files_query1\\trial_embeddings_bioBERT_q1.json')
 
     top_10_resultsClinical = compute_top_10_similarities(topic_embeddingsClinical, trial_embeddingsClinical)
 
@@ -179,14 +183,14 @@ if __name__ == "__main__":
         document_ids = [doc for doc, _ in trials]
 
         # Create an array of relevance scores for the retrieved documents
-        relevance_array = [relevance_scores.get(f"3_{doc_id}", 0) for doc_id in document_ids]
+        relevance_array = [relevance_scores.get(f"1_{doc_id}", 0) for doc_id in document_ids]
 
         # compute ndcg
         print(relevance_array)
         computeNDCG([relevance_array])
 
-    topic_embeddings = load_embeddings('files_query3\\topic_embeddings_BERT.json')
-    trial_embeddings = load_embeddings('files_query3\\trial_embeddings_BERT_q3.json')
+    topic_embeddings = load_embeddings('files_query1\\topic_embeddings_BERT.json')
+    trial_embeddings = load_embeddings('files_query1\\trial_embeddings_BERT_q1.json')
 
     top_10_results = rerank(top_10_resultsClinical["topic_1"], trial_embeddings, topic_embeddings)
 
@@ -203,7 +207,7 @@ if __name__ == "__main__":
         document_ids = [doc for doc, _ in trials]
 
         # Create an array of relevance scores for the retrieved documents
-        relevance_array = [relevance_scores.get(f"3_{doc_id}", 0) for doc_id in document_ids]
+        relevance_array = [relevance_scores.get(f"1_{doc_id}", 0) for doc_id in document_ids]
 
         # compute ndcg
         print(relevance_array)

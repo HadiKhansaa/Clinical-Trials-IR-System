@@ -49,16 +49,16 @@ def create_bert_embeddings(text, tokenizer, model):
     return embeddings
 
 if __name__ == "__main__":
-    PATH_TO_TRIALS = 'trials_query3'
+    PATH_TO_TRIALS = 'trials_query10'
 
-    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-    model = BertModel.from_pretrained('bert-base-uncased')
+    # tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+    # model = BertModel.from_pretrained('bert-base-uncased')
 
     # tokenizer = AutoTokenizer.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
     # model = AutoModel.from_pretrained('dmis-lab/biobert-base-cased-v1.2')
 
-    # tokenizer = AutoTokenizer.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
-    # model = AutoModel.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
+    tokenizer = AutoTokenizer.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
+    model = AutoModel.from_pretrained('emilyalsentzer/Bio_ClinicalBERT')
 
     trial_embeddings = {}
 
@@ -98,5 +98,5 @@ if __name__ == "__main__":
                 i += 1
 
     # Save embeddings to a JSON file
-    with open('files_query3\\trial_embeddings_BERT_q3.json', 'w') as f:
+    with open('files_query10\\trial_embeddings_Clinical_q10.json', 'w') as f:
         json.dump(trial_embeddings, f)
