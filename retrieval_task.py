@@ -19,7 +19,7 @@ stemmer = PorterStemmer()
 
 #fuction to find trial and load it
 def find_trial(trial_id):
-    PATH_TO_TRIALS = 'trials_query3'
+    PATH_TO_TRIALS = 'trials_query10'
     for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
         if file[:-4] == trial_id:
             with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
@@ -80,11 +80,11 @@ if __name__ == "__main__":
     # Extract queries
     extracted_queries = extract_queries("topics.xml")
 
-    with open("files_query3\\IC_tfidf_index.json", 'r') as file:
+    with open("files_query10\\IC_tfidf_index.json", 'r') as file:
         i_index = json.load(file)
-    with open("files_query3\\EC_tfidf_index.json", 'r') as file:
+    with open("files_query10\\EC_tfidf_index.json", 'r') as file:
         e_index = json.load(file)
-    with open("files_query3\\TSM_tfidf_index.json", 'r') as file:
+    with open("files_query10\\TSM_tfidf_index.json", 'r') as file:
         d_index = json.load(file)
     
     for i,query in enumerate(extracted_queries):
@@ -110,7 +110,7 @@ if __name__ == "__main__":
             # Check if the trial is eligible for the topic
             if not is_eligible_for_trial(query, find_trial(trial_xml)):
                 # print(f"Trial {trial_id} is not eligible for topic {topic_id}")
-                trial_score-=0.1 #penalty
+                trial_score-=0.05 #penalty
                 # trial_score-=0.9 #penalty
             final_scores[trial_xml] = trial_score
 
@@ -131,7 +131,7 @@ if __name__ == "__main__":
         document_ids = [doc for doc, _ in sorted_scores[:10]]
 
         # Create an array of relevance scores for the retrieved documents
-        relevance_array = [relevance_scores.get(f"3_{doc_id}", 0) for doc_id in document_ids]
+        relevance_array = [relevance_scores.get(f"10_{doc_id}", 0) for doc_id in document_ids]
 
         # compute ndcg
         print(relevance_array)

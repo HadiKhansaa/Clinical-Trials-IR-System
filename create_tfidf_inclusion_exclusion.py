@@ -41,7 +41,7 @@ def extract_components(content):
     summary = summary_match.group(1) if summary_match else ''
     mesh_terms = ' '.join(mesh_match)
 
-    return inc_criteria, exc_criteria, f"{title} {desc} {summary} {mesh_terms}"
+    return inc_criteria, exc_criteria, f"{title} {summary} {mesh_terms}"
 
 def create_inverted_index(feature_names, tfidf_matrix, docs):
     index = {}
@@ -67,7 +67,6 @@ if __name__ == "__main__":
     title_desc_mesh = []
     doc_ids = []
 
-    # PATH_TO_TRIALS = 'trials/ClinicalTrials.2021-04-27.part1'
     PATH_TO_TRIALS = 'trials_query10'
 
 
