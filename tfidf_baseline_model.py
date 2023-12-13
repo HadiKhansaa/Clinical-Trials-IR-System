@@ -64,31 +64,33 @@ if __name__ == "__main__":
     trials_content = []
     doc_ids = []
 
-    PATH_TO_TRIALS = 'trials_query10'
+    for topic_id in range(1,11):
 
+        PATH_TO_TRIALS = f'trials_query{topic_id}'
+        print("proccesing topic: ",topic_id)
 
-    i = 1
-    # Iterate over folders and files
-    for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
-        with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
-            if file.endswith('.xml'):
-                try:
-                    content = f.read()
-                except:
-                    continue
-                content = extract_components(content)
-                if content !='':
-                    trials_content.append(content)
-                doc_ids.append(file[:-4])  # Assuming file names are the document IDs
-                print(f"Processed {i} files")  # Print progress
-                i += 1
+        i = 1
+        # Iterate over folders and files
+        for file in os.listdir(os.path.join(PATH_TO_TRIALS)):
+            with open(os.path.join(PATH_TO_TRIALS, file), 'r') as f:
+                if file.endswith('.xml'):
+                    try:
+                        content = f.read()
+                    except:
+                        continue
+                    # content = extract_components(content)
+                    if content !='':
+                        trials_content.append(content)
+                    doc_ids.append(file[:-4])  # Assuming file names are the document IDs
+                    print(f"Processed {i} files")  # Print progress
+                    i += 1
 
-    # Fit and transform the texts
-    tfidf_content = vectorizer_index.fit_transform(trials_content)
+        # Fit and transform the texts
+        tfidf_content = vectorizer_index.fit_transform(trials_content)
 
-    # Create inverted indexes
-    inverted_index = create_inverted_index(vectorizer_index.get_feature_names_out(), tfidf_content, doc_ids)
+        # Create inverted indexes
+        inverted_index = create_inverted_index(vectorizer_index.get_feature_names_out(), tfidf_content, doc_ids)
 
-    # Save to JSON files
-    with open('files_query10\\baseline_tfidf_index.json', 'w') as f:
-        json.dump(inverted_index, f)
+        # Save to JSON files
+        with open(f'files_query{topic_id}\\baseline_tfidf_index.json', 'w') as f:
+            json.dump(inverted_index, f)

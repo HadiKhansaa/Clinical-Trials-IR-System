@@ -26,6 +26,8 @@ def computeNDCG(relevance_scores):
 
     # Output NDCG@5 for each query
     for query, score in ndcg_scores.items():
-        print(f"NDCG@10 for '{i}': {score:.3f}")
+        print(f"NDCG@10 for '{query}': {score:.3f}")
+    return ndcg_scores
 
-# computeNDCG([[1, 0, 0, 0, 0, 1, 0, 0, 0, 0]])
+# computeNDCG([[1, 0, 0, 0, 0, 1, 0, 0, 0, 0],
+#              [0 ,2 ,0 ,1 ,0 ,1 ,0 ,1 ,0 ,1]])
